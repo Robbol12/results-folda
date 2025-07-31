@@ -1,0 +1,19 @@
+[TSLA_Q1_2023] Did Tesla deliver on its construction and production targets for Giga Shanghai, Giga Berlin, and Giga Texas between 2022 and 2023?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #25]  It's a great product, and we're completing the installation of the volume **production** line at ****Giga** **Texas****, and we're anticipating having delivery event, a great delivery event probably in Q3.
+2. [Sentence #38]  And then we additionally announced the start of a new Mega factory in **Shanghai**.
+3. [Sentence #539]  First question, you're ramping supply at Austin and **Berlin**.
+4. [Sentence #550]  And then maybe you could just remind us of what the margin profile of Austin and **Berlin** will look like versus **Shanghai** once you get the vertical integration benefits in place?
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #25]  (Similarity: 1.085) It's a great product, and we're completing the installation of the volume **production** line at ****Giga** **Texas****, and we're anticipating having delivery event, a great delivery event probably in Q3.
+2. [Sentence #550]  (Similarity: 0.648) And then maybe you could just remind us of what the margin profile of Austin and **Berlin** will look like versus **Shanghai** once you get the vertical integration benefits in place?
+3. [Sentence #38]  (Similarity: 0.611) And then we additionally announced the start of a new Mega factory in **Shanghai**.
+4. [Sentence #539]  (Similarity: 0.602) First question, you're ramping supply at Austin and **Berlin**.
+
+Total similarity-top evidence sentences: 4
+
+-----

@@ -1,0 +1,90 @@
+[TSLA_Q1_2023] Did Tesla deliver on its construction and production targets for Giga Shanghai, Giga Berlin, and Giga Texas between 2022 and 2023?
+
+1. [Sentence #25] [SCALE ACHIEVED]
+     And while we reduced prices considerably in early Q1, it's worth noting that our operating margin remains among the best in the industry.
+     We've taken a view that pushing for higher volumes and a larger fleet is the right choice here versus a lower volume and higher margin.
+     However, we expect our vehicles, over time, will be able to generate significant profit through autonomy.
+     So we do believe we're like laying the groundwork here, and then it's better to ship a large number of cars at a lower margin, and subsequently, harvest that margin in the future as we perfect autonomy.
+     This is an extremely important point.
+     Let's see.
+     Regarding the Cybertruck, we continue to build Alpha versions of the Cybertruck on our pilot line for testing purposes.
+>>> It's a great product, and we're completing the installation of the volume production line at Giga Texas, and we're anticipating having delivery event, a great delivery event probably in Q3.
+     As with all new products, it will follow an S curve, so production starts out slow and then accelerates.
+     So the Cybertruck is no different.
+     So it's -- there's [Indiscernible] amount of demand for the product, obviously.
+     And it is my view, a fantastic product, a hall of famer.
+     But as with all new products, it takes time to get the manufacturing line going.
+     And this is really a very radical product.
+     It's not made in the way that other cars are made.
+-----
+2. [Sentence #550] [PLAN]
+     Elon Musk
+
+So that is -- yes, I mean, there could be like obviously a macro shock that is so severe that people just stop buying cars for some reason.
+     But in the absence of that, we will continue to grow output at a rapid clip.
+     Dan Levy
+
+Great.
+     Thank you.
+     And then just on the margins associated with Austin and Berlin.
+     You mentioned Austin want to have the margin drag until you reach intended volumes.
+     I don't know if you can disclose what those volumes are.
+>>> And then maybe you could just remind us of what the margin profile of Austin and Berlin will look like versus Shanghai once you get the vertical integration benefits in place?
+     Elon Musk
+
+Well, probably one have be quite as good as Shanghai.
+     Shanhai is hard to -- has a very efficient cost structures, obviously, our lowest cost structure in the world.
+     But we do expect to be -- make significant improvements in Austin and Berlin and continue to make improvements in Fremont as well.
+     So...
+
+Roshan Thomas
+
+For making improvements in North America & Berlin cost structures, we've increased -- this is Roshan by the way.
+     We increased our localization efforts strategically.
+     So that will then drive down our days on-hand requirements reducing tied up working capital.
+     We've made 10% quarter-over-quarter improvement in days on-hand.
+-----
+3. [Sentence #38] [PILOT]
+     And this is really a very radical product.
+     It's not made in the way that other cars are made.
+     So with regard to Megapack, we're making great progress.
+     Our energy storage deployment reached nearly 4 gigawatt hours in Q1.
+     This is, by far, the strongest quarter ever.
+     And this growth was achieved thanks to the ongoing ramp at our Mega factory in Lathrop, California.
+     There's still some way to go to reach the [Indiscernible] rate of 40 gigawatt hours per year.
+>>> And then we additionally announced the start of a new Mega factory in Shanghai.
+     So we're -- as we've expected, the stationary storage growth actually will significantly exceed the vehicle growth.
+     Regarding Autopilot and Full Self-Driving, we've now crossed over 150 million miles driven by Full Self-Driving beta, and this number is growing exponentially.
+     We're -- I mean, this is a data advantage that really no one else has.
+     Those who understand AI will understand the importance of data -- of training data and how fundamental that is to achieving an incredible outcome.
+     So, yes, so we're also very focused on improving our neural net training capabilities as is one of the main limiting factors of achieving full autonomy.
+     So, we're continuing to simultaneously make significant purchases of NVIDIA GPUs and also putting a lot of effort into Dojo, which we believe has the potential for an order of magnitude improvement in the cost of training.
+     And it also -- Dojo also has the potential to become a sellable service that we would offer to other companies in the same way that Amazon Web Services offers web services, even though it started out as a bookstore.
+-----
+4. [Sentence #539] [PLAN]
+     So we're not out to destroy competitors or anything like that.
+     We're trying to help competitors, frankly, in any way we can.
+     Martin Viecha
+
+Thank you.
+     Let's go to Dan Levy from Barclays.
+     Dan Levy
+
+Hi.
+     Good evening.
+     Thank you.
+>>> First question, you're ramping supply at Austin and Berlin.
+     So I wanted to understand just how critical it is to further increase volume at those plants just to get the vertical integration benefits in the face of the market with some demand questions.
+     And just broadly, should we -- I mean, historically, you've been operating at the pace at which your supply allows you to produce as opposed to gauging to demand.
+     Should we generally expect that you're going to continue to produce at your -- whatever the max capacity that you're allowed within your supply constraints, regardless of what the broader economic environment is just to continue to get that volume out there?
+     Elon Musk
+
+So that is -- yes, I mean, there could be like obviously a macro shock that is so severe that people just stop buying cars for some reason.
+     But in the absence of that, we will continue to grow output at a rapid clip.
+     Dan Levy
+
+Great.
+     Thank you.
+-----
+
+Total context windows: 4

@@ -1,0 +1,57 @@
+[Year Q1] Did Tesla deliver on its construction and production targets for Giga Shanghai, Giga Berlin, and Giga Texas between 2022 and 2023?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #29]  (TSLA_Q1_2022) Note that commissioning costs for our factories are in R&D as **Berlin** started **production** in late March and Austin in early April.
+2. [Sentence #54]  (TSLA_Q1_2022) Obviously, we ramped **production**, as you will know, with ****Giga** **Berlin**** and ****Giga** **Texas**** in the past few months.
+3. [Sentence #59]  (TSLA_Q1_2022) So, we’re also working on a new vehicle that I alluded to at the ****Giga** **Texas**** opening, which is a dedicated robotaxi.
+4. [Sentence #102]  (TSLA_Q1_2022) The second question is, how much of an impact will the **production** shutdown in **Shanghai** have in Q2?
+5. [Sentence #106]  (TSLA_Q1_2022) But Tesla **Shanghai** -- ****Giga** **Shanghai**** is coming back with a vengeance.
+6. [Sentence #107]  (TSLA_Q1_2022) So, I think notwithstanding new issues that arise, I think we will see record output per week from ****Giga** **Shanghai**** this quarter, albeit we are missing a couple of weeks.
+7. [Sentence #113]  (TSLA_Q1_2022) It’s important for new factories to be focused on -- and have the least amount of complexity and variation, which is why ****Giga** **Berlin**** and ****Giga** **Texas**** are focused on the Model Y. It’s -- from the point in which you have a factory complete and you’re making a small number of units to the point where it’s producing high-quality vehicles in volume is sort of 9 to 12 months from start of **production**.
+8. [Sentence #226]  (TSLA_Q1_2022) But as we build newer factories or vehicles, for example, ****Giga** **Texas**** here, where we are today, we said was all of its non-yielded or scrap aluminum from the stamping shop directly into the casting shop.
+9. [Sentence #241]  (TSLA_Q1_2022) At what rate do you expect **Berlin** and Austin to ramp relative to **Shanghai**?
+10. [Sentence #243]  (TSLA_Q1_2022) Elon Musk
+
+Ramp **production** faster than **Shanghai** because we have learned a lot.
+11. [Sentence #246]  (TSLA_Q1_2022) And so, we don’t want to get complacent or entitled, but this should be a faster ramp because we have learned more, and we have done a lot to simplify the **production** prices of Model Y that should lead us to a faster ramp within **Texas** and **Berlin**.
+12. [Sentence #263]  (TSLA_Q1_2022) And maybe the last question from investors is, what is the current run rate of 4680 cell **production** at Fremont and at ****Giga** **Texas****?
+13. [Sentence #264]  (TSLA_Q1_2022) What do you expect run rates of 4680 to be in Fremont and the ****Giga** **Texas**** or **Berlin** at the end of the year?
+14. [Sentence #268]  (TSLA_Q1_2022) We also have, just as a risk mitigation, 2170 nonstructural pack capability in -- here at ****Giga** **Texas**** as well.
+15. [Sentence #410]  (TSLA_Q1_2022) Will we have any **production** of vehicles in that factory, or all the future **production** will happen in **Giga** Austin?
+16. [Sentence #430]  (TSLA_Q1_2022) There’s a lot of room for expansion there, and we do expect to increase output from Nevada, but by far, the biggest increase in output will be from ****Giga** **Texas****.
+17. [Sentence #444]  (TSLA_Q1_2022) But all indications are that we are -- our ****Giga** **Shanghai**** is back in **production** at fairly high levels already and so are our suppliers.
+18. [Sentence #582]  (TSLA_Q1_2023) It's a great product, and we're completing the installation of the volume **production** line at ****Giga** **Texas****, and we're anticipating having delivery event, a great delivery event probably in Q3.
+19. [Sentence #595]  (TSLA_Q1_2023) And then we additionally announced the start of a new Mega factory in **Shanghai**.
+20. [Sentence #1096]  (TSLA_Q1_2023) First question, you're ramping supply at Austin and **Berlin**.
+21. [Sentence #1107]  (TSLA_Q1_2023) And then maybe you could just remind us of what the margin profile of Austin and **Berlin** will look like versus **Shanghai** once you get the vertical integration benefits in place?
+
+Total transcript-order evidence sentences: 21
+
+--- Evidence by Similarity ---
+1. [Sentence #54]  (TSLA_Q1_2022) (Similarity: 1.601) Obviously, we ramped **production**, as you will know, with ****Giga** **Berlin**** and ****Giga** **Texas**** in the past few months.
+2. [Sentence #113]  (TSLA_Q1_2022) (Similarity: 1.485) It’s important for new factories to be focused on -- and have the least amount of complexity and variation, which is why ****Giga** **Berlin**** and ****Giga** **Texas**** are focused on the Model Y. It’s -- from the point in which you have a factory complete and you’re making a small number of units to the point where it’s producing high-quality vehicles in volume is sort of 9 to 12 months from start of **production**.
+3. [Sentence #444]  (TSLA_Q1_2022) (Similarity: 1.148) But all indications are that we are -- our ****Giga** **Shanghai**** is back in **production** at fairly high levels already and so are our suppliers.
+4. [Sentence #106]  (TSLA_Q1_2022) (Similarity: 1.113) But Tesla **Shanghai** -- ****Giga** **Shanghai**** is coming back with a vengeance.
+5. [Sentence #582]  (TSLA_Q1_2023) (Similarity: 1.085) It's a great product, and we're completing the installation of the volume **production** line at ****Giga** **Texas****, and we're anticipating having delivery event, a great delivery event probably in Q3.
+6. [Sentence #263]  (TSLA_Q1_2022) (Similarity: 1.079) And maybe the last question from investors is, what is the current run rate of 4680 cell **production** at Fremont and at ****Giga** **Texas****?
+7. [Sentence #264]  (TSLA_Q1_2022) (Similarity: 1.044) What do you expect run rates of 4680 to be in Fremont and the ****Giga** **Texas**** or **Berlin** at the end of the year?
+8. [Sentence #410]  (TSLA_Q1_2022) (Similarity: 0.917) Will we have any **production** of vehicles in that factory, or all the future **production** will happen in **Giga** Austin?
+9. [Sentence #59]  (TSLA_Q1_2022) (Similarity: 0.910) So, we’re also working on a new vehicle that I alluded to at the ****Giga** **Texas**** opening, which is a dedicated robotaxi.
+10. [Sentence #430]  (TSLA_Q1_2022) (Similarity: 0.899) There’s a lot of room for expansion there, and we do expect to increase output from Nevada, but by far, the biggest increase in output will be from ****Giga** **Texas****.
+11. [Sentence #107]  (TSLA_Q1_2022) (Similarity: 0.866) So, I think notwithstanding new issues that arise, I think we will see record output per week from ****Giga** **Shanghai**** this quarter, albeit we are missing a couple of weeks.
+12. [Sentence #226]  (TSLA_Q1_2022) (Similarity: 0.822) But as we build newer factories or vehicles, for example, ****Giga** **Texas**** here, where we are today, we said was all of its non-yielded or scrap aluminum from the stamping shop directly into the casting shop.
+13. [Sentence #29]  (TSLA_Q1_2022) (Similarity: 0.778) Note that commissioning costs for our factories are in R&D as **Berlin** started **production** in late March and Austin in early April.
+14. [Sentence #268]  (TSLA_Q1_2022) (Similarity: 0.769) We also have, just as a risk mitigation, 2170 nonstructural pack capability in -- here at ****Giga** **Texas**** as well.
+15. [Sentence #246]  (TSLA_Q1_2022) (Similarity: 0.755) And so, we don’t want to get complacent or entitled, but this should be a faster ramp because we have learned more, and we have done a lot to simplify the **production** prices of Model Y that should lead us to a faster ramp within **Texas** and **Berlin**.
+16. [Sentence #241]  (TSLA_Q1_2022) (Similarity: 0.709) At what rate do you expect **Berlin** and Austin to ramp relative to **Shanghai**?
+17. [Sentence #102]  (TSLA_Q1_2022) (Similarity: 0.691) The second question is, how much of an impact will the **production** shutdown in **Shanghai** have in Q2?
+18. [Sentence #243]  (TSLA_Q1_2022) (Similarity: 0.672) Elon Musk
+
+Ramp **production** faster than **Shanghai** because we have learned a lot.
+19. [Sentence #1107]  (TSLA_Q1_2023) (Similarity: 0.648) And then maybe you could just remind us of what the margin profile of Austin and **Berlin** will look like versus **Shanghai** once you get the vertical integration benefits in place?
+20. [Sentence #595]  (TSLA_Q1_2023) (Similarity: 0.611) And then we additionally announced the start of a new Mega factory in **Shanghai**.
+21. [Sentence #1096]  (TSLA_Q1_2023) (Similarity: 0.602) First question, you're ramping supply at Austin and **Berlin**.
+
+Total similarity-top evidence sentences: 21
+
+-----

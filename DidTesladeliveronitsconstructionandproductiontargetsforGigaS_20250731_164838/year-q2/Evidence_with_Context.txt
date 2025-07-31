@@ -1,0 +1,292 @@
+[Year Q2] Did Tesla deliver on its construction and production targets for Giga Shanghai, Giga Berlin, and Giga Texas between 2022 and 2023?
+
+1. [Sentence #254, TSLA_Q2_2022] [PLAN]
+     But we’ve got a team of about 120 people in our software AI group that are extremely talented.
+     And I think we will have – I’m highly confident we will solve full self-driving and it still seems to be this year.
+     I know people are like says that.
+     But it does seem to be epic.
+     It does seem as though we are converging on solving full self-driving this year.
+     Martin Viecha
+
+Thank you.
+     The next question is, how is the 4680 ramp going?
+>>> And is Giga Texas producing cells yet?
+     Andrew Baglino
+
+Yes.
+     So we are making progress on 4680.
+     But right now, as Elon mentioned, we are leveraging supplier cells, which we have in sufficient quantity to ramp Texas and Berlin.
+     We expect to ramp total 4680 production to exceed 1,000 per week by the end of the year, hopefully before – well before.
+     In Q2, at Kato, we fully automated [indiscernible] for the drying of electrode tool there, unlocking major increases in production and improvements in yields.
+     Since March because of that, Kato output has grown about 35% month-over-month each month since, and yields throughout the factory are already at targets in most areas and trending in that direction and a few others.
+     We did feed learnings from Fremont cell and pack lines to Texas and Berlin there, a carbon copy.
+-----
+2. [Sentence #20, TSLA_Q2_2022] [PILOT]
+     Most importantly, in June, we achieved production records in both Fremont and Shanghai.
+     And as a result, we have the potential for a record-breaking second half of the year.
+     I do want to emphasize this was obviously subject to force majeure, things outside of our control.
+     The past few years have been quite a few force majeures and it’s been kind of supply chain hell for several years.
+     Credit to our awesome Tesla supply chain team for overcoming entirely difficult challenges and huge thanks to the Tesla Shanghai factory team who sacrificed a lot to get the factory back up and running in June and achieve a record output.
+     So, also making good progress with production ramp with Berlin.
+     We achieved an important milestone of 1,000 cars a week in June.
+>>> And we are expecting – sorry, our Giga Texas to exceed the 1,000 vehicle per week milestone, hopefully in the next few months.
+     To be clear, we are currently making the cars with the 2170 cells and Drew Baglino will address some of the 4680 questions later in this call.
+     But it is worth emphasizing that we have enough 2170 cells to satisfy all vehicle production for the remainder of the year.
+     So we are not dependent on 4680.
+     4680 will be important next year but it is not important for this year.
+     That said we have installed the second generation of manufacturing equipment for 4680 cells in Texas.
+     And even at our established factories like Fremont and Shanghai, we continue to expand capacity.
+     Regarding Autopilot, we have now deployed our FSD beta with City Streets driving capability to over 100,000 owners.
+-----
+3. [Sentence #72, TSLA_Q2_2022] [UNCERTAIN]
+     Martin Viecha
+
+Thank you very much.
+     And Zach has some opening remarks as well.
+     Zachary Kirkhorn
+
+Yes.
+     Thanks, Martin.
+     I want to start by congratulating the Tesla team on an excellent execution during the second quarter.
+     Although our production volume reduced sequentially due to COVID-related shutdowns in Shanghai, we made substantial progress in nearly every area of the business, and in particular, our global vehicle production rate as we exited the quarter.
+     Our Fremont factory, supported by our Reno team, reached new production records.
+>>> The Shanghai factory resumed full production and our new factories in Austin and Berlin are progressing well through their initial ramps.
+     Additionally, our energy business achieved record gross profit with the highest solar volumes in many years.
+     I want to personally thank the entire Tesla team, as I know many of you are listening.
+     You have embodied a remarkable and relentless pursuit of excellence in support of our mission.
+     I also want to thank our suppliers for their support during another complicated quarter.
+     On GAAP automotive gross margin, it declined sequentially to 27.9%.
+     The temporary decline in Shanghai production volume meaningfully impacted margin, including idle capacity and factory restart costs and also had implications on the mix of regional deliveries.
+     Additionally, as discussed on previous calls, we are working through the ramp inefficiencies of our new factories, which are progressing well, but have had an impact on margin as those factories come online.
+-----
+4. [Sentence #269, TSLA_Q2_2022] [PLAN]
+     Cell design was revved to unlock higher performance and manufacturing simplicity.
+     Manufacturing lines were further integrated and we in-sourced additional content.
+     For these reasons, there are some new ramp challenges to overcome in Texas and Berlin.
+     Specific to Texas last quarter, cell equipment was fully installed and commissioned and we produced our first commissioning car sets of cells through the end of the line.
+     Our target for Texas is to begin production this quarter and aim for Texas to be capable of exceeding Kato weekly output before the end of this year.
+     Martin Viecha
+
+Thank you very much.
+     The next question is on 4680 as well, but I think Drew has covered everything that was in the next question.
+>>> So the following question is with regards to the ramp of production in Austin and Berlin.
+     How is the situation with regards to supply of semiconductors, battery cells and other components?
+     How about cost inflation impacting profitability of these other plants?
+     Andrew Baglino
+
+I can take that.
+     So Tesla procures about 1,600 unique pieces of silicon from 43 semiconductor companies.
+     So with a portfolio of that size, there are always challenges.
+     Things are more stable on the latest generation chips.
+     We still see some tightness in the older generation semiconductors, especially in the analog and mixed signal space.
+-----
+5. [Sentence #725, TSLA_Q2_2023] [UNCERTAIN]
+     Our supply chain team has done a terrific job in partnership with another – a bunch of other companies to put in place some long-term agreements here, but we do have some exposure that moves up and down.
+     We’re also seeing benefits in aluminum and steel, which I think is great.
+     Not as large as the lithium impacts, but they contribute nonetheless.
+     So, if we add up the total impact of this in Q2 relative to prior quarter, it’s about the same size and magnitude as the IRA benefits that we also received.
+     Just to put this in context, as you look at COGS per unit sequentially from Q1 to Q2, I think there’s two things to keep in mind there.
+     The first is that our SX mix for deliveries increased quite a bit from Q1 to Q2.
+     So, as you think about fundamental cost reductions, it’s important to adjust for that.
+>>> And then secondly, as we continue to work on reducing our Austin and Berlin cost, which we did quite a bit of that from Q1 to Q2, these factories are still slightly above Model Y production costs elsewhere.
+     And in the quarter, our mix of Austin and Berlin related builds increased.
+     And so, that’s something to consider as you model out the impact on – from Q1 to Q2 in terms of COGS per unit.
+     I do want to ask Karn if there’s anything else on the commodity side or just more generally, you want to add here?
+     Karn Budhiraj
+
+Yes.
+     As you mentioned, Zach, we’ve naturally been a little bit hedged from the lithium position because of the long-term contracts we have in place.
+     But we have seen reduction in pricing across the board for all commodities that specifically go into batteries such as nickel, cobalt and graphite.
+     And the reductions in pricing translate into thousands of dollars when you look at it from a per-vehicle impact.
+-----
+6. [Sentence #18, TSLA_Q2_2022] [PLAN]
+     So, just as a Q2 recap, Q2 was a unique quarter for Tesla due to a prolonged shutdown of our Shanghai factory.
+     But in spite of all these challenges, it was one of the strongest quarters in our history.
+     Most importantly, in June, we achieved production records in both Fremont and Shanghai.
+     And as a result, we have the potential for a record-breaking second half of the year.
+     I do want to emphasize this was obviously subject to force majeure, things outside of our control.
+     The past few years have been quite a few force majeures and it’s been kind of supply chain hell for several years.
+     Credit to our awesome Tesla supply chain team for overcoming entirely difficult challenges and huge thanks to the Tesla Shanghai factory team who sacrificed a lot to get the factory back up and running in June and achieve a record output.
+>>> So, also making good progress with production ramp with Berlin.
+     We achieved an important milestone of 1,000 cars a week in June.
+     And we are expecting – sorry, our Giga Texas to exceed the 1,000 vehicle per week milestone, hopefully in the next few months.
+     To be clear, we are currently making the cars with the 2170 cells and Drew Baglino will address some of the 4680 questions later in this call.
+     But it is worth emphasizing that we have enough 2170 cells to satisfy all vehicle production for the remainder of the year.
+     So we are not dependent on 4680.
+     4680 will be important next year but it is not important for this year.
+     That said we have installed the second generation of manufacturing equipment for 4680 cells in Texas.
+-----
+7. [Sentence #257, TSLA_Q2_2022] [PLAN]
+     But it does seem to be epic.
+     It does seem as though we are converging on solving full self-driving this year.
+     Martin Viecha
+
+Thank you.
+     The next question is, how is the 4680 ramp going?
+     And is Giga Texas producing cells yet?
+     Andrew Baglino
+
+Yes.
+     So we are making progress on 4680.
+>>> But right now, as Elon mentioned, we are leveraging supplier cells, which we have in sufficient quantity to ramp Texas and Berlin.
+     We expect to ramp total 4680 production to exceed 1,000 per week by the end of the year, hopefully before – well before.
+     In Q2, at Kato, we fully automated [indiscernible] for the drying of electrode tool there, unlocking major increases in production and improvements in yields.
+     Since March because of that, Kato output has grown about 35% month-over-month each month since, and yields throughout the factory are already at targets in most areas and trending in that direction and a few others.
+     We did feed learnings from Fremont cell and pack lines to Texas and Berlin there, a carbon copy.
+     Cell design was revved to unlock higher performance and manufacturing simplicity.
+     Manufacturing lines were further integrated and we in-sourced additional content.
+     For these reasons, there are some new ramp challenges to overcome in Texas and Berlin.
+-----
+8. [Sentence #684, TSLA_Q2_2023] [PLAN]
+     So, congrats to the team for that.
+     Their focus on yield reduced our scrap bill by 40% quarter-over-quarter, and that resulted in a 25% reduction in cell COGS.
+     Here in Texas, we’re preparing to launch our Cybertruck cell, which is 10% higher energy density than current production.
+     That was accomplished through process and mechanical design optimization.
+     As we scale Cyber cell production through the end of the year and early next, we should be in a comfortable place on cost per cell.
+     Against our battery energy density targets, the Cyber cell is at our expectations on a like-for-like electrochemistry basis.
+     We’re yet to integrate silicon or in-house cathode production, both reviewed on Battery Day, which do bring significant further energy density and cost improvements, but that is a topic for another day.
+>>> Lastly, it is important to remember that most of what we focused on a Battery Day was the Tesla-engineered 4680 production system and the improvements we strove to achieve on equipment, factory density, capital cost and utility cost reduction, all of which we are realizing in our Texas scale up to date.
+     Martin Viecha
+
+Thank you very much.
+     The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the revenue model?
+     Given Tesla’s AI capabilities, how do you see the long-term mix between hardware margin and recurring software margin from Autobidder as this segment accelerates?
+     Unidentified Company Representative
+
+We can’t comment on future product road map, but I can provide a quick energy Q2 update.
+     Megapack continues to show strong demand globally with Lathrop ramping successfully to meet our contracted projects in 2023.
+     As stated last quarter, Megapack margins are in a reasonable place, in line with our target – vehicle target margins.
+     The second final assembly line at Lathrop is progressing on schedule, eventually doubling Lathrop capacity ahead of our full factory ramp in 2024.
+-----
+9. [Sentence #329, TSLA_Q2_2022] [PLAN]
+     Andrew Baglino
+
+Totally agree, yes.
+     Pierre Ferragu
+
+Okay.
+     Elon Musk
+
+I’d say we are highly confident of a good outcome.
+     It’s the exact counterpoint of that is perhaps is of some debate but the outcome is not.
+     Andrew Baglino
+
+Yes.
+     Specific to the dry process, we made a major advance this past quarter in Kato that the team is really excited about, and congrats to the team for achieving that.
+     Elon Musk
+
+But I should also emphasize that it is not as though Tesla intends to displace our suppliers of battery cells.
+>>> The Tesla battery cell production is in addition to what our suppliers can do.
+     And we want our suppliers to grow their battery output as fast as they possibly can, and that goes for the entire supply chain.
+     The fundamental rate limiter for both transitioning to sustainable energy is how fast can you grow with the amount battery output per year?
+     This is the fundamental rate limiter for transition to sustainability because you need the batteries for two of the pillars of sustainability, the stationary storage and for vehicles.
+     So yes.
+     Andrew Baglino
+
+Yes, I just want to stress that a lot of these higher energy density technologies are not necessarily scalable.
+     I mean, most of them are not scalable from what I’ve seen.
+     And so like focusing on them is a distraction from the mission, like it really is how do we scale as fast as possible?
+-----
+10. [Sentence #692, TSLA_Q2_2023] [PLAN]
+     Martin Viecha
+
+Thank you very much.
+     The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the revenue model?
+     Given Tesla’s AI capabilities, how do you see the long-term mix between hardware margin and recurring software margin from Autobidder as this segment accelerates?
+     Unidentified Company Representative
+
+We can’t comment on future product road map, but I can provide a quick energy Q2 update.
+     Megapack continues to show strong demand globally with Lathrop ramping successfully to meet our contracted projects in 2023.
+     As stated last quarter, Megapack margins are in a reasonable place, in line with our target – vehicle target margins.
+     The second final assembly line at Lathrop is progressing on schedule, eventually doubling Lathrop capacity ahead of our full factory ramp in 2024.
+>>> We have several exciting large projects in construction or nearing completion, including the KES project in Hawaii, the Riverina project in Australia, several products in California and one here at Gigafactory, Texas that we’ll tour today, actually.
+     We want to thank our customers, utilities and grid operators for trusting us with these projects.
+     On the Autobidder question, we continue to grow Autobidder contracts in wholesale markets like Australia, Texas, UK and California with over 6 gigawatt hours under Tesla’s dispatch next year.
+     In the UK, our projects performed best in the industry in Q2.
+     Autobidder does have software margins and is an enabler for hardware sales, but it’s a relatively small contributor to revenues, given how much deployment growth on the Megapack hardware side is occurring.
+     It’s important to remember that these large projects – these large capital projects have lifetimes of 20 years of recurring revenues on an annualized basis relative to upfront CapEx are small.
+     On the residential side, we have some fun things happening.
+     We recently surpassed 0.5 million Powerwalls installed.
+-----
+11. [Sentence #17, TSLA_Q2_2022] [PLAN]
+     Elon Musk
+
+Thank you, Martin.
+     So, just as a Q2 recap, Q2 was a unique quarter for Tesla due to a prolonged shutdown of our Shanghai factory.
+     But in spite of all these challenges, it was one of the strongest quarters in our history.
+     Most importantly, in June, we achieved production records in both Fremont and Shanghai.
+     And as a result, we have the potential for a record-breaking second half of the year.
+     I do want to emphasize this was obviously subject to force majeure, things outside of our control.
+     The past few years have been quite a few force majeures and it’s been kind of supply chain hell for several years.
+>>> Credit to our awesome Tesla supply chain team for overcoming entirely difficult challenges and huge thanks to the Tesla Shanghai factory team who sacrificed a lot to get the factory back up and running in June and achieve a record output.
+     So, also making good progress with production ramp with Berlin.
+     We achieved an important milestone of 1,000 cars a week in June.
+     And we are expecting – sorry, our Giga Texas to exceed the 1,000 vehicle per week milestone, hopefully in the next few months.
+     To be clear, we are currently making the cars with the 2170 cells and Drew Baglino will address some of the 4680 questions later in this call.
+     But it is worth emphasizing that we have enough 2170 cells to satisfy all vehicle production for the remainder of the year.
+     So we are not dependent on 4680.
+     4680 will be important next year but it is not important for this year.
+-----
+12. [Sentence #70, TSLA_Q2_2022] [UNCERTAIN]
+     Super appreciate it.
+     Thank you.
+     Martin Viecha
+
+Thank you very much.
+     And Zach has some opening remarks as well.
+     Zachary Kirkhorn
+
+Yes.
+     Thanks, Martin.
+     I want to start by congratulating the Tesla team on an excellent execution during the second quarter.
+>>> Although our production volume reduced sequentially due to COVID-related shutdowns in Shanghai, we made substantial progress in nearly every area of the business, and in particular, our global vehicle production rate as we exited the quarter.
+     Our Fremont factory, supported by our Reno team, reached new production records.
+     The Shanghai factory resumed full production and our new factories in Austin and Berlin are progressing well through their initial ramps.
+     Additionally, our energy business achieved record gross profit with the highest solar volumes in many years.
+     I want to personally thank the entire Tesla team, as I know many of you are listening.
+     You have embodied a remarkable and relentless pursuit of excellence in support of our mission.
+     I also want to thank our suppliers for their support during another complicated quarter.
+     On GAAP automotive gross margin, it declined sequentially to 27.9%.
+-----
+13. [Sentence #679, TSLA_Q2_2023] [PLAN]
+     How far are you from the specs you laid out on Battery Day?
+     When do you expect to achieve what you laid out on Battery Day?
+     Unidentified Company Representative
+
+Yes.
+     First, I’ll just start with a little bit of a production update.
+     So, in Texas, 4680 cell production increased 80% Q2 over Q1, and the team surpassed 10 million production cells produced here in Texas.
+     So, congrats to the team for that.
+     Their focus on yield reduced our scrap bill by 40% quarter-over-quarter, and that resulted in a 25% reduction in cell COGS.
+>>> Here in Texas, we’re preparing to launch our Cybertruck cell, which is 10% higher energy density than current production.
+     That was accomplished through process and mechanical design optimization.
+     As we scale Cyber cell production through the end of the year and early next, we should be in a comfortable place on cost per cell.
+     Against our battery energy density targets, the Cyber cell is at our expectations on a like-for-like electrochemistry basis.
+     We’re yet to integrate silicon or in-house cathode production, both reviewed on Battery Day, which do bring significant further energy density and cost improvements, but that is a topic for another day.
+     Lastly, it is important to remember that most of what we focused on a Battery Day was the Tesla-engineered 4680 production system and the improvements we strove to achieve on equipment, factory density, capital cost and utility cost reduction, all of which we are realizing in our Texas scale up to date.
+     Martin Viecha
+
+Thank you very much.
+     The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the revenue model?
+-----
+14. [Sentence #676, TSLA_Q2_2023] [PLAN]
+     The first question on licensing FSD we’ve already answered.
+     So, let’s go to the second one.
+     The second question is, what is the status of 4680 cells?
+     How far are you from the specs you laid out on Battery Day?
+     When do you expect to achieve what you laid out on Battery Day?
+     Unidentified Company Representative
+
+Yes.
+     First, I’ll just start with a little bit of a production update.
+>>> So, in Texas, 4680 cell production increased 80% Q2 over Q1, and the team surpassed 10 million production cells produced here in Texas.
+     So, congrats to the team for that.
+     Their focus on yield reduced our scrap bill by 40% quarter-over-quarter, and that resulted in a 25% reduction in cell COGS.
+     Here in Texas, we’re preparing to launch our Cybertruck cell, which is 10% higher energy density than current production.
+     That was accomplished through process and mechanical design optimization.
+     As we scale Cyber cell production through the end of the year and early next, we should be in a comfortable place on cost per cell.
+     Against our battery energy density targets, the Cyber cell is at our expectations on a like-for-like electrochemistry basis.
+     We’re yet to integrate silicon or in-house cathode production, both reviewed on Battery Day, which do bring significant further energy density and cost improvements, but that is a topic for another day.
+-----
+
+Total context windows: 14

@@ -1,0 +1,39 @@
+[Year Q2] Did Tesla deliver on its construction and production targets for Giga Shanghai, Giga Berlin, and Giga Texas between 2022 and 2023?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #17]  (TSLA_Q2_2022) Credit to our awesome Tesla supply chain team for overcoming entirely difficult challenges and huge thanks to the Tesla **Shanghai** factory team who sacrificed a lot to get the factory back up and running in June and achieve a record output.
+2. [Sentence #18]  (TSLA_Q2_2022) So, also making good progress with **production** ramp with **Berlin**.
+3. [Sentence #20]  (TSLA_Q2_2022) And we are expecting – sorry, our ****Giga** **Texas**** to exceed the 1,000 vehicle per week milestone, hopefully in the next few months.
+4. [Sentence #70]  (TSLA_Q2_2022) Although our **production** volume reduced sequentially due to COVID-related shutdowns in **Shanghai**, we made substantial progress in nearly every area of the business, and in particular, our global vehicle **production** rate as we exited the quarter.
+5. [Sentence #72]  (TSLA_Q2_2022) The **Shanghai** factory resumed full **production** and our new factories in Austin and **Berlin** are progressing well through their initial ramps.
+6. [Sentence #254]  (TSLA_Q2_2022) And is ****Giga** **Texas**** producing cells yet?
+7. [Sentence #257]  (TSLA_Q2_2022) But right now, as Elon mentioned, we are leveraging supplier cells, which we have in sufficient quantity to ramp **Texas** and **Berlin**.
+8. [Sentence #269]  (TSLA_Q2_2022) So the following question is with regards to the ramp of **production** in Austin and **Berlin**.
+9. [Sentence #329]  (TSLA_Q2_2022) The Tesla battery cell **production** is in addition to what our suppliers can do.
+10. [Sentence #676]  (TSLA_Q2_2023) So, in **Texas**, 4680 cell **production** increased 80% Q2 over Q1, and the team surpassed 10 million **production** cells produced here in **Texas**.
+11. [Sentence #679]  (TSLA_Q2_2023) Here in **Texas**, we’re preparing to launch our Cybertruck cell, which is 10% higher energy density than current **production**.
+12. [Sentence #684]  (TSLA_Q2_2023) Lastly, it is important to remember that most of what we focused on a Battery Day was the Tesla-engineered 4680 **production** system and the improvements we strove to achieve on equipment, factory density, capital cost and utility cost reduction, all of which we are realizing in our **Texas** scale up to date.
+13. [Sentence #692]  (TSLA_Q2_2023) We have several exciting large projects in **construction** or nearing completion, including the KES project in Hawaii, the Riverina project in Australia, several products in California and one here at Gigafactory, **Texas** that we’ll tour today, actually.
+14. [Sentence #725]  (TSLA_Q2_2023) And then secondly, as we continue to work on reducing our Austin and **Berlin** cost, which we did quite a bit of that from Q1 to Q2, these factories are still slightly above Model Y **production** costs elsewhere.
+
+Total transcript-order evidence sentences: 14
+
+--- Evidence by Similarity ---
+1. [Sentence #254]  (TSLA_Q2_2022) (Similarity: 1.040) And is ****Giga** **Texas**** producing cells yet?
+2. [Sentence #20]  (TSLA_Q2_2022) (Similarity: 0.947) And we are expecting – sorry, our ****Giga** **Texas**** to exceed the 1,000 vehicle per week milestone, hopefully in the next few months.
+3. [Sentence #72]  (TSLA_Q2_2022) (Similarity: 0.900) The **Shanghai** factory resumed full **production** and our new factories in Austin and **Berlin** are progressing well through their initial ramps.
+4. [Sentence #269]  (TSLA_Q2_2022) (Similarity: 0.766) So the following question is with regards to the ramp of **production** in Austin and **Berlin**.
+5. [Sentence #725]  (TSLA_Q2_2023) (Similarity: 0.723) And then secondly, as we continue to work on reducing our Austin and **Berlin** cost, which we did quite a bit of that from Q1 to Q2, these factories are still slightly above Model Y **production** costs elsewhere.
+6. [Sentence #18]  (TSLA_Q2_2022) (Similarity: 0.703) So, also making good progress with **production** ramp with **Berlin**.
+7. [Sentence #257]  (TSLA_Q2_2022) (Similarity: 0.665) But right now, as Elon mentioned, we are leveraging supplier cells, which we have in sufficient quantity to ramp **Texas** and **Berlin**.
+8. [Sentence #684]  (TSLA_Q2_2023) (Similarity: 0.661) Lastly, it is important to remember that most of what we focused on a Battery Day was the Tesla-engineered 4680 **production** system and the improvements we strove to achieve on equipment, factory density, capital cost and utility cost reduction, all of which we are realizing in our **Texas** scale up to date.
+9. [Sentence #329]  (TSLA_Q2_2022) (Similarity: 0.635) The Tesla battery cell **production** is in addition to what our suppliers can do.
+10. [Sentence #692]  (TSLA_Q2_2023) (Similarity: 0.623) We have several exciting large projects in **construction** or nearing completion, including the KES project in Hawaii, the Riverina project in Australia, several products in California and one here at Gigafactory, **Texas** that we’ll tour today, actually.
+11. [Sentence #17]  (TSLA_Q2_2022) (Similarity: 0.619) Credit to our awesome Tesla supply chain team for overcoming entirely difficult challenges and huge thanks to the Tesla **Shanghai** factory team who sacrificed a lot to get the factory back up and running in June and achieve a record output.
+12. [Sentence #70]  (TSLA_Q2_2022) (Similarity: 0.608) Although our **production** volume reduced sequentially due to COVID-related shutdowns in **Shanghai**, we made substantial progress in nearly every area of the business, and in particular, our global vehicle **production** rate as we exited the quarter.
+13. [Sentence #679]  (TSLA_Q2_2023) (Similarity: 0.607) Here in **Texas**, we’re preparing to launch our Cybertruck cell, which is 10% higher energy density than current **production**.
+14. [Sentence #676]  (TSLA_Q2_2023) (Similarity: 0.604) So, in **Texas**, 4680 cell **production** increased 80% Q2 over Q1, and the team surpassed 10 million **production** cells produced here in **Texas**.
+
+Total similarity-top evidence sentences: 14
+
+-----

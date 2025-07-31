@@ -1,0 +1,37 @@
+[TSLA_Q4_2022] Did Tesla deliver on its construction and production targets for Giga Shanghai, Giga Berlin, and Giga Texas between 2022 and 2023?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #35]  We're also making very good progress on cost control and we're seeing the cost **production** in **Berlin** and Austin drop commensurate with the growth in **production**, as you'd expect, so yeah.
+2. [Sentence #41]  Regarding batteries, **production** rate of 4680 cells reached 1,000 cars a week at the end of last year, and we're increasing capacity for 4680 cells by another 100 gigawatt-hours as announced at **Giga** Nevada yesterday.
+3. [Sentence #72]  Second, we are working through the early ramp of inefficiencies of our Austin and **Berlin** and in-house cell **production** factories.
+4. [Sentence #106]  The next investor question is, will Tesla be able to take full advantage of advanced manufacturing **production** credits for battery cells packs?
+5. [Sentence #173]  As far as where we stand in **Texas**, one of four lines are in **production**, with the remaining three in stages of commissioning and install.
+6. [Sentence #239]  Like just to emphasize on that, we've started installation of **production** equipment here in ****Giga** **Texas****, castings, GA, general assembly, body shops.
+7. [Sentence #245]  Martin Viecha
+
+Where will Tesla build the next Megapack factories?
+8. [Sentence #273]  And on the cost side, the numbers that we just saw from you, as you pointed out, were weighed down by the 4680 ramp, the **Berlin**, Austin, **Giga** castings, processes, not at rate.
+9. [Sentence #313]  Zachary Kirkhorn
+
+The Austin and **Berlin** ramp inefficiencies in 4680 will make a substantial amount of progress on that over the course of the year, and that's within Tesla's control.
+
+Total transcript-order evidence sentences: 9
+
+--- Evidence by Similarity ---
+1. [Sentence #239]  (Similarity: 1.017) Like just to emphasize on that, we've started installation of **production** equipment here in ****Giga** **Texas****, castings, GA, general assembly, body shops.
+2. [Sentence #35]  (Similarity: 0.702) We're also making very good progress on cost control and we're seeing the cost **production** in **Berlin** and Austin drop commensurate with the growth in **production**, as you'd expect, so yeah.
+3. [Sentence #72]  (Similarity: 0.695) Second, we are working through the early ramp of inefficiencies of our Austin and **Berlin** and in-house cell **production** factories.
+4. [Sentence #273]  (Similarity: 0.670) And on the cost side, the numbers that we just saw from you, as you pointed out, were weighed down by the 4680 ramp, the **Berlin**, Austin, **Giga** castings, processes, not at rate.
+5. [Sentence #313]  (Similarity: 0.661) Zachary Kirkhorn
+
+The Austin and **Berlin** ramp inefficiencies in 4680 will make a substantial amount of progress on that over the course of the year, and that's within Tesla's control.
+6. [Sentence #173]  (Similarity: 0.652) As far as where we stand in **Texas**, one of four lines are in **production**, with the remaining three in stages of commissioning and install.
+7. [Sentence #245]  (Similarity: 0.634) Martin Viecha
+
+Where will Tesla build the next Megapack factories?
+8. [Sentence #106]  (Similarity: 0.608) The next investor question is, will Tesla be able to take full advantage of advanced manufacturing **production** credits for battery cells packs?
+9. [Sentence #41]  (Similarity: 0.605) Regarding batteries, **production** rate of 4680 cells reached 1,000 cars a week at the end of last year, and we're increasing capacity for 4680 cells by another 100 gigawatt-hours as announced at **Giga** Nevada yesterday.
+
+Total similarity-top evidence sentences: 9
+
+-----

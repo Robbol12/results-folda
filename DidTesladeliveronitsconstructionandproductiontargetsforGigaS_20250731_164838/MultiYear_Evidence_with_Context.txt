@@ -1,0 +1,665 @@
+[Multi-Year Analysis] Did Tesla deliver on its construction and production targets for Giga Shanghai, Giga Berlin, and Giga Texas between 2022 and 2023?
+
+1. [Sentence #54, TSLA_Q1_2022] [PLAN]
+     This was despite a lot of chip shortages, many logistics challenges and an overall difficult quarter.
+     So, I’d really like to congratulate the Tesla team on achieving record profitability and output despite many, many difficult headwinds, and especially the Tesla China team in our Shanghai factory.
+     They really had significant challenges due to the COVID shutdown and nonetheless have been able to output a tremendous number of high-quality vehicles.
+     And we are already back up and running with the Shanghai factory.
+     So, as Zach said, we remain confident of a 50% growth in vehicle production in 2022 versus ‘21.
+     I think, we actually have a reasonable shot at a 60% increase over last year.
+     So, let’s see.
+>>> Obviously, we ramped production, as you will know, with Giga Berlin and Giga Texas in the past few months.
+     So, with two fantastic factories with great teams, and they are ramping rapidly.
+     Now, with new factories, the initial ramp always looks small, but it grows exponentially.
+     So, I have very high confidence in the teams of both factories.
+     And we expect to ramp those initially slowly, but like I said, growing exponentially with them achieving high volume by the end of this year.
+     So, we’re also working on a new vehicle that I alluded to at the Giga Texas opening, which is a dedicated robotaxi.
+     That’s highly optimized for autonomy, meaning it would not have steering wheel or pedals.
+     And there are a number of other innovations around it that I think are quite exciting.
+-----
+2. [Sentence #113, TSLA_Q1_2022] [PLAN]
+     But Tesla Shanghai -- Giga Shanghai is coming back with a vengeance.
+     So, I think notwithstanding new issues that arise, I think we will see record output per week from Giga Shanghai this quarter, albeit we are missing a couple of weeks.
+     So, that means the most likely vehicle production in Q2 will be similar to Q1, maybe slightly lower, but it’s also possible we may pull a rabbit out of the hat and be slightly higher.
+     But it’s really, call it, roughly on par.
+     But then, Q3 and Q4 will be substantially higher.
+     So, it seems likely that we’ll be able to produce over 1.5 million cars this year is my -- that’s my best guess.
+     And then, Model 3.
+>>> It’s important for new factories to be focused on -- and have the least amount of complexity and variation, which is why Giga Berlin and Giga Texas are focused on the Model Y. It’s -- from the point in which you have a factory complete and you’re making a small number of units to the point where it’s producing high-quality vehicles in volume is sort of 9 to 12 months from start of production.
+     So, now hopefully, we’re getting better at that ramp, so maybe it’s a little less.
+     But to get to sort of the 5,000 a week level has typically taken us around 12 months from start of production.
+     Martin Viecha
+
+Thank you.
+     The next question is, how much raw material exposure do you have, measured roughly in percentage of cost of goods sold for example, in a given quarter versus one to two years out, both direct and indirect?
+     Separately, how do you think about price increases versus prioritizing higher mix vehicles going forward?
+     Elon Musk
+
+Actually, on the price increase front, I should mention that it may seem like maybe we’re being unreasonable about increasing the prices of our vehicles, given that we had record profitability this quarter, but the wait list for our vehicles is quite long.
+     And some of the vehicles that people will order, the wait list extends into next year.
+-----
+3. [Sentence #155, TSLA_Q3_2022] [UNCERTAIN]
+     On the 800-volt thing, yes, so it’s really a case-by-case thing.
+     For the smaller platform vehicles like 3 and Y, there’s some wins and losses with 800 volts, not everything is better.
+     And so, we look at that platform, and we’re not like ignoring the reality that you can go to a higher voltage, but there’s nothing really encouraging us to do so on that platform.
+     It’s really about mass and power.
+     And as you look at bigger vehicles, there are some advantages on those bigger vehicles.
+     Elon Musk
+
+Let me just quantify that.
+     Basically, our estimate is that going from 400 to 800 volts might save $100.
+>>> It’s not really moving the needle.
+     Andrew Baglino
+
+And you’re changing many things.
+     It’s charging infrastructure all the way through the entire vehicle system to get maybe $100.
+     Elon Musk
+
+Yes, exactly.
+     So I mean, in the U.S., you’ve got 110-volt household power -- or voltage.
+     And then, in your most -- like sort of 220.
+     But really, it doesn’t make that much of a difference, and appliances work pretty much as well in, say, Europe as they do in the U.S.
+     So, there’s some -- the advantages are small and the cost is high.
+-----
+4. [Sentence #19, TSLA_Q3_2022] [PLAN]
+     Just to start off here, Q1 was a challenging but extremely successful quarter for the Company.
+     Despite numerous supply interruptions, including shuts at our Shanghai factory and nearby suppliers due to COVID, we’ve continued making progress and achieved our best-ever vehicle deliveries.
+     Last quarter, we demonstrated a series of new financial records, including revenue, gross margins, operating margin and bottom line profitability.
+     GAAP automotive gross margin reached 32.9% and first time exceeded 30% when excluding regulatory credits.
+     Higher pricing continues to positively impact our financials as we make progress delivering cars and our growing backlog.
+     Note that, for most vehicles, our delivery wait times are quite long.
+     Thus, cars delivered in Q1 generally carried pricing set in prior quarters and at levels lower than cars being ordered today.
+>>> Our per unit vehicle cost increased as well.
+     Inflation, raw material prices, expedite and logistics costs continues to impact our cost structure.
+     Factory shutdowns also occurred with little to no notice.
+     Hence, we are unable to take action to plan those interruptions in a cost-efficient manner.
+     Additionally, we saw a slight mix shift towards more profitable vehicles, including the Model Y.
+     We also recognized a onetime benefit of $288 million from credit revenue relating to a regulatory change in the U.S. CAFE penalty, without of which credit revenue would have declined compared to the same period last year.
+     The energy business has continued to be impacted by macro conditions, more severely than the vehicle business.
+     Our storage products, our need of chip supply and new import processes have impacted supply of certain components for our solar systems, which is reflected in our solar volume for the quarter.
+-----
+5. [Sentence #444, TSLA_Q1_2022] [PLAN]
+     Alex Potter
+
+Okay, great.
+     So first question I had was the extent to which other plants outside of China are insulated from any further upstream supply bottlenecks that we may have in China.
+     Obviously, if this COVID lockdown things gets out of hand, clearly, that’s going to continue impacting Shanghai.
+     But is there a point at which it could actually also impact other facilities?
+     Elon Musk
+
+Yes.
+     If it would continue, but there are some parts that are sourced in China that apply worldwide.
+     And that would be -- that would impact production elsewhere.
+>>> But all indications are that we are -- our Giga Shanghai is back in production at fairly high levels already and so are our suppliers.
+     So, we don’t think this is going to be a big deal.
+     Alex Potter
+
+Okay.
+     Thanks.
+     Second question, obviously, the higher profitability that you guys have been able to experience over the last couple of quarters, a lot of that is reflecting sort of "real" improvement.
+     Another part of it is because we’re no longer paying you, Elon, as much as we were.
+     And so I’m wondering the extent to which you and the Board are in the process of contemplating another one of these long-term compensation packages, which in the past have seemed to work quite well.
+     Thanks.
+-----
+6. [Sentence #106, TSLA_Q1_2022] [PLAN]
+     But overall, the rate of improvement is incredibly quick.
+     So, that’s my recommendation for reaching your own assessment is literally try it.
+     Martin Viecha
+
+Thank you.
+     The second question is, how much of an impact will the production shutdown in Shanghai have in Q2?
+     What is the time line for localizing the Model 3 in Europe, or will newer models be prioritized in Berlin?
+     Elon Musk
+
+Well, we did lose a lot of important days of production.
+     And because there are sort of upstream supplier challenges where a lot of suppliers also have lost many days of production.
+>>> But Tesla Shanghai -- Giga Shanghai is coming back with a vengeance.
+     So, I think notwithstanding new issues that arise, I think we will see record output per week from Giga Shanghai this quarter, albeit we are missing a couple of weeks.
+     So, that means the most likely vehicle production in Q2 will be similar to Q1, maybe slightly lower, but it’s also possible we may pull a rabbit out of the hat and be slightly higher.
+     But it’s really, call it, roughly on par.
+     But then, Q3 and Q4 will be substantially higher.
+     So, it seems likely that we’ll be able to produce over 1.5 million cars this year is my -- that’s my best guess.
+     And then, Model 3.
+     It’s important for new factories to be focused on -- and have the least amount of complexity and variation, which is why Giga Berlin and Giga Texas are focused on the Model Y. It’s -- from the point in which you have a factory complete and you’re making a small number of units to the point where it’s producing high-quality vehicles in volume is sort of 9 to 12 months from start of production.
+-----
+7. [Sentence #25, TSLA_Q1_2023] [PLAN]
+     Thus, cars delivered in Q1 generally carried pricing set in prior quarters and at levels lower than cars being ordered today.
+     Our per unit vehicle cost increased as well.
+     Inflation, raw material prices, expedite and logistics costs continues to impact our cost structure.
+     Factory shutdowns also occurred with little to no notice.
+     Hence, we are unable to take action to plan those interruptions in a cost-efficient manner.
+     Additionally, we saw a slight mix shift towards more profitable vehicles, including the Model Y.
+     We also recognized a onetime benefit of $288 million from credit revenue relating to a regulatory change in the U.S. CAFE penalty, without of which credit revenue would have declined compared to the same period last year.
+>>> The energy business has continued to be impacted by macro conditions, more severely than the vehicle business.
+     Our storage products, our need of chip supply and new import processes have impacted supply of certain components for our solar systems, which is reflected in our solar volume for the quarter.
+     OpEx as a percentage of revenue continues to reduce, driven by higher revenue, lower stock-based comp expense and other items.
+     As a result of our ongoing improvements in operating leverage, we achieved a record operating margin of over 19%.
+     Note that commissioning costs for our factories are in R&D as Berlin started production in late March and Austin in early April.
+     These costs will be in automotive costs going forward, given these factories are now producing customer sellable cars.
+     Our free cash flows have remained quite strong, yet were impacted by working capital related to lower-than-planned production.
+     Additionally, we have reduced our debt, excluding product financing, to nearly zero.
+-----
+8. [Sentence #263, TSLA_Q1_2022] [SCALE ACHIEVED]
+     If you’re waiting for investment, you’re also going to be waiting forever because every new factory is better than the last one because we take all that learning and triple it…
+
+Elon Musk
+
+Yes.
+     Martin Viecha
+
+Yes Next question is at Cyber Rodeo, Elon mentioned that a futuristic driverless robotaxi vehicle is on the roadmap.
+     When can we expect more details on the product offering to be unveiled?
+     Is this something that people can own, or will this be only offered by Tesla as a service?
+     Elon Musk
+
+So, I think we want to hold up on -- we don’t want to jump the gun on an exciting product announcement too much.
+     So, I think, we’ll aim to -- we do a product event for robotaxi next year and get into more detail, but we are aiming for volume production in 2024.
+     Martin Viecha
+
+All right.
+>>> And maybe the last question from investors is, what is the current run rate of 4680 cell production at Fremont and at Giga Texas?
+     What do you expect run rates of 4680 to be in Fremont and the Giga Texas or Berlin at the end of the year?
+     Elon Musk
+
+Well, Berlin is using the 2170 nonstructural pack.
+     So, they’re not constrained by 4680.
+     They will transition to 4680 hopefully later this year, but current billing production does not to require that.
+     We also have, just as a risk mitigation, 2170 nonstructural pack capability in -- here at Giga Texas as well.
+     But -- if things go according to plan, we will be in volume production with 4680 sometime perhaps towards the end of the third quarter and certainly in the fourth quarter.
+     Is that accurate?
+-----
+9. [Sentence #264, TSLA_Q1_2022] [SCALE ACHIEVED]
+     Martin Viecha
+
+Yes Next question is at Cyber Rodeo, Elon mentioned that a futuristic driverless robotaxi vehicle is on the roadmap.
+     When can we expect more details on the product offering to be unveiled?
+     Is this something that people can own, or will this be only offered by Tesla as a service?
+     Elon Musk
+
+So, I think we want to hold up on -- we don’t want to jump the gun on an exciting product announcement too much.
+     So, I think, we’ll aim to -- we do a product event for robotaxi next year and get into more detail, but we are aiming for volume production in 2024.
+     Martin Viecha
+
+All right.
+     And maybe the last question from investors is, what is the current run rate of 4680 cell production at Fremont and at Giga Texas?
+>>> What do you expect run rates of 4680 to be in Fremont and the Giga Texas or Berlin at the end of the year?
+     Elon Musk
+
+Well, Berlin is using the 2170 nonstructural pack.
+     So, they’re not constrained by 4680.
+     They will transition to 4680 hopefully later this year, but current billing production does not to require that.
+     We also have, just as a risk mitigation, 2170 nonstructural pack capability in -- here at Giga Texas as well.
+     But -- if things go according to plan, we will be in volume production with 4680 sometime perhaps towards the end of the third quarter and certainly in the fourth quarter.
+     Is that accurate?
+     Andrew Baglino
+
+Yes.
+-----
+10. [Sentence #254, TSLA_Q2_2022] [SCALE ACHIEVED]
+     Yes.
+     Andrew Baglino
+
+But we also had a structural casting, about 30% less robots, we expect to almost double the capacity for body, for example, reducing the number of robots, but doubling our capacity in a lot of areas.
+     Elon Musk
+
+Yes.
+     Right.
+     The body line for the structural pack is -- and if you got a structural pack and front and rear castings, the body shop size drops by over 60% relative to the standard way of making a car.
+     Andrew Baglino
+
+[Technical Difficulty] general assembly or everything else because, we have the structural battery, the floor is the battery.
+     We put the seats on the battery and then we put that in the cars.
+>>> So there’s actually 10% and 15% of our stations in GA because of the general assembly [Technical Difficulty].
+     So, really, like I think about this and the way we think about cars, if you’re waiting for the best Tesla, you’re going to be waiting forever.
+     If you’re waiting for investment, you’re also going to be waiting forever because every new factory is better than the last one because we take all that learning and triple it…
+
+Elon Musk
+
+Yes.
+     Martin Viecha
+
+Yes Next question is at Cyber Rodeo, Elon mentioned that a futuristic driverless robotaxi vehicle is on the roadmap.
+     When can we expect more details on the product offering to be unveiled?
+     Is this something that people can own, or will this be only offered by Tesla as a service?
+     Elon Musk
+
+So, I think we want to hold up on -- we don’t want to jump the gun on an exciting product announcement too much.
+     So, I think, we’ll aim to -- we do a product event for robotaxi next year and get into more detail, but we are aiming for volume production in 2024.
+-----
+11. [Sentence #239, TSLA_Q4_2022] [PLAN]
+     So, we’re casting almost two-thirds of the body.
+     It’s high pressure die cast aluminum.
+     And so, we can take both, scrap from the casting machine and the gating that comes out and put that -- just really pass that back into the melting -- aluminum melting pot.
+     And then, as Elon was saying, also take any stampings and any other aluminum scrap and also through that in the melting pot, matter of fact, we’ve also figured out that we can use wheels from practically any car.
+     Yes, yes.
+     So, we’re going to be recycling the casting aluminum wheels from legacy gasoline cars as well and throwing that in the melting pot for our aluminum cast body of Model Y.
+     And also we’ll be moving to the sort of cast part rear body in all vehicles over time?
+>>> Well, actually, maybe not S/X, but 3/Y.
+     Martin Viecha
+
+Thank you.
+     At what rate do you expect Berlin and Austin to ramp relative to Shanghai?
+     Are you able to leverage learnings from Shanghai, or are the processes substantially different in the new factories?
+     Elon Musk
+
+Ramp production faster than Shanghai because we have learned a lot.
+     And we’ve now gone through the -- we have basically veteran teams that obviously in the 3/Y ramp -- Y ramp especially in multiple locations.
+     And we’re obviously sharing what we’ve learned.
+     And so, we don’t want to get complacent or entitled, but this should be a faster ramp because we have learned more, and we have done a lot to simplify the production prices of Model Y that should lead us to a faster ramp within Texas and Berlin.
+-----
+12. [Sentence #20, TSLA_Q3_2022] [PLAN]
+     Despite numerous supply interruptions, including shuts at our Shanghai factory and nearby suppliers due to COVID, we’ve continued making progress and achieved our best-ever vehicle deliveries.
+     Last quarter, we demonstrated a series of new financial records, including revenue, gross margins, operating margin and bottom line profitability.
+     GAAP automotive gross margin reached 32.9% and first time exceeded 30% when excluding regulatory credits.
+     Higher pricing continues to positively impact our financials as we make progress delivering cars and our growing backlog.
+     Note that, for most vehicles, our delivery wait times are quite long.
+     Thus, cars delivered in Q1 generally carried pricing set in prior quarters and at levels lower than cars being ordered today.
+     Our per unit vehicle cost increased as well.
+>>> Inflation, raw material prices, expedite and logistics costs continues to impact our cost structure.
+     Factory shutdowns also occurred with little to no notice.
+     Hence, we are unable to take action to plan those interruptions in a cost-efficient manner.
+     Additionally, we saw a slight mix shift towards more profitable vehicles, including the Model Y.
+     We also recognized a onetime benefit of $288 million from credit revenue relating to a regulatory change in the U.S. CAFE penalty, without of which credit revenue would have declined compared to the same period last year.
+     The energy business has continued to be impacted by macro conditions, more severely than the vehicle business.
+     Our storage products, our need of chip supply and new import processes have impacted supply of certain components for our solar systems, which is reflected in our solar volume for the quarter.
+     OpEx as a percentage of revenue continues to reduce, driven by higher revenue, lower stock-based comp expense and other items.
+-----
+13. [Sentence #120, TSLA_Q4_2023] [UNCERTAIN]
+     It’s important for new factories to be focused on -- and have the least amount of complexity and variation, which is why Giga Berlin and Giga Texas are focused on the Model Y. It’s -- from the point in which you have a factory complete and you’re making a small number of units to the point where it’s producing high-quality vehicles in volume is sort of 9 to 12 months from start of production.
+     So, now hopefully, we’re getting better at that ramp, so maybe it’s a little less.
+     But to get to sort of the 5,000 a week level has typically taken us around 12 months from start of production.
+     Martin Viecha
+
+Thank you.
+     The next question is, how much raw material exposure do you have, measured roughly in percentage of cost of goods sold for example, in a given quarter versus one to two years out, both direct and indirect?
+     Separately, how do you think about price increases versus prioritizing higher mix vehicles going forward?
+     Elon Musk
+
+Actually, on the price increase front, I should mention that it may seem like maybe we’re being unreasonable about increasing the prices of our vehicles, given that we had record profitability this quarter, but the wait list for our vehicles is quite long.
+>>> And some of the vehicles that people will order, the wait list extends into next year.
+     So, our prices of vehicles ordered now are really anticipating supplier and logistics cost growth that we’re aware of and believe will happen over the next 6 to 12 months.
+     So, that’s why we have the price increases today because the car ordered today will arrive, in some cases, a year from now.
+     So, we have a very long wait list, and we’re obviously not demand-limited.
+     We are production-limited by -- very much production-limited.
+     Martin Viecha
+
+Raw material exposure?
+     Zachary Kirkhorn
+
+Yes.
+     Just to add to what Elon is saying, there’s different ways to calculate raw material exposure.
+-----
+14. [Sentence #167, TSLA_Q3_2022] [UNCERTAIN]
+     And then, in your most -- like sort of 220.
+     But really, it doesn’t make that much of a difference, and appliances work pretty much as well in, say, Europe as they do in the U.S.
+     So, there’s some -- the advantages are small and the cost is high.
+     Like I said, it’s long-term, like years now, it makes sense probably to an 800-volt architecture probably, but it really needs a very big vehicle volume to pay for the cost of changing from 400 to 800 volts.
+     And then, Drew, do you want to continue to with it?
+     Andrew Baglino
+
+I was just going to say that 100 volts is also kind of like a spreadsheet exercise, right?
+     Elon Musk
+
+$100.
+>>> Andrew Baglino
+
+Sorry.
+     $100.
+     It’s roughly like a spreadsheet exercise, like you have to get through the full program to the end to see that maybe it’s been whittled away to $50 or less.
+     On bigger vehicles, where you’re talking about higher power on the charging side or higher power from the battery to the power electronics or you need more torque, so the current requirements go up, there’s a little bit more semiconductor and actual conductor savings of going to the higher voltage.
+     And so, we do consider that for Semi and Cybertruck.
+     But for the 3/Y platform where we’ve got everything running and the benefit is questionably small.
+     Elon Musk
+
+Yes.
+     It’s basically zero for robotaxi.
+-----
+15. [Sentence #214, TSLA_Q4_2023] [PLAN]
+     It looks like really you think of like just macro tonnage.
+     And when we need to think about this for the world as a whole, because just -- we want to -- what are limiting factors for accelerating the advent of a sustainable energy future.
+     And whatever the most limiting factors are, Tesla will take action on those limiting factors.
+     So, right now, we think mining and refining lithium is -- appears to be a limiting factor, and it certainly is responsible for quite a bit of cost growth in the sales.
+     It’s I think the single biggest cost growth item right now certainly on a percentage basis.
+     Although just for those who don’t totally know this, the actual content of lithium in lithium ion cell is maybe around 2% or 3% of the cell, so.
+     Andrew Baglino
+
+5 kgs a car.
+>>> Elon Musk
+
+Yes, exactly.
+     5 kg.
+     It’s not -- it’s called lithium ion cell, but by far, like the most expensive and heaviest item in the cell is the cathode.
+     So, that’s the nickel or the iron phosphate.
+     So we’re looking carefully at all of the raw materials and trying to figure out how we can accelerate the total amount of raw materials needed to transition the world to sustainability.
+     And I think we’ve got -- we don’t have enough time on this call to really go through all those details, but we are thinking about these things.
+     And we think we’ll have some exciting announcements in the months to come.
+     Andrew Baglino
+
+Yes.
+-----
+17. [Sentence #515, TSLA_Q3_2022] [UNCERTAIN]
+     And how do profitability margins on the insurance offering compared to the corporate average?
+     Thank you.
+     Zachary Kirkhorn
+
+So, we just launched Tesla Insurance for real-time insurance in Virginia, Colorado and Oregon earlier this week.
+     Maybe one step that I’ll share.
+     So, Texas is our longest-standing real-time insurance market.
+     But based upon the information that we have, Tesla is the second largest insurer of Teslas in the State of Texas.
+     And possibly by the end of this quarter, maybe early next quarter, we’ll be the largest insurer of Teslas.
+>>> And so, the customer reception to this has been quite positive.
+     And I was reading social media on Monday after we launched in the three new states, a lot of folks who are reporting their stories of saving quite substantial amounts of money relative to their previous insurance.
+     And so, we’re quite encouraged by that.
+     And we’re working as quickly as we can to get to 80% of customers having access to a Tesla Insurance product by the end of this year in the United States, at which point we’ll pivot our attention to expansion outside of the U.S.
+     The other thing I’ll say on insurance is with these three new states, the model is different because we are now the underwriter, and we are also now holding the risk.
+     And so, with those states, we are a fully vertically integrated provider of insurance from systems and financials.
+     With respect to the financials of the program, it’s still very early.
+     And so, as the program gets more scale, happy to share more information on that.
+-----
+18. [Sentence #410, TSLA_Q1_2022] [UNCERTAIN]
+     Let’s go to the next one.
+     The next question comes from Trip Chowdhry from Global Equity Research.
+     Trip Chowdhry
+
+Thank you.
+     Two questions I have.
+     First is regarding the Cybertruck.
+     And I was wondering like in terms of number of parts, how would Cybertruck compare with the traditional pickup truck in terms of number of parts?
+     The second question I have is on Gigafactory Nevada, Sparks.
+>>> Will we have any production of vehicles in that factory, or all the future production will happen in Giga Austin?
+     Thank you.
+     Elon Musk
+
+I’m not sure if we’ve actually done a comparison of Cybertruck parts versus regular truck parts.
+     I mean, Lars?
+     Lars Moravy
+
+Yes.
+     I mean, if you want to go down the like -- it depends on what kind of part.
+     We still have cells in [Technical Difficulty]
+
+Elon Musk
+
+Mention count.
+     Lars Moravy
+
+If we don’t count that, like the simplicity of our structure is significant versus a traditional pickup truck or any other vehicle, like as we’ve talked about their gigacastings, we save hundreds of parts there.
+-----
+19. [Sentence #59, TSLA_Q1_2022] [SCALE ACHIEVED]
+     I think, we actually have a reasonable shot at a 60% increase over last year.
+     So, let’s see.
+     Obviously, we ramped production, as you will know, with Giga Berlin and Giga Texas in the past few months.
+     So, with two fantastic factories with great teams, and they are ramping rapidly.
+     Now, with new factories, the initial ramp always looks small, but it grows exponentially.
+     So, I have very high confidence in the teams of both factories.
+     And we expect to ramp those initially slowly, but like I said, growing exponentially with them achieving high volume by the end of this year.
+>>> So, we’re also working on a new vehicle that I alluded to at the Giga Texas opening, which is a dedicated robotaxi.
+     That’s highly optimized for autonomy, meaning it would not have steering wheel or pedals.
+     And there are a number of other innovations around it that I think are quite exciting.
+     That is fundamentally optimized for -- trying to achieve the lowest fully considered cost per mile or cost per kilometer, accounting everything.
+     And so, it’s, I think, going to be a very powerful product where we aspire to reach volume production of that in 2024.
+     So, I think that really will be a massive driver of Tesla’s growth.
+     And we remain on track to reach volume production of the Cybertruck next year.
+     So, it’s basically -- once again, I’d like to thank the Tesla employees for their hard work, but also I’d like to thank our suppliers who’ve really gone the extra mile.
+-----
+20. [Sentence #72, TSLA_Q2_2022] [SCALE ACHIEVED]
+     And we remain on track to reach volume production of the Cybertruck next year.
+     So, it’s basically -- once again, I’d like to thank the Tesla employees for their hard work, but also I’d like to thank our suppliers who’ve really gone the extra mile.
+     They -- we have an amazing supplier group, and I want say heartfelt thanks to the suppliers that have really worked day and night to ensure that Tesla is able to keep the factories running.
+     And we’re really at the early stage of that journey.
+     We only crossed 1 million units in the past 12 months recently.
+     And we are -- we aspire to head to 20 million units a year.
+     So, we’re basically 5% along the way towards our goal.
+>>> And we are growing very, very rapidly year-over-year.
+     And we remain confident of exceeding 50% annual growth for the foreseeable future for basically several of the next years, I mean, so yes.
+     And then, there’s, of course, Optimus, which I was surprised that people did not realize the magnitude of the Optimus robot program.
+     The importance of Optimus will become apparent in coming years.
+     Those who are insightful or listen carefully will understand that Optimus ultimately will be worth more than the car business, worth more than FSD.
+     That’s my firm belief.
+     So -- and then, of course, insurance is growing well.
+     We expect to address the part shortages that limited our progress with batteries and solar.
+-----
+21. [Sentence #430, TSLA_Q1_2022] [PLAN]
+     I check that once in a while.
+     But in general, architecture is always moving to reduce complexity, reduce parts or reduce parts count.
+     I would say, ignoring the battery cells, we are probably 20% to 30% less.
+     Elon Musk
+
+All right.
+     Martin Viecha
+
+Okay.
+     Elon Musk
+
+Do we expect to expand?
+     Yes, we do expect to expand Giga Nevada.
+>>> There’s a lot of room for expansion there, and we do expect to increase output from Nevada, but by far, the biggest increase in output will be from Giga Texas.
+     Martin Viecha
+
+Thank you very much.
+     The next question comes from Alex Potter from Piper Sandler.
+     Alex, can you hear us?
+     Alex Potter
+
+Yes.
+     Hi Martin, can you hear me?
+     Martin Viecha
+
+Yes.
+     Alex Potter
+
+Okay, great.
+-----
+22. [Sentence #107, TSLA_Q1_2022] [PLAN]
+     So, that’s my recommendation for reaching your own assessment is literally try it.
+     Martin Viecha
+
+Thank you.
+     The second question is, how much of an impact will the production shutdown in Shanghai have in Q2?
+     What is the time line for localizing the Model 3 in Europe, or will newer models be prioritized in Berlin?
+     Elon Musk
+
+Well, we did lose a lot of important days of production.
+     And because there are sort of upstream supplier challenges where a lot of suppliers also have lost many days of production.
+     But Tesla Shanghai -- Giga Shanghai is coming back with a vengeance.
+>>> So, I think notwithstanding new issues that arise, I think we will see record output per week from Giga Shanghai this quarter, albeit we are missing a couple of weeks.
+     So, that means the most likely vehicle production in Q2 will be similar to Q1, maybe slightly lower, but it’s also possible we may pull a rabbit out of the hat and be slightly higher.
+     But it’s really, call it, roughly on par.
+     But then, Q3 and Q4 will be substantially higher.
+     So, it seems likely that we’ll be able to produce over 1.5 million cars this year is my -- that’s my best guess.
+     And then, Model 3.
+     It’s important for new factories to be focused on -- and have the least amount of complexity and variation, which is why Giga Berlin and Giga Texas are focused on the Model Y. It’s -- from the point in which you have a factory complete and you’re making a small number of units to the point where it’s producing high-quality vehicles in volume is sort of 9 to 12 months from start of production.
+     So, now hopefully, we’re getting better at that ramp, so maybe it’s a little less.
+-----
+23. [Sentence #448, TSLA_Q3_2023] [NO EVIDENCE]
+     Elon Musk
+
+Yes.
+     If it would continue, but there are some parts that are sourced in China that apply worldwide.
+     And that would be -- that would impact production elsewhere.
+     But all indications are that we are -- our Giga Shanghai is back in production at fairly high levels already and so are our suppliers.
+     So, we don’t think this is going to be a big deal.
+     Alex Potter
+
+Okay.
+     Thanks.
+>>> Second question, obviously, the higher profitability that you guys have been able to experience over the last couple of quarters, a lot of that is reflecting sort of "real" improvement.
+     Another part of it is because we’re no longer paying you, Elon, as much as we were.
+     And so I’m wondering the extent to which you and the Board are in the process of contemplating another one of these long-term compensation packages, which in the past have seemed to work quite well.
+     Thanks.
+     Elon Musk
+
+There are no discussions currently underway for incremental compensation for me.
+     Martin Viecha
+
+Thank you.
+     The next question comes from Colin Langan from Wells Fargo.
+     Colin Langan
+
+Great.
+-----
+24. [Sentence #70, TSLA_Q3_2022] [SCALE ACHIEVED]
+     And so, it’s, I think, going to be a very powerful product where we aspire to reach volume production of that in 2024.
+     So, I think that really will be a massive driver of Tesla’s growth.
+     And we remain on track to reach volume production of the Cybertruck next year.
+     So, it’s basically -- once again, I’d like to thank the Tesla employees for their hard work, but also I’d like to thank our suppliers who’ve really gone the extra mile.
+     They -- we have an amazing supplier group, and I want say heartfelt thanks to the suppliers that have really worked day and night to ensure that Tesla is able to keep the factories running.
+     And we’re really at the early stage of that journey.
+     We only crossed 1 million units in the past 12 months recently.
+>>> And we are -- we aspire to head to 20 million units a year.
+     So, we’re basically 5% along the way towards our goal.
+     And we are growing very, very rapidly year-over-year.
+     And we remain confident of exceeding 50% annual growth for the foreseeable future for basically several of the next years, I mean, so yes.
+     And then, there’s, of course, Optimus, which I was surprised that people did not realize the magnitude of the Optimus robot program.
+     The importance of Optimus will become apparent in coming years.
+     Those who are insightful or listen carefully will understand that Optimus ultimately will be worth more than the car business, worth more than FSD.
+     That’s my firm belief.
+-----
+25. [Sentence #331, TSLA_Q3_2022] [UNCERTAIN]
+     Yes.
+     I mean with robotaxi, like maybe 5 to 10 times cost per mile.
+     It’s really quite substantial.
+     Andrew Baglino
+
+And therefore, accessible to everybody.
+     Elon Musk
+
+Yes.
+     I mean, looking at some of our projections, it would appear that a robotaxi ride will cost less than a bus ticket, a subsidized bus ticket or subsidized subway ticket.
+     Martin Viecha
+
+Thank you very much.
+>>> Let’s go to the next question from Rod Lache from Wolfe Research.
+     Rod Lache
+
+Hi, everybody.
+     I’m trying to just parse out your comments about the inflation and constrained supply and battery feedstocks and the initiatives that you are working on internally to secure these materials.
+     It sounds like you’re optimistic about Tesla’s ability to solve this for Tesla.
+     Do you -- but do you see this as a constraint on EV adoption more broadly?
+     Elon Musk
+
+Yes, absolutely.
+     But what’s sort of keeping our costs down, at least in the short term, is that we have long-term contracts with suppliers, but those long-term contracts will obviously run out and then the year we’ll start to see potentially significant cost increases.
+     But the macro is sort of looking at the world as a whole and saying, okay, what does it take for earth to transition to sustainable energy faster?
+-----
+26. [Sentence #269, TSLA_Q2_2022] [SCALE ACHIEVED]
+     Martin Viecha
+
+All right.
+     And maybe the last question from investors is, what is the current run rate of 4680 cell production at Fremont and at Giga Texas?
+     What do you expect run rates of 4680 to be in Fremont and the Giga Texas or Berlin at the end of the year?
+     Elon Musk
+
+Well, Berlin is using the 2170 nonstructural pack.
+     So, they’re not constrained by 4680.
+     They will transition to 4680 hopefully later this year, but current billing production does not to require that.
+     We also have, just as a risk mitigation, 2170 nonstructural pack capability in -- here at Giga Texas as well.
+>>> But -- if things go according to plan, we will be in volume production with 4680 sometime perhaps towards the end of the third quarter and certainly in the fourth quarter.
+     Is that accurate?
+     Andrew Baglino
+
+Yes.
+     And the other thing I would add is like with the China COVID shutdown and the semiconductor bottlenecks we had through Q4 and hence a little bit in Q1, we have sizable cell inventory at the moment, and excess cells to support the 2022 volume targets you described.
+     So, that gives us the ability to be pretty deliberate in the 4680 ramp where we can maximize learning step by step, take engineering downtime to upgrade key pieces of equipment and modify the structural pack design to improve reliability, all while achieving what you just said, so.
+     Elon Musk
+
+Yes.
+     4680 output is not a risk to achieving 1.5 million vehicles produced this year, but it would become a risk next year if we do not solve volume production by early 2023, but we’re highly confident of doing so.
+     Martin Viecha
+
+Thank you very much.
+-----
+27. [Sentence #223, TSLA_Q4_2023] [UNCERTAIN]
+     It’s not -- it’s called lithium ion cell, but by far, like the most expensive and heaviest item in the cell is the cathode.
+     So, that’s the nickel or the iron phosphate.
+     So we’re looking carefully at all of the raw materials and trying to figure out how we can accelerate the total amount of raw materials needed to transition the world to sustainability.
+     And I think we’ve got -- we don’t have enough time on this call to really go through all those details, but we are thinking about these things.
+     And we think we’ll have some exciting announcements in the months to come.
+     Andrew Baglino
+
+Yes.
+     One thing I want to call out is like we’re also committed to recycling at all of our cell factories.
+>>> We’re recycling 50 tons a week right now in Reno and ramping to 150 with all of that reclaimed material going directly back into our cathode supply chain.
+     So, we’re looking at the beginning and end of life needs here.
+     Elon Musk
+
+And that’s true like since Reno, we built a Gigafactory and we started doing that with batteries.
+     But as we build newer factories or vehicles, for example, Giga Texas here, where we are today, we said was all of its non-yielded or scrap aluminum from the stamping shop directly into the casting shop.
+     We regrind any plastic figures out.
+     And so, we’re really concerned about raw materials, not just like mining them and consuming them, but when we get them in the door, using all 100% of them.
+     Andrew Baglino
+
+Yes.
+     No, that’s a great point.
+-----
+28. [Sentence #262, TSLA_Q3_2023] [SCALE ACHIEVED]
+     So, really, like I think about this and the way we think about cars, if you’re waiting for the best Tesla, you’re going to be waiting forever.
+     If you’re waiting for investment, you’re also going to be waiting forever because every new factory is better than the last one because we take all that learning and triple it…
+
+Elon Musk
+
+Yes.
+     Martin Viecha
+
+Yes Next question is at Cyber Rodeo, Elon mentioned that a futuristic driverless robotaxi vehicle is on the roadmap.
+     When can we expect more details on the product offering to be unveiled?
+     Is this something that people can own, or will this be only offered by Tesla as a service?
+     Elon Musk
+
+So, I think we want to hold up on -- we don’t want to jump the gun on an exciting product announcement too much.
+     So, I think, we’ll aim to -- we do a product event for robotaxi next year and get into more detail, but we are aiming for volume production in 2024.
+>>> Martin Viecha
+
+All right.
+     And maybe the last question from investors is, what is the current run rate of 4680 cell production at Fremont and at Giga Texas?
+     What do you expect run rates of 4680 to be in Fremont and the Giga Texas or Berlin at the end of the year?
+     Elon Musk
+
+Well, Berlin is using the 2170 nonstructural pack.
+     So, they’re not constrained by 4680.
+     They will transition to 4680 hopefully later this year, but current billing production does not to require that.
+     We also have, just as a risk mitigation, 2170 nonstructural pack capability in -- here at Giga Texas as well.
+     But -- if things go according to plan, we will be in volume production with 4680 sometime perhaps towards the end of the third quarter and certainly in the fourth quarter.
+-----
+29. [Sentence #156, TSLA_Q2_2023] [UNCERTAIN]
+     For the smaller platform vehicles like 3 and Y, there’s some wins and losses with 800 volts, not everything is better.
+     And so, we look at that platform, and we’re not like ignoring the reality that you can go to a higher voltage, but there’s nothing really encouraging us to do so on that platform.
+     It’s really about mass and power.
+     And as you look at bigger vehicles, there are some advantages on those bigger vehicles.
+     Elon Musk
+
+Let me just quantify that.
+     Basically, our estimate is that going from 400 to 800 volts might save $100.
+     It’s not really moving the needle.
+>>> Andrew Baglino
+
+And you’re changing many things.
+     It’s charging infrastructure all the way through the entire vehicle system to get maybe $100.
+     Elon Musk
+
+Yes, exactly.
+     So I mean, in the U.S., you’ve got 110-volt household power -- or voltage.
+     And then, in your most -- like sort of 220.
+     But really, it doesn’t make that much of a difference, and appliances work pretty much as well in, say, Europe as they do in the U.S.
+     So, there’s some -- the advantages are small and the cost is high.
+     Like I said, it’s long-term, like years now, it makes sense probably to an 800-volt architecture probably, but it really needs a very big vehicle volume to pay for the cost of changing from 400 to 800 volts.
+-----
+30. [Sentence #18, TSLA_Q2_2022] [PLAN]
+     Thanks, Martin.
+     Just to start off here, Q1 was a challenging but extremely successful quarter for the Company.
+     Despite numerous supply interruptions, including shuts at our Shanghai factory and nearby suppliers due to COVID, we’ve continued making progress and achieved our best-ever vehicle deliveries.
+     Last quarter, we demonstrated a series of new financial records, including revenue, gross margins, operating margin and bottom line profitability.
+     GAAP automotive gross margin reached 32.9% and first time exceeded 30% when excluding regulatory credits.
+     Higher pricing continues to positively impact our financials as we make progress delivering cars and our growing backlog.
+     Note that, for most vehicles, our delivery wait times are quite long.
+>>> Thus, cars delivered in Q1 generally carried pricing set in prior quarters and at levels lower than cars being ordered today.
+     Our per unit vehicle cost increased as well.
+     Inflation, raw material prices, expedite and logistics costs continues to impact our cost structure.
+     Factory shutdowns also occurred with little to no notice.
+     Hence, we are unable to take action to plan those interruptions in a cost-efficient manner.
+     Additionally, we saw a slight mix shift towards more profitable vehicles, including the Model Y.
+     We also recognized a onetime benefit of $288 million from credit revenue relating to a regulatory change in the U.S. CAFE penalty, without of which credit revenue would have declined compared to the same period last year.
+     The energy business has continued to be impacted by macro conditions, more severely than the vehicle business.
+-----
+
+Total context windows: 29

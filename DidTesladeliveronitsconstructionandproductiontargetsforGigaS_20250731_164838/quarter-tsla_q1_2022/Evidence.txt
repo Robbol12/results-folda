@@ -1,0 +1,31 @@
+[TSLA_Q1_2022] Did Tesla deliver on its construction and production targets for Giga Shanghai, Giga Berlin, and Giga Texas between 2022 and 2023?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #54]  Obviously, we ramped **production**, as you will know, with ****Giga** **Berlin**** and ****Giga** **Texas**** in the past few months.
+2. [Sentence #59]  So, we’re also working on a new vehicle that I alluded to at the ****Giga** **Texas**** opening, which is a dedicated robotaxi.
+3. [Sentence #106]  But Tesla **Shanghai** -- ****Giga** **Shanghai**** is coming back with a vengeance.
+4. [Sentence #107]  So, I think notwithstanding new issues that arise, I think we will see record output per week from ****Giga** **Shanghai**** this quarter, albeit we are missing a couple of weeks.
+5. [Sentence #113]  It’s important for new factories to be focused on -- and have the least amount of complexity and variation, which is why ****Giga** **Berlin**** and ****Giga** **Texas**** are focused on the Model Y. It’s -- from the point in which you have a factory complete and you’re making a small number of units to the point where it’s producing high-quality vehicles in volume is sort of 9 to 12 months from start of **production**.
+6. [Sentence #263]  And maybe the last question from investors is, what is the current run rate of 4680 cell **production** at Fremont and at ****Giga** **Texas****?
+7. [Sentence #264]  What do you expect run rates of 4680 to be in Fremont and the ****Giga** **Texas**** or **Berlin** at the end of the year?
+8. [Sentence #410]  Will we have any **production** of vehicles in that factory, or all the future **production** will happen in **Giga** Austin?
+9. [Sentence #430]  There’s a lot of room for expansion there, and we do expect to increase output from Nevada, but by far, the biggest increase in output will be from ****Giga** **Texas****.
+10. [Sentence #444]  But all indications are that we are -- our ****Giga** **Shanghai**** is back in **production** at fairly high levels already and so are our suppliers.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #54]  (Similarity: 1.601) Obviously, we ramped **production**, as you will know, with ****Giga** **Berlin**** and ****Giga** **Texas**** in the past few months.
+2. [Sentence #113]  (Similarity: 1.485) It’s important for new factories to be focused on -- and have the least amount of complexity and variation, which is why ****Giga** **Berlin**** and ****Giga** **Texas**** are focused on the Model Y. It’s -- from the point in which you have a factory complete and you’re making a small number of units to the point where it’s producing high-quality vehicles in volume is sort of 9 to 12 months from start of **production**.
+3. [Sentence #444]  (Similarity: 1.148) But all indications are that we are -- our ****Giga** **Shanghai**** is back in **production** at fairly high levels already and so are our suppliers.
+4. [Sentence #106]  (Similarity: 1.113) But Tesla **Shanghai** -- ****Giga** **Shanghai**** is coming back with a vengeance.
+5. [Sentence #263]  (Similarity: 1.079) And maybe the last question from investors is, what is the current run rate of 4680 cell **production** at Fremont and at ****Giga** **Texas****?
+6. [Sentence #264]  (Similarity: 1.044) What do you expect run rates of 4680 to be in Fremont and the ****Giga** **Texas**** or **Berlin** at the end of the year?
+7. [Sentence #410]  (Similarity: 0.917) Will we have any **production** of vehicles in that factory, or all the future **production** will happen in **Giga** Austin?
+8. [Sentence #59]  (Similarity: 0.910) So, we’re also working on a new vehicle that I alluded to at the ****Giga** **Texas**** opening, which is a dedicated robotaxi.
+9. [Sentence #430]  (Similarity: 0.899) There’s a lot of room for expansion there, and we do expect to increase output from Nevada, but by far, the biggest increase in output will be from ****Giga** **Texas****.
+10. [Sentence #107]  (Similarity: 0.866) So, I think notwithstanding new issues that arise, I think we will see record output per week from ****Giga** **Shanghai**** this quarter, albeit we are missing a couple of weeks.
+
+Total similarity-top evidence sentences: 10
+
+-----

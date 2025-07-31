@@ -1,0 +1,21 @@
+[TSLA_Q4_2023] Did Tesla deliver on its construction and production targets for Giga Shanghai, Giga Berlin, and Giga Texas between 2022 and 2023?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #64]  The first manufacturing location for this will be at our Gigafactory and headquarters in Austin, **Texas**, and then we'll follow that up with other locations around the world.
+2. [Sentence #120]  The reason I wanted to put this new revolutionary manufacturing line at ****Giga** **Texas**** was because we really need the engineers to be living on the line.
+3. [Sentence #214]  When will Tesla start **construction** on the **Giga** Nevada expansion and **Giga** Mexico, and when can we expect each of these to produce their first products such as 4680 cell, Semi, and next-gen vehicles?
+4. [Sentence #223]  And then we were able to actually do an improved -- slightly improved versions of, in some cases, significantly improved versions of the Model Y **production** line in **Shanghai** and **Berlin**.
+5. [Sentence #304]  The next question is, can we get Tesla Energy volumes reported in the **production** and delivery release?
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #120]  (Similarity: 0.978) The reason I wanted to put this new revolutionary manufacturing line at ****Giga** **Texas**** was because we really need the engineers to be living on the line.
+2. [Sentence #214]  (Similarity: 0.953) When will Tesla start **construction** on the **Giga** Nevada expansion and **Giga** Mexico, and when can we expect each of these to produce their first products such as 4680 cell, Semi, and next-gen vehicles?
+3. [Sentence #223]  (Similarity: 0.736) And then we were able to actually do an improved -- slightly improved versions of, in some cases, significantly improved versions of the Model Y **production** line in **Shanghai** and **Berlin**.
+4. [Sentence #304]  (Similarity: 0.669) The next question is, can we get Tesla Energy volumes reported in the **production** and delivery release?
+5. [Sentence #64]  (Similarity: 0.609) The first manufacturing location for this will be at our Gigafactory and headquarters in Austin, **Texas**, and then we'll follow that up with other locations around the world.
+
+Total similarity-top evidence sentences: 5
+
+-----

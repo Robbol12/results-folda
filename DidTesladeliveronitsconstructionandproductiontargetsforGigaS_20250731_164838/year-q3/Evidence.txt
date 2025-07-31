@@ -1,0 +1,63 @@
+[Year Q3] Did Tesla deliver on its construction and production targets for Giga Shanghai, Giga Berlin, and Giga Texas between 2022 and 2023?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #19]  (TSLA_Q3_2022) On the **production** ramp, ****Giga** **Berlin**** achieved another milestone of 2,000 cars made in a week with very good quality and is ramping rapidly.
+2. [Sentence #20]  (TSLA_Q3_2022) **Giga** Austin or ****Giga** **Texas**** should reach this milestone very soon.
+3. [Sentence #24]  (TSLA_Q3_2022) And its output is growing rapidly, and we expect it to start incorporating in cars and having it be a significant portion of our **production** here in **Texas** in the coming months.
+4. [Sentence #70]  (TSLA_Q3_2022) We’re building a Cybertruck line here at ****Giga** **Texas**** [Indiscernible] and making a lot of progress in the robotaxi platform design.
+5. [Sentence #114]  (TSLA_Q3_2022) Elon Musk
+
+Yes, like I said, we’re -- like I said earlier, we’re going to go basically pedal to the metal as fast as humanly possible to get to 1,000 gigawatt hours a year of **production** in the U.S. vertically integrated.
+6. [Sentence #132]  (TSLA_Q3_2022) We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue **production** at a 50% or greater compound annual growth rate.
+7. [Sentence #155]  (TSLA_Q3_2022) And will there be any delays in ramp-up in **production** from ****Giga** **Berlin**** because of this?”
+
+Zachary Kirkhorn
+
+Yes, I can take that.
+8. [Sentence #167]  (TSLA_Q3_2022) When can we expect an update on pricing and final design?”
+
+Unidentified Company Representative
+
+I mean, as Elon said earlier, we’d be -- facilities preparations here in ****Giga** **Texas**** for Cybertruck.
+9. [Sentence #218]  (TSLA_Q3_2022) And like I said, we’re -- our goal is to strive towards 1,000 gigawatt hours a year of annualized **production** in United States alone by Tesla, not including [indiscernible], will be on top of that.
+10. [Sentence #331]  (TSLA_Q3_2022) So, like when I came to ****Giga** **Texas**** from Brent’s house, I never touched any of the controls already here.
+11. [Sentence #515]  (TSLA_Q3_2022) Some of the Model Ys coming out of ****Giga** **Texas**** are 4680.
+12. [Sentence #656]  (TSLA_Q3_2023) Could you please provide an update on capacity expansion plans for company’s factories in **Berlin** and Austin, and the opening schedule of Gigafactory Mexico?
+13. [Sentence #819]  (TSLA_Q3_2023) How much was like the sequential benefit, I imagine, of **production** ramping at **Berlin** and Austin?
+14. [Sentence #1005]  (TSLA_Q3_2023) Unidentified Company Representative
+
+Like in ****Giga** **Texas****.
+
+Total transcript-order evidence sentences: 14
+
+--- Evidence by Similarity ---
+1. [Sentence #155]  (TSLA_Q3_2022) (Similarity: 1.185) And will there be any delays in ramp-up in **production** from ****Giga** **Berlin**** because of this?”
+
+Zachary Kirkhorn
+
+Yes, I can take that.
+2. [Sentence #19]  (TSLA_Q3_2022) (Similarity: 1.168) On the **production** ramp, ****Giga** **Berlin**** achieved another milestone of 2,000 cars made in a week with very good quality and is ramping rapidly.
+3. [Sentence #20]  (TSLA_Q3_2022) (Similarity: 1.008) **Giga** Austin or ****Giga** **Texas**** should reach this milestone very soon.
+4. [Sentence #167]  (TSLA_Q3_2022) (Similarity: 0.971) When can we expect an update on pricing and final design?”
+
+Unidentified Company Representative
+
+I mean, as Elon said earlier, we’d be -- facilities preparations here in ****Giga** **Texas**** for Cybertruck.
+5. [Sentence #515]  (TSLA_Q3_2022) (Similarity: 0.929) Some of the Model Ys coming out of ****Giga** **Texas**** are 4680.
+6. [Sentence #1005]  (TSLA_Q3_2023) (Similarity: 0.856) Unidentified Company Representative
+
+Like in ****Giga** **Texas****.
+7. [Sentence #70]  (TSLA_Q3_2022) (Similarity: 0.851) We’re building a Cybertruck line here at ****Giga** **Texas**** [Indiscernible] and making a lot of progress in the robotaxi platform design.
+8. [Sentence #331]  (TSLA_Q3_2022) (Similarity: 0.780) So, like when I came to ****Giga** **Texas**** from Brent’s house, I never touched any of the controls already here.
+9. [Sentence #819]  (TSLA_Q3_2023) (Similarity: 0.726) How much was like the sequential benefit, I imagine, of **production** ramping at **Berlin** and Austin?
+10. [Sentence #656]  (TSLA_Q3_2023) (Similarity: 0.672) Could you please provide an update on capacity expansion plans for company’s factories in **Berlin** and Austin, and the opening schedule of Gigafactory Mexico?
+11. [Sentence #24]  (TSLA_Q3_2022) (Similarity: 0.629) And its output is growing rapidly, and we expect it to start incorporating in cars and having it be a significant portion of our **production** here in **Texas** in the coming months.
+12. [Sentence #132]  (TSLA_Q3_2022) (Similarity: 0.624) We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue **production** at a 50% or greater compound annual growth rate.
+13. [Sentence #218]  (TSLA_Q3_2022) (Similarity: 0.622) And like I said, we’re -- our goal is to strive towards 1,000 gigawatt hours a year of annualized **production** in United States alone by Tesla, not including [indiscernible], will be on top of that.
+14. [Sentence #114]  (TSLA_Q3_2022) (Similarity: 0.601) Elon Musk
+
+Yes, like I said, we’re -- like I said earlier, we’re going to go basically pedal to the metal as fast as humanly possible to get to 1,000 gigawatt hours a year of **production** in the U.S. vertically integrated.
+
+Total similarity-top evidence sentences: 14
+
+-----

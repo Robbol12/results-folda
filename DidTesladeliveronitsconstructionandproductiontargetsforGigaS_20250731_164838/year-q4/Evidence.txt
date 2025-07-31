@@ -1,0 +1,47 @@
+[Year Q4] Did Tesla deliver on its construction and production targets for Giga Shanghai, Giga Berlin, and Giga Texas between 2022 and 2023?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #35]  (TSLA_Q4_2022) We're also making very good progress on cost control and we're seeing the cost **production** in **Berlin** and Austin drop commensurate with the growth in **production**, as you'd expect, so yeah.
+2. [Sentence #41]  (TSLA_Q4_2022) Regarding batteries, **production** rate of 4680 cells reached 1,000 cars a week at the end of last year, and we're increasing capacity for 4680 cells by another 100 gigawatt-hours as announced at **Giga** Nevada yesterday.
+3. [Sentence #72]  (TSLA_Q4_2022) Second, we are working through the early ramp of inefficiencies of our Austin and **Berlin** and in-house cell **production** factories.
+4. [Sentence #106]  (TSLA_Q4_2022) The next investor question is, will Tesla be able to take full advantage of advanced manufacturing **production** credits for battery cells packs?
+5. [Sentence #173]  (TSLA_Q4_2022) As far as where we stand in **Texas**, one of four lines are in **production**, with the remaining three in stages of commissioning and install.
+6. [Sentence #239]  (TSLA_Q4_2022) Like just to emphasize on that, we've started installation of **production** equipment here in ****Giga** **Texas****, castings, GA, general assembly, body shops.
+7. [Sentence #245]  (TSLA_Q4_2022) Martin Viecha
+
+Where will Tesla build the next Megapack factories?
+8. [Sentence #273]  (TSLA_Q4_2022) And on the cost side, the numbers that we just saw from you, as you pointed out, were weighed down by the 4680 ramp, the **Berlin**, Austin, **Giga** castings, processes, not at rate.
+9. [Sentence #313]  (TSLA_Q4_2022) Zachary Kirkhorn
+
+The Austin and **Berlin** ramp inefficiencies in 4680 will make a substantial amount of progress on that over the course of the year, and that's within Tesla's control.
+10. [Sentence #579]  (TSLA_Q4_2023) The first manufacturing location for this will be at our Gigafactory and headquarters in Austin, **Texas**, and then we'll follow that up with other locations around the world.
+11. [Sentence #635]  (TSLA_Q4_2023) The reason I wanted to put this new revolutionary manufacturing line at ****Giga** **Texas**** was because we really need the engineers to be living on the line.
+12. [Sentence #729]  (TSLA_Q4_2023) When will Tesla start **construction** on the **Giga** Nevada expansion and **Giga** Mexico, and when can we expect each of these to produce their first products such as 4680 cell, Semi, and next-gen vehicles?
+13. [Sentence #738]  (TSLA_Q4_2023) And then we were able to actually do an improved -- slightly improved versions of, in some cases, significantly improved versions of the Model Y **production** line in **Shanghai** and **Berlin**.
+14. [Sentence #819]  (TSLA_Q4_2023) The next question is, can we get Tesla Energy volumes reported in the **production** and delivery release?
+
+Total transcript-order evidence sentences: 14
+
+--- Evidence by Similarity ---
+1. [Sentence #239]  (TSLA_Q4_2022) (Similarity: 1.017) Like just to emphasize on that, we've started installation of **production** equipment here in ****Giga** **Texas****, castings, GA, general assembly, body shops.
+2. [Sentence #635]  (TSLA_Q4_2023) (Similarity: 0.978) The reason I wanted to put this new revolutionary manufacturing line at ****Giga** **Texas**** was because we really need the engineers to be living on the line.
+3. [Sentence #729]  (TSLA_Q4_2023) (Similarity: 0.953) When will Tesla start **construction** on the **Giga** Nevada expansion and **Giga** Mexico, and when can we expect each of these to produce their first products such as 4680 cell, Semi, and next-gen vehicles?
+4. [Sentence #738]  (TSLA_Q4_2023) (Similarity: 0.736) And then we were able to actually do an improved -- slightly improved versions of, in some cases, significantly improved versions of the Model Y **production** line in **Shanghai** and **Berlin**.
+5. [Sentence #35]  (TSLA_Q4_2022) (Similarity: 0.702) We're also making very good progress on cost control and we're seeing the cost **production** in **Berlin** and Austin drop commensurate with the growth in **production**, as you'd expect, so yeah.
+6. [Sentence #72]  (TSLA_Q4_2022) (Similarity: 0.695) Second, we are working through the early ramp of inefficiencies of our Austin and **Berlin** and in-house cell **production** factories.
+7. [Sentence #273]  (TSLA_Q4_2022) (Similarity: 0.670) And on the cost side, the numbers that we just saw from you, as you pointed out, were weighed down by the 4680 ramp, the **Berlin**, Austin, **Giga** castings, processes, not at rate.
+8. [Sentence #819]  (TSLA_Q4_2023) (Similarity: 0.669) The next question is, can we get Tesla Energy volumes reported in the **production** and delivery release?
+9. [Sentence #313]  (TSLA_Q4_2022) (Similarity: 0.661) Zachary Kirkhorn
+
+The Austin and **Berlin** ramp inefficiencies in 4680 will make a substantial amount of progress on that over the course of the year, and that's within Tesla's control.
+10. [Sentence #173]  (TSLA_Q4_2022) (Similarity: 0.652) As far as where we stand in **Texas**, one of four lines are in **production**, with the remaining three in stages of commissioning and install.
+11. [Sentence #245]  (TSLA_Q4_2022) (Similarity: 0.634) Martin Viecha
+
+Where will Tesla build the next Megapack factories?
+12. [Sentence #579]  (TSLA_Q4_2023) (Similarity: 0.609) The first manufacturing location for this will be at our Gigafactory and headquarters in Austin, **Texas**, and then we'll follow that up with other locations around the world.
+13. [Sentence #106]  (TSLA_Q4_2022) (Similarity: 0.608) The next investor question is, will Tesla be able to take full advantage of advanced manufacturing **production** credits for battery cells packs?
+14. [Sentence #41]  (TSLA_Q4_2022) (Similarity: 0.605) Regarding batteries, **production** rate of 4680 cells reached 1,000 cars a week at the end of last year, and we're increasing capacity for 4680 cells by another 100 gigawatt-hours as announced at **Giga** Nevada yesterday.
+
+Total similarity-top evidence sentences: 14
+
+-----

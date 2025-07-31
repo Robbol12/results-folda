@@ -1,0 +1,21 @@
+[TSLA_Q3_2023] Did Tesla deliver on its construction and production targets for Giga Shanghai, Giga Berlin, and Giga Texas between 2022 and 2023?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #99]  Could you please provide an update on capacity expansion plans for company’s factories in **Berlin** and Austin, and the opening schedule of Gigafactory Mexico?
+2. [Sentence #262]  How much was like the sequential benefit, I imagine, of **production** ramping at **Berlin** and Austin?
+3. [Sentence #448]  Unidentified Company Representative
+
+Like in ****Giga** **Texas****.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #448]  (Similarity: 0.856) Unidentified Company Representative
+
+Like in ****Giga** **Texas****.
+2. [Sentence #262]  (Similarity: 0.726) How much was like the sequential benefit, I imagine, of **production** ramping at **Berlin** and Austin?
+3. [Sentence #99]  (Similarity: 0.672) Could you please provide an update on capacity expansion plans for company’s factories in **Berlin** and Austin, and the opening schedule of Gigafactory Mexico?
+
+Total similarity-top evidence sentences: 3
+
+-----
