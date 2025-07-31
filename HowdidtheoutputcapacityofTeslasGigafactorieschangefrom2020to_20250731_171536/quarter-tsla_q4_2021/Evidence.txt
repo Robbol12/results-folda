@@ -1,0 +1,23 @@
+[TSLA_Q4_2021] How did the output capacity of Tesla’s Gigafactories change from 2020 to 2024, and did it match the capacity projections shared in earnings calls?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #25]  **Capacity** expansion will continue through maximizing **output** of each factory and building new factories and new locations in the future.
+2. [Sentence #44]  The fundamental focus of Tesla this year is scaling **output**.
+3. [Sentence #253]  Elon Musk
+
+I don't think we want to comment on -- like that's -- it's always possible to increase the **output** of any given factory, to say, what's the next **capacity**?
+4. [Sentence #254]  Well, it's difficult to say what that next **capacity** is because you put a lot of evidence that you increase **capacity** quite a lot.
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #253]  (Similarity: 0.868) Elon Musk
+
+I don't think we want to comment on -- like that's -- it's always possible to increase the **output** of any given factory, to say, what's the next **capacity**?
+2. [Sentence #25]  (Similarity: 0.799) **Capacity** expansion will continue through maximizing **output** of each factory and building new factories and new locations in the future.
+3. [Sentence #44]  (Similarity: 0.679) The fundamental focus of Tesla this year is scaling **output**.
+4. [Sentence #254]  (Similarity: 0.629) Well, it's difficult to say what that next **capacity** is because you put a lot of evidence that you increase **capacity** quite a lot.
+
+Total similarity-top evidence sentences: 4
+
+-----

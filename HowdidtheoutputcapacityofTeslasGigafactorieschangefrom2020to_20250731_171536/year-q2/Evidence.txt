@@ -1,0 +1,25 @@
+[Year Q2] How did the output capacity of Tesla’s Gigafactories change from 2020 to 2024, and did it match the capacity projections shared in earnings calls?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #350]  (TSLA_Q2_2020) And that frees up a lot of **capacity** for things like the Tesla Semi and the other projects so far higher energy density.
+2. [Sentence #994]  (TSLA_Q2_2021) So I was wondering in which size you are ramping production **capacity** for the 4680 cell and where you stand on ramping up that **capacity** as well?
+3. [Sentence #1119]  (TSLA_Q2_2021) ****Earnings** **calls**** are not the right place for us to make a major product announcement, so yes.
+4. [Sentence #2379]  (TSLA_Q2_2024) Elon Musk
+
+I think we want to limit product announcements to when we have a special -- specific product announcement event, rather than ****earnings** **calls****.
+5. [Sentence #2751]  (TSLA_Q2_2024) Yes -- but I've said this before on ****earnings** **calls****, it -- the value of Tesla overwhelmingly is autonomy.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #2751]  (TSLA_Q2_2024) (Similarity: 0.852) Yes -- but I've said this before on ****earnings** **calls****, it -- the value of Tesla overwhelmingly is autonomy.
+2. [Sentence #1119]  (TSLA_Q2_2021) (Similarity: 0.790) ****Earnings** **calls**** are not the right place for us to make a major product announcement, so yes.
+3. [Sentence #2379]  (TSLA_Q2_2024) (Similarity: 0.724) Elon Musk
+
+I think we want to limit product announcements to when we have a special -- specific product announcement event, rather than ****earnings** **calls****.
+4. [Sentence #350]  (TSLA_Q2_2020) (Similarity: 0.638) And that frees up a lot of **capacity** for things like the Tesla Semi and the other projects so far higher energy density.
+5. [Sentence #994]  (TSLA_Q2_2021) (Similarity: 0.608) So I was wondering in which size you are ramping production **capacity** for the 4680 cell and where you stand on ramping up that **capacity** as well?
+
+Total similarity-top evidence sentences: 5
+
+-----

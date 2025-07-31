@@ -1,0 +1,15 @@
+[TSLA_Q3_2021] How did the output capacity of Tesla’s Gigafactories change from 2020 to 2024, and did it match the capacity projections shared in earnings calls?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #92]  The next question, a question from retail shareholder is, what is Tesla 's goal for vehicle production **capacity** for the four current factories, Fremont, Shanghai, Austin and Berlin by 2024?
+2. [Sentence #368]  And we'll continue to update on ****earnings** **calls**** as we learn more information.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #368]  (Similarity: 0.830) And we'll continue to update on ****earnings** **calls**** as we learn more information.
+2. [Sentence #92]  (Similarity: 0.731) The next question, a question from retail shareholder is, what is Tesla 's goal for vehicle production **capacity** for the four current factories, Fremont, Shanghai, Austin and Berlin by 2024?
+
+Total similarity-top evidence sentences: 2
+
+-----

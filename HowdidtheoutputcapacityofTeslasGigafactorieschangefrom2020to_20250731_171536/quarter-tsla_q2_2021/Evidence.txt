@@ -1,0 +1,15 @@
+[TSLA_Q2_2021] How did the output capacity of Tesla’s Gigafactories change from 2020 to 2024, and did it match the capacity projections shared in earnings calls?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #389]  So I was wondering in which size you are ramping production **capacity** for the 4680 cell and where you stand on ramping up that **capacity** as well?
+2. [Sentence #514]  ****Earnings** **calls**** are not the right place for us to make a major product announcement, so yes.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #514]  (Similarity: 0.790) ****Earnings** **calls**** are not the right place for us to make a major product announcement, so yes.
+2. [Sentence #389]  (Similarity: 0.608) So I was wondering in which size you are ramping production **capacity** for the 4680 cell and where you stand on ramping up that **capacity** as well?
+
+Total similarity-top evidence sentences: 2
+
+-----

@@ -1,0 +1,15 @@
+[TSLA_Q3_2020] How did the output capacity of Tesla’s Gigafactories change from 2020 to 2024, and did it match the capacity projections shared in earnings calls?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #79]  So generally, what I see is the manufacturing **capacity** is underestimated in the beginning for quite some time.
+2. [Sentence #466]  So if I look at your production **capacity** at the end of this year, it's going to be almost 850,000 units on an annualized basis.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #466]  (Similarity: 0.640) So if I look at your production **capacity** at the end of this year, it's going to be almost 850,000 units on an annualized basis.
+2. [Sentence #79]  (Similarity: 0.608) So generally, what I see is the manufacturing **capacity** is underestimated in the beginning for quite some time.
+
+Total similarity-top evidence sentences: 2
+
+-----

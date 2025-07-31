@@ -1,0 +1,15 @@
+[TSLA_Q3_2022] How did the output capacity of Tesla’s Gigafactories change from 2020 to 2024, and did it match the capacity projections shared in earnings calls?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #55]  And several years ago, I said, I think on an **earnings** call, and I thought it was possible for Tesla to be worth more than Apple, which was then the highest market cap company, I think, in the market.
+2. [Sentence #209]  Total **output** is up 3x quarter-over-quarter, and production is tracking to exceed 1,000 car cells per week this quarter, as we said last quarter.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #55]  (Similarity: 0.617) And several years ago, I said, I think on an **earnings** call, and I thought it was possible for Tesla to be worth more than Apple, which was then the highest market cap company, I think, in the market.
+2. [Sentence #209]  (Similarity: 0.610) Total **output** is up 3x quarter-over-quarter, and production is tracking to exceed 1,000 car cells per week this quarter, as we said last quarter.
+
+Total similarity-top evidence sentences: 2
+
+-----

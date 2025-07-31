@@ -1,0 +1,71 @@
+[Multi-Year Analysis] How did the output capacity of Tesla’s Gigafactories change from 2020 to 2024, and did it match the capacity projections shared in earnings calls?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #25]  (TSLA_Q4_2021) **Capacity** expansion will continue through maximizing **output** of each factory and building new factories and new locations in the future.
+2. [Sentence #41]  (TSLA_Q4_2022) Regarding batteries, production rate of 4680 cells reached 1,000 cars a week at the end of last year, and we're increasing **capacity** for 4680 cells by another 100 gigawatt-hours as announced at Giga Nevada yesterday.
+3. [Sentence #44]  (TSLA_Q4_2021) The fundamental focus of Tesla this year is scaling **output**.
+4. [Sentence #55]  (TSLA_Q3_2022) And several years ago, I said, I think on an **earnings** call, and I thought it was possible for Tesla to be worth more than Apple, which was then the highest market cap company, I think, in the market.
+5. [Sentence #79]  (TSLA_Q3_2020) So generally, what I see is the manufacturing **capacity** is underestimated in the beginning for quite some time.
+6. [Sentence #92]  (TSLA_Q3_2021) The next question, a question from retail shareholder is, what is Tesla 's goal for vehicle production **capacity** for the four current factories, Fremont, Shanghai, Austin and Berlin by 2024?
+7. [Sentence #99]  (TSLA_Q3_2023) Could you please provide an update on **capacity** expansion plans for company’s factories in Berlin and Austin, and the opening schedule of Gigafactory Mexico?
+8. [Sentence #118]  (TSLA_Q2_2024) Elon Musk
+
+I think we want to limit product announcements to when we have a special -- specific product announcement event, rather than ****earnings** **calls****.
+9. [Sentence #120]  (TSLA_Q3_2023) I just wanted to address that unfortunately we don’t answer product related questions and timings on ****earnings** **calls****.
+10. [Sentence #195]  (TSLA_Q4_2020) The next question is what is Tesla's current gigawatt-hour run rate of the 4680 cell production?
+11. [Sentence #200]  (TSLA_Q4_2020) But we are installing **capacity** for -- in 2022 for 200 gigawatt hours a year and we think probably we should be able to achieve 30% of targeted design **capacity** in 2022.
+12. [Sentence #209]  (TSLA_Q3_2022) Total **output** is up 3x quarter-over-quarter, and production is tracking to exceed 1,000 car cells per week this quarter, as we said last quarter.
+13. [Sentence #253]  (TSLA_Q4_2021) Elon Musk
+
+I don't think we want to comment on -- like that's -- it's always possible to increase the **output** of any given factory, to say, what's the next **capacity**?
+14. [Sentence #254]  (TSLA_Q4_2021) Well, it's difficult to say what that next **capacity** is because you put a lot of evidence that you increase **capacity** quite a lot.
+15. [Sentence #289]  (TSLA_Q4_2020) And the next question is, is it fair to argue that the best way to think about company's long-term **earnings** power is tied to profit per unit of battery **capacity**?
+16. [Sentence #294]  (TSLA_Q4_2020) What's the **output** of factory cells in gigawatt hours?
+17. [Sentence #312]  (TSLA_Q4_2020) And so we -- since the cell **output** drives vehicle **output**, the – and then – I mean probably the Roadster value of Tesla is just what's the cell **output** that implies vehicle **output**, and then at least double that for autonomy revenue probably one level.
+18. [Sentence #350]  (TSLA_Q2_2020) And that frees up a lot of **capacity** for things like the Tesla Semi and the other projects so far higher energy density.
+19. [Sentence #368]  (TSLA_Q3_2021) And we'll continue to update on ****earnings** **calls**** as we learn more information.
+20. [Sentence #389]  (TSLA_Q1_2021) So I was wondering in which size you are ramping production **capacity** for the 4680 cell and where you stand on ramping up that **capacity** as well?
+21. [Sentence #389]  (TSLA_Q1_2021) So I was wondering in which size you are ramping production **capacity** for the 4680 cell and where you stand on ramping up that **capacity** as well?
+22. [Sentence #466]  (TSLA_Q3_2020) So if I look at your production **capacity** at the end of this year, it's going to be almost 850,000 units on an annualized basis.
+23. [Sentence #490]  (TSLA_Q2_2024) Yes -- but I've said this before on ****earnings** **calls****, it -- the value of Tesla overwhelmingly is autonomy.
+24. [Sentence #501]  (TSLA_Q1_2022) With the growth of the cars that we’re producing and then anticipating what you were discussing, overall charger **capacity** is really important.
+25. [Sentence #514]  (TSLA_Q1_2021) ****Earnings** **calls**** are not the right place for us to make a major product announcement, so yes.
+26. [Sentence #514]  (TSLA_Q1_2021) ****Earnings** **calls**** are not the right place for us to make a major product announcement, so yes.
+
+Total transcript-order evidence sentences: 26
+
+--- Evidence by Similarity ---
+1. [Sentence #253]  (TSLA_Q4_2021) (Similarity: 0.868) Elon Musk
+
+I don't think we want to comment on -- like that's -- it's always possible to increase the **output** of any given factory, to say, what's the next **capacity**?
+2. [Sentence #490]  (TSLA_Q2_2024) (Similarity: 0.852) Yes -- but I've said this before on ****earnings** **calls****, it -- the value of Tesla overwhelmingly is autonomy.
+3. [Sentence #368]  (TSLA_Q3_2021) (Similarity: 0.830) And we'll continue to update on ****earnings** **calls**** as we learn more information.
+4. [Sentence #25]  (TSLA_Q4_2021) (Similarity: 0.799) **Capacity** expansion will continue through maximizing **output** of each factory and building new factories and new locations in the future.
+5. [Sentence #514]  (TSLA_Q1_2021) (Similarity: 0.790) ****Earnings** **calls**** are not the right place for us to make a major product announcement, so yes.
+6. [Sentence #514]  (TSLA_Q1_2021) (Similarity: 0.790) ****Earnings** **calls**** are not the right place for us to make a major product announcement, so yes.
+7. [Sentence #120]  (TSLA_Q3_2023) (Similarity: 0.748) I just wanted to address that unfortunately we don’t answer product related questions and timings on ****earnings** **calls****.
+8. [Sentence #92]  (TSLA_Q3_2021) (Similarity: 0.731) The next question, a question from retail shareholder is, what is Tesla 's goal for vehicle production **capacity** for the four current factories, Fremont, Shanghai, Austin and Berlin by 2024?
+9. [Sentence #118]  (TSLA_Q2_2024) (Similarity: 0.724) Elon Musk
+
+I think we want to limit product announcements to when we have a special -- specific product announcement event, rather than ****earnings** **calls****.
+10. [Sentence #44]  (TSLA_Q4_2021) (Similarity: 0.679) The fundamental focus of Tesla this year is scaling **output**.
+11. [Sentence #294]  (TSLA_Q4_2020) (Similarity: 0.678) What's the **output** of factory cells in gigawatt hours?
+12. [Sentence #41]  (TSLA_Q4_2022) (Similarity: 0.661) Regarding batteries, production rate of 4680 cells reached 1,000 cars a week at the end of last year, and we're increasing **capacity** for 4680 cells by another 100 gigawatt-hours as announced at Giga Nevada yesterday.
+13. [Sentence #289]  (TSLA_Q4_2020) (Similarity: 0.641) And the next question is, is it fair to argue that the best way to think about company's long-term **earnings** power is tied to profit per unit of battery **capacity**?
+14. [Sentence #466]  (TSLA_Q3_2020) (Similarity: 0.640) So if I look at your production **capacity** at the end of this year, it's going to be almost 850,000 units on an annualized basis.
+15. [Sentence #350]  (TSLA_Q2_2020) (Similarity: 0.638) And that frees up a lot of **capacity** for things like the Tesla Semi and the other projects so far higher energy density.
+16. [Sentence #99]  (TSLA_Q3_2023) (Similarity: 0.635) Could you please provide an update on **capacity** expansion plans for company’s factories in Berlin and Austin, and the opening schedule of Gigafactory Mexico?
+17. [Sentence #312]  (TSLA_Q4_2020) (Similarity: 0.633) And so we -- since the cell **output** drives vehicle **output**, the – and then – I mean probably the Roadster value of Tesla is just what's the cell **output** that implies vehicle **output**, and then at least double that for autonomy revenue probably one level.
+18. [Sentence #254]  (TSLA_Q4_2021) (Similarity: 0.629) Well, it's difficult to say what that next **capacity** is because you put a lot of evidence that you increase **capacity** quite a lot.
+19. [Sentence #195]  (TSLA_Q4_2020) (Similarity: 0.628) The next question is what is Tesla's current gigawatt-hour run rate of the 4680 cell production?
+20. [Sentence #55]  (TSLA_Q3_2022) (Similarity: 0.617) And several years ago, I said, I think on an **earnings** call, and I thought it was possible for Tesla to be worth more than Apple, which was then the highest market cap company, I think, in the market.
+21. [Sentence #200]  (TSLA_Q4_2020) (Similarity: 0.615) But we are installing **capacity** for -- in 2022 for 200 gigawatt hours a year and we think probably we should be able to achieve 30% of targeted design **capacity** in 2022.
+22. [Sentence #209]  (TSLA_Q3_2022) (Similarity: 0.610) Total **output** is up 3x quarter-over-quarter, and production is tracking to exceed 1,000 car cells per week this quarter, as we said last quarter.
+23. [Sentence #79]  (TSLA_Q3_2020) (Similarity: 0.608) So generally, what I see is the manufacturing **capacity** is underestimated in the beginning for quite some time.
+24. [Sentence #389]  (TSLA_Q1_2021) (Similarity: 0.608) So I was wondering in which size you are ramping production **capacity** for the 4680 cell and where you stand on ramping up that **capacity** as well?
+25. [Sentence #389]  (TSLA_Q1_2021) (Similarity: 0.608) So I was wondering in which size you are ramping production **capacity** for the 4680 cell and where you stand on ramping up that **capacity** as well?
+26. [Sentence #501]  (TSLA_Q1_2022) (Similarity: 0.601) With the growth of the cars that we’re producing and then anticipating what you were discussing, overall charger **capacity** is really important.
+
+Total similarity-top evidence sentences: 26
+
+-----

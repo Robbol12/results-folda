@@ -1,0 +1,117 @@
+[Year Q2] How did the output capacity of Tesla’s Gigafactories change from 2020 to 2024, and did it match the capacity projections shared in earnings calls?
+
+1. [Sentence #2751, TSLA_Q2_2024] [UNCERTAIN]
+     I think model Y3 and Y get IRA help for customers, and I think your batteries get production tax credits.
+     So, just one, can you clarify if the end, if IRA ends, would it be a negative for your profitability in the near-term?
+     Why might it not be a negative?
+     And then, any framing of the current support you get, IRA-related?
+     Elon Musk
+
+I guess that there would be like some impact, but I think it would be devastating for our competitors.
+     But -- and it would hurt Tesla slightly.
+     But long-term probably actually helps Tesla would be my guess.
+>>> Yes -- but I've said this before on earnings calls, it -- the value of Tesla overwhelmingly is autonomy.
+     These other things are in the noise relative to autonomy.
+     So I recommend anyone who doesn't believe that Tesla will solve vehicle autonomy should not hold Tesla stock.
+     They should sell their Tesla stock.
+     You should believe Tesla will solve autonomy, you should buy Tesla stock.
+     And all these other questions are in the noise.
+     Vaibhav Taneja
+
+Yes, I mean, I'll add this just to clarify a few things that -- at the end of the day, when we are looking at our business, we've always been looking at it whether or not IRA is there and we want our business to grow healthy without having any subsidies coming in, whichever way you look at it.
+     And that's the way we have always modeled everything.
+-----
+2. [Sentence #1119, TSLA_Q2_2021] [PLAN]
+     Dan Levy
+
+Great.
+     And then just related, as we see Berlin and Austin ramp, I’d like to just get a sense on the comparison of Fremont versus the new capacity, obviously, Fremont is non-optimized because you bought the old NUMMI facility.
+     You had to retrofit that to your need.
+     So maybe you can give us a sense of how your new capacity is going to differ versus Fremont.
+     What are the areas that you have efficiencies that you previously didn’t have and maybe how much does that add up to improved COGS over time to help you achieve that $25,000 vehicle?
+     Elon Musk
+
+Yes.
+     We always talk too much about future product development.
+>>> Earnings calls are not the right place for us to make a major product announcement, so yes.
+     We will get there.
+     We will provide it later.
+     Martin Viecha
+
+All right.
+     Thank you very much.
+     Unfortunately, this is all the time we have for today.
+     Thank you very much for dialing in and for listening, and we will speak to you again in about three months.
+     Thank you.
+-----
+3. [Sentence #2379, TSLA_Q2_2024] [SCALE ACHIEVED]
+     So I mean, based on the current trend, it seems as though we should get miles between interventions to be high enough that -- to be far enough in excess of humans that you could do unsupervised possibly by the end of this year.
+     I would be shocked if we cannot do it next year.
+     So next year seems highly probable to me based on [quite simply] (ph) plus the points of the curve of miles between intervention.
+     That trend exceeds humans for sure next year, so yes.
+     Travis Axelrod
+
+Thank you very much.
+     Our third question is, the Cybertruck is an iconic product that wows everyone who sees it.
+     Do you have plans to expand the cyber vehicle lineup to a cyber SUV or cyber van?
+>>> Elon Musk
+
+I think we want to limit product announcements to when we have a special -- specific product announcement event, rather than earnings calls.
+     Travis Axelrod
+
+Great, thank you.
+     Our next question is, what is the current status of 4680 battery cell production and how is the ramp up progressing?
+     Lars Moravy
+
+Yes, 4680 production ramped strongly in Q2, delivering 51% more cells than Q1 while reducing COGS significantly.
+     We currently produce more than 1,400 Cybertrucks of 4680 cells per week, and we'll continue to ramp output as we drive cost down further towards the cost parity target we set for the end of the year.
+     We've built our first validation Cybertruck with dry cathode process made on our mass production equipment, which is a huge technical milestone and we're super proud of that.
+     We're on track for production launch with dry cathode in Q4, and this will enable cell cost to be significantly below available alternatives, which was the original goal of the 4680 program.
+     Travis Axelrod
+
+Great.
+-----
+4. [Sentence #350, TSLA_Q2_2020] [SCALE ACHIEVED]
+     Elon Musk
+
+Yes.
+     And there’s like two general classes of cell.
+     There's like iron phosphate, and then the nickel based, the nickel based cells have higher energy density so longer range.
+     Obviously, those are needed for something like Semi, where every, every unit of mass that you add in battery pack you have to subtract in cargo.
+     So it's very important to have a mass efficient and long range pack for four batteries.
+     What we're seeing with our passenger vehicles is that our powertrain efficiency and tire efficiency, drive coefficient like basically all of the things that, like, you know, our HVAC, going to a heat pump, basically our total vehicle efficiency has gotten good enough with Model 3, for example, that we actually are comfortable having an iron phosphate battery pack in Model 3 in China and that that'll be in volume production later this year.
+     So, we think that getting a range that is in the high 200 -- basically, we think you probably getting a range of almost 300 miles with an iron phosphate pack, taking into account a whole bunch of powertrain and other vehicle efficiencies.
+>>> And that frees up a lot of capacity for things like the Tesla Semi and the other projects so far higher energy density.
+     So, yes, so you have like two supply chains that you can tap into iron phosphate or nickel.
+     We use very little cobalt in our system already and that's -- that may to zero along, so it's basically about nickel.
+     Martin Viecha
+
+Thank you.
+     The next question is, Tesla recently decided not to produce Standard 3 Range version of Model Y.
+     No longer offers a Standard Range Model S or X and has announced ramping of the Semi.
+     Does this shift from smaller pack vehicles suggest that Tesla is not battery constrained as in the past?
+     What are the biggest constraints now?
+-----
+5. [Sentence #994, TSLA_Q2_2021] [SCALE ACHIEVED]
+     Pierre Ferragu
+
+Hi, guys.
+     Thanks so much for taking my question.
+     I’d love to get actually based on what you presented on the Battery Day.
+     In the last six, seven months, I was wondering how much progress you have made on that front, first in terms of process development.
+     So how are things coming together on your pilot line?
+     Are you getting to the kind of production throughput you are aiming for?
+     And second, actually on your production ramp.
+>>> So I was wondering in which size you are ramping production capacity for the 4680 cell and where you stand on ramping up that capacity as well?
+     And I have a quick follow-up on energy as well if that’s possible.
+     Elon Musk
+
+Well, so we have the – and Drew can add to this.
+     But we have the - a small sort of pilot plant, which is still big by normal standards.
+     We expect to have like a 10-gigawatt-hour per year capability in Fremont, California.
+     And we made quite a few cells.
+     We are not quite yet at the point where we think the cells are reliable enough to be shipped in cars, but we are getting close to that point.
+     And then we have already ordered most of the equipment for battery production in Berlin and then much of it for Austin as well.
+-----
+
+Total context windows: 5

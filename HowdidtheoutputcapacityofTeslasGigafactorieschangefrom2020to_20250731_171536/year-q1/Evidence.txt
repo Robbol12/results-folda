@@ -1,0 +1,17 @@
+[Year Q1] How did the output capacity of Tesla’s Gigafactories change from 2020 to 2024, and did it match the capacity projections shared in earnings calls?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #921]  (TSLA_Q1_2021) So I was wondering in which size you are ramping production **capacity** for the 4680 cell and where you stand on ramping up that **capacity** as well?
+2. [Sentence #1046]  (TSLA_Q1_2021) ****Earnings** **calls**** are not the right place for us to make a major product announcement, so yes.
+3. [Sentence #1556]  (TSLA_Q1_2022) With the growth of the cars that we’re producing and then anticipating what you were discussing, overall charger **capacity** is really important.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #1046]  (TSLA_Q1_2021) (Similarity: 0.790) ****Earnings** **calls**** are not the right place for us to make a major product announcement, so yes.
+2. [Sentence #921]  (TSLA_Q1_2021) (Similarity: 0.608) So I was wondering in which size you are ramping production **capacity** for the 4680 cell and where you stand on ramping up that **capacity** as well?
+3. [Sentence #1556]  (TSLA_Q1_2022) (Similarity: 0.601) With the growth of the cars that we’re producing and then anticipating what you were discussing, overall charger **capacity** is really important.
+
+Total similarity-top evidence sentences: 3
+
+-----

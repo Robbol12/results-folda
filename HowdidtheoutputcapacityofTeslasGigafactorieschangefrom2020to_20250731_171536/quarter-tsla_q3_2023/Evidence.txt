@@ -1,0 +1,15 @@
+[TSLA_Q3_2023] How did the output capacity of Tesla’s Gigafactories change from 2020 to 2024, and did it match the capacity projections shared in earnings calls?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #99]  Could you please provide an update on **capacity** expansion plans for company’s factories in Berlin and Austin, and the opening schedule of Gigafactory Mexico?
+2. [Sentence #120]  I just wanted to address that unfortunately we don’t answer product related questions and timings on ****earnings** **calls****.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #120]  (Similarity: 0.748) I just wanted to address that unfortunately we don’t answer product related questions and timings on ****earnings** **calls****.
+2. [Sentence #99]  (Similarity: 0.635) Could you please provide an update on **capacity** expansion plans for company’s factories in Berlin and Austin, and the opening schedule of Gigafactory Mexico?
+
+Total similarity-top evidence sentences: 2
+
+-----

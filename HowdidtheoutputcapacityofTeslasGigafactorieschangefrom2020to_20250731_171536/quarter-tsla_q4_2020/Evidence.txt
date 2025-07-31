@@ -1,0 +1,21 @@
+[TSLA_Q4_2020] How did the output capacity of Tesla’s Gigafactories change from 2020 to 2024, and did it match the capacity projections shared in earnings calls?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #195]  The next question is what is Tesla's current gigawatt-hour run rate of the 4680 cell production?
+2. [Sentence #200]  But we are installing **capacity** for -- in 2022 for 200 gigawatt hours a year and we think probably we should be able to achieve 30% of targeted design **capacity** in 2022.
+3. [Sentence #289]  And the next question is, is it fair to argue that the best way to think about company's long-term **earnings** power is tied to profit per unit of battery **capacity**?
+4. [Sentence #294]  What's the **output** of factory cells in gigawatt hours?
+5. [Sentence #312]  And so we -- since the cell **output** drives vehicle **output**, the – and then – I mean probably the Roadster value of Tesla is just what's the cell **output** that implies vehicle **output**, and then at least double that for autonomy revenue probably one level.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #294]  (Similarity: 0.678) What's the **output** of factory cells in gigawatt hours?
+2. [Sentence #289]  (Similarity: 0.641) And the next question is, is it fair to argue that the best way to think about company's long-term **earnings** power is tied to profit per unit of battery **capacity**?
+3. [Sentence #312]  (Similarity: 0.633) And so we -- since the cell **output** drives vehicle **output**, the – and then – I mean probably the Roadster value of Tesla is just what's the cell **output** that implies vehicle **output**, and then at least double that for autonomy revenue probably one level.
+4. [Sentence #195]  (Similarity: 0.628) The next question is what is Tesla's current gigawatt-hour run rate of the 4680 cell production?
+5. [Sentence #200]  (Similarity: 0.615) But we are installing **capacity** for -- in 2022 for 200 gigawatt hours a year and we think probably we should be able to achieve 30% of targeted design **capacity** in 2022.
+
+Total similarity-top evidence sentences: 5
+
+-----

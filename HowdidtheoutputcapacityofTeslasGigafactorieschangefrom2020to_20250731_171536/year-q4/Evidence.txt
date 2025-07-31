@@ -1,0 +1,35 @@
+[Year Q4] How did the output capacity of Tesla’s Gigafactories change from 2020 to 2024, and did it match the capacity projections shared in earnings calls?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #195]  (TSLA_Q4_2020) The next question is what is Tesla's current gigawatt-hour run rate of the 4680 cell production?
+2. [Sentence #200]  (TSLA_Q4_2020) But we are installing **capacity** for -- in 2022 for 200 gigawatt hours a year and we think probably we should be able to achieve 30% of targeted design **capacity** in 2022.
+3. [Sentence #289]  (TSLA_Q4_2020) And the next question is, is it fair to argue that the best way to think about company's long-term **earnings** power is tied to profit per unit of battery **capacity**?
+4. [Sentence #294]  (TSLA_Q4_2020) What's the **output** of factory cells in gigawatt hours?
+5. [Sentence #312]  (TSLA_Q4_2020) And so we -- since the cell **output** drives vehicle **output**, the – and then – I mean probably the Roadster value of Tesla is just what's the cell **output** that implies vehicle **output**, and then at least double that for autonomy revenue probably one level.
+6. [Sentence #602]  (TSLA_Q4_2021) **Capacity** expansion will continue through maximizing **output** of each factory and building new factories and new locations in the future.
+7. [Sentence #621]  (TSLA_Q4_2021) The fundamental focus of Tesla this year is scaling **output**.
+8. [Sentence #830]  (TSLA_Q4_2021) Elon Musk
+
+I don't think we want to comment on -- like that's -- it's always possible to increase the **output** of any given factory, to say, what's the next **capacity**?
+9. [Sentence #831]  (TSLA_Q4_2021) Well, it's difficult to say what that next **capacity** is because you put a lot of evidence that you increase **capacity** quite a lot.
+10. [Sentence #1128]  (TSLA_Q4_2022) Regarding batteries, production rate of 4680 cells reached 1,000 cars a week at the end of last year, and we're increasing **capacity** for 4680 cells by another 100 gigawatt-hours as announced at Giga Nevada yesterday.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #830]  (TSLA_Q4_2021) (Similarity: 0.868) Elon Musk
+
+I don't think we want to comment on -- like that's -- it's always possible to increase the **output** of any given factory, to say, what's the next **capacity**?
+2. [Sentence #602]  (TSLA_Q4_2021) (Similarity: 0.799) **Capacity** expansion will continue through maximizing **output** of each factory and building new factories and new locations in the future.
+3. [Sentence #621]  (TSLA_Q4_2021) (Similarity: 0.679) The fundamental focus of Tesla this year is scaling **output**.
+4. [Sentence #294]  (TSLA_Q4_2020) (Similarity: 0.678) What's the **output** of factory cells in gigawatt hours?
+5. [Sentence #1128]  (TSLA_Q4_2022) (Similarity: 0.661) Regarding batteries, production rate of 4680 cells reached 1,000 cars a week at the end of last year, and we're increasing **capacity** for 4680 cells by another 100 gigawatt-hours as announced at Giga Nevada yesterday.
+6. [Sentence #289]  (TSLA_Q4_2020) (Similarity: 0.641) And the next question is, is it fair to argue that the best way to think about company's long-term **earnings** power is tied to profit per unit of battery **capacity**?
+7. [Sentence #312]  (TSLA_Q4_2020) (Similarity: 0.633) And so we -- since the cell **output** drives vehicle **output**, the – and then – I mean probably the Roadster value of Tesla is just what's the cell **output** that implies vehicle **output**, and then at least double that for autonomy revenue probably one level.
+8. [Sentence #831]  (TSLA_Q4_2021) (Similarity: 0.629) Well, it's difficult to say what that next **capacity** is because you put a lot of evidence that you increase **capacity** quite a lot.
+9. [Sentence #195]  (TSLA_Q4_2020) (Similarity: 0.628) The next question is what is Tesla's current gigawatt-hour run rate of the 4680 cell production?
+10. [Sentence #200]  (TSLA_Q4_2020) (Similarity: 0.615) But we are installing **capacity** for -- in 2022 for 200 gigawatt hours a year and we think probably we should be able to achieve 30% of targeted design **capacity** in 2022.
+
+Total similarity-top evidence sentences: 10
+
+-----

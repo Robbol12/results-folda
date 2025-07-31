@@ -1,0 +1,21 @@
+[TSLA_Q4_2022] How did the output capacity of Tesla’s Gigafactories change from 2020 to 2024, and did it match the capacity projections shared in earnings calls?
+
+1. [Sentence #41] [PILOT]
+     And yes, so I think it's a good thing, all things considered.
+     We're also making very good progress on cost control and we're seeing the cost production in Berlin and Austin drop commensurate with the growth in production, as you'd expect, so yeah.
+     With respect to Autopilot, as of now, we deployed full-self driving beta for city streets to roughly 400,000 customers in North America.
+     This is a huge milestone for autonomy as FSD Beta is the only way any consumer can actually test the latest AI-powered autonomy.
+     And we're currently at about 100 million miles of FSD outside of highways.
+     And our published data shows that improvement in safety system -- stuttering here, safety statistics, it's very clear.
+     So we would not have released the FSD Beta if the safety statistics were not excellent.
+>>> Regarding batteries, production rate of 4680 cells reached 1,000 cars a week at the end of last year, and we're increasing capacity for 4680 cells by another 100 gigawatt-hours as announced at Giga Nevada yesterday.
+     Our long-term goal is to get to well in excess of 1,000 gigawatt-hours of cells produced internally and continue to use the self cell providers.
+     So to be clear, we will continue to use other cell providers.
+     Just that the demand for lithium ion batteries is quasi-infinite and will be for quite some time.
+     So we feel we can scale a lot faster using both suppliers and internally produced cells.
+     And we've got an amazing plan for making the 4680 cell low-cost and high energy density.
+     So, energy storage also saw record growth and that is continuing to accelerate.
+     That's always worth remembering that the three pillars of a sustainable energy future are obviously electric vehicles, solar and wind, and then the third key item is stationary storage to store the energy from solar and wind because obviously, the sun doesn't shine all the time and the wind doesn't blow all the time.
+-----
+
+Total context windows: 1
