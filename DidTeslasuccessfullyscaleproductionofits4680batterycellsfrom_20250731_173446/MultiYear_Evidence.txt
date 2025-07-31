@@ -1,0 +1,71 @@
+[Multi-Year Analysis] Did Tesla successfully scale production of its 4680 battery cells from the 2020 Battery Day announcement through 2021?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #23]  (TSLA_Q3_2020) So we hosted -- showed our plans for how we can expand in the future and improve core **battery** technology, core cell technology at the form factor level, chemistry level and I think more significantly at the manufacturing technology level.
+2. [Sentence #24]  (TSLA_Q4_2021) So, in Texas, we're building the Model Ys with the structural **battery** pack and the **4680** **cells**, and we’ll start delivering after final certification of the vehicle, which should be fairly soon.
+3. [Sentence #36]  (TSLA_Q3_2020) And we expect Giga Berlin will see our first **battery** cell **production** line at **scale**.
+4. [Sentence #56]  (TSLA_Q3_2021) The first question is, when should we expect the first vehicles to be delivered with **4680** **cells**?
+5. [Sentence #72]  (TSLA_Q4_2021) As we sit today, sales from suppliers is actually -- it sort of exceeds our other factory-limiting constraints that you mentioned, Elon, in 2022 or to say differently, **4680** **cells** are not a constraint to our 2022 volume plans, based on the information we have.
+6. [Sentence #87]  (TSLA_Q4_2021) And then probably, we transition into a cell limitation **battery**, total gigawatt-hours of cell limitation, which is when the **4680** will become very important.
+7. [Sentence #104]  (TSLA_Q1_2021) In particular for R&D, this includes the structural **battery** pack and **4680** **cells**, investments in the new SNX, and our neural net and silicon investments.
+8. [Sentence #104]  (TSLA_Q1_2021) In particular for R&D, this includes the structural **battery** pack and **4680** **cells**, investments in the new SNX, and our neural net and silicon investments.
+9. [Sentence #126]  (TSLA_Q4_2021) The first question was on **4680** **cells**, which we already answered.
+10. [Sentence #158]  (TSLA_Q4_2020) The in-house cell manufacturing system we revealed at **Battery** **Day** contains new processes and equipment.
+11. [Sentence #162]  (TSLA_Q3_2020) The first question from retail shareholders is, is Tesla planning to start **4680** cell **production** at Giga Berlin at the same time as vehicle **production**?
+12. [Sentence #163]  (TSLA_Q3_2020) Can Tesla share more information on what products you'll use the **battery** **cells** from the pilot line in Fremont?
+13. [Sentence #195]  (TSLA_Q4_2020) The next question is what is Tesla's current gigawatt-hour run rate of the **4680** cell **production**?
+14. [Sentence #272]  (TSLA_Q1_2021) Could **4680** **cells** address this limitation?
+15. [Sentence #272]  (TSLA_Q1_2021) Could **4680** **cells** address this limitation?
+16. [Sentence #302]  (TSLA_Q4_2020) So -- but the reason Tesla is doing its own cell **production** is in order to accelerate the growth.
+17. [Sentence #314]  (TSLA_Q1_2021) You have got to build the **production** capacity for the **cells**, for the **battery** **cells**, for solar **cells**.
+18. [Sentence #314]  (TSLA_Q1_2021) You have got to build the **production** capacity for the **cells**, for the **battery** **cells**, for solar **cells**.
+19. [Sentence #315]  (TSLA_Q4_2020) The next question is about **4680** **cells** which we already covered in the retail section of this call.
+20. [Sentence #326]  (TSLA_Q3_2020) Just wanted to ask about the targets from your **Battery** **Day**, looked like you could be approaching something like 20 million vehicles by 2030, if you hit those goals.
+21. [Sentence #389]  (TSLA_Q1_2021) So I was wondering in which size you are ramping **production** capacity for the **4680** cell and where you stand on ramping up that capacity as well?
+22. [Sentence #389]  (TSLA_Q1_2021) So I was wondering in which size you are ramping **production** capacity for the **4680** cell and where you stand on ramping up that capacity as well?
+23. [Sentence #398]  (TSLA_Q4_2020) Does this require them to also have the capability to build structural **4680** **cells** of the sort that you're putting in these newer iterations of vehicles?
+24. [Sentence #398]  (TSLA_Q1_2021) But overall, I think, we still feel quite optimistic about achieving volume **production** of the **4680** next year.
+25. [Sentence #398]  (TSLA_Q1_2021) But overall, I think, we still feel quite optimistic about achieving volume **production** of the **4680** next year.
+26. [Sentence #440]  (TSLA_Q4_2020) We will have **cells** group in ourselves for Semi when we were producing the **4680** volume.
+27. [Sentence #476]  (TSLA_Q1_2021) We are also getting very heavy into **4680** development that Drew and team are working on and the associated structural **battery** pack that goes along with that.
+28. [Sentence #476]  (TSLA_Q1_2021) We are also getting very heavy into **4680** development that Drew and team are working on and the associated structural **battery** pack that goes along with that.
+29. [Sentence #479]  (TSLA_Q4_2020) We're aspiring to do better than **Battery** **Day**, but we are confident of at least for doing what we presented at **Battery** **Day**.
+30. [Sentence #613]  (TSLA_Q3_2020) And the follow-up question I had was, during the **Battery** **Day**, you talked about this cell vehicle integration approach.
+
+Total transcript-order evidence sentences: 30
+
+--- Evidence by Similarity ---
+1. [Sentence #24]  (TSLA_Q4_2021) (Similarity: 0.947) So, in Texas, we're building the Model Ys with the structural **battery** pack and the **4680** **cells**, and we’ll start delivering after final certification of the vehicle, which should be fairly soon.
+2. [Sentence #195]  (TSLA_Q4_2020) (Similarity: 0.933) The next question is what is Tesla's current gigawatt-hour run rate of the **4680** cell **production**?
+3. [Sentence #36]  (TSLA_Q3_2020) (Similarity: 0.926) And we expect Giga Berlin will see our first **battery** cell **production** line at **scale**.
+4. [Sentence #162]  (TSLA_Q3_2020) (Similarity: 0.922) The first question from retail shareholders is, is Tesla planning to start **4680** cell **production** at Giga Berlin at the same time as vehicle **production**?
+5. [Sentence #314]  (TSLA_Q1_2021) (Similarity: 0.831) You have got to build the **production** capacity for the **cells**, for the **battery** **cells**, for solar **cells**.
+6. [Sentence #314]  (TSLA_Q1_2021) (Similarity: 0.831) You have got to build the **production** capacity for the **cells**, for the **battery** **cells**, for solar **cells**.
+7. [Sentence #163]  (TSLA_Q3_2020) (Similarity: 0.806) Can Tesla share more information on what products you'll use the **battery** **cells** from the pilot line in Fremont?
+8. [Sentence #389]  (TSLA_Q1_2021) (Similarity: 0.801) So I was wondering in which size you are ramping **production** capacity for the **4680** cell and where you stand on ramping up that capacity as well?
+9. [Sentence #389]  (TSLA_Q1_2021) (Similarity: 0.801) So I was wondering in which size you are ramping **production** capacity for the **4680** cell and where you stand on ramping up that capacity as well?
+10. [Sentence #315]  (TSLA_Q4_2020) (Similarity: 0.784) The next question is about **4680** **cells** which we already covered in the retail section of this call.
+11. [Sentence #72]  (TSLA_Q4_2021) (Similarity: 0.784) As we sit today, sales from suppliers is actually -- it sort of exceeds our other factory-limiting constraints that you mentioned, Elon, in 2022 or to say differently, **4680** **cells** are not a constraint to our 2022 volume plans, based on the information we have.
+12. [Sentence #398]  (TSLA_Q4_2020) (Similarity: 0.758) Does this require them to also have the capability to build structural **4680** **cells** of the sort that you're putting in these newer iterations of vehicles?
+13. [Sentence #87]  (TSLA_Q4_2021) (Similarity: 0.754) And then probably, we transition into a cell limitation **battery**, total gigawatt-hours of cell limitation, which is when the **4680** will become very important.
+14. [Sentence #302]  (TSLA_Q4_2020) (Similarity: 0.753) So -- but the reason Tesla is doing its own cell **production** is in order to accelerate the growth.
+15. [Sentence #272]  (TSLA_Q1_2021) (Similarity: 0.745) Could **4680** **cells** address this limitation?
+16. [Sentence #272]  (TSLA_Q1_2021) (Similarity: 0.745) Could **4680** **cells** address this limitation?
+17. [Sentence #158]  (TSLA_Q4_2020) (Similarity: 0.737) The in-house cell manufacturing system we revealed at **Battery** **Day** contains new processes and equipment.
+18. [Sentence #326]  (TSLA_Q3_2020) (Similarity: 0.736) Just wanted to ask about the targets from your **Battery** **Day**, looked like you could be approaching something like 20 million vehicles by 2030, if you hit those goals.
+19. [Sentence #56]  (TSLA_Q3_2021) (Similarity: 0.726) The first question is, when should we expect the first vehicles to be delivered with **4680** **cells**?
+20. [Sentence #613]  (TSLA_Q3_2020) (Similarity: 0.704) And the follow-up question I had was, during the **Battery** **Day**, you talked about this cell vehicle integration approach.
+21. [Sentence #479]  (TSLA_Q4_2020) (Similarity: 0.699) We're aspiring to do better than **Battery** **Day**, but we are confident of at least for doing what we presented at **Battery** **Day**.
+22. [Sentence #398]  (TSLA_Q1_2021) (Similarity: 0.695) But overall, I think, we still feel quite optimistic about achieving volume **production** of the **4680** next year.
+23. [Sentence #398]  (TSLA_Q1_2021) (Similarity: 0.695) But overall, I think, we still feel quite optimistic about achieving volume **production** of the **4680** next year.
+24. [Sentence #126]  (TSLA_Q4_2021) (Similarity: 0.689) The first question was on **4680** **cells**, which we already answered.
+25. [Sentence #440]  (TSLA_Q4_2020) (Similarity: 0.686) We will have **cells** group in ourselves for Semi when we were producing the **4680** volume.
+26. [Sentence #104]  (TSLA_Q1_2021) (Similarity: 0.685) In particular for R&D, this includes the structural **battery** pack and **4680** **cells**, investments in the new SNX, and our neural net and silicon investments.
+27. [Sentence #104]  (TSLA_Q1_2021) (Similarity: 0.685) In particular for R&D, this includes the structural **battery** pack and **4680** **cells**, investments in the new SNX, and our neural net and silicon investments.
+28. [Sentence #23]  (TSLA_Q3_2020) (Similarity: 0.682) So we hosted -- showed our plans for how we can expand in the future and improve core **battery** technology, core cell technology at the form factor level, chemistry level and I think more significantly at the manufacturing technology level.
+29. [Sentence #476]  (TSLA_Q1_2021) (Similarity: 0.680) We are also getting very heavy into **4680** development that Drew and team are working on and the associated structural **battery** pack that goes along with that.
+30. [Sentence #476]  (TSLA_Q1_2021) (Similarity: 0.680) We are also getting very heavy into **4680** development that Drew and team are working on and the associated structural **battery** pack that goes along with that.
+
+Total similarity-top evidence sentences: 30
+
+-----

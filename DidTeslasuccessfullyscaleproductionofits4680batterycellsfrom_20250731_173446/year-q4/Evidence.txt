@@ -1,0 +1,67 @@
+[Year Q4] Did Tesla successfully scale production of its 4680 battery cells from the 2020 Battery Day announcement through 2021?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #158]  (TSLA_Q4_2020) The in-house cell manufacturing system we revealed at **Battery** **Day** contains new processes and equipment.
+2. [Sentence #165]  (TSLA_Q4_2020) Meanwhile, we've developed enough engineering confidence with our **4680** design and the **production** process and equipment to kick off manufacturing equipment and facility construction to support our 100 gigawatt hour 2022 goal.
+3. [Sentence #195]  (TSLA_Q4_2020) The next question is what is Tesla's current gigawatt-hour run rate of the **4680** cell **production**?
+4. [Sentence #198]  (TSLA_Q4_2020) I mean essentially, what we're saying is that the number to think about or focus on is like we've got a 100 gigawatt-hour total Tesla **cells** produced in 2022.
+5. [Sentence #290]  (TSLA_Q4_2020) Three-terawatt hours target from **Battery** **Day** implies half of long-term **battery** capacity goes to storage, depending on what you assume for pack size on Elon's 20 million vehicle unit goal?
+6. [Sentence #294]  (TSLA_Q4_2020) What's the output of factory **cells** in gigawatt hours?
+7. [Sentence #296]  (TSLA_Q4_2020) Now at Tesla, we've improved the efficiency of cars dramatically, such that you can actually get a pretty good range even with the standard range **battery** pack.
+8. [Sentence #302]  (TSLA_Q4_2020) So -- but the reason Tesla is doing its own cell **production** is in order to accelerate the growth.
+9. [Sentence #304]  (TSLA_Q4_2020) In fact, I want to be really clear, Tesla wants to increase purchases from cell suppliers.
+10. [Sentence #310]  (TSLA_Q4_2020) And we went to our suppliers of **cells** to increase their **production**, and in addition have our **production** that is simply taking up the amount beyond, which they are either unable or unwilling to increase their **production**.
+11. [Sentence #315]  (TSLA_Q4_2020) The next question is about **4680** **cells** which we already covered in the retail section of this call.
+12. [Sentence #398]  (TSLA_Q4_2020) Does this require them to also have the capability to build structural **4680** **cells** of the sort that you're putting in these newer iterations of vehicles?
+13. [Sentence #439]  (TSLA_Q4_2020) We -- this -- if we were to make the Semi like right now, which we could easily go into **production** with the Semi, but we would not have enough to **cells** built for it right now.
+14. [Sentence #440]  (TSLA_Q4_2020) We will have **cells** group in ourselves for Semi when we were producing the **4680** volume.
+15. [Sentence #479]  (TSLA_Q4_2020) We're aspiring to do better than **Battery** **Day**, but we are confident of at least for doing what we presented at **Battery** **Day**.
+16. [Sentence #601]  (TSLA_Q4_2021) So, in Texas, we're building the Model Ys with the structural **battery** pack and the **4680** **cells**, and we’ll start delivering after final certification of the vehicle, which should be fairly soon.
+17. [Sentence #648]  (TSLA_Q4_2021) So throughout 2021, we focused on growing cell supply alongside our in-house **4680** effort to provide us flexibility and insurance as we attempt to grow as fast as possible.
+18. [Sentence #649]  (TSLA_Q4_2021) As we sit today, sales from suppliers is actually -- it sort of exceeds our other factory-limiting constraints that you mentioned, Elon, in 2022 or to say differently, **4680** **cells** are not a constraint to our 2022 volume plans, based on the information we have.
+19. [Sentence #664]  (TSLA_Q4_2021) And then probably, we transition into a cell limitation **battery**, total gigawatt-hours of cell limitation, which is when the **4680** will become very important.
+20. [Sentence #703]  (TSLA_Q4_2021) The first question was on **4680** **cells**, which we already answered.
+21. [Sentence #840]  (TSLA_Q4_2021) Elon Musk
+
+Batteries will probably not be the limiting factor in Cybertruck **production**.
+22. [Sentence #850]  (TSLA_Q4_2021) The next question is, how much of Tesla's margin improvement is from, number one, economies of **scale**; number two, **production** design -- **production** line design efficiencies; number three, reduced transportation costs from multiple plant locations; and number four, pricing versus cost inflation; or number five, other sources?
+23. [Sentence #1027]  (TSLA_Q4_2021) Is it going to be outside of Tesla the largest form factor for batteries?
+24. [Sentence #1039]  (TSLA_Q4_2021) Elon Musk
+
+So, we don't use **4680** at all for the iron **cells**.
+
+Total transcript-order evidence sentences: 24
+
+--- Evidence by Similarity ---
+1. [Sentence #601]  (TSLA_Q4_2021) (Similarity: 0.947) So, in Texas, we're building the Model Ys with the structural **battery** pack and the **4680** **cells**, and we’ll start delivering after final certification of the vehicle, which should be fairly soon.
+2. [Sentence #195]  (TSLA_Q4_2020) (Similarity: 0.933) The next question is what is Tesla's current gigawatt-hour run rate of the **4680** cell **production**?
+3. [Sentence #315]  (TSLA_Q4_2020) (Similarity: 0.784) The next question is about **4680** **cells** which we already covered in the retail section of this call.
+4. [Sentence #649]  (TSLA_Q4_2021) (Similarity: 0.784) As we sit today, sales from suppliers is actually -- it sort of exceeds our other factory-limiting constraints that you mentioned, Elon, in 2022 or to say differently, **4680** **cells** are not a constraint to our 2022 volume plans, based on the information we have.
+5. [Sentence #398]  (TSLA_Q4_2020) (Similarity: 0.758) Does this require them to also have the capability to build structural **4680** **cells** of the sort that you're putting in these newer iterations of vehicles?
+6. [Sentence #664]  (TSLA_Q4_2021) (Similarity: 0.754) And then probably, we transition into a cell limitation **battery**, total gigawatt-hours of cell limitation, which is when the **4680** will become very important.
+7. [Sentence #302]  (TSLA_Q4_2020) (Similarity: 0.753) So -- but the reason Tesla is doing its own cell **production** is in order to accelerate the growth.
+8. [Sentence #158]  (TSLA_Q4_2020) (Similarity: 0.737) The in-house cell manufacturing system we revealed at **Battery** **Day** contains new processes and equipment.
+9. [Sentence #479]  (TSLA_Q4_2020) (Similarity: 0.699) We're aspiring to do better than **Battery** **Day**, but we are confident of at least for doing what we presented at **Battery** **Day**.
+10. [Sentence #703]  (TSLA_Q4_2021) (Similarity: 0.689) The first question was on **4680** **cells**, which we already answered.
+11. [Sentence #440]  (TSLA_Q4_2020) (Similarity: 0.686) We will have **cells** group in ourselves for Semi when we were producing the **4680** volume.
+12. [Sentence #1039]  (TSLA_Q4_2021) (Similarity: 0.680) Elon Musk
+
+So, we don't use **4680** at all for the iron **cells**.
+13. [Sentence #648]  (TSLA_Q4_2021) (Similarity: 0.665) So throughout 2021, we focused on growing cell supply alongside our in-house **4680** effort to provide us flexibility and insurance as we attempt to grow as fast as possible.
+14. [Sentence #1027]  (TSLA_Q4_2021) (Similarity: 0.657) Is it going to be outside of Tesla the largest form factor for batteries?
+15. [Sentence #198]  (TSLA_Q4_2020) (Similarity: 0.657) I mean essentially, what we're saying is that the number to think about or focus on is like we've got a 100 gigawatt-hour total Tesla **cells** produced in 2022.
+16. [Sentence #290]  (TSLA_Q4_2020) (Similarity: 0.653) Three-terawatt hours target from **Battery** **Day** implies half of long-term **battery** capacity goes to storage, depending on what you assume for pack size on Elon's 20 million vehicle unit goal?
+17. [Sentence #310]  (TSLA_Q4_2020) (Similarity: 0.649) And we went to our suppliers of **cells** to increase their **production**, and in addition have our **production** that is simply taking up the amount beyond, which they are either unable or unwilling to increase their **production**.
+18. [Sentence #296]  (TSLA_Q4_2020) (Similarity: 0.647) Now at Tesla, we've improved the efficiency of cars dramatically, such that you can actually get a pretty good range even with the standard range **battery** pack.
+19. [Sentence #439]  (TSLA_Q4_2020) (Similarity: 0.646) We -- this -- if we were to make the Semi like right now, which we could easily go into **production** with the Semi, but we would not have enough to **cells** built for it right now.
+20. [Sentence #850]  (TSLA_Q4_2021) (Similarity: 0.644) The next question is, how much of Tesla's margin improvement is from, number one, economies of **scale**; number two, **production** design -- **production** line design efficiencies; number three, reduced transportation costs from multiple plant locations; and number four, pricing versus cost inflation; or number five, other sources?
+21. [Sentence #165]  (TSLA_Q4_2020) (Similarity: 0.637) Meanwhile, we've developed enough engineering confidence with our **4680** design and the **production** process and equipment to kick off manufacturing equipment and facility construction to support our 100 gigawatt hour 2022 goal.
+22. [Sentence #294]  (TSLA_Q4_2020) (Similarity: 0.612) What's the output of factory **cells** in gigawatt hours?
+23. [Sentence #840]  (TSLA_Q4_2021) (Similarity: 0.605) Elon Musk
+
+Batteries will probably not be the limiting factor in Cybertruck **production**.
+24. [Sentence #304]  (TSLA_Q4_2020) (Similarity: 0.602) In fact, I want to be really clear, Tesla wants to increase purchases from cell suppliers.
+
+Total similarity-top evidence sentences: 24
+
+-----

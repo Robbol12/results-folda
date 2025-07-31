@@ -1,0 +1,37 @@
+[TSLA_Q4_2021] Did Tesla successfully scale production of its 4680 battery cells from the 2020 Battery Day announcement through 2021?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #24]  So, in Texas, we're building the Model Ys with the structural **battery** pack and the **4680** **cells**, and we’ll start delivering after final certification of the vehicle, which should be fairly soon.
+2. [Sentence #71]  So throughout 2021, we focused on growing cell supply alongside our in-house **4680** effort to provide us flexibility and insurance as we attempt to grow as fast as possible.
+3. [Sentence #72]  As we sit today, sales from suppliers is actually -- it sort of exceeds our other factory-limiting constraints that you mentioned, Elon, in 2022 or to say differently, **4680** **cells** are not a constraint to our 2022 volume plans, based on the information we have.
+4. [Sentence #87]  And then probably, we transition into a cell limitation **battery**, total gigawatt-hours of cell limitation, which is when the **4680** will become very important.
+5. [Sentence #126]  The first question was on **4680** **cells**, which we already answered.
+6. [Sentence #263]  Elon Musk
+
+Batteries will probably not be the limiting factor in Cybertruck **production**.
+7. [Sentence #273]  The next question is, how much of Tesla's margin improvement is from, number one, economies of **scale**; number two, **production** design -- **production** line design efficiencies; number three, reduced transportation costs from multiple plant locations; and number four, pricing versus cost inflation; or number five, other sources?
+8. [Sentence #450]  Is it going to be outside of Tesla the largest form factor for batteries?
+9. [Sentence #462]  Elon Musk
+
+So, we don't use **4680** at all for the iron **cells**.
+
+Total transcript-order evidence sentences: 9
+
+--- Evidence by Similarity ---
+1. [Sentence #24]  (Similarity: 0.947) So, in Texas, we're building the Model Ys with the structural **battery** pack and the **4680** **cells**, and we’ll start delivering after final certification of the vehicle, which should be fairly soon.
+2. [Sentence #72]  (Similarity: 0.784) As we sit today, sales from suppliers is actually -- it sort of exceeds our other factory-limiting constraints that you mentioned, Elon, in 2022 or to say differently, **4680** **cells** are not a constraint to our 2022 volume plans, based on the information we have.
+3. [Sentence #87]  (Similarity: 0.754) And then probably, we transition into a cell limitation **battery**, total gigawatt-hours of cell limitation, which is when the **4680** will become very important.
+4. [Sentence #126]  (Similarity: 0.689) The first question was on **4680** **cells**, which we already answered.
+5. [Sentence #462]  (Similarity: 0.680) Elon Musk
+
+So, we don't use **4680** at all for the iron **cells**.
+6. [Sentence #71]  (Similarity: 0.665) So throughout 2021, we focused on growing cell supply alongside our in-house **4680** effort to provide us flexibility and insurance as we attempt to grow as fast as possible.
+7. [Sentence #450]  (Similarity: 0.657) Is it going to be outside of Tesla the largest form factor for batteries?
+8. [Sentence #273]  (Similarity: 0.644) The next question is, how much of Tesla's margin improvement is from, number one, economies of **scale**; number two, **production** design -- **production** line design efficiencies; number three, reduced transportation costs from multiple plant locations; and number four, pricing versus cost inflation; or number five, other sources?
+9. [Sentence #263]  (Similarity: 0.605) Elon Musk
+
+Batteries will probably not be the limiting factor in Cybertruck **production**.
+
+Total similarity-top evidence sentences: 9
+
+-----

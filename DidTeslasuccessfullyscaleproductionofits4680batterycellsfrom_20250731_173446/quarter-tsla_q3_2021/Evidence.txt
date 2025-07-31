@@ -1,0 +1,19 @@
+[TSLA_Q3_2021] Did Tesla successfully scale production of its 4680 battery cells from the 2020 Battery Day announcement through 2021?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #30]  Additionally, we have made good progress on the in-house **battery** manufacturing program.
+2. [Sentence #56]  The first question is, when should we expect the first vehicles to be delivered with **4680** **cells**?
+3. [Sentence #58]  Earlier next year, from a non-cell perspective, structural **battery** crash, range, and reliability testing are on track to be complete this quarter.
+4. [Sentence #92]  The next question, a question from retail shareholder is, what is Tesla 's goal for vehicle **production** capacity for the four current factories, Fremont, Shanghai, Austin and Berlin by 2024?
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #56]  (Similarity: 0.726) The first question is, when should we expect the first vehicles to be delivered with **4680** **cells**?
+2. [Sentence #92]  (Similarity: 0.661) The next question, a question from retail shareholder is, what is Tesla 's goal for vehicle **production** capacity for the four current factories, Fremont, Shanghai, Austin and Berlin by 2024?
+3. [Sentence #58]  (Similarity: 0.615) Earlier next year, from a non-cell perspective, structural **battery** crash, range, and reliability testing are on track to be complete this quarter.
+4. [Sentence #30]  (Similarity: 0.602) Additionally, we have made good progress on the in-house **battery** manufacturing program.
+
+Total similarity-top evidence sentences: 4
+
+-----

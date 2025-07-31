@@ -1,0 +1,27 @@
+[TSLA_Q3_2020] Did Tesla successfully scale production of its 4680 battery cells from the 2020 Battery Day announcement through 2021?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #23]  So we hosted -- showed our plans for how we can expand in the future and improve core **battery** technology, core cell technology at the form factor level, chemistry level and I think more significantly at the manufacturing technology level.
+2. [Sentence #33]  And we went through all of the engineering solutions for every important part of **battery** design and **production**.
+3. [Sentence #36]  And we expect Giga Berlin will see our first **battery** cell **production** line at **scale**.
+4. [Sentence #124]  This is driven by an increase in-source scope for certain factories, including **battery** cell manufacturing as well as investments to enable greater capacity expansion in the future.
+5. [Sentence #162]  The first question from retail shareholders is, is Tesla planning to start **4680** cell **production** at Giga Berlin at the same time as vehicle **production**?
+6. [Sentence #163]  Can Tesla share more information on what products you'll use the **battery** **cells** from the pilot line in Fremont?
+7. [Sentence #326]  Just wanted to ask about the targets from your **Battery** **Day**, looked like you could be approaching something like 20 million vehicles by 2030, if you hit those goals.
+8. [Sentence #613]  And the follow-up question I had was, during the **Battery** **Day**, you talked about this cell vehicle integration approach.
+
+Total transcript-order evidence sentences: 8
+
+--- Evidence by Similarity ---
+1. [Sentence #36]  (Similarity: 0.926) And we expect Giga Berlin will see our first **battery** cell **production** line at **scale**.
+2. [Sentence #162]  (Similarity: 0.922) The first question from retail shareholders is, is Tesla planning to start **4680** cell **production** at Giga Berlin at the same time as vehicle **production**?
+3. [Sentence #163]  (Similarity: 0.806) Can Tesla share more information on what products you'll use the **battery** **cells** from the pilot line in Fremont?
+4. [Sentence #326]  (Similarity: 0.736) Just wanted to ask about the targets from your **Battery** **Day**, looked like you could be approaching something like 20 million vehicles by 2030, if you hit those goals.
+5. [Sentence #613]  (Similarity: 0.704) And the follow-up question I had was, during the **Battery** **Day**, you talked about this cell vehicle integration approach.
+6. [Sentence #23]  (Similarity: 0.682) So we hosted -- showed our plans for how we can expand in the future and improve core **battery** technology, core cell technology at the form factor level, chemistry level and I think more significantly at the manufacturing technology level.
+7. [Sentence #124]  (Similarity: 0.670) This is driven by an increase in-source scope for certain factories, including **battery** cell manufacturing as well as investments to enable greater capacity expansion in the future.
+8. [Sentence #33]  (Similarity: 0.601) And we went through all of the engineering solutions for every important part of **battery** design and **production**.
+
+Total similarity-top evidence sentences: 8
+
+-----

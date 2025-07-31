@@ -1,0 +1,473 @@
+[Multi-Year Analysis] Did Tesla successfully scale production of its 4680 battery cells from the 2020 Battery Day announcement through 2021?
+
+1. [Sentence #24, TSLA_Q4_2021] [UNCERTAIN]
+     So Q1 2021 was a record quarter on many levels.
+     Tesla achieved record production, deliveries and surpassed $1 billion in non-GAAP net income for the first time.
+     We have seen a real shift in customer perception of electric vehicles and our demand is the best we have ever seen.
+     So this is – if you talk about, we are used to seeing a reduction in demand in the first quarter and we saw an increase in demand that exceeded the normal seasonal reduction in demand in Q1.
+     So Model 3 became the best-selling mid-sized premier sedan in the world.
+     In fact, I should say, the best-selling luxury sedan of any kind in the world.
+     The BMW 3 Series was for the longest time best-selling premium sedan.
+>>> It’s been exceeded by the Tesla Model 3, and this is only three-and-a half years into production and with just two factories.
+     For Model 3 to be out selling its combustion engine competitors, I think, this is quite remarkable.
+     In the past couple of quarters, we delivered roughly $0.25 million Model 3s, so -- which translates in an annualized rate of $0.5 million per year.
+     When it comes to Model Y, we think Model Y will be the best-selling car or vehicle of any kind in the world, and probably, next year.
+     So I am not 100% certain next year, but I think it’s quite likely.
+     I’d say more likely than not that in 2022 Model Y is the best-selling car or truck of any kind in the world.
+     Then with regard to Full Self-Driving, Full Self-Driving beta continues to make great progress.
+     This is definitely one of the -- I think, one of the hardest technical problems that exists, that has maybe ever existed.
+-----
+2. [Sentence #195, TSLA_Q4_2020] [PLAN]
+     And so even if all the lights go out in the neighborhood, you will still have power.
+     So that gives people energy security.
+     And we can also, in working with the utilities, use the Powerwalls to stabilize the overall grid.
+     So let’s say like if there was a -- like there was in Texas.
+     There was a peak power demand and that peak power demand, because the grid lacked the ability to buffer the power, they had to shutdown power.
+     There’s no power in storage.
+     No good form of power storage.
+>>> However, with a whole bunch of Powerwalls at houses, we can actually buffer the power.
+     So if the grid needs more power, we can actually then with the consent, obviously, of the homeowner and the partnership with the utility, we can then actually release power on to the grid to take care of peak power demand.
+     So, effectively, the Powerwalls can operate as a giant distributed utility.
+     This is profound.
+     I am not sure how many people will actually understand this.
+     This is extremely profound and necessary, because we are headed towards a world where, as we just talked about earlier, where people are leaning towards electric vehicles.
+     This will mean that the power needs in -- at homes and businesses will increase significantly.
+     We will need -- there will need to be a bunch more electricity coming somewhere.
+-----
+3. [Sentence #36, TSLA_Q3_2020] [UNCERTAIN]
+     I’d say more likely than not that in 2022 Model Y is the best-selling car or truck of any kind in the world.
+     Then with regard to Full Self-Driving, Full Self-Driving beta continues to make great progress.
+     This is definitely one of the -- I think, one of the hardest technical problems that exists, that has maybe ever existed.
+     And really, in order to solve it, we basically need to solve a pretty significant part of artificial intelligence, simply real-world artificial intelligence.
+     And that sort of AI, the neural net needs to be compressed into a fairly small computer, a very efficient computer that was designed, but nonetheless, a small computer that’s using on the order of 70 watts or 80 watts.
+     So this is a much harder problem than if you were to use, say, 10,000 computers in a server room or something like that.
+     This has got to fit into a smaller screen.
+>>> And this -- I think with the elimination of radar, we are finally getting rid of one of the last questions.
+     Radar was really -- it was making up for some of the shortfalls of vision, but this is not good.
+     You actually just need vision to work.
+     And when it works, it works better than the best human because it’s like having eight cameras.
+     It’s like having eyes in the back of your head, beside your head and has three eyes of different focal distances looking forward.
+     This is -- yes -- and processing it at a speed that is superhuman.
+     There’s no question in my mind that with a pure vision solution, we can make a car that is dramatically safer than the average person.
+     So, but this is a hard problem because we are actually solving something quite fundamental about artificial intelligence, where we basically have to solve real-world vision AI.
+-----
+4. [Sentence #162, TSLA_Q3_2020] [PLAN]
+     We are -- conventional computing is called perhaps [inaudible] based computing.
+     It’s still going to be important, it’s still going to be very important, but it will become -- but neural net will become a bigger and bigger portion of compute.
+     So anyway, long story, but I think, probably, others will want to use it too and we will make it available.
+     Martin Viecha
+
+Thank you very much.
+     Let’s go to the second question from retail investors.
+     The recent price changes on Solar Roof have been a bit discouraging for customers and investors.
+     Could Tesla share more about Solar Roof challenges and if the outlook has changed at all, i.e.
+>>> 1,000 roofs per week?
+     Elon Musk
+
+Yeah.
+     First of all, I should say, the demand for the Solar Roof remains strong.
+     So despite raising the price, the demand is still significantly in excess of our ability to meet the demand to install the Solar Roofs.
+     So production has gone fine, but we are choked at the installation point.
+     We did find that we basically made some significant mistakes in assessment of difficulty of certain roofs, but the complexity of roofs varies dramatically.
+     Some roofs are literally two times or three times easier than other roofs.
+     So, you just can’t have a one size fits all situation.
+-----
+5. [Sentence #314, TSLA_Q1_2021] [UNCERTAIN]
+     No, this is not certain.
+     No new materials are necessary.
+     We just need to scale this thing up.
+     We -- the technology exists today to solve renewable energy.
+     And some people say, well, why don’t we do it?
+     That’s because the energy basis of the earth is gigantic, super mega insanely gigantic.
+     So you can’t just go and do a zillion terawatts overnight.
+>>> You have got to build the production capacity for the cells, for the battery cells, for solar cells.
+     You have got to put that into vehicles.
+     You have got to put that into stationary storage packs.
+     You have got to put that it into solar panels and Solar Glass Roofs and you have got to deploy all of this stuff.
+     But it’s certainly the case that we can accelerate this and we should try to accelerate it.
+     And the right thing to do I think from an economic standpoint and I think almost any economist would agree is to have a carbon tax, just as we have a tax on cigarettes and alcohol, which we think are more likely to be bad than good and we tend to tax fruit and vegetables less.
+     But the same should be true.
+     We should tax energy that we think is probably bad and support energy that we think is probably good.
+-----
+7. [Sentence #163, TSLA_Q3_2020] [PLAN]
+     It’s still going to be important, it’s still going to be very important, but it will become -- but neural net will become a bigger and bigger portion of compute.
+     So anyway, long story, but I think, probably, others will want to use it too and we will make it available.
+     Martin Viecha
+
+Thank you very much.
+     Let’s go to the second question from retail investors.
+     The recent price changes on Solar Roof have been a bit discouraging for customers and investors.
+     Could Tesla share more about Solar Roof challenges and if the outlook has changed at all, i.e.
+     1,000 roofs per week?
+>>> Elon Musk
+
+Yeah.
+     First of all, I should say, the demand for the Solar Roof remains strong.
+     So despite raising the price, the demand is still significantly in excess of our ability to meet the demand to install the Solar Roofs.
+     So production has gone fine, but we are choked at the installation point.
+     We did find that we basically made some significant mistakes in assessment of difficulty of certain roofs, but the complexity of roofs varies dramatically.
+     Some roofs are literally two times or three times easier than other roofs.
+     So, you just can’t have a one size fits all situation.
+     If a roof has a lot of protuberances or if the roof sort of the core structure of the roof is rotted out or is not strong enough to hold the Solar Roof, then the cost can be double, sometimes three times what our initial quotes were.
+-----
+8. [Sentence #389, TSLA_Q1_2021] [SCALE ACHIEVED]
+     Pierre Ferragu
+
+Hi, guys.
+     Thanks so much for taking my question.
+     I’d love to get actually based on what you presented on the Battery Day.
+     In the last six, seven months, I was wondering how much progress you have made on that front, first in terms of process development.
+     So how are things coming together on your pilot line?
+     Are you getting to the kind of production throughput you are aiming for?
+     And second, actually on your production ramp.
+>>> So I was wondering in which size you are ramping production capacity for the 4680 cell and where you stand on ramping up that capacity as well?
+     And I have a quick follow-up on energy as well if that’s possible.
+     Elon Musk
+
+Well, so we have the – and Drew can add to this.
+     But we have the - a small sort of pilot plant, which is still big by normal standards.
+     We expect to have like a 10-gigawatt-hour per year capability in Fremont, California.
+     And we made quite a few cells.
+     We are not quite yet at the point where we think the cells are reliable enough to be shipped in cars, but we are getting close to that point.
+     And then we have already ordered most of the equipment for battery production in Berlin and then much of it for Austin as well.
+-----
+10. [Sentence #315, TSLA_Q4_2020] [UNCERTAIN]
+     No new materials are necessary.
+     We just need to scale this thing up.
+     We -- the technology exists today to solve renewable energy.
+     And some people say, well, why don’t we do it?
+     That’s because the energy basis of the earth is gigantic, super mega insanely gigantic.
+     So you can’t just go and do a zillion terawatts overnight.
+     You have got to build the production capacity for the cells, for the battery cells, for solar cells.
+>>> You have got to put that into vehicles.
+     You have got to put that into stationary storage packs.
+     You have got to put that it into solar panels and Solar Glass Roofs and you have got to deploy all of this stuff.
+     But it’s certainly the case that we can accelerate this and we should try to accelerate it.
+     And the right thing to do I think from an economic standpoint and I think almost any economist would agree is to have a carbon tax, just as we have a tax on cigarettes and alcohol, which we think are more likely to be bad than good and we tend to tax fruit and vegetables less.
+     But the same should be true.
+     We should tax energy that we think is probably bad and support energy that we think is probably good.
+     Just like cigarettes and alcohol.
+-----
+11. [Sentence #72, TSLA_Q4_2021] [SCALE ACHIEVED]
+     So I think as we ramp up, I think, probably the demand for the new S/X will be quite high.
+     So surely, it’s going to be a question of ramping supply chain and internal production processes.
+     So probably, we are -- like we are going to aim to produce over 2,000 S/X per week, perhaps, if we get lucky, upwards of 2,400 or 2,500.
+     This again is contingent on global supply chain issues, which just a lot of factors outside of our control here.
+     But I do think we -- this will get solve, it’s just a matter of time, and then we will be doing well over 2,000 S/X per week.
+     It actually costs us less to produce, a little bit less to produce.
+     But it is a superior product.
+>>> So in conclusion, there’s a lot to be excited about in 2021 and 2022.
+     We are building factories as quickly as we can.
+     Both Texas and Berlin are progressing well and we expect to have initial limited production from those factories this year and volume production from Texas and Berlin next year.
+     And at this time, we will continue to ramp production of Model Y in three months in Shanghai.
+     In the background, we are continuing work -- development work on the Semi, Cybertruck, on the Roadster and other products.
+     Thanks to everyone at Tesla who have made this year a huge success.
+     Now on to questions.
+     Martin Viecha
+
+Thank you very much.
+-----
+12. [Sentence #398, TSLA_Q4_2020] [SCALE ACHIEVED]
+     Elon Musk
+
+Well, so we have the – and Drew can add to this.
+     But we have the - a small sort of pilot plant, which is still big by normal standards.
+     We expect to have like a 10-gigawatt-hour per year capability in Fremont, California.
+     And we made quite a few cells.
+     We are not quite yet at the point where we think the cells are reliable enough to be shipped in cars, but we are getting close to that point.
+     And then we have already ordered most of the equipment for battery production in Berlin and then much of it for Austin as well.
+     So we really don’t flick the nitty-gritty elements.
+>>> But overall, I think, we still feel quite optimistic about achieving volume production of the 4680 next year.
+     What do you think?
+     Zachary Kirkhorn
+
+Yes.
+     I think…
+
+Pierre Ferragu
+
+Thank you.
+     Zachary Kirkhorn
+
+Yes.
+     I think, Pierre, just one thing I’d add is, there’s been a lot of questions about yield.
+     Actually, I noticed people asking about that.
+     The yield progress isn’t really strong every day and we were really still in commissioning phases.
+-----
+13. [Sentence #87, TSLA_Q4_2021] [PLAN]
+     We have some remarks from Zachary Kirkhorn as well.
+     Elon Musk
+
+Okay.
+     Zachary Kirkhorn
+
+Yeah.
+     Thanks, Martin.
+     Thanks, Elon.
+     So congratulations to the Tesla team on breaking multiple records in the first quarter of 2021, as Elon had mentioned, which is typically the most difficult of the year for many reasons.
+     To summarize the quarter, I think, it’s best understood by three key items.
+>>> First, we successfully launched and began the ramp of Model Y in Shanghai, achieving positive gross margin in the first quarter of production and receiving a great reception from the market.
+     Second, as Elon mentioned, although we began the production process for the Model S during the quarter, we had not yet begun customer deliveries.
+     The reduction in Model S and X deliveries from Q4 to Q1 were a meaningful headwind to free cash flows and profit generation.
+     For example, we incurred an estimated $200 million of direct P&L impact relating to this program in Q1, the majority of which is reflected in COGS and that’s before even considering the impact of lost revenue and profits as a result of the transition.
+     And as Elon mentioned, we expect the first deliveries to begin shortly.
+     Third, as we continue to work through the instability of the global supply chain, particularly around semiconductors and port capacities.
+     While the Tesla team in partnership with our suppliers did tremendous work keeping our factories running, we did experience high expedite costs in the quarter and they were also higher than they were in Q4, with some minor interruptions to production over the course of the quarter.
+     We believe that this landscape is improving, but it does remain difficult and it’s an evolving situation.
+-----
+14. [Sentence #302, TSLA_Q4_2020] [UNCERTAIN]
+     It’s really not much area at all and a lot of places can have wind and solar put in place.
+     So anyway, it’s entirely possible to power all of earth with a small percentage of earth’s area and then to transfer that power through high voltage DC lines.
+     No new technology.
+     No -- you don’t need like room temperature super conductors.
+     This is a total also another myth.
+     Room temperature super conductors almost irrelevant, in my opinion, almost irrelevant.
+     Low cost, long distance power lines using copper or aluminum is very important.
+>>> So heating is I square R. So that’s current squared to times resistance.
+     So as you increase voltage, you can drop the current dramatically and drop the heating dramatically to a point where it is of minor relevance.
+     Like maybe you lose 5% to 7% with a high voltage DC power line.
+     Something like that.
+     So I want to be clear.
+     No, this is not certain.
+     No new materials are necessary.
+     We just need to scale this thing up.
+-----
+15. [Sentence #272, TSLA_Q1_2021] [SCALE ACHIEVED]
+     Through further investigation of the vehicle and the accident remains, we instructed the car with NTSB and we saw in the local police and were able to find that the steering wheel was indeed deformed, so it was leading to a likelihood that someone was in the driver’s seat at the time of the crash and all seat belts post-crash were found to be unbuckled.
+     We were unable to recover the data from the SD card at the time of impact, but the local authorities are working on doing that and we await their report.
+     As I said, we continue to hold safety in a high regard and look to improve our products in the future through this kind of data and other information from the field.
+     Martin Viecha
+
+Okay.
+     Thank you very much.
+     Let’s go to the next question from institutional investors.
+     The first question is, proponents of alternative grid storage technologies claim that lithium ion is unsuited to long-term storage at scale due to vampire drain.
+>>> Could 4680 cells address this limitation?
+     Is the limitation even relevant for changing the energy equation?
+     Lars Moravy
+
+Yeah.
+     Just let me jump in on the vampire drain.
+     That’s definitely not the issue.
+     Good lithium ion cell self-discharges less than 0.001% of its energy per day, so the vampire drain is maybe not…
+
+Elon Musk
+
+Myth.
+     Lars Moravy
+
+Yeah.
+     Elon Musk
+
+As mythical as vampires.
+-----
+17. [Sentence #158, TSLA_Q4_2020] [PLAN]
+     So Dojo is really -- it is a supercomputer optimized for neural net training.
+     We think Dojo will be probably in order of magnitude more efficient on, say, show what the exact right metric is, but say per frame of video, we think it will be an order of magnitude more cost efficient in hardware and in energy usage per frame of video compared to a DPU-based solution or compared to the next best solution that we are aware of.
+     So then possibly that could be used by others.
+     It does seem as though over time, I mean, just an observation, I think, I will basically step back that neural net-based computing or AI-based computing is more and more of the compute stack.
+     We are -- conventional computing is called perhaps [inaudible] based computing.
+     It’s still going to be important, it’s still going to be very important, but it will become -- but neural net will become a bigger and bigger portion of compute.
+     So anyway, long story, but I think, probably, others will want to use it too and we will make it available.
+>>> Martin Viecha
+
+Thank you very much.
+     Let’s go to the second question from retail investors.
+     The recent price changes on Solar Roof have been a bit discouraging for customers and investors.
+     Could Tesla share more about Solar Roof challenges and if the outlook has changed at all, i.e.
+     1,000 roofs per week?
+     Elon Musk
+
+Yeah.
+     First of all, I should say, the demand for the Solar Roof remains strong.
+     So despite raising the price, the demand is still significantly in excess of our ability to meet the demand to install the Solar Roofs.
+-----
+18. [Sentence #326, TSLA_Q3_2020] [NO EVIDENCE]
+     And the right thing to do I think from an economic standpoint and I think almost any economist would agree is to have a carbon tax, just as we have a tax on cigarettes and alcohol, which we think are more likely to be bad than good and we tend to tax fruit and vegetables less.
+     But the same should be true.
+     We should tax energy that we think is probably bad and support energy that we think is probably good.
+     Just like cigarettes and alcohol.
+     Just like fruits and vegetables.
+     It’s just common sense.
+     And on the plus side, I am not suggesting anyone be complacent.
+>>> But sustainable energy, renewable energy, will be sold.
+     It is being sold, but it matters how fast we sell this and if we sell it faster, that’s better for the world.
+     Martin Viecha
+
+Thank you very much.
+     Elon Musk
+
+There’s no question in my mind whatsoever that the energy storage problem can be solved with lithium-ion batteries, zero.
+     I want to be clear, zero.
+     I think the bias will tend to be towards iron-based, lithium-ion cells.
+     I will say, lithium-ion, people think lithium must be a big constituent of the cells.
+     It’s more like 1% to 2% of the cell is lithium.
+-----
+19. [Sentence #56, TSLA_Q3_2021] [PLAN]
+     So Q1 was -- had some of the most difficult supply chain challenges that we have ever experienced in the life of Tesla and same difficulties with the supply chain, with parts -- over the whole range of parts.
+     Obviously, people have heard about the chip shortage.
+     This is a huge problem.
+     But then in addition to that, for example, we had quite a difficulty scaling, driving our production in China, because we are unable to get critical engineers there because of COVID quarantine restrictions.
+     So - which meant that Tesla worldwide was dependent on drive units made at our factory in Nevada, Giga Nevada.
+     So that was a very challenging situation.
+     I think we are mostly out of that particular problem.
+>>> But that’s just - those were just two of many challenges.
+     So the team has really done an incredible job of dealing with really severe supply chain shortages.
+     So with respect to Model S and X, there were more challenges than expected in developing the Plaid Model S or what we call the Paladium program, which is the new version of Model S and X, which has a revised interior and new battery pack and new drive units and new internal electronics and has, for example, a PlayStation 5 level infotainment system.
+     There’s just a lot of issues encountered, ensuring that the new factory was as also we’re saying was quite hard, because [inaudible] in a smaller pace.
+     So it took quite a bit of development to ensure that the battery of the new S/X is safe.
+     Then, we are trying to get [Audio Gap] in the cars slowly for the past few months.
+     But we are just stacking them up in the yard and just making refinements to the cars that we have built.
+     But we do expect to ramp Model S production and start delivering them probably next month.
+-----
+20. [Sentence #613, TSLA_Q3_2020] [PLAN]
+     Thanks, Martin.
+     Thanks, Elon.
+     So congratulations to the Tesla team on breaking multiple records in the first quarter of 2021, as Elon had mentioned, which is typically the most difficult of the year for many reasons.
+     To summarize the quarter, I think, it’s best understood by three key items.
+     First, we successfully launched and began the ramp of Model Y in Shanghai, achieving positive gross margin in the first quarter of production and receiving a great reception from the market.
+     Second, as Elon mentioned, although we began the production process for the Model S during the quarter, we had not yet begun customer deliveries.
+     The reduction in Model S and X deliveries from Q4 to Q1 were a meaningful headwind to free cash flows and profit generation.
+>>> For example, we incurred an estimated $200 million of direct P&L impact relating to this program in Q1, the majority of which is reflected in COGS and that’s before even considering the impact of lost revenue and profits as a result of the transition.
+     And as Elon mentioned, we expect the first deliveries to begin shortly.
+     Third, as we continue to work through the instability of the global supply chain, particularly around semiconductors and port capacities.
+     While the Tesla team in partnership with our suppliers did tremendous work keeping our factories running, we did experience high expedite costs in the quarter and they were also higher than they were in Q4, with some minor interruptions to production over the course of the quarter.
+     We believe that this landscape is improving, but it does remain difficult and it’s an evolving situation.
+     If we double click within net income, auto gross margin excluding credits improved sequentially and year-over-year.
+     This is in spite of the costs mentioned for SNX and expedites and a reduction in global ASPs as our cost structure as a company is reducing at an even faster pace.
+     So as we look out over the course of the year, we feel optimistic about our gross margin strength, particularly as some of these headwinds we are experiencing start to be resolved.
+-----
+21. [Sentence #479, TSLA_Q4_2020] [PLAN]
+     Zachary Kirkhorn
+
+Sure.
+     On the R&D side, you know what we are seeing, as I mentioned in my opening remarks, is kind of a convergence of a series of programs that are happening and our R&D OpEx spend kind of correlates to where we are in the product lifecycle in different programs.
+     And so we are kind of at the tail end of investments in what we call internally Paladium, which is the new Model S and Model X.
+     And so we expect that to decrease over time, but it was high in Q1 for a lot of the reasons that Elon had mentioned.
+     We are also getting very heavy into 4680 development that Drew and team are working on and the associated structural battery pack that goes along with that.
+     And so these are new technologies, not only new to Tesla, but new to the industry.
+     And so we are investing heavily there on an R&D side to work out those kinks.
+>>> And spend along in those areas should continue over time as we continue to work through the development cycle of those.
+     Then I also mentioned, and Elon talked a bit about, Dojo and the potential there.
+     So from neural net investments and custom silicon investments, these continue to be areas that we spend on and make investments in.
+     On the SG&A side, the business is pivoting very quickly to be global and China is ramping quite quickly.
+     And we are trying to make sure that we are staying ahead of the volume, so that we have the right sales capacity, store capacity there, local investments and IT and others to manage the growth, such that as the growth comes, the execution challenges are smaller than maybe in similar periods of growth that we have seen in the past and so we are making investments there ahead of the growth.
+     And overall, as we look at OpEx as a percentage of revenue over the course of the year, we do expect to see a substantial drop from 2020 to 2021 as the volumes in the latter part of the year pick up.
+     Martin Viecha
+
+Thank you.
+     Let’s go to the next question, please.
+-----
+24. [Sentence #126, TSLA_Q4_2021] [UNCERTAIN]
+     The first question is, how is how is Dojo coming along?
+     Could Dojo unlock an AWS-like business line for Tesla over the next few years?
+     Zachary Kirkhorn
+
+I will jump in here.
+     So with respect to…
+
+Elon Musk
+
+Sorry about that.
+     My apologies.
+     I was on mute.
+     Zachary Kirkhorn
+
+Go ahead, Elon.
+>>> Elon Musk
+
+So, yeah, so it’s basically saying that the, like, right now people think of Tesla has -- a lot of people think Tesla is a car company or perhaps an energy company.
+     I think long-term people will think of Tesla as much as an AI robotics company as we are a car company or an energy company.
+     I think we are developing one of the strongest hardware and software AI teams in the world and so we appear to be able to do things with Self-Driving that others cannot.
+     So and if you look at the evolution of what technologies we have developed, we developed them in order to solve the problem of Self-Driving.
+     So we couldn’t find a powerful enough neural net computer, so we designed and built our own.
+     The software out there was really quite primitive for this task and so we built a team from scratch and have been developing what we think is probably the most advanced real-world AI in the world.
+     And then it sort of makes sense that this is kind of what needs to happen because the road system is designed for a neural net computer, our brain.
+     Our brain is a neural net computer.
+-----
+25. [Sentence #440, TSLA_Q4_2020] [UNCERTAIN]
+     Zachary Kirkhorn
+
+Yes.
+     We are seeing a lot of…
+
+Elon Musk
+
+We are aiming for comparable margins in storage as in vehicles.
+     But it is important to bear in mind that vehicle is more mature than storage.
+     So we are already are at good margins with the Powerwall, but some additional work is needed for the Megapack to achieve good margins.
+     Yes, Drew, what do you think?
+     Operator
+
+Thank you.
+     Andrew Baglino
+
+Yes.
+>>> Sorry.
+     Just jumping in, Elon.
+     Absolutely agree.
+     Yes.
+     Powerwall is mature.
+     We have been producing Powerwall 2 for three years now and we are at good margins there, but Megapack has more room to go to achieve our targets.
+     Elon Musk
+
+We have a clear runway for improving the cost for the megawatt hours for the Megapack.
+     Andrew Baglino
+
+Absolutely.
+-----
+26. [Sentence #104, TSLA_Q1_2021] [PLAN]
+     So as we look out over the course of the year, we feel optimistic about our gross margin strength, particularly as some of these headwinds we are experiencing start to be resolved.
+     On Services and other margins, these have recovered and are trending towards profitability, aided by strength in the used car business, operational improvements in service and additional service revenue opportunities that help absorb fixed overheads.
+     On energy gross margins, these remained negative for a second quarter.
+     This was driven by Solar Roof-related ramp costs and winter seasonality in the lease BPA business.
+     We continue to manage through a multi-quarter backlog on Powerwall.
+     We are working as fast as we can to increase production and this will aid in profitability of this business as those volumes increase.
+     On operating expenses, these increased for Q1, which was driven by our investments in technology and growth.
+>>> In particular for R&D, this includes the structural battery pack and 4680 cells, investments in the new SNX, and our neural net and silicon investments.
+     On the SG&A side, we are setting up infrastructure and support for both China and EMEA in anticipation of volume to come there.
+     And as I have said before, our plans show that we remain on track for sustained industry-leading operating margins.
+     Double clicking on cash flows, we continue to generate positive free cash flows and this was despite the significant working capital headwinds from SNX.
+     Additionally, we are making progress reducing various forms of debt.
+     We also invested $1.5 billion in Bitcoin during the quarter, then trimmed our position by 10%, which contributed to a small gain in our Q1 financials.
+     Taking a step back, we have generated $8 billion in operating cash flows and $4 billion in free cash flows over the past four quarters.
+     As we look forward, our plans remain unchanged for long-term growth of 50% annually and we believe we are on track to exceed that this year as we guided to last quarter.
+-----
+28. [Sentence #23, TSLA_Q3_2020] [UNCERTAIN]
+     Thank you.
+     So Q1 2021 was a record quarter on many levels.
+     Tesla achieved record production, deliveries and surpassed $1 billion in non-GAAP net income for the first time.
+     We have seen a real shift in customer perception of electric vehicles and our demand is the best we have ever seen.
+     So this is – if you talk about, we are used to seeing a reduction in demand in the first quarter and we saw an increase in demand that exceeded the normal seasonal reduction in demand in Q1.
+     So Model 3 became the best-selling mid-sized premier sedan in the world.
+     In fact, I should say, the best-selling luxury sedan of any kind in the world.
+>>> The BMW 3 Series was for the longest time best-selling premium sedan.
+     It’s been exceeded by the Tesla Model 3, and this is only three-and-a half years into production and with just two factories.
+     For Model 3 to be out selling its combustion engine competitors, I think, this is quite remarkable.
+     In the past couple of quarters, we delivered roughly $0.25 million Model 3s, so -- which translates in an annualized rate of $0.5 million per year.
+     When it comes to Model Y, we think Model Y will be the best-selling car or vehicle of any kind in the world, and probably, next year.
+     So I am not 100% certain next year, but I think it’s quite likely.
+     I’d say more likely than not that in 2022 Model Y is the best-selling car or truck of any kind in the world.
+     Then with regard to Full Self-Driving, Full Self-Driving beta continues to make great progress.
+-----
+29. [Sentence #476, TSLA_Q1_2021] [PLAN]
+     And I was hoping, Zach, maybe you could just talk a little bit about OpEx.
+     It was a noticeable increase, even excluding SBC, obviously, a lot going on this quarter.
+     But can you maybe just talk a little bit about how we should be thinking about that going forward?
+     Zachary Kirkhorn
+
+Sure.
+     On the R&D side, you know what we are seeing, as I mentioned in my opening remarks, is kind of a convergence of a series of programs that are happening and our R&D OpEx spend kind of correlates to where we are in the product lifecycle in different programs.
+     And so we are kind of at the tail end of investments in what we call internally Paladium, which is the new Model S and Model X.
+     And so we expect that to decrease over time, but it was high in Q1 for a lot of the reasons that Elon had mentioned.
+>>> We are also getting very heavy into 4680 development that Drew and team are working on and the associated structural battery pack that goes along with that.
+     And so these are new technologies, not only new to Tesla, but new to the industry.
+     And so we are investing heavily there on an R&D side to work out those kinks.
+     And spend along in those areas should continue over time as we continue to work through the development cycle of those.
+     Then I also mentioned, and Elon talked a bit about, Dojo and the potential there.
+     So from neural net investments and custom silicon investments, these continue to be areas that we spend on and make investments in.
+     On the SG&A side, the business is pivoting very quickly to be global and China is ramping quite quickly.
+     And we are trying to make sure that we are staying ahead of the volume, so that we have the right sales capacity, store capacity there, local investments and IT and others to manage the growth, such that as the growth comes, the execution challenges are smaller than maybe in similar periods of growth that we have seen in the past and so we are making investments there ahead of the growth.
+-----
+
+Total context windows: 23

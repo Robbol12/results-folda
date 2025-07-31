@@ -1,0 +1,218 @@
+[TSLA_Q4_2020] Did Tesla successfully scale production of its 4680 battery cells from the 2020 Battery Day announcement through 2021?
+
+1. [Sentence #195] [UNCERTAIN]
+     So, it is a whole thing in and of itself.
+     And this is something which we offer potentially as a service.
+     So, some of the others need neural net training, we're not trying to keep it to ourselves.
+     So, I think there could be a whole line of business in and of itself.
+     And then, of course, for training vast amounts video data and getting the reliability from 100% to 200% better than average human to 2,000% better than average human.
+     So, that will be very helpful in that regard.
+     Martin Viecha
+
+Thank you.
+>>> The next question is what is Tesla's current gigawatt-hour run rate of the 4680 cell production?
+     How do you see this run rate evolving by mid-2021 or end of 2021?
+     Elon Musk
+
+I think we kind of talked about that true.
+     I mean essentially, what we're saying is that the number to think about or focus on is like we've got a 100 gigawatt-hour total Tesla cells produced in 2022.
+     It's not that important to look at the run up to that because -- but these things tend to improve exponentially.
+     But we are installing capacity for -- in 2022 for 200 gigawatt hours a year and we think probably we should be able to achieve 30% of targeted design capacity in 2022.
+     Zachary Kirkhorn
+
+Yes.
+     Yes.
+-----
+2. [Sentence #315] [PLAN]
+     But I'm just trying to be as clear as possible that our goal with making our own cells is not to disintermediate our suppliers.
+     It is to supplement our suppliers.
+     And we went to our suppliers of cells to increase their production, and in addition have our production that is simply taking up the amount beyond, which they are either unable or unwilling to increase their production.
+     So it's an acceleration over and above the most that our suppliers say they can produce for us.
+     And so we -- since the cell output drives vehicle output, the – and then – I mean probably the Roadster value of Tesla is just what's the cell output that implies vehicle output, and then at least double that for autonomy revenue probably one level.
+     And that's how you figure out the value of the company, I think, long term.
+     Martin Viecha
+
+Thank you very much.
+>>> The next question is about 4680 cells which we already covered in the retail section of this call.
+     So let's go straight to the last question from institutional investors, which is, where are you in Cybertruck development?
+     What are your expectations for Cybertruck deliveries in 2021?
+     Elon Musk
+
+All right.
+     So we finished almost all of the Cybertrack engineering.
+     So we're no longer iterating at the design center level or design level.
+     We've got the designs fixed.
+     We're getting to – we'll soon order the equipment necessary to make the Cybertruck work.
+-----
+3. [Sentence #398] [PLAN]
+     And so, we’re able now to make investments there and also in the supercharging network to get ahead of future demand, which will cost us more in the near term, but is what the right long-term thing is for our customers and the company.
+     Operator
+
+Thank you.
+     Our next question will come from Alex Potter with Piper Sandler.
+     Please go ahead.
+     Alex Potter
+
+Great.
+     Thanks.
+     I was wondering, you mentioned how you'd like to increase your purchases of cells from suppliers.
+>>> Does this require them to also have the capability to build structural 4680 cells of the sort that you're putting in these newer iterations of vehicles?
+     Elon Musk
+
+No, it does not.
+     Although, we are talking with them about making the 4680 form factor, but they -- it is not required.
+     For example, the new S currently uses the 18650 form factor.
+     So they're just a more advanced cell, and we think we'll continue to use that form factor for at least a few years.
+     But we will, over time, be retiring the form factors and try to move to a consistent form factor.
+     But it is not a requirement that we place on our suppliers, because they would -- it would just result in fewer cells.
+     So it's better for us to deal with the complexity of different cell form factors than insist on a single form factor for our suppliers today.
+-----
+4. [Sentence #302] [PLAN]
+     And you can't grow faster than that.
+     Now at Tesla, we've improved the efficiency of cars dramatically, such that you can actually get a pretty good range even with the standard range battery pack.
+     It's in the high -- it's approaching -- for Model 3, it's approaching the high 200s.
+     And some slight continued improvements, we'll start to get to a 300-mile range even with standard pack and an order 500 kilometers.
+     So there's efficiency improvements in the car.
+     But fundamentally, the growth is dependent on cell production.
+     And there's, obviously, a lot of other companies that want to -- that have a need for sales.
+>>> So -- but the reason Tesla is doing its own cell production is in order to accelerate the growth.
+     It is not to make less use of our cell suppliers.
+     In fact, I want to be really clear, Tesla wants to increase purchases from cell suppliers.
+     And we've been very clear with our cell suppliers, whether it be CATL or Panasonic or LG that we will take as many batteries as they can produce.
+     So -- and we urge them to increase their production, and we will buy as much as they can send to us.
+     Obviously, there are some price limits on that because the car still needs to be affordable.
+     But I'm just trying to be as clear as possible that our goal with making our own cells is not to disintermediate our suppliers.
+     It is to supplement our suppliers.
+-----
+5. [Sentence #158] [PLAN]
+     Martin Viecha
+
+Thank you very much.
+     And the third question is, can you give us a progress update on dry coating of the battery electrode?
+     At the Battery Day, Elon said, 'I would not say this is completely in the bag as – yet as the yields were low.'
+     Elon Musk
+
+Andrew?
+     Andrew Baglino
+
+Yes.
+     Sure.
+     It's true.
+>>> The in-house cell manufacturing system we revealed at Battery Day contains new processes and equipment.
+     So we did expect some unknown unknowns and technical challenges to arise through the production ramp.
+     The Kato team, however, has been able to solve each manufacturing problem presented to date, and continues to improve yield and rate week-over-week and month-over-month as we move up the production S-Curve.
+     At the same time, the cell engineering teams refined designs, and deepened understanding has reinforced our confidence in the drive process and 4680 design, meeting our performance and cost targets.
+     And from a capacity perspective, we have 10 gigawatt hours worth of equipment landed at Kato.
+     The production staff is nearly all hired.
+     Our material supply chain is established and the team is on track for full production ramp this year.
+     Meanwhile, we've developed enough engineering confidence with our 4680 design and the production process and equipment to kick off manufacturing equipment and facility construction to support our 100 gigawatt hour 2022 goal.
+-----
+6. [Sentence #479] [NO EVIDENCE]
+     I don't know it grew -- it's not like year one.
+     So three, maybe four years, give ourselves a little room.
+     But for three or four years, I’d say.
+     Zachary Kirkhorn
+
+Yeah.
+     We put together the trajectory in the Battery Day, and we're on that trajectory still.
+     I think that's probably the best reference for the cost trajectory that we are on.
+     Elon Musk
+
+Yeah.
+>>> We're aspiring to do better than Battery Day, but we are confident of at least for doing what we presented at Battery Day.
+     Operator
+
+Thank you.
+     Our next question will come from Ben Kallo with Baird.
+     Please go ahead.
+     Ben Kallo
+
+Hey, guys.
+     Thank you, Elon, congrats to the whole team.
+     So we're trying to put together all the breadcrumbs.
+     If I remember correctly, going back 10 years, you talked about when you have a mass market car on the road, that you'd step down as CEO and be a Chief Architect.
+-----
+7. [Sentence #440] [PLAN]
+     The thing to bear in mind is that there is fundamentally a constraint on battery cell output.
+     It's like -- if one is not involved in manufacturing, it's really hard to appreciate just how hard this to scale production is.
+     It's the hardest thing in the world.
+     Prototypes are easy.
+     Scaling production is very hard.
+     So a big part of the reason -- the main reason we have not accelerated new products is -- like, for example, Tesla Semi is that we simply don't happen our cells group.
+     We -- this -- if we were to make the Semi like right now, which we could easily go into production with the Semi, but we would not have enough to cells built for it right now.
+>>> We will have cells group in ourselves for Semi when we were producing the 4680 volume.
+     But for example, Semi would use typically 5x the number of cells that car would use, but it would not sell for 5x what a car would sell for.
+     So it kind of doesn't make -- it would not make sense for us to do the Semi right now, but it will absolutely make sense for us to do it as soon as we can address the cell production constraint.
+     The same would go for that.
+     Joseph Spak
+
+Okay.
+     Thank you.
+     And then maybe if I could dig into your past on one more item.
+     About 2 years ago, at the Autonomy Day, you stated that you're working on the next-gen Tesla chip which was about 2 years away.
+-----
+8. [Sentence #198] [UNCERTAIN]
+     So, I think there could be a whole line of business in and of itself.
+     And then, of course, for training vast amounts video data and getting the reliability from 100% to 200% better than average human to 2,000% better than average human.
+     So, that will be very helpful in that regard.
+     Martin Viecha
+
+Thank you.
+     The next question is what is Tesla's current gigawatt-hour run rate of the 4680 cell production?
+     How do you see this run rate evolving by mid-2021 or end of 2021?
+     Elon Musk
+
+I think we kind of talked about that true.
+>>> I mean essentially, what we're saying is that the number to think about or focus on is like we've got a 100 gigawatt-hour total Tesla cells produced in 2022.
+     It's not that important to look at the run up to that because -- but these things tend to improve exponentially.
+     But we are installing capacity for -- in 2022 for 200 gigawatt hours a year and we think probably we should be able to achieve 30% of targeted design capacity in 2022.
+     Zachary Kirkhorn
+
+Yes.
+     Yes.
+     Agreed, Elon.
+     And as you've said before, with the S curve of production, you can be off a little bit on the initial part of the S curve, and that makes a difference in absolute capacity by quite a bit, one month to the next.
+     So, yes, I mean we are progressing up that S curve as fast as we possibly can.
+-----
+9. [Sentence #290] [PLAN]
+     I think some of it works well in China, then we will have a Grade 4 FSD.
+     I find that the customers in China, Tesla owners in China are among the most discerning in the world.
+     Their attention to detail is incredible.
+     So they -- I'm confident that they will buy FSD as soon as it’s working on time.
+     And we hopefully that is later this year.
+     Martin Viecha
+
+Thank you.
+     And the next question is, is it fair to argue that the best way to think about company's long-term earnings power is tied to profit per unit of battery capacity?
+>>> Three-terawatt hours target from Battery Day implies half of long-term battery capacity goes to storage, depending on what you assume for pack size on Elon's 20 million vehicle unit goal?
+     Elon Musk
+
+Yeah.
+     It is.
+     So the fundamental limit on electric vehicles right now, in general, is total availability of cells.
+     What's the output of factory cells in gigawatt hours?
+     And you can't grow faster than that.
+     Now at Tesla, we've improved the efficiency of cars dramatically, such that you can actually get a pretty good range even with the standard range battery pack.
+     It's in the high -- it's approaching -- for Model 3, it's approaching the high 200s.
+-----
+10. [Sentence #310] [PLAN]
+     It is not to make less use of our cell suppliers.
+     In fact, I want to be really clear, Tesla wants to increase purchases from cell suppliers.
+     And we've been very clear with our cell suppliers, whether it be CATL or Panasonic or LG that we will take as many batteries as they can produce.
+     So -- and we urge them to increase their production, and we will buy as much as they can send to us.
+     Obviously, there are some price limits on that because the car still needs to be affordable.
+     But I'm just trying to be as clear as possible that our goal with making our own cells is not to disintermediate our suppliers.
+     It is to supplement our suppliers.
+>>> And we went to our suppliers of cells to increase their production, and in addition have our production that is simply taking up the amount beyond, which they are either unable or unwilling to increase their production.
+     So it's an acceleration over and above the most that our suppliers say they can produce for us.
+     And so we -- since the cell output drives vehicle output, the – and then – I mean probably the Roadster value of Tesla is just what's the cell output that implies vehicle output, and then at least double that for autonomy revenue probably one level.
+     And that's how you figure out the value of the company, I think, long term.
+     Martin Viecha
+
+Thank you very much.
+     The next question is about 4680 cells which we already covered in the retail section of this call.
+     So let's go straight to the last question from institutional investors, which is, where are you in Cybertruck development?
+     What are your expectations for Cybertruck deliveries in 2021?
+-----
+
+Total context windows: 10

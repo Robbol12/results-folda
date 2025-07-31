@@ -1,0 +1,31 @@
+[TSLA_Q1_2021] Did Tesla successfully scale production of its 4680 battery cells from the 2020 Battery Day announcement through 2021?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #93]  While the Tesla team in partnership with our suppliers did tremendous work keeping our factories running, we did experience high expedite costs in the quarter and they were also higher than they were in Q4, with some minor interruptions to **production** over the course of the quarter.
+2. [Sentence #104]  In particular for R&D, this includes the structural **battery** pack and **4680** **cells**, investments in the new SNX, and our neural net and silicon investments.
+3. [Sentence #272]  Could **4680** **cells** address this limitation?
+4. [Sentence #314]  You have got to build the **production** capacity for the **cells**, for the **battery** **cells**, for solar **cells**.
+5. [Sentence #336]  For high energy **cells**, like, for example, what we use in most Teslas, have nickel-based lithium-ion **cells**, which have higher energy density, longer range than iron-based **cells**.
+6. [Sentence #384]  I’d love to get actually based on what you presented on the **Battery** **Day**.
+7. [Sentence #389]  So I was wondering in which size you are ramping **production** capacity for the **4680** cell and where you stand on ramping up that capacity as well?
+8. [Sentence #398]  But overall, I think, we still feel quite optimistic about achieving volume **production** of the **4680** next year.
+9. [Sentence #407]  We did talk about yield also at **Battery** **Day**, which is one of the reasons why it’s useful to check in on that.
+10. [Sentence #476]  We are also getting very heavy into **4680** development that Drew and team are working on and the associated structural **battery** pack that goes along with that.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #314]  (Similarity: 0.831) You have got to build the **production** capacity for the **cells**, for the **battery** **cells**, for solar **cells**.
+2. [Sentence #389]  (Similarity: 0.801) So I was wondering in which size you are ramping **production** capacity for the **4680** cell and where you stand on ramping up that capacity as well?
+3. [Sentence #272]  (Similarity: 0.745) Could **4680** **cells** address this limitation?
+4. [Sentence #398]  (Similarity: 0.695) But overall, I think, we still feel quite optimistic about achieving volume **production** of the **4680** next year.
+5. [Sentence #104]  (Similarity: 0.685) In particular for R&D, this includes the structural **battery** pack and **4680** **cells**, investments in the new SNX, and our neural net and silicon investments.
+6. [Sentence #476]  (Similarity: 0.680) We are also getting very heavy into **4680** development that Drew and team are working on and the associated structural **battery** pack that goes along with that.
+7. [Sentence #384]  (Similarity: 0.659) I’d love to get actually based on what you presented on the **Battery** **Day**.
+8. [Sentence #93]  (Similarity: 0.650) While the Tesla team in partnership with our suppliers did tremendous work keeping our factories running, we did experience high expedite costs in the quarter and they were also higher than they were in Q4, with some minor interruptions to **production** over the course of the quarter.
+9. [Sentence #407]  (Similarity: 0.632) We did talk about yield also at **Battery** **Day**, which is one of the reasons why it’s useful to check in on that.
+10. [Sentence #336]  (Similarity: 0.623) For high energy **cells**, like, for example, what we use in most Teslas, have nickel-based lithium-ion **cells**, which have higher energy density, longer range than iron-based **cells**.
+
+Total similarity-top evidence sentences: 10
+
+-----

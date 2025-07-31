@@ -1,0 +1,31 @@
+[TSLA_Q4_2020] Did Tesla successfully scale production of its 4680 battery cells from the 2020 Battery Day announcement through 2021?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #158]  The in-house cell manufacturing system we revealed at **Battery** **Day** contains new processes and equipment.
+2. [Sentence #195]  The next question is what is Tesla's current gigawatt-hour run rate of the **4680** cell **production**?
+3. [Sentence #198]  I mean essentially, what we're saying is that the number to think about or focus on is like we've got a 100 gigawatt-hour total Tesla **cells** produced in 2022.
+4. [Sentence #290]  Three-terawatt hours target from **Battery** **Day** implies half of long-term **battery** capacity goes to storage, depending on what you assume for pack size on Elon's 20 million vehicle unit goal?
+5. [Sentence #302]  So -- but the reason Tesla is doing its own cell **production** is in order to accelerate the growth.
+6. [Sentence #310]  And we went to our suppliers of **cells** to increase their **production**, and in addition have our **production** that is simply taking up the amount beyond, which they are either unable or unwilling to increase their **production**.
+7. [Sentence #315]  The next question is about **4680** **cells** which we already covered in the retail section of this call.
+8. [Sentence #398]  Does this require them to also have the capability to build structural **4680** **cells** of the sort that you're putting in these newer iterations of vehicles?
+9. [Sentence #440]  We will have **cells** group in ourselves for Semi when we were producing the **4680** volume.
+10. [Sentence #479]  We're aspiring to do better than **Battery** **Day**, but we are confident of at least for doing what we presented at **Battery** **Day**.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #195]  (Similarity: 0.933) The next question is what is Tesla's current gigawatt-hour run rate of the **4680** cell **production**?
+2. [Sentence #315]  (Similarity: 0.784) The next question is about **4680** **cells** which we already covered in the retail section of this call.
+3. [Sentence #398]  (Similarity: 0.758) Does this require them to also have the capability to build structural **4680** **cells** of the sort that you're putting in these newer iterations of vehicles?
+4. [Sentence #302]  (Similarity: 0.753) So -- but the reason Tesla is doing its own cell **production** is in order to accelerate the growth.
+5. [Sentence #158]  (Similarity: 0.737) The in-house cell manufacturing system we revealed at **Battery** **Day** contains new processes and equipment.
+6. [Sentence #479]  (Similarity: 0.699) We're aspiring to do better than **Battery** **Day**, but we are confident of at least for doing what we presented at **Battery** **Day**.
+7. [Sentence #440]  (Similarity: 0.686) We will have **cells** group in ourselves for Semi when we were producing the **4680** volume.
+8. [Sentence #198]  (Similarity: 0.657) I mean essentially, what we're saying is that the number to think about or focus on is like we've got a 100 gigawatt-hour total Tesla **cells** produced in 2022.
+9. [Sentence #290]  (Similarity: 0.653) Three-terawatt hours target from **Battery** **Day** implies half of long-term **battery** capacity goes to storage, depending on what you assume for pack size on Elon's 20 million vehicle unit goal?
+10. [Sentence #310]  (Similarity: 0.649) And we went to our suppliers of **cells** to increase their **production**, and in addition have our **production** that is simply taking up the amount beyond, which they are either unable or unwilling to increase their **production**.
+
+Total similarity-top evidence sentences: 10
+
+-----
