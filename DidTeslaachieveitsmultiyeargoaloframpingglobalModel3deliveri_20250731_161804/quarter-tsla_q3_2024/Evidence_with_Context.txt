@@ -1,0 +1,209 @@
+[TSLA_Q3_2024] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+1. [Sentence #37] [UNCERTAIN]
+     And that should be substantial, but we're aiming for at least 2 million units a year of Cybercab.
+     That will be in more than one factory, but I think it's at least 2 million units a year, maybe 4 million ultimately.
+     So, yes, these are just my best guesses but if you ask me my best guesses, those are my best guesses.
+     The cell 4680 lines, the team is actually doing great work there.
+     The 4680 is rapidly approaching the point where it is the most competitive cell.
+     So, when you consider the fully landed -- the cost of a battery pack fully landed in the U.S., net of incentives and duties, 4680 is tracking to be the most competitive, maybe lower cost per kilowatt hour, fully considered than any other alternative, which is -- we're not quite there yet but we're close to being there, which I think is extremely exciting.
+     And we've got several -- a lot of ideas to go well beyond that.
+>>> So, I think there's -- if we execute well, the 4680 -- we'll have the -- the Tesla internally produced cell will be the most cost competitive cell in North America, a testament to the tremendous amount of hard work there done by the team.
+     So, that's to say we'll continue to buy a lot of cells from our competitors.
+     I tend not to provide -- to make cells just internally.
+     So, I don't want to sort of here.
+     We're obviously increasing substantially our vehicle output and our stationary storage output, so we need a lot of cells.
+     And most of them will still come from suppliers.
+     But I think it is some good news that the Tesla internal cell is likely to be the most competitive in the U.S.
+     So, with respect to autonomy, as people are experiencing in the cars really from week to week, there are significant improvements and the miles between interventions.
+-----
+2. [Sentence #67] [PILOT]
+     And we hope that we continue to scale the neural network, the data, the training compute, etc.
+     By Q2 next year, we should cross over the average, even in miles per critical intervention collision, in that case.
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+I mean, that is just unvarnished, our internal estimate.
+     Ashok Elluswamy -- Director, Autopilot Software
+
+Yes.
+     Yeah.
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+So, that's not sandbagging or anything else.
+     Our internal estimate is Q2 of next year to be safer than human and then to continue with rapid improvements thereafter.
+>>> A vast majority of humanity has no idea that Tesla could drive themselves so especially for something like a Model 3 or Model Y, it looks like a normal car.
+     So, you don't expect a normal car to be able to be intelligent enough to drive itself.
+     A Cybercab looks different.
+     A Cybertruck looks different, but Model Y and Model 3 are -- look, they're good-looking cars but look fairly normal.
+     You don't expect a fairly normal-looking car to have the intelligence, enough AI to be able to drive itself, but it does.
+     So, we do want to expose that to more people, and so we're doing -- every time we have a significant improvement in the software, we'll roll out another sort of 30-day trial to encourage people to try it again.
+     And we are seeing a significant improvement in adoption.
+     So, the take rate for FSD has improved substantially, especially after the 10/10 event.
+-----
+3. [Sentence #284] [UNCERTAIN]
+     Unknown speaker -- -- Analyst
+
+Yeah, exactly.
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+That's the best thing.
+     Unknown speaker -- -- Analyst
+
+We don't see any with the test.
+     You either do it -- fix the issue upstream, or you would remotely do it through software, maybe at work or at home or carpark.
+     And we've addressed the fixed issue.
+     And we've partnered the field with service to make sure we're looking at the same issues.
+     And additionally, just in Q3 and Q4 of this year alone, we have opened and will open in total of nearly 70 locations.
+>>> And in North America, we significantly expanded the size of each location and have doubled the size last year compared to this year.
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+Yeah.
+     I think it was like actually a lot of merit of having large service centers because you can have specialization of labor.
+     You can start your approach -- yeah, it should be more factory-like where you can have dedicated lanes for particular types of service.
+     And it's way easier for somebody to become expert in a few different types of repairs than in every repair.
+     Unknown speaker -- -- Analyst
+
+Exactly.
+     This has helped us with the base that the heavy repairs, like, the dedicated lanes for different type of repairs.
+     And so, it's through really treating it like a factory.
+-----
+4. [Sentence #162] [PLAN]
+     Vaibhav Taneja -- Chief Financial Officer
+
+Thanks.
+     Our Q3 results were positive and once again demonstrate the scale to which the business has evolved or with generation of record operating cash flows of $6.3 billion.
+     Our automotive revenues grew both quarter on quarter and year on year.
+     While we had unit volume growth, we did experience a reduction in ASPs primarily due to the impact of financing incentives.
+     As a reminder, we are providing these incentives primarily using third-party banks and financial institutions and recognize the cost of these incentives as an upfront reduction to revenue.
+     We released FSD for Cybertruck and other features like actually Smart Summon, like Elon talked about, in North America, which contributed $326 million of revenues in the quarter.
+     We continue to see elevated levels of regulatory credit sales with over $2 billion of revenues so far this year.
+>>> To expand on this at an industry level, China continues to outperform U.S.
+
+and Europe by a factor of three.
+     And if there is something to be learned from that, this gives a signal of what is to come in other regions.
+     As customers' acceptance of EV growth, we feel that is the right strategy to build affordable and more compelling leads.
+     Our focus remains on growing unit volume while avoiding a buildup of inventory.
+     To support this strategy, we're continuing to offer extremely compelling vehicle financing options in When you compare any vehicle in our lineup with other OEMs, we believe our vehicles provide much better value, particularly when you consider the safety features, performance and unparalleled software functionalities, like David also talked about, include also what Ashok had talked about around autonomy, music options, parental controls, and much more.
+     While every vehicle in our lineup comes up with these capabilities, there is an awareness gap not just with buyers but at times even with existing owners.
+     We plan on making these more visible in our interactions with both existing and future customers.
+     Automotive margins improved quarter over quarter as a result of a feature release discussed before.
+-----
+5. [Sentence #12] [PLAN]
+     These comments are based on our predictions and expectations as of today.
+     Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC.
+     During the question-and-answer portion of today's call, please limit yourself to one question and one follow-up.
+     [Operator instructions] Before we jump into Q&A, Elon has some opening remarks.
+     Elon?
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+Thank you.
+     So, to recap, as someone was saying, something that what -- the industry was seeing year-over-year declines in order volumes in Q3.
+>>> Tesla, at the same time, has achieved record deliveries.
+     In fact, I think if you look at EV companies worldwide, to the best of my knowledge, no EV company is even profitable.
+     And I'm not -- to the best of my knowledge, there was no EV division of any company, of any existing car company that is profitable.
+     So, it is notable that Tesla is profitable despite a very challenging automotive environment, and this quarter actually is a record Q3 for us.
+     So, we produced our seventh million vehicle actually just yesterday, so congratulations to the teams that made it happen in Tesla.
+     That's staggering the immense amount of work to make 7 million cars.
+     So, you see, we all have -- the energy storage business is growing like wildfire with strong demand for both Megapack and Powerwall.
+     And as you all know, on October 10, we laid out a vision for an autonomous and future that I think is very compelling that the Tesla team did a phenomenal job there with actually giving people an option to experience the future, where you have humanoid robots working among the craft, not with a canned video and a presentation or anything but walking among crowd so he drinks and whatnot.
+-----
+6. [Sentence #160] [UNCERTAIN]
+     Thank you very much, Elon.
+     And Vaibhav has some opening remarks as well.
+     Vaibhav Taneja -- Chief Financial Officer
+
+Thanks.
+     Our Q3 results were positive and once again demonstrate the scale to which the business has evolved or with generation of record operating cash flows of $6.3 billion.
+     Our automotive revenues grew both quarter on quarter and year on year.
+     While we had unit volume growth, we did experience a reduction in ASPs primarily due to the impact of financing incentives.
+     As a reminder, we are providing these incentives primarily using third-party banks and financial institutions and recognize the cost of these incentives as an upfront reduction to revenue.
+>>> We released FSD for Cybertruck and other features like actually Smart Summon, like Elon talked about, in North America, which contributed $326 million of revenues in the quarter.
+     We continue to see elevated levels of regulatory credit sales with over $2 billion of revenues so far this year.
+     To expand on this at an industry level, China continues to outperform U.S.
+
+and Europe by a factor of three.
+     And if there is something to be learned from that, this gives a signal of what is to come in other regions.
+     As customers' acceptance of EV growth, we feel that is the right strategy to build affordable and more compelling leads.
+     Our focus remains on growing unit volume while avoiding a buildup of inventory.
+     To support this strategy, we're continuing to offer extremely compelling vehicle financing options in When you compare any vehicle in our lineup with other OEMs, we believe our vehicles provide much better value, particularly when you consider the safety features, performance and unparalleled software functionalities, like David also talked about, include also what Ashok had talked about around autonomy, music options, parental controls, and much more.
+     While every vehicle in our lineup comes up with these capabilities, there is an awareness gap not just with buyers but at times even with existing owners.
+-----
+7. [Sentence #225] [PLAN]
+     But the next stage in that, really as it fits into AI road map, is when we bring in robotaxis, which lowers the initial cost of getting into an EV -- and those -- that's really where we see the marriage of EV road map and the AI road map.
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+Yeah.
+     It will be like with incentive.
+     So, 30K, which is kind of a key threshold.
+     Travis Axelrod -- Head of Investor Relations
+
+Great.
+     Thank you very much.
+     Similar question next.
+>>> When can we expect Tesla to give us the $25,000 non-robotaxi regular car model?
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+We're not breaking it on --
+
+Unknown speaker -- -- Analyst
+
+Yeah, all our vehicles today are --
+
+Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+So, I think we've made very clear that we're -- the future is autonomous.
+     I mean, it's going to be -- I've actually said this many years ago, but that in my strong belief and I believe that is panning out to be true, very obvious retrospect is that the future is autonomous electric vehicles.
+     And nonautonomous gasoline vehicles here will be like riding a horse and using a foot bone.
+     It's not that there are no horses.
+     Yes, there are some but they're unusual.
+     They're niche.
+     And so, everything is going to be electric autonomous.
+-----
+8. [Sentence #480] [PILOT]
+     Peter was lamenting how the future doesn't have flying cars.
+     Well, we'll see.
+     More to come.
+     Travis Axelrod -- Head of Investor Relations
+
+Yes.
+     The next one is quite similar to other questions you've had.
+     So, when I combine it with the final question.
+     So, briefly, could you just detail how Robotaxi will roll out?
+>>> Will it start with a Tesla deployed fleet and then allow customers to add theirs on the subscription model, and then will Hardware 3 be capable of this?
+     Ashok Elluswamy -- Director, Autopilot Software
+
+Regarding the Hardware 3, what we saw with was, it was easier to make a progress with starting with Hardware 4 and on the solution and backporting to Hardware 3 instead of directly working on Hardware 3 given that Hardware 4 was more like fundamental Hardware capabilities.
+     I think that trend will continue into the next few quarters as well.
+     But we first figured the solution rapidly with Hardware 4 and then backward it, right?
+     And it just takes longer to drop those things because it's not fundamentally supported in the hardware, and it's emulated.
+     But yes, initially working on Hardware 4, backwarding it to Hardware 3.
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+Yeah.
+     So, answer is we're not 100% sure, but as Ashok mentioned, because by some measure, Hardware 4 has really several times the capability of Hardware 3.
+-----
+9. [Sentence #212] [PLAN]
+     The Tesla team is hyper-focused on delivering on that version.
+     All efforts are underway to make it a reality.
+     While we've achieved significant progress this year, it will take time to get this as we find new and incredibly complex technologies and navigate a fragmented regulatory landscape.
+     The future is incredibly bright, and I want to thank the Tesla team once again for all their help.
+     Travis Axelrod -- Head of Investor Relations
+
+Great.
+     Thank you very much, Vaibhav.
+     Now, we'll go to investor questions.
+>>> The first one is, is Tesla still on track to deliver the more affordable model next year, as mentioned by Elon earlier?
+     And how does it align with your AI and product road map?
+     Unknown speaker -- -- Analyst
+
+Sure.
+     I mean, as Elon and Vaibhav both said, we are on plan to meet that in the first half of next year.
+     Ambition has always been to lower the cost of our vehicles to increase the adoption of sustainable energy and transport.
+     Part of that is lowering the cost of our current vehicles, which is where all of the personally owned vehicles that we sell today come in.
+     But the next stage in that, really as it fits into AI road map, is when we bring in robotaxis, which lowers the initial cost of getting into an EV -- and those -- that's really where we see the marriage of EV road map and the AI road map.
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+Yeah.
+-----
+
+Total context windows: 9

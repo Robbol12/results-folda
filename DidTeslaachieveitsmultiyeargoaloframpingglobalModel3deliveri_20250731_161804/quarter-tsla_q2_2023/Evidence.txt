@@ -1,0 +1,23 @@
+[TSLA_Q2_2023] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #62]  As I think a lot of people are aware, the Tesla Charging Standard, which we made open source and it’s now called the **North** American Charging Standard.
+2. [Sentence #66]  Then something I think, I want emphasize, like very strongly, this is a very important point is that Tesla -- just as with the **North** American Charging Standard, although we’re not license -- in that case not licensing, we’re just making it available, but we are very open to licensing our full self-driving software and hardware to other car companies.
+3. [Sentence #117]  The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the revenue **model**?
+4. [Sentence #120]  Megapack continues to show strong demand globally with Lathrop **ramping** successfully to meet our contracted projects in 2023.
+5. [Sentence #134]  And today, we are expanding Tesla electric enrollment to new ****Model** 3** owners in Texas, followed by all Texas vehicle customers over the rest of the quarter.
+6. [Sentence #202]  Using an example of replacing a rear cast rail in the **Model** Y, to do that versus like what we replaced it with from ****Model** 3**, it’s 10 times cheaper and 3 times faster to do it with the cast rail.
+
+Total transcript-order evidence sentences: 6
+
+--- Evidence by Similarity ---
+1. [Sentence #134]  (Similarity: 0.881) And today, we are expanding Tesla electric enrollment to new ****Model** 3** owners in Texas, followed by all Texas vehicle customers over the rest of the quarter.
+2. [Sentence #66]  (Similarity: 0.803) Then something I think, I want emphasize, like very strongly, this is a very important point is that Tesla -- just as with the **North** American Charging Standard, although we’re not license -- in that case not licensing, we’re just making it available, but we are very open to licensing our full self-driving software and hardware to other car companies.
+3. [Sentence #62]  (Similarity: 0.738) As I think a lot of people are aware, the Tesla Charging Standard, which we made open source and it’s now called the **North** American Charging Standard.
+4. [Sentence #117]  (Similarity: 0.619) The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the revenue **model**?
+5. [Sentence #202]  (Similarity: 0.619) Using an example of replacing a rear cast rail in the **Model** Y, to do that versus like what we replaced it with from ****Model** 3**, it’s 10 times cheaper and 3 times faster to do it with the cast rail.
+6. [Sentence #120]  (Similarity: 0.603) Megapack continues to show strong demand globally with Lathrop **ramping** successfully to meet our contracted projects in 2023.
+
+Total similarity-top evidence sentences: 6
+
+-----

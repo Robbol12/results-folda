@@ -1,0 +1,29 @@
+[TSLA_Q3_2022] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #33]  So, this quarter, we expect to go to a wide release of full self-driving Beta in ****North** **America****.
+2. [Sentence #119]  The U.S. actually isn’t -- ****North** **America**** is in a pretty good health, although the Fed is raising interest rates more than they should, but I think they’ll eventually realize that and bring back down again.
+3. [Sentence #132]  We -- to the best of our knowledge, we believe that Tesla will continue to grow **deliveries** and revenue production at a 50% or greater compound annual growth rate.
+4. [Sentence #182]  And we will begin **ramping** up production of the Tesla Semi, which is a max low, heavy -- heavy truck.
+5. [Sentence #200]  So, we expect to see significant -- we’re tentatively aiming for 50,000 units in 2024 for Tesla Semi in ****North** **America****.
+6. [Sentence #201]  And obviously, we’ll expand beyond ****North** **America****.
+7. [Sentence #210]  Our focus is now shifting from 100% ramp to cost and further expanding production capacity in ****North** **America****, as Elon also mentioned.
+8. [Sentence #218]  And like I said, we’re -- our **goal** is to strive towards 1,000 gigawatt hours a year of annualized production in United States alone by Tesla, not including [indiscernible], will be on top of that.
+9. [Sentence #263]  That’s exactly what [indiscernible] how we make two cars for the amount of effort that currently takes us to make one ****Model** 3**.
+
+Total transcript-order evidence sentences: 9
+
+--- Evidence by Similarity ---
+1. [Sentence #200]  (Similarity: 1.028) So, we expect to see significant -- we’re tentatively aiming for 50,000 units in 2024 for Tesla Semi in ****North** **America****.
+2. [Sentence #210]  (Similarity: 0.953) Our focus is now shifting from 100% ramp to cost and further expanding production capacity in ****North** **America****, as Elon also mentioned.
+3. [Sentence #263]  (Similarity: 0.859) That’s exactly what [indiscernible] how we make two cars for the amount of effort that currently takes us to make one ****Model** 3**.
+4. [Sentence #201]  (Similarity: 0.815) And obviously, we’ll expand beyond ****North** **America****.
+5. [Sentence #33]  (Similarity: 0.813) So, this quarter, we expect to go to a wide release of full self-driving Beta in ****North** **America****.
+6. [Sentence #132]  (Similarity: 0.671) We -- to the best of our knowledge, we believe that Tesla will continue to grow **deliveries** and revenue production at a 50% or greater compound annual growth rate.
+7. [Sentence #119]  (Similarity: 0.625) The U.S. actually isn’t -- ****North** **America**** is in a pretty good health, although the Fed is raising interest rates more than they should, but I think they’ll eventually realize that and bring back down again.
+8. [Sentence #218]  (Similarity: 0.623) And like I said, we’re -- our **goal** is to strive towards 1,000 gigawatt hours a year of annualized production in United States alone by Tesla, not including [indiscernible], will be on top of that.
+9. [Sentence #182]  (Similarity: 0.614) And we will begin **ramping** up production of the Tesla Semi, which is a max low, heavy -- heavy truck.
+
+Total similarity-top evidence sentences: 9
+
+-----

@@ -1,0 +1,27 @@
+[TSLA_Q1_2022] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #48]  So, I’d really like to congratulate the Tesla team on achieving record profitability and output despite many, many difficult headwinds, and especially the Tesla **China** team in our Shanghai factory.
+2. [Sentence #103]  What is the time line for localizing the ****Model** 3** in **Europe**, or will newer models be prioritized in Berlin?
+3. [Sentence #112]  And then, ****Model** 3**.
+4. [Sentence #186]  Similar to ****Model** 3**, it will take us several years to get rate and yields to the point where everything that we’ve discussed is achieved.
+5. [Sentence #309]  Dan Levy
+
+Second question, one of the initial goals of ****Model** 3** way back when was to have an EV that was affordable for a wide portion of the market.
+6. [Sentence #497]  And we are working on solutions in ****North** **America****, which is a little bit more problematic with our connector being different than others, but we are moving in that direction.
+
+Total transcript-order evidence sentences: 6
+
+--- Evidence by Similarity ---
+1. [Sentence #103]  (Similarity: 0.943) What is the time line for localizing the ****Model** 3** in **Europe**, or will newer models be prioritized in Berlin?
+2. [Sentence #309]  (Similarity: 0.842) Dan Levy
+
+Second question, one of the initial goals of ****Model** 3** way back when was to have an EV that was affordable for a wide portion of the market.
+3. [Sentence #186]  (Similarity: 0.789) Similar to ****Model** 3**, it will take us several years to get rate and yields to the point where everything that we’ve discussed is achieved.
+4. [Sentence #497]  (Similarity: 0.763) And we are working on solutions in ****North** **America****, which is a little bit more problematic with our connector being different than others, but we are moving in that direction.
+5. [Sentence #112]  (Similarity: 0.704) And then, ****Model** 3**.
+6. [Sentence #48]  (Similarity: 0.614) So, I’d really like to congratulate the Tesla team on achieving record profitability and output despite many, many difficult headwinds, and especially the Tesla **China** team in our Shanghai factory.
+
+Total similarity-top evidence sentences: 6
+
+-----

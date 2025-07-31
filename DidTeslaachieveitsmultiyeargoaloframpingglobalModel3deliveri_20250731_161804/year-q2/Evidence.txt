@@ -1,0 +1,71 @@
+[Year Q2] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #33]  (TSLA_Q2_2020) And we'll be doing ****Model** 3** and Y for the eastern half of ****North** **America****.
+2. [Sentence #35]  (TSLA_Q2_2020) But we expect California to do **Model** S and X for worldwide consumption and 3 and Y for the western half of ****North** **America****.
+3. [Sentence #101]  (TSLA_Q2_2020) Despite these charges, we continue to make progress, reducing our costs, particularly on **Model** Y in Fremont, and ****Model** 3** in Shanghai.
+4. [Sentence #127]  (TSLA_Q2_2020) The question number one is, as Tesla continues its journey towards the long-term **goal** of selling 20 million units per year, what are the most important vehicle programs that will drive volume growth over the next three to five years beyond ****Model** 3**, Y and the Cybertruck?
+5. [Sentence #157]  (TSLA_Q2_2020) And the ability to upgrade your vehicle through the app, for example, on Acceleration Boost or upgrading a Standard Range ****Model** 3** to a Standard Plus, adding rear-heated seats.
+6. [Sentence #348]  (TSLA_Q2_2020) What we're seeing with our passenger vehicles is that our powertrain efficiency and tire efficiency, drive coefficient like basically all of the things that, like, you know, our HVAC, going to a heat pump, basically our total vehicle efficiency has gotten good enough with ****Model** 3**, for example, that we actually are comfortable having an iron phosphate battery pack in ****Model** 3** in **China** and that that'll be in volume production later this year.
+7. [Sentence #354]  (TSLA_Q2_2020) The next question is, Tesla recently decided not to produce Standard 3 Range version of **Model** Y.
+8. [Sentence #450]  (TSLA_Q2_2020) And as we said before, the **Model** Y cost structure and ****Model** 3** cost structure will converge.
+9. [Sentence #451]  (TSLA_Q2_2020) They're not quite there, **Model** Y is still slightly more expensive than ****Model** 3**, and it's not yet at full production.
+10. [Sentence #498]  (TSLA_Q2_2020) ****Model** 3**, which is our second most mature product, that continues to come down.
+11. [Sentence #626]  (TSLA_Q2_2021) So ****Model** 3** became the best-selling mid-sized premier sedan in the world.
+12. [Sentence #629]  (TSLA_Q2_2021) It’s been exceeded by the Tesla ****Model** 3**, and this is only three-and-a half years into production and with just two factories.
+13. [Sentence #630]  (TSLA_Q2_2021) For ****Model** 3** to be out selling its combustion engine competitors, I think, this is quite remarkable.
+14. [Sentence #631]  (TSLA_Q2_2021) In the past couple of quarters, we delivered roughly $0.25 million **Model** 3s, so -- which translates in an annualized rate of $0.5 million per year.
+15. [Sentence #680]  (TSLA_Q2_2021) And at this time, we will continue to ramp production of **Model** Y in three months in Shanghai.
+16. [Sentence #949]  (TSLA_Q2_2021) Let’s go to the next question from institutional investors which is, you have suggested that between a 5x to 10x improvement is achievable in automotive production versus the first ****Model** 3** line on a first-principles physics analysis.
+17. [Sentence #1087]  (TSLA_Q2_2021) On the SG&A side, the business is pivoting very quickly to be **global** and **China** is **ramping** quite quickly.
+18. [Sentence #1106]  (TSLA_Q2_2021) ****Model** 3** and **Model** Y were steps of improvement in that.
+19. [Sentence #1239]  (TSLA_Q2_2022) How can Tesla make sure the company is staying ahead of those manufacturers, both within **China** and outside of **China**?
+20. [Sentence #1759]  (TSLA_Q2_2023) As I think a lot of people are aware, the Tesla Charging Standard, which we made open source and it’s now called the **North** American Charging Standard.
+21. [Sentence #1763]  (TSLA_Q2_2023) Then something I think, I want emphasize, like very strongly, this is a very important point is that Tesla -- just as with the **North** American Charging Standard, although we’re not license -- in that case not licensing, we’re just making it available, but we are very open to licensing our full self-driving software and hardware to other car companies.
+22. [Sentence #1831]  (TSLA_Q2_2023) And today, we are expanding Tesla electric enrollment to new ****Model** 3** owners in Texas, followed by all Texas vehicle customers over the rest of the quarter.
+23. [Sentence #2310]  (TSLA_Q2_2024) So we are **ramping** up production in our U.S. factory as well as building the Megapack factory in **China** that should roughly double our output, maybe more than double -- maybe triple potentially.
+24. [Sentence #2334]  (TSLA_Q2_2024) We pride ourselves to be the company with the most American-made cars and are continuing our journey to further localize our supply chain, not just in the U.S., but in **Europe** and **China** as well for the respective factories.
+25. [Sentence #2338]  (TSLA_Q2_2024) Since the revision of FSD pricing in ****North** **America****, we've seen production rates increase meaningfully and expect this to be a driver of vehicle sales as the feature set improves further.
+26. [Sentence #2341]  (TSLA_Q2_2024) Additionally, as we get into the second half of the year, it is important to note that we are still **ramping** Cybertruck and ****Model** 3** and are also getting impacted by varying amounts of tariffs on both raw materials and finished goods.
+27. [Sentence #2408]  (TSLA_Q2_2024) Just to give you a fact, in U.S. alone in Q2, over two-thirds of our sales were to -- **deliveries** were to people who had never owned a Tesla before and which is encouraging.
+28. [Sentence #2574]  (TSLA_Q2_2024) We're still importing **Model** 3s into **Europe**, out of Shanghai.
+29. [Sentence #2603]  (TSLA_Q2_2024) I should also say that the self-driving capabilities of this are deployed outside of ****North** **America**** are far behind that in, in ****North** **America****.
+30. [Sentence #2604]  (TSLA_Q2_2024) So with the -- with Version 12.5, and maybe a 12.6, but pretty soon we will ask for regular regulatory approval of the Tesla supervised FSD in **Europe**, **China**, and other countries.
+
+Total transcript-order evidence sentences: 30
+
+--- Evidence by Similarity ---
+1. [Sentence #33]  (TSLA_Q2_2020) (Similarity: 1.270) And we'll be doing ****Model** 3** and Y for the eastern half of ****North** **America****.
+2. [Sentence #2574]  (TSLA_Q2_2024) (Similarity: 1.038) We're still importing **Model** 3s into **Europe**, out of Shanghai.
+3. [Sentence #127]  (TSLA_Q2_2020) (Similarity: 1.014) The question number one is, as Tesla continues its journey towards the long-term **goal** of selling 20 million units per year, what are the most important vehicle programs that will drive volume growth over the next three to five years beyond ****Model** 3**, Y and the Cybertruck?
+4. [Sentence #629]  (TSLA_Q2_2021) (Similarity: 0.968) It’s been exceeded by the Tesla ****Model** 3**, and this is only three-and-a half years into production and with just two factories.
+5. [Sentence #35]  (TSLA_Q2_2020) (Similarity: 0.967) But we expect California to do **Model** S and X for worldwide consumption and 3 and Y for the western half of ****North** **America****.
+6. [Sentence #2341]  (TSLA_Q2_2024) (Similarity: 0.947) Additionally, as we get into the second half of the year, it is important to note that we are still **ramping** Cybertruck and ****Model** 3** and are also getting impacted by varying amounts of tariffs on both raw materials and finished goods.
+7. [Sentence #348]  (TSLA_Q2_2020) (Similarity: 0.882) What we're seeing with our passenger vehicles is that our powertrain efficiency and tire efficiency, drive coefficient like basically all of the things that, like, you know, our HVAC, going to a heat pump, basically our total vehicle efficiency has gotten good enough with ****Model** 3**, for example, that we actually are comfortable having an iron phosphate battery pack in ****Model** 3** in **China** and that that'll be in volume production later this year.
+8. [Sentence #1831]  (TSLA_Q2_2023) (Similarity: 0.881) And today, we are expanding Tesla electric enrollment to new ****Model** 3** owners in Texas, followed by all Texas vehicle customers over the rest of the quarter.
+9. [Sentence #2603]  (TSLA_Q2_2024) (Similarity: 0.878) I should also say that the self-driving capabilities of this are deployed outside of ****North** **America**** are far behind that in, in ****North** **America****.
+10. [Sentence #626]  (TSLA_Q2_2021) (Similarity: 0.834) So ****Model** 3** became the best-selling mid-sized premier sedan in the world.
+11. [Sentence #630]  (TSLA_Q2_2021) (Similarity: 0.833) For ****Model** 3** to be out selling its combustion engine competitors, I think, this is quite remarkable.
+12. [Sentence #2338]  (TSLA_Q2_2024) (Similarity: 0.821) Since the revision of FSD pricing in ****North** **America****, we've seen production rates increase meaningfully and expect this to be a driver of vehicle sales as the feature set improves further.
+13. [Sentence #101]  (TSLA_Q2_2020) (Similarity: 0.815) Despite these charges, we continue to make progress, reducing our costs, particularly on **Model** Y in Fremont, and ****Model** 3** in Shanghai.
+14. [Sentence #631]  (TSLA_Q2_2021) (Similarity: 0.808) In the past couple of quarters, we delivered roughly $0.25 million **Model** 3s, so -- which translates in an annualized rate of $0.5 million per year.
+15. [Sentence #1763]  (TSLA_Q2_2023) (Similarity: 0.803) Then something I think, I want emphasize, like very strongly, this is a very important point is that Tesla -- just as with the **North** American Charging Standard, although we’re not license -- in that case not licensing, we’re just making it available, but we are very open to licensing our full self-driving software and hardware to other car companies.
+16. [Sentence #2310]  (TSLA_Q2_2024) (Similarity: 0.756) So we are **ramping** up production in our U.S. factory as well as building the Megapack factory in **China** that should roughly double our output, maybe more than double -- maybe triple potentially.
+17. [Sentence #1087]  (TSLA_Q2_2021) (Similarity: 0.751) On the SG&A side, the business is pivoting very quickly to be **global** and **China** is **ramping** quite quickly.
+18. [Sentence #1106]  (TSLA_Q2_2021) (Similarity: 0.749) ****Model** 3** and **Model** Y were steps of improvement in that.
+19. [Sentence #498]  (TSLA_Q2_2020) (Similarity: 0.749) ****Model** 3**, which is our second most mature product, that continues to come down.
+20. [Sentence #450]  (TSLA_Q2_2020) (Similarity: 0.743) And as we said before, the **Model** Y cost structure and ****Model** 3** cost structure will converge.
+21. [Sentence #1759]  (TSLA_Q2_2023) (Similarity: 0.738) As I think a lot of people are aware, the Tesla Charging Standard, which we made open source and it’s now called the **North** American Charging Standard.
+22. [Sentence #451]  (TSLA_Q2_2020) (Similarity: 0.732) They're not quite there, **Model** Y is still slightly more expensive than ****Model** 3**, and it's not yet at full production.
+23. [Sentence #2604]  (TSLA_Q2_2024) (Similarity: 0.731) So with the -- with Version 12.5, and maybe a 12.6, but pretty soon we will ask for regular regulatory approval of the Tesla supervised FSD in **Europe**, **China**, and other countries.
+24. [Sentence #1239]  (TSLA_Q2_2022) (Similarity: 0.730) How can Tesla make sure the company is staying ahead of those manufacturers, both within **China** and outside of **China**?
+25. [Sentence #354]  (TSLA_Q2_2020) (Similarity: 0.723) The next question is, Tesla recently decided not to produce Standard 3 Range version of **Model** Y.
+26. [Sentence #949]  (TSLA_Q2_2021) (Similarity: 0.717) Let’s go to the next question from institutional investors which is, you have suggested that between a 5x to 10x improvement is achievable in automotive production versus the first ****Model** 3** line on a first-principles physics analysis.
+27. [Sentence #2408]  (TSLA_Q2_2024) (Similarity: 0.671) Just to give you a fact, in U.S. alone in Q2, over two-thirds of our sales were to -- **deliveries** were to people who had never owned a Tesla before and which is encouraging.
+28. [Sentence #157]  (TSLA_Q2_2020) (Similarity: 0.671) And the ability to upgrade your vehicle through the app, for example, on Acceleration Boost or upgrading a Standard Range ****Model** 3** to a Standard Plus, adding rear-heated seats.
+29. [Sentence #2334]  (TSLA_Q2_2024) (Similarity: 0.670) We pride ourselves to be the company with the most American-made cars and are continuing our journey to further localize our supply chain, not just in the U.S., but in **Europe** and **China** as well for the respective factories.
+30. [Sentence #680]  (TSLA_Q2_2021) (Similarity: 0.665) And at this time, we will continue to ramp production of **Model** Y in three months in Shanghai.
+
+Total similarity-top evidence sentences: 30
+
+-----

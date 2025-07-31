@@ -1,0 +1,33 @@
+[TSLA_Q3_2024] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #12]  Tesla, at the same time, has achieved record **deliveries**.
+2. [Sentence #37]  So, I think there's -- if we execute well, the 4680 -- we'll have the -- the Tesla internally produced cell will be the most cost competitive cell in ****North** **America****, a testament to the tremendous amount of hard work there done by the team.
+3. [Sentence #67]  A vast majority of humanity has no idea that Tesla could drive themselves so especially for something like a ****Model** 3** or **Model** Y, it looks like a normal car.
+4. [Sentence #160]  We released FSD for Cybertruck and other features like actually Smart Summon, like Elon talked about, in ****North** **America****, which contributed $326 million of revenues in the quarter.
+5. [Sentence #162]  To expand on this at an industry level, **China** continues to outperform U.S.
+
+and **Europe** by a factor of three.
+6. [Sentence #212]  The first one is, is Tesla still on track to deliver the more affordable **model** next year, as mentioned by Elon earlier?
+7. [Sentence #225]  When can we expect Tesla to give us the $25,000 non-robotaxi regular car **model**?
+8. [Sentence #284]  And in ****North** **America****, we significantly expanded the size of each location and have doubled the size last year compared to this year.
+9. [Sentence #480]  Will it start with a Tesla deployed fleet and then allow customers to add theirs on the subscription **model**, and then will Hardware 3 be capable of this?
+
+Total transcript-order evidence sentences: 9
+
+--- Evidence by Similarity ---
+1. [Sentence #37]  (Similarity: 0.989) So, I think there's -- if we execute well, the 4680 -- we'll have the -- the Tesla internally produced cell will be the most cost competitive cell in ****North** **America****, a testament to the tremendous amount of hard work there done by the team.
+2. [Sentence #67]  (Similarity: 0.854) A vast majority of humanity has no idea that Tesla could drive themselves so especially for something like a ****Model** 3** or **Model** Y, it looks like a normal car.
+3. [Sentence #284]  (Similarity: 0.769) And in ****North** **America****, we significantly expanded the size of each location and have doubled the size last year compared to this year.
+4. [Sentence #162]  (Similarity: 0.729) To expand on this at an industry level, **China** continues to outperform U.S.
+
+and **Europe** by a factor of three.
+5. [Sentence #12]  (Similarity: 0.703) Tesla, at the same time, has achieved record **deliveries**.
+6. [Sentence #160]  (Similarity: 0.703) We released FSD for Cybertruck and other features like actually Smart Summon, like Elon talked about, in ****North** **America****, which contributed $326 million of revenues in the quarter.
+7. [Sentence #225]  (Similarity: 0.652) When can we expect Tesla to give us the $25,000 non-robotaxi regular car **model**?
+8. [Sentence #480]  (Similarity: 0.638) Will it start with a Tesla deployed fleet and then allow customers to add theirs on the subscription **model**, and then will Hardware 3 be capable of this?
+9. [Sentence #212]  (Similarity: 0.628) The first one is, is Tesla still on track to deliver the more affordable **model** next year, as mentioned by Elon earlier?
+
+Total similarity-top evidence sentences: 9
+
+-----

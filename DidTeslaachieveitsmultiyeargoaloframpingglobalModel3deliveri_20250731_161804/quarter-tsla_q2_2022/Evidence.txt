@@ -1,0 +1,15 @@
+[TSLA_Q2_2022] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #57]  And FSD beta is on track to be released for all of **North** American customers before the end of this year.
+2. [Sentence #111]  How can Tesla make sure the company is staying ahead of those manufacturers, both within **China** and outside of **China**?
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #111]  (Similarity: 0.730) How can Tesla make sure the company is staying ahead of those manufacturers, both within **China** and outside of **China**?
+2. [Sentence #57]  (Similarity: 0.663) And FSD beta is on track to be released for all of **North** American customers before the end of this year.
+
+Total similarity-top evidence sentences: 2
+
+-----

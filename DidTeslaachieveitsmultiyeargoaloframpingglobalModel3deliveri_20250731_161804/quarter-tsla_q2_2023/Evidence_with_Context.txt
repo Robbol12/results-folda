@@ -1,0 +1,126 @@
+[TSLA_Q2_2023] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+1. [Sentence #134] [PLAN]
+     Autobidder does have software margins and is an enabler for hardware sales, but it’s a relatively small contributor to revenues, given how much deployment growth on the Megapack hardware side is occurring.
+     It’s important to remember that these large projects – these large capital projects have lifetimes of 20 years of recurring revenues on an annualized basis relative to upfront CapEx are small.
+     On the residential side, we have some fun things happening.
+     We recently surpassed 0.5 million Powerwalls installed.
+     Just this week, we are launching Charge on Solar, which allows Tesla Powerwall and vehicle customers to charge their vehicles using their excess solar and drive only on the sunshine that hits their roof.
+     Yesterday, we began paying customers in Texas for participating in our virtual power plant to provide grid support to ERCOT.
+     We expect these credits to lower our median customer’s annual bill by a third and to increase these credits over time as ERCOT expands market access.
+>>> And today, we are expanding Tesla electric enrollment to new Model 3 owners in Texas, followed by all Texas vehicle customers over the rest of the quarter.
+     Unfortunately and somewhat similar to Tesla Insurance, bringing Tesla electric and BPP capabilities to our customers requires working through a fractured regulatory environment on a jurisdiction-by-jurisdiction basis.
+     In the long run, the value of residential energy software and hardware will be driven by the level of market access that utilities, market operators and regulators permit.
+     For Powerwall that’s eligible to provide the full stack of energy services, like peaker capacity and system buffering, such as in Australia, we can more than double the value of ownership relative to a typical system today.
+     Martin Viecha
+
+Thank you very much.
+     The next question is, could you quantify the benefits to COGS per unit from the IRA battery manufacturing incentives; and secondly, battery raw material declines year-to-date?
+     Zachary Kirkhorn
+
+All right.
+     I can take that.
+-----
+2. [Sentence #66] [UNCERTAIN]
+     And we can’t wait to start delivering it later this year.
+     Some other highlights.
+     Our global Supercharging network now stands at over 50,000 -- roughly 50,000 connectors and over 5,000 locations.
+     As I think a lot of people are aware, the Tesla Charging Standard, which we made open source and it’s now called the North American Charging Standard.
+     We’re deeply honored that Ford, GM, Mercedes and many other OEMs have signed up to use our connector and gain access to our charging network.
+     We strongly believe in helping other car companies to accelerate the EV revolution and just trying to do the right thing in general.
+     So, that’s the goal there.
+>>> Then something I think, I want emphasize, like very strongly, this is a very important point is that Tesla -- just as with the North American Charging Standard, although we’re not license -- in that case not licensing, we’re just making it available, but we are very open to licensing our full self-driving software and hardware to other car companies.
+     And we are already in discussions with -- early discussions with major OEM about using Tesla FSD.
+     So, we’re not trying to keep this to ourselves.
+     We’re more than happy to license it to others.
+     And lastly, our new lithium refinery and cathode facility are progressing well.
+     In conclusion, we continue to focus on making as many cars as we can, while maintaining healthy financials.
+     Our artificial intelligence development is obviously entering a new era and we’re incredibly excited about what’s to come.
+     Our other businesses such as Megapack, Supercharging service and whatnot, all started to become a meaningful contributor to overall profitability this quarter.
+-----
+3. [Sentence #62] [UNCERTAIN]
+     So, it’s sort of biggest on the outside, but it’s even bigger on the inside.
+     So it’s -- I think that’s a -- one of the elements of good design is it should feel bigger on the inside than it looks on the outside.
+     And this is no small car, but we really cared about the exterior dimensions of the Cybertruck down to the last millimeter.
+     So just -- we try to get right in the middle of the Goldilocks zone, not too big, not too small and then really maximize the utility of the volume.
+     And we can’t wait to start delivering it later this year.
+     Some other highlights.
+     Our global Supercharging network now stands at over 50,000 -- roughly 50,000 connectors and over 5,000 locations.
+>>> As I think a lot of people are aware, the Tesla Charging Standard, which we made open source and it’s now called the North American Charging Standard.
+     We’re deeply honored that Ford, GM, Mercedes and many other OEMs have signed up to use our connector and gain access to our charging network.
+     We strongly believe in helping other car companies to accelerate the EV revolution and just trying to do the right thing in general.
+     So, that’s the goal there.
+     Then something I think, I want emphasize, like very strongly, this is a very important point is that Tesla -- just as with the North American Charging Standard, although we’re not license -- in that case not licensing, we’re just making it available, but we are very open to licensing our full self-driving software and hardware to other car companies.
+     And we are already in discussions with -- early discussions with major OEM about using Tesla FSD.
+     So, we’re not trying to keep this to ourselves.
+     We’re more than happy to license it to others.
+-----
+4. [Sentence #117] [PLAN]
+     Here in Texas, we’re preparing to launch our Cybertruck cell, which is 10% higher energy density than current production.
+     That was accomplished through process and mechanical design optimization.
+     As we scale Cyber cell production through the end of the year and early next, we should be in a comfortable place on cost per cell.
+     Against our battery energy density targets, the Cyber cell is at our expectations on a like-for-like electrochemistry basis.
+     We’re yet to integrate silicon or in-house cathode production, both reviewed on Battery Day, which do bring significant further energy density and cost improvements, but that is a topic for another day.
+     Lastly, it is important to remember that most of what we focused on a Battery Day was the Tesla-engineered 4680 production system and the improvements we strove to achieve on equipment, factory density, capital cost and utility cost reduction, all of which we are realizing in our Texas scale up to date.
+     Martin Viecha
+
+Thank you very much.
+>>> The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the revenue model?
+     Given Tesla’s AI capabilities, how do you see the long-term mix between hardware margin and recurring software margin from Autobidder as this segment accelerates?
+     Unidentified Company Representative
+
+We can’t comment on future product road map, but I can provide a quick energy Q2 update.
+     Megapack continues to show strong demand globally with Lathrop ramping successfully to meet our contracted projects in 2023.
+     As stated last quarter, Megapack margins are in a reasonable place, in line with our target – vehicle target margins.
+     The second final assembly line at Lathrop is progressing on schedule, eventually doubling Lathrop capacity ahead of our full factory ramp in 2024.
+     We have several exciting large projects in construction or nearing completion, including the KES project in Hawaii, the Riverina project in Australia, several products in California and one here at Gigafactory, Texas that we’ll tour today, actually.
+     We want to thank our customers, utilities and grid operators for trusting us with these projects.
+-----
+5. [Sentence #202] [PLAN]
+     There’s a misconception that traditional bodies are easy to repair, but they are made up of multiple materials and multiple joining methods.
+     Spot welds and rivets have to be drilled out.
+     Panels and structural adhesives have to be chiseled out.
+     Dried adhesive has to be removed, stains, cut, blah, blah, blah.
+     Elon Musk
+
+It’s a crazy patch of a quilt.
+     Lars Moravy
+
+Yes.
+     And so putting that back together means time and money.
+>>> Using an example of replacing a rear cast rail in the Model Y, to do that versus like what we replaced it with from Model 3, it’s 10 times cheaper and 3 times faster to do it with the cast rail.
+     Design team works with our collision repair team since we’re a closed loop on this with insurance, and we design specific parts that make it easier and faster to repair.
+     And we have an incentive to do that because we have our own insurance and our own body shops.
+     We expect that we’ll continue to do this, and collision repair will continue to become cheaper and faster over time.
+     And we already make this available to all body shops or our Tesla-approved body shop training.
+     Elon Musk
+
+Yes, closing loop on collision repair and factoring that into design is a big deal.
+     Lars Moravy
+
+Crucial.
+     I don’t think anyone else can do it with that ecosystem that we have, so.
+-----
+6. [Sentence #120] [PLAN]
+     Against our battery energy density targets, the Cyber cell is at our expectations on a like-for-like electrochemistry basis.
+     We’re yet to integrate silicon or in-house cathode production, both reviewed on Battery Day, which do bring significant further energy density and cost improvements, but that is a topic for another day.
+     Lastly, it is important to remember that most of what we focused on a Battery Day was the Tesla-engineered 4680 production system and the improvements we strove to achieve on equipment, factory density, capital cost and utility cost reduction, all of which we are realizing in our Texas scale up to date.
+     Martin Viecha
+
+Thank you very much.
+     The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the revenue model?
+     Given Tesla’s AI capabilities, how do you see the long-term mix between hardware margin and recurring software margin from Autobidder as this segment accelerates?
+     Unidentified Company Representative
+
+We can’t comment on future product road map, but I can provide a quick energy Q2 update.
+>>> Megapack continues to show strong demand globally with Lathrop ramping successfully to meet our contracted projects in 2023.
+     As stated last quarter, Megapack margins are in a reasonable place, in line with our target – vehicle target margins.
+     The second final assembly line at Lathrop is progressing on schedule, eventually doubling Lathrop capacity ahead of our full factory ramp in 2024.
+     We have several exciting large projects in construction or nearing completion, including the KES project in Hawaii, the Riverina project in Australia, several products in California and one here at Gigafactory, Texas that we’ll tour today, actually.
+     We want to thank our customers, utilities and grid operators for trusting us with these projects.
+     On the Autobidder question, we continue to grow Autobidder contracts in wholesale markets like Australia, Texas, UK and California with over 6 gigawatt hours under Tesla’s dispatch next year.
+     In the UK, our projects performed best in the industry in Q2.
+     Autobidder does have software margins and is an enabler for hardware sales, but it’s a relatively small contributor to revenues, given how much deployment growth on the Megapack hardware side is occurring.
+-----
+
+Total context windows: 6

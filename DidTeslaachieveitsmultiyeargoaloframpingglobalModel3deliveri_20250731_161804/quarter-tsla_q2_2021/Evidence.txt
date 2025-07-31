@@ -1,0 +1,31 @@
+[TSLA_Q2_2021] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #18]  Tesla achieved record production, **deliveries** and surpassed $1 billion in non-GAAP net income for the first time.
+2. [Sentence #21]  So ****Model** 3** became the best-selling mid-sized premier sedan in the world.
+3. [Sentence #24]  It’s been exceeded by the Tesla ****Model** 3**, and this is only three-and-a half years into production and with just two factories.
+4. [Sentence #25]  For ****Model** 3** to be out selling its combustion engine competitors, I think, this is quite remarkable.
+5. [Sentence #26]  In the past couple of quarters, we delivered roughly $0.25 million **Model** 3s, so -- which translates in an annualized rate of $0.5 million per year.
+6. [Sentence #75]  And at this time, we will continue to ramp production of **Model** Y in three months in Shanghai.
+7. [Sentence #88]  Second, as Elon mentioned, although we began the production process for the **Model** S during the quarter, we had not yet begun customer **deliveries**.
+8. [Sentence #344]  Let’s go to the next question from institutional investors which is, you have suggested that between a 5x to 10x improvement is achievable in automotive production versus the first ****Model** 3** line on a first-principles physics analysis.
+9. [Sentence #482]  On the SG&A side, the business is pivoting very quickly to be **global** and **China** is **ramping** quite quickly.
+10. [Sentence #501]  ****Model** 3** and **Model** Y were steps of improvement in that.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #24]  (Similarity: 0.968) It’s been exceeded by the Tesla ****Model** 3**, and this is only three-and-a half years into production and with just two factories.
+2. [Sentence #21]  (Similarity: 0.834) So ****Model** 3** became the best-selling mid-sized premier sedan in the world.
+3. [Sentence #25]  (Similarity: 0.833) For ****Model** 3** to be out selling its combustion engine competitors, I think, this is quite remarkable.
+4. [Sentence #26]  (Similarity: 0.808) In the past couple of quarters, we delivered roughly $0.25 million **Model** 3s, so -- which translates in an annualized rate of $0.5 million per year.
+5. [Sentence #482]  (Similarity: 0.751) On the SG&A side, the business is pivoting very quickly to be **global** and **China** is **ramping** quite quickly.
+6. [Sentence #501]  (Similarity: 0.749) ****Model** 3** and **Model** Y were steps of improvement in that.
+7. [Sentence #344]  (Similarity: 0.717) Let’s go to the next question from institutional investors which is, you have suggested that between a 5x to 10x improvement is achievable in automotive production versus the first ****Model** 3** line on a first-principles physics analysis.
+8. [Sentence #75]  (Similarity: 0.665) And at this time, we will continue to ramp production of **Model** Y in three months in Shanghai.
+9. [Sentence #88]  (Similarity: 0.609) Second, as Elon mentioned, although we began the production process for the **Model** S during the quarter, we had not yet begun customer **deliveries**.
+10. [Sentence #18]  (Similarity: 0.607) Tesla achieved record production, **deliveries** and surpassed $1 billion in non-GAAP net income for the first time.
+
+Total similarity-top evidence sentences: 10
+
+-----

@@ -1,0 +1,25 @@
+[TSLA_Q3_2021] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #15]  The increase in production rate has primarily been driven by further **ramping** of the **Model** Y at our Shanghai factory.
+2. [Sentence #16]  Additionally, we have made great progress, increasing production volumes of **Model** S, and have recently started to ramp and **deliveries** of **Model** X.
+3. [Sentence #20]  This has enabled us to supply more vehicles to the ****North** **America**** market and to introduce **Model** Y to **Europe**.
+4. [Sentence #70]  While there is still more runway to grow these existing products, we are focused on **Model** Y expansion in Austin and Berlin, **ramping** S&X further in Fremont to restore to past levels, while also growing 3 and Y production in Fremont and Shanghai.
+5. [Sentence #86]  As we've mentioned before, we've seen record growth of both ****Model** 3** and **Model** Y segments, where ****Model** 3** is currently the bestselling luxury sedan worldwide.
+6. [Sentence #92]  The next question, a question from retail shareholder is, what is Tesla 's **goal** for vehicle production capacity for the four current factories, Fremont, Shanghai, Austin and Berlin by 2024?
+7. [Sentence #157]  And so, we saw an uptick primarily in **Europe** and ****North** **America**** and service wait times over the course of the summer.
+
+Total transcript-order evidence sentences: 7
+
+--- Evidence by Similarity ---
+1. [Sentence #20]  (Similarity: 1.272) This has enabled us to supply more vehicles to the ****North** **America**** market and to introduce **Model** Y to **Europe**.
+2. [Sentence #157]  (Similarity: 0.896) And so, we saw an uptick primarily in **Europe** and ****North** **America**** and service wait times over the course of the summer.
+3. [Sentence #86]  (Similarity: 0.816) As we've mentioned before, we've seen record growth of both ****Model** 3** and **Model** Y segments, where ****Model** 3** is currently the bestselling luxury sedan worldwide.
+4. [Sentence #15]  (Similarity: 0.759) The increase in production rate has primarily been driven by further **ramping** of the **Model** Y at our Shanghai factory.
+5. [Sentence #92]  (Similarity: 0.722) The next question, a question from retail shareholder is, what is Tesla 's **goal** for vehicle production capacity for the four current factories, Fremont, Shanghai, Austin and Berlin by 2024?
+6. [Sentence #16]  (Similarity: 0.711) Additionally, we have made great progress, increasing production volumes of **Model** S, and have recently started to ramp and **deliveries** of **Model** X.
+7. [Sentence #70]  (Similarity: 0.696) While there is still more runway to grow these existing products, we are focused on **Model** Y expansion in Austin and Berlin, **ramping** S&X further in Fremont to restore to past levels, while also growing 3 and Y production in Fremont and Shanghai.
+
+Total similarity-top evidence sentences: 7
+
+-----

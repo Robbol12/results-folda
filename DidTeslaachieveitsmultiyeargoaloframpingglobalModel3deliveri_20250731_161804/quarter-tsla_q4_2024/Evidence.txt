@@ -1,0 +1,19 @@
+[TSLA_Q4_2024] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #13]  So, congratulations to the Tesla team on excellent work, achieving record production and **deliveries**.
+2. [Sentence #155]  And when we look back on 2025 and the launch of unsupervised full self-driving, true real-world AI that actually works, I think we may regard it as the biggest year in Tesla history, maybe even bigger than Atlas car, or the **Model** S or the ****Model** 3** or **Model** Y.
+3. [Sentence #172]  While we saw volume growth in almost all regions that we operate in, we hit a new record for **deliveries** in the Greater **China** market.
+4. [Sentence #426]  But I'm very confident we'll have released unsupervised full self-driving, fully autonomous Teslas in Austin and several other cities in **America** by the end of this year, as probably everywhere in **America** next year, at everywhere in ****North** **America****, at least.
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #426]  (Similarity: 0.936) But I'm very confident we'll have released unsupervised full self-driving, fully autonomous Teslas in Austin and several other cities in **America** by the end of this year, as probably everywhere in **America** next year, at everywhere in ****North** **America****, at least.
+2. [Sentence #155]  (Similarity: 0.835) And when we look back on 2025 and the launch of unsupervised full self-driving, true real-world AI that actually works, I think we may regard it as the biggest year in Tesla history, maybe even bigger than Atlas car, or the **Model** S or the ****Model** 3** or **Model** Y.
+3. [Sentence #13]  (Similarity: 0.651) So, congratulations to the Tesla team on excellent work, achieving record production and **deliveries**.
+4. [Sentence #172]  (Similarity: 0.638) While we saw volume growth in almost all regions that we operate in, we hit a new record for **deliveries** in the Greater **China** market.
+
+Total similarity-top evidence sentences: 4
+
+-----

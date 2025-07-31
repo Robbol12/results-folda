@@ -1,0 +1,35 @@
+[TSLA_Q4_2019] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #23]  For the Shanghai factory I'd like to say congratulations again to the team in Shanghai on launching ****Model** 3** last quarter and achieving the first **deliveries** earlier this year.
+2. [Sentence #65]  This year for the Shanghai built ****Model** 3**, we expect to achieve run rate production and delivery rates.
+3. [Sentence #74]  Additionally, we are in the process of **ramping** two major products ****Model** 3** in Shanghai and **Model** Y in Fremont, which I expect will temporarily weigh on our margins.
+4. [Sentence #87]  So it's a [real hard] [ph] to predict what that will be this year except that the demand is very strong and we are working also not just through Tesla [source] [ph], but also through new homebuilders and through just the roofing industry in general, whether is in ****North** **America**** on the order of 4 million new roofs per year.
+5. [Sentence #164]  And so if you add all of this up our internal estimates are a pretty significant reduction in the cost of ****Model** 3** in **China** relative to Fremont, but I think it's also important to keep in mind that the cost of the Standard Plus in that we're selling out of Shanghai is of lower than that of the similar car coming out of Fremont from price perspective.
+6. [Sentence #168]  And this created a lot of cost, because you got to ship those cars, so they got lot of finished goods, sitting on the order or waiting at the port or going through customs, tariffs, transport, it's -- and then the factory complexity in California is very high, because you've got different regulatory requirements in **China**, ****North** **America**** and **Europe**.
+7. [Sentence #169]  So we got three different types of cars that are being built, it's very complex and just having a factory in **China**, a factory in California, a factory -- ****North** **America**** factory in **Europe**.
+8. [Sentence #270]  So that's part of the reason why we have not for example really accelerated production of the Tesla Semi because it does use a lot of cells and unless we've got a lot of battery cells available then -- and say like accelerating production of the Tesla Semi would then necessarily mean making pure ****Model** 3** or **Model** Y cars.
+9. [Sentence #303]  Zachary Kirkhorn
+
+And so, ****Model** 3** is expanding as **Model** Y is expanding, may be ups and downs various factories as we get to the journey of having these products on the major continents.
+10. [Sentence #353]  So I mean, relative to the current ****Model** 3**, **China** **Model** 2 pricing is slightly lower.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #169]  (Similarity: 1.210) So we got three different types of cars that are being built, it's very complex and just having a factory in **China**, a factory in California, a factory -- ****North** **America**** factory in **Europe**.
+2. [Sentence #168]  (Similarity: 1.142) And this created a lot of cost, because you got to ship those cars, so they got lot of finished goods, sitting on the order or waiting at the port or going through customs, tariffs, transport, it's -- and then the factory complexity in California is very high, because you've got different regulatory requirements in **China**, ****North** **America**** and **Europe**.
+3. [Sentence #23]  (Similarity: 1.054) For the Shanghai factory I'd like to say congratulations again to the team in Shanghai on launching ****Model** 3** last quarter and achieving the first **deliveries** earlier this year.
+4. [Sentence #164]  (Similarity: 0.992) And so if you add all of this up our internal estimates are a pretty significant reduction in the cost of ****Model** 3** in **China** relative to Fremont, but I think it's also important to keep in mind that the cost of the Standard Plus in that we're selling out of Shanghai is of lower than that of the similar car coming out of Fremont from price perspective.
+5. [Sentence #74]  (Similarity: 0.977) Additionally, we are in the process of **ramping** two major products ****Model** 3** in Shanghai and **Model** Y in Fremont, which I expect will temporarily weigh on our margins.
+6. [Sentence #65]  (Similarity: 0.929) This year for the Shanghai built ****Model** 3**, we expect to achieve run rate production and delivery rates.
+7. [Sentence #353]  (Similarity: 0.907) So I mean, relative to the current ****Model** 3**, **China** **Model** 2 pricing is slightly lower.
+8. [Sentence #303]  (Similarity: 0.897) Zachary Kirkhorn
+
+And so, ****Model** 3** is expanding as **Model** Y is expanding, may be ups and downs various factories as we get to the journey of having these products on the major continents.
+9. [Sentence #270]  (Similarity: 0.897) So that's part of the reason why we have not for example really accelerated production of the Tesla Semi because it does use a lot of cells and unless we've got a lot of battery cells available then -- and say like accelerating production of the Tesla Semi would then necessarily mean making pure ****Model** 3** or **Model** Y cars.
+10. [Sentence #87]  (Similarity: 0.894) So it's a [real hard] [ph] to predict what that will be this year except that the demand is very strong and we are working also not just through Tesla [source] [ph], but also through new homebuilders and through just the roofing industry in general, whether is in ****North** **America**** on the order of 4 million new roofs per year.
+
+Total similarity-top evidence sentences: 10
+
+-----

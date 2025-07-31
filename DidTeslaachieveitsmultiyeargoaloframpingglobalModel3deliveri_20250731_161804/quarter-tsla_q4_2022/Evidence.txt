@@ -1,0 +1,23 @@
+[TSLA_Q4_2022] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #33]  And it's always been our **goal** at Tesla to make cars that are affordable to as many people as possible, so I'm glad that we're able to do so.
+2. [Sentence #36]  With respect to Autopilot, as of now, we deployed full-self driving beta for city streets to roughly 400,000 customers in ****North** **America****.
+3. [Sentence #50]  So, I would like to just make it clear that there is a path to a fully sustainable future for humanity, and our **goal** at Tesla is to accelerate progress on that path as much as humanly possible.
+4. [Sentence #73]  Third, our vehicle mix over the last year has moved more heavily towards **Model** Y, which carries a slight cost premium to ****Model** 3**.
+5. [Sentence #107]  So $3,700 per long-range ****Model** 3** and **Model** Y, it's $45 a kilowatt-hour for autos and energy products and how much does Tesla expect to earn in the coming year from these credits?
+6. [Sentence #409]  And so we would guess, there are probably some company out of **China** as the most likely to be second to Tesla.
+
+Total transcript-order evidence sentences: 6
+
+--- Evidence by Similarity ---
+1. [Sentence #107]  (Similarity: 0.836) So $3,700 per long-range ****Model** 3** and **Model** Y, it's $45 a kilowatt-hour for autos and energy products and how much does Tesla expect to earn in the coming year from these credits?
+2. [Sentence #36]  (Similarity: 0.809) With respect to Autopilot, as of now, we deployed full-self driving beta for city streets to roughly 400,000 customers in ****North** **America****.
+3. [Sentence #73]  (Similarity: 0.752) Third, our vehicle mix over the last year has moved more heavily towards **Model** Y, which carries a slight cost premium to ****Model** 3**.
+4. [Sentence #409]  (Similarity: 0.636) And so we would guess, there are probably some company out of **China** as the most likely to be second to Tesla.
+5. [Sentence #33]  (Similarity: 0.620) And it's always been our **goal** at Tesla to make cars that are affordable to as many people as possible, so I'm glad that we're able to do so.
+6. [Sentence #50]  (Similarity: 0.613) So, I would like to just make it clear that there is a path to a fully sustainable future for humanity, and our **goal** at Tesla is to accelerate progress on that path as much as humanly possible.
+
+Total similarity-top evidence sentences: 6
+
+-----

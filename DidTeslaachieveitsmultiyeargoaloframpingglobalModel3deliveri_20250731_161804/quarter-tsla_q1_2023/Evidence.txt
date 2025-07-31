@@ -1,0 +1,31 @@
+[TSLA_Q1_2023] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #13]  **Model** Y became the best-selling vehicle of any kind in **Europe** and the best-selling non-pickup vehicle in the United States.
+2. [Sentence #275]  We will have, by far, the most lithium refining capability and the most cathode refining capability in ****North** **America****, I think, probably more than everyone else combined by a lot.
+3. [Sentence #309]  So, there will be a like a ****Model** 3** or **Model** Y would be a robotaxi, a robotic taxi.
+4. [Sentence #454]  So as you may have seen, we opened our first V4 post in **Europe** and our Magic Dock post in ****North** **America**** in Q1.
+5. [Sentence #459]  So we're going to continue to take a similar approach as we do this in ****North** **America**** and **China** over the coming quarters.
+6. [Sentence #554]  So...
+
+Roshan Thomas
+
+For making improvements in ****North** **America**** & Berlin cost structures, we've increased -- this is Roshan by the way.
+
+Total transcript-order evidence sentences: 6
+
+--- Evidence by Similarity ---
+1. [Sentence #459]  (Similarity: 0.947) So we're going to continue to take a similar approach as we do this in ****North** **America**** and **China** over the coming quarters.
+2. [Sentence #275]  (Similarity: 0.831) We will have, by far, the most lithium refining capability and the most cathode refining capability in ****North** **America****, I think, probably more than everyone else combined by a lot.
+3. [Sentence #454]  (Similarity: 0.812) So as you may have seen, we opened our first V4 post in **Europe** and our Magic Dock post in ****North** **America**** in Q1.
+4. [Sentence #554]  (Similarity: 0.789) So...
+
+Roshan Thomas
+
+For making improvements in ****North** **America**** & Berlin cost structures, we've increased -- this is Roshan by the way.
+5. [Sentence #309]  (Similarity: 0.727) So, there will be a like a ****Model** 3** or **Model** Y would be a robotaxi, a robotic taxi.
+6. [Sentence #13]  (Similarity: 0.619) **Model** Y became the best-selling vehicle of any kind in **Europe** and the best-selling non-pickup vehicle in the United States.
+
+Total similarity-top evidence sentences: 6
+
+-----

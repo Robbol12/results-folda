@@ -1,0 +1,79 @@
+[Year Q3] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #63]  (TSLA_Q3_2020) We're continuing to expand Shanghai significantly, which is going incredibly well at Tesla **China** team.
+2. [Sentence #66]  (TSLA_Q3_2020) It's like I'm always amazed by how much progress the Tesla **China** team makes.
+3. [Sentence #122]  (TSLA_Q3_2020) As were previous investments in ****Model** 3** Shanghai and **Model** Y in Fremont, we're expecting these programs to have already fully paid for their respective investments by the end of this year.
+4. [Sentence #125]  (TSLA_Q3_2020) While we expect the return on our investments to remain very strong, keep in mind that with additional scope and location-specific costs, payback of these investments may be slightly longer than what we saw in ****Model** 3** in Shanghai and **Model** Y in Fremont.
+5. [Sentence #485]  (TSLA_Q3_2020) Zach, maybe you could give us a sense of where directionally **Model** Y and **China** ****Model** 3** gross margin was in the quarter relative to Fremont ****Model** 3**?
+6. [Sentence #496]  (TSLA_Q3_2020) But we've guided in the past that **Model** Y cost should be roughly equivalent to the ****Model** 3** built in Fremont costs.
+7. [Sentence #497]  (TSLA_Q3_2020) It's not quite there, and it's also a bit of a moving target as ****Model** 3** Fremont cost comes down, **Model** Y also has to come down with that.
+8. [Sentence #661]  (TSLA_Q3_2021) The increase in production rate has primarily been driven by further **ramping** of the **Model** Y at our Shanghai factory.
+9. [Sentence #662]  (TSLA_Q3_2021) Additionally, we have made great progress, increasing production volumes of **Model** S, and have recently started to ramp and **deliveries** of **Model** X.
+10. [Sentence #666]  (TSLA_Q3_2021) This has enabled us to supply more vehicles to the ****North** **America**** market and to introduce **Model** Y to **Europe**.
+11. [Sentence #716]  (TSLA_Q3_2021) While there is still more runway to grow these existing products, we are focused on **Model** Y expansion in Austin and Berlin, **ramping** S&X further in Fremont to restore to past levels, while also growing 3 and Y production in Fremont and Shanghai.
+12. [Sentence #732]  (TSLA_Q3_2021) As we've mentioned before, we've seen record growth of both ****Model** 3** and **Model** Y segments, where ****Model** 3** is currently the bestselling luxury sedan worldwide.
+13. [Sentence #738]  (TSLA_Q3_2021) The next question, a question from retail shareholder is, what is Tesla 's **goal** for vehicle production capacity for the four current factories, Fremont, Shanghai, Austin and Berlin by 2024?
+14. [Sentence #803]  (TSLA_Q3_2021) And so, we saw an uptick primarily in **Europe** and ****North** **America**** and service wait times over the course of the summer.
+15. [Sentence #1234]  (TSLA_Q3_2022) So, this quarter, we expect to go to a wide release of full self-driving Beta in ****North** **America****.
+16. [Sentence #1333]  (TSLA_Q3_2022) We -- to the best of our knowledge, we believe that Tesla will continue to grow **deliveries** and revenue production at a 50% or greater compound annual growth rate.
+17. [Sentence #1401]  (TSLA_Q3_2022) So, we expect to see significant -- we’re tentatively aiming for 50,000 units in 2024 for Tesla Semi in ****North** **America****.
+18. [Sentence #1402]  (TSLA_Q3_2022) And obviously, we’ll expand beyond ****North** **America****.
+19. [Sentence #1411]  (TSLA_Q3_2022) Our focus is now shifting from 100% ramp to cost and further expanding production capacity in ****North** **America****, as Elon also mentioned.
+20. [Sentence #1464]  (TSLA_Q3_2022) That’s exactly what [indiscernible] how we make two cars for the amount of effort that currently takes us to make one ****Model** 3**.
+21. [Sentence #1794]  (TSLA_Q3_2023) In conclusion, we continue to focus on **ramping** production while maintaining positive cash flow and we continue to target -- expect to have around 1.8 million vehicle **deliveries**, as stated earlier this year.
+22. [Sentence #1877]  (TSLA_Q3_2023) Martin Viecha
+
+The next question is, when do you expect ****Model** 3** Highland to be available in the U.S.?
+23. [Sentence #1942]  (TSLA_Q3_2023) So, that’s why it’s currently just ****North** **America****.
+24. [Sentence #2253]  (TSLA_Q3_2024) Tesla, at the same time, has achieved record **deliveries**.
+25. [Sentence #2278]  (TSLA_Q3_2024) So, I think there's -- if we execute well, the 4680 -- we'll have the -- the Tesla internally produced cell will be the most cost competitive cell in ****North** **America****, a testament to the tremendous amount of hard work there done by the team.
+26. [Sentence #2308]  (TSLA_Q3_2024) A vast majority of humanity has no idea that Tesla could drive themselves so especially for something like a ****Model** 3** or **Model** Y, it looks like a normal car.
+27. [Sentence #2401]  (TSLA_Q3_2024) We released FSD for Cybertruck and other features like actually Smart Summon, like Elon talked about, in ****North** **America****, which contributed $326 million of revenues in the quarter.
+28. [Sentence #2403]  (TSLA_Q3_2024) To expand on this at an industry level, **China** continues to outperform U.S.
+
+and **Europe** by a factor of three.
+29. [Sentence #2466]  (TSLA_Q3_2024) When can we expect Tesla to give us the $25,000 non-robotaxi regular car **model**?
+30. [Sentence #2525]  (TSLA_Q3_2024) And in ****North** **America****, we significantly expanded the size of each location and have doubled the size last year compared to this year.
+
+Total transcript-order evidence sentences: 30
+
+--- Evidence by Similarity ---
+1. [Sentence #666]  (TSLA_Q3_2021) (Similarity: 1.272) This has enabled us to supply more vehicles to the ****North** **America**** market and to introduce **Model** Y to **Europe**.
+2. [Sentence #1401]  (TSLA_Q3_2022) (Similarity: 1.028) So, we expect to see significant -- we’re tentatively aiming for 50,000 units in 2024 for Tesla Semi in ****North** **America****.
+3. [Sentence #2278]  (TSLA_Q3_2024) (Similarity: 0.989) So, I think there's -- if we execute well, the 4680 -- we'll have the -- the Tesla internally produced cell will be the most cost competitive cell in ****North** **America****, a testament to the tremendous amount of hard work there done by the team.
+4. [Sentence #1411]  (TSLA_Q3_2022) (Similarity: 0.953) Our focus is now shifting from 100% ramp to cost and further expanding production capacity in ****North** **America****, as Elon also mentioned.
+5. [Sentence #803]  (TSLA_Q3_2021) (Similarity: 0.896) And so, we saw an uptick primarily in **Europe** and ****North** **America**** and service wait times over the course of the summer.
+6. [Sentence #1464]  (TSLA_Q3_2022) (Similarity: 0.859) That’s exactly what [indiscernible] how we make two cars for the amount of effort that currently takes us to make one ****Model** 3**.
+7. [Sentence #2308]  (TSLA_Q3_2024) (Similarity: 0.854) A vast majority of humanity has no idea that Tesla could drive themselves so especially for something like a ****Model** 3** or **Model** Y, it looks like a normal car.
+8. [Sentence #732]  (TSLA_Q3_2021) (Similarity: 0.816) As we've mentioned before, we've seen record growth of both ****Model** 3** and **Model** Y segments, where ****Model** 3** is currently the bestselling luxury sedan worldwide.
+9. [Sentence #1402]  (TSLA_Q3_2022) (Similarity: 0.815) And obviously, we’ll expand beyond ****North** **America****.
+10. [Sentence #1234]  (TSLA_Q3_2022) (Similarity: 0.813) So, this quarter, we expect to go to a wide release of full self-driving Beta in ****North** **America****.
+11. [Sentence #125]  (TSLA_Q3_2020) (Similarity: 0.785) While we expect the return on our investments to remain very strong, keep in mind that with additional scope and location-specific costs, payback of these investments may be slightly longer than what we saw in ****Model** 3** in Shanghai and **Model** Y in Fremont.
+12. [Sentence #1877]  (TSLA_Q3_2023) (Similarity: 0.775) Martin Viecha
+
+The next question is, when do you expect ****Model** 3** Highland to be available in the U.S.?
+13. [Sentence #2525]  (TSLA_Q3_2024) (Similarity: 0.769) And in ****North** **America****, we significantly expanded the size of each location and have doubled the size last year compared to this year.
+14. [Sentence #661]  (TSLA_Q3_2021) (Similarity: 0.759) The increase in production rate has primarily been driven by further **ramping** of the **Model** Y at our Shanghai factory.
+15. [Sentence #485]  (TSLA_Q3_2020) (Similarity: 0.756) Zach, maybe you could give us a sense of where directionally **Model** Y and **China** ****Model** 3** gross margin was in the quarter relative to Fremont ****Model** 3**?
+16. [Sentence #122]  (TSLA_Q3_2020) (Similarity: 0.733) As were previous investments in ****Model** 3** Shanghai and **Model** Y in Fremont, we're expecting these programs to have already fully paid for their respective investments by the end of this year.
+17. [Sentence #2403]  (TSLA_Q3_2024) (Similarity: 0.729) To expand on this at an industry level, **China** continues to outperform U.S.
+
+and **Europe** by a factor of three.
+18. [Sentence #738]  (TSLA_Q3_2021) (Similarity: 0.722) The next question, a question from retail shareholder is, what is Tesla 's **goal** for vehicle production capacity for the four current factories, Fremont, Shanghai, Austin and Berlin by 2024?
+19. [Sentence #496]  (TSLA_Q3_2020) (Similarity: 0.711) But we've guided in the past that **Model** Y cost should be roughly equivalent to the ****Model** 3** built in Fremont costs.
+20. [Sentence #662]  (TSLA_Q3_2021) (Similarity: 0.711) Additionally, we have made great progress, increasing production volumes of **Model** S, and have recently started to ramp and **deliveries** of **Model** X.
+21. [Sentence #2253]  (TSLA_Q3_2024) (Similarity: 0.703) Tesla, at the same time, has achieved record **deliveries**.
+22. [Sentence #2401]  (TSLA_Q3_2024) (Similarity: 0.703) We released FSD for Cybertruck and other features like actually Smart Summon, like Elon talked about, in ****North** **America****, which contributed $326 million of revenues in the quarter.
+23. [Sentence #716]  (TSLA_Q3_2021) (Similarity: 0.696) While there is still more runway to grow these existing products, we are focused on **Model** Y expansion in Austin and Berlin, **ramping** S&X further in Fremont to restore to past levels, while also growing 3 and Y production in Fremont and Shanghai.
+24. [Sentence #1794]  (TSLA_Q3_2023) (Similarity: 0.691) In conclusion, we continue to focus on **ramping** production while maintaining positive cash flow and we continue to target -- expect to have around 1.8 million vehicle **deliveries**, as stated earlier this year.
+25. [Sentence #1942]  (TSLA_Q3_2023) (Similarity: 0.676) So, that’s why it’s currently just ****North** **America****.
+26. [Sentence #66]  (TSLA_Q3_2020) (Similarity: 0.672) It's like I'm always amazed by how much progress the Tesla **China** team makes.
+27. [Sentence #1333]  (TSLA_Q3_2022) (Similarity: 0.671) We -- to the best of our knowledge, we believe that Tesla will continue to grow **deliveries** and revenue production at a 50% or greater compound annual growth rate.
+28. [Sentence #63]  (TSLA_Q3_2020) (Similarity: 0.656) We're continuing to expand Shanghai significantly, which is going incredibly well at Tesla **China** team.
+29. [Sentence #2466]  (TSLA_Q3_2024) (Similarity: 0.652) When can we expect Tesla to give us the $25,000 non-robotaxi regular car **model**?
+30. [Sentence #497]  (TSLA_Q3_2020) (Similarity: 0.644) It's not quite there, and it's also a bit of a moving target as ****Model** 3** Fremont cost comes down, **Model** Y also has to come down with that.
+
+Total similarity-top evidence sentences: 30
+
+-----

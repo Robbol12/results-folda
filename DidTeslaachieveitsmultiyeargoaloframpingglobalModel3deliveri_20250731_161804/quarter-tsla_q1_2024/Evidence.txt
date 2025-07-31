@@ -1,0 +1,29 @@
+[TSLA_Q1_2024] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #12]  So to recap, in Q1 we navigated several unforeseen challenges as well as the ramp of the updated ****Model** 3** in Fremont.
+2. [Sentence #26]  It's profound and the rate of improvement is rapid so – and we've now turned that on for all cars with the cameras and inference computer and everything from Hardware 3 on in ****North** **America****.
+3. [Sentence #57]  Additionally, while we did experience higher cost due to the ramp of ****Model** 3** in Fremont and disruptions in Berlin, these costs were largely offset by cost reduction initiatives.
+4. [Sentence #58]  In fact, if we exclude Cybertruck and Fremont ****Model** 3** ramp costs, the revenue from Autopark, auto margins improved slightly.
+5. [Sentence #64]  On the demand front, we've undertaken a variety of initiatives, including lowering the price of both the purchase and subscription options for FSD launching extremely attractive leasing specials for the ****Model** 3** in the U.S. for $299 a month and offering attractive financing options in certain markets.
+6. [Sentence #248]  And how should we think about them in the context of like the ****Model** 3** Highland update, what will these models be like relative to that?
+7. [Sentence #442]  And in fact, like I said in my opening remarks also, like the revised – the updated ****Model** 3** is a fantastic car.
+8. [Sentence #485]  We had Red Sea attacks, we are **ramping** ****Model** 3**, we’re **ramping** Cybertruck.
+9. [Sentence #497]  And if you’ve got the excess demand for ****Model** 3** and **Model** Y in one market, but you don’t have it there.
+
+Total transcript-order evidence sentences: 9
+
+--- Evidence by Similarity ---
+1. [Sentence #57]  (Similarity: 0.869) Additionally, while we did experience higher cost due to the ramp of ****Model** 3** in Fremont and disruptions in Berlin, these costs were largely offset by cost reduction initiatives.
+2. [Sentence #26]  (Similarity: 0.807) It's profound and the rate of improvement is rapid so – and we've now turned that on for all cars with the cameras and inference computer and everything from Hardware 3 on in ****North** **America****.
+3. [Sentence #442]  (Similarity: 0.760) And in fact, like I said in my opening remarks also, like the revised – the updated ****Model** 3** is a fantastic car.
+4. [Sentence #485]  (Similarity: 0.734) We had Red Sea attacks, we are **ramping** ****Model** 3**, we’re **ramping** Cybertruck.
+5. [Sentence #497]  (Similarity: 0.732) And if you’ve got the excess demand for ****Model** 3** and **Model** Y in one market, but you don’t have it there.
+6. [Sentence #12]  (Similarity: 0.702) So to recap, in Q1 we navigated several unforeseen challenges as well as the ramp of the updated ****Model** 3** in Fremont.
+7. [Sentence #248]  (Similarity: 0.682) And how should we think about them in the context of like the ****Model** 3** Highland update, what will these models be like relative to that?
+8. [Sentence #58]  (Similarity: 0.655) In fact, if we exclude Cybertruck and Fremont ****Model** 3** ramp costs, the revenue from Autopark, auto margins improved slightly.
+9. [Sentence #64]  (Similarity: 0.613) On the demand front, we've undertaken a variety of initiatives, including lowering the price of both the purchase and subscription options for FSD launching extremely attractive leasing specials for the ****Model** 3** in the U.S. for $299 a month and offering attractive financing options in certain markets.
+
+Total similarity-top evidence sentences: 9
+
+-----

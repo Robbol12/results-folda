@@ -1,0 +1,23 @@
+[TSLA_Q3_2023] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #36]  In conclusion, we continue to focus on **ramping** production while maintaining positive cash flow and we continue to target -- expect to have around 1.8 million vehicle **deliveries**, as stated earlier this year.
+2. [Sentence #119]  Martin Viecha
+
+The next question is, when do you expect ****Model** 3** Highland to be available in the U.S.?
+3. [Sentence #122]  Current sell side consensus assumes that Tesla will deliver 2.3 million vehicles in 2024, representing 28% growth versus 2023 guidance.
+4. [Sentence #184]  So, that’s why it’s currently just ****North** **America****.
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #119]  (Similarity: 0.775) Martin Viecha
+
+The next question is, when do you expect ****Model** 3** Highland to be available in the U.S.?
+2. [Sentence #36]  (Similarity: 0.691) In conclusion, we continue to focus on **ramping** production while maintaining positive cash flow and we continue to target -- expect to have around 1.8 million vehicle **deliveries**, as stated earlier this year.
+3. [Sentence #184]  (Similarity: 0.676) So, that’s why it’s currently just ****North** **America****.
+4. [Sentence #122]  (Similarity: 0.644) Current sell side consensus assumes that Tesla will deliver 2.3 million vehicles in 2024, representing 28% growth versus 2023 guidance.
+
+Total similarity-top evidence sentences: 4
+
+-----

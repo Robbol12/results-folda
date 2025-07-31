@@ -1,0 +1,31 @@
+[TSLA_Q2_2024] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #49]  So we are **ramping** up production in our U.S. factory as well as building the Megapack factory in **China** that should roughly double our output, maybe more than double -- maybe triple potentially.
+2. [Sentence #73]  We pride ourselves to be the company with the most American-made cars and are continuing our journey to further localize our supply chain, not just in the U.S., but in **Europe** and **China** as well for the respective factories.
+3. [Sentence #77]  Since the revision of FSD pricing in ****North** **America****, we've seen production rates increase meaningfully and expect this to be a driver of vehicle sales as the feature set improves further.
+4. [Sentence #80]  Additionally, as we get into the second half of the year, it is important to note that we are still **ramping** Cybertruck and ****Model** 3** and are also getting impacted by varying amounts of tariffs on both raw materials and finished goods.
+5. [Sentence #147]  Just to give you a fact, in U.S. alone in Q2, over two-thirds of our sales were to -- **deliveries** were to people who had never owned a Tesla before and which is encouraging.
+6. [Sentence #307]  I think I covered some part of it in my opening remarks, but just to give you a little bit more, just on the tariff side, the European authorities did sample certain other OEMs in the first round to establish the tariffs for cars being imported from **China** into **Europe**.
+7. [Sentence #311]  As a result, we were adjusting our import strategy out of **China** into **Europe**.
+8. [Sentence #313]  We're still importing **Model** 3s into **Europe**, out of Shanghai.
+9. [Sentence #342]  I should also say that the self-driving capabilities of this are deployed outside of ****North** **America**** are far behind that in, in ****North** **America****.
+10. [Sentence #343]  So with the -- with Version 12.5, and maybe a 12.6, but pretty soon we will ask for regular regulatory approval of the Tesla supervised FSD in **Europe**, **China**, and other countries.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #313]  (Similarity: 1.038) We're still importing **Model** 3s into **Europe**, out of Shanghai.
+2. [Sentence #80]  (Similarity: 0.947) Additionally, as we get into the second half of the year, it is important to note that we are still **ramping** Cybertruck and ****Model** 3** and are also getting impacted by varying amounts of tariffs on both raw materials and finished goods.
+3. [Sentence #342]  (Similarity: 0.878) I should also say that the self-driving capabilities of this are deployed outside of ****North** **America**** are far behind that in, in ****North** **America****.
+4. [Sentence #77]  (Similarity: 0.821) Since the revision of FSD pricing in ****North** **America****, we've seen production rates increase meaningfully and expect this to be a driver of vehicle sales as the feature set improves further.
+5. [Sentence #49]  (Similarity: 0.756) So we are **ramping** up production in our U.S. factory as well as building the Megapack factory in **China** that should roughly double our output, maybe more than double -- maybe triple potentially.
+6. [Sentence #343]  (Similarity: 0.731) So with the -- with Version 12.5, and maybe a 12.6, but pretty soon we will ask for regular regulatory approval of the Tesla supervised FSD in **Europe**, **China**, and other countries.
+7. [Sentence #147]  (Similarity: 0.671) Just to give you a fact, in U.S. alone in Q2, over two-thirds of our sales were to -- **deliveries** were to people who had never owned a Tesla before and which is encouraging.
+8. [Sentence #73]  (Similarity: 0.670) We pride ourselves to be the company with the most American-made cars and are continuing our journey to further localize our supply chain, not just in the U.S., but in **Europe** and **China** as well for the respective factories.
+9. [Sentence #311]  (Similarity: 0.657) As a result, we were adjusting our import strategy out of **China** into **Europe**.
+10. [Sentence #307]  (Similarity: 0.648) I think I covered some part of it in my opening remarks, but just to give you a little bit more, just on the tariff side, the European authorities did sample certain other OEMs in the first round to establish the tariffs for cars being imported from **China** into **Europe**.
+
+Total similarity-top evidence sentences: 10
+
+-----

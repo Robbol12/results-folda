@@ -1,0 +1,31 @@
+[TSLA_Q4_2023] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #18]  In fact, it's the highest output of automotive plants in ****North** **America****.
+2. [Sentence #19]  And people are often surprised that the highest output factory, car factory in ****North** **America**** is in the San Francisco Bay area.
+3. [Sentence #44]  That's over 400,000 vehicles in ****North** **America****.
+4. [Sentence #51]  So, the new ****Model** 3** is now available globally.
+5. [Sentence #52]  So we did an updated ****Model** 3**.
+6. [Sentence #65]  Probably the factory we'll build in Mexico will be second, and then we'll be looking to identify a third location, perhaps by the end of this year or early next outside of ****North** **America****.
+7. [Sentence #209]  The first one began with the **global** expansion of ****Model** 3** and Y, and we believe the next one will be initiated with the next generation platform.
+8. [Sentence #219]  It's important to emphasize that I mean, ****Model** 3** production was three years of hell, I've said it before, some of the really worst years of my life, frankly.
+9. [Sentence #293]  As long as the price is affordable, I mean, I see us ultimately delivering on the order of 0.25 million, something like 0.25 million Cybertrucks a year in ****North** **America****, maybe more.
+10. [Sentence #446]  And can you envision a scenario where Tesla could partner with a Chinese OEM to help accelerate sustainable transport in markets like **Europe** and the United States?
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #209]  (Similarity: 0.993) The first one began with the **global** expansion of ****Model** 3** and Y, and we believe the next one will be initiated with the next generation platform.
+2. [Sentence #65]  (Similarity: 0.889) Probably the factory we'll build in Mexico will be second, and then we'll be looking to identify a third location, perhaps by the end of this year or early next outside of ****North** **America****.
+3. [Sentence #51]  (Similarity: 0.871) So, the new ****Model** 3** is now available globally.
+4. [Sentence #18]  (Similarity: 0.838) In fact, it's the highest output of automotive plants in ****North** **America****.
+5. [Sentence #293]  (Similarity: 0.824) As long as the price is affordable, I mean, I see us ultimately delivering on the order of 0.25 million, something like 0.25 million Cybertrucks a year in ****North** **America****, maybe more.
+6. [Sentence #19]  (Similarity: 0.802) And people are often surprised that the highest output factory, car factory in ****North** **America**** is in the San Francisco Bay area.
+7. [Sentence #44]  (Similarity: 0.790) That's over 400,000 vehicles in ****North** **America****.
+8. [Sentence #52]  (Similarity: 0.737) So we did an updated ****Model** 3**.
+9. [Sentence #446]  (Similarity: 0.726) And can you envision a scenario where Tesla could partner with a Chinese OEM to help accelerate sustainable transport in markets like **Europe** and the United States?
+10. [Sentence #219]  (Similarity: 0.694) It's important to emphasize that I mean, ****Model** 3** production was three years of hell, I've said it before, some of the really worst years of my life, frankly.
+
+Total similarity-top evidence sentences: 10
+
+-----
