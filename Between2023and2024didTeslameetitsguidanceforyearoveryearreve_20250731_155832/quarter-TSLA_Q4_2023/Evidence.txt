@@ -1,0 +1,19 @@
+[TSLA_Q4_2023] Between 2023 and 2024, did Tesla meet its guidance for year-over-year revenue growth and operating leverage improvement?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #12]  So the Tesla team did an incredible job in 2023.
+2. [Sentence #38]  Tesla is currently between two major **growth** waves.
+3. [Sentence #100]  This business is poised to again surpass our auto business in terms of **growth** rate in 2024.
+4. [Sentence #445]  As the China market kind of gets saturated and there's a tremendous **growth** in the supply, how much success should Tesla investors allow for this competition to achieve in Western markets?
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #38]  (Similarity: 0.731) Tesla is currently between two major **growth** waves.
+2. [Sentence #12]  (Similarity: 0.649) So the Tesla team did an incredible job in 2023.
+3. [Sentence #445]  (Similarity: 0.617) As the China market kind of gets saturated and there's a tremendous **growth** in the supply, how much success should Tesla investors allow for this competition to achieve in Western markets?
+4. [Sentence #100]  (Similarity: 0.608) This business is poised to again surpass our auto business in terms of **growth** rate in 2024.
+
+Total similarity-top evidence sentences: 4
+
+-----

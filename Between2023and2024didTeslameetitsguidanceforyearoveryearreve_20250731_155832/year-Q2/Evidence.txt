@@ -1,0 +1,17 @@
+[Year Q2] Between 2023 and 2024, did Tesla meet its guidance for year-over-year revenue growth and operating leverage improvement?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #117]  (TSLA_Q2_2023) The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the **revenue** model?
+2. [Sentence #416]  (TSLA_Q2_2023) I think the Tesla fleet value increase at the point which we can upload full self-driving and is approved by regulators will be the single biggest step change in asset value maybe in history.
+3. [Sentence #977]  (TSLA_Q2_2024) It can be used by the fleet some of the time, and then Tesla would take -- would share on the **revenue** with the customer.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #117]  (TSLA_Q2_2023) (Similarity: 0.781) The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the **revenue** model?
+2. [Sentence #416]  (TSLA_Q2_2023) (Similarity: 0.640) I think the Tesla fleet value increase at the point which we can upload full self-driving and is approved by regulators will be the single biggest step change in asset value maybe in history.
+3. [Sentence #977]  (TSLA_Q2_2024) (Similarity: 0.627) It can be used by the fleet some of the time, and then Tesla would take -- would share on the **revenue** with the customer.
+
+Total similarity-top evidence sentences: 3
+
+-----

@@ -1,0 +1,23 @@
+[TSLA_Q4_2024] Between 2023 and 2024, did Tesla meet its guidance for year-over-year revenue growth and operating leverage improvement?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #154]  So, in conclusion, 2025 really is a pivotal year for Tesla.
+2. [Sentence #200]  For 2025, we expect **operating** expenses to increase to support our **growth** initiatives.
+3. [Sentence #208]  In conclusion, like Elon said, 2025 is going to be a pivotal year for Tesla.
+4. [Sentence #312]  So, at that point, when we're at scale, it will meaningfully contribute to Tesla's **revenue**.
+5. [Sentence #337]  And if so, what is the timeline and expected impact to Tesla's capex?
+6. [Sentence #401]  What are you pushing the Tesla executive team to do differently now to accelerate the innovation in order to realize the value you described for the company?
+
+Total transcript-order evidence sentences: 6
+
+--- Evidence by Similarity ---
+1. [Sentence #200]  (Similarity: 0.772) For 2025, we expect **operating** expenses to increase to support our **growth** initiatives.
+2. [Sentence #312]  (Similarity: 0.739) So, at that point, when we're at scale, it will meaningfully contribute to Tesla's **revenue**.
+3. [Sentence #154]  (Similarity: 0.653) So, in conclusion, 2025 really is a pivotal year for Tesla.
+4. [Sentence #208]  (Similarity: 0.649) In conclusion, like Elon said, 2025 is going to be a pivotal year for Tesla.
+5. [Sentence #337]  (Similarity: 0.623) And if so, what is the timeline and expected impact to Tesla's capex?
+6. [Sentence #401]  (Similarity: 0.608) What are you pushing the Tesla executive team to do differently now to accelerate the innovation in order to realize the value you described for the company?
+
+Total similarity-top evidence sentences: 6
+
+-----

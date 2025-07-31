@@ -1,0 +1,17 @@
+[TSLA_Q1_2024] Between 2023 and 2024, did Tesla meet its guidance for year-over-year revenue growth and operating leverage improvement?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #49]  We continue to make the necessary investments that will drive **growth** and profits for Tesla in the future, and I wanted to thank the Tesla team for incredible execution during this period and look forward to everything that we have planned ahead.
+2. [Sentence #135]  And something I should clarify is that Tesla will be **operating** the fleet.
+3. [Sentence #415]  Previously, the company had said that the price reductions were driving incremental demand with how affordable the cars have become, especially for vehicles that have access to IRA credits and some of the leasing offers that Tesla has in place.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #49]  (Similarity: 0.772) We continue to make the necessary investments that will drive **growth** and profits for Tesla in the future, and I wanted to thank the Tesla team for incredible execution during this period and look forward to everything that we have planned ahead.
+2. [Sentence #135]  (Similarity: 0.733) And something I should clarify is that Tesla will be **operating** the fleet.
+3. [Sentence #415]  (Similarity: 0.602) Previously, the company had said that the price reductions were driving incremental demand with how affordable the cars have become, especially for vehicles that have access to IRA credits and some of the leasing offers that Tesla has in place.
+
+Total similarity-top evidence sentences: 3
+
+-----

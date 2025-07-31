@@ -1,0 +1,53 @@
+[Multi-Year Analysis] Between 2023 and 2024, did Tesla meet its guidance for year-over-year revenue growth and operating leverage improvement?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #12]  (TSLA_Q4_2023) So the Tesla team did an incredible job in 2023.
+2. [Sentence #12]  (TSLA_Q3_2023) And I mean success in this regard in the long-term I think has the potential to make Tesla the most valuable company in the world by far.
+3. [Sentence #38]  (TSLA_Q4_2023) Tesla is currently between two major **growth** waves.
+4. [Sentence #49]  (TSLA_Q1_2024) We continue to make the necessary investments that will drive **growth** and profits for Tesla in the future, and I wanted to thank the Tesla team for incredible execution during this period and look forward to everything that we have planned ahead.
+5. [Sentence #91]  (TSLA_Q1_2023) And when will you provide more formal **guidance** on Megapack and overall Tesla Energy?
+6. [Sentence #100]  (TSLA_Q4_2023) This business is poised to again surpass our auto business in terms of **growth** rate in 2024.
+7. [Sentence #117]  (TSLA_Q2_2023) The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the **revenue** model?
+8. [Sentence #122]  (TSLA_Q3_2023) Current sell side consensus assumes that Tesla will deliver 2.3 million vehicles in 2024, representing 28% **growth** versus 2023 **guidance**.
+9. [Sentence #124]  (TSLA_Q3_2023) And when does Tesla expect to return to its 50% long-term CAGR?
+10. [Sentence #135]  (TSLA_Q1_2024) And something I should clarify is that Tesla will be **operating** the fleet.
+11. [Sentence #150]  (TSLA_Q3_2024) I want to thank the Tesla team once again for strong execution in a tough **operating** environment, and we're looking forward to building an incredibly exciting future.
+12. [Sentence #154]  (TSLA_Q4_2024) So, in conclusion, 2025 really is a pivotal year for Tesla.
+13. [Sentence #200]  (TSLA_Q4_2024) For 2025, we expect **operating** expenses to increase to support our **growth** initiatives.
+14. [Sentence #208]  (TSLA_Q4_2024) In conclusion, like Elon said, 2025 is going to be a pivotal year for Tesla.
+15. [Sentence #312]  (TSLA_Q4_2024) So, at that point, when we're at scale, it will meaningfully contribute to Tesla's **revenue**.
+16. [Sentence #337]  (TSLA_Q4_2024) And if so, what is the timeline and expected impact to Tesla's capex?
+17. [Sentence #401]  (TSLA_Q4_2024) What are you pushing the Tesla executive team to do differently now to accelerate the innovation in order to realize the value you described for the company?
+18. [Sentence #413]  (TSLA_Q2_2024) It can be used by the fleet some of the time, and then Tesla would take -- would share on the **revenue** with the customer.
+19. [Sentence #415]  (TSLA_Q1_2024) Previously, the company had said that the price reductions were driving incremental demand with how affordable the cars have become, especially for vehicles that have access to IRA credits and some of the leasing offers that Tesla has in place.
+20. [Sentence #416]  (TSLA_Q2_2023) I think the Tesla fleet value increase at the point which we can upload full self-driving and is approved by regulators will be the single biggest step change in asset value maybe in history.
+21. [Sentence #445]  (TSLA_Q4_2023) As the China market kind of gets saturated and there's a tremendous **growth** in the supply, how much success should Tesla investors allow for this competition to achieve in Western markets?
+
+Total transcript-order evidence sentences: 21
+
+--- Evidence by Similarity ---
+1. [Sentence #122]  (TSLA_Q3_2023) (Similarity: 0.969) Current sell side consensus assumes that Tesla will deliver 2.3 million vehicles in 2024, representing 28% **growth** versus 2023 **guidance**.
+2. [Sentence #117]  (TSLA_Q2_2023) (Similarity: 0.781) The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the **revenue** model?
+3. [Sentence #49]  (TSLA_Q1_2024) (Similarity: 0.772) We continue to make the necessary investments that will drive **growth** and profits for Tesla in the future, and I wanted to thank the Tesla team for incredible execution during this period and look forward to everything that we have planned ahead.
+4. [Sentence #200]  (TSLA_Q4_2024) (Similarity: 0.772) For 2025, we expect **operating** expenses to increase to support our **growth** initiatives.
+5. [Sentence #312]  (TSLA_Q4_2024) (Similarity: 0.739) So, at that point, when we're at scale, it will meaningfully contribute to Tesla's **revenue**.
+6. [Sentence #135]  (TSLA_Q1_2024) (Similarity: 0.733) And something I should clarify is that Tesla will be **operating** the fleet.
+7. [Sentence #38]  (TSLA_Q4_2023) (Similarity: 0.731) Tesla is currently between two major **growth** waves.
+8. [Sentence #91]  (TSLA_Q1_2023) (Similarity: 0.656) And when will you provide more formal **guidance** on Megapack and overall Tesla Energy?
+9. [Sentence #154]  (TSLA_Q4_2024) (Similarity: 0.653) So, in conclusion, 2025 really is a pivotal year for Tesla.
+10. [Sentence #124]  (TSLA_Q3_2023) (Similarity: 0.651) And when does Tesla expect to return to its 50% long-term CAGR?
+11. [Sentence #12]  (TSLA_Q4_2023) (Similarity: 0.649) So the Tesla team did an incredible job in 2023.
+12. [Sentence #150]  (TSLA_Q3_2024) (Similarity: 0.649) I want to thank the Tesla team once again for strong execution in a tough **operating** environment, and we're looking forward to building an incredibly exciting future.
+13. [Sentence #208]  (TSLA_Q4_2024) (Similarity: 0.649) In conclusion, like Elon said, 2025 is going to be a pivotal year for Tesla.
+14. [Sentence #416]  (TSLA_Q2_2023) (Similarity: 0.640) I think the Tesla fleet value increase at the point which we can upload full self-driving and is approved by regulators will be the single biggest step change in asset value maybe in history.
+15. [Sentence #413]  (TSLA_Q2_2024) (Similarity: 0.627) It can be used by the fleet some of the time, and then Tesla would take -- would share on the **revenue** with the customer.
+16. [Sentence #337]  (TSLA_Q4_2024) (Similarity: 0.623) And if so, what is the timeline and expected impact to Tesla's capex?
+17. [Sentence #445]  (TSLA_Q4_2023) (Similarity: 0.617) As the China market kind of gets saturated and there's a tremendous **growth** in the supply, how much success should Tesla investors allow for this competition to achieve in Western markets?
+18. [Sentence #100]  (TSLA_Q4_2023) (Similarity: 0.608) This business is poised to again surpass our auto business in terms of **growth** rate in 2024.
+19. [Sentence #401]  (TSLA_Q4_2024) (Similarity: 0.608) What are you pushing the Tesla executive team to do differently now to accelerate the innovation in order to realize the value you described for the company?
+20. [Sentence #12]  (TSLA_Q3_2023) (Similarity: 0.607) And I mean success in this regard in the long-term I think has the potential to make Tesla the most valuable company in the world by far.
+21. [Sentence #415]  (TSLA_Q1_2024) (Similarity: 0.602) Previously, the company had said that the price reductions were driving incremental demand with how affordable the cars have become, especially for vehicles that have access to IRA credits and some of the leasing offers that Tesla has in place.
+
+Total similarity-top evidence sentences: 21
+
+-----
