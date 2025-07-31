@@ -1,0 +1,29 @@
+[Year Q1] Did Tesla maintain positive free cash flow and GAAP profitability from 2023 through 2024, as it promised after its first full profitable year?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #64]  (TSLA_Q1_2023) As I've mentioned previously, this results in lower deliveries and production within a quarter due to a higher volume of cars in transit at the end of the quarter and has an associated impact on quarter-ending **free** **cash** flows.
+2. [Sentence #68]  (TSLA_Q1_2023) We are also making progress on storage **profitability**, generating our highest gross profit yet in the quarter.
+3. [Sentence #600]  (TSLA_Q1_2024) Despite these challenges, the Tesla team did a great job executing in a tough environment and energy storage deployments, the Megapack in particular, reached an all-time high in Q1, leading to record **profitability** for the energy business, and that looks likely to continue to increase in the quarters and years ahead.
+4. [Sentence #634]  (TSLA_Q1_2024) We continue to make the necessary investments that will drive growth and profits for Tesla in the future, and I wanted to thank the Tesla team for incredible execution during this period and look forward to everything that we have planned ahead.
+5. [Sentence #656]  (TSLA_Q1_2024) We had negative **free** **cash** **flow** of $2.5 billion in the first quarter.
+6. [Sentence #658]  (TSLA_Q1_2024) We expect the inventory build to reverse in the second quarter and **free** **cash** **flow** to return to **positive** again.
+7. [Sentence #911]  (TSLA_Q1_2024) If the company generates a lot of **positive** **cash** **flow**, we could obviously buy back shares.
+8. [Sentence #1002]  (TSLA_Q1_2024) And can the company meaningfully lower prices from here and also stay **free** **cash** **flow** **positive** on an annual basis with the current product set?
+9. [Sentence #1005]  (TSLA_Q1_2024) I think we can be **free** **cash** **flow** **positive** meaningfully.
+
+Total transcript-order evidence sentences: 9
+
+--- Evidence by Similarity ---
+1. [Sentence #1002]  (TSLA_Q1_2024) (Similarity: 1.021) And can the company meaningfully lower prices from here and also stay **free** **cash** **flow** **positive** on an annual basis with the current product set?
+2. [Sentence #658]  (TSLA_Q1_2024) (Similarity: 0.971) We expect the inventory build to reverse in the second quarter and **free** **cash** **flow** to return to **positive** again.
+3. [Sentence #1005]  (TSLA_Q1_2024) (Similarity: 0.931) I think we can be **free** **cash** **flow** **positive** meaningfully.
+4. [Sentence #656]  (TSLA_Q1_2024) (Similarity: 0.874) We had negative **free** **cash** **flow** of $2.5 billion in the first quarter.
+5. [Sentence #911]  (TSLA_Q1_2024) (Similarity: 0.822) If the company generates a lot of **positive** **cash** **flow**, we could obviously buy back shares.
+6. [Sentence #600]  (TSLA_Q1_2024) (Similarity: 0.699) Despite these challenges, the Tesla team did a great job executing in a tough environment and energy storage deployments, the Megapack in particular, reached an all-time high in Q1, leading to record **profitability** for the energy business, and that looks likely to continue to increase in the quarters and years ahead.
+7. [Sentence #64]  (TSLA_Q1_2023) (Similarity: 0.677) As I've mentioned previously, this results in lower deliveries and production within a quarter due to a higher volume of cars in transit at the end of the quarter and has an associated impact on quarter-ending **free** **cash** flows.
+8. [Sentence #68]  (TSLA_Q1_2023) (Similarity: 0.624) We are also making progress on storage **profitability**, generating our highest gross profit yet in the quarter.
+9. [Sentence #634]  (TSLA_Q1_2024) (Similarity: 0.611) We continue to make the necessary investments that will drive growth and profits for Tesla in the future, and I wanted to thank the Tesla team for incredible execution during this period and look forward to everything that we have planned ahead.
+
+Total similarity-top evidence sentences: 9
+
+-----

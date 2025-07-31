@@ -1,0 +1,15 @@
+[TSLA_Q3_2024] Did Tesla maintain positive free cash flow and GAAP profitability from 2023 through 2024, as it promised after its first full profitable year?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #15]  So, it is notable that Tesla is profitable despite a very challenging automotive environment, and this quarter actually is a record Q3 for us.
+2. [Sentence #156]  Our Q3 results were **positive** and once again demonstrate the scale to which the business has evolved or with generation of record operating **cash** flows of $6.3 billion.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #156]  (Similarity: 0.753) Our Q3 results were **positive** and once again demonstrate the scale to which the business has evolved or with generation of record operating **cash** flows of $6.3 billion.
+2. [Sentence #15]  (Similarity: 0.630) So, it is notable that Tesla is profitable despite a very challenging automotive environment, and this quarter actually is a record Q3 for us.
+
+Total similarity-top evidence sentences: 2
+
+-----

@@ -1,0 +1,19 @@
+[TSLA_Q4_2023] Did Tesla maintain positive free cash flow and GAAP profitability from 2023 through 2024, as it promised after its first full profitable year?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #34]  **Free** **cash** **flow** remains strong at $4.4 billion in 2023, in spite of record spending on future projects.
+2. [Sentence #66]  In conclusion, we had a great year with record production, record deliveries, and a strong **free** **cash** **flow** in spite of a very high interest rate environment.
+3. [Sentence #80]  In terms of 2023 financials, we ended the year with over $96 billion of revenue and generated $4.4 billion of **free** **cash** **flow** to end the year with over $29 billion of **cash** and investments on hand.
+4. [Sentence #81]  Our 2023 **GAAP** net income was impacted by the recognition of one-time non-**cash** benefit of $5.9 billion from the release of valuation allowance on certain deferred tax assets.
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #34]  (Similarity: 0.960) **Free** **cash** **flow** remains strong at $4.4 billion in 2023, in spite of record spending on future projects.
+2. [Sentence #80]  (Similarity: 0.867) In terms of 2023 financials, we ended the year with over $96 billion of revenue and generated $4.4 billion of **free** **cash** **flow** to end the year with over $29 billion of **cash** and investments on hand.
+3. [Sentence #66]  (Similarity: 0.765) In conclusion, we had a great year with record production, record deliveries, and a strong **free** **cash** **flow** in spite of a very high interest rate environment.
+4. [Sentence #81]  (Similarity: 0.688) Our 2023 **GAAP** net income was impacted by the recognition of one-time non-**cash** benefit of $5.9 billion from the release of valuation allowance on certain deferred tax assets.
+
+Total similarity-top evidence sentences: 4
+
+-----

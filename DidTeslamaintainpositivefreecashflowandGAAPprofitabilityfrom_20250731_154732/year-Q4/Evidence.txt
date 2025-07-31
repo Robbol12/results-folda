@@ -1,0 +1,23 @@
+[Year Q4] Did Tesla maintain positive free cash flow and GAAP profitability from 2023 through 2024, as it promised after its first full profitable year?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #34]  (TSLA_Q4_2023) **Free** **cash** **flow** remains strong at $4.4 billion in 2023, in spite of record spending on future projects.
+2. [Sentence #66]  (TSLA_Q4_2023) In conclusion, we had a great year with record production, record deliveries, and a strong **free** **cash** **flow** in spite of a very high interest rate environment.
+3. [Sentence #80]  (TSLA_Q4_2023) In terms of 2023 financials, we ended the year with over $96 billion of revenue and generated $4.4 billion of **free** **cash** **flow** to end the year with over $29 billion of **cash** and investments on hand.
+4. [Sentence #81]  (TSLA_Q4_2023) Our 2023 **GAAP** net income was impacted by the recognition of one-time non-**cash** benefit of $5.9 billion from the release of valuation allowance on certain deferred tax assets.
+5. [Sentence #783]  (TSLA_Q4_2024) Therefore, while we manage them to be **positive** on a **GAAP** basis, we do not expect similar margins as the rest of the business.
+6. [Sentence #792]  (TSLA_Q4_2024) Our **free** **cash** **flow** for the quarter was $2 billion, and despite capex increase of over $2.4 billion in 2024, we were able to generate **free** **cash** **flow** of $3.6 billion for the year.
+
+Total transcript-order evidence sentences: 6
+
+--- Evidence by Similarity ---
+1. [Sentence #34]  (TSLA_Q4_2023) (Similarity: 0.960) **Free** **cash** **flow** remains strong at $4.4 billion in 2023, in spite of record spending on future projects.
+2. [Sentence #80]  (TSLA_Q4_2023) (Similarity: 0.867) In terms of 2023 financials, we ended the year with over $96 billion of revenue and generated $4.4 billion of **free** **cash** **flow** to end the year with over $29 billion of **cash** and investments on hand.
+3. [Sentence #792]  (TSLA_Q4_2024) (Similarity: 0.856) Our **free** **cash** **flow** for the quarter was $2 billion, and despite capex increase of over $2.4 billion in 2024, we were able to generate **free** **cash** **flow** of $3.6 billion for the year.
+4. [Sentence #66]  (TSLA_Q4_2023) (Similarity: 0.765) In conclusion, we had a great year with record production, record deliveries, and a strong **free** **cash** **flow** in spite of a very high interest rate environment.
+5. [Sentence #81]  (TSLA_Q4_2023) (Similarity: 0.688) Our 2023 **GAAP** net income was impacted by the recognition of one-time non-**cash** benefit of $5.9 billion from the release of valuation allowance on certain deferred tax assets.
+6. [Sentence #783]  (TSLA_Q4_2024) (Similarity: 0.631) Therefore, while we manage them to be **positive** on a **GAAP** basis, we do not expect similar margins as the rest of the business.
+
+Total similarity-top evidence sentences: 6
+
+-----

@@ -1,0 +1,31 @@
+[TSLA_Q3_2023] Did Tesla maintain positive free cash flow and GAAP profitability from 2023 through 2024, as it promised after its first full profitable year?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #12]  And I mean success in this regard in the long-term I think has the potential to make Tesla the most valuable company in the world by far.
+2. [Sentence #21]  I do want to emphasize that there will be enormous challenges in reaching volume production with the Cybertruck, and then in making a Cybertruck **cash** **flow** **positive**.
+3. [Sentence #23]  So, I just want to emphasize that while I think this is potentially our best product ever and I think it is our best product ever, it is going to be -- require immense work to reach volume production and be **cash** **flow** **positive** at a price that people can afford.
+4. [Sentence #28]  But it’s difficult to going from a prototype to volume production, it’s like 10,000% harder to get to volume production than to make a prototype in the first place, and then it is even harder than that to reach **positive** **cash** **flow**.
+5. [Sentence #31]  It’s a great product, but financially it will take, I don’t know, a year to 18 months before it is a significant **positive** **cash** **flow** contributor.
+6. [Sentence #36]  In conclusion, we continue to focus on ramping production while maintaining **positive** **cash** **flow** and we continue to target -- expect to have around 1.8 million vehicle deliveries, as stated earlier this year.
+7. [Sentence #44]  Vehicle deliveries in Q3 outpaced production, and we had yet another record quarter of **profitability** in our energy business.
+8. [Sentence #53]  However, our focus is to continue making investments through **positive** **cash** **flow** from operations.
+9. [Sentence #54]  This year itself, we have generated operating **cash** flows of approximately [$8.9 billion] (ph) and **free** **cash** flows of approximately $2.3 billion.
+10. [Sentence #124]  And when does Tesla expect to return to its 50% long-term CAGR?
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #53]  (Similarity: 0.865) However, our focus is to continue making investments through **positive** **cash** **flow** from operations.
+2. [Sentence #23]  (Similarity: 0.819) So, I just want to emphasize that while I think this is potentially our best product ever and I think it is our best product ever, it is going to be -- require immense work to reach volume production and be **cash** **flow** **positive** at a price that people can afford.
+3. [Sentence #31]  (Similarity: 0.764) It’s a great product, but financially it will take, I don’t know, a year to 18 months before it is a significant **positive** **cash** **flow** contributor.
+4. [Sentence #21]  (Similarity: 0.760) I do want to emphasize that there will be enormous challenges in reaching volume production with the Cybertruck, and then in making a Cybertruck **cash** **flow** **positive**.
+5. [Sentence #28]  (Similarity: 0.743) But it’s difficult to going from a prototype to volume production, it’s like 10,000% harder to get to volume production than to make a prototype in the first place, and then it is even harder than that to reach **positive** **cash** **flow**.
+6. [Sentence #36]  (Similarity: 0.732) In conclusion, we continue to focus on ramping production while maintaining **positive** **cash** **flow** and we continue to target -- expect to have around 1.8 million vehicle deliveries, as stated earlier this year.
+7. [Sentence #124]  (Similarity: 0.634) And when does Tesla expect to return to its 50% long-term CAGR?
+8. [Sentence #12]  (Similarity: 0.620) And I mean success in this regard in the long-term I think has the potential to make Tesla the most valuable company in the world by far.
+9. [Sentence #44]  (Similarity: 0.620) Vehicle deliveries in Q3 outpaced production, and we had yet another record quarter of **profitability** in our energy business.
+10. [Sentence #54]  (Similarity: 0.608) This year itself, we have generated operating **cash** flows of approximately [$8.9 billion] (ph) and **free** **cash** flows of approximately $2.3 billion.
+
+Total similarity-top evidence sentences: 10
+
+-----

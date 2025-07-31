@@ -1,0 +1,15 @@
+[TSLA_Q4_2024] Did Tesla maintain positive free cash flow and GAAP profitability from 2023 through 2024, as it promised after its first full profitable year?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #193]  Therefore, while we manage them to be **positive** on a **GAAP** basis, we do not expect similar margins as the rest of the business.
+2. [Sentence #202]  Our **free** **cash** **flow** for the quarter was $2 billion, and despite capex increase of over $2.4 billion in 2024, we were able to generate **free** **cash** **flow** of $3.6 billion for the year.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #202]  (Similarity: 0.856) Our **free** **cash** **flow** for the quarter was $2 billion, and despite capex increase of over $2.4 billion in 2024, we were able to generate **free** **cash** **flow** of $3.6 billion for the year.
+2. [Sentence #193]  (Similarity: 0.631) Therefore, while we manage them to be **positive** on a **GAAP** basis, we do not expect similar margins as the rest of the business.
+
+Total similarity-top evidence sentences: 2
+
+-----
