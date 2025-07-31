@@ -1,0 +1,51 @@
+[Year Q3] Has Tesla’s Autopilot and FSD take rate increased globally between 2019 and 2024, and did they achieve profitability from FSD as predicted?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #417]  (TSLA_Q3_2020) Would that tech significantly help Tesla on the training of your neural network for **FSD**?
+2. [Sentence #838]  (TSLA_Q3_2021) The next question is, is Tesla considering any other ideas other than **FSD** with the real-world AI that can bring additional software revenue to Tesla?
+3. [Sentence #839]  (TSLA_Q3_2021) If not, can Tesla consider building interesting games around **FSD** Beta?
+4. [Sentence #844]  (TSLA_Q3_2021) And maybe last question from shareholders is, how does **FSD** ****take** **rate**** -- how has **FSD** ****take** **rate**** change since the introduction of monthly subscription?
+5. [Sentence #845]  (TSLA_Q3_2021) Are there any plans to increase the **FSD** pricing as why the release becomes imminent?
+6. [Sentence #851]  (TSLA_Q3_2021) And as a result of that, what we've seen in the data is not -- we're unable to detect a change in the upfront ****take** **rate**** of **FSD** when people when people purchase cars.
+7. [Sentence #872]  (TSLA_Q3_2021) If you trade in your Tesla to Tesla, we -- there's a difference in price that we pay for a trade-in that has **FSD** compared to one that doesn't.
+8. [Sentence #963]  (TSLA_Q3_2021) And what we're seeing in initial ****take** **rate**** data is that, if you compare that to what we're seeing in California, we're off to a good start here.
+9. [Sentence #1012]  (TSLA_Q3_2021) As full self-driving matures, as **take** rates increase, if we are to raise pricing on that, there's considerable upside both on gross margins and operating margin as that comes to light, as the business starts to become more of a mix of a hardware-based Company and a software-based Company.
+10. [Sentence #1333]  (TSLA_Q3_2022) We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue production at a 50% or greater compound annual growth **rate**.
+11. [Sentence #1337]  (TSLA_Q3_2022) The next question is, “Can you tell us more about the product future road map beyond new models and **FSD**, and especially for interior and powertrain of existing vehicle models?
+12. [Sentence #1760]  (TSLA_Q3_2023) Regarding **Autopilot** and AI, our vehicles are now driven over 0.5 billion miles with **FSD** beta, full self-driving beta, and that number is growing rapidly.
+13. [Sentence #1911]  (TSLA_Q3_2023) The next question is, why was the price dropped on **FSD** if it is getting better and robotaxi is expected so soon?
+14. [Sentence #1913]  (TSLA_Q3_2023) Yes, I think, over time, the price of **FSD** will increase proportionate to its value.
+15. [Sentence #1917]  (TSLA_Q3_2023) Is Tesla planning to accept legal liability for **FSD**?
+16. [Sentence #2005]  (TSLA_Q3_2023) And so I’m wondering how you **take** that into account and how you’re thinking like the financial contribution of **FSD** over time and whether you could evolve your pricing along that kind of tiers to increase adoption.
+17. [Sentence #2295]  (TSLA_Q3_2024) So, the current total expectation, internal expectation for the Tesla **FSD** having longer miles between versions than human is the second quarter of next year, which means it may end up being in the third quarter, but it's next -- it seems extremely likely to be next year.
+18. [Sentence #2315]  (TSLA_Q3_2024) So, the ****take** **rate**** for **FSD** has improved substantially, especially after the 10/10 event.
+19. [Sentence #2401]  (TSLA_Q3_2024) We released **FSD** for Cybertruck and other features like actually Smart Summon, like Elon talked about, in North America, which contributed $326 million of revenues in the quarter.
+20. [Sentence #2557]  (TSLA_Q3_2024) What will the next stage growth look like and when will **FSD** be ready?
+
+Total transcript-order evidence sentences: 20
+
+--- Evidence by Similarity ---
+1. [Sentence #851]  (TSLA_Q3_2021) (Similarity: 1.100) And as a result of that, what we've seen in the data is not -- we're unable to detect a change in the upfront ****take** **rate**** of **FSD** when people when people purchase cars.
+2. [Sentence #2315]  (TSLA_Q3_2024) (Similarity: 1.064) So, the ****take** **rate**** for **FSD** has improved substantially, especially after the 10/10 event.
+3. [Sentence #844]  (TSLA_Q3_2021) (Similarity: 1.060) And maybe last question from shareholders is, how does **FSD** ****take** **rate**** -- how has **FSD** ****take** **rate**** change since the introduction of monthly subscription?
+4. [Sentence #963]  (TSLA_Q3_2021) (Similarity: 0.847) And what we're seeing in initial ****take** **rate**** data is that, if you compare that to what we're seeing in California, we're off to a good start here.
+5. [Sentence #1012]  (TSLA_Q3_2021) (Similarity: 0.845) As full self-driving matures, as **take** rates increase, if we are to raise pricing on that, there's considerable upside both on gross margins and operating margin as that comes to light, as the business starts to become more of a mix of a hardware-based Company and a software-based Company.
+6. [Sentence #1760]  (TSLA_Q3_2023) (Similarity: 0.820) Regarding **Autopilot** and AI, our vehicles are now driven over 0.5 billion miles with **FSD** beta, full self-driving beta, and that number is growing rapidly.
+7. [Sentence #872]  (TSLA_Q3_2021) (Similarity: 0.753) If you trade in your Tesla to Tesla, we -- there's a difference in price that we pay for a trade-in that has **FSD** compared to one that doesn't.
+8. [Sentence #2005]  (TSLA_Q3_2023) (Similarity: 0.726) And so I’m wondering how you **take** that into account and how you’re thinking like the financial contribution of **FSD** over time and whether you could evolve your pricing along that kind of tiers to increase adoption.
+9. [Sentence #838]  (TSLA_Q3_2021) (Similarity: 0.690) The next question is, is Tesla considering any other ideas other than **FSD** with the real-world AI that can bring additional software revenue to Tesla?
+10. [Sentence #2295]  (TSLA_Q3_2024) (Similarity: 0.690) So, the current total expectation, internal expectation for the Tesla **FSD** having longer miles between versions than human is the second quarter of next year, which means it may end up being in the third quarter, but it's next -- it seems extremely likely to be next year.
+11. [Sentence #1913]  (TSLA_Q3_2023) (Similarity: 0.686) Yes, I think, over time, the price of **FSD** will increase proportionate to its value.
+12. [Sentence #1333]  (TSLA_Q3_2022) (Similarity: 0.668) We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue production at a 50% or greater compound annual growth **rate**.
+13. [Sentence #845]  (TSLA_Q3_2021) (Similarity: 0.665) Are there any plans to increase the **FSD** pricing as why the release becomes imminent?
+14. [Sentence #1917]  (TSLA_Q3_2023) (Similarity: 0.657) Is Tesla planning to accept legal liability for **FSD**?
+15. [Sentence #1911]  (TSLA_Q3_2023) (Similarity: 0.654) The next question is, why was the price dropped on **FSD** if it is getting better and robotaxi is expected so soon?
+16. [Sentence #839]  (TSLA_Q3_2021) (Similarity: 0.645) If not, can Tesla consider building interesting games around **FSD** Beta?
+17. [Sentence #2557]  (TSLA_Q3_2024) (Similarity: 0.641) What will the next stage growth look like and when will **FSD** be ready?
+18. [Sentence #2401]  (TSLA_Q3_2024) (Similarity: 0.640) We released **FSD** for Cybertruck and other features like actually Smart Summon, like Elon talked about, in North America, which contributed $326 million of revenues in the quarter.
+19. [Sentence #417]  (TSLA_Q3_2020) (Similarity: 0.634) Would that tech significantly help Tesla on the training of your neural network for **FSD**?
+20. [Sentence #1337]  (TSLA_Q3_2022) (Similarity: 0.603) The next question is, “Can you tell us more about the product future road map beyond new models and **FSD**, and especially for interior and powertrain of existing vehicle models?
+
+Total similarity-top evidence sentences: 20
+
+-----

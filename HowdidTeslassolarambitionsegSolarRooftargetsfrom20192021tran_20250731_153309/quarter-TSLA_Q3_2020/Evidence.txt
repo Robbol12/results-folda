@@ -1,0 +1,27 @@
+[TSLA_Q3_2020] How did Tesla’s solar ambitions (e.g., Solar Roof targets from 2019–2021) translate into actual deployments through 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #153]  **Solar** **Roof** is especially exciting as we've gained significant experience over the last year in the installation process, which is a key enabler to scale the business.
+2. [Sentence #154]  We've recently demonstrated our ability to complete **Solar** **Roof** installation in just one day.
+3. [Sentence #155]  We're pleased now, this still requires one to two days to remove the existing **roof** and prepare it for the **Solar** **Roof** installation.
+4. [Sentence #188]  I'm Carl, I'm on the **Solar** **Roof** engineering and installation.
+5. [Sentence #189]  The biggest constraint right now in **Solar** **Roof** ramp is getting enough installers on board and trained and experienced.
+6. [Sentence #193]  Also, we've had great response from third-party roofing contractors as they're ramping up installations for **Solar** **Roof** on their customer homes, which is a big source of future growth.
+7. [Sentence #200]  And I think a future where we've got beautiful roofs with generating energy that are tough and resilient and better in every way than a regular **roof** and a lab with energy.
+8. [Sentence #202]  The **Solar** **Roof** is a killer product.
+
+Total transcript-order evidence sentences: 8
+
+--- Evidence by Similarity ---
+1. [Sentence #193]  (Similarity: 0.772) Also, we've had great response from third-party roofing contractors as they're ramping up installations for **Solar** **Roof** on their customer homes, which is a big source of future growth.
+2. [Sentence #153]  (Similarity: 0.758) **Solar** **Roof** is especially exciting as we've gained significant experience over the last year in the installation process, which is a key enabler to scale the business.
+3. [Sentence #154]  (Similarity: 0.747) We've recently demonstrated our ability to complete **Solar** **Roof** installation in just one day.
+4. [Sentence #188]  (Similarity: 0.720) I'm Carl, I'm on the **Solar** **Roof** engineering and installation.
+5. [Sentence #202]  (Similarity: 0.689) The **Solar** **Roof** is a killer product.
+6. [Sentence #189]  (Similarity: 0.684) The biggest constraint right now in **Solar** **Roof** ramp is getting enough installers on board and trained and experienced.
+7. [Sentence #155]  (Similarity: 0.674) We're pleased now, this still requires one to two days to remove the existing **roof** and prepare it for the **Solar** **Roof** installation.
+8. [Sentence #200]  (Similarity: 0.643) And I think a future where we've got beautiful roofs with generating energy that are tough and resilient and better in every way than a regular **roof** and a lab with energy.
+
+Total similarity-top evidence sentences: 8
+
+-----

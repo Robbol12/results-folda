@@ -1,0 +1,21 @@
+[TSLA_Q4_2019] Has Tesla’s Autopilot and FSD take rate increased globally between 2019 and 2024, and did they achieve profitability from FSD as predicted?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #123]  Zachary Kirkhorn
+
+The **rate** card for California Tesla Insurance already considers the safety features associated with **Autopilot**.
+2. [Sentence #139]  The -- like the core autopilots in Tesla or **Autopilot** software and AI team is just is I think very, very strong in making great progress.
+3. [Sentence #140]  And we're really only getting to **take** full advantage of the **Autopilot** hardware and the **FSD** hardware.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #140]  (Similarity: 0.976) And we're really only getting to **take** full advantage of the **Autopilot** hardware and the **FSD** hardware.
+2. [Sentence #123]  (Similarity: 0.761) Zachary Kirkhorn
+
+The **rate** card for California Tesla Insurance already considers the safety features associated with **Autopilot**.
+3. [Sentence #139]  (Similarity: 0.604) The -- like the core autopilots in Tesla or **Autopilot** software and AI team is just is I think very, very strong in making great progress.
+
+Total similarity-top evidence sentences: 3
+
+-----

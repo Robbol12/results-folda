@@ -1,0 +1,29 @@
+[TSLA_Q4_2020] Has Tesla’s Autopilot and FSD take rate increased globally between 2019 and 2024, and did they achieve profitability from FSD as predicted?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #60]  And with each successful release of the beta – of the **FSD** software, just -- it's really improving rapidly.
+2. [Sentence #76]  So in conclusion, while 2020 was a turning point for Tesla and in terms of **profitability**, we believe this is just the beginning.
+3. [Sentence #142]  This would be a huge for loyalty and overall **increased** sales of vehicles who are offering more **FSD** sales on used vehicles.
+4. [Sentence #144]  We do actually offer an **increased** – higher price than for a car with **FSD** than one without **FSD**.
+5. [Sentence #146]  And arguably the stock market sales probably undervalue the just how good **FSD** is going to be.
+6. [Sentence #264]  And the second question from institutionals is, does Tesla plan or expect to license any of its software applications, **FSD** and auto bidder in particular, to third-party OEMs?
+7. [Sentence #268]  And -- but I think, obviously, like we need to probably do a little bit more work to prove that Tesla **Autopilot** is capable of full self-driving, which is, I think, will become obvious later this year.
+8. [Sentence #286]  So they -- I'm confident that they will buy **FSD** as soon as it’s working on time.
+9. [Sentence #456]  But since we can achieve **FSD**, Full Self-Driving, with the current system, it would actually be a distraction right now if we were to introduce the Full Self-Driving, the Tesla **FSD** chip 2 because it would set us back quite a bit on software.
+
+Total transcript-order evidence sentences: 9
+
+--- Evidence by Similarity ---
+1. [Sentence #144]  (Similarity: 0.790) We do actually offer an **increased** – higher price than for a car with **FSD** than one without **FSD**.
+2. [Sentence #142]  (Similarity: 0.752) This would be a huge for loyalty and overall **increased** sales of vehicles who are offering more **FSD** sales on used vehicles.
+3. [Sentence #456]  (Similarity: 0.678) But since we can achieve **FSD**, Full Self-Driving, with the current system, it would actually be a distraction right now if we were to introduce the Full Self-Driving, the Tesla **FSD** chip 2 because it would set us back quite a bit on software.
+4. [Sentence #264]  (Similarity: 0.671) And the second question from institutionals is, does Tesla plan or expect to license any of its software applications, **FSD** and auto bidder in particular, to third-party OEMs?
+5. [Sentence #268]  (Similarity: 0.649) And -- but I think, obviously, like we need to probably do a little bit more work to prove that Tesla **Autopilot** is capable of full self-driving, which is, I think, will become obvious later this year.
+6. [Sentence #286]  (Similarity: 0.643) So they -- I'm confident that they will buy **FSD** as soon as it’s working on time.
+7. [Sentence #76]  (Similarity: 0.634) So in conclusion, while 2020 was a turning point for Tesla and in terms of **profitability**, we believe this is just the beginning.
+8. [Sentence #146]  (Similarity: 0.632) And arguably the stock market sales probably undervalue the just how good **FSD** is going to be.
+9. [Sentence #60]  (Similarity: 0.601) And with each successful release of the beta – of the **FSD** software, just -- it's really improving rapidly.
+
+Total similarity-top evidence sentences: 9
+
+-----

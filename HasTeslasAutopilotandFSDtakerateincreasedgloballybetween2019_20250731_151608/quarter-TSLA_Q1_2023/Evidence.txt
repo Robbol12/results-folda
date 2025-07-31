@@ -1,0 +1,25 @@
+[TSLA_Q1_2023] Has Tesla’s Autopilot and FSD take rate increased globally between 2019 and 2024, and did they achieve profitability from FSD as predicted?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #40]  Regarding **Autopilot** and Full Self-Driving, we've now crossed over 150 million miles driven by Full Self-Driving beta, and this number is growing exponentially.
+2. [Sentence #59]  In particular, automotive gross margin was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve vehicle pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as **increased** deferred revenue for certain **Autopilot** features as we transition technologies.
+3. [Sentence #223]  I was wondering, first, if you could discuss your **FSD** **take** rates and whether you've seen any significant positive or negative change there?
+4. [Sentence #224]  And also, given that you've reduced the prices for your vehicles, do you think you need to do that for **FSD** as well?
+5. [Sentence #226]  Elon Musk
+
+Well, I can kind of answer the details on the **FSD** ****take** **rate****, but the -- it's a tricky pricing question, because the value of a car that is autonomous is enormous.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #226]  (Similarity: 1.213) Elon Musk
+
+Well, I can kind of answer the details on the **FSD** ****take** **rate****, but the -- it's a tricky pricing question, because the value of a car that is autonomous is enormous.
+2. [Sentence #223]  (Similarity: 0.958) I was wondering, first, if you could discuss your **FSD** **take** rates and whether you've seen any significant positive or negative change there?
+3. [Sentence #59]  (Similarity: 0.744) In particular, automotive gross margin was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve vehicle pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as **increased** deferred revenue for certain **Autopilot** features as we transition technologies.
+4. [Sentence #40]  (Similarity: 0.665) Regarding **Autopilot** and Full Self-Driving, we've now crossed over 150 million miles driven by Full Self-Driving beta, and this number is growing exponentially.
+5. [Sentence #224]  (Similarity: 0.600) And also, given that you've reduced the prices for your vehicles, do you think you need to do that for **FSD** as well?
+
+Total similarity-top evidence sentences: 5
+
+-----

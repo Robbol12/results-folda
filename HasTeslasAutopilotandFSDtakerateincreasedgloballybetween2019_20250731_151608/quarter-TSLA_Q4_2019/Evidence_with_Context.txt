@@ -1,0 +1,73 @@
+[TSLA_Q4_2019] Has Tesla’s Autopilot and FSD take rate increased globally between 2019 and 2024, and did they achieve profitability from FSD as predicted?
+
+1. [Sentence #140] [PILOT]
+     Elon Musk
+
+Well, I mean, to be precise, I said I was hoping would be feature complete with both FSD by the end of last year.
+     We got pretty close, it's looking like we might be feature complete in a few months.
+     The feature complete just means like it has some chance of going from your home to work let's say with no debentures.
+     So, that's -- it does mean the features are working well, but it means it has above zero chance.
+     So I think that's looking like maybe it's going to be couple of months for now.
+     And what isn't obvious regarding Autopilot and full self-driving is just how much work has been going into improving the foundational elements of autonomy.
+     The -- like the core autopilots in Tesla or Autopilot software and AI team is just is I think very, very strong in making great progress.
+>>> And we're really only getting to take full advantage of the Autopilot hardware and the FSD hardware.
+     So, I think it's -- the apparent progress as seen by consumer as well seems to be extremely rapid, but actually what's really going on my head it seems like I said having the foundational software be very strong and with really strong foundation.
+     And then really fundamental thing is moving to video training.
+     So in terms of labeling, labeling with video in all eight cameras simultaneously.
+     This is a really, I mean in terms of labeling efficiency arguably like a three order of magnitude improvement in labeling efficiency.
+     For those who know about this it's extremely fundamental, so that's really great progress on that.
+     Martin Viecha
+
+Thank you.
+     And the last retail investor question comes from Kendall.
+-----
+2. [Sentence #123] [PILOT]
+     A couple of things that we're working on this front, the first is to expand it to other locations and we are preparing the regulatory processes, preparing our processes to go through the regulatory processes in those locations.
+     We're also working on the processes to continue to adjust our rates in California, which also have to go through regulatory processes as insurance is quite heavily regulated.
+     And that's where we're spending our time focusing on Tesla Insurance right now.
+     There is a significant amount of innovation as we've discussed before in this space, exactly getting to the intent of what the question here is using our technology to reduce rates.
+     And this will be rolled in over time.
+     Martin Viecha
+
+The last part of the question was, will there be a discount for using Autopilot with our cars?
+     Elon Musk
+
+Yes, there will be.
+>>> Zachary Kirkhorn
+
+The rate card for California Tesla Insurance already considers the safety features associated with Autopilot.
+     Elon Musk
+
+Right, but I think -- I think it would make sense for us to close the loop on higher use of Autopilot, reduces the insurance costs as well as the probability of injury.
+     So I think insurance is going to be I think quite a major product of Tesla over time.
+     The amount of money that people spend on car insurance is like a remarkably big percentage of the cost of a car, like you can lease a Model 3 right now for $400 a month, but a typical owner in California will be paying somewhere between a $100 and $200 a month in insurance.
+     So we're talking about something which is maybe a quarter or two half of the cost of the lease of the car is insurance.
+     And a lot of that insurance cost is just because the insurance companies don't have good information about the drivers and that there is no good way to provide feedback where it's a very poor feedback mechanism in terms of the insurance rates versus the actual way that the car is being driven, whereas we can do that in real time.
+     It's a fundamental information advantage that insurance companies don't have.
+     Martin Viecha
+
+Thank you.
+-----
+3. [Sentence #139] [PILOT]
+     Can you please provide an update on when will we see this with end users, where are you in retrofitting the FSD computer to older models?
+     Elon Musk
+
+Well, I mean, to be precise, I said I was hoping would be feature complete with both FSD by the end of last year.
+     We got pretty close, it's looking like we might be feature complete in a few months.
+     The feature complete just means like it has some chance of going from your home to work let's say with no debentures.
+     So, that's -- it does mean the features are working well, but it means it has above zero chance.
+     So I think that's looking like maybe it's going to be couple of months for now.
+     And what isn't obvious regarding Autopilot and full self-driving is just how much work has been going into improving the foundational elements of autonomy.
+>>> The -- like the core autopilots in Tesla or Autopilot software and AI team is just is I think very, very strong in making great progress.
+     And we're really only getting to take full advantage of the Autopilot hardware and the FSD hardware.
+     So, I think it's -- the apparent progress as seen by consumer as well seems to be extremely rapid, but actually what's really going on my head it seems like I said having the foundational software be very strong and with really strong foundation.
+     And then really fundamental thing is moving to video training.
+     So in terms of labeling, labeling with video in all eight cameras simultaneously.
+     This is a really, I mean in terms of labeling efficiency arguably like a three order of magnitude improvement in labeling efficiency.
+     For those who know about this it's extremely fundamental, so that's really great progress on that.
+     Martin Viecha
+
+Thank you.
+-----
+
+Total context windows: 3

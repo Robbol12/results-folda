@@ -1,0 +1,43 @@
+[Year Q2] Has Tesla’s Autopilot and FSD take rate increased globally between 2019 and 2024, and did they achieve profitability from FSD as predicted?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #323]  (TSLA_Q2_2020) And when does Tesla expect to reach that **rate**?
+2. [Sentence #854]  (TSLA_Q2_2021) And the fourth question from retail investors is, does Tesla have any proactive plans to tackle main stream media’s imminent massive and deceptive click bait headline campaigns on safety of **Autopilot** or **FSD**, perhaps a specialty PR job of some sort?
+3. [Sentence #1155]  (TSLA_Q2_2022) Regarding **Autopilot**, we have now deployed our **FSD** beta with City Streets driving capability to over 100,000 owners.
+4. [Sentence #1198]  (TSLA_Q2_2022) Although our production volume reduced sequentially due to COVID-related shutdowns in Shanghai, we made substantial progress in nearly every area of the business, and in particular, our **global** vehicle production **rate** as we exited the quarter.
+5. [Sentence #1580]  (TSLA_Q2_2022) Could you talk a little bit about the pricing strategy around **FSD**, and as you get closer to this full functionality rolling out and the **increased** cycle times, how you see that evolving through the balance of this year and into 2023?
+6. [Sentence #1582]  (TSLA_Q2_2022) We will increase the price of **FSD** sometime later this year.
+7. [Sentence #1742]  (TSLA_Q2_2023) So, to date, over 300 million miles have been driven using **FSD** beta.
+8. [Sentence #1764]  (TSLA_Q2_2023) And we are already in discussions with -- early discussions with major OEM about using Tesla **FSD**.
+9. [Sentence #2113]  (TSLA_Q2_2023) I think the Tesla fleet value increase at the point which we can upload full self-driving and is approved by regulators will be the single biggest step change in asset value maybe in history.
+10. [Sentence #2121]  (TSLA_Q2_2023) And would Tesla benefit from lowering the price of **FSD**?
+11. [Sentence #2132]  (TSLA_Q2_2023) And the price of **FSD** -- so the great thing is the price of **FSD** is actually very low, it’s not high.
+12. [Sentence #2315]  (TSLA_Q2_2024) Although the numbers sound crazy, I think Tesla producing at volume with unsupervised **FSD** essentially enabling the fleet to operate like a giant autonomous fleet.
+13. [Sentence #2338]  (TSLA_Q2_2024) Since the revision of **FSD** pricing in North America, we've seen production rates increase meaningfully and expect this to be a driver of vehicle sales as the feature set improves further.
+14. [Sentence #2428]  (TSLA_Q2_2024) Is Tesla still in talks with an OEM to license **FSD**?
+15. [Sentence #2604]  (TSLA_Q2_2024) So with the -- with Version 12.5, and maybe a 12.6, but pretty soon we will ask for regular regulatory approval of the Tesla supervised **FSD** in Europe, China, and other countries.
+16. [Sentence #2635]  (TSLA_Q2_2024) And maybe just as a follow-up, I think you mentioned, that **FSD** **take** rates were up materially after you reduced the price.
+
+Total transcript-order evidence sentences: 16
+
+--- Evidence by Similarity ---
+1. [Sentence #2635]  (TSLA_Q2_2024) (Similarity: 0.969) And maybe just as a follow-up, I think you mentioned, that **FSD** **take** rates were up materially after you reduced the price.
+2. [Sentence #1580]  (TSLA_Q2_2022) (Similarity: 0.845) Could you talk a little bit about the pricing strategy around **FSD**, and as you get closer to this full functionality rolling out and the **increased** cycle times, how you see that evolving through the balance of this year and into 2023?
+3. [Sentence #2121]  (TSLA_Q2_2023) (Similarity: 0.801) And would Tesla benefit from lowering the price of **FSD**?
+4. [Sentence #854]  (TSLA_Q2_2021) (Similarity: 0.792) And the fourth question from retail investors is, does Tesla have any proactive plans to tackle main stream media’s imminent massive and deceptive click bait headline campaigns on safety of **Autopilot** or **FSD**, perhaps a specialty PR job of some sort?
+5. [Sentence #2315]  (TSLA_Q2_2024) (Similarity: 0.760) Although the numbers sound crazy, I think Tesla producing at volume with unsupervised **FSD** essentially enabling the fleet to operate like a giant autonomous fleet.
+6. [Sentence #1155]  (TSLA_Q2_2022) (Similarity: 0.748) Regarding **Autopilot**, we have now deployed our **FSD** beta with City Streets driving capability to over 100,000 owners.
+7. [Sentence #2338]  (TSLA_Q2_2024) (Similarity: 0.720) Since the revision of **FSD** pricing in North America, we've seen production rates increase meaningfully and expect this to be a driver of vehicle sales as the feature set improves further.
+8. [Sentence #2428]  (TSLA_Q2_2024) (Similarity: 0.713) Is Tesla still in talks with an OEM to license **FSD**?
+9. [Sentence #323]  (TSLA_Q2_2020) (Similarity: 0.706) And when does Tesla expect to reach that **rate**?
+10. [Sentence #1582]  (TSLA_Q2_2022) (Similarity: 0.652) We will increase the price of **FSD** sometime later this year.
+11. [Sentence #2604]  (TSLA_Q2_2024) (Similarity: 0.645) So with the -- with Version 12.5, and maybe a 12.6, but pretty soon we will ask for regular regulatory approval of the Tesla supervised **FSD** in Europe, China, and other countries.
+12. [Sentence #2132]  (TSLA_Q2_2023) (Similarity: 0.640) And the price of **FSD** -- so the great thing is the price of **FSD** is actually very low, it’s not high.
+13. [Sentence #1764]  (TSLA_Q2_2023) (Similarity: 0.630) And we are already in discussions with -- early discussions with major OEM about using Tesla **FSD**.
+14. [Sentence #2113]  (TSLA_Q2_2023) (Similarity: 0.627) I think the Tesla fleet value increase at the point which we can upload full self-driving and is approved by regulators will be the single biggest step change in asset value maybe in history.
+15. [Sentence #1742]  (TSLA_Q2_2023) (Similarity: 0.613) So, to date, over 300 million miles have been driven using **FSD** beta.
+16. [Sentence #1198]  (TSLA_Q2_2022) (Similarity: 0.603) Although our production volume reduced sequentially due to COVID-related shutdowns in Shanghai, we made substantial progress in nearly every area of the business, and in particular, our **global** vehicle production **rate** as we exited the quarter.
+
+Total similarity-top evidence sentences: 16
+
+-----

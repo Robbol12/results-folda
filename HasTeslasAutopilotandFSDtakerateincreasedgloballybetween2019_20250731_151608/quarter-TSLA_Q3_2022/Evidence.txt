@@ -1,0 +1,15 @@
+[TSLA_Q3_2022] Has Tesla’s Autopilot and FSD take rate increased globally between 2019 and 2024, and did they achieve profitability from FSD as predicted?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #132]  We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue production at a 50% or greater compound annual growth **rate**.
+2. [Sentence #136]  The next question is, “Can you tell us more about the product future road map beyond new models and **FSD**, and especially for interior and powertrain of existing vehicle models?
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #132]  (Similarity: 0.668) We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue production at a 50% or greater compound annual growth **rate**.
+2. [Sentence #136]  (Similarity: 0.603) The next question is, “Can you tell us more about the product future road map beyond new models and **FSD**, and especially for interior and powertrain of existing vehicle models?
+
+Total similarity-top evidence sentences: 2
+
+-----

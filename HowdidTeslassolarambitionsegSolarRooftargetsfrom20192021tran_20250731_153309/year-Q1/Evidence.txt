@@ -1,0 +1,67 @@
+[Year Q1] How did Tesla’s solar ambitions (e.g., Solar Roof targets from 2019–2021) translate into actual deployments through 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #87]  (TSLA_Q1_2020) We also experienced expected launch efficiencies associated with our third version of the **Solar** **Roof**, which impacted overall profitability.
+2. [Sentence #203]  (TSLA_Q1_2020) Is this still in line with Tesla's **ambitions** for the next five to 10 years?
+3. [Sentence #231]  (TSLA_Q1_2020) The next question is, can you give us an update on **Solar** **Roof** ramp?
+4. [Sentence #234]  (TSLA_Q1_2020) Elon Musk
+
+We were actually gaining interest momentum with the **Solar** **Roof** before COVID, but COVID essentially shut us down, both from the ability to install and the ability to get permits.
+5. [Sentence #239]  (TSLA_Q1_2020) So – but I think the long-term trend for **Solar** **Roof** is extremely good, and I'm confident that, let's say, within the next, I don't know, year or—maybe even by end of year, we should be installing at a rate of 1,000 a week.
+6. [Sentence #242]  (TSLA_Q1_2020) We actually have demonstrated the ability to hit 1,000 a week plus build rate for the **Solar** Glass **Roof** already.
+7. [Sentence #245]  (TSLA_Q1_2020) And internally, we want to have at least 1,000 **Solar** **Roof** install teams with – and taking a week or perhaps a little less than a week to do an install, which gets you 1,000 a week **roof** installations.
+8. [Sentence #248]  (TSLA_Q1_2020) So it's really all about the install, and then like also build out the training, the very diverse group of companies in the roofing industry to also install **Solar** **Roof** that, I think will scale – allow us to scale far beyond 1,000 a week.
+9. [Sentence #250]  (TSLA_Q1_2020) So we expect this to be a product that is international and actually seeing a tremendous amount of interest from China on the **Solar** **Roof**.
+10. [Sentence #275]  (TSLA_Q1_2020) So we're going to make sure, we got a lot of ice in the fire here, for new products with the Cybertruck, Semi, new Roadster and the Gigafactories in various parts of the world and Model Y, Autopilot and the **Solar** **Roof** and…
+
+Zachary Kirkhorn
+
+New technologies.
+11. [Sentence #632]  (TSLA_Q1_2021) This was driven by **Solar** **Roof**-related ramp costs and winter seasonality in the lease BPA business.
+12. [Sentence #692]  (TSLA_Q1_2021) The recent price changes on **Solar** **Roof** have been a bit discouraging for customers and investors.
+13. [Sentence #693]  (TSLA_Q1_2021) Could Tesla share more about **Solar** **Roof** challenges and if the outlook has changed at all, i.e.
+14. [Sentence #696]  (TSLA_Q1_2021) First of all, I should say, the demand for the **Solar** **Roof** remains strong.
+15. [Sentence #697]  (TSLA_Q1_2021) So despite raising the price, the demand is still significantly in excess of our ability to meet the demand to install the **Solar** Roofs.
+16. [Sentence #702]  (TSLA_Q1_2021) If a **roof** has a lot of protuberances or if the **roof** sort of the core structure of the **roof** is rotted out or is not strong enough to hold the **Solar** **Roof**, then the cost can be double, sometimes three times what our initial quotes were.
+17. [Sentence #706]  (TSLA_Q1_2021) But what is I think most important about the **Solar** **Roof** situation, which I tweeted about this past week, is that we are shifting the whole **solar** situation, the **solar** power, basically the **solar** factory situation to, there’s only one product basically, there’s only one configuration every house, but we will not sell a house **solar** without a Powerwall.
+18. [Sentence #707]  (TSLA_Q1_2021) That **solar** could either be **solar** retrofit with conventional panels put on the **roof** or it can be the Tesla **Solar** Glass **Roof**.
+19. [Sentence #713]  (TSLA_Q1_2021) And all installations will have a Powerwall and the difficult the installation will dramatically increase -- or the difficulty of the installation will be much less, it will be much easier, because the power from the **Solar** **Roof**, the **Solar** Glass **Roof**, or the **solar** panels, will only ever go directly into the Powerwall.
+20. [Sentence #962]  (TSLA_Q1_2021) So I understand like the negative gross margin with **Solar** **Roof** ran.
+21. [Sentence #2212]  (TSLA_Q1_2024) Despite these challenges, the Tesla team did a great job executing in a tough environment and energy storage **deployments**, the Megapack in particular, reached an all-time high in Q1, leading to record profitability for the energy business, and that looks likely to continue to increase in the quarters and years ahead.
+22. [Sentence #2264]  (TSLA_Q1_2024) We expect the energy storage **deployments** for 2024 to grow at least 75% higher from 2023.
+
+Total transcript-order evidence sentences: 22
+
+--- Evidence by Similarity ---
+1. [Sentence #693]  (TSLA_Q1_2021) (Similarity: 0.962) Could Tesla share more about **Solar** **Roof** challenges and if the outlook has changed at all, i.e.
+2. [Sentence #707]  (TSLA_Q1_2021) (Similarity: 0.845) That **solar** could either be **solar** retrofit with conventional panels put on the **roof** or it can be the Tesla **Solar** Glass **Roof**.
+3. [Sentence #248]  (TSLA_Q1_2020) (Similarity: 0.785) So it's really all about the install, and then like also build out the training, the very diverse group of companies in the roofing industry to also install **Solar** **Roof** that, I think will scale – allow us to scale far beyond 1,000 a week.
+4. [Sentence #242]  (TSLA_Q1_2020) (Similarity: 0.754) We actually have demonstrated the ability to hit 1,000 a week plus build rate for the **Solar** Glass **Roof** already.
+5. [Sentence #87]  (TSLA_Q1_2020) (Similarity: 0.752) We also experienced expected launch efficiencies associated with our third version of the **Solar** **Roof**, which impacted overall profitability.
+6. [Sentence #239]  (TSLA_Q1_2020) (Similarity: 0.748) So – but I think the long-term trend for **Solar** **Roof** is extremely good, and I'm confident that, let's say, within the next, I don't know, year or—maybe even by end of year, we should be installing at a rate of 1,000 a week.
+7. [Sentence #706]  (TSLA_Q1_2021) (Similarity: 0.743) But what is I think most important about the **Solar** **Roof** situation, which I tweeted about this past week, is that we are shifting the whole **solar** situation, the **solar** power, basically the **solar** factory situation to, there’s only one product basically, there’s only one configuration every house, but we will not sell a house **solar** without a Powerwall.
+8. [Sentence #203]  (TSLA_Q1_2020) (Similarity: 0.741) Is this still in line with Tesla's **ambitions** for the next five to 10 years?
+9. [Sentence #245]  (TSLA_Q1_2020) (Similarity: 0.737) And internally, we want to have at least 1,000 **Solar** **Roof** install teams with – and taking a week or perhaps a little less than a week to do an install, which gets you 1,000 a week **roof** installations.
+10. [Sentence #696]  (TSLA_Q1_2021) (Similarity: 0.731) First of all, I should say, the demand for the **Solar** **Roof** remains strong.
+11. [Sentence #234]  (TSLA_Q1_2020) (Similarity: 0.720) Elon Musk
+
+We were actually gaining interest momentum with the **Solar** **Roof** before COVID, but COVID essentially shut us down, both from the ability to install and the ability to get permits.
+12. [Sentence #231]  (TSLA_Q1_2020) (Similarity: 0.716) The next question is, can you give us an update on **Solar** **Roof** ramp?
+13. [Sentence #692]  (TSLA_Q1_2021) (Similarity: 0.714) The recent price changes on **Solar** **Roof** have been a bit discouraging for customers and investors.
+14. [Sentence #250]  (TSLA_Q1_2020) (Similarity: 0.684) So we expect this to be a product that is international and actually seeing a tremendous amount of interest from China on the **Solar** **Roof**.
+15. [Sentence #962]  (TSLA_Q1_2021) (Similarity: 0.677) So I understand like the negative gross margin with **Solar** **Roof** ran.
+16. [Sentence #702]  (TSLA_Q1_2021) (Similarity: 0.647) If a **roof** has a lot of protuberances or if the **roof** sort of the core structure of the **roof** is rotted out or is not strong enough to hold the **Solar** **Roof**, then the cost can be double, sometimes three times what our initial quotes were.
+17. [Sentence #275]  (TSLA_Q1_2020) (Similarity: 0.643) So we're going to make sure, we got a lot of ice in the fire here, for new products with the Cybertruck, Semi, new Roadster and the Gigafactories in various parts of the world and Model Y, Autopilot and the **Solar** **Roof** and…
+
+Zachary Kirkhorn
+
+New technologies.
+18. [Sentence #632]  (TSLA_Q1_2021) (Similarity: 0.629) This was driven by **Solar** **Roof**-related ramp costs and winter seasonality in the lease BPA business.
+19. [Sentence #2212]  (TSLA_Q1_2024) (Similarity: 0.617) Despite these challenges, the Tesla team did a great job executing in a tough environment and energy storage **deployments**, the Megapack in particular, reached an all-time high in Q1, leading to record profitability for the energy business, and that looks likely to continue to increase in the quarters and years ahead.
+20. [Sentence #2264]  (TSLA_Q1_2024) (Similarity: 0.614) We expect the energy storage **deployments** for 2024 to grow at least 75% higher from 2023.
+21. [Sentence #697]  (TSLA_Q1_2021) (Similarity: 0.612) So despite raising the price, the demand is still significantly in excess of our ability to meet the demand to install the **Solar** Roofs.
+22. [Sentence #713]  (TSLA_Q1_2021) (Similarity: 0.608) And all installations will have a Powerwall and the difficult the installation will dramatically increase -- or the difficulty of the installation will be much less, it will be much easier, because the power from the **Solar** **Roof**, the **Solar** Glass **Roof**, or the **solar** panels, will only ever go directly into the Powerwall.
+
+Total similarity-top evidence sentences: 22
+
+-----

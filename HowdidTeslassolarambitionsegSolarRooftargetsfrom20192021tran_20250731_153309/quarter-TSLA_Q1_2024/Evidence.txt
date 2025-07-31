@@ -1,0 +1,15 @@
+[TSLA_Q1_2024] How did Tesla’s solar ambitions (e.g., Solar Roof targets from 2019–2021) translate into actual deployments through 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #15]  Despite these challenges, the Tesla team did a great job executing in a tough environment and energy storage **deployments**, the Megapack in particular, reached an all-time high in Q1, leading to record profitability for the energy business, and that looks likely to continue to increase in the quarters and years ahead.
+2. [Sentence #67]  We expect the energy storage **deployments** for 2024 to grow at least 75% higher from 2023.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #15]  (Similarity: 0.617) Despite these challenges, the Tesla team did a great job executing in a tough environment and energy storage **deployments**, the Megapack in particular, reached an all-time high in Q1, leading to record profitability for the energy business, and that looks likely to continue to increase in the quarters and years ahead.
+2. [Sentence #67]  (Similarity: 0.614) We expect the energy storage **deployments** for 2024 to grow at least 75% higher from 2023.
+
+Total similarity-top evidence sentences: 2
+
+-----

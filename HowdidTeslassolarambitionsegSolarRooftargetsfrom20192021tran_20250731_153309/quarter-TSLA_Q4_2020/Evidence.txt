@@ -1,0 +1,19 @@
+[TSLA_Q4_2020] How did Tesla’s solar ambitions (e.g., Solar Roof targets from 2019–2021) translate into actual deployments through 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #123]  The first question from institutional investors is, what is currently holding Tesla back from being the market share leader in **solar**?
+2. [Sentence #131]  So I think it will not be long before Tesla is, by far, the market leader in **solar**.
+3. [Sentence #135]  And actually important part is achieving better integration between the Tesla Powerwall and the Tesla Retrofit **Solar** and Tesla **Roof**.
+4. [Sentence #136]  And we're confident we'll have excellent integration – excellent integration with the Powerwall and Tesla **Solar**, whether it's retrofit or but [indiscernible] **roof** before the end of the year.
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #135]  (Similarity: 0.927) And actually important part is achieving better integration between the Tesla Powerwall and the Tesla Retrofit **Solar** and Tesla **Roof**.
+2. [Sentence #136]  (Similarity: 0.911) And we're confident we'll have excellent integration – excellent integration with the Powerwall and Tesla **Solar**, whether it's retrofit or but [indiscernible] **roof** before the end of the year.
+3. [Sentence #131]  (Similarity: 0.757) So I think it will not be long before Tesla is, by far, the market leader in **solar**.
+4. [Sentence #123]  (Similarity: 0.654) The first question from institutional investors is, what is currently holding Tesla back from being the market share leader in **solar**?
+
+Total similarity-top evidence sentences: 4
+
+-----

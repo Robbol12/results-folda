@@ -1,0 +1,634 @@
+[Year Q4] Has Tesla’s Autopilot and FSD take rate increased globally between 2019 and 2024, and did they achieve profitability from FSD as predicted?
+
+1. [Sentence #1864, TSLA_Q4_2022] [PLAN]
+     My guess is, if there is -- if the recession is a serious one and I think it probably will be, but I hope it isn't, that would lead to meaningful decreases in almost all of our input costs.
+     So we expect to see deflation in our input costs most likely, which would then lead to, yes, better margin.
+     I'm just guessing here.
+     So, this is -- that would be my guess.
+     Pierre Ferragu
+
+Thank you, so much.
+     So as a quick follow-up, Elon, I was thinking about like FSD, and when you look at like the situation today compared to a year ago, it's -- like the progress has been, like, amazing in the quality of the product, but also its rollout.
+     And so, I was wondering, how much is this like impacting the take rate of FSD today?
+>>> So do you already see that people are getting more excited by FSD, because they see it around them on 400,000 cars and they see the value of the service already, or is that too early to really see like, to expect like an uptick in the take rate?
+     Elon Musk
+
+The trend is very strong towards use of FSD.
+     And as you alluded to, with each incremental improvement, the enthusiasm obviously increases.
+     And -- so, I think something that still a lot of people out there don't quite appreciate is that Tesla -- of course say like, Tesla is as much as a software company as a hardware company, but Tesla is really one of the world's leading AI companies.
+     This is kind of a big deal with AI on the software side and on the hardware side.
+     With the Hardware 3 inference computer, still the most efficient inference computer in the world despite being, at this point, five years old from the design point.
+     And Hardware 4 coming and then Hardware 5 beyond that, where there are significant leaps.
+     And the Dojo computer, we expect to be using that operationally at Tesla later this year.
+-----
+2. [Sentence #1863, TSLA_Q4_2022] [PLAN]
+     Elon Musk
+
+Yes.
+     My guess is, if there is -- if the recession is a serious one and I think it probably will be, but I hope it isn't, that would lead to meaningful decreases in almost all of our input costs.
+     So we expect to see deflation in our input costs most likely, which would then lead to, yes, better margin.
+     I'm just guessing here.
+     So, this is -- that would be my guess.
+     Pierre Ferragu
+
+Thank you, so much.
+     So as a quick follow-up, Elon, I was thinking about like FSD, and when you look at like the situation today compared to a year ago, it's -- like the progress has been, like, amazing in the quality of the product, but also its rollout.
+>>> And so, I was wondering, how much is this like impacting the take rate of FSD today?
+     So do you already see that people are getting more excited by FSD, because they see it around them on 400,000 cars and they see the value of the service already, or is that too early to really see like, to expect like an uptick in the take rate?
+     Elon Musk
+
+The trend is very strong towards use of FSD.
+     And as you alluded to, with each incremental improvement, the enthusiasm obviously increases.
+     And -- so, I think something that still a lot of people out there don't quite appreciate is that Tesla -- of course say like, Tesla is as much as a software company as a hardware company, but Tesla is really one of the world's leading AI companies.
+     This is kind of a big deal with AI on the software side and on the hardware side.
+     With the Hardware 3 inference computer, still the most efficient inference computer in the world despite being, at this point, five years old from the design point.
+     And Hardware 4 coming and then Hardware 5 beyond that, where there are significant leaps.
+-----
+3. [Sentence #140, TSLA_Q4_2019] [PILOT]
+     Elon Musk
+
+Well, I mean, to be precise, I said I was hoping would be feature complete with both FSD by the end of last year.
+     We got pretty close, it's looking like we might be feature complete in a few months.
+     The feature complete just means like it has some chance of going from your home to work let's say with no debentures.
+     So, that's -- it does mean the features are working well, but it means it has above zero chance.
+     So I think that's looking like maybe it's going to be couple of months for now.
+     And what isn't obvious regarding Autopilot and full self-driving is just how much work has been going into improving the foundational elements of autonomy.
+     The -- like the core autopilots in Tesla or Autopilot software and AI team is just is I think very, very strong in making great progress.
+>>> And we're really only getting to take full advantage of the Autopilot hardware and the FSD hardware.
+     So, I think it's -- the apparent progress as seen by consumer as well seems to be extremely rapid, but actually what's really going on my head it seems like I said having the foundational software be very strong and with really strong foundation.
+     And then really fundamental thing is moving to video training.
+     So in terms of labeling, labeling with video in all eight cameras simultaneously.
+     This is a really, I mean in terms of labeling efficiency arguably like a three order of magnitude improvement in labeling efficiency.
+     For those who know about this it's extremely fundamental, so that's really great progress on that.
+     Martin Viecha
+
+Thank you.
+     And the last retail investor question comes from Kendall.
+-----
+4. [Sentence #577, TSLA_Q4_2020] [PLAN]
+     So it's really – I think we've got a good strategy.
+     As Zach mentioned, we're focused on reducing the amount of time and the complexity of the install, and we're making great progress in that regard.
+     And I think we'll have something that's really dialed in this year.
+     Martin Viecha
+
+Thank you.
+     The second question is, could current owners get ability to transfer their FSD to their next vehicle?
+     This would be a huge for loyalty and overall increased sales of vehicles who are offering more FSD sales on used vehicles.
+     Elon Musk
+
+Unfortunately, we're not considering that at this time.
+>>> We do actually offer an increased – higher price than for a car with FSD than one without FSD.
+     And I do think that the market currently undervalues – or the consumer market.
+     And arguably the stock market sales probably undervalue the just how good FSD is going to be.
+     But we're not currently planning on offering – on allowing it to get transferred.
+     Martin Viecha
+
+Thank you.
+     Elon Musk
+
+We will be offering subscription pretty soon in the next month or two.
+     So that should address a lot of people's concerns for being able to get it.
+     Martin Viecha
+
+Thank you very much.
+-----
+5. [Sentence #123, TSLA_Q4_2019] [PILOT]
+     A couple of things that we're working on this front, the first is to expand it to other locations and we are preparing the regulatory processes, preparing our processes to go through the regulatory processes in those locations.
+     We're also working on the processes to continue to adjust our rates in California, which also have to go through regulatory processes as insurance is quite heavily regulated.
+     And that's where we're spending our time focusing on Tesla Insurance right now.
+     There is a significant amount of innovation as we've discussed before in this space, exactly getting to the intent of what the question here is using our technology to reduce rates.
+     And this will be rolled in over time.
+     Martin Viecha
+
+The last part of the question was, will there be a discount for using Autopilot with our cars?
+     Elon Musk
+
+Yes, there will be.
+>>> Zachary Kirkhorn
+
+The rate card for California Tesla Insurance already considers the safety features associated with Autopilot.
+     Elon Musk
+
+Right, but I think -- I think it would make sense for us to close the loop on higher use of Autopilot, reduces the insurance costs as well as the probability of injury.
+     So I think insurance is going to be I think quite a major product of Tesla over time.
+     The amount of money that people spend on car insurance is like a remarkably big percentage of the cost of a car, like you can lease a Model 3 right now for $400 a month, but a typical owner in California will be paying somewhere between a $100 and $200 a month in insurance.
+     So we're talking about something which is maybe a quarter or two half of the cost of the lease of the car is insurance.
+     And a lot of that insurance cost is just because the insurance companies don't have good information about the drivers and that there is no good way to provide feedback where it's a very poor feedback mechanism in terms of the insurance rates versus the actual way that the car is being driven, whereas we can do that in real time.
+     It's a fundamental information advantage that insurance companies don't have.
+     Martin Viecha
+
+Thank you.
+-----
+6. [Sentence #575, TSLA_Q4_2020] [PLAN]
+     And actually important part is achieving better integration between the Tesla Powerwall and the Tesla Retrofit Solar and Tesla Roof.
+     And we're confident we'll have excellent integration – excellent integration with the Powerwall and Tesla Solar, whether it's retrofit or but [indiscernible] roof before the end of the year.
+     So it's really – I think we've got a good strategy.
+     As Zach mentioned, we're focused on reducing the amount of time and the complexity of the install, and we're making great progress in that regard.
+     And I think we'll have something that's really dialed in this year.
+     Martin Viecha
+
+Thank you.
+     The second question is, could current owners get ability to transfer their FSD to their next vehicle?
+>>> This would be a huge for loyalty and overall increased sales of vehicles who are offering more FSD sales on used vehicles.
+     Elon Musk
+
+Unfortunately, we're not considering that at this time.
+     We do actually offer an increased – higher price than for a car with FSD than one without FSD.
+     And I do think that the market currently undervalues – or the consumer market.
+     And arguably the stock market sales probably undervalue the just how good FSD is going to be.
+     But we're not currently planning on offering – on allowing it to get transferred.
+     Martin Viecha
+
+Thank you.
+     Elon Musk
+
+We will be offering subscription pretty soon in the next month or two.
+-----
+7. [Sentence #1231, TSLA_Q4_2021] [PLAN]
+     Like if we can't find a use for it, then we shouldn't expect that others would.
+     So, the first use of the Optimus robots would be, at Tesla, like moving parts around the factory or something like that.
+     Martin Viecha
+
+Okay.
+     Thank you very much.
+     And the next question on insurance.
+     When do you plan on having your insurance service rolled out in all the states?
+     International rollout timing?
+>>> In markets that have Tesla insurance, what kind of uptake rates are you seeing?
+     Zachary Kirkhorn
+
+Yes.
+     We currently offer Tesla Insurance in 5 states in the U.S. Four of them are telematics, which is Texas, Illinois, Ohio and Arizona.
+     And then California, which has a more standard insurance offering based upon regulations there.
+     Elon Musk
+
+It should be clear, like we are pushing very hard for California to change the rules to allow informatics, which basically means that you're as safe as you're driving is measured.
+     So, I think the current California rules are contrary to the best interest of the consumers in California and should be changed.
+     Zachary Kirkhorn
+
+Yes.
+     And that's evidenced by what we're seeing in Texas.
+-----
+8. [Sentence #3201, TSLA_Q4_2024] [PILOT]
+     It's going to happen.
+     And you can't stop the advent of electric cars.
+     It's going to happen.
+     The other thing holding back electric cars was range and that is a solved problem.
+     Dan Levy -- Analyst
+
+Great.
+     And then as a follow-up, in the past, Elon, you had made a comment that you'd be willing to sell cars at effectively no margin to get the cars out there.
+     And there's a comment in the release today of the rate of acceleration of the autonomy efforts does impact volume growth.
+>>> So, perhaps you could just talk about with your efforts on FSD, how we should think about your desire to put more vehicles out in the market to take advantage of your tech advances?
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+So, I'm not sure I understand the question.
+     We have a lot of cars.
+     I mean, you've got millions of cars out there.
+     Ashok Elluswamy -- Director, Autopilot Software
+
+So, is there a question, Dan, that how do we marry our future growth aspects with FSD?
+     Travis Axelrod -- Head of Investor Relations
+
+Go ahead, unmute yourself, Dan.
+     Dan Levy -- Analyst
+
+Yes.
+     More so just how much more aggressively you would be willing to sell your cars versus in light of your improvements on FSD?
+-----
+9. [Sentence #1887, TSLA_Q4_2022] [PILOT]
+     Zachary Kirkhorn
+
+Yes
+
+Alex Potter
+
+Okay, great.
+     So a quick one on FSD.
+     This, I guess, for Zach.
+     Obviously, you unlocked some deferred revenue in the quarter that will translate presumably into higher margins on every incremental sale going forward so long as people opt in for FSD.
+     But was wondering if you're able to disclose the percentage of the $15,000 price that you're not going to be able to recognize as revenue upfront rather than deferred?
+     Zachary Kirkhorn
+
+Yes.
+     I mean, the way that we've structured this is a full self-driving package has two components.
+>>> There's enhanced Autopilot, the price of which is listed on the website.
+     We fully recognize that.
+     Then there's an incremental, which is for the additional features of full self-driving offers and we've released a portion of that.
+     And then there's a minority of the total package that's remaining that will be released over time as software updates are there.
+     And in our shareholder letter, in addition to disclosing the dollar amount of the deferred revenue release, we also included in there the dollar value of the balance of unreleased deferred revenue that will be released over time with future software updates.
+     Alex Potter
+
+Okay, great.
+     And then maybe 1 additional question here on the incremental capacity in Nevada, the 4680s that you're planning.
+     That's a lot of batteries obviously, and presumably, you won't be putting all of those in Tesla Semi.
+-----
+10. [Sentence #1417, TSLA_Q4_2021] [UNCERTAIN]
+     That's the super -- and then actually do that, right -- that's tough.
+     Unidentified Company Representative
+
+And the closer you are to applying blood, sweat and tears to actual production, the faster you'll be able to bring new things into actual production.
+     Elon Musk
+
+Yes, exactly.
+     You want to tie it back with production, just like the office we're sitting in right now, looks over the Giga Texas production line, like the offices are integrated into the factory.
+     Martin Viecha
+
+The next question comes from Toni Sacconaghi from Bernstein.
+     Toni Sacconaghi
+
+I have two, please.
+     First, you spoke a lot about FSD and how the economics could be very attractive going forward.
+>>> I'm wondering if you could just share what your current attach rate might be for FSD on your vehicles or how to think about the progress of your attach rate or revenue in FSD, let's say, in '21 versus '20?
+     And how much deferred revenue for FSD was drawn down during the year?
+     And I have a follow-up, please.
+     Thank you.
+     Elon Musk
+
+Yes.
+     I think the FSD stuff, you really don't want to be looking at the rearview mirror.
+     It will not be a good indicator for the future.
+     This is what you need to look out the front windscreen, so -- because it is such a profound step change.
+-----
+11. [Sentence #1306, TSLA_Q4_2021] [UNCERTAIN]
+     As we look over the next a quarter or two, as I mentioned in my opening remarks in the last call as well, we have ramp inefficiencies from the launch of Austin and Berlin.
+     We also have pressures coming from inflation, supply chain, raw materials, et cetera.
+     And so, where that nets out is hard to say in the immediate term.
+     And we obviously, as a company, are going to be driving to increase margins as much as we can.
+     But I just want to be realistic that we're launching two factories simultaneously here and it unavoidably will add cost to the business as we do that.
+     And as we look further out, and Elon mentioned this in his opening remarks as well, the software portion of the business, I think, is the one to really pay attention to.
+     As Full Self-Driving features get rolled out to more and more folks, I mean, for me, personally, I prefer to drive my car with the FSD data on.
+>>> And I think as more and more people experience that, take rates there, and then as we work towards the robotaxi space, there's actually quite a bit of upside on margins from a software perspective.
+     Elon Musk
+
+Yes.
+     I think basically everything pales in comparison to the value of robotaxi or personal driving.
+     I mean, it's just -- I mean, that just tends to warm everything.
+     You just go from having an asset that is -- has a utility of perhaps 12 hours a week per passenger car to maybe around 50 or 60 hours a week to a 5x increase in the utility of the asset.
+     The cost didn't change.
+     Yes.
+     So, that's where just things just we had -- just kind of where’s your mind.
+-----
+12. [Sentence #1043, TSLA_Q4_2021] [PLAN]
+     Although we're not ready to announce any new locations on this call, but we will through 2022, look at new locations and probably be able to announce new locations towards the end of this year, I expect.
+     In 2022, supply chain will continue to be the fundamental limiter of output across all factories.
+     So, the chip shortage, while better than last year, is still an issue.
+     And yes, so that's -- there are multiple supply chain challenges.
+     And last year was difficult to predict and hopefully, this year will be smooth sailing, but I'm not sure what you do for an encore to 2021, 2020.
+     Nonetheless, we do expect significant growth in 2022 over 2021, comfortably above 50% growth in 2022.
+     Full Self-Driving.
+>>> So, over time, we think Full Self-Driving will become the most important source of profitability for Tesla.
+     It's -- actually, if you run the numbers on robotaxis, it's kind of nutty -- it's nutty good from a financial standpoint.
+     And I think we are completely confident at this point that it will be achieved.
+     And my personal guess is that we'll achieve Full Self-Driving this year, yes, with data safety level significantly greater than present.
+     So, it's -- the cars in the fleet essentially becoming self-driving by a software update, I think, might end up being the biggest increase in asset value of any asset class in history.
+     We shall see.
+     It would also have a profound impact on improving safety and on accelerating the world towards sustainable energy through vastly better asset utilization.
+     Let's see.
+-----
+13. [Sentence #3205, TSLA_Q4_2024] [PILOT]
+     Dan Levy -- Analyst
+
+Great.
+     And then as a follow-up, in the past, Elon, you had made a comment that you'd be willing to sell cars at effectively no margin to get the cars out there.
+     And there's a comment in the release today of the rate of acceleration of the autonomy efforts does impact volume growth.
+     So, perhaps you could just talk about with your efforts on FSD, how we should think about your desire to put more vehicles out in the market to take advantage of your tech advances?
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+So, I'm not sure I understand the question.
+     We have a lot of cars.
+     I mean, you've got millions of cars out there.
+>>> Ashok Elluswamy -- Director, Autopilot Software
+
+So, is there a question, Dan, that how do we marry our future growth aspects with FSD?
+     Travis Axelrod -- Head of Investor Relations
+
+Go ahead, unmute yourself, Dan.
+     Dan Levy -- Analyst
+
+Yes.
+     More so just how much more aggressively you would be willing to sell your cars versus in light of your improvements on FSD?
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+Well, right now, the constraint we're trying to solve is battery production as opposed to demand.
+     And now Q1, we've got this massive factory retooling for the new Model Y, for example.
+     That obviously has a short-term impact on output.
+     But the problem we were saying with, in fact, we're talking that the executive team and I were talking about just before this call was we've got to figure out how to increase total gigawatt hours of battery production this year one way or another.
+-----
+14. [Sentence #3208, TSLA_Q4_2024] [PILOT]
+     So, perhaps you could just talk about with your efforts on FSD, how we should think about your desire to put more vehicles out in the market to take advantage of your tech advances?
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+So, I'm not sure I understand the question.
+     We have a lot of cars.
+     I mean, you've got millions of cars out there.
+     Ashok Elluswamy -- Director, Autopilot Software
+
+So, is there a question, Dan, that how do we marry our future growth aspects with FSD?
+     Travis Axelrod -- Head of Investor Relations
+
+Go ahead, unmute yourself, Dan.
+     Dan Levy -- Analyst
+
+Yes.
+>>> More so just how much more aggressively you would be willing to sell your cars versus in light of your improvements on FSD?
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+Well, right now, the constraint we're trying to solve is battery production as opposed to demand.
+     And now Q1, we've got this massive factory retooling for the new Model Y, for example.
+     That obviously has a short-term impact on output.
+     But the problem we were saying with, in fact, we're talking that the executive team and I were talking about just before this call was we've got to figure out how to increase total gigawatt hours of battery production this year one way or another.
+     That's the constraint on our output.
+     Travis Axelrod -- Head of Investor Relations
+
+Great.
+     All right.
+-----
+15. [Sentence #889, TSLA_Q4_2020] [PLAN]
+     Elon Musk
+
+Yes, to be clear, we are still not -- the software still does not fully use the capabilities of the FSD in 1 computer.
+     It is really just incredibly powerful computer and I am personally certain that you can create full self-driving with safe level 5 presence just using the Full Self-Driving version 1 computer.
+     The version 2, we expect to be about 3x as powerful.
+     And this needs to be paired with higher resolution cameras.
+     And so it's quite a -- it requires a bunch of things to change simultaneously.
+     But we have not been rushing the version 2 of the chip.
+     It's coming along well, and it's in good shape.
+>>> But since we can achieve FSD, Full Self-Driving, with the current system, it would actually be a distraction right now if we were to introduce the Full Self-Driving, the Tesla FSD chip 2 because it would set us back quite a bit on software.
+     And software is the critical path to Full Self-Driving.
+     So I wouldn't worry too much about that.
+     That's not a -- that's an improvement but not a game changer.
+     That has to be changed.
+     Getting the software to work and getting all the neural nets to be video, that's the game changer.
+     Operator
+
+Thank you.
+     Our next question will come from Emmanuel Rosner with Deutsche Bank.
+-----
+16. [Sentence #697, TSLA_Q4_2020] [PILOT]
+     So I really do see this as a question of getting work done.
+     We're getting it done.
+     And you can see the results in the rapidly improving FSD betas that are at least -- we're also going to be expanding the FSD beta itself to include more and more people.
+     So from my standpoint, it looks like a very clear and obvious path towards a vehicle that will drive 100% safer than a person.
+     Yes.
+     I really don't see any obstacles here.
+     Martin Viecha
+
+Thank you.
+>>> And the second question from institutionals is, does Tesla plan or expect to license any of its software applications, FSD and auto bidder in particular, to third-party OEMs?
+     Elon Musk
+
+I think we're very open to licensing our software to third parties.
+     And we've had some preliminary discussions about licensing autopilot to other OEMs.
+     So this is something we're more than happy to do.
+     And -- but I think, obviously, like we need to probably do a little bit more work to prove that Tesla Autopilot is capable of full self-driving, which is, I think, will become obvious later this year.
+     And then we're more than happy to license that to other car companies.
+     We're definitely not trying to keep it to be a Tesla exclusive situation.
+     And I think the probably same goes for Autobidder.
+-----
+17. [Sentence #1129, TSLA_Q4_2021] [PLAN]
+     Despite these constraints, it's important to begin the ramp of Austin and Berlin to ensure that we are prepared once limitations ease, enabling us to increase total output more quickly in the future.
+     This will result in higher fixed and semi-variable costs in the near term, in addition to the usual inefficiencies as we ramp a new factory.
+     We are also seeing inflation and rising commodity prices, which we expect to continue to put pressure on our costs.
+     How this specifically impacts gross margins in the near term is uncertain, given a mix of both tailwinds and headwinds.
+     However, we do expect to continue to see stronger operating margins as we grow our volumes and improve operating leverage.
+     Over a longer-term horizon, we are quite optimistic about the expansion of margins, though.
+     From the hardware side, we are aggressively driving manufacturing innovations and operational efficiency to reduce cost.
+>>> And with the rapid development of FSD, software-based profits will ultimately become a strong addition to the profits generated by selling hardware.
+     So congratulations to the Tesla team for a terrific 2021, and thank you to our suppliers who supported us.
+     Looking forward to another great year.
+     Elon Musk
+
+I'd like to just second the thank you to suppliers.
+     A lot of suppliers worked late nights, weekends, vacations around the world, and we're very grateful for that.
+     Question-and-Answer Session
+
+A - Martin Viecha
+
+Thank you very much.
+     Let's go to the Q&A from the investor side.
+     The first question was on 4680 cells, which we already answered.
+-----
+18. [Sentence #1425, TSLA_Q4_2021] [UNCERTAIN]
+     And how much deferred revenue for FSD was drawn down during the year?
+     And I have a follow-up, please.
+     Thank you.
+     Elon Musk
+
+Yes.
+     I think the FSD stuff, you really don't want to be looking at the rearview mirror.
+     It will not be a good indicator for the future.
+     This is what you need to look out the front windscreen, so -- because it is such a profound step change.
+>>> I mean, effectively long term, every car will have FSD.
+     And so, -- and the value of that will be a very big number.
+     I just look at this as asset utilization.
+     You have a passenger car, which normally is driven maybe 1.5 hours a day on average, maybe 10 -- 10 hours, 10, 12 hours a week, a lot of cars are in parking lots.
+     So, we're spending money, not just driving the cars but storing them all over the place.
+     We can get rid of a lot of parking lots if you have a car that is operating all the time.
+     But there will be a challenge with traffic.
+     So, we like this little tiny baby company, The Boring Company, which I initially started as a joke, and now I think it actually could be quite essential to alleviating the insane traffic that will happen when cars are autonomous because you reduce the pain of travel and you reduce the cost of travel so dramatically that there will be a crazy number of cars on the road.
+-----
+19. [Sentence #701, TSLA_Q4_2020] [PILOT]
+     Yes.
+     I really don't see any obstacles here.
+     Martin Viecha
+
+Thank you.
+     And the second question from institutionals is, does Tesla plan or expect to license any of its software applications, FSD and auto bidder in particular, to third-party OEMs?
+     Elon Musk
+
+I think we're very open to licensing our software to third parties.
+     And we've had some preliminary discussions about licensing autopilot to other OEMs.
+     So this is something we're more than happy to do.
+>>> And -- but I think, obviously, like we need to probably do a little bit more work to prove that Tesla Autopilot is capable of full self-driving, which is, I think, will become obvious later this year.
+     And then we're more than happy to license that to other car companies.
+     We're definitely not trying to keep it to be a Tesla exclusive situation.
+     And I think the probably same goes for Autobidder.
+     We haven't thought as much about Autobidder, but the Tesla philosophy is definitely not to create walled gardens.
+     We're going to allow other companies to use our supercharge networks.
+     And yes, using our autonomy software and Autobidder be fine to.
+     Martin Viecha
+
+Thank you.
+-----
+20. [Sentence #719, TSLA_Q4_2020] [PLAN]
+     So I think we're mostly doing something right if we're the best-selling electric car in China.
+     That said, very few of our customers in China, I think maybe as low as 1% or 2%, actually have selected the FSD option.
+     This is much lower than rest of world.
+     So we definitely need to make it work well in China.
+     I think some of it works well in China, then we will have a Grade 4 FSD.
+     I find that the customers in China, Tesla owners in China are among the most discerning in the world.
+     Their attention to detail is incredible.
+>>> So they -- I'm confident that they will buy FSD as soon as it’s working on time.
+     And we hopefully that is later this year.
+     Martin Viecha
+
+Thank you.
+     And the next question is, is it fair to argue that the best way to think about company's long-term earnings power is tied to profit per unit of battery capacity?
+     Three-terawatt hours target from Battery Day implies half of long-term battery capacity goes to storage, depending on what you assume for pack size on Elon's 20 million vehicle unit goal?
+     Elon Musk
+
+Yeah.
+     It is.
+     So the fundamental limit on electric vehicles right now, in general, is total availability of cells.
+-----
+21. [Sentence #1248, TSLA_Q4_2021] [PLAN]
+     Elon Musk
+
+Yes.
+     And we get direct feedback on whether driving is safe.
+     And if they drive safe, their insurance cost is less, so they drive safer.
+     It encourages Tesla Insurance with informatics and real-time feedback encourages safer driving and rewards it monetarily.
+     It's great.
+     Zachary Kirkhorn
+
+Exactly.
+     And so, we see that so far in Texas.
+>>> Take rates have been quite strong.
+     We measure this on the conversion rate from when folks quote to see what their monthly rate would be at the starting point to what percentage of them purchase.
+     So, we're very encouraged by the interest that we're seeing in Texas.
+     And then we have enough history in Texas to see what does the loss ratios look like and how do the economics of the program work.
+     And we're on the right track there as well.
+     So, we're comfortable with what we've seen in Texas to move as quickly as the intent to scale this across the U.S.
+     Specifically on the question about when we will be in all states, this is a slow process because of insurance being regulated at the state level.
+     And so we have to go through each of those processes with each of the departments of insurance in each state.
+-----
+22. [Sentence #509, TSLA_Q4_2020] [PLAN]
+     And I think there is a way, just with back of the envelop math, to potentially justify it, where -- if Tesla's ships, let's say, hypothetically, $50 billion or $60 billion worth of vehicles, and those vehicles become Full Self-Driving and can be used in robotaxis -- used as robotaxis, the utility increases from an average of 12 hours a week to potentially an average of 60 hours a week, if they're capable of serving as robotaxi.
+     So that's like roughly a 5x increase in utility.
+     But let's -- even if you say like, okay, let's just assume that the car becomes twice as useful as -- not 5x as useful, but merely twice as useful, that would be a doubling again of the revenue of the company, which is almost entirely gross margin.
+     So it would mean, it would be like if you made $50 million -- $50 billion worth of cars, it will be like having $50 billion of incremental profit basically from that because it's just software.
+     So -- [indiscernible] on that, it's like $1 trillion and the company is still in high-growth mode.
+     So I think there is a way to sort of like justify the valuation of the company where it is using just the cars and nothing else, the cars with FSD.
+     And I suspect at least some number of investors are taking that approach.
+>>> So in conclusion, while 2020 was a turning point for Tesla and in terms of profitability, we believe this is just the beginning.
+     We think 2021 is going to be even more exciting.
+     And you don't know what to expect in a given year.
+     Obviously, last year, we did not 0 many things we do not expect.
+     But assuming that '21 is a relatively normal year from an external standpoint I think it's going to be a great year for Tesla.
+     We've got a ton of -- many great new products coming out.
+     We've got factories that are -- advanced factories [indiscernible] set up production.
+     It will also make it easier having a factory in Berlin, one, in Texas second, just from a logistics standpoint.
+-----
+23. [Sentence #579, TSLA_Q4_2020] [PLAN]
+     And I think we'll have something that's really dialed in this year.
+     Martin Viecha
+
+Thank you.
+     The second question is, could current owners get ability to transfer their FSD to their next vehicle?
+     This would be a huge for loyalty and overall increased sales of vehicles who are offering more FSD sales on used vehicles.
+     Elon Musk
+
+Unfortunately, we're not considering that at this time.
+     We do actually offer an increased – higher price than for a car with FSD than one without FSD.
+     And I do think that the market currently undervalues – or the consumer market.
+>>> And arguably the stock market sales probably undervalue the just how good FSD is going to be.
+     But we're not currently planning on offering – on allowing it to get transferred.
+     Martin Viecha
+
+Thank you.
+     Elon Musk
+
+We will be offering subscription pretty soon in the next month or two.
+     So that should address a lot of people's concerns for being able to get it.
+     Martin Viecha
+
+Thank you very much.
+     And the third question is, can you give us a progress update on dry coating of the battery electrode?
+     At the Battery Day, Elon said, 'I would not say this is completely in the bag as – yet as the yields were low.'
+-----
+24. [Sentence #1865, TSLA_Q4_2022] [PLAN]
+     So we expect to see deflation in our input costs most likely, which would then lead to, yes, better margin.
+     I'm just guessing here.
+     So, this is -- that would be my guess.
+     Pierre Ferragu
+
+Thank you, so much.
+     So as a quick follow-up, Elon, I was thinking about like FSD, and when you look at like the situation today compared to a year ago, it's -- like the progress has been, like, amazing in the quality of the product, but also its rollout.
+     And so, I was wondering, how much is this like impacting the take rate of FSD today?
+     So do you already see that people are getting more excited by FSD, because they see it around them on 400,000 cars and they see the value of the service already, or is that too early to really see like, to expect like an uptick in the take rate?
+>>> Elon Musk
+
+The trend is very strong towards use of FSD.
+     And as you alluded to, with each incremental improvement, the enthusiasm obviously increases.
+     And -- so, I think something that still a lot of people out there don't quite appreciate is that Tesla -- of course say like, Tesla is as much as a software company as a hardware company, but Tesla is really one of the world's leading AI companies.
+     This is kind of a big deal with AI on the software side and on the hardware side.
+     With the Hardware 3 inference computer, still the most efficient inference computer in the world despite being, at this point, five years old from the design point.
+     And Hardware 4 coming and then Hardware 5 beyond that, where there are significant leaps.
+     And the Dojo computer, we expect to be using that operationally at Tesla later this year.
+     And we're seeing just a lot of world-class AI talent join the company.
+-----
+25. [Sentence #2799, TSLA_Q4_2024] [PLAN]
+     As Elon mentioned, in Q4, we set records of vehicle deliveries and energy storage deployments in an uncertain macro environment.
+     We were able to grow auto and energy storage volumes, both sequentially and on a year-on-year basis.
+     For this, I would like to thank the efforts of everyone at Tesla to make this a reality, and our customers who helped us achieve this.
+     Coming into the fourth quarter, our focus was to reduce inventory levels in the automotive business, and we accomplished that by ending the quarter with the lowest finished good inventory in the last two years.
+     This was a result of offering not only attractive financing options but also other discounts and programs, which impacted ASPs.
+     While we saw volume growth in almost all regions that we operate in, we hit a new record for deliveries in the Greater China market.
+     This is an encouraging trend since we grew volume in a highly competitive BEV market.
+>>> On the automotive margin front, we saw a quarter-over-quarter decline primarily due to lower ASPs than due to the recognition of FSD-related revenue in Q3 from feature releases.
+     Our journey on cost reduction continues, and we were able to get our overall cost per car down below $35,000, driven primarily by material costs.
+     This was despite increased depreciation and other costs as we prepare for the transition to the new Model Y, for which we recently started taking orders in all markets.
+     All our factories will start producing the new Model Y next month.
+     While we feel confident in our team's abilities to ramp production quickly, note that it is an unprecedented change, and we are not aware of anybody else taking the best-selling car on the planet and updating all factories at the same time.
+     This changeover will result in several weeks of lost production in the quarter.
+     As a result, margins will be impacted due to idle capacity and other ramp-related costs, as is common in any launch but will be overcome as production is ramped.
+     We will be introducing several new products throughout 2025.
+-----
+26. [Sentence #2135, TSLA_Q4_2023] [PLAN]
+     This concept is mostly overlooked for just the upfront cost.
+     We will be rigorous in evaluating our campaigns, curating the content, and optimizing spend accordingly to support the overall demand.
+     There are two additional things I would like to mention as it relates to the US market.
+     First, for customers who qualify for the IRA buyer credit, we now offer that as a point-of-sale benefit for Model Y, which means an immediate reduction of $7,500 at the time of purchase to the end customer.
+     Secondly, we continue to offer very attractive lease rates for Model 3 and Y using our Partner Leasing Program.
+     Note that the sales under this program are recognized as upfront revenue and reported within automotive sales.
+     Our energy storage business had another record year with deployments more than doubling and revenues increasing by more than 50%.
+>>> This business is poised to again surpass our auto business in terms of growth rate in 2024.
+     This has been in the works for quite some time with us laying the foundation a few years back by building our Megafactory in Lathrop.
+     I would like to thank the whole Tesla Energy team for their efforts to make this a reality.
+     Our services and others business also started contributing meaningfully to our results and our fleets -- as our fleet grows.
+     As we expected the fleet-based revenues from supercharging, used cars, and services continue to increase.
+     For 2024, our focus is to continue growing our output, continuing our cost reduction efforts, and increasing investments in our future growth initiatives.
+     Accordingly, we are currently expecting our capital expenditure for 2024 to be in excess of $10 billion.
+     We believe this would be critical in helping us lay the foundation for the next phase of growth.
+-----
+27. [Sentence #139, TSLA_Q4_2019] [PILOT]
+     Can you please provide an update on when will we see this with end users, where are you in retrofitting the FSD computer to older models?
+     Elon Musk
+
+Well, I mean, to be precise, I said I was hoping would be feature complete with both FSD by the end of last year.
+     We got pretty close, it's looking like we might be feature complete in a few months.
+     The feature complete just means like it has some chance of going from your home to work let's say with no debentures.
+     So, that's -- it does mean the features are working well, but it means it has above zero chance.
+     So I think that's looking like maybe it's going to be couple of months for now.
+     And what isn't obvious regarding Autopilot and full self-driving is just how much work has been going into improving the foundational elements of autonomy.
+>>> The -- like the core autopilots in Tesla or Autopilot software and AI team is just is I think very, very strong in making great progress.
+     And we're really only getting to take full advantage of the Autopilot hardware and the FSD hardware.
+     So, I think it's -- the apparent progress as seen by consumer as well seems to be extremely rapid, but actually what's really going on my head it seems like I said having the foundational software be very strong and with really strong foundation.
+     And then really fundamental thing is moving to video training.
+     So in terms of labeling, labeling with video in all eight cameras simultaneously.
+     This is a really, I mean in terms of labeling efficiency arguably like a three order of magnitude improvement in labeling efficiency.
+     For those who know about this it's extremely fundamental, so that's really great progress on that.
+     Martin Viecha
+
+Thank you.
+-----
+28. [Sentence #493, TSLA_Q4_2020] [PLAN]
+     But it's really better in many ways.
+     We will be actually raising the price of Model S for these new models, so people -- because the old model -- the new model will be $10,000 more.
+     So, hopefully, people aren't too upset if they bought the old model last month, but this one is 10k more.
+     Yes, we think it’s probably the best car of any kind at any price available in the world today.
+     Then with regard to Full Self-Driving, we've made massive progress on Full Self-Driving.
+     I recommend watching the videos of our public beta.
+     So we've got, I think, almost 1,000 people in the beta at this point.
+>>> And with each successful release of the beta – of the FSD software, just -- it's really improving rapidly.
+     It's not very common for -- I drive the [indiscernible].
+     It's very common for me to have no interventions on drives that I do, including drives to a place that I've never been to.
+     So these are not preplanned routes.
+     There are -- the car has never been there before.
+     And it's now actually more -- it's more common than not for the car to have no interventions, even on a complex drive.
+     So -- and this is -- basically, I'm highly confident the car will drive itself for the reliability [indiscernible] of a human this year.
+     This is a very big deal.
+-----
+
+Total context windows: 28

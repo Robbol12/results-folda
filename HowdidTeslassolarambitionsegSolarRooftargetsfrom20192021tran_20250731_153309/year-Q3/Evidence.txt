@@ -1,0 +1,31 @@
+[Year Q3] How did Tesla’s solar ambitions (e.g., Solar Roof targets from 2019–2021) translate into actual deployments through 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #153]  (TSLA_Q3_2020) **Solar** **Roof** is especially exciting as we've gained significant experience over the last year in the installation process, which is a key enabler to scale the business.
+2. [Sentence #154]  (TSLA_Q3_2020) We've recently demonstrated our ability to complete **Solar** **Roof** installation in just one day.
+3. [Sentence #155]  (TSLA_Q3_2020) We're pleased now, this still requires one to two days to remove the existing **roof** and prepare it for the **Solar** **Roof** installation.
+4. [Sentence #188]  (TSLA_Q3_2020) I'm Carl, I'm on the **Solar** **Roof** engineering and installation.
+5. [Sentence #189]  (TSLA_Q3_2020) The biggest constraint right now in **Solar** **Roof** ramp is getting enough installers on board and trained and experienced.
+6. [Sentence #193]  (TSLA_Q3_2020) Also, we've had great response from third-party roofing contractors as they're ramping up installations for **Solar** **Roof** on their customer homes, which is a big source of future growth.
+7. [Sentence #200]  (TSLA_Q3_2020) And I think a future where we've got beautiful roofs with generating energy that are tough and resilient and better in every way than a regular **roof** and a lab with energy.
+8. [Sentence #202]  (TSLA_Q3_2020) The **Solar** **Roof** is a killer product.
+9. [Sentence #1314]  (TSLA_Q3_2022) Until such time, it’s difficult to fully determine the eligibility criteria, but we believe Tesla is very well positioned to capture a significant share of that for **solar** storage and also electric vehicles.
+10. [Sentence #1880]  (TSLA_Q3_2023) Current sell side consensus assumes that Tesla will deliver 2.3 million vehicles in 2024, representing 28% growth versus 2023 guidance.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #193]  (TSLA_Q3_2020) (Similarity: 0.772) Also, we've had great response from third-party roofing contractors as they're ramping up installations for **Solar** **Roof** on their customer homes, which is a big source of future growth.
+2. [Sentence #153]  (TSLA_Q3_2020) (Similarity: 0.758) **Solar** **Roof** is especially exciting as we've gained significant experience over the last year in the installation process, which is a key enabler to scale the business.
+3. [Sentence #154]  (TSLA_Q3_2020) (Similarity: 0.747) We've recently demonstrated our ability to complete **Solar** **Roof** installation in just one day.
+4. [Sentence #188]  (TSLA_Q3_2020) (Similarity: 0.720) I'm Carl, I'm on the **Solar** **Roof** engineering and installation.
+5. [Sentence #1314]  (TSLA_Q3_2022) (Similarity: 0.714) Until such time, it’s difficult to fully determine the eligibility criteria, but we believe Tesla is very well positioned to capture a significant share of that for **solar** storage and also electric vehicles.
+6. [Sentence #202]  (TSLA_Q3_2020) (Similarity: 0.689) The **Solar** **Roof** is a killer product.
+7. [Sentence #189]  (TSLA_Q3_2020) (Similarity: 0.684) The biggest constraint right now in **Solar** **Roof** ramp is getting enough installers on board and trained and experienced.
+8. [Sentence #155]  (TSLA_Q3_2020) (Similarity: 0.674) We're pleased now, this still requires one to two days to remove the existing **roof** and prepare it for the **Solar** **Roof** installation.
+9. [Sentence #200]  (TSLA_Q3_2020) (Similarity: 0.643) And I think a future where we've got beautiful roofs with generating energy that are tough and resilient and better in every way than a regular **roof** and a lab with energy.
+10. [Sentence #1880]  (TSLA_Q3_2023) (Similarity: 0.613) Current sell side consensus assumes that Tesla will deliver 2.3 million vehicles in 2024, representing 28% growth versus 2023 guidance.
+
+Total similarity-top evidence sentences: 10
+
+-----

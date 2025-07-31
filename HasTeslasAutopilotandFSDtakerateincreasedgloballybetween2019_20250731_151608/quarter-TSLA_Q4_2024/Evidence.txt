@@ -1,0 +1,23 @@
+[TSLA_Q4_2024] Has Tesla’s Autopilot and FSD take rate increased globally between 2019 and 2024, and did they achieve profitability from FSD as predicted?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #174]  On the automotive margin front, we saw a quarter-over-quarter decline primarily due to lower ASPs than due to the recognition of **FSD**-related revenue in Q3 from feature releases.
+2. [Sentence #576]  So, perhaps you could just talk about with your efforts on **FSD**, how we should think about your desire to put more vehicles out in the market to **take** advantage of your tech advances?
+3. [Sentence #580]  Ashok Elluswamy -- Director, **Autopilot** Software
+
+So, is there a question, Dan, that how do we marry our future growth aspects with **FSD**?
+4. [Sentence #583]  More so just how much more aggressively you would be willing to sell your cars versus in light of your improvements on **FSD**?
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #576]  (Similarity: 0.703) So, perhaps you could just talk about with your efforts on **FSD**, how we should think about your desire to put more vehicles out in the market to **take** advantage of your tech advances?
+2. [Sentence #580]  (Similarity: 0.682) Ashok Elluswamy -- Director, **Autopilot** Software
+
+So, is there a question, Dan, that how do we marry our future growth aspects with **FSD**?
+3. [Sentence #583]  (Similarity: 0.680) More so just how much more aggressively you would be willing to sell your cars versus in light of your improvements on **FSD**?
+4. [Sentence #174]  (Similarity: 0.620) On the automotive margin front, we saw a quarter-over-quarter decline primarily due to lower ASPs than due to the recognition of **FSD**-related revenue in Q3 from feature releases.
+
+Total similarity-top evidence sentences: 4
+
+-----

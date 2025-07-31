@@ -1,0 +1,19 @@
+[TSLA_Q2_2020] How did Tesla’s solar ambitions (e.g., Solar Roof targets from 2019–2021) translate into actual deployments through 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #50]  So Tesla **Solar** is the lowest cost **solar** in the United States.
+2. [Sentence #52]  So we're very confident that people will have our **solar** product, whether it's the **Solar** Retrofit or **Solar** **Roof**.
+3. [Sentence #54]  After the Federal Tax Credit, Tesla **Solar** now costs $1.49 per watt.
+4. [Sentence #56]  So definitely, think about Tesla, whether you want a new **roof** or Tesla **Solar** **Roof** or you want **Solar** on your existing **roof** either way, we're the company to go to.
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #56]  (Similarity: 0.873) So definitely, think about Tesla, whether you want a new **roof** or Tesla **Solar** **Roof** or you want **Solar** on your existing **roof** either way, we're the company to go to.
+2. [Sentence #52]  (Similarity: 0.845) So we're very confident that people will have our **solar** product, whether it's the **Solar** Retrofit or **Solar** **Roof**.
+3. [Sentence #50]  (Similarity: 0.652) So Tesla **Solar** is the lowest cost **solar** in the United States.
+4. [Sentence #54]  (Similarity: 0.605) After the Federal Tax Credit, Tesla **Solar** now costs $1.49 per watt.
+
+Total similarity-top evidence sentences: 4
+
+-----

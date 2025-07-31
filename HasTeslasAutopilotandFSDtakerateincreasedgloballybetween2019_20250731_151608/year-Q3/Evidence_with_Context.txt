@@ -1,0 +1,485 @@
+[Year Q3] Has Tesla’s Autopilot and FSD take rate increased globally between 2019 and 2024, and did they achieve profitability from FSD as predicted?
+
+1. [Sentence #851, TSLA_Q3_2021] [PLAN]
+     And maybe last question from shareholders is, how does FSD take rate -- how has FSD take rate change since the introduction of monthly subscription?
+     Are there any plans to increase the FSD pricing as why the release becomes imminent?
+     Zachary Kirkhorn
+
+I'll take the second part of the question first, we won't be providing any forward-looking commentary on our pricing strategy or what may happen here over the near term.
+     With respect to the first part of the question, it has been an interesting thing for us to impact within the Company.
+     What I'll say, just as a general statement before I make a couple of specific comments, is that the things that we learned on FSD subscription today are not necessarily all that relevant.
+     This is really more of a platform for when FSD Beta goes into wide release, and the features and functionality become more accessible to more customers.
+     The second thing that I'll note is that if you look at the pricing, the monthly pricing of FSD subscription, and then you compare that to the cost of rolling FSD option into your lease or you loan, on a monthly basis to note the economical way for a customer to enjoy the features of full self-driving is through purchasing it upfront and enrolling into their financing.
+>>> And as a result of that, what we've seen in the data is not -- we're unable to detect a change in the upfront take rate of FSD when people when people purchase cars.
+     We have seen quite a bit of activity of folks carry us to experience what the software has to offer and subscribing to it and enjoying it to that route.
+     But again, as I said at the beginning, I think what we've seen so far on FSD subscription is not terribly relevant.
+     We'll see how that plays out in the future as we continue to release more features.
+     Martin Viecha
+
+Thank you very much.
+     And now let's go to analyst questions.
+     [Operator Instructions].
+     The next question comes from Q - Pierre Ferragu from New Street Research.
+-----
+2. [Sentence #2315, TSLA_Q3_2024] [PILOT]
+     A vast majority of humanity has no idea that Tesla could drive themselves so especially for something like a Model 3 or Model Y, it looks like a normal car.
+     So, you don't expect a normal car to be able to be intelligent enough to drive itself.
+     A Cybercab looks different.
+     A Cybertruck looks different, but Model Y and Model 3 are -- look, they're good-looking cars but look fairly normal.
+     You don't expect a fairly normal-looking car to have the intelligence, enough AI to be able to drive itself, but it does.
+     So, we do want to expose that to more people, and so we're doing -- every time we have a significant improvement in the software, we'll roll out another sort of 30-day trial to encourage people to try it again.
+     And we are seeing a significant improvement in adoption.
+>>> So, the take rate for FSD has improved substantially, especially after the 10/10 event.
+     Yes.
+     So, there's no need to wait for robotaxi or Cybercab to experience full autonomy.
+     We expect to achieve that next year with the -- with our existing vehicle line.
+     Ashok Elluswamy -- Director, Autopilot Software
+
+I wanted to actually spot someone gives a small taste of what it's going to look like, the car able to drive itself to the user within private parking lots.
+     Currently, it's speed-limited, but then it's going to quickly be increased.
+     We already had more than 1 billion usage in terms of Smart Summon.
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+Ye.
+-----
+3. [Sentence #844, TSLA_Q3_2021] [PLAN]
+     Thank you very much.
+     The next question is, is Tesla considering any other ideas other than FSD with the real-world AI that can bring additional software revenue to Tesla?
+     If not, can Tesla consider building interesting games around FSD Beta?
+     Lars Moravy
+
+Sure.
+     At AI Day we did talk about potential future where Dojo could be used as a neural net training platform for other companies.
+     It's not a focus of ours today as we are fully subscribed on Dojo with our internal uses, we do expect to continue to improve the in-car experience in the context of FSD
+
+Martin Viecha
+
+Great.
+     Thank you.
+>>> And maybe last question from shareholders is, how does FSD take rate -- how has FSD take rate change since the introduction of monthly subscription?
+     Are there any plans to increase the FSD pricing as why the release becomes imminent?
+     Zachary Kirkhorn
+
+I'll take the second part of the question first, we won't be providing any forward-looking commentary on our pricing strategy or what may happen here over the near term.
+     With respect to the first part of the question, it has been an interesting thing for us to impact within the Company.
+     What I'll say, just as a general statement before I make a couple of specific comments, is that the things that we learned on FSD subscription today are not necessarily all that relevant.
+     This is really more of a platform for when FSD Beta goes into wide release, and the features and functionality become more accessible to more customers.
+     The second thing that I'll note is that if you look at the pricing, the monthly pricing of FSD subscription, and then you compare that to the cost of rolling FSD option into your lease or you loan, on a monthly basis to note the economical way for a customer to enjoy the features of full self-driving is through purchasing it upfront and enrolling into their financing.
+     And as a result of that, what we've seen in the data is not -- we're unable to detect a change in the upfront take rate of FSD when people when people purchase cars.
+-----
+4. [Sentence #963, TSLA_Q3_2021] [PLAN]
+     I do want to thank the Texas insurance regulators here, you've been great to work with.
+     We have a road map of additional states.
+     We will launch the product in those states as we receive regulatory approvals.
+     And our goal is to be in every major market in which we have cars in.
+     The -- we did a soft launch in Texas, was its last week?
+     Pierre Ferragu
+
+Uh-huh.
+     Zachary Kirkhorn
+
+Yeah.
+>>> And what we're seeing in initial take rate data is that, if you compare that to what we're seeing in California, we're off to a good start here.
+     So, we're very excited about it.
+     We're excited about individual risk-based pricing.
+     We're excited about the ability for folks to become safer and as a result, save money.
+     And it feeds into our priority of a Company of building the safest products in the world.
+     Lars Moravy
+
+Yeah.
+     If I can add to that, it's really exciting for the engineering team, for the finance team in taking on safety into their world to explore basis.
+     Thanks for that, guys.
+-----
+5. [Sentence #1012, TSLA_Q3_2021] [PLAN]
+     And we have been adjusting pricing in line with those changes in cost.
+     And so, we'll see how that unfolds over the course of the next year.
+     So, it's difficult on gross margin to say where that will go for those reasons.
+     With respect to operating margin, we've been very focused as a Company on managing our overhead expenses and operating expenses.
+     And operating expenses as a percentage of revenue has been declining and I expect that trend to continue to happen.
+     And I think the net of all of this is hopefully that we continue to make progress on operating margin over the next 4 of 5 quarters.
+     As we think forward, the business up until this point is kind of largely been a hardware automotive business with a little bit of software on top of that.
+>>> As full self-driving matures, as take rates increase, if we are to raise pricing on that, there's considerable upside both on gross margins and operating margin as that comes to light, as the business starts to become more of a mix of a hardware-based Company and a software-based Company.
+     So, we feel optimistic about the journey -- very optimistic about the journey as we look over into the long term, just a little bit difficult over the next 4 to 5 quarters.
+     And we'll continue to update on earnings calls as we learn more information.
+     There's just a lot of uncertainty in the world right now.
+     Martin Viecha
+
+Thank you, Joe, do you have a follow-up question?
+     Joseph Spak
+
+Yes, the question is just -- you mentioned LSP acts globally for standard range models.
+     My understanding is that all comes from China.
+     Is that the continued go-forward plan or do you want to have LSP capabilities in other factories around the world?
+-----
+6. [Sentence #1760, TSLA_Q3_2023] [PILOT]
+     Yes.
+     It depends on how well we execute in that architecture.
+     Martin Viecha
+
+Thank you very much.
+     I think, unfortunately, it’s all the time that we have today.
+     So, thank you so much for your great questions, and look forward to talking to you in about three months from now.
+     Thank you, and have a good day.
+     --- TSLA_Q3_2023 ---
+Elon Musk
+
+[Call Starts Abruptly]…of new factories and we believe there’s still meaningful room for improvement there.
+>>> Regarding Autopilot and AI, our vehicles are now driven over 0.5 billion miles with FSD beta, full self-driving beta, and that number is growing rapidly.
+     We recently completed a 10,000 GPU cluster of H100s.
+     We think probably bring it into operation faster than anyone’s ever brought that much compute per unit time into production, since training is the fundamental limiting factor on progress with full self-driving and vehicle autonomy.
+     We’re also seeing significant promise with FSD version 12.
+     This is the end-to-end AI where it’s photon count in, controls out.
+     Really you can think of it as there’s just a large bitstream coming in and a tiny bitstream going out, compressing reality into a very small set of outputs, which is actually kind of how humans work.
+     The vast majority of human data input is optics from our eyes.
+     And so, we are like the car, photons in, controls out with neural nets, just neural nets in the middle.
+-----
+7. [Sentence #872, TSLA_Q3_2021] [UNCERTAIN]
+     Can you click unmute?
+     Okay.
+     While the team is working on that, let's just go back to say the questions.
+     The next set of upcoming question is, Can Tesla allow for FSD to be transferred to another vehicle at a fee, something less than 10-K?
+     Early adopters are paying the price if they want to upgrade their vehicle.
+     You lose the value on the trade-in, and now you have to buy in at a higher cost.
+     Zachary Kirkhorn
+
+I don't think that this is widely known but we already actually doing the sentiment of what this question is asking.
+>>> If you trade in your Tesla to Tesla, we -- there's a difference in price that we pay for a trade-in that has FSD compared to one that doesn't.
+     And so, there's -- there's that premium that we pay to repurchase the FSD.
+     That money can then be applied towards the purchase of the new car.
+     So, I just -- we hear this feedback quite a bit, we see it on social media, we see it in the forums, etc.
+     And so, this already does exist.
+     And not directly in the form here.
+     And we don't call it out explicitly in the trade-in, potentially that we have increased the price of your trade-in as a result.
+     And hopefully, this clears this out because we do actually do that.
+-----
+8. [Sentence #2005, TSLA_Q3_2023] [UNCERTAIN]
+     Let’s go to Pierre Ferragu from New Street Research.
+     Pierre Ferragu
+
+I have first like a follow-up question on FSD and pricing and adoption.
+     So, I agree with you that as FSD improves, we should see its value increasing.
+     But I guess, like the ultimate values of FSD, which is to be able to handle like a robotaxi is not going to necessarily interest everybody, and you have a bit of a degraded version that would be like a chauffeur service where the car drives by itself, but you still have to be in the car and around.
+     And then there is like the hands-on -- eyes-on version of the service.
+     And I guess, there should be like much lower cost, lower feature kind of variance of the service that could have a very large penetration on your installed base and more expensive one that would remain at a lower penetration level.
+     So, I’m just wondering if you’re taking that -- and last but not least, like the simplest version of FSD available and are going to work from a technical perspective, probably before like the ultimate robotaxi version can work if ever.
+>>> And so I’m wondering how you take that into account and how you’re thinking like the financial contribution of FSD over time and whether you could evolve your pricing along that kind of tiers to increase adoption.
+     Elon Musk
+
+Yes.
+     A fully autonomous vehicle, I think, Pierre, your -- sort of the economics of autonomous vehicle are truly astounding in a positive way.
+     When you look at passenger vehicles today, they only get about 10 to 12 hours of usage per week.
+     That’s -- if you drive 1.5-hour a day on average, that’s roughly 10 hours a week out of 168 hours.
+     And then there’s also you’re going to have parking and insurance.
+     You got to take care of the car.
+     It’s like there’s a lot of overhead.
+-----
+9. [Sentence #838, TSLA_Q3_2021] [PLAN]
+     Super charging team has done a great job rolling this out.
+     But it requires a combination of the 250-kilowatt charging in our latest iteration battery packs.
+     Andrew Baglino
+
+And we've also maintained an ongoing roadmap on software improvements, dynamic routing to avoid busy superchargers; that's actually really helpful.
+     We take the real-time busyness of the stations into account when choosing where to navigate people on their road trip.
+     And beyond that, we're also continuing to improve the Trip Planner itself and how it estimates how much energy people use so it's not too conservative and ask them to be able to charge more than they need to, which is another thing that can delay a total trip.
+     Martin Viecha
+
+Great.
+     Thank you very much.
+>>> The next question is, is Tesla considering any other ideas other than FSD with the real-world AI that can bring additional software revenue to Tesla?
+     If not, can Tesla consider building interesting games around FSD Beta?
+     Lars Moravy
+
+Sure.
+     At AI Day we did talk about potential future where Dojo could be used as a neural net training platform for other companies.
+     It's not a focus of ours today as we are fully subscribed on Dojo with our internal uses, we do expect to continue to improve the in-car experience in the context of FSD
+
+Martin Viecha
+
+Great.
+     Thank you.
+     And maybe last question from shareholders is, how does FSD take rate -- how has FSD take rate change since the introduction of monthly subscription?
+     Are there any plans to increase the FSD pricing as why the release becomes imminent?
+-----
+10. [Sentence #2295, TSLA_Q3_2024] [PILOT]
+     And the release of actually Smart -- we try to have a sense of humor here.
+     And we're also -- so that's 12.5.
+     Version 13 of FSD is going out soon.
+     will elaborate more on that later in the call.
+     We expect to see roughly a five- or sixfold improvement in miles between interventions compared to 12.5.
+     And actually, looking at the year as whole, the improvement in miles interventions, we think will be at least three orders of magnitude.
+     So, that's a very dramatic improvement in the course of the year, and we expect that trend to continue next year.
+>>> So, the current total expectation, internal expectation for the Tesla FSD having longer miles between versions than human is the second quarter of next year, which means it may end up being in the third quarter, but it's next -- it seems extremely likely to be next year.
+     Ashok, do you want to say anything?
+     Ashok Elluswamy -- Director, Autopilot Software
+
+Yeah.
+     Miles between critical interventions, like you mentioned, Elon, we already made 100x improvement with 12.5 from starting of this year and then with v13 release.
+     We expect to be 1,000x from the beginning, from January of this year on production software.
+     And this came in because of technology improvements going to end to end, having higher frame rate, partly also helped by Hardware force, more capabilities, so on.
+     And we hope that we continue to scale the neural network, the data, the training compute, etc.
+     By Q2 next year, we should cross over the average, even in miles per critical intervention collision, in that case.
+-----
+11. [Sentence #1913, TSLA_Q3_2023] [PILOT]
+     We do not create some variance of the terminator outcome.
+     So, we’re going to put a lot of effort into localized control of the humanoid robot.
+     So basically, anyone will be able to shut it off locally, and you can’t change that, even if you put -- like a software update, you can’t change that.
+     It has to be hard-coded.
+     Martin Viecha
+
+Thank you.
+     The next question is, why was the price dropped on FSD if it is getting better and robotaxi is expected so soon?
+     Elon Musk
+
+Well, we just wanted to make it more affordable as more people try it.
+>>> Yes, I think, over time, the price of FSD will increase proportionate to its value.
+     So we regard the current price as a kind of a temporary low.
+     Martin Viecha
+
+The next question is again on FSD.
+     Mercedes is accepting legal liability for when its Level 3 autonomous driving system drive pilot is active.
+     Is Tesla planning to accept legal liability for FSD?
+     And if so, when?
+     Elon Musk
+
+Well, there’s a lot of people that assume we have legal liability judging by the lawsuits.
+     We’re certainly not being let that off the hook on that front, whether we’d like to or wouldn’t like to do.
+-----
+12. [Sentence #1333, TSLA_Q3_2022] [PLAN]
+     So, whether we like it or not, we actually have to smooth out the delivery of cars intra-quarter because there aren’t just enough transportation objects to move them around.
+     Martin Viecha
+
+Thank you.
+     The next question is, do you still expect 50% annualized growth for the foreseeable future?
+     Is this also true specifically for the Chinese domestic market?
+     Do you expect to need to cut vehicle prices or offer incentives in any market to sustain a demand, or has demand remained stable, or is it even rising?
+     There are three questions there.
+     Elon Musk
+
+Well, like I said, we want to sort of focus on a high level on what we think is possible here.
+>>> We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue production at a 50% or greater compound annual growth rate.
+     It might occasionally be a year that is a little less, and then some years would be maybe a little more or a lot more.
+     In some of our out-year planning, we see potential annual growth rates that are in excess of 50%.
+     Martin Viecha
+
+Thank you.
+     The next question is, “Can you tell us more about the product future road map beyond new models and FSD, and especially for interior and powertrain of existing vehicle models?
+     Elon Musk
+
+Yes.
+     We could, but who wants?
+     Sorry, guys, we can’t like jumping on, on future product announcement.
+-----
+13. [Sentence #845, TSLA_Q3_2021] [PLAN]
+     The next question is, is Tesla considering any other ideas other than FSD with the real-world AI that can bring additional software revenue to Tesla?
+     If not, can Tesla consider building interesting games around FSD Beta?
+     Lars Moravy
+
+Sure.
+     At AI Day we did talk about potential future where Dojo could be used as a neural net training platform for other companies.
+     It's not a focus of ours today as we are fully subscribed on Dojo with our internal uses, we do expect to continue to improve the in-car experience in the context of FSD
+
+Martin Viecha
+
+Great.
+     Thank you.
+     And maybe last question from shareholders is, how does FSD take rate -- how has FSD take rate change since the introduction of monthly subscription?
+>>> Are there any plans to increase the FSD pricing as why the release becomes imminent?
+     Zachary Kirkhorn
+
+I'll take the second part of the question first, we won't be providing any forward-looking commentary on our pricing strategy or what may happen here over the near term.
+     With respect to the first part of the question, it has been an interesting thing for us to impact within the Company.
+     What I'll say, just as a general statement before I make a couple of specific comments, is that the things that we learned on FSD subscription today are not necessarily all that relevant.
+     This is really more of a platform for when FSD Beta goes into wide release, and the features and functionality become more accessible to more customers.
+     The second thing that I'll note is that if you look at the pricing, the monthly pricing of FSD subscription, and then you compare that to the cost of rolling FSD option into your lease or you loan, on a monthly basis to note the economical way for a customer to enjoy the features of full self-driving is through purchasing it upfront and enrolling into their financing.
+     And as a result of that, what we've seen in the data is not -- we're unable to detect a change in the upfront take rate of FSD when people when people purchase cars.
+     We have seen quite a bit of activity of folks carry us to experience what the software has to offer and subscribing to it and enjoying it to that route.
+-----
+14. [Sentence #1917, TSLA_Q3_2023] [PILOT]
+     Martin Viecha
+
+Thank you.
+     The next question is, why was the price dropped on FSD if it is getting better and robotaxi is expected so soon?
+     Elon Musk
+
+Well, we just wanted to make it more affordable as more people try it.
+     Yes, I think, over time, the price of FSD will increase proportionate to its value.
+     So we regard the current price as a kind of a temporary low.
+     Martin Viecha
+
+The next question is again on FSD.
+     Mercedes is accepting legal liability for when its Level 3 autonomous driving system drive pilot is active.
+>>> Is Tesla planning to accept legal liability for FSD?
+     And if so, when?
+     Elon Musk
+
+Well, there’s a lot of people that assume we have legal liability judging by the lawsuits.
+     We’re certainly not being let that off the hook on that front, whether we’d like to or wouldn’t like to do.
+     Unidentified Company Representative
+
+I mean I think it’s important to remember for everyone that Mercedes’ system is limited to roads in Nevada and some certain cities in California, doesn’t work in the snow or the fog.
+     It must have a lead car in plains, only 40 miles per hour.
+     Our system is meant to be holistic and drive in any conditions, so we obviously have a much more capable approach.
+     But with those kind of limitations, it’s really not very useful.
+-----
+15. [Sentence #1911, TSLA_Q3_2023] [PILOT]
+     And then at some point, the robots will manufacture the robots.
+     Now obviously, we need to make sure that it’s a good place for humans in that future.
+     We do not create some variance of the terminator outcome.
+     So, we’re going to put a lot of effort into localized control of the humanoid robot.
+     So basically, anyone will be able to shut it off locally, and you can’t change that, even if you put -- like a software update, you can’t change that.
+     It has to be hard-coded.
+     Martin Viecha
+
+Thank you.
+>>> The next question is, why was the price dropped on FSD if it is getting better and robotaxi is expected so soon?
+     Elon Musk
+
+Well, we just wanted to make it more affordable as more people try it.
+     Yes, I think, over time, the price of FSD will increase proportionate to its value.
+     So we regard the current price as a kind of a temporary low.
+     Martin Viecha
+
+The next question is again on FSD.
+     Mercedes is accepting legal liability for when its Level 3 autonomous driving system drive pilot is active.
+     Is Tesla planning to accept legal liability for FSD?
+     And if so, when?
+-----
+16. [Sentence #839, TSLA_Q3_2021] [PLAN]
+     But it requires a combination of the 250-kilowatt charging in our latest iteration battery packs.
+     Andrew Baglino
+
+And we've also maintained an ongoing roadmap on software improvements, dynamic routing to avoid busy superchargers; that's actually really helpful.
+     We take the real-time busyness of the stations into account when choosing where to navigate people on their road trip.
+     And beyond that, we're also continuing to improve the Trip Planner itself and how it estimates how much energy people use so it's not too conservative and ask them to be able to charge more than they need to, which is another thing that can delay a total trip.
+     Martin Viecha
+
+Great.
+     Thank you very much.
+     The next question is, is Tesla considering any other ideas other than FSD with the real-world AI that can bring additional software revenue to Tesla?
+>>> If not, can Tesla consider building interesting games around FSD Beta?
+     Lars Moravy
+
+Sure.
+     At AI Day we did talk about potential future where Dojo could be used as a neural net training platform for other companies.
+     It's not a focus of ours today as we are fully subscribed on Dojo with our internal uses, we do expect to continue to improve the in-car experience in the context of FSD
+
+Martin Viecha
+
+Great.
+     Thank you.
+     And maybe last question from shareholders is, how does FSD take rate -- how has FSD take rate change since the introduction of monthly subscription?
+     Are there any plans to increase the FSD pricing as why the release becomes imminent?
+     Zachary Kirkhorn
+
+I'll take the second part of the question first, we won't be providing any forward-looking commentary on our pricing strategy or what may happen here over the near term.
+-----
+17. [Sentence #2557, TSLA_Q3_2024] [PILOT]
+     The car -- this is like, again, a fundamental technology advantage and structural advantage compared to the rest of the auto industry.
+     Vaibhav Taneja -- Chief Financial Officer
+
+I think it's underappreciated as to what all we are able to do.
+     And that's why -- because like I said before, most of our cars, except for Cybertruck, look the same, so people don't realize that it has so much capability.
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+But they look better than other cars, but they're not like obviously super futuristic.
+     Travis Axelrod -- Head of Investor Relations
+
+Great.
+     Thank you very much.
+     The next question is, please provide an update on the Semi.
+>>> What will the next stage growth look like and when will FSD be ready?
+     Unknown speaker -- -- Analyst
+
+Sure.
+     So, as you -- we posted in the earnings we're progressing swiftly on the build of the Semi factory, our data factory in Reno.
+     We've released all our major cash flow expenditures for that program, and we're on track to start pilot builds in the second half of next year with production starting in the first half of 2026 and ramping really throughout the year to full production.
+     Semi growth will largely depend on our customers' adoption of the product.
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+Well, I don't think we're going to be limited, honestly.
+     Unknown speaker -- -- Analyst
+
+Which I can say -- which is like a no-brainer for the Semi because it's really a commodity of total cost of ownership.
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+Yes, exactly.
+-----
+18. [Sentence #2401, TSLA_Q3_2024] [UNCERTAIN]
+     Thank you very much, Elon.
+     And Vaibhav has some opening remarks as well.
+     Vaibhav Taneja -- Chief Financial Officer
+
+Thanks.
+     Our Q3 results were positive and once again demonstrate the scale to which the business has evolved or with generation of record operating cash flows of $6.3 billion.
+     Our automotive revenues grew both quarter on quarter and year on year.
+     While we had unit volume growth, we did experience a reduction in ASPs primarily due to the impact of financing incentives.
+     As a reminder, we are providing these incentives primarily using third-party banks and financial institutions and recognize the cost of these incentives as an upfront reduction to revenue.
+>>> We released FSD for Cybertruck and other features like actually Smart Summon, like Elon talked about, in North America, which contributed $326 million of revenues in the quarter.
+     We continue to see elevated levels of regulatory credit sales with over $2 billion of revenues so far this year.
+     To expand on this at an industry level, China continues to outperform U.S.
+
+and Europe by a factor of three.
+     And if there is something to be learned from that, this gives a signal of what is to come in other regions.
+     As customers' acceptance of EV growth, we feel that is the right strategy to build affordable and more compelling leads.
+     Our focus remains on growing unit volume while avoiding a buildup of inventory.
+     To support this strategy, we're continuing to offer extremely compelling vehicle financing options in When you compare any vehicle in our lineup with other OEMs, we believe our vehicles provide much better value, particularly when you consider the safety features, performance and unparalleled software functionalities, like David also talked about, include also what Ashok had talked about around autonomy, music options, parental controls, and much more.
+     While every vehicle in our lineup comes up with these capabilities, there is an awareness gap not just with buyers but at times even with existing owners.
+-----
+19. [Sentence #417, TSLA_Q3_2020] [UNCERTAIN]
+     But otherwise, we just try to spend money as quickly as possible in a way that is sensible and yields more value than it can cost.
+     Operator
+
+Thank you.
+     Our next question will come from Adam Jonas with Morgan Stanley.
+     Please go ahead.
+     Adam Jonas
+
+Hey, Elon.
+     A question on LiDAR.
+     If LiDAR were totally free, would you want to use it in your cars near-term?
+>>> Would that tech significantly help Tesla on the training of your neural network for FSD?
+     Elon Musk
+
+I mean totally free, probably not.
+     I think probably -- I think even if it was free, we wouldn't put it on.
+     Adam Jonas
+
+Okay.
+     Let's follow-up then.
+     Amazon appears to be investing and building an autonomous or electric transport network of some ilk through some organic investments, but also Zuk, Aurora, Rivian, et cetera.
+     What advice would you give Jeff Bezos in his endeavor?
+     Elon Musk
+
+Well, I don't know how much he cares about this, but I guess, he sure is investing a lot of money in.
+-----
+20. [Sentence #1337, TSLA_Q3_2022] [PLAN]
+     Do you expect to need to cut vehicle prices or offer incentives in any market to sustain a demand, or has demand remained stable, or is it even rising?
+     There are three questions there.
+     Elon Musk
+
+Well, like I said, we want to sort of focus on a high level on what we think is possible here.
+     We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue production at a 50% or greater compound annual growth rate.
+     It might occasionally be a year that is a little less, and then some years would be maybe a little more or a lot more.
+     In some of our out-year planning, we see potential annual growth rates that are in excess of 50%.
+     Martin Viecha
+
+Thank you.
+>>> The next question is, “Can you tell us more about the product future road map beyond new models and FSD, and especially for interior and powertrain of existing vehicle models?
+     Elon Musk
+
+Yes.
+     We could, but who wants?
+     Sorry, guys, we can’t like jumping on, on future product announcement.
+     Zachary Kirkhorn
+
+Committed to continuing...
+
+Elon Musk
+
+Yes, we obviously are -- yes.
+     But we’ll also be committed to continuous growth.
+     Yes.
+     At Tesla, we’ve always been committed to continuous improvement.
+-----
+
+Total context windows: 20

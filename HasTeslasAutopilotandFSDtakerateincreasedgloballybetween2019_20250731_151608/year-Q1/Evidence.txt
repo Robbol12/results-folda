@@ -1,0 +1,61 @@
+[Year Q1] Has Tesla’s Autopilot and FSD take rate increased globally between 2019 and 2024, and did they achieve profitability from FSD as predicted?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #113]  (TSLA_Q1_2020) Question-and-Answer Session
+
+A - Martin Viecha
+
+The first question from institutional investor is, most Tesla owners have yet to purchase or experience **FSD**, despite most vehicles having all the necessary hardware.
+2. [Sentence #117]  (TSLA_Q1_2020) I should say, it will still make sense to buy **FSD** as an option as in our view, buying **FSD** is an investment in the future.
+3. [Sentence #781]  (TSLA_Q1_2021) And the fourth question from retail investors is, does Tesla have any proactive plans to tackle main stream media’s imminent massive and deceptive click bait headline campaigns on safety of **Autopilot** or **FSD**, perhaps a specialty PR job of some sort?
+4. [Sentence #1174]  (TSLA_Q1_2022) Elon Musk
+
+Actually, on the price increase front, I should mention that it may seem like maybe we’re being unreasonable about increasing the prices of our vehicles, given that we had record **profitability** this quarter, but the wait list for our vehicles is quite long.
+5. [Sentence #1562]  (TSLA_Q1_2022) Are there any metrics you can share on what **take** rates have been like?
+6. [Sentence #1582]  (TSLA_Q1_2022) We see that in the ****take** **rate**** data, we have extremely high retention for customers who experience the product.
+7. [Sentence #1652]  (TSLA_Q1_2023) Regarding **Autopilot** and Full Self-Driving, we've now crossed over 150 million miles driven by Full Self-Driving beta, and this number is growing exponentially.
+8. [Sentence #1671]  (TSLA_Q1_2023) In particular, automotive gross margin was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve vehicle pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as **increased** deferred revenue for certain **Autopilot** features as we transition technologies.
+9. [Sentence #1835]  (TSLA_Q1_2023) I was wondering, first, if you could discuss your **FSD** **take** rates and whether you've seen any significant positive or negative change there?
+10. [Sentence #1836]  (TSLA_Q1_2023) And also, given that you've reduced the prices for your vehicles, do you think you need to do that for **FSD** as well?
+11. [Sentence #1838]  (TSLA_Q1_2023) Elon Musk
+
+Well, I can kind of answer the details on the **FSD** ****take** **rate****, but the -- it's a tricky pricing question, because the value of a car that is autonomous is enormous.
+12. [Sentence #2212]  (TSLA_Q1_2024) Despite these challenges, the Tesla team did a great job executing in a tough environment and energy storage deployments, the Megapack in particular, reached an all-time high in Q1, leading to record **profitability** for the energy business, and that looks likely to continue to increase in the quarters and years ahead.
+13. [Sentence #2225]  (TSLA_Q1_2024) So, we now have over 300 billion miles that have been driven with **FSD** V12.
+14. [Sentence #2408]  (TSLA_Q1_2024) The next question, have any of the legacy automakers contacted Tesla about possibly licensing **FSD** in the future?
+15. [Sentence #2770]  (TSLA_Q1_2024) Elon Musk
+
+Well, I want to say again, we'd just like to strongly recommend that anyone who is, I guess, thinking about the Tesla stock should really drive **FSD** 12.3.
+
+Total transcript-order evidence sentences: 15
+
+--- Evidence by Similarity ---
+1. [Sentence #1838]  (TSLA_Q1_2023) (Similarity: 1.213) Elon Musk
+
+Well, I can kind of answer the details on the **FSD** ****take** **rate****, but the -- it's a tricky pricing question, because the value of a car that is autonomous is enormous.
+2. [Sentence #1835]  (TSLA_Q1_2023) (Similarity: 0.958) I was wondering, first, if you could discuss your **FSD** **take** rates and whether you've seen any significant positive or negative change there?
+3. [Sentence #781]  (TSLA_Q1_2021) (Similarity: 0.792) And the fourth question from retail investors is, does Tesla have any proactive plans to tackle main stream media’s imminent massive and deceptive click bait headline campaigns on safety of **Autopilot** or **FSD**, perhaps a specialty PR job of some sort?
+4. [Sentence #1671]  (TSLA_Q1_2023) (Similarity: 0.744) In particular, automotive gross margin was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve vehicle pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as **increased** deferred revenue for certain **Autopilot** features as we transition technologies.
+5. [Sentence #113]  (TSLA_Q1_2020) (Similarity: 0.722) Question-and-Answer Session
+
+A - Martin Viecha
+
+The first question from institutional investor is, most Tesla owners have yet to purchase or experience **FSD**, despite most vehicles having all the necessary hardware.
+6. [Sentence #2408]  (TSLA_Q1_2024) (Similarity: 0.721) The next question, have any of the legacy automakers contacted Tesla about possibly licensing **FSD** in the future?
+7. [Sentence #1582]  (TSLA_Q1_2022) (Similarity: 0.694) We see that in the ****take** **rate**** data, we have extremely high retention for customers who experience the product.
+8. [Sentence #1562]  (TSLA_Q1_2022) (Similarity: 0.674) Are there any metrics you can share on what **take** rates have been like?
+9. [Sentence #2770]  (TSLA_Q1_2024) (Similarity: 0.667) Elon Musk
+
+Well, I want to say again, we'd just like to strongly recommend that anyone who is, I guess, thinking about the Tesla stock should really drive **FSD** 12.3.
+10. [Sentence #1652]  (TSLA_Q1_2023) (Similarity: 0.665) Regarding **Autopilot** and Full Self-Driving, we've now crossed over 150 million miles driven by Full Self-Driving beta, and this number is growing exponentially.
+11. [Sentence #117]  (TSLA_Q1_2020) (Similarity: 0.628) I should say, it will still make sense to buy **FSD** as an option as in our view, buying **FSD** is an investment in the future.
+12. [Sentence #2225]  (TSLA_Q1_2024) (Similarity: 0.623) So, we now have over 300 billion miles that have been driven with **FSD** V12.
+13. [Sentence #1174]  (TSLA_Q1_2022) (Similarity: 0.617) Elon Musk
+
+Actually, on the price increase front, I should mention that it may seem like maybe we’re being unreasonable about increasing the prices of our vehicles, given that we had record **profitability** this quarter, but the wait list for our vehicles is quite long.
+14. [Sentence #2212]  (TSLA_Q1_2024) (Similarity: 0.601) Despite these challenges, the Tesla team did a great job executing in a tough environment and energy storage deployments, the Megapack in particular, reached an all-time high in Q1, leading to record **profitability** for the energy business, and that looks likely to continue to increase in the quarters and years ahead.
+15. [Sentence #1836]  (TSLA_Q1_2023) (Similarity: 0.600) And also, given that you've reduced the prices for your vehicles, do you think you need to do that for **FSD** as well?
+
+Total similarity-top evidence sentences: 15
+
+-----

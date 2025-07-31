@@ -1,0 +1,454 @@
+[Year Q1] How did Tesla’s solar ambitions (e.g., Solar Roof targets from 2019–2021) translate into actual deployments through 2023–2024?
+
+1. [Sentence #693, TSLA_Q1_2021] [PLAN]
+     It does seem as though over time, I mean, just an observation, I think, I will basically step back that neural net-based computing or AI-based computing is more and more of the compute stack.
+     We are -- conventional computing is called perhaps [inaudible] based computing.
+     It’s still going to be important, it’s still going to be very important, but it will become -- but neural net will become a bigger and bigger portion of compute.
+     So anyway, long story, but I think, probably, others will want to use it too and we will make it available.
+     Martin Viecha
+
+Thank you very much.
+     Let’s go to the second question from retail investors.
+     The recent price changes on Solar Roof have been a bit discouraging for customers and investors.
+>>> Could Tesla share more about Solar Roof challenges and if the outlook has changed at all, i.e.
+     1,000 roofs per week?
+     Elon Musk
+
+Yeah.
+     First of all, I should say, the demand for the Solar Roof remains strong.
+     So despite raising the price, the demand is still significantly in excess of our ability to meet the demand to install the Solar Roofs.
+     So production has gone fine, but we are choked at the installation point.
+     We did find that we basically made some significant mistakes in assessment of difficulty of certain roofs, but the complexity of roofs varies dramatically.
+     Some roofs are literally two times or three times easier than other roofs.
+-----
+2. [Sentence #707, TSLA_Q1_2021] [PLAN]
+     Some roofs are literally two times or three times easier than other roofs.
+     So, you just can’t have a one size fits all situation.
+     If a roof has a lot of protuberances or if the roof sort of the core structure of the roof is rotted out or is not strong enough to hold the Solar Roof, then the cost can be double, sometimes three times what our initial quotes were.
+     So in those cases, what we obviously have to do is to refund customers their deposit.
+     What we cannot do is go and just lose a massive amount of money.
+     We have just got to provide a refund of the deposit.
+     But what is I think most important about the Solar Roof situation, which I tweeted about this past week, is that we are shifting the whole solar situation, the solar power, basically the solar factory situation to, there’s only one product basically, there’s only one configuration every house, but we will not sell a house solar without a Powerwall.
+>>> That solar could either be solar retrofit with conventional panels put on the roof or it can be the Tesla Solar Glass Roof.
+     But in all cases, it will have the Powerwall to temporary this -- and this is essentially the Powerwall to a plus if you will, the plus refers to a higher peak power capability.
+     So basically, all Powerwalls made since roughly November of last year have a lot more peak power capability than the specification on the website.
+     They are about twice the power capability, roughly.
+     It depends on how you count power, but about twice the peak power and about oddly twice the steady-state power of the specification on the website.
+     The energy is the same but the power is roughly double.
+     And all installations will have a Powerwall and the difficult the installation will dramatically increase -- or the difficulty of the installation will be much less, it will be much easier, because the power from the Solar Roof, the Solar Glass Roof, or the solar panels, will only ever go directly into the Powerwall.
+     And the Powerwall will only ever go between the utility mains, right, between the utility and the main power panel of the house, which means you never need to touch the main circuit breakers of the house.
+-----
+3. [Sentence #248, TSLA_Q1_2020] [PLAN]
+     But like, say spring, I think it's installing, which is the hard part.
+     We actually have demonstrated the ability to hit 1,000 a week plus build rate for the Solar Glass Roof already.
+     So that's not a problem.
+     It's building out the installed teams, building up the third-party channel installers, the roofing industry installers.
+     And internally, we want to have at least 1,000 Solar Roof install teams with – and taking a week or perhaps a little less than a week to do an install, which gets you 1,000 a week roof installations.
+     We see demand is good.
+     Production is good.
+>>> So it's really all about the install, and then like also build out the training, the very diverse group of companies in the roofing industry to also install Solar Roof that, I think will scale – allow us to scale far beyond 1,000 a week.
+     We're also seeing a lot of interest outside of North America.
+     So we expect this to be a product that is international and actually seeing a tremendous amount of interest from China on the Solar Roof.
+     So we're confident this will be a very significant product for the company over time.
+     Martin Viecha
+
+Thank you.
+     The next question is, can you elaborate on Tesla's plan to enter the residential and/or commercial HVAC market?
+     Can you provide some basics of how your system will work?
+     Will you consider the heat pump water heater market as well?
+-----
+4. [Sentence #242, TSLA_Q1_2020] [PLAN]
+     The permit offices were closed.
+     And we're sheltering places, 11 places.
+     So we obviously cannot install and the – if you can't get permits, then you can't physically do it.
+     It's basically impossible.
+     So – but I think the long-term trend for Solar Roof is extremely good, and I'm confident that, let's say, within the next, I don't know, year or—maybe even by end of year, we should be installing at a rate of 1,000 a week.
+     That's not in the middle of winter or something, like taking seasonality – allowing for seasonality, where it's hard to install on roofs that are covered in snow and ice.
+     But like, say spring, I think it's installing, which is the hard part.
+>>> We actually have demonstrated the ability to hit 1,000 a week plus build rate for the Solar Glass Roof already.
+     So that's not a problem.
+     It's building out the installed teams, building up the third-party channel installers, the roofing industry installers.
+     And internally, we want to have at least 1,000 Solar Roof install teams with – and taking a week or perhaps a little less than a week to do an install, which gets you 1,000 a week roof installations.
+     We see demand is good.
+     Production is good.
+     So it's really all about the install, and then like also build out the training, the very diverse group of companies in the roofing industry to also install Solar Roof that, I think will scale – allow us to scale far beyond 1,000 a week.
+     We're also seeing a lot of interest outside of North America.
+-----
+5. [Sentence #87, TSLA_Q1_2020] [PLAN]
+     We also announced a long-range and performance variant of Model 3 for our road map, which will positively impact ASPs in China.
+     On order rates, we did not experience much of an impact related to the expiration of government incentives at the end of Q4.
+     In fact, we exited the quarter with our highest-ever backlog yet again.
+     Aided by these accomplishments, we are able to achieve our first-ever Q1 profit.
+     Automotive gross margin, excluding the impact of regulatory credits, remained strong for all products, despite charges taken in Q1 associated with production downtime.
+     We continue to make progress on OpEx efficiency, as well as our service and other margins.
+     Our energy business was impacted as well by shutdown activities in Q1 limiting deployments.
+>>> We also experienced expected launch efficiencies associated with our third version of the Solar Roof, which impacted overall profitability.
+     As I've noted before, we expect regulatory credit sales, which our credits we sell to other carmakers to generally increase with time.
+     This can be seen by the increase from Q1 relative to Q4.
+     And note that most of the credit revenue did not contribute to cash in Q1, and it's reflected in the accounts receivable on the balance sheet.
+     Our free cash flows were impacted by the temporary – by the temporary increase in end of quarter inventory for all our products resulting from the abrupt suspension of production and delivery operations.
+     Had these interruptions not occurred, we were pacing towards a record quarter of deliveries and strong free cash flows.
+     As Elon mentioned, it is extremely important that we remain on track to achieve our long-term plans and technology road map.
+     We are taking the near-term actions required to continue those investments.
+-----
+6. [Sentence #239, TSLA_Q1_2020] [PLAN]
+     How many are you currently able to install per week?
+     What is your installations per week target for the end of 2021?
+     Elon Musk
+
+We were actually gaining interest momentum with the Solar Roof before COVID, but COVID essentially shut us down, both from the ability to install and the ability to get permits.
+     The permit offices were closed.
+     And we're sheltering places, 11 places.
+     So we obviously cannot install and the – if you can't get permits, then you can't physically do it.
+     It's basically impossible.
+>>> So – but I think the long-term trend for Solar Roof is extremely good, and I'm confident that, let's say, within the next, I don't know, year or—maybe even by end of year, we should be installing at a rate of 1,000 a week.
+     That's not in the middle of winter or something, like taking seasonality – allowing for seasonality, where it's hard to install on roofs that are covered in snow and ice.
+     But like, say spring, I think it's installing, which is the hard part.
+     We actually have demonstrated the ability to hit 1,000 a week plus build rate for the Solar Glass Roof already.
+     So that's not a problem.
+     It's building out the installed teams, building up the third-party channel installers, the roofing industry installers.
+     And internally, we want to have at least 1,000 Solar Roof install teams with – and taking a week or perhaps a little less than a week to do an install, which gets you 1,000 a week roof installations.
+     We see demand is good.
+-----
+7. [Sentence #706, TSLA_Q1_2021] [PLAN]
+     We did find that we basically made some significant mistakes in assessment of difficulty of certain roofs, but the complexity of roofs varies dramatically.
+     Some roofs are literally two times or three times easier than other roofs.
+     So, you just can’t have a one size fits all situation.
+     If a roof has a lot of protuberances or if the roof sort of the core structure of the roof is rotted out or is not strong enough to hold the Solar Roof, then the cost can be double, sometimes three times what our initial quotes were.
+     So in those cases, what we obviously have to do is to refund customers their deposit.
+     What we cannot do is go and just lose a massive amount of money.
+     We have just got to provide a refund of the deposit.
+>>> But what is I think most important about the Solar Roof situation, which I tweeted about this past week, is that we are shifting the whole solar situation, the solar power, basically the solar factory situation to, there’s only one product basically, there’s only one configuration every house, but we will not sell a house solar without a Powerwall.
+     That solar could either be solar retrofit with conventional panels put on the roof or it can be the Tesla Solar Glass Roof.
+     But in all cases, it will have the Powerwall to temporary this -- and this is essentially the Powerwall to a plus if you will, the plus refers to a higher peak power capability.
+     So basically, all Powerwalls made since roughly November of last year have a lot more peak power capability than the specification on the website.
+     They are about twice the power capability, roughly.
+     It depends on how you count power, but about twice the peak power and about oddly twice the steady-state power of the specification on the website.
+     The energy is the same but the power is roughly double.
+     And all installations will have a Powerwall and the difficult the installation will dramatically increase -- or the difficulty of the installation will be much less, it will be much easier, because the power from the Solar Roof, the Solar Glass Roof, or the solar panels, will only ever go directly into the Powerwall.
+-----
+8. [Sentence #203, TSLA_Q1_2020] [PILOT]
+     There's also a tremendous amount of untapped potential in the beat out there that could upgrade to turn on Autopilot -- basic Autopilot or Full Self-Driving.
+     And that's something we will enable just as simple in our purchase or as we talked about earlier, just towards the end of the year, as a subscription.
+     So that's just a lot of untapped potential there.
+     That's not in the deferred revenue line, obviously, but it's certainly a great deal deferred potential that we think is a large portion, which is likely to reach fruition.
+     Martin Viecha
+
+Thank you.
+     And now let's go through the questions from retail investors.
+     Question number one, Elon has mentioned a 50% compound annual growth target for Tesla in the past.
+>>> Is this still in line with Tesla's ambitions for the next five to 10 years?
+     This would be 4 million vehicles in 2025 and more than 20 million vehicles in 2030.
+     Is 40% or more realistic target?
+     Elon Musk
+
+Well, it's always difficult to predict what the macro situation is going to be.
+     I think people – actually people would have predicted the unexpected roundhouse that COVID came up with it sort of came out of nowhere.
+     So I think in the absence of something, some massive force majeure events, but quite massive, I think, 40% is the likely number.
+     It's possible that is 40%.
+     I would be very shocked, if it's less than 40%, even with force majeure Model 3.
+-----
+9. [Sentence #245, TSLA_Q1_2020] [PLAN]
+     It's basically impossible.
+     So – but I think the long-term trend for Solar Roof is extremely good, and I'm confident that, let's say, within the next, I don't know, year or—maybe even by end of year, we should be installing at a rate of 1,000 a week.
+     That's not in the middle of winter or something, like taking seasonality – allowing for seasonality, where it's hard to install on roofs that are covered in snow and ice.
+     But like, say spring, I think it's installing, which is the hard part.
+     We actually have demonstrated the ability to hit 1,000 a week plus build rate for the Solar Glass Roof already.
+     So that's not a problem.
+     It's building out the installed teams, building up the third-party channel installers, the roofing industry installers.
+>>> And internally, we want to have at least 1,000 Solar Roof install teams with – and taking a week or perhaps a little less than a week to do an install, which gets you 1,000 a week roof installations.
+     We see demand is good.
+     Production is good.
+     So it's really all about the install, and then like also build out the training, the very diverse group of companies in the roofing industry to also install Solar Roof that, I think will scale – allow us to scale far beyond 1,000 a week.
+     We're also seeing a lot of interest outside of North America.
+     So we expect this to be a product that is international and actually seeing a tremendous amount of interest from China on the Solar Roof.
+     So we're confident this will be a very significant product for the company over time.
+     Martin Viecha
+
+Thank you.
+-----
+10. [Sentence #696, TSLA_Q1_2021] [PLAN]
+     So anyway, long story, but I think, probably, others will want to use it too and we will make it available.
+     Martin Viecha
+
+Thank you very much.
+     Let’s go to the second question from retail investors.
+     The recent price changes on Solar Roof have been a bit discouraging for customers and investors.
+     Could Tesla share more about Solar Roof challenges and if the outlook has changed at all, i.e.
+     1,000 roofs per week?
+     Elon Musk
+
+Yeah.
+>>> First of all, I should say, the demand for the Solar Roof remains strong.
+     So despite raising the price, the demand is still significantly in excess of our ability to meet the demand to install the Solar Roofs.
+     So production has gone fine, but we are choked at the installation point.
+     We did find that we basically made some significant mistakes in assessment of difficulty of certain roofs, but the complexity of roofs varies dramatically.
+     Some roofs are literally two times or three times easier than other roofs.
+     So, you just can’t have a one size fits all situation.
+     If a roof has a lot of protuberances or if the roof sort of the core structure of the roof is rotted out or is not strong enough to hold the Solar Roof, then the cost can be double, sometimes three times what our initial quotes were.
+     So in those cases, what we obviously have to do is to refund customers their deposit.
+-----
+11. [Sentence #234, TSLA_Q1_2020] [UNCERTAIN]
+     Zachary Kirkhorn
+
+Yes, with multiple products as well.
+     And so the absolute number of Giga factories, we may ultimately build might be less, but each one is larger.
+     And that's under our belief that just significant efficiencies by having as much as possible, and similar product lines under the same roof, and as much vertical integration as possible all in one facility.
+     Martin Viecha
+
+Thank you.
+     The next question is, can you give us an update on Solar Roof ramp?
+     How many are you currently able to install per week?
+     What is your installations per week target for the end of 2021?
+>>> Elon Musk
+
+We were actually gaining interest momentum with the Solar Roof before COVID, but COVID essentially shut us down, both from the ability to install and the ability to get permits.
+     The permit offices were closed.
+     And we're sheltering places, 11 places.
+     So we obviously cannot install and the – if you can't get permits, then you can't physically do it.
+     It's basically impossible.
+     So – but I think the long-term trend for Solar Roof is extremely good, and I'm confident that, let's say, within the next, I don't know, year or—maybe even by end of year, we should be installing at a rate of 1,000 a week.
+     That's not in the middle of winter or something, like taking seasonality – allowing for seasonality, where it's hard to install on roofs that are covered in snow and ice.
+     But like, say spring, I think it's installing, which is the hard part.
+-----
+12. [Sentence #231, TSLA_Q1_2020] [UNCERTAIN]
+     Zachary Kirkhorn
+
+I'll also add that our Gigas have gotten bigger.
+     And --
+
+Elon Musk
+
+Yes.
+     Larger, they start being called Tera.
+     Zachary Kirkhorn
+
+Yes, with multiple products as well.
+     And so the absolute number of Giga factories, we may ultimately build might be less, but each one is larger.
+     And that's under our belief that just significant efficiencies by having as much as possible, and similar product lines under the same roof, and as much vertical integration as possible all in one facility.
+     Martin Viecha
+
+Thank you.
+>>> The next question is, can you give us an update on Solar Roof ramp?
+     How many are you currently able to install per week?
+     What is your installations per week target for the end of 2021?
+     Elon Musk
+
+We were actually gaining interest momentum with the Solar Roof before COVID, but COVID essentially shut us down, both from the ability to install and the ability to get permits.
+     The permit offices were closed.
+     And we're sheltering places, 11 places.
+     So we obviously cannot install and the – if you can't get permits, then you can't physically do it.
+     It's basically impossible.
+-----
+13. [Sentence #692, TSLA_Q1_2021] [PLAN]
+     So then possibly that could be used by others.
+     It does seem as though over time, I mean, just an observation, I think, I will basically step back that neural net-based computing or AI-based computing is more and more of the compute stack.
+     We are -- conventional computing is called perhaps [inaudible] based computing.
+     It’s still going to be important, it’s still going to be very important, but it will become -- but neural net will become a bigger and bigger portion of compute.
+     So anyway, long story, but I think, probably, others will want to use it too and we will make it available.
+     Martin Viecha
+
+Thank you very much.
+     Let’s go to the second question from retail investors.
+>>> The recent price changes on Solar Roof have been a bit discouraging for customers and investors.
+     Could Tesla share more about Solar Roof challenges and if the outlook has changed at all, i.e.
+     1,000 roofs per week?
+     Elon Musk
+
+Yeah.
+     First of all, I should say, the demand for the Solar Roof remains strong.
+     So despite raising the price, the demand is still significantly in excess of our ability to meet the demand to install the Solar Roofs.
+     So production has gone fine, but we are choked at the installation point.
+     We did find that we basically made some significant mistakes in assessment of difficulty of certain roofs, but the complexity of roofs varies dramatically.
+-----
+14. [Sentence #250, TSLA_Q1_2020] [PLAN]
+     So that's not a problem.
+     It's building out the installed teams, building up the third-party channel installers, the roofing industry installers.
+     And internally, we want to have at least 1,000 Solar Roof install teams with – and taking a week or perhaps a little less than a week to do an install, which gets you 1,000 a week roof installations.
+     We see demand is good.
+     Production is good.
+     So it's really all about the install, and then like also build out the training, the very diverse group of companies in the roofing industry to also install Solar Roof that, I think will scale – allow us to scale far beyond 1,000 a week.
+     We're also seeing a lot of interest outside of North America.
+>>> So we expect this to be a product that is international and actually seeing a tremendous amount of interest from China on the Solar Roof.
+     So we're confident this will be a very significant product for the company over time.
+     Martin Viecha
+
+Thank you.
+     The next question is, can you elaborate on Tesla's plan to enter the residential and/or commercial HVAC market?
+     Can you provide some basics of how your system will work?
+     Will you consider the heat pump water heater market as well?
+     Elon Musk
+
+Well, as I said on Twitter, I'm personally extremely excited to build HVAC – gas, HVAC system that also has sort of hospital-grade particle filtration, basically have a filtration that filters out viruses, bacteria, pollen, fungi and also neutralizes specific alkaline gases that is quiet and efficient.
+     And these are all things we've achieved in our cars.
+-----
+15. [Sentence #962, TSLA_Q1_2021] [PLAN]
+     Yes.
+     And specific to that, we are on track to more than double the supplier capacity over the next 13.
+     Elon Musk
+
+Yes.
+     We -- exactly.
+     We do expect from suppliers willing to receive double the cell output next year versus this year.
+     Pierre Ferragu
+
+Okay.
+     And I had a quick follow-up on – maybe, Zach, for you on your Energy business.
+>>> So I understand like the negative gross margin with Solar Roof ran.
+     But I was wondering, what do gross margin look like there when you look at the Storage business and where are you -- what’s your ambition in terms of gross margin in that business?
+     I guess it’s going to grow in the mix in coming years, so it’s important for long-term modeling.
+     Zachary Kirkhorn
+
+Yes.
+     We are seeing a lot of…
+
+Elon Musk
+
+We are aiming for comparable margins in storage as in vehicles.
+     But it is important to bear in mind that vehicle is more mature than storage.
+     So we are already are at good margins with the Powerwall, but some additional work is needed for the Megapack to achieve good margins.
+     Yes, Drew, what do you think?
+-----
+16. [Sentence #702, TSLA_Q1_2021] [PLAN]
+     Elon Musk
+
+Yeah.
+     First of all, I should say, the demand for the Solar Roof remains strong.
+     So despite raising the price, the demand is still significantly in excess of our ability to meet the demand to install the Solar Roofs.
+     So production has gone fine, but we are choked at the installation point.
+     We did find that we basically made some significant mistakes in assessment of difficulty of certain roofs, but the complexity of roofs varies dramatically.
+     Some roofs are literally two times or three times easier than other roofs.
+     So, you just can’t have a one size fits all situation.
+>>> If a roof has a lot of protuberances or if the roof sort of the core structure of the roof is rotted out or is not strong enough to hold the Solar Roof, then the cost can be double, sometimes three times what our initial quotes were.
+     So in those cases, what we obviously have to do is to refund customers their deposit.
+     What we cannot do is go and just lose a massive amount of money.
+     We have just got to provide a refund of the deposit.
+     But what is I think most important about the Solar Roof situation, which I tweeted about this past week, is that we are shifting the whole solar situation, the solar power, basically the solar factory situation to, there’s only one product basically, there’s only one configuration every house, but we will not sell a house solar without a Powerwall.
+     That solar could either be solar retrofit with conventional panels put on the roof or it can be the Tesla Solar Glass Roof.
+     But in all cases, it will have the Powerwall to temporary this -- and this is essentially the Powerwall to a plus if you will, the plus refers to a higher peak power capability.
+     So basically, all Powerwalls made since roughly November of last year have a lot more peak power capability than the specification on the website.
+-----
+17. [Sentence #275, TSLA_Q1_2020] [PILOT]
+     So taking all those things that we've replenished and applying to how HVAC would be and commercial HVAC would be is just very exciting.
+     And then you've got – if you're condensing water, like why not also have a few water source, if you have water, you possibly could then heat the water and have a water heater as well.
+     Zachary Kirkhorn
+
+Yeah.
+     And use it as a heat source, if you need it instead of the outdoors, when the outdoor is really cold or the other way around.
+     So lots of options.
+     Elon Musk
+
+It could be a hell of a product.
+     So we just have to – Tesla have potentially to whether we continue on the product front.
+>>> So we're going to make sure, we got a lot of ice in the fire here, for new products with the Cybertruck, Semi, new Roadster and the Gigafactories in various parts of the world and Model Y, Autopilot and the Solar Roof and…
+
+Zachary Kirkhorn
+
+New technologies.
+     Elon Musk
+
+Yeah, exactly.
+     Powerwall, Powerpack, Megapack.
+     We are seeing tremendous demand for stationary storage, more than we can supply, at least for 2020.
+     Martin Viecha
+
+Thank you.
+     And the last question from the retailers, when will Tesla start acquiring utilities like Hornsdale Power Reserve and most lending instead of selling them battery storage?
+     Does it make sense for Tesla to buy bigger plants and convert them?
+     Elon Musk
+
+Well, we haven't really thought about that yet.
+-----
+18. [Sentence #632, TSLA_Q1_2021] [PLAN]
+     While the Tesla team in partnership with our suppliers did tremendous work keeping our factories running, we did experience high expedite costs in the quarter and they were also higher than they were in Q4, with some minor interruptions to production over the course of the quarter.
+     We believe that this landscape is improving, but it does remain difficult and it’s an evolving situation.
+     If we double click within net income, auto gross margin excluding credits improved sequentially and year-over-year.
+     This is in spite of the costs mentioned for SNX and expedites and a reduction in global ASPs as our cost structure as a company is reducing at an even faster pace.
+     So as we look out over the course of the year, we feel optimistic about our gross margin strength, particularly as some of these headwinds we are experiencing start to be resolved.
+     On Services and other margins, these have recovered and are trending towards profitability, aided by strength in the used car business, operational improvements in service and additional service revenue opportunities that help absorb fixed overheads.
+     On energy gross margins, these remained negative for a second quarter.
+>>> This was driven by Solar Roof-related ramp costs and winter seasonality in the lease BPA business.
+     We continue to manage through a multi-quarter backlog on Powerwall.
+     We are working as fast as we can to increase production and this will aid in profitability of this business as those volumes increase.
+     On operating expenses, these increased for Q1, which was driven by our investments in technology and growth.
+     In particular for R&D, this includes the structural battery pack and 4680 cells, investments in the new SNX, and our neural net and silicon investments.
+     On the SG&A side, we are setting up infrastructure and support for both China and EMEA in anticipation of volume to come there.
+     And as I have said before, our plans show that we remain on track for sustained industry-leading operating margins.
+     Double clicking on cash flows, we continue to generate positive free cash flows and this was despite the significant working capital headwinds from SNX.
+-----
+19. [Sentence #2212, TSLA_Q1_2024] [PLAN]
+     Please use the raise hand button to join the question queue.
+     But before we jump into Q&A, Elon has some opening remarks.
+     Elon?
+     Elon Musk
+
+Thanks, Martin.
+     So to recap, in Q1 we navigated several unforeseen challenges as well as the ramp of the updated Model 3 in Fremont.
+     There was, as we all have seen, the EV adoption rate globally is under pressure and a lot of other auto manufacturers are pulling back on EVs and pursuing plug-in hybrids instead.
+     We believe this is not the right strategy and electric vehicles will ultimately dominate the market.
+>>> Despite these challenges, the Tesla team did a great job executing in a tough environment and energy storage deployments, the Megapack in particular, reached an all-time high in Q1, leading to record profitability for the energy business, and that looks likely to continue to increase in the quarters and years ahead.
+     It will increase.
+     We actually know that it will, so significantly faster than the car business as we expected.
+     We also continue to expand our AI training capacity in Q1, more than doubling our training compute sequentially.
+     In terms of the new product roadmap, there has been a lot of talk about our upcoming vehicle line in the next – in the past several weeks.
+     We've updated our future vehicle lineup to accelerate the launch of new models ahead, previously mentioned startup production in the second half of 2025, so we expect it to be more like the early 2025, if not late this year.
+     These new vehicles, including more affordable models, will use aspects of the next generation platform as well as aspects of our current platforms, and will be able to produce on the same manufacturing lines as our current vehicle lineup.
+     So it's not contingent on any new factory or massive new production line.
+-----
+20. [Sentence #2264, TSLA_Q1_2024] [PLAN]
+     Our ability to reduce costs without sacrificing on quality was due to the amazing efforts of the team, in executing Tesla's relentless pursuit of efficiency across the business.
+     We've also witnessed that as other OEMs are pulling back on their investments in EV, there is increasing appetite for credits, and that means a steady stream of revenue for us.
+     Obviously, seeing others pull back from EV is not the future we want.
+     We would prefer it the whole industry went all in.
+     On the demand front, we've undertaken a variety of initiatives, including lowering the price of both the purchase and subscription options for FSD launching extremely attractive leasing specials for the Model 3 in the U.S. for $299 a month and offering attractive financing options in certain markets.
+     We believe that our awareness activities, paired with attractive financing, will go a long way in expanding our reach and driving demand for our products.
+     Our Energy business continues to make meaningful progress with margins reaching a record of 24.6%.
+>>> We expect the energy storage deployments for 2024 to grow at least 75% higher from 2023.
+     And accordingly, this business will begin contributing significantly to our overall profitability.
+     Note that there is a bit of lumpiness in our storage deployments due to a variety of factors that are outside of our control, so deployments may fluctuate quarter-over-quarter.
+     On the operating expense front, we saw a sequential increase from our AI initiatives, continued investment in future projects, marketing, and other activities.
+     We had negative free cash flow of $2.5 billion in the first quarter.
+     The primary driver of this was an increase in inventory from a mismatch between builds and deliveries as discussed before, and our elevated spend on CapEx across various initiatives, including AI compute.
+     We expect the inventory build to reverse in the second quarter and free cash flow to return to positive again.
+     As we prepare the company for the next phase of growth, we had to make the hard but necessary decision to reduce our head count by over 10%.
+-----
+21. [Sentence #697, TSLA_Q1_2021] [UNCERTAIN]
+     Martin Viecha
+
+Thank you very much.
+     Let’s go to the second question from retail investors.
+     The recent price changes on Solar Roof have been a bit discouraging for customers and investors.
+     Could Tesla share more about Solar Roof challenges and if the outlook has changed at all, i.e.
+     1,000 roofs per week?
+     Elon Musk
+
+Yeah.
+     First of all, I should say, the demand for the Solar Roof remains strong.
+>>> So despite raising the price, the demand is still significantly in excess of our ability to meet the demand to install the Solar Roofs.
+     So production has gone fine, but we are choked at the installation point.
+     We did find that we basically made some significant mistakes in assessment of difficulty of certain roofs, but the complexity of roofs varies dramatically.
+     Some roofs are literally two times or three times easier than other roofs.
+     So, you just can’t have a one size fits all situation.
+     If a roof has a lot of protuberances or if the roof sort of the core structure of the roof is rotted out or is not strong enough to hold the Solar Roof, then the cost can be double, sometimes three times what our initial quotes were.
+     So in those cases, what we obviously have to do is to refund customers their deposit.
+     What we cannot do is go and just lose a massive amount of money.
+-----
+22. [Sentence #713, TSLA_Q1_2021] [PLAN]
+     But what is I think most important about the Solar Roof situation, which I tweeted about this past week, is that we are shifting the whole solar situation, the solar power, basically the solar factory situation to, there’s only one product basically, there’s only one configuration every house, but we will not sell a house solar without a Powerwall.
+     That solar could either be solar retrofit with conventional panels put on the roof or it can be the Tesla Solar Glass Roof.
+     But in all cases, it will have the Powerwall to temporary this -- and this is essentially the Powerwall to a plus if you will, the plus refers to a higher peak power capability.
+     So basically, all Powerwalls made since roughly November of last year have a lot more peak power capability than the specification on the website.
+     They are about twice the power capability, roughly.
+     It depends on how you count power, but about twice the peak power and about oddly twice the steady-state power of the specification on the website.
+     The energy is the same but the power is roughly double.
+>>> And all installations will have a Powerwall and the difficult the installation will dramatically increase -- or the difficulty of the installation will be much less, it will be much easier, because the power from the Solar Roof, the Solar Glass Roof, or the solar panels, will only ever go directly into the Powerwall.
+     And the Powerwall will only ever go between the utility mains, right, between the utility and the main power panel of the house, which means you never need to touch the main circuit breakers of the house.
+     You never need to touch the house circuit breakers.
+     Effectively almost every house, therefore, looks the same electrically instead of being a unique work of art and requiring exceptional ability to rewire the main panel.
+     So this is extremely important for scalability.
+     It’s the only way to do it, really.
+     And this also means that every solar Powerwall installation that the house or apartment or whatever the case may be, will be its own utility.
+     And so even if all the lights go out in the neighborhood, you will still have power.
+-----
+
+Total context windows: 22

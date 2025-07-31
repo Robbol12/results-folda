@@ -1,0 +1,19 @@
+[TSLA_Q2_2022] Has Tesla’s Autopilot and FSD take rate increased globally between 2019 and 2024, and did they achieve profitability from FSD as predicted?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #27]  Regarding **Autopilot**, we have now deployed our **FSD** beta with City Streets driving capability to over 100,000 owners.
+2. [Sentence #70]  Although our production volume reduced sequentially due to COVID-related shutdowns in Shanghai, we made substantial progress in nearly every area of the business, and in particular, our **global** vehicle production **rate** as we exited the quarter.
+3. [Sentence #452]  Could you talk a little bit about the pricing strategy around **FSD**, and as you get closer to this full functionality rolling out and the **increased** cycle times, how you see that evolving through the balance of this year and into 2023?
+4. [Sentence #454]  We will increase the price of **FSD** sometime later this year.
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #452]  (Similarity: 0.845) Could you talk a little bit about the pricing strategy around **FSD**, and as you get closer to this full functionality rolling out and the **increased** cycle times, how you see that evolving through the balance of this year and into 2023?
+2. [Sentence #27]  (Similarity: 0.748) Regarding **Autopilot**, we have now deployed our **FSD** beta with City Streets driving capability to over 100,000 owners.
+3. [Sentence #454]  (Similarity: 0.652) We will increase the price of **FSD** sometime later this year.
+4. [Sentence #70]  (Similarity: 0.603) Although our production volume reduced sequentially due to COVID-related shutdowns in Shanghai, we made substantial progress in nearly every area of the business, and in particular, our **global** vehicle production **rate** as we exited the quarter.
+
+Total similarity-top evidence sentences: 4
+
+-----

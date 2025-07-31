@@ -1,0 +1,41 @@
+[Year Q2] How did Tesla’s solar ambitions (e.g., Solar Roof targets from 2019–2021) translate into actual deployments through 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #50]  (TSLA_Q2_2020) So Tesla **Solar** is the lowest cost **solar** in the United States.
+2. [Sentence #52]  (TSLA_Q2_2020) So we're very confident that people will have our **solar** product, whether it's the **Solar** Retrofit or **Solar** **Roof**.
+3. [Sentence #54]  (TSLA_Q2_2020) After the Federal Tax Credit, Tesla **Solar** now costs $1.49 per watt.
+4. [Sentence #56]  (TSLA_Q2_2020) So definitely, think about Tesla, whether you want a new **roof** or Tesla **Solar** **Roof** or you want **Solar** on your existing **roof** either way, we're the company to go to.
+5. [Sentence #705]  (TSLA_Q2_2021) This was driven by **Solar** **Roof**-related ramp costs and winter seasonality in the lease BPA business.
+6. [Sentence #765]  (TSLA_Q2_2021) The recent price changes on **Solar** **Roof** have been a bit discouraging for customers and investors.
+7. [Sentence #766]  (TSLA_Q2_2021) Could Tesla share more about **Solar** **Roof** challenges and if the outlook has changed at all, i.e.
+8. [Sentence #769]  (TSLA_Q2_2021) First of all, I should say, the demand for the **Solar** **Roof** remains strong.
+9. [Sentence #770]  (TSLA_Q2_2021) So despite raising the price, the demand is still significantly in excess of our ability to meet the demand to install the **Solar** Roofs.
+10. [Sentence #775]  (TSLA_Q2_2021) If a **roof** has a lot of protuberances or if the **roof** sort of the core structure of the **roof** is rotted out or is not strong enough to hold the **Solar** **Roof**, then the cost can be double, sometimes three times what our initial quotes were.
+11. [Sentence #779]  (TSLA_Q2_2021) But what is I think most important about the **Solar** **Roof** situation, which I tweeted about this past week, is that we are shifting the whole **solar** situation, the **solar** power, basically the **solar** factory situation to, there’s only one product basically, there’s only one configuration every house, but we will not sell a house **solar** without a Powerwall.
+12. [Sentence #780]  (TSLA_Q2_2021) That **solar** could either be **solar** retrofit with conventional panels put on the **roof** or it can be the Tesla **Solar** Glass **Roof**.
+13. [Sentence #786]  (TSLA_Q2_2021) And all installations will have a Powerwall and the difficult the installation will dramatically increase -- or the difficulty of the installation will be much less, it will be much easier, because the power from the **Solar** **Roof**, the **Solar** Glass **Roof**, or the **solar** panels, will only ever go directly into the Powerwall.
+14. [Sentence #1035]  (TSLA_Q2_2021) So I understand like the negative gross margin with **Solar** **Roof** ran.
+15. [Sentence #1828]  (TSLA_Q2_2023) Just this week, we are launching Charge on **Solar**, which allows Tesla Powerwall and vehicle customers to charge their vehicles using their excess **solar** and drive only on the sunshine that hits their **roof**.
+
+Total transcript-order evidence sentences: 15
+
+--- Evidence by Similarity ---
+1. [Sentence #766]  (TSLA_Q2_2021) (Similarity: 0.962) Could Tesla share more about **Solar** **Roof** challenges and if the outlook has changed at all, i.e.
+2. [Sentence #56]  (TSLA_Q2_2020) (Similarity: 0.873) So definitely, think about Tesla, whether you want a new **roof** or Tesla **Solar** **Roof** or you want **Solar** on your existing **roof** either way, we're the company to go to.
+3. [Sentence #780]  (TSLA_Q2_2021) (Similarity: 0.845) That **solar** could either be **solar** retrofit with conventional panels put on the **roof** or it can be the Tesla **Solar** Glass **Roof**.
+4. [Sentence #52]  (TSLA_Q2_2020) (Similarity: 0.845) So we're very confident that people will have our **solar** product, whether it's the **Solar** Retrofit or **Solar** **Roof**.
+5. [Sentence #1828]  (TSLA_Q2_2023) (Similarity: 0.841) Just this week, we are launching Charge on **Solar**, which allows Tesla Powerwall and vehicle customers to charge their vehicles using their excess **solar** and drive only on the sunshine that hits their **roof**.
+6. [Sentence #779]  (TSLA_Q2_2021) (Similarity: 0.743) But what is I think most important about the **Solar** **Roof** situation, which I tweeted about this past week, is that we are shifting the whole **solar** situation, the **solar** power, basically the **solar** factory situation to, there’s only one product basically, there’s only one configuration every house, but we will not sell a house **solar** without a Powerwall.
+7. [Sentence #769]  (TSLA_Q2_2021) (Similarity: 0.731) First of all, I should say, the demand for the **Solar** **Roof** remains strong.
+8. [Sentence #765]  (TSLA_Q2_2021) (Similarity: 0.714) The recent price changes on **Solar** **Roof** have been a bit discouraging for customers and investors.
+9. [Sentence #1035]  (TSLA_Q2_2021) (Similarity: 0.677) So I understand like the negative gross margin with **Solar** **Roof** ran.
+10. [Sentence #50]  (TSLA_Q2_2020) (Similarity: 0.652) So Tesla **Solar** is the lowest cost **solar** in the United States.
+11. [Sentence #775]  (TSLA_Q2_2021) (Similarity: 0.647) If a **roof** has a lot of protuberances or if the **roof** sort of the core structure of the **roof** is rotted out or is not strong enough to hold the **Solar** **Roof**, then the cost can be double, sometimes three times what our initial quotes were.
+12. [Sentence #705]  (TSLA_Q2_2021) (Similarity: 0.629) This was driven by **Solar** **Roof**-related ramp costs and winter seasonality in the lease BPA business.
+13. [Sentence #770]  (TSLA_Q2_2021) (Similarity: 0.612) So despite raising the price, the demand is still significantly in excess of our ability to meet the demand to install the **Solar** Roofs.
+14. [Sentence #786]  (TSLA_Q2_2021) (Similarity: 0.608) And all installations will have a Powerwall and the difficult the installation will dramatically increase -- or the difficulty of the installation will be much less, it will be much easier, because the power from the **Solar** **Roof**, the **Solar** Glass **Roof**, or the **solar** panels, will only ever go directly into the Powerwall.
+15. [Sentence #54]  (TSLA_Q2_2020) (Similarity: 0.605) After the Federal Tax Credit, Tesla **Solar** now costs $1.49 per watt.
+
+Total similarity-top evidence sentences: 15
+
+-----

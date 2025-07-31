@@ -1,0 +1,31 @@
+[TSLA_Q2_2021] How did Tesla’s solar ambitions (e.g., Solar Roof targets from 2019–2021) translate into actual deployments through 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #100]  This was driven by **Solar** **Roof**-related ramp costs and winter seasonality in the lease BPA business.
+2. [Sentence #160]  The recent price changes on **Solar** **Roof** have been a bit discouraging for customers and investors.
+3. [Sentence #161]  Could Tesla share more about **Solar** **Roof** challenges and if the outlook has changed at all, i.e.
+4. [Sentence #164]  First of all, I should say, the demand for the **Solar** **Roof** remains strong.
+5. [Sentence #165]  So despite raising the price, the demand is still significantly in excess of our ability to meet the demand to install the **Solar** Roofs.
+6. [Sentence #170]  If a **roof** has a lot of protuberances or if the **roof** sort of the core structure of the **roof** is rotted out or is not strong enough to hold the **Solar** **Roof**, then the cost can be double, sometimes three times what our initial quotes were.
+7. [Sentence #174]  But what is I think most important about the **Solar** **Roof** situation, which I tweeted about this past week, is that we are shifting the whole **solar** situation, the **solar** power, basically the **solar** factory situation to, there’s only one product basically, there’s only one configuration every house, but we will not sell a house **solar** without a Powerwall.
+8. [Sentence #175]  That **solar** could either be **solar** retrofit with conventional panels put on the **roof** or it can be the Tesla **Solar** Glass **Roof**.
+9. [Sentence #181]  And all installations will have a Powerwall and the difficult the installation will dramatically increase -- or the difficulty of the installation will be much less, it will be much easier, because the power from the **Solar** **Roof**, the **Solar** Glass **Roof**, or the **solar** panels, will only ever go directly into the Powerwall.
+10. [Sentence #430]  So I understand like the negative gross margin with **Solar** **Roof** ran.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #161]  (Similarity: 0.962) Could Tesla share more about **Solar** **Roof** challenges and if the outlook has changed at all, i.e.
+2. [Sentence #175]  (Similarity: 0.845) That **solar** could either be **solar** retrofit with conventional panels put on the **roof** or it can be the Tesla **Solar** Glass **Roof**.
+3. [Sentence #174]  (Similarity: 0.743) But what is I think most important about the **Solar** **Roof** situation, which I tweeted about this past week, is that we are shifting the whole **solar** situation, the **solar** power, basically the **solar** factory situation to, there’s only one product basically, there’s only one configuration every house, but we will not sell a house **solar** without a Powerwall.
+4. [Sentence #164]  (Similarity: 0.731) First of all, I should say, the demand for the **Solar** **Roof** remains strong.
+5. [Sentence #160]  (Similarity: 0.714) The recent price changes on **Solar** **Roof** have been a bit discouraging for customers and investors.
+6. [Sentence #430]  (Similarity: 0.677) So I understand like the negative gross margin with **Solar** **Roof** ran.
+7. [Sentence #170]  (Similarity: 0.647) If a **roof** has a lot of protuberances or if the **roof** sort of the core structure of the **roof** is rotted out or is not strong enough to hold the **Solar** **Roof**, then the cost can be double, sometimes three times what our initial quotes were.
+8. [Sentence #100]  (Similarity: 0.629) This was driven by **Solar** **Roof**-related ramp costs and winter seasonality in the lease BPA business.
+9. [Sentence #165]  (Similarity: 0.612) So despite raising the price, the demand is still significantly in excess of our ability to meet the demand to install the **Solar** Roofs.
+10. [Sentence #181]  (Similarity: 0.608) And all installations will have a Powerwall and the difficult the installation will dramatically increase -- or the difficulty of the installation will be much less, it will be much easier, because the power from the **Solar** **Roof**, the **Solar** Glass **Roof**, or the **solar** panels, will only ever go directly into the Powerwall.
+
+Total similarity-top evidence sentences: 10
+
+-----

@@ -1,0 +1,21 @@
+[TSLA_Q1_2022] Has Tesla’s Autopilot and FSD take rate increased globally between 2019 and 2024, and did they achieve profitability from FSD as predicted?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #119]  Elon Musk
+
+Actually, on the price increase front, I should mention that it may seem like maybe we’re being unreasonable about increasing the prices of our vehicles, given that we had record **profitability** this quarter, but the wait list for our vehicles is quite long.
+2. [Sentence #507]  Are there any metrics you can share on what **take** rates have been like?
+3. [Sentence #527]  We see that in the ****take** **rate**** data, we have extremely high retention for customers who experience the product.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #527]  (Similarity: 0.694) We see that in the ****take** **rate**** data, we have extremely high retention for customers who experience the product.
+2. [Sentence #507]  (Similarity: 0.674) Are there any metrics you can share on what **take** rates have been like?
+3. [Sentence #119]  (Similarity: 0.617) Elon Musk
+
+Actually, on the price increase front, I should mention that it may seem like maybe we’re being unreasonable about increasing the prices of our vehicles, given that we had record **profitability** this quarter, but the wait list for our vehicles is quite long.
+
+Total similarity-top evidence sentences: 3
+
+-----

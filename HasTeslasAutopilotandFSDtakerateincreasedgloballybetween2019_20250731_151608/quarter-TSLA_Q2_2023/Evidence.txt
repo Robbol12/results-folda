@@ -1,0 +1,21 @@
+[TSLA_Q2_2023] Has Tesla’s Autopilot and FSD take rate increased globally between 2019 and 2024, and did they achieve profitability from FSD as predicted?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #45]  So, to date, over 300 million miles have been driven using **FSD** beta.
+2. [Sentence #67]  And we are already in discussions with -- early discussions with major OEM about using Tesla **FSD**.
+3. [Sentence #416]  I think the Tesla fleet value increase at the point which we can upload full self-driving and is approved by regulators will be the single biggest step change in asset value maybe in history.
+4. [Sentence #424]  And would Tesla benefit from lowering the price of **FSD**?
+5. [Sentence #435]  And the price of **FSD** -- so the great thing is the price of **FSD** is actually very low, it’s not high.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #424]  (Similarity: 0.801) And would Tesla benefit from lowering the price of **FSD**?
+2. [Sentence #435]  (Similarity: 0.640) And the price of **FSD** -- so the great thing is the price of **FSD** is actually very low, it’s not high.
+3. [Sentence #67]  (Similarity: 0.630) And we are already in discussions with -- early discussions with major OEM about using Tesla **FSD**.
+4. [Sentence #416]  (Similarity: 0.627) I think the Tesla fleet value increase at the point which we can upload full self-driving and is approved by regulators will be the single biggest step change in asset value maybe in history.
+5. [Sentence #45]  (Similarity: 0.613) So, to date, over 300 million miles have been driven using **FSD** beta.
+
+Total similarity-top evidence sentences: 5
+
+-----

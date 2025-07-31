@@ -1,0 +1,31 @@
+[TSLA_Q4_2024] How did Tesla’s solar ambitions (e.g., Solar Roof targets from 2019–2021) translate into actual deployments through 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #208]  In conclusion, like Elon said, 2025 is going to be a pivotal year for Tesla.
+2. [Sentence #337]  And if so, what is the **timeline** and expected impact to Tesla's capex?
+3. [Sentence #352]  The next question, has Tesla given up on ramping their **solar** **roof** product?
+4. [Sentence #355]  Yes, **solar** **roof** is a core part of the residential product portfolio and it still remains.
+5. [Sentence #360]  Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+That's actually turned out to be a much better way for the -- like it's just let the **roof** -- just supply products to the roofing industry.
+6. [Sentence #361]  And especially when somebody's is getting a new **roof** anyway or building a house from scratch, obviously, this is by far the most efficient time to put in a **solar** **roof** as opposed to putting a **solar** **roof** on a house that -- where the **roof** still has 20 years of life.
+7. [Sentence #363]  But if it's a new house or the **roof** needs to be replaced anyway, then **solar** **roof** can make a lot of sense.
+8. [Sentence #370]  So, it's like I recommend anyone who can afford it, get the Tesla **Solar** **Roof** and the Powerwall.
+
+Total transcript-order evidence sentences: 8
+
+--- Evidence by Similarity ---
+1. [Sentence #352]  (Similarity: 0.977) The next question, has Tesla given up on ramping their **solar** **roof** product?
+2. [Sentence #370]  (Similarity: 0.760) So, it's like I recommend anyone who can afford it, get the Tesla **Solar** **Roof** and the Powerwall.
+3. [Sentence #337]  (Similarity: 0.698) And if so, what is the **timeline** and expected impact to Tesla's capex?
+4. [Sentence #361]  (Similarity: 0.683) And especially when somebody's is getting a new **roof** anyway or building a house from scratch, obviously, this is by far the most efficient time to put in a **solar** **roof** as opposed to putting a **solar** **roof** on a house that -- where the **roof** still has 20 years of life.
+5. [Sentence #355]  (Similarity: 0.673) Yes, **solar** **roof** is a core part of the residential product portfolio and it still remains.
+6. [Sentence #363]  (Similarity: 0.660) But if it's a new house or the **roof** needs to be replaced anyway, then **solar** **roof** can make a lot of sense.
+7. [Sentence #360]  (Similarity: 0.617) Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+That's actually turned out to be a much better way for the -- like it's just let the **roof** -- just supply products to the roofing industry.
+8. [Sentence #208]  (Similarity: 0.604) In conclusion, like Elon said, 2025 is going to be a pivotal year for Tesla.
+
+Total similarity-top evidence sentences: 8
+
+-----

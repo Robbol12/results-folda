@@ -1,0 +1,96 @@
+[TSLA_Q4_2022] Has Tesla’s Autopilot and FSD take rate increased globally between 2019 and 2024, and did they achieve profitability from FSD as predicted?
+
+1. [Sentence #344] [PLAN]
+     My guess is, if there is -- if the recession is a serious one and I think it probably will be, but I hope it isn't, that would lead to meaningful decreases in almost all of our input costs.
+     So we expect to see deflation in our input costs most likely, which would then lead to, yes, better margin.
+     I'm just guessing here.
+     So, this is -- that would be my guess.
+     Pierre Ferragu
+
+Thank you, so much.
+     So as a quick follow-up, Elon, I was thinking about like FSD, and when you look at like the situation today compared to a year ago, it's -- like the progress has been, like, amazing in the quality of the product, but also its rollout.
+     And so, I was wondering, how much is this like impacting the take rate of FSD today?
+>>> So do you already see that people are getting more excited by FSD, because they see it around them on 400,000 cars and they see the value of the service already, or is that too early to really see like, to expect like an uptick in the take rate?
+     Elon Musk
+
+The trend is very strong towards use of FSD.
+     And as you alluded to, with each incremental improvement, the enthusiasm obviously increases.
+     And -- so, I think something that still a lot of people out there don't quite appreciate is that Tesla -- of course say like, Tesla is as much as a software company as a hardware company, but Tesla is really one of the world's leading AI companies.
+     This is kind of a big deal with AI on the software side and on the hardware side.
+     With the Hardware 3 inference computer, still the most efficient inference computer in the world despite being, at this point, five years old from the design point.
+     And Hardware 4 coming and then Hardware 5 beyond that, where there are significant leaps.
+     And the Dojo computer, we expect to be using that operationally at Tesla later this year.
+-----
+2. [Sentence #343] [PLAN]
+     Elon Musk
+
+Yes.
+     My guess is, if there is -- if the recession is a serious one and I think it probably will be, but I hope it isn't, that would lead to meaningful decreases in almost all of our input costs.
+     So we expect to see deflation in our input costs most likely, which would then lead to, yes, better margin.
+     I'm just guessing here.
+     So, this is -- that would be my guess.
+     Pierre Ferragu
+
+Thank you, so much.
+     So as a quick follow-up, Elon, I was thinking about like FSD, and when you look at like the situation today compared to a year ago, it's -- like the progress has been, like, amazing in the quality of the product, but also its rollout.
+>>> And so, I was wondering, how much is this like impacting the take rate of FSD today?
+     So do you already see that people are getting more excited by FSD, because they see it around them on 400,000 cars and they see the value of the service already, or is that too early to really see like, to expect like an uptick in the take rate?
+     Elon Musk
+
+The trend is very strong towards use of FSD.
+     And as you alluded to, with each incremental improvement, the enthusiasm obviously increases.
+     And -- so, I think something that still a lot of people out there don't quite appreciate is that Tesla -- of course say like, Tesla is as much as a software company as a hardware company, but Tesla is really one of the world's leading AI companies.
+     This is kind of a big deal with AI on the software side and on the hardware side.
+     With the Hardware 3 inference computer, still the most efficient inference computer in the world despite being, at this point, five years old from the design point.
+     And Hardware 4 coming and then Hardware 5 beyond that, where there are significant leaps.
+-----
+3. [Sentence #367] [PILOT]
+     Zachary Kirkhorn
+
+Yes
+
+Alex Potter
+
+Okay, great.
+     So a quick one on FSD.
+     This, I guess, for Zach.
+     Obviously, you unlocked some deferred revenue in the quarter that will translate presumably into higher margins on every incremental sale going forward so long as people opt in for FSD.
+     But was wondering if you're able to disclose the percentage of the $15,000 price that you're not going to be able to recognize as revenue upfront rather than deferred?
+     Zachary Kirkhorn
+
+Yes.
+     I mean, the way that we've structured this is a full self-driving package has two components.
+>>> There's enhanced Autopilot, the price of which is listed on the website.
+     We fully recognize that.
+     Then there's an incremental, which is for the additional features of full self-driving offers and we've released a portion of that.
+     And then there's a minority of the total package that's remaining that will be released over time as software updates are there.
+     And in our shareholder letter, in addition to disclosing the dollar amount of the deferred revenue release, we also included in there the dollar value of the balance of unreleased deferred revenue that will be released over time with future software updates.
+     Alex Potter
+
+Okay, great.
+     And then maybe 1 additional question here on the incremental capacity in Nevada, the 4680s that you're planning.
+     That's a lot of batteries obviously, and presumably, you won't be putting all of those in Tesla Semi.
+-----
+4. [Sentence #345] [PLAN]
+     So we expect to see deflation in our input costs most likely, which would then lead to, yes, better margin.
+     I'm just guessing here.
+     So, this is -- that would be my guess.
+     Pierre Ferragu
+
+Thank you, so much.
+     So as a quick follow-up, Elon, I was thinking about like FSD, and when you look at like the situation today compared to a year ago, it's -- like the progress has been, like, amazing in the quality of the product, but also its rollout.
+     And so, I was wondering, how much is this like impacting the take rate of FSD today?
+     So do you already see that people are getting more excited by FSD, because they see it around them on 400,000 cars and they see the value of the service already, or is that too early to really see like, to expect like an uptick in the take rate?
+>>> Elon Musk
+
+The trend is very strong towards use of FSD.
+     And as you alluded to, with each incremental improvement, the enthusiasm obviously increases.
+     And -- so, I think something that still a lot of people out there don't quite appreciate is that Tesla -- of course say like, Tesla is as much as a software company as a hardware company, but Tesla is really one of the world's leading AI companies.
+     This is kind of a big deal with AI on the software side and on the hardware side.
+     With the Hardware 3 inference computer, still the most efficient inference computer in the world despite being, at this point, five years old from the design point.
+     And Hardware 4 coming and then Hardware 5 beyond that, where there are significant leaps.
+     And the Dojo computer, we expect to be using that operationally at Tesla later this year.
+     And we're seeing just a lot of world-class AI talent join the company.
+-----
+
+Total context windows: 4

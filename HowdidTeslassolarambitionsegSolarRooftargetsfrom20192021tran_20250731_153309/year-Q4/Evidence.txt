@@ -1,0 +1,53 @@
+[Year Q4] How did Tesla’s solar ambitions (e.g., Solar Roof targets from 2019–2021) translate into actual deployments through 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #41]  (TSLA_Q4_2019) And in conclusion when I think of what we have in front of us, the next couple of years, we've got Model Y, we've got Giga Berlin, Tesla Semi, Solarglass **Roof**, Cybertruck some very exciting improvements in battery technology for the full self-driving, we got the next-gen Roadster and probably in a bunch of other products we'll [indiscernible] too.
+2. [Sentence #44]  (TSLA_Q4_2019) If you look back 10 years from today to 2010, we will produce approximately a 1,000 times more cars in 2020 then we produced in 2010, 8,000 and we have also Solarglass and **solar** retrofit, Powerwall and Powerpack other things too.
+3. [Sentence #85]  (TSLA_Q4_2019) What's the 2020 target for the number of Solarglass **Roof** installations in California?
+4. [Sentence #86]  (TSLA_Q4_2019) Elon Musk
+
+Well, I think we do -- we are seeing, [indiscernible] from a small base, exponential growth in demand and output for our Solarglass **Roof**.
+5. [Sentence #91]  (TSLA_Q4_2019) And I think people will want a live **roof** that generates power and it looks good and lasts long time and it's the future we want.
+6. [Sentence #556]  (TSLA_Q4_2020) The first question from institutional investors is, what is currently holding Tesla back from being the market share leader in **solar**?
+7. [Sentence #564]  (TSLA_Q4_2020) So I think it will not be long before Tesla is, by far, the market leader in **solar**.
+8. [Sentence #568]  (TSLA_Q4_2020) And actually important part is achieving better integration between the Tesla Powerwall and the Tesla Retrofit **Solar** and Tesla **Roof**.
+9. [Sentence #569]  (TSLA_Q4_2020) And we're confident we'll have excellent integration – excellent integration with the Powerwall and Tesla **Solar**, whether it's retrofit or but [indiscernible] **roof** before the end of the year.
+10. [Sentence #2833]  (TSLA_Q4_2024) In conclusion, like Elon said, 2025 is going to be a pivotal year for Tesla.
+11. [Sentence #2962]  (TSLA_Q4_2024) And if so, what is the **timeline** and expected impact to Tesla's capex?
+12. [Sentence #2977]  (TSLA_Q4_2024) The next question, has Tesla given up on ramping their **solar** **roof** product?
+13. [Sentence #2980]  (TSLA_Q4_2024) Yes, **solar** **roof** is a core part of the residential product portfolio and it still remains.
+14. [Sentence #2985]  (TSLA_Q4_2024) Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+That's actually turned out to be a much better way for the -- like it's just let the **roof** -- just supply products to the roofing industry.
+15. [Sentence #2986]  (TSLA_Q4_2024) And especially when somebody's is getting a new **roof** anyway or building a house from scratch, obviously, this is by far the most efficient time to put in a **solar** **roof** as opposed to putting a **solar** **roof** on a house that -- where the **roof** still has 20 years of life.
+16. [Sentence #2988]  (TSLA_Q4_2024) But if it's a new house or the **roof** needs to be replaced anyway, then **solar** **roof** can make a lot of sense.
+17. [Sentence #2995]  (TSLA_Q4_2024) So, it's like I recommend anyone who can afford it, get the Tesla **Solar** **Roof** and the Powerwall.
+
+Total transcript-order evidence sentences: 17
+
+--- Evidence by Similarity ---
+1. [Sentence #2977]  (TSLA_Q4_2024) (Similarity: 0.977) The next question, has Tesla given up on ramping their **solar** **roof** product?
+2. [Sentence #568]  (TSLA_Q4_2020) (Similarity: 0.927) And actually important part is achieving better integration between the Tesla Powerwall and the Tesla Retrofit **Solar** and Tesla **Roof**.
+3. [Sentence #569]  (TSLA_Q4_2020) (Similarity: 0.911) And we're confident we'll have excellent integration – excellent integration with the Powerwall and Tesla **Solar**, whether it's retrofit or but [indiscernible] **roof** before the end of the year.
+4. [Sentence #2995]  (TSLA_Q4_2024) (Similarity: 0.760) So, it's like I recommend anyone who can afford it, get the Tesla **Solar** **Roof** and the Powerwall.
+5. [Sentence #564]  (TSLA_Q4_2020) (Similarity: 0.757) So I think it will not be long before Tesla is, by far, the market leader in **solar**.
+6. [Sentence #85]  (TSLA_Q4_2019) (Similarity: 0.730) What's the 2020 target for the number of Solarglass **Roof** installations in California?
+7. [Sentence #2962]  (TSLA_Q4_2024) (Similarity: 0.698) And if so, what is the **timeline** and expected impact to Tesla's capex?
+8. [Sentence #2986]  (TSLA_Q4_2024) (Similarity: 0.683) And especially when somebody's is getting a new **roof** anyway or building a house from scratch, obviously, this is by far the most efficient time to put in a **solar** **roof** as opposed to putting a **solar** **roof** on a house that -- where the **roof** still has 20 years of life.
+9. [Sentence #2980]  (TSLA_Q4_2024) (Similarity: 0.673) Yes, **solar** **roof** is a core part of the residential product portfolio and it still remains.
+10. [Sentence #41]  (TSLA_Q4_2019) (Similarity: 0.666) And in conclusion when I think of what we have in front of us, the next couple of years, we've got Model Y, we've got Giga Berlin, Tesla Semi, Solarglass **Roof**, Cybertruck some very exciting improvements in battery technology for the full self-driving, we got the next-gen Roadster and probably in a bunch of other products we'll [indiscernible] too.
+11. [Sentence #2988]  (TSLA_Q4_2024) (Similarity: 0.660) But if it's a new house or the **roof** needs to be replaced anyway, then **solar** **roof** can make a lot of sense.
+12. [Sentence #556]  (TSLA_Q4_2020) (Similarity: 0.654) The first question from institutional investors is, what is currently holding Tesla back from being the market share leader in **solar**?
+13. [Sentence #86]  (TSLA_Q4_2019) (Similarity: 0.647) Elon Musk
+
+Well, I think we do -- we are seeing, [indiscernible] from a small base, exponential growth in demand and output for our Solarglass **Roof**.
+14. [Sentence #91]  (TSLA_Q4_2019) (Similarity: 0.632) And I think people will want a live **roof** that generates power and it looks good and lasts long time and it's the future we want.
+15. [Sentence #2985]  (TSLA_Q4_2024) (Similarity: 0.617) Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+That's actually turned out to be a much better way for the -- like it's just let the **roof** -- just supply products to the roofing industry.
+16. [Sentence #44]  (TSLA_Q4_2019) (Similarity: 0.615) If you look back 10 years from today to 2010, we will produce approximately a 1,000 times more cars in 2020 then we produced in 2010, 8,000 and we have also Solarglass and **solar** retrofit, Powerwall and Powerpack other things too.
+17. [Sentence #2833]  (TSLA_Q4_2024) (Similarity: 0.604) In conclusion, like Elon said, 2025 is going to be a pivotal year for Tesla.
+
+Total similarity-top evidence sentences: 17
+
+-----

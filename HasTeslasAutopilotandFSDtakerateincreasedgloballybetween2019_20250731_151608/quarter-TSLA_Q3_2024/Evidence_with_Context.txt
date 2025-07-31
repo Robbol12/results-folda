@@ -1,0 +1,96 @@
+[TSLA_Q3_2024] Has Tesla’s Autopilot and FSD take rate increased globally between 2019 and 2024, and did they achieve profitability from FSD as predicted?
+
+1. [Sentence #74] [PILOT]
+     A vast majority of humanity has no idea that Tesla could drive themselves so especially for something like a Model 3 or Model Y, it looks like a normal car.
+     So, you don't expect a normal car to be able to be intelligent enough to drive itself.
+     A Cybercab looks different.
+     A Cybertruck looks different, but Model Y and Model 3 are -- look, they're good-looking cars but look fairly normal.
+     You don't expect a fairly normal-looking car to have the intelligence, enough AI to be able to drive itself, but it does.
+     So, we do want to expose that to more people, and so we're doing -- every time we have a significant improvement in the software, we'll roll out another sort of 30-day trial to encourage people to try it again.
+     And we are seeing a significant improvement in adoption.
+>>> So, the take rate for FSD has improved substantially, especially after the 10/10 event.
+     Yes.
+     So, there's no need to wait for robotaxi or Cybercab to experience full autonomy.
+     We expect to achieve that next year with the -- with our existing vehicle line.
+     Ashok Elluswamy -- Director, Autopilot Software
+
+I wanted to actually spot someone gives a small taste of what it's going to look like, the car able to drive itself to the user within private parking lots.
+     Currently, it's speed-limited, but then it's going to quickly be increased.
+     We already had more than 1 billion usage in terms of Smart Summon.
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+Ye.
+-----
+2. [Sentence #54] [PILOT]
+     And the release of actually Smart -- we try to have a sense of humor here.
+     And we're also -- so that's 12.5.
+     Version 13 of FSD is going out soon.
+     will elaborate more on that later in the call.
+     We expect to see roughly a five- or sixfold improvement in miles between interventions compared to 12.5.
+     And actually, looking at the year as whole, the improvement in miles interventions, we think will be at least three orders of magnitude.
+     So, that's a very dramatic improvement in the course of the year, and we expect that trend to continue next year.
+>>> So, the current total expectation, internal expectation for the Tesla FSD having longer miles between versions than human is the second quarter of next year, which means it may end up being in the third quarter, but it's next -- it seems extremely likely to be next year.
+     Ashok, do you want to say anything?
+     Ashok Elluswamy -- Director, Autopilot Software
+
+Yeah.
+     Miles between critical interventions, like you mentioned, Elon, we already made 100x improvement with 12.5 from starting of this year and then with v13 release.
+     We expect to be 1,000x from the beginning, from January of this year on production software.
+     And this came in because of technology improvements going to end to end, having higher frame rate, partly also helped by Hardware force, more capabilities, so on.
+     And we hope that we continue to scale the neural network, the data, the training compute, etc.
+     By Q2 next year, we should cross over the average, even in miles per critical intervention collision, in that case.
+-----
+3. [Sentence #316] [PILOT]
+     The car -- this is like, again, a fundamental technology advantage and structural advantage compared to the rest of the auto industry.
+     Vaibhav Taneja -- Chief Financial Officer
+
+I think it's underappreciated as to what all we are able to do.
+     And that's why -- because like I said before, most of our cars, except for Cybertruck, look the same, so people don't realize that it has so much capability.
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+But they look better than other cars, but they're not like obviously super futuristic.
+     Travis Axelrod -- Head of Investor Relations
+
+Great.
+     Thank you very much.
+     The next question is, please provide an update on the Semi.
+>>> What will the next stage growth look like and when will FSD be ready?
+     Unknown speaker -- -- Analyst
+
+Sure.
+     So, as you -- we posted in the earnings we're progressing swiftly on the build of the Semi factory, our data factory in Reno.
+     We've released all our major cash flow expenditures for that program, and we're on track to start pilot builds in the second half of next year with production starting in the first half of 2026 and ramping really throughout the year to full production.
+     Semi growth will largely depend on our customers' adoption of the product.
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+Well, I don't think we're going to be limited, honestly.
+     Unknown speaker -- -- Analyst
+
+Which I can say -- which is like a no-brainer for the Semi because it's really a commodity of total cost of ownership.
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+Yes, exactly.
+-----
+4. [Sentence #160] [UNCERTAIN]
+     Thank you very much, Elon.
+     And Vaibhav has some opening remarks as well.
+     Vaibhav Taneja -- Chief Financial Officer
+
+Thanks.
+     Our Q3 results were positive and once again demonstrate the scale to which the business has evolved or with generation of record operating cash flows of $6.3 billion.
+     Our automotive revenues grew both quarter on quarter and year on year.
+     While we had unit volume growth, we did experience a reduction in ASPs primarily due to the impact of financing incentives.
+     As a reminder, we are providing these incentives primarily using third-party banks and financial institutions and recognize the cost of these incentives as an upfront reduction to revenue.
+>>> We released FSD for Cybertruck and other features like actually Smart Summon, like Elon talked about, in North America, which contributed $326 million of revenues in the quarter.
+     We continue to see elevated levels of regulatory credit sales with over $2 billion of revenues so far this year.
+     To expand on this at an industry level, China continues to outperform U.S.
+
+and Europe by a factor of three.
+     And if there is something to be learned from that, this gives a signal of what is to come in other regions.
+     As customers' acceptance of EV growth, we feel that is the right strategy to build affordable and more compelling leads.
+     Our focus remains on growing unit volume while avoiding a buildup of inventory.
+     To support this strategy, we're continuing to offer extremely compelling vehicle financing options in When you compare any vehicle in our lineup with other OEMs, we believe our vehicles provide much better value, particularly when you consider the safety features, performance and unparalleled software functionalities, like David also talked about, include also what Ashok had talked about around autonomy, music options, parental controls, and much more.
+     While every vehicle in our lineup comes up with these capabilities, there is an awareness gap not just with buyers but at times even with existing owners.
+-----
+
+Total context windows: 4

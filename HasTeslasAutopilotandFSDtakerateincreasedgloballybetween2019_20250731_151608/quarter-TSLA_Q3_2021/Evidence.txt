@@ -1,0 +1,27 @@
+[TSLA_Q3_2021] Has Tesla’s Autopilot and FSD take rate increased globally between 2019 and 2024, and did they achieve profitability from FSD as predicted?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #192]  The next question is, is Tesla considering any other ideas other than **FSD** with the real-world AI that can bring additional software revenue to Tesla?
+2. [Sentence #193]  If not, can Tesla consider building interesting games around **FSD** Beta?
+3. [Sentence #198]  And maybe last question from shareholders is, how does **FSD** ****take** **rate**** -- how has **FSD** ****take** **rate**** change since the introduction of monthly subscription?
+4. [Sentence #199]  Are there any plans to increase the **FSD** pricing as why the release becomes imminent?
+5. [Sentence #205]  And as a result of that, what we've seen in the data is not -- we're unable to detect a change in the upfront ****take** **rate**** of **FSD** when people when people purchase cars.
+6. [Sentence #226]  If you trade in your Tesla to Tesla, we -- there's a difference in price that we pay for a trade-in that has **FSD** compared to one that doesn't.
+7. [Sentence #317]  And what we're seeing in initial ****take** **rate**** data is that, if you compare that to what we're seeing in California, we're off to a good start here.
+8. [Sentence #366]  As full self-driving matures, as **take** rates increase, if we are to raise pricing on that, there's considerable upside both on gross margins and operating margin as that comes to light, as the business starts to become more of a mix of a hardware-based Company and a software-based Company.
+
+Total transcript-order evidence sentences: 8
+
+--- Evidence by Similarity ---
+1. [Sentence #205]  (Similarity: 1.100) And as a result of that, what we've seen in the data is not -- we're unable to detect a change in the upfront ****take** **rate**** of **FSD** when people when people purchase cars.
+2. [Sentence #198]  (Similarity: 1.060) And maybe last question from shareholders is, how does **FSD** ****take** **rate**** -- how has **FSD** ****take** **rate**** change since the introduction of monthly subscription?
+3. [Sentence #317]  (Similarity: 0.847) And what we're seeing in initial ****take** **rate**** data is that, if you compare that to what we're seeing in California, we're off to a good start here.
+4. [Sentence #366]  (Similarity: 0.845) As full self-driving matures, as **take** rates increase, if we are to raise pricing on that, there's considerable upside both on gross margins and operating margin as that comes to light, as the business starts to become more of a mix of a hardware-based Company and a software-based Company.
+5. [Sentence #226]  (Similarity: 0.753) If you trade in your Tesla to Tesla, we -- there's a difference in price that we pay for a trade-in that has **FSD** compared to one that doesn't.
+6. [Sentence #192]  (Similarity: 0.690) The next question is, is Tesla considering any other ideas other than **FSD** with the real-world AI that can bring additional software revenue to Tesla?
+7. [Sentence #199]  (Similarity: 0.665) Are there any plans to increase the **FSD** pricing as why the release becomes imminent?
+8. [Sentence #193]  (Similarity: 0.645) If not, can Tesla consider building interesting games around **FSD** Beta?
+
+Total similarity-top evidence sentences: 8
+
+-----

@@ -1,0 +1,25 @@
+[TSLA_Q4_2019] How did Tesla’s solar ambitions (e.g., Solar Roof targets from 2019–2021) translate into actual deployments through 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #41]  And in conclusion when I think of what we have in front of us, the next couple of years, we've got Model Y, we've got Giga Berlin, Tesla Semi, Solarglass **Roof**, Cybertruck some very exciting improvements in battery technology for the full self-driving, we got the next-gen Roadster and probably in a bunch of other products we'll [indiscernible] too.
+2. [Sentence #44]  If you look back 10 years from today to 2010, we will produce approximately a 1,000 times more cars in 2020 then we produced in 2010, 8,000 and we have also Solarglass and **solar** retrofit, Powerwall and Powerpack other things too.
+3. [Sentence #85]  What's the 2020 target for the number of Solarglass **Roof** installations in California?
+4. [Sentence #86]  Elon Musk
+
+Well, I think we do -- we are seeing, [indiscernible] from a small base, exponential growth in demand and output for our Solarglass **Roof**.
+5. [Sentence #91]  And I think people will want a live **roof** that generates power and it looks good and lasts long time and it's the future we want.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #85]  (Similarity: 0.730) What's the 2020 target for the number of Solarglass **Roof** installations in California?
+2. [Sentence #41]  (Similarity: 0.666) And in conclusion when I think of what we have in front of us, the next couple of years, we've got Model Y, we've got Giga Berlin, Tesla Semi, Solarglass **Roof**, Cybertruck some very exciting improvements in battery technology for the full self-driving, we got the next-gen Roadster and probably in a bunch of other products we'll [indiscernible] too.
+3. [Sentence #86]  (Similarity: 0.647) Elon Musk
+
+Well, I think we do -- we are seeing, [indiscernible] from a small base, exponential growth in demand and output for our Solarglass **Roof**.
+4. [Sentence #91]  (Similarity: 0.632) And I think people will want a live **roof** that generates power and it looks good and lasts long time and it's the future we want.
+5. [Sentence #44]  (Similarity: 0.615) If you look back 10 years from today to 2010, we will produce approximately a 1,000 times more cars in 2020 then we produced in 2010, 8,000 and we have also Solarglass and **solar** retrofit, Powerwall and Powerpack other things too.
+
+Total similarity-top evidence sentences: 5
+
+-----
