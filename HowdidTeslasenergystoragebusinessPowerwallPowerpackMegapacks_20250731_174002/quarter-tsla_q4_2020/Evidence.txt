@@ -1,0 +1,97 @@
+[TSLA_Q4_2020] How did Tesla’s energy storage business (Powerwall, Powerpack, Megapack) scale from 2019 to 2024, and was this growth aligned with Elon Musk’s targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #1]  Company Participants
+
+Martin Viecha - Senior Director, Investor Relations
+**Elon** Musk - Chief Executive Officer
+Zachary Kirkhorn - Chief Financial Officer
+Jerome Guillen - President, Automotive
+Andrew Baglino - Senior Vice President, Powertrain & **Energy** Engineering
+
+Conference Call Participants
+
+Colin Rusch - Oppenheimer
+Dan Levy - Credit Suisse
+Alex Potter - Piper Sandler
+Joseph Spak - RBC Capital Markets
+Emmanuel Rosner - Deutsche Bank
+Ben Kallo - Baird
+Gene Munster - Loup Ventures
+
+Operator
+
+Ladies and gentlemen, thank you for standing by, and welcome to Tesla's Q4 2020 Financial Results and Q&A Webcast.
+2. [Sentence #143]  **Elon** Musk
+
+Unfortunately, we're not considering that at this time.
+3. [Sentence #170]  **Elon** Musk
+
+I guess, I'm confident based on my understanding of the technical roadmap and the progress that we're making between each beta iteration.
+4. [Sentence #278]  **Elon** Musk
+
+Well, we currently are winning that -- we are currently the leader in the Chinese EV market.
+5. [Sentence #290]  Three-terawatt hours target from Battery Day implies half of long-term battery capacity goes to **storage**, depending on what you assume for pack size on **Elon**'s 20 million vehicle unit goal?
+6. [Sentence #413]  **Elon** Musk
+
+That is one of the things that limits focus or limits the **growth** rate.
+7. [Sentence #432]  **Elon** Musk
+
+I think Tesla is definitely going to make an electric van at some point.
+8. [Sentence #471]  **Elon** Musk
+
+I think we feel very confident about achieving those **targets**, let's say, over a three-year time frame.
+9. [Sentence #567]  **Elon** Musk
+
+But basically, we do not see any issues with creating a compelling long-range truck with batteries.
+
+Total transcript-order evidence sentences: 9
+
+--- Evidence by Similarity ---
+1. [Sentence #413]  (Similarity: 0.783) **Elon** Musk
+
+That is one of the things that limits focus or limits the **growth** rate.
+2. [Sentence #1]  (Similarity: 0.716) Company Participants
+
+Martin Viecha - Senior Director, Investor Relations
+**Elon** Musk - Chief Executive Officer
+Zachary Kirkhorn - Chief Financial Officer
+Jerome Guillen - President, Automotive
+Andrew Baglino - Senior Vice President, Powertrain & **Energy** Engineering
+
+Conference Call Participants
+
+Colin Rusch - Oppenheimer
+Dan Levy - Credit Suisse
+Alex Potter - Piper Sandler
+Joseph Spak - RBC Capital Markets
+Emmanuel Rosner - Deutsche Bank
+Ben Kallo - Baird
+Gene Munster - Loup Ventures
+
+Operator
+
+Ladies and gentlemen, thank you for standing by, and welcome to Tesla's Q4 2020 Financial Results and Q&A Webcast.
+3. [Sentence #567]  (Similarity: 0.661) **Elon** Musk
+
+But basically, we do not see any issues with creating a compelling long-range truck with batteries.
+4. [Sentence #471]  (Similarity: 0.659) **Elon** Musk
+
+I think we feel very confident about achieving those **targets**, let's say, over a three-year time frame.
+5. [Sentence #290]  (Similarity: 0.652) Three-terawatt hours target from Battery Day implies half of long-term battery capacity goes to **storage**, depending on what you assume for pack size on **Elon**'s 20 million vehicle unit goal?
+6. [Sentence #278]  (Similarity: 0.617) **Elon** Musk
+
+Well, we currently are winning that -- we are currently the leader in the Chinese EV market.
+7. [Sentence #170]  (Similarity: 0.611) **Elon** Musk
+
+I guess, I'm confident based on my understanding of the technical roadmap and the progress that we're making between each beta iteration.
+8. [Sentence #143]  (Similarity: 0.608) **Elon** Musk
+
+Unfortunately, we're not considering that at this time.
+9. [Sentence #432]  (Similarity: 0.605) **Elon** Musk
+
+I think Tesla is definitely going to make an electric van at some point.
+
+Total similarity-top evidence sentences: 9
+
+-----

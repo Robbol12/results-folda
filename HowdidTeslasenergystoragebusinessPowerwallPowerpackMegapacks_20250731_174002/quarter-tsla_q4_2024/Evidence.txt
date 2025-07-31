@@ -1,0 +1,31 @@
+[TSLA_Q4_2024] How did Tesla’s energy storage business (Powerwall, Powerpack, Megapack) scale from 2019 to 2024, and was this growth aligned with Elon Musk’s targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #143]  Back to Earth as **energy** **storage** is a big deal and will become -- really super important, will become incredibly important in the future.
+2. [Sentence #144]  And it is something that enables far greater **energy** output to the grid than is currently possible because the grids are -- the vast majority of the grid has no **energy** **storage** capability.
+3. [Sentence #145]  So, they have to design the power plants to -- for very high peaks and assuming that there's no **energy** **storage**.
+4. [Sentence #146]  Once you have grid **energy** **storage** and home-based **energy** **storage**, the actual total **energy** output per year of the grid is dramatically greater than people think.
+5. [Sentence #167]  As **Elon** mentioned, in Q4, we set records of vehicle deliveries and **energy** **storage** deployments in an uncertain macro environment.
+6. [Sentence #186]  **Energy** **storage** deployments reached an all-time high in Q4, and this resulted in -- but declined sequentially.
+7. [Sentence #187]  This was a result of higher -- sorry, **growth** came from **Megapack** and **Powerwall**.
+8. [Sentence #208]  In conclusion, like **Elon** said, 2025 is going to be a pivotal year for Tesla.
+9. [Sentence #312]  So, at that point, when we're at **scale**, it will meaningfully contribute to Tesla's revenue.
+10. [Sentence #562]  **Elon**, you've talked about the need for proliferation of sustainable transport in the past as sort of broader push to sustainable **energy**.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #187]  (Similarity: 0.876) This was a result of higher -- sorry, **growth** came from **Megapack** and **Powerwall**.
+2. [Sentence #186]  (Similarity: 0.688) **Energy** **storage** deployments reached an all-time high in Q4, and this resulted in -- but declined sequentially.
+3. [Sentence #562]  (Similarity: 0.680) **Elon**, you've talked about the need for proliferation of sustainable transport in the past as sort of broader push to sustainable **energy**.
+4. [Sentence #208]  (Similarity: 0.644) In conclusion, like **Elon** said, 2025 is going to be a pivotal year for Tesla.
+5. [Sentence #167]  (Similarity: 0.644) As **Elon** mentioned, in Q4, we set records of vehicle deliveries and **energy** **storage** deployments in an uncertain macro environment.
+6. [Sentence #312]  (Similarity: 0.643) So, at that point, when we're at **scale**, it will meaningfully contribute to Tesla's revenue.
+7. [Sentence #146]  (Similarity: 0.642) Once you have grid **energy** **storage** and home-based **energy** **storage**, the actual total **energy** output per year of the grid is dramatically greater than people think.
+8. [Sentence #145]  (Similarity: 0.640) So, they have to design the power plants to -- for very high peaks and assuming that there's no **energy** **storage**.
+9. [Sentence #144]  (Similarity: 0.629) And it is something that enables far greater **energy** output to the grid than is currently possible because the grids are -- the vast majority of the grid has no **energy** **storage** capability.
+10. [Sentence #143]  (Similarity: 0.624) Back to Earth as **energy** **storage** is a big deal and will become -- really super important, will become incredibly important in the future.
+
+Total similarity-top evidence sentences: 10
+
+-----

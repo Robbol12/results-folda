@@ -1,0 +1,47 @@
+[TSLA_Q4_2022] How did Tesla’s energy storage business (Powerwall, Powerpack, Megapack) scale from 2019 to 2024, and was this growth aligned with Elon Musk’s targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #47]  So, **energy** **storage** also saw record **growth** and that is continuing to accelerate.
+2. [Sentence #64]  So as **Elon** mentioned, 2022 was a terrific year for Tesla.
+3. [Sentence #76]  The **Energy** **business** had its strongest year yet across all metrics, led by steady improvement in both retail and commercial **storage**.
+4. [Sentence #90]  This includes expanding in-house cell production, bringing Cybertruck to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and **growth** of the **energy** **business**.
+5. [Sentence #100]  **Elon** Musk
+
+Demand far exceeds production, and we actually are making some small price increases as a result.
+6. [Sentence #243]  And the last investor question is, with near-infinite global demand for **energy** **storage**.
+7. [Sentence #245]  Martin Viecha
+
+Where will Tesla build the next **Megapack** factories?
+8. [Sentence #471]  And then the rest would go into stationary **storage**, the **Powerwall** and **Megapack**.
+9. [Sentence #493]  **Elon** Musk
+
+I think if we see a severe recession this year, which like I said, hopefully, we don't, in severe recessions, cash is king big time, because it's in such short supply.
+10. [Sentence #511]  **Elon** Musk
+
+I mean, I'd love to answer -- I'll probably be asking the same question, but we would be jumping the gun on future announcements.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #76]  (Similarity: 0.873) The **Energy** **business** had its strongest year yet across all metrics, led by steady improvement in both retail and commercial **storage**.
+2. [Sentence #47]  (Similarity: 0.816) So, **energy** **storage** also saw record **growth** and that is continuing to accelerate.
+3. [Sentence #471]  (Similarity: 0.801) And then the rest would go into stationary **storage**, the **Powerwall** and **Megapack**.
+4. [Sentence #90]  (Similarity: 0.778) This includes expanding in-house cell production, bringing Cybertruck to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and **growth** of the **energy** **business**.
+5. [Sentence #245]  (Similarity: 0.689) Martin Viecha
+
+Where will Tesla build the next **Megapack** factories?
+6. [Sentence #243]  (Similarity: 0.657) And the last investor question is, with near-infinite global demand for **energy** **storage**.
+7. [Sentence #100]  (Similarity: 0.649) **Elon** Musk
+
+Demand far exceeds production, and we actually are making some small price increases as a result.
+8. [Sentence #64]  (Similarity: 0.631) So as **Elon** mentioned, 2022 was a terrific year for Tesla.
+9. [Sentence #511]  (Similarity: 0.619) **Elon** Musk
+
+I mean, I'd love to answer -- I'll probably be asking the same question, but we would be jumping the gun on future announcements.
+10. [Sentence #493]  (Similarity: 0.611) **Elon** Musk
+
+I think if we see a severe recession this year, which like I said, hopefully, we don't, in severe recessions, cash is king big time, because it's in such short supply.
+
+Total similarity-top evidence sentences: 10
+
+-----

@@ -1,0 +1,87 @@
+[TSLA_Q2_2020] How did Tesla’s energy storage business (Powerwall, Powerpack, Megapack) scale from 2019 to 2024, and was this growth aligned with Elon Musk’s targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #1]  Company Participants
+
+Martin Viecha - Senior Director, Investor Relations
+**Elon** Musk - Chief Executive Officer
+Zachary Kirkhorn - Chief Financial Officer
+Drew Baglino - Senior Vice President, Powertrain & **Energy** Engineering
+
+Conference Call Participants
+
+Dan Levy - Credit Suisse
+Toni Sacconaghi - Bernstein
+Emmanuel Rosner - Deutsche Bank
+Philippe Houchois - Jefferies
+
+Operator
+
+Ladies and gentlemen, thank you for standing by and welcome to Tesla’s Q2 2020 Financial Results Q&A and Webcast.
+2. [Sentence #108]  In the **Energy** **business**, our **Megapack** product achieved its first quarterly profit.
+3. [Sentence #217]  **Elon** Musk
+
+It's a better factory for less money in less time.
+4. [Sentence #263]  The first one is, Tesla **Energy** seems widely ignored by Wall Street, despite **Elon** comments about **growth** rate exceeding automotive.
+5. [Sentence #268]  I think long term, Tesla **Energy** will be roughly the same size as Tesla Automotive.
+6. [Sentence #269]  So, I mean, the **Energy** **business** collectively is bigger than the automotive **business**.
+7. [Sentence #286]  I think the **Megapack** has represented itself and is an integrated rapidly deployable grid tied **storage** battery of megawatt hour **scale**.
+8. [Sentence #290]  It's an autonomous **energy** market participation system that does high-frequency trading in short...
+
+**Elon** Musk
+
+That's a bad word.
+9. [Sentence #309]  I mean, we've…
+
+**Elon** Musk
+
+It’s just necessary in order to solve the sustainable **energy** problem.
+10. [Sentence #542]  **Elon** Musk
+
+Demand is not a problem.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #286]  (Similarity: 0.959) I think the **Megapack** has represented itself and is an integrated rapidly deployable grid tied **storage** battery of megawatt hour **scale**.
+2. [Sentence #108]  (Similarity: 0.942) In the **Energy** **business**, our **Megapack** product achieved its first quarterly profit.
+3. [Sentence #263]  (Similarity: 0.907) The first one is, Tesla **Energy** seems widely ignored by Wall Street, despite **Elon** comments about **growth** rate exceeding automotive.
+4. [Sentence #1]  (Similarity: 0.763) Company Participants
+
+Martin Viecha - Senior Director, Investor Relations
+**Elon** Musk - Chief Executive Officer
+Zachary Kirkhorn - Chief Financial Officer
+Drew Baglino - Senior Vice President, Powertrain & **Energy** Engineering
+
+Conference Call Participants
+
+Dan Levy - Credit Suisse
+Toni Sacconaghi - Bernstein
+Emmanuel Rosner - Deutsche Bank
+Philippe Houchois - Jefferies
+
+Operator
+
+Ladies and gentlemen, thank you for standing by and welcome to Tesla’s Q2 2020 Financial Results Q&A and Webcast.
+5. [Sentence #309]  (Similarity: 0.733) I mean, we've…
+
+**Elon** Musk
+
+It’s just necessary in order to solve the sustainable **energy** problem.
+6. [Sentence #290]  (Similarity: 0.727) It's an autonomous **energy** market participation system that does high-frequency trading in short...
+
+**Elon** Musk
+
+That's a bad word.
+7. [Sentence #268]  (Similarity: 0.689) I think long term, Tesla **Energy** will be roughly the same size as Tesla Automotive.
+8. [Sentence #269]  (Similarity: 0.661) So, I mean, the **Energy** **business** collectively is bigger than the automotive **business**.
+9. [Sentence #217]  (Similarity: 0.639) **Elon** Musk
+
+It's a better factory for less money in less time.
+10. [Sentence #542]  (Similarity: 0.631) **Elon** Musk
+
+Demand is not a problem.
+
+Total similarity-top evidence sentences: 10
+
+-----

@@ -1,0 +1,43 @@
+[TSLA_Q4_2021] How did Tesla’s energy storage business (Powerwall, Powerpack, Megapack) scale from 2019 to 2024, and was this growth aligned with Elon Musk’s targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #111]  As **Elon** mentioned as well, from what we're seeing, the pace of **growth** in 2022 will again be determined by supply chain and logistics, which is quite difficult for us to forecast.
+2. [Sentence #152]  **Elon** Musk
+
+And then, it's so constrained on mass and volume and **energy**.
+3. [Sentence #330]  **Elon**, I guess, my question is around the **Megapack** or your **energy** **business**.
+4. [Sentence #331]  And so, as we look at the strategy or the supply chain constraints that you mentioned, you have two different strategies or it seems like with **Megapack** and **Powerwall**.
+5. [Sentence #335]  To be clear, we do think that old stationary **storage**, **Powerwall** and **Megapack**, will be -- will transition to an iron-based system, basically a non-nickel system.
+6. [Sentence #363]  I mean, either way, I think our plans are pretty ambitious for **Megapack** this year and **storage** in general.
+7. [Sentence #365]  But ultimately, I mean, to **Elon**'s point about the **growth** of this **business**, I mean, we need to be growing it faster than the vehicle **business**.
+8. [Sentence #366]  **Elon** Musk
+
+And it will naturally grow faster than the vehicle **business** once we can -- yes, the chip constraint, frankly.
+9. [Sentence #378]  **Elon** Musk
+
+Research centers.
+10. [Sentence #451]  Is it something that you guys are going to deploy in all cars, whatever the chemistry also in the **Megapack**, in all your ****energy** **storage** **business****?
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #451]  (Similarity: 1.215) Is it something that you guys are going to deploy in all cars, whatever the chemistry also in the **Megapack**, in all your ****energy** **storage** **business****?
+2. [Sentence #330]  (Similarity: 1.109) **Elon**, I guess, my question is around the **Megapack** or your **energy** **business**.
+3. [Sentence #335]  (Similarity: 0.816) To be clear, we do think that old stationary **storage**, **Powerwall** and **Megapack**, will be -- will transition to an iron-based system, basically a non-nickel system.
+4. [Sentence #152]  (Similarity: 0.755) **Elon** Musk
+
+And then, it's so constrained on mass and volume and **energy**.
+5. [Sentence #331]  (Similarity: 0.751) And so, as we look at the strategy or the supply chain constraints that you mentioned, you have two different strategies or it seems like with **Megapack** and **Powerwall**.
+6. [Sentence #366]  (Similarity: 0.741) **Elon** Musk
+
+And it will naturally grow faster than the vehicle **business** once we can -- yes, the chip constraint, frankly.
+7. [Sentence #365]  (Similarity: 0.736) But ultimately, I mean, to **Elon**'s point about the **growth** of this **business**, I mean, we need to be growing it faster than the vehicle **business**.
+8. [Sentence #363]  (Similarity: 0.686) I mean, either way, I think our plans are pretty ambitious for **Megapack** this year and **storage** in general.
+9. [Sentence #378]  (Similarity: 0.677) **Elon** Musk
+
+Research centers.
+10. [Sentence #111]  (Similarity: 0.651) As **Elon** mentioned as well, from what we're seeing, the pace of **growth** in 2022 will again be determined by supply chain and logistics, which is quite difficult for us to forecast.
+
+Total similarity-top evidence sentences: 10
+
+-----

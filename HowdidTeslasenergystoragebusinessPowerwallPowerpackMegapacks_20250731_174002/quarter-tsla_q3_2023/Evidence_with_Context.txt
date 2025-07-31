@@ -1,0 +1,184 @@
+[TSLA_Q3_2023] How did Tesla’s energy storage business (Powerwall, Powerpack, Megapack) scale from 2019 to 2024, and was this growth aligned with Elon Musk’s targets?
+
+1. [Sentence #55] [PILOT]
+     Despite such factory shutdowns, our cost per vehicle decreased to approximately $37,500.
+     We saw sequential decreases in material cost and freight.
+     Reducing the cost of our vehicles is our top priority.
+     On the operating expenses front, R&D expenses continued to rise due to Cybertruck prototype builds and pilot production testing combined with spend on AI technologies like full self-driving, Optimus and Dojo.
+     We have and will continue to make investments in these areas, and hence our capital expenditure and R&D will continue to grow in the near term.
+     However, our focus is to continue making investments through positive cash flow from operations.
+     This year itself, we have generated operating cash flows of approximately [$8.9 billion] (ph) and free cash flows of approximately $2.3 billion.
+>>> Our other businesses are becoming more prominent on a standalone basis with energy business leading the charge, primarily from the growth in Megapack deployments.
+     Our services and other businesses on a year-on-year basis also continue to show positive momentum as we benefit from our growing fleet.
+     As regards our pricing strategy, in addition to what we have shared before, I want to elaborate that most car buying happens with one or other form of financing, and hence we also view pricing in terms of monthly costs for the customer.
+     And therefore, as interest costs in the U.S. have risen substantially, it has required us to adjust the price of our vehicles to keep the monthly cost in parity.
+     We’ve tried to offset such adjustments via focus on reducing costs.
+     However, there is an inherent lag in cost reductions, which in turn impacts margins.
+     To that extent, we recently announced a partner vehicle leasing program in the U.S. whereby you can get a standard Model Y for as low as $399 a month.
+     In conclusion, as we navigate through a challenging economic environment, we’re focused on reducing costs, maximizing delivery volumes, and continuing making investments in the future, in particular, AI and other next generation platform.
+-----
+2. [Sentence #273] [UNCERTAIN]
+     So, in terms of -- you have few different aspects of your question.
+     So if I just look at from Q3 perspective, obviously, factory idle time had an impact.
+     It did impact by -- and I won’t give you the exact percentage, but it had a decent impact for the quarter.
+     And when you look at the other pieces, which we are trying to do, we did see certain of our other factories ramping up pretty well, right?
+     And they actually contributed pretty well to the margin for this quarter.
+     In fact, one of the factories came pretty close to in terms of per unit cost to where we are for our other established factory, which is Fremont.
+     So that was a positive in the quarter.
+>>> When it comes to energy margins, Megapack deployment was the key driver there.
+     And that product has done well.
+     I mean, on the cost curve also, we’ve been able to do a lot there.
+     But I do want to caution that Megapack deployments are a bit lumpy.
+     So yes, we had a great quarter this period.
+     But depending upon where we are trying to deploy that product in different markets, you would see periods where there would be downward pressure on deployment because of us trying to get the product to that base way…
+
+Unidentified Company Representative
+
+Yes, product in transit.
+     Yes.
+     Vaibhav Taneja
+
+Yes.
+-----
+3. [Sentence #14] [SCALE ACHIEVED]
+     Really you can think of it as there’s just a large bitstream coming in and a tiny bitstream going out, compressing reality into a very small set of outputs, which is actually kind of how humans work.
+     The vast majority of human data input is optics from our eyes.
+     And so, we are like the car, photons in, controls out with neural nets, just neural nets in the middle.
+     So, interesting to think about that.
+     We’ll continue to invest significantly in AI development, as this is really the mass game changer.
+     And I mean success in this regard in the long-term I think has the potential to make Tesla the most valuable company in the world by far.
+     If you have fully autonomous cars at scale and fully autonomous humanoid robots that are truly useful, it’s not clear what the limit is.
+>>> Regarding energy storage, we deployed 4 gigawatt hours of energy of storage products in Q3.
+     And as this business grows, the energy division is becoming our highest margin business.
+     Energy and service now contribute over $0.5 billion to quarterly profit.
+     The Cybertruck, I know a lot of people are excited about the Cybertruck.
+     I am too.
+     I’ve driven the car.
+     It’s an amazing product.
+     I do want to emphasize that there will be enormous challenges in reaching volume production with the Cybertruck, and then in making a Cybertruck cash flow positive.
+-----
+4. [Sentence #15] [SCALE ACHIEVED]
+     The vast majority of human data input is optics from our eyes.
+     And so, we are like the car, photons in, controls out with neural nets, just neural nets in the middle.
+     So, interesting to think about that.
+     We’ll continue to invest significantly in AI development, as this is really the mass game changer.
+     And I mean success in this regard in the long-term I think has the potential to make Tesla the most valuable company in the world by far.
+     If you have fully autonomous cars at scale and fully autonomous humanoid robots that are truly useful, it’s not clear what the limit is.
+     Regarding energy storage, we deployed 4 gigawatt hours of energy of storage products in Q3.
+>>> And as this business grows, the energy division is becoming our highest margin business.
+     Energy and service now contribute over $0.5 billion to quarterly profit.
+     The Cybertruck, I know a lot of people are excited about the Cybertruck.
+     I am too.
+     I’ve driven the car.
+     It’s an amazing product.
+     I do want to emphasize that there will be enormous challenges in reaching volume production with the Cybertruck, and then in making a Cybertruck cash flow positive.
+     This is simply normal for when you’ve got a product with a lot of new technology or any new vehicle, brand new vehicle program, but especially one that is as different and advanced as the Cybertruck, you will have problems proportionate to how many new things you’re trying to solve at scale.
+-----
+5. [Sentence #1] [PILOT]
+>>> Elon Musk
+
+[Call Starts Abruptly]…of new factories and we believe there’s still meaningful room for improvement there.
+     Regarding Autopilot and AI, our vehicles are now driven over 0.5 billion miles with FSD beta, full self-driving beta, and that number is growing rapidly.
+     We recently completed a 10,000 GPU cluster of H100s.
+     We think probably bring it into operation faster than anyone’s ever brought that much compute per unit time into production, since training is the fundamental limiting factor on progress with full self-driving and vehicle autonomy.
+     We’re also seeing significant promise with FSD version 12.
+     This is the end-to-end AI where it’s photon count in, controls out.
+     Really you can think of it as there’s just a large bitstream coming in and a tiny bitstream going out, compressing reality into a very small set of outputs, which is actually kind of how humans work.
+     The vast majority of human data input is optics from our eyes.
+-----
+6. [Sentence #122] [PLAN]
+     I don’t think it’s nothing.
+     But informing people of a car that is great, but they cannot afford doesn’t really help.
+     So that is really the thing that must be solved is to make the car affordable or the average person cannot buy it for any amount of money or they can’t afford it.
+     So, this is big deal.
+     Martin Viecha
+
+The next question is, when do you expect Model 3 Highland to be available in the U.S.?
+     I just wanted to address that unfortunately we don’t answer product related questions and timings on earnings calls.
+     So let’s go to the next one.
+>>> Current sell side consensus assumes that Tesla will deliver 2.3 million vehicles in 2024, representing 28% growth versus 2023 guidance.
+     Is this growth rate achievable without any mass market launches in 2024?
+     And when does Tesla expect to return to its 50% long-term CAGR?
+     Vaibhav Taneja
+
+When we look at 2024, there are a lot of moving pieces.
+     I just talked about what is happening in the macroeconomic environment.
+     So, we’re focused on growing our volumes in a very cost efficient manner and are carefully reviewing all our options, and we’ll be able to provide a much more meaningful update at our next earnings call.
+     Elon Musk
+
+Yes.
+     I mean, at the risk of stating the obvious, it is not possible to have a compound growth rate of 50% forever, or you will exceed the mass of the known universe.
+-----
+7. [Sentence #44] [PILOT]
+     The Tesla AI team is I think one of the world’s best, and I think it is actually by far the world’s best when it comes to real world AI.
+     I’ll say that again, Tesla has the best real world AI team on earth, period, and it’s getting better.
+     And lastly, I wanted to thank all of our employees who are making a lot of extra effort during uncertain times.
+     Thank you very much for your hard work and the impact that you’re making.
+     Martin Viecha
+
+Thank you very much, Elon.
+     And our CFO, Vaibhav, has some opening remarks as well.
+     Vaibhav Taneja
+
+Thanks, Martin.
+>>> Vehicle deliveries in Q3 outpaced production, and we had yet another record quarter of profitability in our energy business.
+     Congratulations to the Tesla team for the continued focus on operational excellence as we navigate through a period of economic uncertainty, higher interest rates, and shifting consumer sentiment.
+     As Elon mentioned, our Q3 operational and financial performance was impacted by planned downtimes for our factory upgrades.
+     This was necessary to allow for further factory improvements and production rate increases.
+     Despite such factory shutdowns, our cost per vehicle decreased to approximately $37,500.
+     We saw sequential decreases in material cost and freight.
+     Reducing the cost of our vehicles is our top priority.
+     On the operating expenses front, R&D expenses continued to rise due to Cybertruck prototype builds and pilot production testing combined with spend on AI technologies like full self-driving, Optimus and Dojo.
+-----
+8. [Sentence #310] [UNCERTAIN]
+     Rod Lache
+
+The timing of the next-gen product, can you share that?
+     Elon Musk
+
+Not at this time.
+     Rod Lache
+
+Okay.
+     And just as a follow-up, obviously, price is also a driver of demand, but that’s obviously not happening in a vacuum.
+     And you mentioned that -- I think you mentioned that at some point during this call that you’re also maybe hitting the law of large numbers on some of your products.
+     Can you just share how you’re thinking about price elasticity just at this point in this macro environment?
+     And any thoughts along those lines?
+>>> Elon Musk
+
+I think that there’s very significant price elasticity.
+     I mean, to be totally frank, if our car costs the same as a RAV4, nobody would buy a RAV4 or at least they’re very unlikely to.
+     It’s worth noting that a lot of these incentives, like the tax credit and whatnot, they’re actually very difficult for the average person to access because they -- most people do not have $10,000 or even $7,500, burning a hole in their bank account.
+     A lot of -- a large number of people are living paycheck to paycheck, and with a lot of debt.
+     They’ve got credit card debt, mortgage debt.
+     So, that’s reality for most people.
+     It’s sometimes difficult for people who are high income and I’d say high to be like someone who’s earning over $200,000 a year to understand what life is like for someone who is earning $50,000 or $60,000 or $70,000 a year, which is most people.
+     So like for a lot of people, like this tax credit just -- they can’t front $7,500 for 18 months or even 6 months to get -- for the tax credit, and they actually don’t, in some case, even have that $7,500 in taxes.
+-----
+9. [Sentence #154] [PILOT]
+     Now obviously, we need to make sure that it’s a good place for humans in that future.
+     We do not create some variance of the terminator outcome.
+     So, we’re going to put a lot of effort into localized control of the humanoid robot.
+     So basically, anyone will be able to shut it off locally, and you can’t change that, even if you put -- like a software update, you can’t change that.
+     It has to be hard-coded.
+     Martin Viecha
+
+Thank you.
+     The next question is, why was the price dropped on FSD if it is getting better and robotaxi is expected so soon?
+>>> Elon Musk
+
+Well, we just wanted to make it more affordable as more people try it.
+     Yes, I think, over time, the price of FSD will increase proportionate to its value.
+     So we regard the current price as a kind of a temporary low.
+     Martin Viecha
+
+The next question is again on FSD.
+     Mercedes is accepting legal liability for when its Level 3 autonomous driving system drive pilot is active.
+     Is Tesla planning to accept legal liability for FSD?
+     And if so, when?
+     Elon Musk
+
+Well, there’s a lot of people that assume we have legal liability judging by the lawsuits.
+-----
+
+Total context windows: 9

@@ -1,0 +1,47 @@
+[TSLA_Q1_2024] How did Tesla’s energy storage business (Powerwall, Powerpack, Megapack) scale from 2019 to 2024, and was this growth aligned with Elon Musk’s targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #15]  Despite these challenges, the Tesla team did a great job executing in a tough environment and **energy** **storage** deployments, the **Megapack** in particular, reached an all-time high in Q1, leading to record profitability for the **energy** **business**, and that looks likely to continue to increase in the quarters and years ahead.
+2. [Sentence #66]  Our **Energy** **business** continues to make meaningful progress with margins reaching a record of 24.6%.
+3. [Sentence #67]  We expect the **energy** **storage** deployments for 2024 to grow at least 75% higher from 2023.
+4. [Sentence #270]  **Elon** Musk
+
+No, I think we'll have higher sales this year than last year.
+5. [Sentence #344]  **Elon** Musk
+
+Yes, we're not giving up anything that is significant that I'm aware of.
+6. [Sentence #437]  **Elon** Musk
+
+Yes, it’s going to be a great product and at a great price.
+7. [Sentence #552]  **Elon** Musk
+
+We're making good progress on that, but I don't think it's super important for at least in the near term.
+8. [Sentence #634]  **Elon** Musk
+
+So, thank you for helping Tesla to get to where it is today over seven years.
+
+Total transcript-order evidence sentences: 8
+
+--- Evidence by Similarity ---
+1. [Sentence #15]  (Similarity: 1.197) Despite these challenges, the Tesla team did a great job executing in a tough environment and **energy** **storage** deployments, the **Megapack** in particular, reached an all-time high in Q1, leading to record profitability for the **energy** **business**, and that looks likely to continue to increase in the quarters and years ahead.
+2. [Sentence #67]  (Similarity: 0.755) We expect the **energy** **storage** deployments for 2024 to grow at least 75% higher from 2023.
+3. [Sentence #66]  (Similarity: 0.688) Our **Energy** **business** continues to make meaningful progress with margins reaching a record of 24.6%.
+4. [Sentence #634]  (Similarity: 0.661) **Elon** Musk
+
+So, thank you for helping Tesla to get to where it is today over seven years.
+5. [Sentence #270]  (Similarity: 0.629) **Elon** Musk
+
+No, I think we'll have higher sales this year than last year.
+6. [Sentence #552]  (Similarity: 0.614) **Elon** Musk
+
+We're making good progress on that, but I don't think it's super important for at least in the near term.
+7. [Sentence #344]  (Similarity: 0.604) **Elon** Musk
+
+Yes, we're not giving up anything that is significant that I'm aware of.
+8. [Sentence #437]  (Similarity: 0.603) **Elon** Musk
+
+Yes, it’s going to be a great product and at a great price.
+
+Total similarity-top evidence sentences: 8
+
+-----

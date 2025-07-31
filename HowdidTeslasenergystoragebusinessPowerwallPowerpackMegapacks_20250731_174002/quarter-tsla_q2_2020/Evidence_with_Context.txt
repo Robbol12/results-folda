@@ -1,0 +1,257 @@
+[TSLA_Q2_2020] How did Tesla’s energy storage business (Powerwall, Powerpack, Megapack) scale from 2019 to 2024, and was this growth aligned with Elon Musk’s targets?
+
+1. [Sentence #286] [PILOT]
+     The battery and solar will both be enormous.
+     And they kind of have to be in order to -- for us to have a sustainable future.
+     And we've got a great product road map on that front as well.
+     So we're going to ship in the Megapack.
+     It's very well received.
+     Drew, you want to talk about that?
+     Drew Baglino
+
+Yes.
+>>> I think the Megapack has represented itself and is an integrated rapidly deployable grid tied storage battery of megawatt hour scale.
+     We're working with utilities, large and small, not just utilities, but also just like microgrid and project developers of all type, and building our own projects where it makes sense.
+     And there's a lot of demand for the product, and we're growing the production rates as fast as we can for that product.
+     And then on Autobidder, Autobidder is basically autopilot for grid-type batteries.
+     It's an autonomous energy market participation system that does high-frequency trading in short...
+
+Elon Musk
+
+That's a bad word.
+     Drew Baglino
+
+Sorry.
+     Elon Musk
+
+How should free instant energy called front running.
+     We're not doing that.
+-----
+2. [Sentence #108] [UNCERTAIN]
+     Despite these charges, we continue to make progress, reducing our costs, particularly on Model Y in Fremont, and Model 3 in Shanghai.
+     Given the global macroeconomic context, we made the decision in Q2 to pass-through savings to customers around the world on some of our products.
+     With the release of stoplight and stop sign recognition and response, we recognized $48 million of deferred revenue in the period.
+     The full profit impact on our P&L is less than half of this, due to costs associated with FSD computer retrofits in the field.
+     Regulatory credit revenue increased sequentially to $428 million.
+     While difficult to forecast precisely, our best estimate of 2020 credit revenue is roughly double that of 2019.
+     Services and other margin improved yet again, marking the fifth sequential quarter of improvement.
+>>> In the Energy business, our Megapack product achieved its first quarterly profit.
+     We remain production-constrained in this business and are continuing to work towards building additional capacity.
+     And our solar installation business was impacted by permit office closures, limiting installation volume.
+     Stock-based comp increased from Q1 to Q2.
+     This is driven almost entirely by an expense related to the next tranche of the CEO grant, as well as early vesting of the first tranche, which is reflected in SG&A within operating expenses.
+     On cash flows, our cash balance increased to our highest level yet of $8.6 billion, which included free cash flows of over $400 million.
+     This is a strong result on its own, despite an increase in capital expenses associated with Shanghai and Berlin, as well as movements in working capital.
+     A few things to note on working capital, particularly accounts receivables.
+-----
+3. [Sentence #263] [PLAN]
+     Martin Viecha
+
+And the last question from institutional investor is, how many vehicles can Tesla produce in Texas?
+     Elon Musk
+
+Well, right now, 0.
+     But long term, a lot.
+     Drew Baglino
+
+It's our biggest property.
+     Elon Musk
+
+Yes, it's biggest property, true.
+     Martin Viecha
+
+Okay.
+     And now we can shift to retail investor questions on Say.com.
+>>> The first one is, Tesla Energy seems widely ignored by Wall Street, despite Elon comments about growth rate exceeding automotive.
+     Could Tesla share more detail on calendar planned projects to help investors better understand the business outlook?
+     How disruptive is Tesla's Autobidder technology?
+     Elon Musk
+
+Yes.
+     I can't emphasize.
+     I think long term, Tesla Energy will be roughly the same size as Tesla Automotive.
+     So, I mean, the Energy business collectively is bigger than the automotive business.
+     So you feel like, how big is the Energy sector?
+-----
+4. [Sentence #1] [NO EVIDENCE]
+>>> Company Participants
+
+Martin Viecha - Senior Director, Investor Relations
+Elon Musk - Chief Executive Officer
+Zachary Kirkhorn - Chief Financial Officer
+Drew Baglino - Senior Vice President, Powertrain & Energy Engineering
+
+Conference Call Participants
+
+Dan Levy - Credit Suisse
+Toni Sacconaghi - Bernstein
+Emmanuel Rosner - Deutsche Bank
+Philippe Houchois - Jefferies
+
+Operator
+
+Ladies and gentlemen, thank you for standing by and welcome to Tesla’s Q2 2020 Financial Results Q&A and Webcast.
+     At this time, all participants are in a listen-only mode.
+     After the speaker presentation, there will be a question-and-answer session.
+     [Operator Instructions]
+
+I would now like to hand the conference over to your speaker, Mr. Martin Viecha, Senior Director for Investor Relations.
+     Please go ahead, sir.
+     Martin Viecha
+
+Thank you, Sherry, and good afternoon, everyone, and welcome to Tesla’s second quarter 2020 Q&A webcast.
+     I’m joined today by Elon Musk, Zachary Kirkhorn and a number of other Executives.
+     Our Q2 results were announced at about 1:15 PM Pacific Time in the update deck we published at the same link as this webcast.
+-----
+5. [Sentence #309] [PLAN]
+     And then the batteries, the computers like all interact with each other and make sure that they're working together to make the grid smooth.
+     And this can be done with the Powerwalls and the Megapacks and the Powerpacks all working together and interacting with third-party systems as well.
+     Drew Baglino
+
+Yes.
+     Essentially, are distributed.
+     It does both.
+     Elon Musk
+
+Yes.
+     Drew Baglino
+
+Yes.
+>>> I mean, we've…
+
+Elon Musk
+
+It’s just necessary in order to solve the sustainable energy problem.
+     Drew Baglino
+
+Yes, you can't plan power plants on the hourly scale in a renewable world.
+     You need to optimize them on a minute-by-minute scale, and that's what we're doing.
+     Elon Musk
+
+Yes.
+     The real limitation on Tesla growth is cell production at affordable price.
+     That's the real limit.
+     So that's why we're going to talk about a lot more about this on Battery Day because this is a fundamental scaling constraint.
+     And any part of that supply chain or pricing at the cell level will be the limiting factor.
+-----
+6. [Sentence #290] [PILOT]
+     It's very well received.
+     Drew, you want to talk about that?
+     Drew Baglino
+
+Yes.
+     I think the Megapack has represented itself and is an integrated rapidly deployable grid tied storage battery of megawatt hour scale.
+     We're working with utilities, large and small, not just utilities, but also just like microgrid and project developers of all type, and building our own projects where it makes sense.
+     And there's a lot of demand for the product, and we're growing the production rates as fast as we can for that product.
+     And then on Autobidder, Autobidder is basically autopilot for grid-type batteries.
+>>> It's an autonomous energy market participation system that does high-frequency trading in short...
+
+Elon Musk
+
+That's a bad word.
+     Drew Baglino
+
+Sorry.
+     Elon Musk
+
+How should free instant energy called front running.
+     We're not doing that.
+     Drew Baglino
+
+Not doing anything like that.
+     No, it's ensuring that the battery is doing everything it can to manage the grid intermittency of the renewals -- renewables and just grid intermittency of all kinds.
+     I mean, people turn their lights on and off, power plants turn on and off, factories ramp up and down and batteries are great to solve those problems.
+     Elon Musk
+
+Yes.
+-----
+7. [Sentence #268] [PLAN]
+     Martin Viecha
+
+Okay.
+     And now we can shift to retail investor questions on Say.com.
+     The first one is, Tesla Energy seems widely ignored by Wall Street, despite Elon comments about growth rate exceeding automotive.
+     Could Tesla share more detail on calendar planned projects to help investors better understand the business outlook?
+     How disruptive is Tesla's Autobidder technology?
+     Elon Musk
+
+Yes.
+     I can't emphasize.
+>>> I think long term, Tesla Energy will be roughly the same size as Tesla Automotive.
+     So, I mean, the Energy business collectively is bigger than the automotive business.
+     So you feel like, how big is the Energy sector?
+     Bigger than automotive.
+     And in order to achieve a sustainable energy future, we have to have sustainable energy generation, which I think is going to be primarily solar and followed by wind.
+     And those are intermittent.
+     So you need to have a lot of batteries to store the solar energy, because the wind doesn't always blow and the sun doesn't always shine.
+     So there's like three elements of the sustainable energy future: wind and solar sustainable energy generation; battery storage; and electric transport, those three things.
+-----
+8. [Sentence #269] [PLAN]
+     And now we can shift to retail investor questions on Say.com.
+     The first one is, Tesla Energy seems widely ignored by Wall Street, despite Elon comments about growth rate exceeding automotive.
+     Could Tesla share more detail on calendar planned projects to help investors better understand the business outlook?
+     How disruptive is Tesla's Autobidder technology?
+     Elon Musk
+
+Yes.
+     I can't emphasize.
+     I think long term, Tesla Energy will be roughly the same size as Tesla Automotive.
+>>> So, I mean, the Energy business collectively is bigger than the automotive business.
+     So you feel like, how big is the Energy sector?
+     Bigger than automotive.
+     And in order to achieve a sustainable energy future, we have to have sustainable energy generation, which I think is going to be primarily solar and followed by wind.
+     And those are intermittent.
+     So you need to have a lot of batteries to store the solar energy, because the wind doesn't always blow and the sun doesn't always shine.
+     So there's like three elements of the sustainable energy future: wind and solar sustainable energy generation; battery storage; and electric transport, those three things.
+     And the mission of Tesla is to accelerate sustainable energy.
+-----
+9. [Sentence #217] [PLAN]
+     It would be a huge improvement, or not even like half -- I think, I get vertical integration in litigation an order of magnitude improvement.
+     So yes.
+     And its -- do you want to Drew...
+
+Drew Baglino
+
+Yes.
+     I think the focus for us is increasing CapEx efficiency.
+     This is something that we've been working very hard for the past 3 years.
+     And you can see that we can build new factories for less amount of money and much faster.
+     Those things go together.
+>>> Elon Musk
+
+It's a better factory for less money in less time.
+     Drew Baglino
+
+Yes.
+     Less money means less time.
+     So that's a great advantage.
+     And also reducing this -- and there still is a lot, the amount of inefficiencies.
+     We want every operation to add value to the vehicle; value, meaning moving the atoms closer to the final state.
+     So we do not want any robot that just moves things.
+     Elon Musk
+
+Or in fact, it's like we want to be super respectful of people's labor.
+-----
+10. [Sentence #542] [UNCERTAIN]
+     Please go ahead.
+     Emmanuel Rosner
+
+Hi, good afternoon.
+     Could you please characterize the current near-term demand environment for your vehicles?
+     These are obviously unusual times.
+     I think back in Q1, you had indicated record backlog, I guess, at the beginning of this past quarter.
+     I haven't seen any specific comments about new orders or backlog in the release today.
+     So, can you give us some color?
+>>> Elon Musk
+
+Demand is not a problem.
+     Definitely not.
+     We do have some production supply chain challenges we're trying to slow right now.
+     For example, the Model Y, we're body casting, obviously, because it's new technology, it's been tricky to maintain rates and keep growing the rate for Model Y casting, which is -- it's a two-piece casting with a bunch -- and there's about half dozen other parts that are added on, that will transition to a one-piece casting.
+     In fact, I'm super excited about this.
+     We're going to have a -- the world's biggest casting press is getting assembled right now actually in Fremont for the Model Y rear body casting.
+     It's enormous and looks awesome.
+     So, it's -- look, the things that are troubling us right now are not demand, that they are just a bunch of firefighting on supply chain and production issues.
+-----
+
+Total context windows: 10

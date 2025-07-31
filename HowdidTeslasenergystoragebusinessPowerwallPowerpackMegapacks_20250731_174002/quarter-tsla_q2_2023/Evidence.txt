@@ -1,0 +1,47 @@
+[TSLA_Q2_2023] How did Tesla’s energy storage business (Powerwall, Powerpack, Megapack) scale from 2019 to 2024, and was this growth aligned with Elon Musk’s targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #86]  Second, we continue to work towards our goals of maximizing volumes on both, our vehicle and **energy** **business**, but most importantly, doing so in a way that generates the capital to continue our pace of R&D and capital investments.
+2. [Sentence #90]  For our **energy** **business**, we improved margins and gross profit driven by cost reductions and deal economics, particularly with **Megapack**.
+3. [Sentence #115]  Lastly, it is important to remember that most of what we focused on a Battery Day was the Tesla-engineered 4680 production system and the improvements we strove to achieve on equipment, factory density, capital cost and utility cost reduction, all of which we are realizing in our Texas **scale** up to date.
+4. [Sentence #117]  The next question is, can you talk more to the upcoming Tesla **Energy** products and how your thinking has evolved on the revenue model?
+5. [Sentence #120]  **Megapack** continues to show strong demand globally with Lathrop ramping successfully to meet our contracted projects in 2023.
+6. [Sentence #137]  For **Powerwall** that’s eligible to provide the full stack of **energy** services, like peaker capacity and system buffering, such as in Australia, we can more than double the value of ownership relative to a typical system today.
+7. [Sentence #217]  **Elon** Musk
+
+Well, they certainly put out a lot of press releases about it.
+8. [Sentence #222]  **Elon** Musk
+
+10 million.
+9. [Sentence #324]  **Elon** Musk
+
+Frankly, I think it’s ridiculous that we have positive free cash flow in a capital-intensive **business**, while investing massive amounts of money in new technology.
+10. [Sentence #523]  **Elon** Musk
+
+Yes, lithium prices were absolutely insane there for a while.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #90]  (Similarity: 0.869) For our **energy** **business**, we improved margins and gross profit driven by cost reductions and deal economics, particularly with **Megapack**.
+2. [Sentence #324]  (Similarity: 0.702) **Elon** Musk
+
+Frankly, I think it’s ridiculous that we have positive free cash flow in a capital-intensive **business**, while investing massive amounts of money in new technology.
+3. [Sentence #523]  (Similarity: 0.682) **Elon** Musk
+
+Yes, lithium prices were absolutely insane there for a while.
+4. [Sentence #117]  (Similarity: 0.658) The next question is, can you talk more to the upcoming Tesla **Energy** products and how your thinking has evolved on the revenue model?
+5. [Sentence #115]  (Similarity: 0.651) Lastly, it is important to remember that most of what we focused on a Battery Day was the Tesla-engineered 4680 production system and the improvements we strove to achieve on equipment, factory density, capital cost and utility cost reduction, all of which we are realizing in our Texas **scale** up to date.
+6. [Sentence #120]  (Similarity: 0.650) **Megapack** continues to show strong demand globally with Lathrop ramping successfully to meet our contracted projects in 2023.
+7. [Sentence #137]  (Similarity: 0.647) For **Powerwall** that’s eligible to provide the full stack of **energy** services, like peaker capacity and system buffering, such as in Australia, we can more than double the value of ownership relative to a typical system today.
+8. [Sentence #86]  (Similarity: 0.625) Second, we continue to work towards our goals of maximizing volumes on both, our vehicle and **energy** **business**, but most importantly, doing so in a way that generates the capital to continue our pace of R&D and capital investments.
+9. [Sentence #217]  (Similarity: 0.603) **Elon** Musk
+
+Well, they certainly put out a lot of press releases about it.
+10. [Sentence #222]  (Similarity: 0.602) **Elon** Musk
+
+10 million.
+
+Total similarity-top evidence sentences: 10
+
+-----

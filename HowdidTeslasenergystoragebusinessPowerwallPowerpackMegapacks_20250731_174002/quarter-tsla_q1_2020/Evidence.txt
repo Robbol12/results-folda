@@ -1,0 +1,35 @@
+[TSLA_Q1_2020] How did Tesla’s energy storage business (Powerwall, Powerpack, Megapack) scale from 2019 to 2024, and was this growth aligned with Elon Musk’s targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #86]  Our **energy** **business** was impacted as well by shutdown activities in Q1 limiting deployments.
+2. [Sentence #147]  **Elon** Musk
+
+Well, it has caused us to look closely at our cost structure and to be more efficient as a company.
+3. [Sentence #202]  Question number one, **Elon** has mentioned a 50% compound annual **growth** target for Tesla in the past.
+4. [Sentence #277]  **Powerwall**, **Powerpack**, **Megapack**.
+5. [Sentence #280]  And the last question from the retailers, when will Tesla start acquiring utilities like Hornsdale Power Reserve and most lending instead of selling them battery **storage**?
+6. [Sentence #338]  **Elon** Musk
+
+I think, it's high time we invested in infrastructure in this country.
+7. [Sentence #521]  I think like – I can't remember – I think from the very first days I heard you on the call, you've always mentioned that demand for **energy** **storage** is always outstripping supply, and you have more orders than you can make.
+8. [Sentence #526]  And so to really grow the ****energy** **storage** **business****, it's all about cell investments.
+
+Total transcript-order evidence sentences: 8
+
+--- Evidence by Similarity ---
+1. [Sentence #526]  (Similarity: 1.082) And so to really grow the ****energy** **storage** **business****, it's all about cell investments.
+2. [Sentence #277]  (Similarity: 0.916) **Powerwall**, **Powerpack**, **Megapack**.
+3. [Sentence #202]  (Similarity: 0.811) Question number one, **Elon** has mentioned a 50% compound annual **growth** target for Tesla in the past.
+4. [Sentence #338]  (Similarity: 0.682) **Elon** Musk
+
+I think, it's high time we invested in infrastructure in this country.
+5. [Sentence #521]  (Similarity: 0.671) I think like – I can't remember – I think from the very first days I heard you on the call, you've always mentioned that demand for **energy** **storage** is always outstripping supply, and you have more orders than you can make.
+6. [Sentence #147]  (Similarity: 0.658) **Elon** Musk
+
+Well, it has caused us to look closely at our cost structure and to be more efficient as a company.
+7. [Sentence #86]  (Similarity: 0.631) Our **energy** **business** was impacted as well by shutdown activities in Q1 limiting deployments.
+8. [Sentence #280]  (Similarity: 0.615) And the last question from the retailers, when will Tesla start acquiring utilities like Hornsdale Power Reserve and most lending instead of selling them battery **storage**?
+
+Total similarity-top evidence sentences: 8
+
+-----

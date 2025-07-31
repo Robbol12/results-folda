@@ -1,0 +1,43 @@
+[TSLA_Q4_2023] How did Tesla’s energy storage business (Powerwall, Powerpack, Megapack) scale from 2019 to 2024, and was this growth aligned with Elon Musk’s targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #30]  The ****energy** **storage** **business**** delivered nearly 15 gigawatt hours of batteries in 2023, compared to 6.5 gigawatt hours the year before.
+2. [Sentence #32]  And yeah, I think we'll continue to see very strong **growth** in **storage**, as predicted.
+3. [Sentence #38]  Tesla is currently between two major **growth** waves.
+4. [Sentence #39]  We're focused on making sure that our next **growth** wave, driven by next-gen vehicle, **energy** **storage**, full self-driving, other projects, is executed as well as possible.
+5. [Sentence #76]  As **Elon** mentioned, we had a record year in terms of both production and deliveries for our auto **business** as well as record deployments in our **energy** **business**.
+6. [Sentence #99]  Our ****energy** **storage** **business**** had another record year with deployments more than doubling and revenues increasing by more than 50%.
+7. [Sentence #193]  However, this is a very difficult thing to predict precisely because there are lots of...
+
+**Elon** Musk
+
+We don't know.
+8. [Sentence #235]  **Elon** Musk
+
+Optimus, obviously, is a very new product, an extremely revolutionary product, and something that I think has the potential to potential to far exceed the value of everything else that Tesla combined.
+9. [Sentence #304]  The next question is, can we get Tesla **Energy** volumes reported in the production and delivery release?
+10. [Sentence #308]  **Megapack** continues to see strong demand signals globally, driving consistent **growth** trajectory through '24 and '25.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #30]  (Similarity: 1.102) The ****energy** **storage** **business**** delivered nearly 15 gigawatt hours of batteries in 2023, compared to 6.5 gigawatt hours the year before.
+2. [Sentence #99]  (Similarity: 1.055) Our ****energy** **storage** **business**** had another record year with deployments more than doubling and revenues increasing by more than 50%.
+3. [Sentence #39]  (Similarity: 0.800) We're focused on making sure that our next **growth** wave, driven by next-gen vehicle, **energy** **storage**, full self-driving, other projects, is executed as well as possible.
+4. [Sentence #308]  (Similarity: 0.788) **Megapack** continues to see strong demand signals globally, driving consistent **growth** trajectory through '24 and '25.
+5. [Sentence #235]  (Similarity: 0.674) **Elon** Musk
+
+Optimus, obviously, is a very new product, an extremely revolutionary product, and something that I think has the potential to potential to far exceed the value of everything else that Tesla combined.
+6. [Sentence #38]  (Similarity: 0.667) Tesla is currently between two major **growth** waves.
+7. [Sentence #304]  (Similarity: 0.658) The next question is, can we get Tesla **Energy** volumes reported in the production and delivery release?
+8. [Sentence #76]  (Similarity: 0.636) As **Elon** mentioned, we had a record year in terms of both production and deliveries for our auto **business** as well as record deployments in our **energy** **business**.
+9. [Sentence #32]  (Similarity: 0.630) And yeah, I think we'll continue to see very strong **growth** in **storage**, as predicted.
+10. [Sentence #193]  (Similarity: 0.616) However, this is a very difficult thing to predict precisely because there are lots of...
+
+**Elon** Musk
+
+We don't know.
+
+Total similarity-top evidence sentences: 10
+
+-----

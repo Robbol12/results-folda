@@ -1,0 +1,95 @@
+[TSLA_Q1_2022] How did Tesla’s energy storage business (Powerwall, Powerpack, Megapack) scale from 2019 to 2024, and was this growth aligned with Elon Musk’s targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #1]  Company Participants
+
+Martin Viecha - VP, IR
+**Elon** Musk - CEO
+Zachary Kirkhorn - CFO
+Andrew Baglino - SVP, Powertrain and **Energy** Engineering
+Lars Moravy - VP, Vehicle Engineering
+
+Conference Call Participants
+
+Dan Levy - CSFB
+Rod Lache - Wolfe Research
+Pierre Ferragu - New Street Research
+Trip Chowdhry - Global Equities Research
+Alex Potter - Piper Sandler
+Colin Langan - Wells Fargo
+Mark Delaney - Goldman Sachs
+
+Martin Viecha
+
+Good afternoon, everyone, and welcome to Tesla’s First Quarter 2022 Q&A Webcast.
+2. [Sentence #25]  The **energy** **business** has continued to be impacted by macro conditions, more severely than the vehicle **business**.
+3. [Sentence #64]  So, I think that really will be a massive driver of Tesla’s **growth**.
+4. [Sentence #202]  And the next question is, how does Tesla plan to secure raw materials required to **scale** to extreme size?
+5. [Sentence #225]  **Elon** Musk
+
+And that’s true like since Reno, we built a Gigafactory and we started doing that with batteries.
+6. [Sentence #243]  **Elon** Musk
+
+Ramp production faster than Shanghai because we have learned a lot.
+7. [Sentence #265]  **Elon** Musk
+
+Well, Berlin is using the 2170 nonstructural pack.
+8. [Sentence #316]  **Elon** Musk
+
+We absolutely want to make EVs as affordable as possible.
+9. [Sentence #388]  **Elon** Musk
+
+If inflation keeps going crazy, $500 billion might be like $20 billion today.
+10. [Sentence #428]  **Elon** Musk
+
+Do we expect to expand?
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #1]  (Similarity: 0.737) Company Participants
+
+Martin Viecha - VP, IR
+**Elon** Musk - CEO
+Zachary Kirkhorn - CFO
+Andrew Baglino - SVP, Powertrain and **Energy** Engineering
+Lars Moravy - VP, Vehicle Engineering
+
+Conference Call Participants
+
+Dan Levy - CSFB
+Rod Lache - Wolfe Research
+Pierre Ferragu - New Street Research
+Trip Chowdhry - Global Equities Research
+Alex Potter - Piper Sandler
+Colin Langan - Wells Fargo
+Mark Delaney - Goldman Sachs
+
+Martin Viecha
+
+Good afternoon, everyone, and welcome to Tesla’s First Quarter 2022 Q&A Webcast.
+2. [Sentence #428]  (Similarity: 0.675) **Elon** Musk
+
+Do we expect to expand?
+3. [Sentence #243]  (Similarity: 0.661) **Elon** Musk
+
+Ramp production faster than Shanghai because we have learned a lot.
+4. [Sentence #316]  (Similarity: 0.647) **Elon** Musk
+
+We absolutely want to make EVs as affordable as possible.
+5. [Sentence #64]  (Similarity: 0.644) So, I think that really will be a massive driver of Tesla’s **growth**.
+6. [Sentence #225]  (Similarity: 0.637) **Elon** Musk
+
+And that’s true like since Reno, we built a Gigafactory and we started doing that with batteries.
+7. [Sentence #25]  (Similarity: 0.632) The **energy** **business** has continued to be impacted by macro conditions, more severely than the vehicle **business**.
+8. [Sentence #265]  (Similarity: 0.629) **Elon** Musk
+
+Well, Berlin is using the 2170 nonstructural pack.
+9. [Sentence #202]  (Similarity: 0.626) And the next question is, how does Tesla plan to secure raw materials required to **scale** to extreme size?
+10. [Sentence #388]  (Similarity: 0.614) **Elon** Musk
+
+If inflation keeps going crazy, $500 billion might be like $20 billion today.
+
+Total similarity-top evidence sentences: 10
+
+-----

@@ -1,0 +1,83 @@
+[TSLA_Q3_2020] How did Tesla’s energy storage business (Powerwall, Powerpack, Megapack) scale from 2019 to 2024, and was this growth aligned with Elon Musk’s targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #1]  Company Participants
+
+Martin Viecha - Senior Director of Investor Relations
+**Elon** Musk - Chief Executive Officer
+Zachary Kirkhorn - Chief Financial Officer
+Drew Baglino - Senior Vice President, Powertrain & **Energy** Engineering
+RJ Johnson - Senior Director, **Energy**
+Jerome Guillen - President of Automotive
+
+Conference Call Participants
+
+Rod Lache - Wolfe Research
+Colin Rusch - Oppenheimer
+Adam Jonas - Morgan Stanley
+Pierre Ferragu - New Street Research
+Dan Levy - Credit Suisse
+Gene Munster - Loup Ventures
+Ben Kallo - Baird
+Philippe Houchois - Jefferies
+
+Operator
+
+Ladies and gentlemen, thank you for standing by, and welcome to the Tesla Q3 2020 Financial Results and Q&A Webcast.
+2. [Sentence #116]  In the **Energy** **business**, we achieved record **storage** deployments, aided by the positive reception of the **Megapack** and **Powerwall** products as production and deployments grow.
+3. [Sentence #134]  I'll hand it over to RJ Johnson, who joined Tesla earlier in the year and is leading our **Energy** **business** for a few comments.
+4. [Sentence #137]  Q3 was a strong quarter for the **Energy** **business**, and we're poised for continued strong **growth** in **Energy** **storage** and solar.
+5. [Sentence #138]  **Megapack** is going to be a large **growth** segment for the **business** and deployments will continue to expand rapidly as the product reaches full capacity.
+6. [Sentence #145]  For **PowerWall**, we see continued strong demand for residential **storage** as customers seek increased reliability and backup home generation.
+7. [Sentence #152]  We're using the same methodology across the entire **Energy** **business**, including service, to capitalize on the technology backbone of the company.
+8. [Sentence #158]  In closing, we believe the **Energy** segment is poised for a strong **growth** as we continue to focus on increasing **scale** while reducing cost to maximize profitability.
+9. [Sentence #302]  So the **growth**...
+
+**Elon** Musk
+
+Yes, yes, yes.
+10. [Sentence #608]  So **Megapack** on one end and then **PowerWall** on the other side, those 2 working together in tandem and the software layer on top of it, Autobidder being that, that really is going to help make the grid more efficient using the hardware platform and software together.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #116]  (Similarity: 1.170) In the **Energy** **business**, we achieved record **storage** deployments, aided by the positive reception of the **Megapack** and **Powerwall** products as production and deployments grow.
+2. [Sentence #138]  (Similarity: 0.937) **Megapack** is going to be a large **growth** segment for the **business** and deployments will continue to expand rapidly as the product reaches full capacity.
+3. [Sentence #137]  (Similarity: 0.904) Q3 was a strong quarter for the **Energy** **business**, and we're poised for continued strong **growth** in **Energy** **storage** and solar.
+4. [Sentence #158]  (Similarity: 0.851) In closing, we believe the **Energy** segment is poised for a strong **growth** as we continue to focus on increasing **scale** while reducing cost to maximize profitability.
+5. [Sentence #302]  (Similarity: 0.805) So the **growth**...
+
+**Elon** Musk
+
+Yes, yes, yes.
+6. [Sentence #608]  (Similarity: 0.709) So **Megapack** on one end and then **PowerWall** on the other side, those 2 working together in tandem and the software layer on top of it, Autobidder being that, that really is going to help make the grid more efficient using the hardware platform and software together.
+7. [Sentence #1]  (Similarity: 0.686) Company Participants
+
+Martin Viecha - Senior Director of Investor Relations
+**Elon** Musk - Chief Executive Officer
+Zachary Kirkhorn - Chief Financial Officer
+Drew Baglino - Senior Vice President, Powertrain & **Energy** Engineering
+RJ Johnson - Senior Director, **Energy**
+Jerome Guillen - President of Automotive
+
+Conference Call Participants
+
+Rod Lache - Wolfe Research
+Colin Rusch - Oppenheimer
+Adam Jonas - Morgan Stanley
+Pierre Ferragu - New Street Research
+Dan Levy - Credit Suisse
+Gene Munster - Loup Ventures
+Ben Kallo - Baird
+Philippe Houchois - Jefferies
+
+Operator
+
+Ladies and gentlemen, thank you for standing by, and welcome to the Tesla Q3 2020 Financial Results and Q&A Webcast.
+8. [Sentence #152]  (Similarity: 0.653) We're using the same methodology across the entire **Energy** **business**, including service, to capitalize on the technology backbone of the company.
+9. [Sentence #145]  (Similarity: 0.643) For **PowerWall**, we see continued strong demand for residential **storage** as customers seek increased reliability and backup home generation.
+10. [Sentence #134]  (Similarity: 0.635) I'll hand it over to RJ Johnson, who joined Tesla earlier in the year and is leading our **Energy** **business** for a few comments.
+
+Total similarity-top evidence sentences: 10
+
+-----

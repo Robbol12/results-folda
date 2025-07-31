@@ -1,0 +1,21 @@
+[TSLA_Q3_2024] How did Tesla’s energy storage business (Powerwall, Powerpack, Megapack) scale from 2019 to 2024, and was this growth aligned with Elon Musk’s targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #18]  So, you see, we all have -- the ****energy** **storage** **business**** is growing like wildfire with strong demand for both **Megapack** and **Powerwall**.
+2. [Sentence #127]  For the **energy** **business**, that's doing extremely well.
+3. [Sentence #129]  The Lathrop **Megapack** factory reached 200 Megapacks a week, which is now a 40-gigawatt hour a year run rate.
+4. [Sentence #212]  The first one is, is Tesla still on track to deliver the more affordable model next year, as mentioned by **Elon** earlier?
+5. [Sentence #447]  We'll continue to increase our **storage** deployments with **Powerwall** 3.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #18]  (Similarity: 1.508) So, you see, we all have -- the ****energy** **storage** **business**** is growing like wildfire with strong demand for both **Megapack** and **Powerwall**.
+2. [Sentence #127]  (Similarity: 0.684) For the **energy** **business**, that's doing extremely well.
+3. [Sentence #447]  (Similarity: 0.645) We'll continue to increase our **storage** deployments with **Powerwall** 3.
+4. [Sentence #212]  (Similarity: 0.629) The first one is, is Tesla still on track to deliver the more affordable model next year, as mentioned by **Elon** earlier?
+5. [Sentence #129]  (Similarity: 0.621) The Lathrop **Megapack** factory reached 200 Megapacks a week, which is now a 40-gigawatt hour a year run rate.
+
+Total similarity-top evidence sentences: 5
+
+-----

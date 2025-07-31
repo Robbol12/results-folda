@@ -1,0 +1,753 @@
+[Year Q1] How did Tesla’s energy storage business (Powerwall, Powerpack, Megapack) scale from 2019 to 2024, and was this growth aligned with Elon Musk’s targets?
+
+1. [Sentence #2212, TSLA_Q1_2024] [PLAN]
+     Please use the raise hand button to join the question queue.
+     But before we jump into Q&A, Elon has some opening remarks.
+     Elon?
+     Elon Musk
+
+Thanks, Martin.
+     So to recap, in Q1 we navigated several unforeseen challenges as well as the ramp of the updated Model 3 in Fremont.
+     There was, as we all have seen, the EV adoption rate globally is under pressure and a lot of other auto manufacturers are pulling back on EVs and pursuing plug-in hybrids instead.
+     We believe this is not the right strategy and electric vehicles will ultimately dominate the market.
+>>> Despite these challenges, the Tesla team did a great job executing in a tough environment and energy storage deployments, the Megapack in particular, reached an all-time high in Q1, leading to record profitability for the energy business, and that looks likely to continue to increase in the quarters and years ahead.
+     It will increase.
+     We actually know that it will, so significantly faster than the car business as we expected.
+     We also continue to expand our AI training capacity in Q1, more than doubling our training compute sequentially.
+     In terms of the new product roadmap, there has been a lot of talk about our upcoming vehicle line in the next – in the past several weeks.
+     We've updated our future vehicle lineup to accelerate the launch of new models ahead, previously mentioned startup production in the second half of 2025, so we expect it to be more like the early 2025, if not late this year.
+     These new vehicles, including more affordable models, will use aspects of the next generation platform as well as aspects of our current platforms, and will be able to produce on the same manufacturing lines as our current vehicle lineup.
+     So it's not contingent on any new factory or massive new production line.
+-----
+2. [Sentence #526, TSLA_Q1_2020] [UNCERTAIN]
+     Pierre Ferragu
+
+Thanks.
+     And I had a quick follow-up on energy storage, if you can hear me well.
+     I think like – I can't remember – I think from the very first days I heard you on the call, you've always mentioned that demand for energy storage is always outstripping supply, and you have more orders than you can make.
+     And so I'm kind of thinking there will be – there should be an inflection point in that business at some point, and it's going to be driven by your ability to add much more manufacturing capacity like battery manufacturing capacity.
+     And at a high level, how are you thinking about that inflection point in terms of time line?
+     Zachary Kirkhorn
+
+In terms of time line, I think what we've been doing with both our partners and internally is looking at how to reduce the – fundamentally the cost of investments in new sales capacity because when you look at a car – a vehicle product, there's a lot of things in the vehicle besides the cells.
+     When you look at an energy storage product, it's really just the cells.
+>>> And so to really grow the energy storage business, it's all about cell investments.
+     And so that's what we've been focused on.
+     And I think not to give too much away, but that will be one of the things we address in Battery Investor Day is how we're focused on that.
+     And when we have that in the place we want, it will be a lot easier to scale that business.
+     Martin Viecha
+
+Thank you very much for all your great questions.
+     Unfortunately, this is all the time we have today, and we'll speak to you again in three months' time.
+     Thank you very much, and have a good day.
+     --- TSLA_Q1_2021 ---
+Company Participants
+
+Martin Viecha - Senior Director, Investor Relations
+Elon Musk - Chief Executive Officer
+Zachary Kirkhorn - Chief Financial Officer
+Lars Moravy - Vice President, Vehicle Engineering
+Andrew Baglino - Senior Vice President, Powertrain and Energy Engineering
+
+Conference Call Participants
+
+Pierre Ferragu - New Street Research
+Rod Lache - Wolfe Research
+Dan Levy - Credit Suisse
+
+Operator
+
+Good day, ladies and gentlemen, and thank you for standing by, and welcome to the Tesla First Quarter 2021 Results and Q&A Webcast.
+-----
+3. [Sentence #1712, TSLA_Q1_2023] [PLAN]
+     So its possible automotive revenue may be higher, but gigawatt hours I think will be probably higher with stationary storage.
+     If you just look at the -- what's needed to transition the world to a sustainable energy economy, there is more stationary energy storage needed than there is mobile energy storage.
+     So -- and we are seeing growth of our stationary storage well in excess of automotive.
+     So that is in line with expectations.
+     Zachary Kirkhorn
+
+Yeah.
+     And on the guidance part of the question, and maybe, Martin, we can combine this with the next question, which is on guidance for margins, just have a single comment there.
+     I think we are -- we will get to the point where we, as a company, provide guidance on the storage business.
+>>> I say storage is a combination of both the Megapack business and the Powerwall business.
+     Relative to total revenues of the company, it's still fairly small.
+     And the business has a lot of volatility currently, both in terms of volumes as well as financials just given the small volumes and diversification of the customer pool there.
+     But as this business grows and smooths out, I don't think we're that far away from it.
+     I think including these volumes on our day two production and deliveries release is something that we'll start doing and then we can talk more formally as a business about our expectations over the coming year.
+     I think it will be a few more quarters before we get there.
+     Martin Viecha
+
+Thank you.
+     The next question, as you said, was already answered, so let's go to the battery question.
+-----
+4. [Sentence #1683, TSLA_Q1_2023] [PLAN]
+     As I've mentioned previously, this results in lower deliveries and production within a quarter due to a higher volume of cars in transit at the end of the quarter and has an associated impact on quarter-ending free cash flows.
+     This was particularly prevalent in Q1 for S and X as we begin exporting cars for international deliveries.
+     Second, our storage business is starting to take shape, and this is exciting to see after many years of investment and focus.
+     This business is growing as a percentage of the businesses of the company's revenue and reached its highest level yet in Q1, driven by an increasing rate of deliveries for our Megapack products.
+     We are also making progress on storage profitability, generating our highest gross profit yet in the quarter.
+     Third, I want to reiterate the philosophy by which we're operating the business this year.
+     Our approach is to grow volumes as quickly as possible in both our vehicle and energy businesses.
+>>> We plan to continue to invest heavily into our future plans, which include the Cybertruck next-generation platform, in-house cell production, energy storage business and our autonomy and AI-enabled products.
+     And we plan to do this while keeping the business financially healthy and industry leading.
+     To accomplish this, we need to remain focused on cost efficiency and working capital and in particular, unwinding the strategic inventory buildup left over from the pandemic.
+     I want to conclude by thanking the Tesla team again, as well as thanking our suppliers and our customers.
+     Question-and-Answer Session
+
+A - Martin Viecha
+
+Thank you very much.
+     And let's go to investor questions on say.com.
+     The first one is what is the process to make auto pricing adjustments?
+     What variables do you consider?
+-----
+5. [Sentence #977, TSLA_Q1_2021] [NO EVIDENCE]
+     Operator
+
+Thank you.
+     Andrew Baglino
+
+Yes.
+     Sorry.
+     Just jumping in, Elon.
+     Absolutely agree.
+     Yes.
+     Powerwall is mature.
+>>> We have been producing Powerwall 2 for three years now and we are at good margins there, but Megapack has more room to go to achieve our targets.
+     Elon Musk
+
+We have a clear runway for improving the cost for the megawatt hours for the Megapack.
+     Andrew Baglino
+
+Absolutely.
+     Yes, we do.
+     Martin Viecha
+
+Thank you.
+     Let’s go to the next question, please.
+     Operator
+
+From Rod Lache with Wolfe Research.
+     Please go ahead.
+-----
+6. [Sentence #277, TSLA_Q1_2020] [PILOT]
+     Zachary Kirkhorn
+
+Yeah.
+     And use it as a heat source, if you need it instead of the outdoors, when the outdoor is really cold or the other way around.
+     So lots of options.
+     Elon Musk
+
+It could be a hell of a product.
+     So we just have to – Tesla have potentially to whether we continue on the product front.
+     So we're going to make sure, we got a lot of ice in the fire here, for new products with the Cybertruck, Semi, new Roadster and the Gigafactories in various parts of the world and Model Y, Autopilot and the Solar Roof and…
+
+Zachary Kirkhorn
+
+New technologies.
+     Elon Musk
+
+Yeah, exactly.
+>>> Powerwall, Powerpack, Megapack.
+     We are seeing tremendous demand for stationary storage, more than we can supply, at least for 2020.
+     Martin Viecha
+
+Thank you.
+     And the last question from the retailers, when will Tesla start acquiring utilities like Hornsdale Power Reserve and most lending instead of selling them battery storage?
+     Does it make sense for Tesla to buy bigger plants and convert them?
+     Elon Musk
+
+Well, we haven't really thought about that yet.
+     It's not out of the question, but our brand is full.
+     Excuse me, sir, our brand is full.
+-----
+7. [Sentence #1703, TSLA_Q1_2023] [PLAN]
+     It's just -- we do our best to evaluate the production output, macroeconomic conditions, and we make a decision.
+     But it's -- and unless there's something you'd like to add, Zach.
+     Zachary Kirkhorn
+
+I think that's right.
+     I mean, as a team, we review where we stand globally on a weekly basis and certainly, I can't get into the details of the reasons why certain decisions are made.
+     But it is something that's very actively managed by a subset of the leadership team.
+     Martin Viecha
+
+Thank you.
+     The second question is, do you still believe Tesla Energy will be bigger than auto?
+>>> And when will you provide more formal guidance on Megapack and overall Tesla Energy?
+     Elon Musk
+
+Yes, I should just clarify like bigger than auto from the standpoint of like total gigawatt hours deployed.
+     So its possible automotive revenue may be higher, but gigawatt hours I think will be probably higher with stationary storage.
+     If you just look at the -- what's needed to transition the world to a sustainable energy economy, there is more stationary energy storage needed than there is mobile energy storage.
+     So -- and we are seeing growth of our stationary storage well in excess of automotive.
+     So that is in line with expectations.
+     Zachary Kirkhorn
+
+Yeah.
+     And on the guidance part of the question, and maybe, Martin, we can combine this with the next question, which is on guidance for margins, just have a single comment there.
+-----
+8. [Sentence #2040, TSLA_Q1_2023] [UNCERTAIN]
+     And then, my follow-up is really around stationary storage demand on the utility scale.
+     I mean, obviously, there's a gigantic queue for interconnection in the US.
+     And can you talk about the volume of quotation you're seeing at this point around stationary storage for the renewables queue on a global basis?
+     And how much of that is converting into actual sales?
+     Elon Musk
+
+Drew, do you want to take that?
+     Andrew Baglino
+
+I mean -- yes, I don't -- that's also not exactly how we look at it, really.
+     We're not like -- yes, we're not engaged in the interconnection queue.
+>>> Like we're focused on ramping Megapack as quickly and efficiently as we can, and we have visibility into the pipelines of a variety of different renewable energy and just pure stationary storage developers and we also develop our own projects.
+     And we're mostly just -- we're being selective in trying to pick the products, the projects that best fit our mission and our objectives.
+     Elon Musk
+
+Yes.
+     This -- again, this is not a product call, but we'll have something, I mean, this -- we're making improvements on many fronts, including Megapacks.
+     So I think some of those improvements will improve the speed at which you can connect the Megapacks to the grid.
+     Martin Viecha
+
+Thank you.
+     The next question is from Mark Delaney from Goldman Sachs.
+     Mark Delaney
+
+Yes.
+-----
+9. [Sentence #861, TSLA_Q1_2021] [NO EVIDENCE]
+     Just like cigarettes and alcohol.
+     Just like fruits and vegetables.
+     It’s just common sense.
+     And on the plus side, I am not suggesting anyone be complacent.
+     But sustainable energy, renewable energy, will be sold.
+     It is being sold, but it matters how fast we sell this and if we sell it faster, that’s better for the world.
+     Martin Viecha
+
+Thank you very much.
+>>> Elon Musk
+
+There’s no question in my mind whatsoever that the energy storage problem can be solved with lithium-ion batteries, zero.
+     I want to be clear, zero.
+     I think the bias will tend to be towards iron-based, lithium-ion cells.
+     I will say, lithium-ion, people think lithium must be a big constituent of the cells.
+     It’s more like 1% to 2% of the cell is lithium.
+     The main part of the cell is the cathode.
+     The main mass and cost in the cell is the cathode.
+     For high energy cells, like, for example, what we use in most Teslas, have nickel-based lithium-ion cells, which have higher energy density, longer range than iron-based cells.
+-----
+10. [Sentence #978, TSLA_Q1_2021] [NO EVIDENCE]
+     Andrew Baglino
+
+Yes.
+     Sorry.
+     Just jumping in, Elon.
+     Absolutely agree.
+     Yes.
+     Powerwall is mature.
+     We have been producing Powerwall 2 for three years now and we are at good margins there, but Megapack has more room to go to achieve our targets.
+>>> Elon Musk
+
+We have a clear runway for improving the cost for the megawatt hours for the Megapack.
+     Andrew Baglino
+
+Absolutely.
+     Yes, we do.
+     Martin Viecha
+
+Thank you.
+     Let’s go to the next question, please.
+     Operator
+
+From Rod Lache with Wolfe Research.
+     Please go ahead.
+     Rod Lache
+
+Hi, everybody.
+-----
+11. [Sentence #202, TSLA_Q1_2020] [PILOT]
+     Elon Musk
+
+Absolutely.
+     There's also a tremendous amount of untapped potential in the beat out there that could upgrade to turn on Autopilot -- basic Autopilot or Full Self-Driving.
+     And that's something we will enable just as simple in our purchase or as we talked about earlier, just towards the end of the year, as a subscription.
+     So that's just a lot of untapped potential there.
+     That's not in the deferred revenue line, obviously, but it's certainly a great deal deferred potential that we think is a large portion, which is likely to reach fruition.
+     Martin Viecha
+
+Thank you.
+     And now let's go through the questions from retail investors.
+>>> Question number one, Elon has mentioned a 50% compound annual growth target for Tesla in the past.
+     Is this still in line with Tesla's ambitions for the next five to 10 years?
+     This would be 4 million vehicles in 2025 and more than 20 million vehicles in 2030.
+     Is 40% or more realistic target?
+     Elon Musk
+
+Well, it's always difficult to predict what the macro situation is going to be.
+     I think people – actually people would have predicted the unexpected roundhouse that COVID came up with it sort of came out of nowhere.
+     So I think in the absence of something, some massive force majeure events, but quite massive, I think, 40% is the likely number.
+     It's possible that is 40%.
+-----
+12. [Sentence #658, TSLA_Q1_2021] [UNCERTAIN]
+     The first question is, how is how is Dojo coming along?
+     Could Dojo unlock an AWS-like business line for Tesla over the next few years?
+     Zachary Kirkhorn
+
+I will jump in here.
+     So with respect to…
+
+Elon Musk
+
+Sorry about that.
+     My apologies.
+     I was on mute.
+     Zachary Kirkhorn
+
+Go ahead, Elon.
+>>> Elon Musk
+
+So, yeah, so it’s basically saying that the, like, right now people think of Tesla has -- a lot of people think Tesla is a car company or perhaps an energy company.
+     I think long-term people will think of Tesla as much as an AI robotics company as we are a car company or an energy company.
+     I think we are developing one of the strongest hardware and software AI teams in the world and so we appear to be able to do things with Self-Driving that others cannot.
+     So and if you look at the evolution of what technologies we have developed, we developed them in order to solve the problem of Self-Driving.
+     So we couldn’t find a powerful enough neural net computer, so we designed and built our own.
+     The software out there was really quite primitive for this task and so we built a team from scratch and have been developing what we think is probably the most advanced real-world AI in the world.
+     And then it sort of makes sense that this is kind of what needs to happen because the road system is designed for a neural net computer, our brain.
+     Our brain is a neural net computer.
+-----
+13. [Sentence #2264, TSLA_Q1_2024] [PLAN]
+     Our ability to reduce costs without sacrificing on quality was due to the amazing efforts of the team, in executing Tesla's relentless pursuit of efficiency across the business.
+     We've also witnessed that as other OEMs are pulling back on their investments in EV, there is increasing appetite for credits, and that means a steady stream of revenue for us.
+     Obviously, seeing others pull back from EV is not the future we want.
+     We would prefer it the whole industry went all in.
+     On the demand front, we've undertaken a variety of initiatives, including lowering the price of both the purchase and subscription options for FSD launching extremely attractive leasing specials for the Model 3 in the U.S. for $299 a month and offering attractive financing options in certain markets.
+     We believe that our awareness activities, paired with attractive financing, will go a long way in expanding our reach and driving demand for our products.
+     Our Energy business continues to make meaningful progress with margins reaching a record of 24.6%.
+>>> We expect the energy storage deployments for 2024 to grow at least 75% higher from 2023.
+     And accordingly, this business will begin contributing significantly to our overall profitability.
+     Note that there is a bit of lumpiness in our storage deployments due to a variety of factors that are outside of our control, so deployments may fluctuate quarter-over-quarter.
+     On the operating expense front, we saw a sequential increase from our AI initiatives, continued investment in future projects, marketing, and other activities.
+     We had negative free cash flow of $2.5 billion in the first quarter.
+     The primary driver of this was an increase in inventory from a mismatch between builds and deliveries as discussed before, and our elevated spend on CapEx across various initiatives, including AI compute.
+     We expect the inventory build to reverse in the second quarter and free cash flow to return to positive again.
+     As we prepare the company for the next phase of growth, we had to make the hard but necessary decision to reduce our head count by over 10%.
+-----
+14. [Sentence #966, TSLA_Q1_2021] [PLAN]
+     We do expect from suppliers willing to receive double the cell output next year versus this year.
+     Pierre Ferragu
+
+Okay.
+     And I had a quick follow-up on – maybe, Zach, for you on your Energy business.
+     So I understand like the negative gross margin with Solar Roof ran.
+     But I was wondering, what do gross margin look like there when you look at the Storage business and where are you -- what’s your ambition in terms of gross margin in that business?
+     I guess it’s going to grow in the mix in coming years, so it’s important for long-term modeling.
+     Zachary Kirkhorn
+
+Yes.
+>>> We are seeing a lot of…
+
+Elon Musk
+
+We are aiming for comparable margins in storage as in vehicles.
+     But it is important to bear in mind that vehicle is more mature than storage.
+     So we are already are at good margins with the Powerwall, but some additional work is needed for the Megapack to achieve good margins.
+     Yes, Drew, what do you think?
+     Operator
+
+Thank you.
+     Andrew Baglino
+
+Yes.
+     Sorry.
+     Just jumping in, Elon.
+-----
+15. [Sentence #1679, TSLA_Q1_2023] [PLAN]
+     Progress on vehicle cost reduction continued in Q1 with meaningful improvements on logistics and the beginnings of some commodity cost reductions starting to be realized.
+     Per unit cost for Austin and Berlin improved as well, driven by record volumes.
+     However, these factories still provide a margin headwind and will likely continue to do so until after we reach and stabilize at our intended volumes.
+     Note that Q1 was our third quarter in our multi-quarter plan to move to a more regionally balanced mix of build and deliveries.
+     As I've mentioned previously, this results in lower deliveries and production within a quarter due to a higher volume of cars in transit at the end of the quarter and has an associated impact on quarter-ending free cash flows.
+     This was particularly prevalent in Q1 for S and X as we begin exporting cars for international deliveries.
+     Second, our storage business is starting to take shape, and this is exciting to see after many years of investment and focus.
+>>> This business is growing as a percentage of the businesses of the company's revenue and reached its highest level yet in Q1, driven by an increasing rate of deliveries for our Megapack products.
+     We are also making progress on storage profitability, generating our highest gross profit yet in the quarter.
+     Third, I want to reiterate the philosophy by which we're operating the business this year.
+     Our approach is to grow volumes as quickly as possible in both our vehicle and energy businesses.
+     We plan to continue to invest heavily into our future plans, which include the Cybertruck next-generation platform, in-house cell production, energy storage business and our autonomy and AI-enabled products.
+     And we plan to do this while keeping the business financially healthy and industry leading.
+     To accomplish this, we need to remain focused on cost efficiency and working capital and in particular, unwinding the strategic inventory buildup left over from the pandemic.
+     I want to conclude by thanking the Tesla team again, as well as thanking our suppliers and our customers.
+-----
+16. [Sentence #968, TSLA_Q1_2021] [UNCERTAIN]
+     And I had a quick follow-up on – maybe, Zach, for you on your Energy business.
+     So I understand like the negative gross margin with Solar Roof ran.
+     But I was wondering, what do gross margin look like there when you look at the Storage business and where are you -- what’s your ambition in terms of gross margin in that business?
+     I guess it’s going to grow in the mix in coming years, so it’s important for long-term modeling.
+     Zachary Kirkhorn
+
+Yes.
+     We are seeing a lot of…
+
+Elon Musk
+
+We are aiming for comparable margins in storage as in vehicles.
+     But it is important to bear in mind that vehicle is more mature than storage.
+>>> So we are already are at good margins with the Powerwall, but some additional work is needed for the Megapack to achieve good margins.
+     Yes, Drew, what do you think?
+     Operator
+
+Thank you.
+     Andrew Baglino
+
+Yes.
+     Sorry.
+     Just jumping in, Elon.
+     Absolutely agree.
+     Yes.
+-----
+17. [Sentence #533] [NO EVIDENCE]
+     And so to really grow the energy storage business, it's all about cell investments.
+     And so that's what we've been focused on.
+     And I think not to give too much away, but that will be one of the things we address in Battery Investor Day is how we're focused on that.
+     And when we have that in the place we want, it will be a lot easier to scale that business.
+     Martin Viecha
+
+Thank you very much for all your great questions.
+     Unfortunately, this is all the time we have today, and we'll speak to you again in three months' time.
+     Thank you very much, and have a good day.
+>>> --- TSLA_Q1_2021 ---
+Company Participants
+
+Martin Viecha - Senior Director, Investor Relations
+Elon Musk - Chief Executive Officer
+Zachary Kirkhorn - Chief Financial Officer
+Lars Moravy - Vice President, Vehicle Engineering
+Andrew Baglino - Senior Vice President, Powertrain and Energy Engineering
+
+Conference Call Participants
+
+Pierre Ferragu - New Street Research
+Rod Lache - Wolfe Research
+Dan Levy - Credit Suisse
+
+Operator
+
+Good day, ladies and gentlemen, and thank you for standing by, and welcome to the Tesla First Quarter 2021 Results and Q&A Webcast.
+     At this time, all participants are in a listen-only mode.
+     After the presentation, there will be a question-and-answer session.
+     Please be advised that today’s conference is being recorded.
+     [Operator Instructions]
+
+I will now hand the conference over to your speaker today, Martin Viecha, Senior Director of Investor Relations.
+     Martin Viecha
+
+Thank you, Carmen, and good afternoon, everyone, and welcome to Tesla’s first quarter 2021 Q&A webcast.
+     I am joined today by Elon Musk; Zachary Kirkhorn, and a number of other executives.
+     Our Q1 results were announced at about 1 p.m. Pacific Time in the update deck we published at the same link as this webcast.
+-----
+18. [Sentence #1646, TSLA_Q1_2023] [PILOT]
+     So the Cybertruck is no different.
+     So it's -- there's [Indiscernible] amount of demand for the product, obviously.
+     And it is my view, a fantastic product, a hall of famer.
+     But as with all new products, it takes time to get the manufacturing line going.
+     And this is really a very radical product.
+     It's not made in the way that other cars are made.
+     So with regard to Megapack, we're making great progress.
+>>> Our energy storage deployment reached nearly 4 gigawatt hours in Q1.
+     This is, by far, the strongest quarter ever.
+     And this growth was achieved thanks to the ongoing ramp at our Mega factory in Lathrop, California.
+     There's still some way to go to reach the [Indiscernible] rate of 40 gigawatt hours per year.
+     And then we additionally announced the start of a new Mega factory in Shanghai.
+     So we're -- as we've expected, the stationary storage growth actually will significantly exceed the vehicle growth.
+     Regarding Autopilot and Full Self-Driving, we've now crossed over 150 million miles driven by Full Self-Driving beta, and this number is growing exponentially.
+     We're -- I mean, this is a data advantage that really no one else has.
+-----
+19. [Sentence #2263, TSLA_Q1_2024] [PLAN]
+     Currently normalized Model Y cost per vehicle in Austin and Berlin are already very close to that of Fremont.
+     Our ability to reduce costs without sacrificing on quality was due to the amazing efforts of the team, in executing Tesla's relentless pursuit of efficiency across the business.
+     We've also witnessed that as other OEMs are pulling back on their investments in EV, there is increasing appetite for credits, and that means a steady stream of revenue for us.
+     Obviously, seeing others pull back from EV is not the future we want.
+     We would prefer it the whole industry went all in.
+     On the demand front, we've undertaken a variety of initiatives, including lowering the price of both the purchase and subscription options for FSD launching extremely attractive leasing specials for the Model 3 in the U.S. for $299 a month and offering attractive financing options in certain markets.
+     We believe that our awareness activities, paired with attractive financing, will go a long way in expanding our reach and driving demand for our products.
+>>> Our Energy business continues to make meaningful progress with margins reaching a record of 24.6%.
+     We expect the energy storage deployments for 2024 to grow at least 75% higher from 2023.
+     And accordingly, this business will begin contributing significantly to our overall profitability.
+     Note that there is a bit of lumpiness in our storage deployments due to a variety of factors that are outside of our control, so deployments may fluctuate quarter-over-quarter.
+     On the operating expense front, we saw a sequential increase from our AI initiatives, continued investment in future projects, marketing, and other activities.
+     We had negative free cash flow of $2.5 billion in the first quarter.
+     The primary driver of this was an increase in inventory from a mismatch between builds and deliveries as discussed before, and our elevated spend on CapEx across various initiatives, including AI compute.
+     We expect the inventory build to reverse in the second quarter and free cash flow to return to positive again.
+-----
+20. [Sentence #1706, TSLA_Q1_2023] [PLAN]
+     I mean, as a team, we review where we stand globally on a weekly basis and certainly, I can't get into the details of the reasons why certain decisions are made.
+     But it is something that's very actively managed by a subset of the leadership team.
+     Martin Viecha
+
+Thank you.
+     The second question is, do you still believe Tesla Energy will be bigger than auto?
+     And when will you provide more formal guidance on Megapack and overall Tesla Energy?
+     Elon Musk
+
+Yes, I should just clarify like bigger than auto from the standpoint of like total gigawatt hours deployed.
+     So its possible automotive revenue may be higher, but gigawatt hours I think will be probably higher with stationary storage.
+>>> If you just look at the -- what's needed to transition the world to a sustainable energy economy, there is more stationary energy storage needed than there is mobile energy storage.
+     So -- and we are seeing growth of our stationary storage well in excess of automotive.
+     So that is in line with expectations.
+     Zachary Kirkhorn
+
+Yeah.
+     And on the guidance part of the question, and maybe, Martin, we can combine this with the next question, which is on guidance for margins, just have a single comment there.
+     I think we are -- we will get to the point where we, as a company, provide guidance on the storage business.
+     I say storage is a combination of both the Megapack business and the Powerwall business.
+     Relative to total revenues of the company, it's still fairly small.
+-----
+21. [Sentence #1056] [PLAN]
+     Martin Viecha
+
+All right.
+     Thank you very much.
+     Unfortunately, this is all the time we have for today.
+     Thank you very much for dialing in and for listening, and we will speak to you again in about three months.
+     Thank you.
+     Elon Musk
+
+Thanks.
+     Thanks, everyone.
+>>> --- TSLA_Q1_2022 ---
+Company Participants
+
+Martin Viecha - VP, IR
+Elon Musk - CEO
+Zachary Kirkhorn - CFO
+Andrew Baglino - SVP, Powertrain and Energy Engineering
+Lars Moravy - VP, Vehicle Engineering
+
+Conference Call Participants
+
+Dan Levy - CSFB
+Rod Lache - Wolfe Research
+Pierre Ferragu - New Street Research
+Trip Chowdhry - Global Equities Research
+Alex Potter - Piper Sandler
+Colin Langan - Wells Fargo
+Mark Delaney - Goldman Sachs
+
+Martin Viecha
+
+Good afternoon, everyone, and welcome to Tesla’s First Quarter 2022 Q&A Webcast.
+     My name is Martin Viecha, VP of Investor Relations, and I’m joined today by Elon Musk, Zachary Kirkhorn and a number of other executives.
+     Our Q1 results were announced at about 3 p.m. Central Time in the update deck we published at the same link as this webcast.
+     During this call, we will discuss our business outlook and make forward-looking statements.
+     These comments are based on our predictions and expectations as of today.
+     Actual events and results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC.
+     During the question-and-answer portion of today’s call, please limit yourself to one question and one follow-up.
+     Please use the Raise Hand button to join the question queue.
+-----
+22. [Sentence #338, TSLA_Q1_2020] [UNCERTAIN]
+     Yes.
+     Adam Jonas
+
+Elon, on that point, you mentioned people that gave their lives to build the country.
+     My fault for you on this.
+     There have been a lot of comparisons drawn to the state of the U.S. economy in the early 1930s when Roosevelt began a series of new deals and infrastructure projects or post-World War 2 when Eisenhower launched the U.S. Highway Act and JFK launched the Apollo Program, which you could say was influenced by the Cold War, clearly, and you benefited from and our space program benefited from.
+     What would be your message to U.S. lawmakers on this call as we – in addition to your opinion on shelter in place, but thinking the longer term, your message to U.S. lawmakers coming out of the crisis, specifically around EV infrastructure and a chance to work with taxpayers to support sustainable transport and renewable energy?
+     I'm wondering if you see this as a chance to make the crisis and all the loss and lives lost not be in vain.
+     Thanks.
+>>> Elon Musk
+
+I think, it's high time we invested in infrastructure in this country.
+     We have a lot of a crumbling highways and bridges.
+     And frankly, when I visit China, I see their infrastructure as being much better than ours.
+     It's great.
+     Europe has better infrastructure.
+     It's really quite sad that U.S. infrastructure especially it’s roads and highways is where it is today.
+     And our airports, in a lot of cases, are an embarrassment.
+     So -- and it's not just a question of money.
+-----
+23. [Sentence #1483, TSLA_Q1_2022] [PLAN]
+     We don’t have the [Technical Difficulty].
+     So, to your point, I haven’t counted them because I don’t often look back at old technologies to decide how well I’m doing.
+     I check that once in a while.
+     But in general, architecture is always moving to reduce complexity, reduce parts or reduce parts count.
+     I would say, ignoring the battery cells, we are probably 20% to 30% less.
+     Elon Musk
+
+All right.
+     Martin Viecha
+
+Okay.
+>>> Elon Musk
+
+Do we expect to expand?
+     Yes, we do expect to expand Giga Nevada.
+     There’s a lot of room for expansion there, and we do expect to increase output from Nevada, but by far, the biggest increase in output will be from Giga Texas.
+     Martin Viecha
+
+Thank you very much.
+     The next question comes from Alex Potter from Piper Sandler.
+     Alex, can you hear us?
+     Alex Potter
+
+Yes.
+     Hi Martin, can you hear me?
+-----
+24. [Sentence #521, TSLA_Q1_2020] [UNCERTAIN]
+     I haven't specifically calculated that, but I think your intuition is right.
+     We saw strength in gross margin across the board, as I mentioned.
+     And in particular, S and X gross margins continue to improve despite slightly lower volumes there and higher fixed cost amortization.
+     So there's good progress happening, both on the ASP side and the cost reduction side, for our products and production.
+     And I think this also lends itself to the power of the gross profit contribution to the company once we get through these inefficiencies, we get them on up and running again, we increase capacity so we can spread out fixed costs and continue to execute on cost reductions on our products, we feel very optimistic about that path going forward.
+     Pierre Ferragu
+
+Thanks.
+     And I had a quick follow-up on energy storage, if you can hear me well.
+>>> I think like – I can't remember – I think from the very first days I heard you on the call, you've always mentioned that demand for energy storage is always outstripping supply, and you have more orders than you can make.
+     And so I'm kind of thinking there will be – there should be an inflection point in that business at some point, and it's going to be driven by your ability to add much more manufacturing capacity like battery manufacturing capacity.
+     And at a high level, how are you thinking about that inflection point in terms of time line?
+     Zachary Kirkhorn
+
+In terms of time line, I think what we've been doing with both our partners and internally is looking at how to reduce the – fundamentally the cost of investments in new sales capacity because when you look at a car – a vehicle product, there's a lot of things in the vehicle besides the cells.
+     When you look at an energy storage product, it's really just the cells.
+     And so to really grow the energy storage business, it's all about cell investments.
+     And so that's what we've been focused on.
+     And I think not to give too much away, but that will be one of the things we address in Battery Investor Day is how we're focused on that.
+-----
+25. [Sentence #1298, TSLA_Q1_2022] [PLAN]
+     Yes, yes.
+     So, we’re going to be recycling the casting aluminum wheels from legacy gasoline cars as well and throwing that in the melting pot for our aluminum cast body of Model Y.
+     And also we’ll be moving to the sort of cast part rear body in all vehicles over time?
+     Well, actually, maybe not S/X, but 3/Y.
+     Martin Viecha
+
+Thank you.
+     At what rate do you expect Berlin and Austin to ramp relative to Shanghai?
+     Are you able to leverage learnings from Shanghai, or are the processes substantially different in the new factories?
+>>> Elon Musk
+
+Ramp production faster than Shanghai because we have learned a lot.
+     And we’ve now gone through the -- we have basically veteran teams that obviously in the 3/Y ramp -- Y ramp especially in multiple locations.
+     And we’re obviously sharing what we’ve learned.
+     And so, we don’t want to get complacent or entitled, but this should be a faster ramp because we have learned more, and we have done a lot to simplify the production prices of Model Y that should lead us to a faster ramp within Texas and Berlin.
+     Yes.
+     Andrew Baglino
+
+But we also had a structural casting, about 30% less robots, we expect to almost double the capacity for body, for example, reducing the number of robots, but doubling our capacity in a lot of areas.
+     Elon Musk
+
+Yes.
+     Right.
+-----
+26. [Sentence #2831, TSLA_Q1_2024] [UNCERTAIN]
+     And especially super thankful to the people in this room and dozens of people outside of this room that I've worked for over the years.
+     I think the team's strength and teamwork at Tesla is unlike anything else I've seen in my career.
+     Elon, thank you very much for this opportunity that I got back in 2017.
+     Thank you for seeking investor feedback and regularly and debating it with me.
+     Elon Musk
+
+Yes.
+     Well, I mean the reason I reached out to you was because I thought your analysis of Tesla was the best that I had seen.
+     Martin Viecha
+
+Thank you.
+>>> Elon Musk
+
+So, thank you for helping Tesla to get to where it is today over seven years.
+     It's been a pleasure working with you.
+     Martin Viecha
+
+Thank you so much.
+     And yes, thank you for all the thousands of shareholders that we've met over the years and walked around factories and loved all the interactions, even the tough ones.
+     And yes, looking forward to the call in the next three months, but I'll be on the other side, listening in.
+     Thank you very much.
+-----
+27. [Sentence #147, TSLA_Q1_2020] [PLAN]
+     And on the manufacturing cost portion of the question, the cost of vehicles produced in Shanghai in Q1 is already lower than the cost to produce the Model 3 in Fremont, and there's still significant opportunity left to take costs out.
+     So fixed cost absorption from higher production volumes, which are occurring in Q2 and will occur through the rest of the year were not fully localized on the supply chain yet.
+     And so while a lot of the supply chain is localized, it's not complete, and there's additional opportunities there.
+     And so we'll continue to bring the price down and expand margin -- costs down and expand margin even with this reduction in price that Elon mentioned on the standard range version of the vehicle.
+     Martin Viecha
+
+Thank you.
+     The next question is, Andy Grove once said that great companies are improved by crisis.
+     In which way has Tesla improved towards -- or is expected to improve coming out of COVID-19?
+>>> Elon Musk
+
+Well, it has caused us to look closely at our cost structure and to be more efficient as a company.
+     That's one always has to do that in a crisis, and just thinking about our core beliefs and what do we want to do.
+     And we came to a conclusion that at the right move was actually to continue to expand rapidly, continue to invest in the future and in new technologies, even though it is risky.
+     And we've talked to some of our key investors, and they support that approach as well.
+     So I think that there's clearly an uncertain future ahead.
+     It's a bit of a bumpy road.
+     But I think the long-term prospects are extremely good.
+     Anything you guys want to add?
+-----
+28. [Sentence #1900, TSLA_Q1_2023] [PLAN]
+     Like instead of making a picture-sharing app, please, we're trying, lithium, mining and refining, heavy industry, come on.
+     Karn Budhiraj
+
+It's fun.
+     It's actually fun.
+     Elon Musk
+
+Yes, yes.
+     Exactly.
+     For real.
+     Zachary Kirkhorn
+
+That's we're here, ready to buy.
+>>> Elon Musk
+
+It's -- Tesla is not famous because we want to do it.
+     We have a lot of fish to fry, obviously, but we're doing it because others aren't doing it, and we wish others would do it.
+     Martin Viecha
+
+Awesome.
+     Thank you very much.
+     Let's go to Emmanuel Rosner from Deutsche Bank.
+     Emmanuel Rosner
+
+Can you hear me?
+     Martin Viecha
+
+Yes, we can.
+     Yes.
+-----
+29. [Sentence #1371, TSLA_Q1_2022] [PLAN]
+     Dan Levy
+
+Second question, one of the initial goals of Model 3 way back when was to have an EV that was affordable for a wide portion of the market.
+     And we know prices are much higher now just given the supply constraints.
+     Prices are higher for all other automakers.
+     We know that there’s inflation that you’re battling through, and some of that needs to be passed through the price of the vehicles.
+     And you’re going to be supply-constrained for the foreseeable future.
+     So, it’s one of the points.
+     But given the goal long term of making EVs more widely available to the masses over time, how do you look at the progression of prices over time?
+>>> Elon Musk
+
+We absolutely want to make EVs as affordable as possible.
+     It’s been very difficult with the -- I mean, I think, inflation is at like a 40 or 50-year high.
+     And I think the official numbers actually understate the true magnitude of inflation, so.
+     And that inflation appears to be likely to continue for at least the remainder of this year is what -- when we’re talking to suppliers, suppliers are under severe cost pressure.
+     So, yes, and in some cases, we’re seeing suppliers request 20% to 30% cost increases for parts from last year to the end of this year.
+     So, it’s -- there’s a lot of cost pressure there.
+     That’s why we raised our prices because we -- when things are on -- with respect to inflation, you know it’s high, then -- and we’ve got orders that go out a year or more in some cases, then we have to anticipate those cost increases.
+     But I think, especially with the robotaxi and autonomy, I think we will end up providing consumers with, by far, the lowest cost per mile of transport that they’ve ever experienced.
+-----
+30. [Sentence #1119, TSLA_Q1_2022] [SCALE ACHIEVED]
+     So, I have very high confidence in the teams of both factories.
+     And we expect to ramp those initially slowly, but like I said, growing exponentially with them achieving high volume by the end of this year.
+     So, we’re also working on a new vehicle that I alluded to at the Giga Texas opening, which is a dedicated robotaxi.
+     That’s highly optimized for autonomy, meaning it would not have steering wheel or pedals.
+     And there are a number of other innovations around it that I think are quite exciting.
+     That is fundamentally optimized for -- trying to achieve the lowest fully considered cost per mile or cost per kilometer, accounting everything.
+     And so, it’s, I think, going to be a very powerful product where we aspire to reach volume production of that in 2024.
+>>> So, I think that really will be a massive driver of Tesla’s growth.
+     And we remain on track to reach volume production of the Cybertruck next year.
+     So, it’s basically -- once again, I’d like to thank the Tesla employees for their hard work, but also I’d like to thank our suppliers who’ve really gone the extra mile.
+     They -- we have an amazing supplier group, and I want say heartfelt thanks to the suppliers that have really worked day and night to ensure that Tesla is able to keep the factories running.
+     And we’re really at the early stage of that journey.
+     We only crossed 1 million units in the past 12 months recently.
+     And we are -- we aspire to head to 20 million units a year.
+     So, we’re basically 5% along the way towards our goal.
+-----
+
+Total context windows: 30

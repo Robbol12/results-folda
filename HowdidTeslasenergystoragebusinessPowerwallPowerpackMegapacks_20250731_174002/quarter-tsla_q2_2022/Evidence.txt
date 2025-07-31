@@ -1,0 +1,63 @@
+[TSLA_Q2_2022] How did Tesla’s energy storage business (Powerwall, Powerpack, Megapack) scale from 2019 to 2024, and was this growth aligned with Elon Musk’s targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #82]  Our **storage** **business** remains component-constrained on both **Powerwall** and **Megapack**, which we hope will alleviate to some extent in the second half of the year.
+2. [Sentence #112]  **Elon** Musk
+
+Well, the – right now, the best Chinese EV manufacturer is Tesla [train] (ph).
+3. [Sentence #176]  **Elon** Musk
+
+Well, Tesla is – Tesla’s goal is to accelerate the advent of sustainable **energy**.
+4. [Sentence #293]  **Elon** Musk
+
+We’re hoping to start delivering them in the middle of next year.
+5. [Sentence #312]  Let me just try to provide like a super straightforward answer, like as **Elon** mentioned before, our priority was really on simplicity and **scale** during the initial 4680 and structural battery ramp.
+6. [Sentence #328]  **Elon** Musk
+
+But I should also emphasize that it is not as though Tesla intends to displace our suppliers of battery cells.
+7. [Sentence #339]  **Elon** Musk
+
+People often ask me, if you often ask me, is some breakthrough needed in battery technology for the world to transition to sustainability?
+8. [Sentence #346]  So **Elon**, you always mention this 50% per annum sustainable **growth** target that you guys have.
+9. [Sentence #405]  **Elon** Musk
+
+Well, right now, our firm is very much production.
+10. [Sentence #544]  And in the future, I think we are going to look at where there is a supplier…
+
+**Elon** Musk
+
+Even now where there are supply chain issues with our Tier 1s and Tier 2s, get into it with us on the engineering side when we find solutions, whether it’s alternative chips or changing the entire structure of this pack to make it work.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #82]  (Similarity: 1.021) Our **storage** **business** remains component-constrained on both **Powerwall** and **Megapack**, which we hope will alleviate to some extent in the second half of the year.
+2. [Sentence #176]  (Similarity: 0.894) **Elon** Musk
+
+Well, Tesla is – Tesla’s goal is to accelerate the advent of sustainable **energy**.
+3. [Sentence #328]  (Similarity: 0.690) **Elon** Musk
+
+But I should also emphasize that it is not as though Tesla intends to displace our suppliers of battery cells.
+4. [Sentence #346]  (Similarity: 0.684) So **Elon**, you always mention this 50% per annum sustainable **growth** target that you guys have.
+5. [Sentence #405]  (Similarity: 0.638) **Elon** Musk
+
+Well, right now, our firm is very much production.
+6. [Sentence #339]  (Similarity: 0.638) **Elon** Musk
+
+People often ask me, if you often ask me, is some breakthrough needed in battery technology for the world to transition to sustainability?
+7. [Sentence #293]  (Similarity: 0.634) **Elon** Musk
+
+We’re hoping to start delivering them in the middle of next year.
+8. [Sentence #312]  (Similarity: 0.629) Let me just try to provide like a super straightforward answer, like as **Elon** mentioned before, our priority was really on simplicity and **scale** during the initial 4680 and structural battery ramp.
+9. [Sentence #112]  (Similarity: 0.624) **Elon** Musk
+
+Well, the – right now, the best Chinese EV manufacturer is Tesla [train] (ph).
+10. [Sentence #544]  (Similarity: 0.620) And in the future, I think we are going to look at where there is a supplier…
+
+**Elon** Musk
+
+Even now where there are supply chain issues with our Tier 1s and Tier 2s, get into it with us on the engineering side when we find solutions, whether it’s alternative chips or changing the entire structure of this pack to make it work.
+
+Total similarity-top evidence sentences: 10
+
+-----

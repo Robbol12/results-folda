@@ -1,0 +1,43 @@
+[TSLA_Q1_2023] How did Tesla’s energy storage business (Powerwall, Powerpack, Megapack) scale from 2019 to 2024, and was this growth aligned with Elon Musk’s targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #33]  So with regard to **Megapack**, we're making great progress.
+2. [Sentence #34]  Our **energy** **storage** deployment reached nearly 4 gigawatt hours in Q1.
+3. [Sentence #67]  This **business** is growing as a percentage of the businesses of the company's revenue and reached its highest level yet in Q1, driven by an increasing rate of deliveries for our **Megapack** products.
+4. [Sentence #71]  We plan to continue to invest heavily into our future plans, which include the Cybertruck next-generation platform, in-house cell production, ****energy** **storage** **business**** and our autonomy and AI-enabled products.
+5. [Sentence #91]  And when will you provide more formal guidance on **Megapack** and overall Tesla **Energy**?
+6. [Sentence #94]  If you just look at the -- what's needed to transition the world to a sustainable **energy** economy, there is more stationary **energy** **storage** needed than there is mobile **energy** **storage**.
+7. [Sentence #100]  I say **storage** is a combination of both the **Megapack** **business** and the **Powerwall** **business**.
+8. [Sentence #163]  We think there'll be a little bit more improvement in Q2, but...
+
+**Elon** Musk
+
+Lithium has dropped a lot.
+9. [Sentence #288]  **Elon** Musk
+
+It's -- Tesla is not famous because we want to do it.
+10. [Sentence #428]  Like we're focused on ramping **Megapack** as quickly and efficiently as we can, and we have visibility into the pipelines of a variety of different renewable **energy** and just pure stationary **storage** developers and we also develop our own projects.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #100]  (Similarity: 1.042) I say **storage** is a combination of both the **Megapack** **business** and the **Powerwall** **business**.
+2. [Sentence #71]  (Similarity: 0.998) We plan to continue to invest heavily into our future plans, which include the Cybertruck next-generation platform, in-house cell production, ****energy** **storage** **business**** and our autonomy and AI-enabled products.
+3. [Sentence #91]  (Similarity: 0.910) And when will you provide more formal guidance on **Megapack** and overall Tesla **Energy**?
+4. [Sentence #428]  (Similarity: 0.883) Like we're focused on ramping **Megapack** as quickly and efficiently as we can, and we have visibility into the pipelines of a variety of different renewable **energy** and just pure stationary **storage** developers and we also develop our own projects.
+5. [Sentence #67]  (Similarity: 0.723) This **business** is growing as a percentage of the businesses of the company's revenue and reached its highest level yet in Q1, driven by an increasing rate of deliveries for our **Megapack** products.
+6. [Sentence #34]  (Similarity: 0.713) Our **energy** **storage** deployment reached nearly 4 gigawatt hours in Q1.
+7. [Sentence #94]  (Similarity: 0.686) If you just look at the -- what's needed to transition the world to a sustainable **energy** economy, there is more stationary **energy** **storage** needed than there is mobile **energy** **storage**.
+8. [Sentence #288]  (Similarity: 0.654) **Elon** Musk
+
+It's -- Tesla is not famous because we want to do it.
+9. [Sentence #33]  (Similarity: 0.630) So with regard to **Megapack**, we're making great progress.
+10. [Sentence #163]  (Similarity: 0.615) We think there'll be a little bit more improvement in Q2, but...
+
+**Elon** Musk
+
+Lithium has dropped a lot.
+
+Total similarity-top evidence sentences: 10
+
+-----

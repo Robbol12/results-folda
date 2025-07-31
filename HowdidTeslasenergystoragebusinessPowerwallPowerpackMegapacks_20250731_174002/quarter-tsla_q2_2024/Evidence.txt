@@ -1,0 +1,41 @@
+[TSLA_Q2_2024] How did Tesla’s energy storage business (Powerwall, Powerpack, Megapack) scale from 2019 to 2024, and was this growth aligned with Elon Musk’s targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #18]  **Energy** **storage** deployments reached an all-time high in Q2, leading to record profits for the **energy** **business**.
+2. [Sentence #47]  For the **energy** **business**, this is growing faster than anything else.
+3. [Sentence #82]  We previously talked about the potential of the **energy** **business** and now feel excited that the foundation that was laid over time is bearing the expected results.
+4. [Sentence #83]  **Energy** **storage** deployments more than doubled with contribution not just from **Megapack**, but also **Powerwall**, resulting in record revenues and profit for the **energy** **business**.
+5. [Sentence #84]  **Energy** **storage** backlog is strong.
+6. [Sentence #103]  **Elon** Musk
+
+With respect to Roadster, we've completed most of the engineering.
+7. [Sentence #152]  The next question is on **energy** **growth**, which we already covered in opening remarks, so we'll move on to the next one.
+8. [Sentence #193]  **Elon** Musk
+
+Yes, I mean, I think you're referring to a very -- like an old article, regarding GPUs.
+9. [Sentence #241]  **Elon** Musk
+
+Yes, I mean, as I've said a few times, I think the long-term value of Optimus will exceed that of everything else that Tesla combined.
+
+Total transcript-order evidence sentences: 9
+
+--- Evidence by Similarity ---
+1. [Sentence #83]  (Similarity: 1.307) **Energy** **storage** deployments more than doubled with contribution not just from **Megapack**, but also **Powerwall**, resulting in record revenues and profit for the **energy** **business**.
+2. [Sentence #18]  (Similarity: 0.866) **Energy** **storage** deployments reached an all-time high in Q2, leading to record profits for the **energy** **business**.
+3. [Sentence #47]  (Similarity: 0.747) For the **energy** **business**, this is growing faster than anything else.
+4. [Sentence #241]  (Similarity: 0.653) **Elon** Musk
+
+Yes, I mean, as I've said a few times, I think the long-term value of Optimus will exceed that of everything else that Tesla combined.
+5. [Sentence #152]  (Similarity: 0.647) The next question is on **energy** **growth**, which we already covered in opening remarks, so we'll move on to the next one.
+6. [Sentence #84]  (Similarity: 0.643) **Energy** **storage** backlog is strong.
+7. [Sentence #103]  (Similarity: 0.617) **Elon** Musk
+
+With respect to Roadster, we've completed most of the engineering.
+8. [Sentence #82]  (Similarity: 0.612) We previously talked about the potential of the **energy** **business** and now feel excited that the foundation that was laid over time is bearing the expected results.
+9. [Sentence #193]  (Similarity: 0.607) **Elon** Musk
+
+Yes, I mean, I think you're referring to a very -- like an old article, regarding GPUs.
+
+Total similarity-top evidence sentences: 9
+
+-----

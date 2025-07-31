@@ -1,0 +1,220 @@
+[TSLA_Q4_2020] How did Tesla’s energy storage business (Powerwall, Powerpack, Megapack) scale from 2019 to 2024, and was this growth aligned with Elon Musk’s targets?
+
+1. [Sentence #413] [UNCERTAIN]
+     Like I said, over time, it will make sense to have a consistent form factor.
+     Alex Potter
+
+Okay.
+     It makes sense.
+     And then one additional, maybe qualitative question on capacity expansion.
+     You've mentioned in the past, I mean, access to dollars is one thing, but access to human beings that are sufficiently qualified is another.
+     Have you run up against any issues on that front that would potentially limit your growth in any way?
+     Thanks.
+>>> Elon Musk
+
+That is one of the things that limits focus or limits the growth rate.
+     It doesn't limit the ultimate size, but it limits the growth rate, which is what's the rate of which we can onboard great people and get them trained in the right areas.
+     You usually can't like instantaneously -- if you've got a factory that has 20,000 employees, you can't just hire 20,000 people instantly.
+     They've got -- they’re usually doing something else.
+     So they've got to transition from whatever they were doing or move from some other part of the country.
+     And so there's a certain amount of time required for that.
+     I mean, that said, we do think that we can maintain a growth rate in excess of 50% per year for many years to come.
+     And at least, I'd like to -- yes, at least, look forward to many -- for many years to come.
+-----
+2. [Sentence #1] [NO EVIDENCE]
+>>> Company Participants
+
+Martin Viecha - Senior Director, Investor Relations
+Elon Musk - Chief Executive Officer
+Zachary Kirkhorn - Chief Financial Officer
+Jerome Guillen - President, Automotive
+Andrew Baglino - Senior Vice President, Powertrain & Energy Engineering
+
+Conference Call Participants
+
+Colin Rusch - Oppenheimer
+Dan Levy - Credit Suisse
+Alex Potter - Piper Sandler
+Joseph Spak - RBC Capital Markets
+Emmanuel Rosner - Deutsche Bank
+Ben Kallo - Baird
+Gene Munster - Loup Ventures
+
+Operator
+
+Ladies and gentlemen, thank you for standing by, and welcome to Tesla's Q4 2020 Financial Results and Q&A Webcast.
+     At this time, all participants are in a listen-only mode.
+     After the speaker presentation, there will be a question-and-answer session.
+     [Operator Instructions] Please be advised that today's conference is being recorded.
+     [Operator Instructions]
+
+I would now like to hand the conference over to your speaker, Mr. Martin Viecha, Senior Director of Investor Relations.
+     Please go ahead, sir.
+     Martin Viecha
+
+Thank you, Sherry and good afternoon everyone.
+     Welcome to Tesla's fourth quarter 2020 Q&A webcast.
+-----
+3. [Sentence #567] [PLAN]
+     If you do it right, you basically have no effect on your payload or almost nothing, and you can have a long-range truck.
+     I mean, Jerome, do you want to add to that?
+     Jerome Guillen
+
+I agree there.
+     And we see also an increase on the regionalization of trucks.
+     And I think it will be perfect.
+     The Tesla Semi will be perfect for it, yes.
+     And I'm very -- I'm looking forward to having some additional ones on the road very soon.
+>>> Elon Musk
+
+But basically, we do not see any issues with creating a compelling long-range truck with batteries.
+     The problem is cell supply; cell supply is the only thing.
+     Gene Munster
+
+It's going to be awesome.
+     Elon Musk
+
+Yes.
+     Martin Viecha
+
+All right.
+     Thank you very much.
+     And unfortunately, that's all the time we have today.
+     So, thanks for all of your great questions, and we will speak to you again in about three months.
+-----
+4. [Sentence #471] [UNCERTAIN]
+     Please go ahead.
+     Emmanuel Rosner
+
+Thank you very much.
+     My first question is about your in-house cell manufacturing efforts.
+     So in addition to building up capacity, some of the goals you highlighted was to cut the pricing or the cost by about 50%, boost the range by about 50% over a number of years.
+     So wanted to know if your initial efforts are trending in that direction?
+     What is, sort, of like the timeline to achieve these goals?
+     And maybe related to this, how are you thinking about the time line for the cheaper Tesla, the entry model, eventually?
+>>> Elon Musk
+
+I think we feel very confident about achieving those targets, let's say, over a three-year time frame.
+     I don't know it grew -- it's not like year one.
+     So three, maybe four years, give ourselves a little room.
+     But for three or four years, I’d say.
+     Zachary Kirkhorn
+
+Yeah.
+     We put together the trajectory in the Battery Day, and we're on that trajectory still.
+     I think that's probably the best reference for the cost trajectory that we are on.
+     Elon Musk
+
+Yeah.
+-----
+5. [Sentence #290] [PLAN]
+     I think some of it works well in China, then we will have a Grade 4 FSD.
+     I find that the customers in China, Tesla owners in China are among the most discerning in the world.
+     Their attention to detail is incredible.
+     So they -- I'm confident that they will buy FSD as soon as it’s working on time.
+     And we hopefully that is later this year.
+     Martin Viecha
+
+Thank you.
+     And the next question is, is it fair to argue that the best way to think about company's long-term earnings power is tied to profit per unit of battery capacity?
+>>> Three-terawatt hours target from Battery Day implies half of long-term battery capacity goes to storage, depending on what you assume for pack size on Elon's 20 million vehicle unit goal?
+     Elon Musk
+
+Yeah.
+     It is.
+     So the fundamental limit on electric vehicles right now, in general, is total availability of cells.
+     What's the output of factory cells in gigawatt hours?
+     And you can't grow faster than that.
+     Now at Tesla, we've improved the efficiency of cars dramatically, such that you can actually get a pretty good range even with the standard range battery pack.
+     It's in the high -- it's approaching -- for Model 3, it's approaching the high 200s.
+-----
+6. [Sentence #278] [PLAN]
+     And I think the probably same goes for Autobidder.
+     We haven't thought as much about Autobidder, but the Tesla philosophy is definitely not to create walled gardens.
+     We're going to allow other companies to use our supercharge networks.
+     And yes, using our autonomy software and Autobidder be fine to.
+     Martin Viecha
+
+Thank you.
+     The next question is, key differences in product, customer preferences, FSD strategy between China and the rest of the world.
+     Do we need to do things differently to win the Chinese EV market?
+>>> Elon Musk
+
+Well, we currently are winning that -- we are currently the leader in the Chinese EV market.
+     So I think we're mostly doing something right if we're the best-selling electric car in China.
+     That said, very few of our customers in China, I think maybe as low as 1% or 2%, actually have selected the FSD option.
+     This is much lower than rest of world.
+     So we definitely need to make it work well in China.
+     I think some of it works well in China, then we will have a Grade 4 FSD.
+     I find that the customers in China, Tesla owners in China are among the most discerning in the world.
+     Their attention to detail is incredible.
+-----
+7. [Sentence #170] [UNCERTAIN]
+     The production staff is nearly all hired.
+     Our material supply chain is established and the team is on track for full production ramp this year.
+     Meanwhile, we've developed enough engineering confidence with our 4680 design and the production process and equipment to kick off manufacturing equipment and facility construction to support our 100 gigawatt hour 2022 goal.
+     Martin Viecha
+
+Okay.
+     Thank you very much.
+     The next question is, why are you confident Tesla will achieve Level 5 autonomy in 2021?
+     And why is Dojo not necessary to get there?
+>>> Elon Musk
+
+I guess, I'm confident based on my understanding of the technical roadmap and the progress that we're making between each beta iteration.
+     Yes.
+     As I'm saying, it's not remarkable at all for the car to completely drive you from one location to another through a series of complex intersections.
+     It's now about just improving the corner case reliability and getting it to 99.9999% reliable with respect to an accident.
+     Basically, we need to get it to better than human by a factor of at least 100% or 200%.
+     And this is happening rapidly because we've got so much training data with all the cars in the field.
+     And the software is improving dramatically.
+     The -- we also write the software for labeling.
+-----
+8. [Sentence #143] [PLAN]
+     And we're confident we'll have excellent integration – excellent integration with the Powerwall and Tesla Solar, whether it's retrofit or but [indiscernible] roof before the end of the year.
+     So it's really – I think we've got a good strategy.
+     As Zach mentioned, we're focused on reducing the amount of time and the complexity of the install, and we're making great progress in that regard.
+     And I think we'll have something that's really dialed in this year.
+     Martin Viecha
+
+Thank you.
+     The second question is, could current owners get ability to transfer their FSD to their next vehicle?
+     This would be a huge for loyalty and overall increased sales of vehicles who are offering more FSD sales on used vehicles.
+>>> Elon Musk
+
+Unfortunately, we're not considering that at this time.
+     We do actually offer an increased – higher price than for a car with FSD than one without FSD.
+     And I do think that the market currently undervalues – or the consumer market.
+     And arguably the stock market sales probably undervalue the just how good FSD is going to be.
+     But we're not currently planning on offering – on allowing it to get transferred.
+     Martin Viecha
+
+Thank you.
+     Elon Musk
+
+We will be offering subscription pretty soon in the next month or two.
+     So that should address a lot of people's concerns for being able to get it.
+-----
+9. [Sentence #432] [UNCERTAIN]
+     Please go ahead.
+     Joseph Spak
+
+Thanks.
+     Elon, back in 2018, you tweeted about electric vans and how it could be interesting to work with Daimler and Sprinter.
+     We haven't really heard of anything since.
+     But in the meantime, we've seen a lot of activity in electric van and last-mile space from a number of established players of startups.
+     So I know you said that you have a lot of projects on the table, but can you provide us an update of your thoughts on this market?
+     And is it something you're interested in?
+>>> Elon Musk
+
+I think Tesla is definitely going to make an electric van at some point.
+     The thing to bear in mind is that there is fundamentally a constraint on battery cell output.
+     It's like -- if one is not involved in manufacturing, it's really hard to appreciate just how hard this to scale production is.
+     It's the hardest thing in the world.
+     Prototypes are easy.
+     Scaling production is very hard.
+     So a big part of the reason -- the main reason we have not accelerated new products is -- like, for example, Tesla Semi is that we simply don't happen our cells group.
+     We -- this -- if we were to make the Semi like right now, which we could easily go into production with the Semi, but we would not have enough to cells built for it right now.
+-----
+
+Total context windows: 9
