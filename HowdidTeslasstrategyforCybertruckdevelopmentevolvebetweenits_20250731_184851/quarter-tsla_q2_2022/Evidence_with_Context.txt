@@ -1,0 +1,177 @@
+[TSLA_Q2_2022] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+1. [Sentence #52] [PLAN]
+     We reduced body welding robot count by 70% per unit of capacity in Austin and Berlin.
+     So that’s, call it, roughly a body shop that is roughly 3x smaller than would normally be the case.
+     And I should say it’s also lighter, cheaper and has superior noise vibration harshness.
+     So, it’s good on every level.
+     But this journey is not over.
+     We will bring another level of simplicity and manufacturing improvements with Cybertruck and future products that we are not quite ready to talk about now, but I think will be very exciting to unveil in the future.
+     Our safety team also introduced a feature that tension seat builds, if the vision system detects imminent collision, which has never been done before.
+     So, you can imagine that if you have a seatbelt that only tensions upon impact you have very little time to tension the seatbelt.
+     If you have got to be – the car has got to be crunching to trigger the seatbelt tensioner, but because we have vision, we can actually see that a collision is about to occur with 100% probability before it actually happens.
+     And so we can tension the seatbelts and we can even adjust the airbag deployment, because we can see, not just feel.
+     This is a fundamental safety advantage that Teslas are now able to offer.
+     And there is also an over-the-air update, so this is something that will be in place in all cars that have at least AP3 hardware.
+     In conclusion, we exited Q2 with a strong production rate than ever before.
+>>> Our team continues to focus on Cybertruck production readiness and some future platform design.
+     We are expecting to be – still expecting to be in production with the Cybertruck in the middle of next year.
+     And we are very, very excited about that product.
+     I think it might actually be our best product ever.
+     Let’s see.
+     And FSD beta is on track to be released for all of North American customers before the end of this year.
+     And hopefully, if we get regulatory approval, we will also be releasing it hopefully in Europe and some other parts of the world.
+     We are hosting our AI Day in a few months.
+     I think people will be amazed at what we are able to show off in AI Day.
+     So basically, there is a tremendous amount to look forward to in the second half of this year.
+     And I want to thank all of our employees and suppliers for their super hard work during these challenging times.
+     Super appreciate it.
+     Thank you.
+     Martin Viecha
+
+Thank you very much.
+-----
+2. [Sentence #53] [PLAN]
+     So that’s, call it, roughly a body shop that is roughly 3x smaller than would normally be the case.
+     And I should say it’s also lighter, cheaper and has superior noise vibration harshness.
+     So, it’s good on every level.
+     But this journey is not over.
+     We will bring another level of simplicity and manufacturing improvements with Cybertruck and future products that we are not quite ready to talk about now, but I think will be very exciting to unveil in the future.
+     Our safety team also introduced a feature that tension seat builds, if the vision system detects imminent collision, which has never been done before.
+     So, you can imagine that if you have a seatbelt that only tensions upon impact you have very little time to tension the seatbelt.
+     If you have got to be – the car has got to be crunching to trigger the seatbelt tensioner, but because we have vision, we can actually see that a collision is about to occur with 100% probability before it actually happens.
+     And so we can tension the seatbelts and we can even adjust the airbag deployment, because we can see, not just feel.
+     This is a fundamental safety advantage that Teslas are now able to offer.
+     And there is also an over-the-air update, so this is something that will be in place in all cars that have at least AP3 hardware.
+     In conclusion, we exited Q2 with a strong production rate than ever before.
+     Our team continues to focus on Cybertruck production readiness and some future platform design.
+>>> We are expecting to be – still expecting to be in production with the Cybertruck in the middle of next year.
+     And we are very, very excited about that product.
+     I think it might actually be our best product ever.
+     Let’s see.
+     And FSD beta is on track to be released for all of North American customers before the end of this year.
+     And hopefully, if we get regulatory approval, we will also be releasing it hopefully in Europe and some other parts of the world.
+     We are hosting our AI Day in a few months.
+     I think people will be amazed at what we are able to show off in AI Day.
+     So basically, there is a tremendous amount to look forward to in the second half of this year.
+     And I want to thank all of our employees and suppliers for their super hard work during these challenging times.
+     Super appreciate it.
+     Thank you.
+     Martin Viecha
+
+Thank you very much.
+     And Zach has some opening remarks as well.
+-----
+3. [Sentence #292] [UNCERTAIN]
+     We’ve grown cell production significantly on a 12-month rolling basis and have long-term contracts with all our partners for key battery metals.
+     So we don’t see any major problems for the components, of course, barring unforeseen COVID-related shutdowns.
+     Zachary Kirkhorn
+
+Just to add on the profitability part of the question.
+     Q2 was our largest increase yet over the last handful of quarters on inflation and commodity-related increases to our cars.
+     It’s fairly evenly spread across the factories, given common suppliers or common issues that impact the broad supply chain.
+     So I think I had mentioned before that we have been seeing increases over the course of last year.
+     It ticked up in Q1 and then it ticked up again at the rate of increase was more in Q2.
+     So as we look through to the end of the year, what we’re seeing is we don’t think the inflation-related increases in Q3 will be as big as Q2.
+     But as Elon had mentioned, there is uncertainty on pricing here.
+     And we don’t have full exposure, as Karan had just mentioned, on every component of cost because we do have some contracts in place.
+     But there are some spot buys as well and some contracts being renegotiated.
+     So we’re managing it with pricing and in partnership with our suppliers but it does continue to be something that is impacting our financials.
+     Martin Viecha
+
+Thank you very much.
+>>> And the last question is, when will the Cybertruck be officially available?
+     Elon Musk
+
+We’re hoping to start delivering them in the middle of next year.
+     Martin Viecha
+
+Great.
+     Thank you very much.
+     And now let’s go to analyst questions.
+     The first question comes from Pierre Ferragu from New Street Research.
+     Pierre, feel free to unmute yourself.
+     Pierre Ferragu
+
+Hi, guys.
+     Thanks for taking my question.
+     I’d like to ask like a question on 4680 and the structural battery pack.
+     And I’d love to understand where you stand on the technology and efficiency and energy density road map that you described at the Battery Day.
+     So what I’m trying to understand is where do you stand on the architecture of the battery cell itself?
+     How much silicon do you have in it?
+     How much energy improvement have you achieved already so far?
+-----
+4. [Sentence #44] [PLAN]
+     So – and that mileage is growing exponentially.
+     With regard to manufacturing and technology, about 5 or 6 years ago, we said we wanted to become the best manufacturer in the world and that is somewhat counterintuitively, to some people, will actually be, I think, our strongest competitive advantage.
+     We are super pro-manufacturing here at Tesla.
+     And in general, we want to encourage other companies to be super pro-manufacturing.
+     And in general, I think it is a very important thing to do.
+     We need to make stuff and make it efficiently and that’s manufacturing.
+     So we’ve made a lot of advancements in manufacturing processes.
+     As we now show in the shareholder deck, thanks to our – the large castings, we make the world’s largest castings.
+     We reduced body welding robot count by 70% per unit of capacity in Austin and Berlin.
+     So that’s, call it, roughly a body shop that is roughly 3x smaller than would normally be the case.
+     And I should say it’s also lighter, cheaper and has superior noise vibration harshness.
+     So, it’s good on every level.
+     But this journey is not over.
+>>> We will bring another level of simplicity and manufacturing improvements with Cybertruck and future products that we are not quite ready to talk about now, but I think will be very exciting to unveil in the future.
+     Our safety team also introduced a feature that tension seat builds, if the vision system detects imminent collision, which has never been done before.
+     So, you can imagine that if you have a seatbelt that only tensions upon impact you have very little time to tension the seatbelt.
+     If you have got to be – the car has got to be crunching to trigger the seatbelt tensioner, but because we have vision, we can actually see that a collision is about to occur with 100% probability before it actually happens.
+     And so we can tension the seatbelts and we can even adjust the airbag deployment, because we can see, not just feel.
+     This is a fundamental safety advantage that Teslas are now able to offer.
+     And there is also an over-the-air update, so this is something that will be in place in all cars that have at least AP3 hardware.
+     In conclusion, we exited Q2 with a strong production rate than ever before.
+     Our team continues to focus on Cybertruck production readiness and some future platform design.
+     We are expecting to be – still expecting to be in production with the Cybertruck in the middle of next year.
+     And we are very, very excited about that product.
+     I think it might actually be our best product ever.
+     Let’s see.
+     And FSD beta is on track to be released for all of North American customers before the end of this year.
+-----
+5. [Sentence #329] [PLAN]
+     Maybe another way of putting it is that the – our focus right now is on the dozens of little issues that inhibit the production ramp of the 4680.
+     Some of the more challenging ones have been feeding the anode-cathode material because we’re using this revolutionary dry electrode process.
+     But when something is revolutionary, it’s a lot of unknowns that have to be resolved.
+     So we’re confident of resolving those unknowns but it’s very difficult.
+     It’s – yes, we’re making rapid progress on that point.
+     So the first order of business is really get the basics right, get to high volume and high reliability and then very rapidly iterate within that to enhance the energy density and reduce the cost of the cell.
+     Andrew Baglino
+
+Totally agree, yes.
+     Pierre Ferragu
+
+Okay.
+     Elon Musk
+
+I’d say we are highly confident of a good outcome.
+     It’s the exact counterpoint of that is perhaps is of some debate but the outcome is not.
+     Andrew Baglino
+
+Yes.
+     Specific to the dry process, we made a major advance this past quarter in Kato that the team is really excited about, and congrats to the team for achieving that.
+     Elon Musk
+
+But I should also emphasize that it is not as though Tesla intends to displace our suppliers of battery cells.
+>>> The Tesla battery cell production is in addition to what our suppliers can do.
+     And we want our suppliers to grow their battery output as fast as they possibly can, and that goes for the entire supply chain.
+     The fundamental rate limiter for both transitioning to sustainable energy is how fast can you grow with the amount battery output per year?
+     This is the fundamental rate limiter for transition to sustainability because you need the batteries for two of the pillars of sustainability, the stationary storage and for vehicles.
+     So yes.
+     Andrew Baglino
+
+Yes, I just want to stress that a lot of these higher energy density technologies are not necessarily scalable.
+     I mean, most of them are not scalable from what I’ve seen.
+     And so like focusing on them is a distraction from the mission, like it really is how do we scale as fast as possible?
+     And we’re taking these risks that we’ve discussed at Battery Day.
+     And our plan is as we de-risk them and they are successful, we want to bring them back to our partners so that they can go faster, too, because that’s all on the mission, right, like how do we accelerate.
+     Elon Musk
+
+People often ask me, if you often ask me, is some breakthrough needed in battery technology for the world to transition to sustainability?
+     The answer is no.
+     Even if there was zero technology breakthroughs, so literally zero from where the technology is right now, we could fully transition Earth to sustainable energy.
+     The issue is very much the rate at which the entire supply chain from mining to refining to cell production.
+-----
+
+Total context windows: 5

@@ -1,0 +1,17 @@
+[TSLA_Q3_2020] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #162]  The first question from retail shareholders is, is Tesla planning to **start** 4680 cell **production** at Giga Berlin at the same time as vehicle **production**?
+2. [Sentence #461]  If it goes well, we'll be able to do some **Cybertruck** deliveries towards the end of next -- towards the end of next year, yes.
+3. [Sentence #521]  If you could just walk us through the **development** of Megachargers, platoon and maybe just how you think about autonomy for Tesla Semi?
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #162]  (Similarity: 0.791) The first question from retail shareholders is, is Tesla planning to **start** 4680 cell **production** at Giga Berlin at the same time as vehicle **production**?
+2. [Sentence #521]  (Similarity: 0.627) If you could just walk us through the **development** of Megachargers, platoon and maybe just how you think about autonomy for Tesla Semi?
+3. [Sentence #461]  (Similarity: 0.617) If it goes well, we'll be able to do some **Cybertruck** deliveries towards the end of next -- towards the end of next year, yes.
+
+Total similarity-top evidence sentences: 3
+
+-----

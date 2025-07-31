@@ -1,0 +1,291 @@
+[TSLA_Q2_2020] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+1. [Sentence #32] [PLAN]
+     And as a result, we were able to achieve our fourth consecutive profitable quarter, and although the automotive industry was down about 30% year-over-year in the first half of the year, we managed to grow deliveries in the first half of the year.
+     So despite that massive industry decline, we actually went up.
+     We're also very excited to announce that we're going to be building our next Gigafactory in Texas.
+     It's going to be right near Austin.
+     It will be about -- I'll just go into a bit of detail on this, and then I'm sure there'll be a lot of questions.
+     But the location is five minutes from Austin International Airport and 15 minutes from Downtown Austin, and it's about 2,000 acres, and we're going to make it a factory that is going to be stunning.
+     It's right on the Colorado River.
+     So we're actually going to have a boardwalk where there'll a hiking and biking trail.
+     It's going to basically be an ecological paradise.
+     Birds in the trees, butterfly, fish in the stream, and they will be open to the public as well.
+     So not closed and only Tesla.
+     So if anyone is interested in looking at Giga Texas, with engineering, production, whatever the case may be, please let us know.
+     This is -- we're going to be doing a major factory there.
+>>> And it's also where we'll be doing Cybertruck there, the Tesla Semi.
+     And we'll be doing Model 3 and Y for the eastern half of North America.
+     Now at the same time, I want to say, we will continue to grow in California.
+     But we expect California to do Model S and X for worldwide consumption and 3 and Y for the western half of North America.
+     And then we think probably also the Tesla Roadster, a future program, would also make sense in California.
+     So I think this is a nice split between Texas and California.
+     And just to emphasize, we'll continue to grow in California, but we'll be creating a massive factory and Cybertruck and Semi programs in Texas.
+     And I also want to just do a shout out to Tulsa, and just say thank you very much to the Tulsa team, the economic development team and the governor, really, I was super impressed.
+     The whole Tesla team is super impressed, and we will, for sure, strongly consider Tulsa for future expansion of Tesla down the road.
+     Let's see, is there anything more I want to say about?
+     There's a lot of information.
+     So anything, guys?
+     All right.
+     Well, I'm sure they have lots of questions.
+-----
+2. [Sentence #127] [PLAN]
+     This is a strong result on its own, despite an increase in capital expenses associated with Shanghai and Berlin, as well as movements in working capital.
+     A few things to note on working capital, particularly accounts receivables.
+     While our AR balance is usually about 20% of revenue, it can fluctuate depending upon a number of factors.
+     First, overall, less than 30% of our receivables is associated with new car sales.
+     Second, due to payment terms associated with financing and enterprise customers, settlement time lines for certain methods of cash payments and geographic mix of our deliveries, our cash balance and associated receivables are impacted significantly by how many cars are delivered in the final weeks and days of the quarter.
+     Third, roughly 40% of the balance is attributed to payment terms on regulatory credit sales and statutory EV incentive programs, both of which have been increasing.
+     Customer deposits reduced slightly as well.
+     Note that as we transition to lower order fees across the world, the average deposit per order will continue to reduce driving down this balance.
+     As we look forward, Tesla was able to navigate through Q2 due to our agile and dynamic culture.
+     We will continue to appropriately manage our cash flows through cost optimization and close working capital management.
+     This is key as we remain focused on expanding production, scaling our operations and preparing for the launch of three new factories over the next 1.5 years.
+     Question-and-Answer Session
+
+A - Martin Viecha
+
+Thank you very much.
+     Let's go to questions from institutional investors first.
+>>> The question number one is, as Tesla continues its journey towards the long-term goal of selling 20 million units per year, what are the most important vehicle programs that will drive volume growth over the next three to five years beyond Model 3, Y and the Cybertruck?
+     Cheaper, smaller versions of 3 and Y?
+     Or region-specific vehicles?
+     Or anything else?
+     Elon Musk
+
+I don't think we can comment on our detailed product roadmap beyond what's announced because I think we want to reserve that for product launches.
+     But it would be reasonable to assume that we would make a compact vehicle of some kind and probably a higher capacity [indiscernible] vehicle of some kind.
+     These are likely things at some point.
+     But I do think there's a long way to go with 3 and Y and with Cybertruck and Semi.
+     So it's a long way to go with those.
+     I think we'll do the obvious things.
+     Martin Viecha
+
+Okay.
+     The second question from institutional is, what is your vision for software at Tesla?
+     What opportunities do you see from monetizing the installed base other than by FSD?
+     Elon Musk
+
+Right now, by far, FSD is just overwhelmingly the most important thing.
+-----
+3. [Sentence #321] [SCALE ACHIEVED]
+     Drew Baglino
+
+Yes.
+     I mean, we've…
+
+Elon Musk
+
+It’s just necessary in order to solve the sustainable energy problem.
+     Drew Baglino
+
+Yes, you can't plan power plants on the hourly scale in a renewable world.
+     You need to optimize them on a minute-by-minute scale, and that's what we're doing.
+     Elon Musk
+
+Yes.
+     The real limitation on Tesla growth is cell production at affordable price.
+     That's the real limit.
+     So that's why we're going to talk about a lot more about this on Battery Day because this is a fundamental scaling constraint.
+     And any part of that supply chain or pricing at the cell level will be the limiting factor.
+     So whatever maybe an error from mining to refining, those many steps that are refining to cathode and analog formation, cell formation, whatever the truck point is, that will set the growth rate.
+     And so we expect to expand our business with Panasonic, with CATL, with LG, possibly with others.
+     And there's a lot more to say on that front on Battery Day.
+     Martin Viecha
+
+Thank you.
+>>> And the second question is, now that it's time to bring the Tesla Semi to volume production, can you share more detail on production plans?
+     What weekly production rate is considered volume production?
+     And when does Tesla expect to reach that rate?
+     Zachary Kirkhorn
+
+Yes.
+     So we'll start production next year, as we announced it before.
+     I'm personally very excited about the project.
+     I can't wait.
+     We do have a few trucks that keep driving around and like keep delivering cars.
+     But we're going to accelerate that.
+     I want to be clear that the first few units, we will use ourselves, Tesla to carry our own freight, probably mostly between Fremont and Reno, which is a fantastic test route.
+     We're going to prove that we have very good reliability.
+     And so far, the early units do have it, but we'll do that at a larger scale.
+     And we have also promised some early units to some long term, very patient and supportive customers, and we'll do that.
+     Now we have more sales coming up in next year, as Elon just pointed out.
+-----
+4. [Sentence #313] [SCALE ACHIEVED]
+     It's like a UPS, uninterruptible power supply of a normal size.
+     But just ensure that this grid has smooth sailing.
+     And then the batteries, the computers like all interact with each other and make sure that they're working together to make the grid smooth.
+     And this can be done with the Powerwalls and the Megapacks and the Powerpacks all working together and interacting with third-party systems as well.
+     Drew Baglino
+
+Yes.
+     Essentially, are distributed.
+     It does both.
+     Elon Musk
+
+Yes.
+     Drew Baglino
+
+Yes.
+     I mean, we've…
+
+Elon Musk
+
+It’s just necessary in order to solve the sustainable energy problem.
+     Drew Baglino
+
+Yes, you can't plan power plants on the hourly scale in a renewable world.
+     You need to optimize them on a minute-by-minute scale, and that's what we're doing.
+     Elon Musk
+
+Yes.
+>>> The real limitation on Tesla growth is cell production at affordable price.
+     That's the real limit.
+     So that's why we're going to talk about a lot more about this on Battery Day because this is a fundamental scaling constraint.
+     And any part of that supply chain or pricing at the cell level will be the limiting factor.
+     So whatever maybe an error from mining to refining, those many steps that are refining to cathode and analog formation, cell formation, whatever the truck point is, that will set the growth rate.
+     And so we expect to expand our business with Panasonic, with CATL, with LG, possibly with others.
+     And there's a lot more to say on that front on Battery Day.
+     Martin Viecha
+
+Thank you.
+     And the second question is, now that it's time to bring the Tesla Semi to volume production, can you share more detail on production plans?
+     What weekly production rate is considered volume production?
+     And when does Tesla expect to reach that rate?
+     Zachary Kirkhorn
+
+Yes.
+     So we'll start production next year, as we announced it before.
+     I'm personally very excited about the project.
+-----
+5. [Sentence #255] [PLAN]
+     It's actually extremely exciting and fulfilling to design new production systems.
+     And I think that for some reason, I kind of got a bad rep, especially in the U.S. for a long time.
+     And I think people didn't think that manufactured -- they sort of put manufacturing is like, oh, this is for some boring, just making copies, whatever.
+     But actually, there's far more opportunity for innovation in manufacturing than in the products itself, order magnitude.
+     So like if there's one thing that comes out of this call, it's like, hey, if you want to help us invent amazing, new manufacturing techniques and have input into the product itself, it's not like you just get touch the product and say, hey, make this product and it's kind of a lousy design.
+     If you're manufacturing, you get to change the product design, and say, hey, this product, you're asking your manufacturers dumb.
+     Like, great, let's fix it.
+     So it has, if you work on manufacturing engineering, but you don't just get force fed a sandwich.
+     You get to change the product design.
+     So it's super exciting.
+     And we evolve the lines even after they're both this rapid evolution of the production system.
+     So…
+
+Drew Baglino
+
+And there's nothing more rewarding than going from 0 cars an hour to 5,000 cars a week or 1,000 cars a day.
+     Elon Musk
+
+Yes.
+>>> So the long-term sustainable advantage of Tesla, I think, will be manufacturing.
+     Martin Viecha
+
+And the last question from institutional investor is, how many vehicles can Tesla produce in Texas?
+     Elon Musk
+
+Well, right now, 0.
+     But long term, a lot.
+     Drew Baglino
+
+It's our biggest property.
+     Elon Musk
+
+Yes, it's biggest property, true.
+     Martin Viecha
+
+Okay.
+     And now we can shift to retail investor questions on Say.com.
+     The first one is, Tesla Energy seems widely ignored by Wall Street, despite Elon comments about growth rate exceeding automotive.
+     Could Tesla share more detail on calendar planned projects to help investors better understand the business outlook?
+     How disruptive is Tesla's Autobidder technology?
+     Elon Musk
+
+Yes.
+     I can't emphasize.
+     I think long term, Tesla Energy will be roughly the same size as Tesla Automotive.
+-----
+6. [Sentence #265] [PLAN]
+     And we evolve the lines even after they're both this rapid evolution of the production system.
+     So…
+
+Drew Baglino
+
+And there's nothing more rewarding than going from 0 cars an hour to 5,000 cars a week or 1,000 cars a day.
+     Elon Musk
+
+Yes.
+     So the long-term sustainable advantage of Tesla, I think, will be manufacturing.
+     Martin Viecha
+
+And the last question from institutional investor is, how many vehicles can Tesla produce in Texas?
+     Elon Musk
+
+Well, right now, 0.
+     But long term, a lot.
+     Drew Baglino
+
+It's our biggest property.
+     Elon Musk
+
+Yes, it's biggest property, true.
+     Martin Viecha
+
+Okay.
+     And now we can shift to retail investor questions on Say.com.
+     The first one is, Tesla Energy seems widely ignored by Wall Street, despite Elon comments about growth rate exceeding automotive.
+     Could Tesla share more detail on calendar planned projects to help investors better understand the business outlook?
+>>> How disruptive is Tesla's Autobidder technology?
+     Elon Musk
+
+Yes.
+     I can't emphasize.
+     I think long term, Tesla Energy will be roughly the same size as Tesla Automotive.
+     So, I mean, the Energy business collectively is bigger than the automotive business.
+     So you feel like, how big is the Energy sector?
+     Bigger than automotive.
+     And in order to achieve a sustainable energy future, we have to have sustainable energy generation, which I think is going to be primarily solar and followed by wind.
+     And those are intermittent.
+     So you need to have a lot of batteries to store the solar energy, because the wind doesn't always blow and the sun doesn't always shine.
+     So there's like three elements of the sustainable energy future: wind and solar sustainable energy generation; battery storage; and electric transport, those three things.
+     And the mission of Tesla is to accelerate sustainable energy.
+     So I can't emphasize enough.
+     Yes.
+-----
+7. [Sentence #122] [PLAN]
+     We remain production-constrained in this business and are continuing to work towards building additional capacity.
+     And our solar installation business was impacted by permit office closures, limiting installation volume.
+     Stock-based comp increased from Q1 to Q2.
+     This is driven almost entirely by an expense related to the next tranche of the CEO grant, as well as early vesting of the first tranche, which is reflected in SG&A within operating expenses.
+     On cash flows, our cash balance increased to our highest level yet of $8.6 billion, which included free cash flows of over $400 million.
+     This is a strong result on its own, despite an increase in capital expenses associated with Shanghai and Berlin, as well as movements in working capital.
+     A few things to note on working capital, particularly accounts receivables.
+     While our AR balance is usually about 20% of revenue, it can fluctuate depending upon a number of factors.
+     First, overall, less than 30% of our receivables is associated with new car sales.
+     Second, due to payment terms associated with financing and enterprise customers, settlement time lines for certain methods of cash payments and geographic mix of our deliveries, our cash balance and associated receivables are impacted significantly by how many cars are delivered in the final weeks and days of the quarter.
+     Third, roughly 40% of the balance is attributed to payment terms on regulatory credit sales and statutory EV incentive programs, both of which have been increasing.
+     Customer deposits reduced slightly as well.
+     Note that as we transition to lower order fees across the world, the average deposit per order will continue to reduce driving down this balance.
+>>> As we look forward, Tesla was able to navigate through Q2 due to our agile and dynamic culture.
+     We will continue to appropriately manage our cash flows through cost optimization and close working capital management.
+     This is key as we remain focused on expanding production, scaling our operations and preparing for the launch of three new factories over the next 1.5 years.
+     Question-and-Answer Session
+
+A - Martin Viecha
+
+Thank you very much.
+     Let's go to questions from institutional investors first.
+     The question number one is, as Tesla continues its journey towards the long-term goal of selling 20 million units per year, what are the most important vehicle programs that will drive volume growth over the next three to five years beyond Model 3, Y and the Cybertruck?
+     Cheaper, smaller versions of 3 and Y?
+     Or region-specific vehicles?
+     Or anything else?
+     Elon Musk
+
+I don't think we can comment on our detailed product roadmap beyond what's announced because I think we want to reserve that for product launches.
+     But it would be reasonable to assume that we would make a compact vehicle of some kind and probably a higher capacity [indiscernible] vehicle of some kind.
+     These are likely things at some point.
+     But I do think there's a long way to go with 3 and Y and with Cybertruck and Semi.
+     So it's a long way to go with those.
+-----
+
+Total context windows: 7

@@ -1,0 +1,53 @@
+[Year Q1] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #108]  (TSLA_Q1_2020) It is important to note that Tesla remains an extremely agile and dynamic company, and this is aided by the substantial work we've done over the last year to improve our cost efficiency and productivity.
+2. [Sentence #203]  (TSLA_Q1_2020) Is this still in line with Tesla's ambitions for the next five to 10 years?
+3. [Sentence #280]  (TSLA_Q1_2020) And the last question from the retailers, when will Tesla **start** acquiring utilities like Hornsdale Power Reserve and most lending instead of selling them battery storage?
+4. [Sentence #438]  (TSLA_Q1_2020) I would love for you to walk through the rollout **strategy** of the Tesla Network app and how that's going to look prior to the robo taxi stage?
+5. [Sentence #556]  (TSLA_Q1_2021) It’s been exceeded by the Tesla Model 3, and this is only three-and-a half years into **production** and with just two factories.
+6. [Sentence #595]  (TSLA_Q1_2021) But we do expect to ramp Model S **production** and **start** delivering them probably next month.
+7. [Sentence #596]  (TSLA_Q1_2021) So -- and then to be in sort of fairly high-volume **production** for the S in Q3 and to **start** delivering the Model X in Q3 as well.
+8. [Sentence #608]  (TSLA_Q1_2021) In the background, we are continuing work -- **development** work on the Semi, **Cybertruck**, on the Roadster and other products.
+9. [Sentence #887]  (TSLA_Q1_2021) The truly profound thing on the car side is that Tesla was the first American car company to achieve volume **production** of a car in 100 years and not go bankrupt.
+10. [Sentence #1120]  (TSLA_Q1_2022) And we remain on track to reach volume **production** of the **Cybertruck** next year.
+11. [Sentence #1462]  (TSLA_Q1_2022) First is regarding the **Cybertruck**.
+12. [Sentence #1636]  (TSLA_Q1_2023) Regarding the **Cybertruck**, we continue to build Alpha versions of the **Cybertruck** on our pilot line for testing purposes.
+13. [Sentence #1638]  (TSLA_Q1_2023) As with all new products, it will follow an S curve, so **production** starts out slow and then accelerates.
+14. [Sentence #1666]  (TSLA_Q1_2023) I want to **start** by congratulating the Tesla team for record vehicle **production** and deliveries.
+15. [Sentence #1683]  (TSLA_Q1_2023) We plan to continue to invest heavily into our future plans, which include the **Cybertruck** next-generation platform, in-house cell **production**, energy storage business and our autonomy and AI-enabled products.
+16. [Sentence #1753]  (TSLA_Q1_2023) And going forward for the rest of the year, the priority, one, is yielding cost for the 4680 program as we steadily ramp **production** ahead of **Cybertruck** next year.
+17. [Sentence #1787]  (TSLA_Q1_2023) And maybe the last question from investors, can you give updated specs and pricing for **Cybertruck** and any new features that will make it to **production**?
+18. [Sentence #2217]  (TSLA_Q1_2024) We've updated our future vehicle lineup to accelerate the launch of new models ahead, previously mentioned startup **production** in the second half of 2025, so we expect it to be more like the early 2025, if not late this year.
+19. [Sentence #2284]  (TSLA_Q1_2024) 4680 **production** increased about 18% to 20% from Q4 reaching greater than 1K a week for **Cybertruck**, which is about 7 gigawatt hours per year as we posted on X.
+20. [Sentence #2285]  (TSLA_Q1_2024) We expect to stay ahead of the **Cybertruck** ramp with the cell **production** throughout Q2 as we ramp the third of four lines in Phase 1, while maintaining multiple weeks of cell inventory to make sure we're ahead of the ramp.
+21. [Sentence #2400]  (TSLA_Q1_2024) The next question is, what is the progress of **Cybertruck** ramp?
+
+Total transcript-order evidence sentences: 21
+
+--- Evidence by Similarity ---
+1. [Sentence #1787]  (TSLA_Q1_2023) (Similarity: 0.882) And maybe the last question from investors, can you give updated specs and pricing for **Cybertruck** and any new features that will make it to **production**?
+2. [Sentence #1120]  (TSLA_Q1_2022) (Similarity: 0.863) And we remain on track to reach volume **production** of the **Cybertruck** next year.
+3. [Sentence #1683]  (TSLA_Q1_2023) (Similarity: 0.839) We plan to continue to invest heavily into our future plans, which include the **Cybertruck** next-generation platform, in-house cell **production**, energy storage business and our autonomy and AI-enabled products.
+4. [Sentence #608]  (TSLA_Q1_2021) (Similarity: 0.807) In the background, we are continuing work -- **development** work on the Semi, **Cybertruck**, on the Roadster and other products.
+5. [Sentence #2285]  (TSLA_Q1_2024) (Similarity: 0.791) We expect to stay ahead of the **Cybertruck** ramp with the cell **production** throughout Q2 as we ramp the third of four lines in Phase 1, while maintaining multiple weeks of cell inventory to make sure we're ahead of the ramp.
+6. [Sentence #1666]  (TSLA_Q1_2023) (Similarity: 0.722) I want to **start** by congratulating the Tesla team for record vehicle **production** and deliveries.
+7. [Sentence #2400]  (TSLA_Q1_2024) (Similarity: 0.720) The next question is, what is the progress of **Cybertruck** ramp?
+8. [Sentence #2284]  (TSLA_Q1_2024) (Similarity: 0.708) 4680 **production** increased about 18% to 20% from Q4 reaching greater than 1K a week for **Cybertruck**, which is about 7 gigawatt hours per year as we posted on X.
+9. [Sentence #1638]  (TSLA_Q1_2023) (Similarity: 0.694) As with all new products, it will follow an S curve, so **production** starts out slow and then accelerates.
+10. [Sentence #1753]  (TSLA_Q1_2023) (Similarity: 0.689) And going forward for the rest of the year, the priority, one, is yielding cost for the 4680 program as we steadily ramp **production** ahead of **Cybertruck** next year.
+11. [Sentence #887]  (TSLA_Q1_2021) (Similarity: 0.682) The truly profound thing on the car side is that Tesla was the first American car company to achieve volume **production** of a car in 100 years and not go bankrupt.
+12. [Sentence #280]  (TSLA_Q1_2020) (Similarity: 0.664) And the last question from the retailers, when will Tesla **start** acquiring utilities like Hornsdale Power Reserve and most lending instead of selling them battery storage?
+13. [Sentence #1462]  (TSLA_Q1_2022) (Similarity: 0.661) First is regarding the **Cybertruck**.
+14. [Sentence #1636]  (TSLA_Q1_2023) (Similarity: 0.659) Regarding the **Cybertruck**, we continue to build Alpha versions of the **Cybertruck** on our pilot line for testing purposes.
+15. [Sentence #595]  (TSLA_Q1_2021) (Similarity: 0.642) But we do expect to ramp Model S **production** and **start** delivering them probably next month.
+16. [Sentence #203]  (TSLA_Q1_2020) (Similarity: 0.620) Is this still in line with Tesla's ambitions for the next five to 10 years?
+17. [Sentence #108]  (TSLA_Q1_2020) (Similarity: 0.617) It is important to note that Tesla remains an extremely agile and dynamic company, and this is aided by the substantial work we've done over the last year to improve our cost efficiency and productivity.
+18. [Sentence #438]  (TSLA_Q1_2020) (Similarity: 0.617) I would love for you to walk through the rollout **strategy** of the Tesla Network app and how that's going to look prior to the robo taxi stage?
+19. [Sentence #596]  (TSLA_Q1_2021) (Similarity: 0.611) So -- and then to be in sort of fairly high-volume **production** for the S in Q3 and to **start** delivering the Model X in Q3 as well.
+20. [Sentence #2217]  (TSLA_Q1_2024) (Similarity: 0.606) We've updated our future vehicle lineup to accelerate the launch of new models ahead, previously mentioned startup **production** in the second half of 2025, so we expect it to be more like the early 2025, if not late this year.
+21. [Sentence #556]  (TSLA_Q1_2021) (Similarity: 0.604) It’s been exceeded by the Tesla Model 3, and this is only three-and-a half years into **production** and with just two factories.
+
+Total similarity-top evidence sentences: 21
+
+-----

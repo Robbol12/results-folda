@@ -1,0 +1,21 @@
+[TSLA_Q3_2021] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #64]  The second question from institutional investor comes, do you still expect to **start** **production** of the $25,000 model in 2023.
+2. [Sentence #71]  As we've mentioned before, after Model Y in Austin, our next product launch will be **Cybertruck**.
+3. [Sentence #92]  The next question, a question from retail shareholder is, what is Tesla 's goal for vehicle **production** capacity for the four current factories, Fremont, Shanghai, Austin and Berlin by 2024?
+4. [Sentence #235]  The next question is, Elon said that we get an update on **Cybertruck** in November a year ago, but it hasn't happened and we know there are a lot of updates.
+5. [Sentence #240]  We've been busy detailing the **Cybertruck** to achieve the prototype version we shared with customers awhile back.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #240]  (Similarity: 0.703) We've been busy detailing the **Cybertruck** to achieve the prototype version we shared with customers awhile back.
+2. [Sentence #71]  (Similarity: 0.696) As we've mentioned before, after Model Y in Austin, our next product launch will be **Cybertruck**.
+3. [Sentence #92]  (Similarity: 0.670) The next question, a question from retail shareholder is, what is Tesla 's goal for vehicle **production** capacity for the four current factories, Fremont, Shanghai, Austin and Berlin by 2024?
+4. [Sentence #235]  (Similarity: 0.650) The next question is, Elon said that we get an update on **Cybertruck** in November a year ago, but it hasn't happened and we know there are a lot of updates.
+5. [Sentence #64]  (Similarity: 0.648) The second question from institutional investor comes, do you still expect to **start** **production** of the $25,000 model in 2023.
+
+Total similarity-top evidence sentences: 5
+
+-----

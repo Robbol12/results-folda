@@ -1,0 +1,29 @@
+[TSLA_Q3_2022] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #24]  And its output is growing rapidly, and we expect it to **start** incorporating in cars and having it be a significant portion of our **production** here in Texas in the coming months.
+2. [Sentence #132]  We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue **production** at a 50% or greater compound annual growth rate.
+3. [Sentence #165]  And the next question is, “How is **production** planning going for the **Cybertruck**?
+4. [Sentence #180]  So, we’ll be handing over our first **production** Tesla Semis to Pepsi on December 1st.
+5. [Sentence #182]  And we will begin ramping up **production** of the Tesla Semi, which is a max low, heavy -- heavy truck.
+6. [Sentence #254]  Elon Musk
+
+Well, we don’t want to talk exact dates, but this is a -- I mean, the primary focus of our new vehicle **development** team, obviously.
+7. [Sentence #509]  And how do you balance the need for 4680 across Semi, **Cybertruck** and potentially Model Y in 2023?
+
+Total transcript-order evidence sentences: 7
+
+--- Evidence by Similarity ---
+1. [Sentence #165]  (Similarity: 0.906) And the next question is, “How is **production** planning going for the **Cybertruck**?
+2. [Sentence #132]  (Similarity: 0.672) We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue **production** at a 50% or greater compound annual growth rate.
+3. [Sentence #509]  (Similarity: 0.669) And how do you balance the need for 4680 across Semi, **Cybertruck** and potentially Model Y in 2023?
+4. [Sentence #182]  (Similarity: 0.665) And we will begin ramping up **production** of the Tesla Semi, which is a max low, heavy -- heavy truck.
+5. [Sentence #24]  (Similarity: 0.618) And its output is growing rapidly, and we expect it to **start** incorporating in cars and having it be a significant portion of our **production** here in Texas in the coming months.
+6. [Sentence #180]  (Similarity: 0.611) So, we’ll be handing over our first **production** Tesla Semis to Pepsi on December 1st.
+7. [Sentence #254]  (Similarity: 0.606) Elon Musk
+
+Well, we don’t want to talk exact dates, but this is a -- I mean, the primary focus of our new vehicle **development** team, obviously.
+
+Total similarity-top evidence sentences: 7
+
+-----

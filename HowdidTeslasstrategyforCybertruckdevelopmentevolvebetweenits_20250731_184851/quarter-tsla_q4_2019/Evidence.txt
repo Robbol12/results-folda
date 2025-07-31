@@ -1,0 +1,17 @@
+[TSLA_Q4_2019] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #31]  For the **Cybertruck**, a few months ago we revealed obviously we revealed the **Cybertruck**, and that was -- that went viral and we tried to build a product that -a product that is superior in every way without any preconceptions of how such product should look.
+2. [Sentence #41]  And in conclusion when I think of what we have in front of us, the next couple of years, we've got Model Y, we've got Giga Berlin, Tesla Semi, Solarglass Roof, **Cybertruck** some very exciting improvements in battery technology for the full self-driving, we got the next-gen Roadster and probably in a bunch of other products we'll [indiscernible] too.
+3. [Sentence #270]  So that's part of the reason why we have not for example really accelerated **production** of the Tesla Semi because it does use a lot of cells and unless we've got a lot of battery cells available then -- and say like accelerating **production** of the Tesla Semi would then necessarily mean making pure Model 3 or Model Y cars.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #41]  (Similarity: 0.677) And in conclusion when I think of what we have in front of us, the next couple of years, we've got Model Y, we've got Giga Berlin, Tesla Semi, Solarglass Roof, **Cybertruck** some very exciting improvements in battery technology for the full self-driving, we got the next-gen Roadster and probably in a bunch of other products we'll [indiscernible] too.
+2. [Sentence #31]  (Similarity: 0.634) For the **Cybertruck**, a few months ago we revealed obviously we revealed the **Cybertruck**, and that was -- that went viral and we tried to build a product that -a product that is superior in every way without any preconceptions of how such product should look.
+3. [Sentence #270]  (Similarity: 0.628) So that's part of the reason why we have not for example really accelerated **production** of the Tesla Semi because it does use a lot of cells and unless we've got a lot of battery cells available then -- and say like accelerating **production** of the Tesla Semi would then necessarily mean making pure Model 3 or Model Y cars.
+
+Total similarity-top evidence sentences: 3
+
+-----

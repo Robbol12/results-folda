@@ -1,0 +1,23 @@
+[TSLA_Q2_2023] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #52]  With regard to our **Cybertruck**, we continue to build our release candidates of the **Cybertruck** on our final **production** line in Austin.
+2. [Sentence #84]  This includes increasing spending on AI related technologies such as full self-driving, Optimus and Dojo, as well as new products such as **Cybertruck**, our next generation platform and the Semi, as evidenced by the continued growth in our R&D spend.
+3. [Sentence #110]  Here in Texas, we’re preparing to launch our **Cybertruck** cell, which is 10% higher energy density than current **production**.
+4. [Sentence #115]  Lastly, it is important to remember that most of what we focused on a Battery Day was the Tesla-engineered 4680 **production** system and the improvements we strove to achieve on equipment, factory density, capital cost and utility cost reduction, all of which we are realizing in our Texas scale up to date.
+5. [Sentence #180]  I do want to emphasize that the **Cybertruck** has a lot of new technology in it, like a lot.
+6. [Sentence #405]  As we just think about sort of in the year ahead, **Cybertruck** is going to be some contribution.
+
+Total transcript-order evidence sentences: 6
+
+--- Evidence by Similarity ---
+1. [Sentence #52]  (Similarity: 0.805) With regard to our **Cybertruck**, we continue to build our release candidates of the **Cybertruck** on our final **production** line in Austin.
+2. [Sentence #110]  (Similarity: 0.773) Here in Texas, we’re preparing to launch our **Cybertruck** cell, which is 10% higher energy density than current **production**.
+3. [Sentence #405]  (Similarity: 0.682) As we just think about sort of in the year ahead, **Cybertruck** is going to be some contribution.
+4. [Sentence #180]  (Similarity: 0.650) I do want to emphasize that the **Cybertruck** has a lot of new technology in it, like a lot.
+5. [Sentence #115]  (Similarity: 0.628) Lastly, it is important to remember that most of what we focused on a Battery Day was the Tesla-engineered 4680 **production** system and the improvements we strove to achieve on equipment, factory density, capital cost and utility cost reduction, all of which we are realizing in our Texas scale up to date.
+6. [Sentence #84]  (Similarity: 0.603) This includes increasing spending on AI related technologies such as full self-driving, Optimus and Dojo, as well as new products such as **Cybertruck**, our next generation platform and the Semi, as evidenced by the continued growth in our R&D spend.
+
+Total similarity-top evidence sentences: 6
+
+-----

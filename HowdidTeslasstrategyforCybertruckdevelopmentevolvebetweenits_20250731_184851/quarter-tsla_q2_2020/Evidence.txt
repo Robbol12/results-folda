@@ -1,0 +1,25 @@
+[TSLA_Q2_2020] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #32]  And it's also where we'll be doing **Cybertruck** there, the Tesla Semi.
+2. [Sentence #122]  As we look forward, Tesla was able to navigate through Q2 due to our agile and dynamic culture.
+3. [Sentence #127]  The question number one is, as Tesla continues its journey towards the long-term goal of selling 20 million units per year, what are the most important vehicle programs that will drive volume growth over the next three to five years beyond Model 3, Y and the **Cybertruck**?
+4. [Sentence #255]  So the long-term sustainable advantage of Tesla, I think, will be manufacturing.
+5. [Sentence #265]  How disruptive is Tesla's Autobidder technology?
+6. [Sentence #313]  The real limitation on Tesla growth is cell **production** at affordable price.
+7. [Sentence #321]  And the second question is, now that it's time to bring the Tesla Semi to volume **production**, can you share more detail on **production** plans?
+
+Total transcript-order evidence sentences: 7
+
+--- Evidence by Similarity ---
+1. [Sentence #32]  (Similarity: 0.789) And it's also where we'll be doing **Cybertruck** there, the Tesla Semi.
+2. [Sentence #127]  (Similarity: 0.716) The question number one is, as Tesla continues its journey towards the long-term goal of selling 20 million units per year, what are the most important vehicle programs that will drive volume growth over the next three to five years beyond Model 3, Y and the **Cybertruck**?
+3. [Sentence #321]  (Similarity: 0.696) And the second question is, now that it's time to bring the Tesla Semi to volume **production**, can you share more detail on **production** plans?
+4. [Sentence #313]  (Similarity: 0.670) The real limitation on Tesla growth is cell **production** at affordable price.
+5. [Sentence #255]  (Similarity: 0.617) So the long-term sustainable advantage of Tesla, I think, will be manufacturing.
+6. [Sentence #265]  (Similarity: 0.611) How disruptive is Tesla's Autobidder technology?
+7. [Sentence #122]  (Similarity: 0.601) As we look forward, Tesla was able to navigate through Q2 due to our agile and dynamic culture.
+
+Total similarity-top evidence sentences: 7
+
+-----

@@ -1,0 +1,69 @@
+[Year Q2] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #32]  (TSLA_Q2_2020) And it's also where we'll be doing **Cybertruck** there, the Tesla Semi.
+2. [Sentence #122]  (TSLA_Q2_2020) As we look forward, Tesla was able to navigate through Q2 due to our agile and dynamic culture.
+3. [Sentence #127]  (TSLA_Q2_2020) The question number one is, as Tesla continues its journey towards the long-term goal of selling 20 million units per year, what are the most important vehicle programs that will drive volume growth over the next three to five years beyond Model 3, Y and the **Cybertruck**?
+4. [Sentence #255]  (TSLA_Q2_2020) So the long-term sustainable advantage of Tesla, I think, will be manufacturing.
+5. [Sentence #265]  (TSLA_Q2_2020) How disruptive is Tesla's Autobidder technology?
+6. [Sentence #313]  (TSLA_Q2_2020) The real limitation on Tesla growth is cell **production** at affordable price.
+7. [Sentence #321]  (TSLA_Q2_2020) And the second question is, now that it's time to bring the Tesla Semi to volume **production**, can you share more detail on **production** plans?
+8. [Sentence #629]  (TSLA_Q2_2021) It’s been exceeded by the Tesla Model 3, and this is only three-and-a half years into **production** and with just two factories.
+9. [Sentence #668]  (TSLA_Q2_2021) But we do expect to ramp Model S **production** and **start** delivering them probably next month.
+10. [Sentence #669]  (TSLA_Q2_2021) So -- and then to be in sort of fairly high-volume **production** for the S in Q3 and to **start** delivering the Model X in Q3 as well.
+11. [Sentence #681]  (TSLA_Q2_2021) In the background, we are continuing work -- **development** work on the Semi, **Cybertruck**, on the Roadster and other products.
+12. [Sentence #960]  (TSLA_Q2_2021) The truly profound thing on the car side is that Tesla was the first American car company to achieve volume **production** of a car in 100 years and not go bankrupt.
+13. [Sentence #1172]  (TSLA_Q2_2022) We will bring another level of simplicity and manufacturing improvements with **Cybertruck** and future products that we are not quite ready to talk about now, but I think will be very exciting to unveil in the future.
+14. [Sentence #1180]  (TSLA_Q2_2022) Our team continues to focus on **Cybertruck** **production** readiness and some future platform design.
+15. [Sentence #1181]  (TSLA_Q2_2022) We are expecting to be – still expecting to be in **production** with the **Cybertruck** in the middle of next year.
+16. [Sentence #1420]  (TSLA_Q2_2022) And the last question is, when will the **Cybertruck** be officially available?
+17. [Sentence #1457]  (TSLA_Q2_2022) The Tesla battery cell **production** is in addition to what our suppliers can do.
+18. [Sentence #1749]  (TSLA_Q2_2023) With regard to our **Cybertruck**, we continue to build our release candidates of the **Cybertruck** on our final **production** line in Austin.
+19. [Sentence #1781]  (TSLA_Q2_2023) This includes increasing spending on AI related technologies such as full self-driving, Optimus and Dojo, as well as new products such as **Cybertruck**, our next generation platform and the Semi, as evidenced by the continued growth in our R&D spend.
+20. [Sentence #1807]  (TSLA_Q2_2023) Here in Texas, we’re preparing to launch our **Cybertruck** cell, which is 10% higher energy density than current **production**.
+21. [Sentence #1812]  (TSLA_Q2_2023) Lastly, it is important to remember that most of what we focused on a Battery Day was the Tesla-engineered 4680 **production** system and the improvements we strove to achieve on equipment, factory density, capital cost and utility cost reduction, all of which we are realizing in our Texas scale up to date.
+22. [Sentence #1877]  (TSLA_Q2_2023) I do want to emphasize that the **Cybertruck** has a lot of new technology in it, like a lot.
+23. [Sentence #2102]  (TSLA_Q2_2023) As we just think about sort of in the year ahead, **Cybertruck** is going to be some contribution.
+24. [Sentence #2302]  (TSLA_Q2_2024) And we expect to have Optimus **production** Version 1 in limited **production** starting early next year.
+25. [Sentence #2339]  (TSLA_Q2_2024) Cost per vehicle declined sequentially when we removed the impact of **Cybertruck**.
+26. [Sentence #2341]  (TSLA_Q2_2024) Additionally, as we get into the second half of the year, it is important to note that we are still ramping **Cybertruck** and Model 3 and are also getting impacted by varying amounts of tariffs on both raw materials and finished goods.
+27. [Sentence #2377]  (TSLA_Q2_2024) Our third question is, the **Cybertruck** is an iconic product that wows everyone who sees it.
+28. [Sentence #2384]  (TSLA_Q2_2024) We've built our first validation **Cybertruck** with dry cathode process made on our mass **production** equipment, which is a huge technical milestone and we're super proud of that.
+29. [Sentence #2469]  (TSLA_Q2_2024) So what I was finding was that when trying to recruit people to Tesla, they were only interested in working on AGI and not on Tesla's specific problems and they want to **start** -- do a **start**-up.
+
+Total transcript-order evidence sentences: 29
+
+--- Evidence by Similarity ---
+1. [Sentence #1180]  (TSLA_Q2_2022) (Similarity: 0.861) Our team continues to focus on **Cybertruck** **production** readiness and some future platform design.
+2. [Sentence #1181]  (TSLA_Q2_2022) (Similarity: 0.836) We are expecting to be – still expecting to be in **production** with the **Cybertruck** in the middle of next year.
+3. [Sentence #681]  (TSLA_Q2_2021) (Similarity: 0.807) In the background, we are continuing work -- **development** work on the Semi, **Cybertruck**, on the Roadster and other products.
+4. [Sentence #1749]  (TSLA_Q2_2023) (Similarity: 0.805) With regard to our **Cybertruck**, we continue to build our release candidates of the **Cybertruck** on our final **production** line in Austin.
+5. [Sentence #32]  (TSLA_Q2_2020) (Similarity: 0.789) And it's also where we'll be doing **Cybertruck** there, the Tesla Semi.
+6. [Sentence #1807]  (TSLA_Q2_2023) (Similarity: 0.773) Here in Texas, we’re preparing to launch our **Cybertruck** cell, which is 10% higher energy density than current **production**.
+7. [Sentence #127]  (TSLA_Q2_2020) (Similarity: 0.716) The question number one is, as Tesla continues its journey towards the long-term goal of selling 20 million units per year, what are the most important vehicle programs that will drive volume growth over the next three to five years beyond Model 3, Y and the **Cybertruck**?
+8. [Sentence #1420]  (TSLA_Q2_2022) (Similarity: 0.705) And the last question is, when will the **Cybertruck** be officially available?
+9. [Sentence #321]  (TSLA_Q2_2020) (Similarity: 0.696) And the second question is, now that it's time to bring the Tesla Semi to volume **production**, can you share more detail on **production** plans?
+10. [Sentence #1172]  (TSLA_Q2_2022) (Similarity: 0.684) We will bring another level of simplicity and manufacturing improvements with **Cybertruck** and future products that we are not quite ready to talk about now, but I think will be very exciting to unveil in the future.
+11. [Sentence #2102]  (TSLA_Q2_2023) (Similarity: 0.682) As we just think about sort of in the year ahead, **Cybertruck** is going to be some contribution.
+12. [Sentence #960]  (TSLA_Q2_2021) (Similarity: 0.682) The truly profound thing on the car side is that Tesla was the first American car company to achieve volume **production** of a car in 100 years and not go bankrupt.
+13. [Sentence #313]  (TSLA_Q2_2020) (Similarity: 0.670) The real limitation on Tesla growth is cell **production** at affordable price.
+14. [Sentence #2384]  (TSLA_Q2_2024) (Similarity: 0.667) We've built our first validation **Cybertruck** with dry cathode process made on our mass **production** equipment, which is a huge technical milestone and we're super proud of that.
+15. [Sentence #1877]  (TSLA_Q2_2023) (Similarity: 0.650) I do want to emphasize that the **Cybertruck** has a lot of new technology in it, like a lot.
+16. [Sentence #668]  (TSLA_Q2_2021) (Similarity: 0.642) But we do expect to ramp Model S **production** and **start** delivering them probably next month.
+17. [Sentence #1457]  (TSLA_Q2_2022) (Similarity: 0.636) The Tesla battery cell **production** is in addition to what our suppliers can do.
+18. [Sentence #2302]  (TSLA_Q2_2024) (Similarity: 0.635) And we expect to have Optimus **production** Version 1 in limited **production** starting early next year.
+19. [Sentence #2469]  (TSLA_Q2_2024) (Similarity: 0.634) So what I was finding was that when trying to recruit people to Tesla, they were only interested in working on AGI and not on Tesla's specific problems and they want to **start** -- do a **start**-up.
+20. [Sentence #1812]  (TSLA_Q2_2023) (Similarity: 0.628) Lastly, it is important to remember that most of what we focused on a Battery Day was the Tesla-engineered 4680 **production** system and the improvements we strove to achieve on equipment, factory density, capital cost and utility cost reduction, all of which we are realizing in our Texas scale up to date.
+21. [Sentence #2377]  (TSLA_Q2_2024) (Similarity: 0.619) Our third question is, the **Cybertruck** is an iconic product that wows everyone who sees it.
+22. [Sentence #255]  (TSLA_Q2_2020) (Similarity: 0.617) So the long-term sustainable advantage of Tesla, I think, will be manufacturing.
+23. [Sentence #2341]  (TSLA_Q2_2024) (Similarity: 0.616) Additionally, as we get into the second half of the year, it is important to note that we are still ramping **Cybertruck** and Model 3 and are also getting impacted by varying amounts of tariffs on both raw materials and finished goods.
+24. [Sentence #2339]  (TSLA_Q2_2024) (Similarity: 0.615) Cost per vehicle declined sequentially when we removed the impact of **Cybertruck**.
+25. [Sentence #669]  (TSLA_Q2_2021) (Similarity: 0.611) So -- and then to be in sort of fairly high-volume **production** for the S in Q3 and to **start** delivering the Model X in Q3 as well.
+26. [Sentence #265]  (TSLA_Q2_2020) (Similarity: 0.611) How disruptive is Tesla's Autobidder technology?
+27. [Sentence #629]  (TSLA_Q2_2021) (Similarity: 0.604) It’s been exceeded by the Tesla Model 3, and this is only three-and-a half years into **production** and with just two factories.
+28. [Sentence #1781]  (TSLA_Q2_2023) (Similarity: 0.603) This includes increasing spending on AI related technologies such as full self-driving, Optimus and Dojo, as well as new products such as **Cybertruck**, our next generation platform and the Semi, as evidenced by the continued growth in our R&D spend.
+29. [Sentence #122]  (TSLA_Q2_2020) (Similarity: 0.601) As we look forward, Tesla was able to navigate through Q2 due to our agile and dynamic culture.
+
+Total similarity-top evidence sentences: 29
+
+-----

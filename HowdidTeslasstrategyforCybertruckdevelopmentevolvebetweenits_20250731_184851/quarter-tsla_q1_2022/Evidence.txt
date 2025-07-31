@@ -1,0 +1,15 @@
+[TSLA_Q1_2022] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #65]  And we remain on track to reach volume **production** of the **Cybertruck** next year.
+2. [Sentence #407]  First is regarding the **Cybertruck**.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #65]  (Similarity: 0.863) And we remain on track to reach volume **production** of the **Cybertruck** next year.
+2. [Sentence #407]  (Similarity: 0.661) First is regarding the **Cybertruck**.
+
+Total similarity-top evidence sentences: 2
+
+-----
