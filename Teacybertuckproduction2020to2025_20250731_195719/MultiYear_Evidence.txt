@@ -1,0 +1,15 @@
+[Multi-Year Analysis] Tea cybertuck production 2020 to 2025
+
+--- Evidence in Transcript Order ---
+1. [Sentence #53]  (TSLA_Q2_2022) We are expecting to be – still expecting to be in **production** with the **Cybertruck** in the middle of next year.
+2. [Sentence #65]  (TSLA_Q1_2022) And we remain on track to reach volume **production** of the **Cybertruck** next year.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #53]  (TSLA_Q2_2022) (Similarity: 0.741) We are expecting to be – still expecting to be in **production** with the **Cybertruck** in the middle of next year.
+2. [Sentence #65]  (TSLA_Q1_2022) (Similarity: 0.709) And we remain on track to reach volume **production** of the **Cybertruck** next year.
+
+Total similarity-top evidence sentences: 2
+
+-----
