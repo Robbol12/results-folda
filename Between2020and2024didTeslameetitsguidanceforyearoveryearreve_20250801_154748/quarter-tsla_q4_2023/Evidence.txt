@@ -1,0 +1,15 @@
+[TSLA_Q4_2023] Between 2020 and 2024, did Tesla meet its guidance for year-over-year revenue growth and operating leverage improvement?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #38]  Tesla is currently between two major **growth** waves.
+2. [Sentence #445]  As the China market kind of gets saturated and there's a tremendous **growth** in the supply, how much success should Tesla investors allow for this competition to achieve in Western markets?
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #38]  (Similarity: 0.708) Tesla is currently between two major **growth** waves.
+2. [Sentence #445]  (Similarity: 0.603) As the China market kind of gets saturated and there's a tremendous **growth** in the supply, how much success should Tesla investors allow for this competition to achieve in Western markets?
+
+Total similarity-top evidence sentences: 2
+
+-----

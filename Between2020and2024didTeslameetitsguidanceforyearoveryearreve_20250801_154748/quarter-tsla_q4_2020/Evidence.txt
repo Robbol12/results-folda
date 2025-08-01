@@ -1,0 +1,17 @@
+[TSLA_Q4_2020] Between 2020 and 2024, did Tesla meet its guidance for year-over-year revenue growth and operating leverage improvement?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #76]  So in conclusion, while 2020 was a turning point for Tesla and in terms of profitability, we believe this is just the beginning.
+2. [Sentence #302]  So -- but the reason Tesla is doing its own cell production is in order to accelerate the **growth**.
+3. [Sentence #312]  And so we -- since the cell output drives vehicle output, the – and then – I mean probably the Roadster value of Tesla is just what's the cell output that implies vehicle output, and then at least double that for autonomy **revenue** probably one level.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #302]  (Similarity: 0.661) So -- but the reason Tesla is doing its own cell production is in order to accelerate the **growth**.
+2. [Sentence #76]  (Similarity: 0.652) So in conclusion, while 2020 was a turning point for Tesla and in terms of profitability, we believe this is just the beginning.
+3. [Sentence #312]  (Similarity: 0.640) And so we -- since the cell output drives vehicle output, the – and then – I mean probably the Roadster value of Tesla is just what's the cell output that implies vehicle output, and then at least double that for autonomy **revenue** probably one level.
+
+Total similarity-top evidence sentences: 3
+
+-----

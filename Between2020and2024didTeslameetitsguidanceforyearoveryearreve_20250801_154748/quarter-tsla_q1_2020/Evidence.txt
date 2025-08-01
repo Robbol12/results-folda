@@ -1,0 +1,19 @@
+[TSLA_Q1_2020] Between 2020 and 2024, did Tesla meet its guidance for year-over-year revenue growth and operating leverage improvement?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #108]  It is important to note that Tesla remains an extremely agile and dynamic company, and this is aided by the substantial work we've done over the last year to improve our cost efficiency and productivity.
+2. [Sentence #202]  Question number one, Elon has mentioned a 50% compound annual **growth** target for Tesla in the past.
+3. [Sentence #203]  Is this still in line with Tesla's ambitions for the next five to 10 years?
+4. [Sentence #280]  And the last question from the retailers, when will Tesla start acquiring utilities like Hornsdale Power Reserve and most lending instead of selling them battery storage?
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #203]  (Similarity: 0.684) Is this still in line with Tesla's ambitions for the next five to 10 years?
+2. [Sentence #202]  (Similarity: 0.679) Question number one, Elon has mentioned a 50% compound annual **growth** target for Tesla in the past.
+3. [Sentence #108]  (Similarity: 0.611) It is important to note that Tesla remains an extremely agile and dynamic company, and this is aided by the substantial work we've done over the last year to improve our cost efficiency and productivity.
+4. [Sentence #280]  (Similarity: 0.601) And the last question from the retailers, when will Tesla start acquiring utilities like Hornsdale Power Reserve and most lending instead of selling them battery storage?
+
+Total similarity-top evidence sentences: 4
+
+-----

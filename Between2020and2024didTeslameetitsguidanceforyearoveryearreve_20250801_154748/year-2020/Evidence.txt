@@ -1,0 +1,35 @@
+[Year 2020] Between 2020 and 2024, did Tesla meet its guidance for year-over-year revenue growth and operating leverage improvement?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #108]  (TSLA_Q1_2020) It is important to note that Tesla remains an extremely agile and dynamic company, and this is aided by the substantial work we've done over the last year to improve our cost efficiency and productivity.
+2. [Sentence #202]  (TSLA_Q1_2020) Question number one, Elon has mentioned a 50% compound annual **growth** target for Tesla in the past.
+3. [Sentence #203]  (TSLA_Q1_2020) Is this still in line with Tesla's ambitions for the next five to 10 years?
+4. [Sentence #280]  (TSLA_Q1_2020) And the last question from the retailers, when will Tesla start acquiring utilities like Hornsdale Power Reserve and most lending instead of selling them battery storage?
+5. [Sentence #659]  (TSLA_Q2_2020) The question number one is, as Tesla continues its journey towards the long-term goal of selling 20 million units per year, what are the most important vehicle programs that will drive volume **growth** over the next three to five years beyond Model 3, Y and the Cybertruck?
+6. [Sentence #787]  (TSLA_Q2_2020) So the long-term sustainable advantage of Tesla, I think, will be manufacturing.
+7. [Sentence #845]  (TSLA_Q2_2020) The real limitation on Tesla **growth** is cell production at affordable price.
+8. [Sentence #855]  (TSLA_Q2_2020) And when does Tesla expect to reach that rate?
+9. [Sentence #1043]  (TSLA_Q2_2020) It feels like, historically, you've always picked the path of, I'd rather drive more **growth** and more adoption because ultimately, that's the mission of the company, and we even saw it a little bit this quarter with price reductions, you could have probably kept price where it is, sold some units and had better profits, but that's been an ongoing choice that Tesla, as a company has made.
+10. [Sentence #1859]  (TSLA_Q4_2020) So in conclusion, while 2020 was a turning point for Tesla and in terms of profitability, we believe this is just the beginning.
+11. [Sentence #2085]  (TSLA_Q4_2020) So -- but the reason Tesla is doing its own cell production is in order to accelerate the **growth**.
+12. [Sentence #2095]  (TSLA_Q4_2020) And so we -- since the cell output drives vehicle output, the – and then – I mean probably the Roadster value of Tesla is just what's the cell output that implies vehicle output, and then at least double that for autonomy **revenue** probably one level.
+
+Total transcript-order evidence sentences: 12
+
+--- Evidence by Similarity ---
+1. [Sentence #659]  (TSLA_Q2_2020) (Similarity: 0.735) The question number one is, as Tesla continues its journey towards the long-term goal of selling 20 million units per year, what are the most important vehicle programs that will drive volume **growth** over the next three to five years beyond Model 3, Y and the Cybertruck?
+2. [Sentence #845]  (TSLA_Q2_2020) (Similarity: 0.733) The real limitation on Tesla **growth** is cell production at affordable price.
+3. [Sentence #1043]  (TSLA_Q2_2020) (Similarity: 0.700) It feels like, historically, you've always picked the path of, I'd rather drive more **growth** and more adoption because ultimately, that's the mission of the company, and we even saw it a little bit this quarter with price reductions, you could have probably kept price where it is, sold some units and had better profits, but that's been an ongoing choice that Tesla, as a company has made.
+4. [Sentence #203]  (TSLA_Q1_2020) (Similarity: 0.684) Is this still in line with Tesla's ambitions for the next five to 10 years?
+5. [Sentence #202]  (TSLA_Q1_2020) (Similarity: 0.679) Question number one, Elon has mentioned a 50% compound annual **growth** target for Tesla in the past.
+6. [Sentence #855]  (TSLA_Q2_2020) (Similarity: 0.669) And when does Tesla expect to reach that rate?
+7. [Sentence #2085]  (TSLA_Q4_2020) (Similarity: 0.661) So -- but the reason Tesla is doing its own cell production is in order to accelerate the **growth**.
+8. [Sentence #1859]  (TSLA_Q4_2020) (Similarity: 0.652) So in conclusion, while 2020 was a turning point for Tesla and in terms of profitability, we believe this is just the beginning.
+9. [Sentence #2095]  (TSLA_Q4_2020) (Similarity: 0.640) And so we -- since the cell output drives vehicle output, the – and then – I mean probably the Roadster value of Tesla is just what's the cell output that implies vehicle output, and then at least double that for autonomy **revenue** probably one level.
+10. [Sentence #108]  (TSLA_Q1_2020) (Similarity: 0.611) It is important to note that Tesla remains an extremely agile and dynamic company, and this is aided by the substantial work we've done over the last year to improve our cost efficiency and productivity.
+11. [Sentence #787]  (TSLA_Q2_2020) (Similarity: 0.610) So the long-term sustainable advantage of Tesla, I think, will be manufacturing.
+12. [Sentence #280]  (TSLA_Q1_2020) (Similarity: 0.601) And the last question from the retailers, when will Tesla start acquiring utilities like Hornsdale Power Reserve and most lending instead of selling them battery storage?
+
+Total similarity-top evidence sentences: 12
+
+-----

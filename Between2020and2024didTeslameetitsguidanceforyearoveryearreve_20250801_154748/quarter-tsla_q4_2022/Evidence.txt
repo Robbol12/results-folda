@@ -1,0 +1,19 @@
+[TSLA_Q4_2022] Between 2020 and 2024, did Tesla meet its guidance for year-over-year revenue growth and operating leverage improvement?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #54]  We believe we can keep pushing for strong volume **growth** while retaining the industry's best **operating** margins.
+2. [Sentence #137]  And so as other areas of the business become more important, particularly the energy business, which is growing faster than the vehicle business and as we're heavily focused on **operating** **leverage** here, improving efficiency of our overheads, we think the right metric for us to be focused on is **operating** margin.
+3. [Sentence #197]  Zach, when do you think Tesla Insurance will become big enough **revenue** source to warrant providing more details in the financials of the business so investors can compare it to other insurance companies?
+4. [Sentence #355]  And so -- but it's -- this is the thing that has order of magnitude potential market cap **improvement** for Tesla.
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #355]  (Similarity: 0.750) And so -- but it's -- this is the thing that has order of magnitude potential market cap **improvement** for Tesla.
+2. [Sentence #197]  (Similarity: 0.745) Zach, when do you think Tesla Insurance will become big enough **revenue** source to warrant providing more details in the financials of the business so investors can compare it to other insurance companies?
+3. [Sentence #137]  (Similarity: 0.658) And so as other areas of the business become more important, particularly the energy business, which is growing faster than the vehicle business and as we're heavily focused on **operating** **leverage** here, improving efficiency of our overheads, we think the right metric for us to be focused on is **operating** margin.
+4. [Sentence #54]  (Similarity: 0.640) We believe we can keep pushing for strong volume **growth** while retaining the industry's best **operating** margins.
+
+Total similarity-top evidence sentences: 4
+
+-----

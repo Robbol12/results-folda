@@ -1,0 +1,25 @@
+[TSLA_Q3_2022] Between 2020 and 2024, did Tesla meet its guidance for year-over-year revenue growth and operating leverage improvement?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #85]  **Operating** margin is one of our best yet, with improvements in **operating** **leverage**.
+2. [Sentence #107]  The first shareholder question is, given the stringent battery content and assembly requirements for consumer tax credit eligibility under the Inflation Reduction Act, can you speak to Tesla’s ability to meet those thresholds in each of 2023, 2024 and 2025 through your existing and planned supply chain?
+3. [Sentence #132]  We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and **revenue** production at a 50% or greater compound annual **growth** rate.
+4. [Sentence #143]  At Tesla, we’ve always been committed to continuous **improvement**.
+5. [Sentence #231]  Can you talk about how Tesla could adjust if we were to enter a prolonged recession, including new product prioritization, investment flexibility, new factory versus factory expansion, service support infrastructure, productivity cost measures and demand stimulation alternatives?
+6. [Sentence #356]  And I’m curious about areas where you could invest in an incremental way, whether it’s on the R&D side or on the sales side to accelerate **growth** or cost reduction, or should we be thinking about this level of spend on a go-forward basis and some significant **operating** **leverage** as you scale up from here?
+7. [Sentence #358]  I mean, our **operating** **leverage** has improved quite a bit.
+
+Total transcript-order evidence sentences: 7
+
+--- Evidence by Similarity ---
+1. [Sentence #132]  (Similarity: 0.930) We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and **revenue** production at a 50% or greater compound annual **growth** rate.
+2. [Sentence #356]  (Similarity: 0.738) And I’m curious about areas where you could invest in an incremental way, whether it’s on the R&D side or on the sales side to accelerate **growth** or cost reduction, or should we be thinking about this level of spend on a go-forward basis and some significant **operating** **leverage** as you scale up from here?
+3. [Sentence #358]  (Similarity: 0.678) I mean, our **operating** **leverage** has improved quite a bit.
+4. [Sentence #85]  (Similarity: 0.657) **Operating** margin is one of our best yet, with improvements in **operating** **leverage**.
+5. [Sentence #107]  (Similarity: 0.638) The first shareholder question is, given the stringent battery content and assembly requirements for consumer tax credit eligibility under the Inflation Reduction Act, can you speak to Tesla’s ability to meet those thresholds in each of 2023, 2024 and 2025 through your existing and planned supply chain?
+6. [Sentence #231]  (Similarity: 0.620) Can you talk about how Tesla could adjust if we were to enter a prolonged recession, including new product prioritization, investment flexibility, new factory versus factory expansion, service support infrastructure, productivity cost measures and demand stimulation alternatives?
+7. [Sentence #143]  (Similarity: 0.616) At Tesla, we’ve always been committed to continuous **improvement**.
+
+Total similarity-top evidence sentences: 7
+
+-----

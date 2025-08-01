@@ -1,0 +1,13 @@
+[TSLA_Q3_2024] Between 2020 and 2024, did Tesla meet its guidance for year-over-year revenue growth and operating leverage improvement?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #150]  I want to thank the Tesla team once again for strong execution in a tough **operating** environment, and we're looking forward to building an incredibly exciting future.
+
+Total transcript-order evidence sentences: 1
+
+--- Evidence by Similarity ---
+1. [Sentence #150]  (Similarity: 0.643) I want to thank the Tesla team once again for strong execution in a tough **operating** environment, and we're looking forward to building an incredibly exciting future.
+
+Total similarity-top evidence sentences: 1
+
+-----

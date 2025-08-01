@@ -1,0 +1,23 @@
+[Year 2023] Between 2020 and 2024, did Tesla meet its guidance for year-over-year revenue growth and operating leverage improvement?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #702]  (TSLA_Q2_2023) The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the **revenue** model?
+2. [Sentence #1001]  (TSLA_Q2_2023) I think the Tesla fleet value increase at the point which we can upload full self-driving and is approved by regulators will be the single biggest step change in asset value maybe in history.
+3. [Sentence #1271]  (TSLA_Q3_2023) Current sell side consensus assumes that Tesla will deliver 2.3 million vehicles in 2024, representing 28% **growth** versus 2023 guidance.
+4. [Sentence #1273]  (TSLA_Q3_2023) And when does Tesla expect to return to its 50% long-term CAGR?
+5. [Sentence #1670]  (TSLA_Q4_2023) Tesla is currently between two major **growth** waves.
+6. [Sentence #2077]  (TSLA_Q4_2023) As the China market kind of gets saturated and there's a tremendous **growth** in the supply, how much success should Tesla investors allow for this competition to achieve in Western markets?
+
+Total transcript-order evidence sentences: 6
+
+--- Evidence by Similarity ---
+1. [Sentence #1271]  (TSLA_Q3_2023) (Similarity: 0.834) Current sell side consensus assumes that Tesla will deliver 2.3 million vehicles in 2024, representing 28% **growth** versus 2023 guidance.
+2. [Sentence #702]  (TSLA_Q2_2023) (Similarity: 0.768) The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the **revenue** model?
+3. [Sentence #1670]  (TSLA_Q4_2023) (Similarity: 0.708) Tesla is currently between two major **growth** waves.
+4. [Sentence #1273]  (TSLA_Q3_2023) (Similarity: 0.640) And when does Tesla expect to return to its 50% long-term CAGR?
+5. [Sentence #1001]  (TSLA_Q2_2023) (Similarity: 0.639) I think the Tesla fleet value increase at the point which we can upload full self-driving and is approved by regulators will be the single biggest step change in asset value maybe in history.
+6. [Sentence #2077]  (TSLA_Q4_2023) (Similarity: 0.603) As the China market kind of gets saturated and there's a tremendous **growth** in the supply, how much success should Tesla investors allow for this competition to achieve in Western markets?
+
+Total similarity-top evidence sentences: 6
+
+-----

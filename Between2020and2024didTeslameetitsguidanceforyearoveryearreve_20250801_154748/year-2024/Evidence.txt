@@ -1,0 +1,33 @@
+[Year 2024] Between 2020 and 2024, did Tesla meet its guidance for year-over-year revenue growth and operating leverage improvement?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #49]  (TSLA_Q1_2024) We continue to make the necessary investments that will drive **growth** and profits for Tesla in the future, and I wanted to thank the Tesla team for incredible execution during this period and look forward to everything that we have planned ahead.
+2. [Sentence #135]  (TSLA_Q1_2024) And something I should clarify is that Tesla will be **operating** the fleet.
+3. [Sentence #415]  (TSLA_Q1_2024) Previously, the company had said that the price reductions were driving incremental demand with how affordable the cars have become, especially for vehicles that have access to IRA credits and some of the leasing offers that Tesla has in place.
+4. [Sentence #1052]  (TSLA_Q2_2024) It can be used by the fleet some of the time, and then Tesla would take -- would share on the **revenue** with the customer.
+5. [Sentence #1296]  (TSLA_Q3_2024) I want to thank the Tesla team once again for strong execution in a tough **operating** environment, and we're looking forward to building an incredibly exciting future.
+6. [Sentence #1891]  (TSLA_Q4_2024) So, in conclusion, 2025 really is a pivotal year for Tesla.
+7. [Sentence #1937]  (TSLA_Q4_2024) For 2025, we expect **operating** expenses to increase to support our **growth** initiatives.
+8. [Sentence #1945]  (TSLA_Q4_2024) In conclusion, like Elon said, 2025 is going to be a pivotal year for Tesla.
+9. [Sentence #2049]  (TSLA_Q4_2024) So, at that point, when we're at scale, it will meaningfully contribute to Tesla's **revenue**.
+10. [Sentence #2074]  (TSLA_Q4_2024) And if so, what is the timeline and expected impact to Tesla's capex?
+11. [Sentence #2138]  (TSLA_Q4_2024) What are you pushing the Tesla executive team to do differently now to accelerate the innovation in order to realize the value you described for the company?
+
+Total transcript-order evidence sentences: 11
+
+--- Evidence by Similarity ---
+1. [Sentence #49]  (TSLA_Q1_2024) (Similarity: 0.762) We continue to make the necessary investments that will drive **growth** and profits for Tesla in the future, and I wanted to thank the Tesla team for incredible execution during this period and look forward to everything that we have planned ahead.
+2. [Sentence #1937]  (TSLA_Q4_2024) (Similarity: 0.758) For 2025, we expect **operating** expenses to increase to support our **growth** initiatives.
+3. [Sentence #2049]  (TSLA_Q4_2024) (Similarity: 0.734) So, at that point, when we're at scale, it will meaningfully contribute to Tesla's **revenue**.
+4. [Sentence #135]  (TSLA_Q1_2024) (Similarity: 0.720) And something I should clarify is that Tesla will be **operating** the fleet.
+5. [Sentence #1296]  (TSLA_Q3_2024) (Similarity: 0.643) I want to thank the Tesla team once again for strong execution in a tough **operating** environment, and we're looking forward to building an incredibly exciting future.
+6. [Sentence #1945]  (TSLA_Q4_2024) (Similarity: 0.620) In conclusion, like Elon said, 2025 is going to be a pivotal year for Tesla.
+7. [Sentence #1052]  (TSLA_Q2_2024) (Similarity: 0.616) It can be used by the fleet some of the time, and then Tesla would take -- would share on the **revenue** with the customer.
+8. [Sentence #1891]  (TSLA_Q4_2024) (Similarity: 0.613) So, in conclusion, 2025 really is a pivotal year for Tesla.
+9. [Sentence #415]  (TSLA_Q1_2024) (Similarity: 0.610) Previously, the company had said that the price reductions were driving incremental demand with how affordable the cars have become, especially for vehicles that have access to IRA credits and some of the leasing offers that Tesla has in place.
+10. [Sentence #2074]  (TSLA_Q4_2024) (Similarity: 0.605) And if so, what is the timeline and expected impact to Tesla's capex?
+11. [Sentence #2138]  (TSLA_Q4_2024) (Similarity: 0.601) What are you pushing the Tesla executive team to do differently now to accelerate the innovation in order to realize the value you described for the company?
+
+Total similarity-top evidence sentences: 11
+
+-----

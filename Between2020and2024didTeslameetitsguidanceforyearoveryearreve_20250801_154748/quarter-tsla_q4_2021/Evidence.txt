@@ -1,0 +1,15 @@
+[TSLA_Q4_2021] Between 2020 and 2024, did Tesla meet its guidance for year-over-year revenue growth and operating leverage improvement?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #116]  However, we do expect to continue to see stronger **operating** margins as we grow our volumes and improve **operating** **leverage**.
+2. [Sentence #273]  The next question is, how much of Tesla's margin **improvement** is from, number one, economies of scale; number two, production design -- production line design efficiencies; number three, reduced transportation costs from multiple plant locations; and number four, pricing versus cost inflation; or number five, other sources?
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #116]  (Similarity: 0.689) However, we do expect to continue to see stronger **operating** margins as we grow our volumes and improve **operating** **leverage**.
+2. [Sentence #273]  (Similarity: 0.656) The next question is, how much of Tesla's margin **improvement** is from, number one, economies of scale; number two, production design -- production line design efficiencies; number three, reduced transportation costs from multiple plant locations; and number four, pricing versus cost inflation; or number five, other sources?
+
+Total similarity-top evidence sentences: 2
+
+-----

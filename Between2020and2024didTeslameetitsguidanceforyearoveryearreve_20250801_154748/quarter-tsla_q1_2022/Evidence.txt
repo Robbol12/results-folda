@@ -1,0 +1,17 @@
+[TSLA_Q1_2022] Between 2020 and 2024, did Tesla meet its guidance for year-over-year revenue growth and operating leverage improvement?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #28]  As a result of our ongoing improvements in **operating** **leverage**, we achieved a record **operating** margin of over 19%.
+2. [Sentence #64]  So, I think that really will be a massive driver of Tesla’s **growth**.
+3. [Sentence #87]  We love his optimism for 2022 release, but is there any data Tesla can share with investors to help them make their own conclusions on progress being made?
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #64]  (Similarity: 0.747) So, I think that really will be a massive driver of Tesla’s **growth**.
+2. [Sentence #28]  (Similarity: 0.699) As a result of our ongoing improvements in **operating** **leverage**, we achieved a record **operating** margin of over 19%.
+3. [Sentence #87]  (Similarity: 0.673) We love his optimism for 2022 release, but is there any data Tesla can share with investors to help them make their own conclusions on progress being made?
+
+Total similarity-top evidence sentences: 3
+
+-----

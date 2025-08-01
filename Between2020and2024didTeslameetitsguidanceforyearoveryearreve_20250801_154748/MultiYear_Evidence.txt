@@ -1,0 +1,71 @@
+[Multi-Year Analysis] Between 2020 and 2024, did Tesla meet its guidance for year-over-year revenue growth and operating leverage improvement?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #28]  (TSLA_Q1_2022) As a result of our ongoing improvements in **operating** **leverage**, we achieved a record **operating** margin of over 19%.
+2. [Sentence #38]  (TSLA_Q4_2023) Tesla is currently between two major **growth** waves.
+3. [Sentence #49]  (TSLA_Q1_2024) We continue to make the necessary investments that will drive **growth** and profits for Tesla in the future, and I wanted to thank the Tesla team for incredible execution during this period and look forward to everything that we have planned ahead.
+4. [Sentence #54]  (TSLA_Q4_2022) We believe we can keep pushing for strong volume **growth** while retaining the industry's best **operating** margins.
+5. [Sentence #64]  (TSLA_Q1_2022) So, I think that really will be a massive driver of Tesla’s **growth**.
+6. [Sentence #76]  (TSLA_Q4_2020) So in conclusion, while 2020 was a turning point for Tesla and in terms of profitability, we believe this is just the beginning.
+7. [Sentence #85]  (TSLA_Q3_2022) **Operating** margin is one of our best yet, with improvements in **operating** **leverage**.
+8. [Sentence #87]  (TSLA_Q1_2022) We love his optimism for 2022 release, but is there any data Tesla can share with investors to help them make their own conclusions on progress being made?
+9. [Sentence #116]  (TSLA_Q4_2021) However, we do expect to continue to see stronger **operating** margins as we grow our volumes and improve **operating** **leverage**.
+10. [Sentence #117]  (TSLA_Q2_2023) The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the **revenue** model?
+11. [Sentence #122]  (TSLA_Q3_2023) Current sell side consensus assumes that Tesla will deliver 2.3 million vehicles in 2024, representing 28% **growth** versus 2023 guidance.
+12. [Sentence #127]  (TSLA_Q2_2020) The question number one is, as Tesla continues its journey towards the long-term goal of selling 20 million units per year, what are the most important vehicle programs that will drive volume **growth** over the next three to five years beyond Model 3, Y and the Cybertruck?
+13. [Sentence #132]  (TSLA_Q3_2022) We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and **revenue** production at a 50% or greater compound annual **growth** rate.
+14. [Sentence #135]  (TSLA_Q1_2024) And something I should clarify is that Tesla will be **operating** the fleet.
+15. [Sentence #137]  (TSLA_Q4_2022) And so as other areas of the business become more important, particularly the energy business, which is growing faster than the vehicle business and as we're heavily focused on **operating** **leverage** here, improving efficiency of our overheads, we think the right metric for us to be focused on is **operating** margin.
+16. [Sentence #150]  (TSLA_Q3_2024) I want to thank the Tesla team once again for strong execution in a tough **operating** environment, and we're looking forward to building an incredibly exciting future.
+17. [Sentence #197]  (TSLA_Q4_2022) Zach, when do you think Tesla Insurance will become big enough **revenue** source to warrant providing more details in the financials of the business so investors can compare it to other insurance companies?
+18. [Sentence #200]  (TSLA_Q4_2024) For 2025, we expect **operating** expenses to increase to support our **growth** initiatives.
+19. [Sentence #202]  (TSLA_Q1_2020) Question number one, Elon has mentioned a 50% compound annual **growth** target for Tesla in the past.
+20. [Sentence #203]  (TSLA_Q1_2020) Is this still in line with Tesla's ambitions for the next five to 10 years?
+21. [Sentence #273]  (TSLA_Q4_2021) The next question is, how much of Tesla's margin **improvement** is from, number one, economies of scale; number two, production design -- production line design efficiencies; number three, reduced transportation costs from multiple plant locations; and number four, pricing versus cost inflation; or number five, other sources?
+22. [Sentence #302]  (TSLA_Q4_2020) So -- but the reason Tesla is doing its own cell production is in order to accelerate the **growth**.
+23. [Sentence #312]  (TSLA_Q4_2024) So, at that point, when we're at scale, it will meaningfully contribute to Tesla's **revenue**.
+24. [Sentence #313]  (TSLA_Q2_2020) The real limitation on Tesla **growth** is cell production at affordable price.
+25. [Sentence #323]  (TSLA_Q2_2020) And when does Tesla expect to reach that rate?
+26. [Sentence #355]  (TSLA_Q4_2022) And so -- but it's -- this is the thing that has order of magnitude potential market cap **improvement** for Tesla.
+27. [Sentence #356]  (TSLA_Q3_2022) And I’m curious about areas where you could invest in an incremental way, whether it’s on the R&D side or on the sales side to accelerate **growth** or cost reduction, or should we be thinking about this level of spend on a go-forward basis and some significant **operating** **leverage** as you scale up from here?
+28. [Sentence #358]  (TSLA_Q3_2022) I mean, our **operating** **leverage** has improved quite a bit.
+29. [Sentence #363]  (TSLA_Q3_2021) And **operating** expenses as a percentage of **revenue** has been declining and I expect that trend to continue to happen.
+30. [Sentence #511]  (TSLA_Q2_2020) It feels like, historically, you've always picked the path of, I'd rather drive more **growth** and more adoption because ultimately, that's the mission of the company, and we even saw it a little bit this quarter with price reductions, you could have probably kept price where it is, sold some units and had better profits, but that's been an ongoing choice that Tesla, as a company has made.
+
+Total transcript-order evidence sentences: 30
+
+--- Evidence by Similarity ---
+1. [Sentence #132]  (TSLA_Q3_2022) (Similarity: 0.930) We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and **revenue** production at a 50% or greater compound annual **growth** rate.
+2. [Sentence #122]  (TSLA_Q3_2023) (Similarity: 0.834) Current sell side consensus assumes that Tesla will deliver 2.3 million vehicles in 2024, representing 28% **growth** versus 2023 guidance.
+3. [Sentence #117]  (TSLA_Q2_2023) (Similarity: 0.768) The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the **revenue** model?
+4. [Sentence #49]  (TSLA_Q1_2024) (Similarity: 0.762) We continue to make the necessary investments that will drive **growth** and profits for Tesla in the future, and I wanted to thank the Tesla team for incredible execution during this period and look forward to everything that we have planned ahead.
+5. [Sentence #200]  (TSLA_Q4_2024) (Similarity: 0.758) For 2025, we expect **operating** expenses to increase to support our **growth** initiatives.
+6. [Sentence #355]  (TSLA_Q4_2022) (Similarity: 0.750) And so -- but it's -- this is the thing that has order of magnitude potential market cap **improvement** for Tesla.
+7. [Sentence #64]  (TSLA_Q1_2022) (Similarity: 0.747) So, I think that really will be a massive driver of Tesla’s **growth**.
+8. [Sentence #197]  (TSLA_Q4_2022) (Similarity: 0.745) Zach, when do you think Tesla Insurance will become big enough **revenue** source to warrant providing more details in the financials of the business so investors can compare it to other insurance companies?
+9. [Sentence #356]  (TSLA_Q3_2022) (Similarity: 0.738) And I’m curious about areas where you could invest in an incremental way, whether it’s on the R&D side or on the sales side to accelerate **growth** or cost reduction, or should we be thinking about this level of spend on a go-forward basis and some significant **operating** **leverage** as you scale up from here?
+10. [Sentence #127]  (TSLA_Q2_2020) (Similarity: 0.735) The question number one is, as Tesla continues its journey towards the long-term goal of selling 20 million units per year, what are the most important vehicle programs that will drive volume **growth** over the next three to five years beyond Model 3, Y and the Cybertruck?
+11. [Sentence #312]  (TSLA_Q4_2024) (Similarity: 0.734) So, at that point, when we're at scale, it will meaningfully contribute to Tesla's **revenue**.
+12. [Sentence #313]  (TSLA_Q2_2020) (Similarity: 0.733) The real limitation on Tesla **growth** is cell production at affordable price.
+13. [Sentence #135]  (TSLA_Q1_2024) (Similarity: 0.720) And something I should clarify is that Tesla will be **operating** the fleet.
+14. [Sentence #38]  (TSLA_Q4_2023) (Similarity: 0.708) Tesla is currently between two major **growth** waves.
+15. [Sentence #511]  (TSLA_Q2_2020) (Similarity: 0.700) It feels like, historically, you've always picked the path of, I'd rather drive more **growth** and more adoption because ultimately, that's the mission of the company, and we even saw it a little bit this quarter with price reductions, you could have probably kept price where it is, sold some units and had better profits, but that's been an ongoing choice that Tesla, as a company has made.
+16. [Sentence #28]  (TSLA_Q1_2022) (Similarity: 0.699) As a result of our ongoing improvements in **operating** **leverage**, we achieved a record **operating** margin of over 19%.
+17. [Sentence #116]  (TSLA_Q4_2021) (Similarity: 0.689) However, we do expect to continue to see stronger **operating** margins as we grow our volumes and improve **operating** **leverage**.
+18. [Sentence #363]  (TSLA_Q3_2021) (Similarity: 0.689) And **operating** expenses as a percentage of **revenue** has been declining and I expect that trend to continue to happen.
+19. [Sentence #203]  (TSLA_Q1_2020) (Similarity: 0.684) Is this still in line with Tesla's ambitions for the next five to 10 years?
+20. [Sentence #202]  (TSLA_Q1_2020) (Similarity: 0.679) Question number one, Elon has mentioned a 50% compound annual **growth** target for Tesla in the past.
+21. [Sentence #358]  (TSLA_Q3_2022) (Similarity: 0.678) I mean, our **operating** **leverage** has improved quite a bit.
+22. [Sentence #87]  (TSLA_Q1_2022) (Similarity: 0.673) We love his optimism for 2022 release, but is there any data Tesla can share with investors to help them make their own conclusions on progress being made?
+23. [Sentence #323]  (TSLA_Q2_2020) (Similarity: 0.669) And when does Tesla expect to reach that rate?
+24. [Sentence #302]  (TSLA_Q4_2020) (Similarity: 0.661) So -- but the reason Tesla is doing its own cell production is in order to accelerate the **growth**.
+25. [Sentence #137]  (TSLA_Q4_2022) (Similarity: 0.658) And so as other areas of the business become more important, particularly the energy business, which is growing faster than the vehicle business and as we're heavily focused on **operating** **leverage** here, improving efficiency of our overheads, we think the right metric for us to be focused on is **operating** margin.
+26. [Sentence #85]  (TSLA_Q3_2022) (Similarity: 0.657) **Operating** margin is one of our best yet, with improvements in **operating** **leverage**.
+27. [Sentence #273]  (TSLA_Q4_2021) (Similarity: 0.656) The next question is, how much of Tesla's margin **improvement** is from, number one, economies of scale; number two, production design -- production line design efficiencies; number three, reduced transportation costs from multiple plant locations; and number four, pricing versus cost inflation; or number five, other sources?
+28. [Sentence #76]  (TSLA_Q4_2020) (Similarity: 0.652) So in conclusion, while 2020 was a turning point for Tesla and in terms of profitability, we believe this is just the beginning.
+29. [Sentence #150]  (TSLA_Q3_2024) (Similarity: 0.643) I want to thank the Tesla team once again for strong execution in a tough **operating** environment, and we're looking forward to building an incredibly exciting future.
+30. [Sentence #54]  (TSLA_Q4_2022) (Similarity: 0.640) We believe we can keep pushing for strong volume **growth** while retaining the industry's best **operating** margins.
+
+Total similarity-top evidence sentences: 30
+
+-----

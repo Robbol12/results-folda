@@ -1,0 +1,21 @@
+[TSLA_Q2_2020] Between 2020 and 2024, did Tesla meet its guidance for year-over-year revenue growth and operating leverage improvement?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #127]  The question number one is, as Tesla continues its journey towards the long-term goal of selling 20 million units per year, what are the most important vehicle programs that will drive volume **growth** over the next three to five years beyond Model 3, Y and the Cybertruck?
+2. [Sentence #255]  So the long-term sustainable advantage of Tesla, I think, will be manufacturing.
+3. [Sentence #313]  The real limitation on Tesla **growth** is cell production at affordable price.
+4. [Sentence #323]  And when does Tesla expect to reach that rate?
+5. [Sentence #511]  It feels like, historically, you've always picked the path of, I'd rather drive more **growth** and more adoption because ultimately, that's the mission of the company, and we even saw it a little bit this quarter with price reductions, you could have probably kept price where it is, sold some units and had better profits, but that's been an ongoing choice that Tesla, as a company has made.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #127]  (Similarity: 0.735) The question number one is, as Tesla continues its journey towards the long-term goal of selling 20 million units per year, what are the most important vehicle programs that will drive volume **growth** over the next three to five years beyond Model 3, Y and the Cybertruck?
+2. [Sentence #313]  (Similarity: 0.733) The real limitation on Tesla **growth** is cell production at affordable price.
+3. [Sentence #511]  (Similarity: 0.700) It feels like, historically, you've always picked the path of, I'd rather drive more **growth** and more adoption because ultimately, that's the mission of the company, and we even saw it a little bit this quarter with price reductions, you could have probably kept price where it is, sold some units and had better profits, but that's been an ongoing choice that Tesla, as a company has made.
+4. [Sentence #323]  (Similarity: 0.669) And when does Tesla expect to reach that rate?
+5. [Sentence #255]  (Similarity: 0.610) So the long-term sustainable advantage of Tesla, I think, will be manufacturing.
+
+Total similarity-top evidence sentences: 5
+
+-----
