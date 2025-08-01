@@ -1,0 +1,39 @@
+[TSLA_Q4_2024] From 2023 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #94]  We already have Teslas operating autonomously unsupervised **full** self-driving at our factory in Fremont, and we'll soon be doing that at our factory in Texas.
+2. [Sentence #155]  And when we look back on 2025 and the launch of unsupervised **full** self-driving, true real-world AI that actually works, I think we may regard it as the biggest year in Tesla history, maybe even bigger than Atlas car, or the Model S or the Model 3 or Model Y.
+3. [Sentence #174]  On the automotive margin front, we saw a quarter-over-quarter decline primarily due to lower ASPs than due to the recognition of **FSD**-related revenue in Q3 from feature releases.
+4. [Sentence #233]  The next question is, are there any discussions with other auto companies about licensing **FSD**?
+5. [Sentence #235]  What we're seeing is at this point, significant interest from a number of major car companies about licensing Tesla **full** self-driving technology.
+6. [Sentence #349]  Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+I mean, I think the honest answer is that we're going to have to upgrade people's Hardware 3 computer for those that have bought **full** self-driving, and that is the honest answer and that's going to be painful and difficult but we'll get it done.
+7. [Sentence #378]  What technical breakthroughs will define V14 of **FSD**, given that V13 already covered to control?
+8. [Sentence #426]  But I'm very confident we'll have released unsupervised **full** self-driving, fully autonomous Teslas in Austin and several other cities in America by the end of this year, as probably everywhere in America next year, at everywhere in North America, at least.
+9. [Sentence #529]  Pierre Ferragu -- Analyst
+
+But then so my follow-up question would be, I have a Tesla, I have **FSD**, and I have to keep my eyes on the road all the time.
+10. [Sentence #583]  More so just how much more aggressively you would be willing to sell your cars versus in light of your improvements on **FSD**?
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #235]  (Similarity: 0.744) What we're seeing is at this point, significant interest from a number of major car companies about licensing Tesla **full** self-driving technology.
+2. [Sentence #155]  (Similarity: 0.719) And when we look back on 2025 and the launch of unsupervised **full** self-driving, true real-world AI that actually works, I think we may regard it as the biggest year in Tesla history, maybe even bigger than Atlas car, or the Model S or the Model 3 or Model Y.
+3. [Sentence #349]  (Similarity: 0.667) Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+I mean, I think the honest answer is that we're going to have to upgrade people's Hardware 3 computer for those that have bought **full** self-driving, and that is the honest answer and that's going to be painful and difficult but we'll get it done.
+4. [Sentence #94]  (Similarity: 0.654) We already have Teslas operating autonomously unsupervised **full** self-driving at our factory in Fremont, and we'll soon be doing that at our factory in Texas.
+5. [Sentence #426]  (Similarity: 0.643) But I'm very confident we'll have released unsupervised **full** self-driving, fully autonomous Teslas in Austin and several other cities in America by the end of this year, as probably everywhere in America next year, at everywhere in North America, at least.
+6. [Sentence #529]  (Similarity: 0.627) Pierre Ferragu -- Analyst
+
+But then so my follow-up question would be, I have a Tesla, I have **FSD**, and I have to keep my eyes on the road all the time.
+7. [Sentence #378]  (Similarity: 0.625) What technical breakthroughs will define V14 of **FSD**, given that V13 already covered to control?
+8. [Sentence #174]  (Similarity: 0.621) On the automotive margin front, we saw a quarter-over-quarter decline primarily due to lower ASPs than due to the recognition of **FSD**-related revenue in Q3 from feature releases.
+9. [Sentence #233]  (Similarity: 0.619) The next question is, are there any discussions with other auto companies about licensing **FSD**?
+10. [Sentence #583]  (Similarity: 0.608) More so just how much more aggressively you would be willing to sell your cars versus in light of your improvements on **FSD**?
+
+Total similarity-top evidence sentences: 10
+
+-----

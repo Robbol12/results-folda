@@ -1,0 +1,23 @@
+[TSLA_Q4_2023] From 2023 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #39]  We're focused on making sure that our next growth wave, driven by next-gen vehicle, energy storage, **full** self-driving, other projects, is executed as well as possible.
+2. [Sentence #40]  For **full** self-driving, we've released Version 12, which is a complete architectural rewrite compared to prior versions.
+3. [Sentence #43]  This is currently just with employees and a few customers, but we will be rolling out to all customers in the U.S. who request **full** self-driving in the weeks to come.
+4. [Sentence #227]  Elon Musk
+
+I really think lots of car companies should be asking for **FSD** licenses.
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #40]  (Similarity: 0.649) For **full** self-driving, we've released Version 12, which is a complete architectural rewrite compared to prior versions.
+2. [Sentence #39]  (Similarity: 0.642) We're focused on making sure that our next growth wave, driven by next-gen vehicle, energy storage, **full** self-driving, other projects, is executed as well as possible.
+3. [Sentence #43]  (Similarity: 0.636) This is currently just with employees and a few customers, but we will be rolling out to all customers in the U.S. who request **full** self-driving in the weeks to come.
+4. [Sentence #227]  (Similarity: 0.610) Elon Musk
+
+I really think lots of car companies should be asking for **FSD** licenses.
+
+Total similarity-top evidence sentences: 4
+
+-----
