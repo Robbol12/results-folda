@@ -1,0 +1,31 @@
+[TSLA_Q1_2023] From 2022 to 2024, how did Tesla’s gross margin evolve across vehicle and energy segments, and did it match their stated margin targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #57]  First, automotive ****gross** **margin**** and operating **margin** reduced sequentially.
+2. [Sentence #59]  In particular, automotive ****gross** **margin**** was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve **vehicle** pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as increased deferred revenue for certain Autopilot features as we transition technologies.
+3. [Sentence #70]  Our approach is to grow volumes as quickly as possible in both our **vehicle** and **energy** businesses.
+4. [Sentence #90]  The second question is, do you still believe Tesla **Energy** will be bigger than auto?
+5. [Sentence #91]  And when will you provide more formal guidance on Megapack and overall Tesla **Energy**?
+6. [Sentence #110]  While we're not providing specific guidance there, I mean, just to set expectations of where we think this business will go in terms of margins, probably generally in the ballpark of what we've seen historically on the **vehicle** business.
+7. [Sentence #111]  We generally look to mid-20% **gross** margins for any program that we launch.
+8. [Sentence #143]  The next question is, what do you anticipate 2023 automotive **gross** margins ex credits will be at the company's current pricing levels?
+9. [Sentence #313]  Back on the automotive **gross** margins.
+10. [Sentence #314]  So, I think, I guess, a few months ago, even after major price cuts, you felt pretty strongly that 20% automotive ****gross** **margin**** was still probably a reasonable floor.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #59]  (Similarity: 1.154) In particular, automotive ****gross** **margin**** was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve **vehicle** pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as increased deferred revenue for certain Autopilot features as we transition technologies.
+2. [Sentence #57]  (Similarity: 1.026) First, automotive ****gross** **margin**** and operating **margin** reduced sequentially.
+3. [Sentence #314]  (Similarity: 0.973) So, I think, I guess, a few months ago, even after major price cuts, you felt pretty strongly that 20% automotive ****gross** **margin**** was still probably a reasonable floor.
+4. [Sentence #313]  (Similarity: 0.915) Back on the automotive **gross** margins.
+5. [Sentence #143]  (Similarity: 0.904) The next question is, what do you anticipate 2023 automotive **gross** margins ex credits will be at the company's current pricing levels?
+6. [Sentence #111]  (Similarity: 0.750) We generally look to mid-20% **gross** margins for any program that we launch.
+7. [Sentence #70]  (Similarity: 0.643) Our approach is to grow volumes as quickly as possible in both our **vehicle** and **energy** businesses.
+8. [Sentence #90]  (Similarity: 0.633) The second question is, do you still believe Tesla **Energy** will be bigger than auto?
+9. [Sentence #91]  (Similarity: 0.621) And when will you provide more formal guidance on Megapack and overall Tesla **Energy**?
+10. [Sentence #110]  (Similarity: 0.606) While we're not providing specific guidance there, I mean, just to set expectations of where we think this business will go in terms of margins, probably generally in the ballpark of what we've seen historically on the **vehicle** business.
+
+Total similarity-top evidence sentences: 10
+
+-----

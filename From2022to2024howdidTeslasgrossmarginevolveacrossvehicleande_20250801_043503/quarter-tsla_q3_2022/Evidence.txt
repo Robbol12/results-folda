@@ -1,0 +1,17 @@
+[TSLA_Q3_2022] From 2022 to 2024, how did Tesla’s gross margin evolve across vehicle and energy segments, and did it match their stated margin targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #84]  On automotive profitability, our GAAP operating **margin** was 17.2% with automotive ****gross** **margin**** at 27.9%.
+2. [Sentence #87]  Removing regulatory credits and Austin and Berlin, our operating margins would have been our strongest yet and auto ****gross** **margin**** would have been nearly 30%.
+3. [Sentence #91]  On **energy** profitability, we achieved our strongest **gross** profit yet for this business, driven primarily by record volumes of our Megapack and Powerwall products.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #84]  (Similarity: 0.945) On automotive profitability, our GAAP operating **margin** was 17.2% with automotive ****gross** **margin**** at 27.9%.
+2. [Sentence #87]  (Similarity: 0.942) Removing regulatory credits and Austin and Berlin, our operating margins would have been our strongest yet and auto ****gross** **margin**** would have been nearly 30%.
+3. [Sentence #91]  (Similarity: 0.619) On **energy** profitability, we achieved our strongest **gross** profit yet for this business, driven primarily by record volumes of our Megapack and Powerwall products.
+
+Total similarity-top evidence sentences: 3
+
+-----

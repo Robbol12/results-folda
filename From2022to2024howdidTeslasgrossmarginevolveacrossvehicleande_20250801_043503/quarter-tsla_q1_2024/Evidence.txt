@@ -1,0 +1,15 @@
+[TSLA_Q1_2024] From 2022 to 2024, how did Tesla’s gross margin evolve across vehicle and energy segments, and did it match their stated margin targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #15]  Despite these challenges, the Tesla team did a great job executing in a tough environment and **energy** storage deployments, the Megapack in particular, reached an all-time high in Q1, leading to record profitability for the **energy** business, and that looks likely to continue to increase in the quarters and years ahead.
+2. [Sentence #66]  Our **Energy** business continues to make meaningful progress with margins reaching a record of 24.6%.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #15]  (Similarity: 0.656) Despite these challenges, the Tesla team did a great job executing in a tough environment and **energy** storage deployments, the Megapack in particular, reached an all-time high in Q1, leading to record profitability for the **energy** business, and that looks likely to continue to increase in the quarters and years ahead.
+2. [Sentence #66]  (Similarity: 0.609) Our **Energy** business continues to make meaningful progress with margins reaching a record of 24.6%.
+
+Total similarity-top evidence sentences: 2
+
+-----

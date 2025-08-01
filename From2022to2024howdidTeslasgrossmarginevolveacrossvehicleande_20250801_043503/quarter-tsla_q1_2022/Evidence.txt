@@ -1,0 +1,61 @@
+[TSLA_Q1_2022] From 2022 to 2024, how did Tesla’s gross margin evolve across vehicle and energy segments, and did it match their stated margin targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #1]  Company Participants
+
+Martin Viecha - VP, IR
+Elon Musk - CEO
+Zachary Kirkhorn - CFO
+Andrew Baglino - SVP, Powertrain and **Energy** Engineering
+Lars Moravy - VP, **Vehicle** Engineering
+
+Conference Call Participants
+
+Dan Levy - CSFB
+Rod Lache - Wolfe Research
+Pierre Ferragu - New Street Research
+Trip Chowdhry - Global Equities Research
+Alex Potter - Piper Sandler
+Colin Langan - Wells Fargo
+Mark Delaney - Goldman Sachs
+
+Martin Viecha
+
+Good afternoon, everyone, and welcome to Tesla’s First Quarter 2022 Q&A Webcast.
+2. [Sentence #14]  Last quarter, we demonstrated a series of new financial records, including revenue, **gross** margins, operating **margin** and bottom line profitability.
+3. [Sentence #15]  GAAP automotive ****gross** **margin**** reached 32.9% and first time exceeded 30% when excluding regulatory credits.
+4. [Sentence #25]  The **energy** business has continued to be impacted by macro conditions, more severely than the **vehicle** business.
+5. [Sentence #38]  And thus, those inefficiencies will start to flow through our **gross** margins in Q2.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #14]  (Similarity: 0.895) Last quarter, we demonstrated a series of new financial records, including revenue, **gross** margins, operating **margin** and bottom line profitability.
+2. [Sentence #15]  (Similarity: 0.888) GAAP automotive ****gross** **margin**** reached 32.9% and first time exceeded 30% when excluding regulatory credits.
+3. [Sentence #38]  (Similarity: 0.836) And thus, those inefficiencies will start to flow through our **gross** margins in Q2.
+4. [Sentence #1]  (Similarity: 0.747) Company Participants
+
+Martin Viecha - VP, IR
+Elon Musk - CEO
+Zachary Kirkhorn - CFO
+Andrew Baglino - SVP, Powertrain and **Energy** Engineering
+Lars Moravy - VP, **Vehicle** Engineering
+
+Conference Call Participants
+
+Dan Levy - CSFB
+Rod Lache - Wolfe Research
+Pierre Ferragu - New Street Research
+Trip Chowdhry - Global Equities Research
+Alex Potter - Piper Sandler
+Colin Langan - Wells Fargo
+Mark Delaney - Goldman Sachs
+
+Martin Viecha
+
+Good afternoon, everyone, and welcome to Tesla’s First Quarter 2022 Q&A Webcast.
+5. [Sentence #25]  (Similarity: 0.710) The **energy** business has continued to be impacted by macro conditions, more severely than the **vehicle** business.
+
+Total similarity-top evidence sentences: 5
+
+-----

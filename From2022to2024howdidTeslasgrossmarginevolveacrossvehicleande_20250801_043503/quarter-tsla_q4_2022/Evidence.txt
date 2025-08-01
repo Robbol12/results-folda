@@ -1,0 +1,29 @@
+[TSLA_Q4_2022] From 2022 to 2024, how did Tesla’s gross margin evolve across vehicle and energy segments, and did it match their stated margin targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #17]  So, in 2022, we delivered over 1.3 million cars and achieved a 17% operating **margin**, the highest among any volume carmaker, I think maybe among any carmaker.
+2. [Sentence #90]  This includes expanding in-house cell production, bringing Cybertruck to market, development of our next-generation **vehicle** platform, expansion of our manufacturing footprint and growth of the **energy** business.
+3. [Sentence #107]  So $3,700 per long-range Model 3 and Model Y, it's $45 a kilowatt-hour for autos and **energy** products and how much does Tesla expect to earn in the coming year from these credits?
+4. [Sentence #125]  The next question from investors is, after recent price cuts, analyst released expectations that Tesla automotive ****gross** **margin****, excluding leasing and credits, will drop below 20% and average selling price around $47,000 across all models.
+5. [Sentence #126]  Where do you see average selling price and **gross** margins after the price cuts?
+6. [Sentence #130]  So based upon these metrics here, we believe that we'll be above both of the metrics that are **stated** in the question, so 20% automotive ****gross** **margin****, excluding leases and rent credits and then $47,000 ASP across all models.
+7. [Sentence #137]  And so as other areas of the business become more important, particularly the **energy** business, which is growing faster than the **vehicle** business and as we're heavily focused on operating leverage here, improving efficiency of our overheads, we think the right metric for us to be focused on is operating **margin**.
+8. [Sentence #142]  So that means that there's millions of cars were full self-driving can be sold at essentially 100% ****gross** **margin****.
+9. [Sentence #416]  Are there maybe some plans to accelerate commercial **vehicle** form factors outside of the Tesla Semi to help accelerate EV adoption?
+
+Total transcript-order evidence sentences: 9
+
+--- Evidence by Similarity ---
+1. [Sentence #125]  (Similarity: 1.093) The next question from investors is, after recent price cuts, analyst released expectations that Tesla automotive ****gross** **margin****, excluding leasing and credits, will drop below 20% and average selling price around $47,000 across all models.
+2. [Sentence #130]  (Similarity: 1.074) So based upon these metrics here, we believe that we'll be above both of the metrics that are **stated** in the question, so 20% automotive ****gross** **margin****, excluding leases and rent credits and then $47,000 ASP across all models.
+3. [Sentence #142]  (Similarity: 0.937) So that means that there's millions of cars were full self-driving can be sold at essentially 100% ****gross** **margin****.
+4. [Sentence #137]  (Similarity: 0.915) And so as other areas of the business become more important, particularly the **energy** business, which is growing faster than the **vehicle** business and as we're heavily focused on operating leverage here, improving efficiency of our overheads, we think the right metric for us to be focused on is operating **margin**.
+5. [Sentence #126]  (Similarity: 0.739) Where do you see average selling price and **gross** margins after the price cuts?
+6. [Sentence #17]  (Similarity: 0.671) So, in 2022, we delivered over 1.3 million cars and achieved a 17% operating **margin**, the highest among any volume carmaker, I think maybe among any carmaker.
+7. [Sentence #90]  (Similarity: 0.671) This includes expanding in-house cell production, bringing Cybertruck to market, development of our next-generation **vehicle** platform, expansion of our manufacturing footprint and growth of the **energy** business.
+8. [Sentence #416]  (Similarity: 0.651) Are there maybe some plans to accelerate commercial **vehicle** form factors outside of the Tesla Semi to help accelerate EV adoption?
+9. [Sentence #107]  (Similarity: 0.612) So $3,700 per long-range Model 3 and Model Y, it's $45 a kilowatt-hour for autos and **energy** products and how much does Tesla expect to earn in the coming year from these credits?
+
+Total similarity-top evidence sentences: 9
+
+-----

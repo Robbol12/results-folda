@@ -1,0 +1,17 @@
+[TSLA_Q3_2024] From 2022 to 2024, how did Tesla’s gross margin evolve across vehicle and energy segments, and did it match their stated margin targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #107]  Tesla becomes more than a sort of **vehicle** and a battery manufacturing company at that point.
+2. [Sentence #146]  So, in conclusion, Tesla is focused on building the future of **energy**, transport, robotics and AI.
+3. [Sentence #191]  I mean, just in Q3, we faced our lowest cost per **vehicle**, and that is a trend which we want to keep focused on.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #146]  (Similarity: 0.638) So, in conclusion, Tesla is focused on building the future of **energy**, transport, robotics and AI.
+2. [Sentence #107]  (Similarity: 0.623) Tesla becomes more than a sort of **vehicle** and a battery manufacturing company at that point.
+3. [Sentence #191]  (Similarity: 0.605) I mean, just in Q3, we faced our lowest cost per **vehicle**, and that is a trend which we want to keep focused on.
+
+Total similarity-top evidence sentences: 3
+
+-----

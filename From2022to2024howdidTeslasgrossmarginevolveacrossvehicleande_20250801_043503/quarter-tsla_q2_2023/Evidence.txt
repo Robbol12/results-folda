@@ -1,0 +1,27 @@
+[TSLA_Q2_2023] From 2022 to 2024, how did Tesla’s gross margin evolve across vehicle and energy segments, and did it match their stated margin targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #86]  Second, we continue to work towards our goals of maximizing volumes on both, our **vehicle** and **energy** business, but most importantly, doing so in a way that generates the capital to continue our pace of R&D and capital investments.
+2. [Sentence #88]  If we look specifically at our automotive business, our ****gross** **margin**** showed a modest reduction and remained healthy, despite action taken to further improve **vehicle** affordability early in the quarter.
+3. [Sentence #90]  For our **energy** business, we improved margins and **gross** profit driven by cost reductions and deal economics, particularly with Megapack.
+4. [Sentence #117]  The next question is, can you talk more to the upcoming Tesla **Energy** products and how your thinking has evolved on the revenue model?
+5. [Sentence #118]  Given Tesla’s AI capabilities, how do you see the long-term mix between hardware **margin** and recurring software **margin** from Autobidder as this segment accelerates?
+6. [Sentence #121]  As **stated** last quarter, Megapack margins are in a reasonable place, in line with our target – **vehicle** target margins.
+7. [Sentence #303]  With the emphasis of price cuts to drive volume growth eating into automotive ****gross** **margin****, can investors expect to see automotive ****gross** **margin**** stabilize or even rise due to efficiencies outpacing the cuts?
+8. [Sentence #306]  If I may, look, the short-term variances in ****gross** **margin**** and profitability really are minor relative to the long-term picture.
+
+Total transcript-order evidence sentences: 8
+
+--- Evidence by Similarity ---
+1. [Sentence #88]  (Similarity: 1.107) If we look specifically at our automotive business, our ****gross** **margin**** showed a modest reduction and remained healthy, despite action taken to further improve **vehicle** affordability early in the quarter.
+2. [Sentence #303]  (Similarity: 1.014) With the emphasis of price cuts to drive volume growth eating into automotive ****gross** **margin****, can investors expect to see automotive ****gross** **margin**** stabilize or even rise due to efficiencies outpacing the cuts?
+3. [Sentence #306]  (Similarity: 0.800) If I may, look, the short-term variances in ****gross** **margin**** and profitability really are minor relative to the long-term picture.
+4. [Sentence #117]  (Similarity: 0.720) The next question is, can you talk more to the upcoming Tesla **Energy** products and how your thinking has evolved on the revenue model?
+5. [Sentence #90]  (Similarity: 0.711) For our **energy** business, we improved margins and **gross** profit driven by cost reductions and deal economics, particularly with Megapack.
+6. [Sentence #118]  (Similarity: 0.709) Given Tesla’s AI capabilities, how do you see the long-term mix between hardware **margin** and recurring software **margin** from Autobidder as this segment accelerates?
+7. [Sentence #121]  (Similarity: 0.675) As **stated** last quarter, Megapack margins are in a reasonable place, in line with our target – **vehicle** target margins.
+8. [Sentence #86]  (Similarity: 0.667) Second, we continue to work towards our goals of maximizing volumes on both, our **vehicle** and **energy** business, but most importantly, doing so in a way that generates the capital to continue our pace of R&D and capital investments.
+
+Total similarity-top evidence sentences: 8
+
+-----

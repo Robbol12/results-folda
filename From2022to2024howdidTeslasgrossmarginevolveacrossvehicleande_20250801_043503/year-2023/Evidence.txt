@@ -1,0 +1,71 @@
+[Year 2023] From 2022 to 2024, how did Tesla’s gross margin evolve across vehicle and energy segments, and did it match their stated margin targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #57]  (TSLA_Q1_2023) First, automotive ****gross** **margin**** and operating **margin** reduced sequentially.
+2. [Sentence #59]  (TSLA_Q1_2023) In particular, automotive ****gross** **margin**** was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve **vehicle** pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as increased deferred revenue for certain Autopilot features as we transition technologies.
+3. [Sentence #70]  (TSLA_Q1_2023) Our approach is to grow volumes as quickly as possible in both our **vehicle** and **energy** businesses.
+4. [Sentence #90]  (TSLA_Q1_2023) The second question is, do you still believe Tesla **Energy** will be bigger than auto?
+5. [Sentence #91]  (TSLA_Q1_2023) And when will you provide more formal guidance on Megapack and overall Tesla **Energy**?
+6. [Sentence #110]  (TSLA_Q1_2023) While we're not providing specific guidance there, I mean, just to set expectations of where we think this business will go in terms of margins, probably generally in the ballpark of what we've seen historically on the **vehicle** business.
+7. [Sentence #111]  (TSLA_Q1_2023) We generally look to mid-20% **gross** margins for any program that we launch.
+8. [Sentence #143]  (TSLA_Q1_2023) The next question is, what do you anticipate 2023 automotive **gross** margins ex credits will be at the company's current pricing levels?
+9. [Sentence #313]  (TSLA_Q1_2023) Back on the automotive **gross** margins.
+10. [Sentence #314]  (TSLA_Q1_2023) So, I think, I guess, a few months ago, even after major price cuts, you felt pretty strongly that 20% automotive ****gross** **margin**** was still probably a reasonable floor.
+11. [Sentence #671]  (TSLA_Q2_2023) Second, we continue to work towards our goals of maximizing volumes on both, our **vehicle** and **energy** business, but most importantly, doing so in a way that generates the capital to continue our pace of R&D and capital investments.
+12. [Sentence #673]  (TSLA_Q2_2023) If we look specifically at our automotive business, our ****gross** **margin**** showed a modest reduction and remained healthy, despite action taken to further improve **vehicle** affordability early in the quarter.
+13. [Sentence #675]  (TSLA_Q2_2023) For our **energy** business, we improved margins and **gross** profit driven by cost reductions and deal economics, particularly with Megapack.
+14. [Sentence #702]  (TSLA_Q2_2023) The next question is, can you talk more to the upcoming Tesla **Energy** products and how your thinking has evolved on the revenue model?
+15. [Sentence #703]  (TSLA_Q2_2023) Given Tesla’s AI capabilities, how do you see the long-term mix between hardware **margin** and recurring software **margin** from Autobidder as this segment accelerates?
+16. [Sentence #706]  (TSLA_Q2_2023) As **stated** last quarter, Megapack margins are in a reasonable place, in line with our target – **vehicle** target margins.
+17. [Sentence #888]  (TSLA_Q2_2023) With the emphasis of price cuts to drive volume growth eating into automotive ****gross** **margin****, can investors expect to see automotive ****gross** **margin**** stabilize or even rise due to efficiencies outpacing the cuts?
+18. [Sentence #891]  (TSLA_Q2_2023) If I may, look, the short-term variances in ****gross** **margin**** and profitability really are minor relative to the long-term picture.
+19. [Sentence #1164]  (TSLA_Q3_2023) And as this business grows, the **energy** division is becoming our highest **margin** business.
+20. [Sentence #1193]  (TSLA_Q3_2023) **Vehicle** deliveries in Q3 outpaced production, and we had yet another record quarter of profitability in our **energy** business.
+21. [Sentence #1409]  (TSLA_Q3_2023) It’s about like your ****gross** **margin**** in the quarter.
+22. [Sentence #1410]  (TSLA_Q3_2023) Could you give us a sense of like in how the ****gross** **margin**** evolved sequentially, how much was the impact of idle cost?
+23. [Sentence #1413]  (TSLA_Q3_2023) So, if you can give us the background on that and tell us how we should think about that ****gross** **margin**** going forward.
+24. [Sentence #1671]  (TSLA_Q4_2023) We're focused on making sure that our next growth wave, driven by next-gen **vehicle**, **energy** storage, full self-driving, other projects, is executed as well as possible.
+25. [Sentence #1695]  (TSLA_Q4_2023) Several years ago, I said, perhaps the most important competitive characteristic of Tesla in the future will be manufacturing technology and you will really see that come to bear with our next-gen **vehicle**.
+26. [Sentence #1717]  (TSLA_Q4_2023) As a result, our auto ****gross** **margin**** improved sequentially.
+27. [Sentence #1718]  (TSLA_Q4_2023) That said, predicting auto **gross** margins is extremely challenging since there are many moving parts to this equation, some of which are out of our control like the change in tariffs or local incentives to name a few.
+28. [Sentence #1722]  (TSLA_Q4_2023) Our data suggests that around 90% of our **vehicle** buyers in 2023 never owned a Tesla before.
+29. [Sentence #1818]  (TSLA_Q4_2023) The next question is, what is your expectation for automotive ****gross** **margin**** ex-regulatory credits for the full year?
+30. [Sentence #1936]  (TSLA_Q4_2023) The next question is, can we get Tesla **Energy** volumes reported in the production and delivery release?
+
+Total transcript-order evidence sentences: 30
+
+--- Evidence by Similarity ---
+1. [Sentence #59]  (TSLA_Q1_2023) (Similarity: 1.154) In particular, automotive ****gross** **margin**** was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve **vehicle** pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as increased deferred revenue for certain Autopilot features as we transition technologies.
+2. [Sentence #673]  (TSLA_Q2_2023) (Similarity: 1.107) If we look specifically at our automotive business, our ****gross** **margin**** showed a modest reduction and remained healthy, despite action taken to further improve **vehicle** affordability early in the quarter.
+3. [Sentence #57]  (TSLA_Q1_2023) (Similarity: 1.026) First, automotive ****gross** **margin**** and operating **margin** reduced sequentially.
+4. [Sentence #888]  (TSLA_Q2_2023) (Similarity: 1.014) With the emphasis of price cuts to drive volume growth eating into automotive ****gross** **margin****, can investors expect to see automotive ****gross** **margin**** stabilize or even rise due to efficiencies outpacing the cuts?
+5. [Sentence #314]  (TSLA_Q1_2023) (Similarity: 0.973) So, I think, I guess, a few months ago, even after major price cuts, you felt pretty strongly that 20% automotive ****gross** **margin**** was still probably a reasonable floor.
+6. [Sentence #1410]  (TSLA_Q3_2023) (Similarity: 0.970) Could you give us a sense of like in how the ****gross** **margin**** evolved sequentially, how much was the impact of idle cost?
+7. [Sentence #1818]  (TSLA_Q4_2023) (Similarity: 0.955) The next question is, what is your expectation for automotive ****gross** **margin**** ex-regulatory credits for the full year?
+8. [Sentence #1413]  (TSLA_Q3_2023) (Similarity: 0.925) So, if you can give us the background on that and tell us how we should think about that ****gross** **margin**** going forward.
+9. [Sentence #1717]  (TSLA_Q4_2023) (Similarity: 0.916) As a result, our auto ****gross** **margin**** improved sequentially.
+10. [Sentence #313]  (TSLA_Q1_2023) (Similarity: 0.915) Back on the automotive **gross** margins.
+11. [Sentence #143]  (TSLA_Q1_2023) (Similarity: 0.904) The next question is, what do you anticipate 2023 automotive **gross** margins ex credits will be at the company's current pricing levels?
+12. [Sentence #1718]  (TSLA_Q4_2023) (Similarity: 0.878) That said, predicting auto **gross** margins is extremely challenging since there are many moving parts to this equation, some of which are out of our control like the change in tariffs or local incentives to name a few.
+13. [Sentence #1409]  (TSLA_Q3_2023) (Similarity: 0.827) It’s about like your ****gross** **margin**** in the quarter.
+14. [Sentence #891]  (TSLA_Q2_2023) (Similarity: 0.800) If I may, look, the short-term variances in ****gross** **margin**** and profitability really are minor relative to the long-term picture.
+15. [Sentence #111]  (TSLA_Q1_2023) (Similarity: 0.750) We generally look to mid-20% **gross** margins for any program that we launch.
+16. [Sentence #702]  (TSLA_Q2_2023) (Similarity: 0.720) The next question is, can you talk more to the upcoming Tesla **Energy** products and how your thinking has evolved on the revenue model?
+17. [Sentence #1164]  (TSLA_Q3_2023) (Similarity: 0.715) And as this business grows, the **energy** division is becoming our highest **margin** business.
+18. [Sentence #675]  (TSLA_Q2_2023) (Similarity: 0.711) For our **energy** business, we improved margins and **gross** profit driven by cost reductions and deal economics, particularly with Megapack.
+19. [Sentence #703]  (TSLA_Q2_2023) (Similarity: 0.709) Given Tesla’s AI capabilities, how do you see the long-term mix between hardware **margin** and recurring software **margin** from Autobidder as this segment accelerates?
+20. [Sentence #1193]  (TSLA_Q3_2023) (Similarity: 0.696) **Vehicle** deliveries in Q3 outpaced production, and we had yet another record quarter of profitability in our **energy** business.
+21. [Sentence #706]  (TSLA_Q2_2023) (Similarity: 0.675) As **stated** last quarter, Megapack margins are in a reasonable place, in line with our target – **vehicle** target margins.
+22. [Sentence #671]  (TSLA_Q2_2023) (Similarity: 0.667) Second, we continue to work towards our goals of maximizing volumes on both, our **vehicle** and **energy** business, but most importantly, doing so in a way that generates the capital to continue our pace of R&D and capital investments.
+23. [Sentence #1671]  (TSLA_Q4_2023) (Similarity: 0.658) We're focused on making sure that our next growth wave, driven by next-gen **vehicle**, **energy** storage, full self-driving, other projects, is executed as well as possible.
+24. [Sentence #70]  (TSLA_Q1_2023) (Similarity: 0.643) Our approach is to grow volumes as quickly as possible in both our **vehicle** and **energy** businesses.
+25. [Sentence #90]  (TSLA_Q1_2023) (Similarity: 0.633) The second question is, do you still believe Tesla **Energy** will be bigger than auto?
+26. [Sentence #1936]  (TSLA_Q4_2023) (Similarity: 0.626) The next question is, can we get Tesla **Energy** volumes reported in the production and delivery release?
+27. [Sentence #1722]  (TSLA_Q4_2023) (Similarity: 0.624) Our data suggests that around 90% of our **vehicle** buyers in 2023 never owned a Tesla before.
+28. [Sentence #91]  (TSLA_Q1_2023) (Similarity: 0.621) And when will you provide more formal guidance on Megapack and overall Tesla **Energy**?
+29. [Sentence #1695]  (TSLA_Q4_2023) (Similarity: 0.619) Several years ago, I said, perhaps the most important competitive characteristic of Tesla in the future will be manufacturing technology and you will really see that come to bear with our next-gen **vehicle**.
+30. [Sentence #110]  (TSLA_Q1_2023) (Similarity: 0.606) While we're not providing specific guidance there, I mean, just to set expectations of where we think this business will go in terms of margins, probably generally in the ballpark of what we've seen historically on the **vehicle** business.
+
+Total similarity-top evidence sentences: 30
+
+-----

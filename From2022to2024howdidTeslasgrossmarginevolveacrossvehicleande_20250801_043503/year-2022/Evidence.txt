@@ -1,0 +1,97 @@
+[Year 2022] From 2022 to 2024, how did Tesla’s gross margin evolve across vehicle and energy segments, and did it match their stated margin targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #1]  --- TSLA_Q1_2022 ---
+Company Participants
+
+Martin Viecha - VP, IR
+Elon Musk - CEO
+Zachary Kirkhorn - CFO
+Andrew Baglino - SVP, Powertrain and **Energy** Engineering
+Lars Moravy - VP, **Vehicle** Engineering
+
+Conference Call Participants
+
+Dan Levy - CSFB
+Rod Lache - Wolfe Research
+Pierre Ferragu - New Street Research
+Trip Chowdhry - Global Equities Research
+Alex Potter - Piper Sandler
+Colin Langan - Wells Fargo
+Mark Delaney - Goldman Sachs
+
+Martin Viecha
+
+Good afternoon, everyone, and welcome to Tesla’s First Quarter 2022 Q&A Webcast.
+2. [Sentence #14]  (TSLA_Q1_2022) Last quarter, we demonstrated a series of new financial records, including revenue, **gross** margins, operating **margin** and bottom line profitability.
+3. [Sentence #15]  (TSLA_Q1_2022) GAAP automotive ****gross** **margin**** reached 32.9% and first time exceeded 30% when excluding regulatory credits.
+4. [Sentence #25]  (TSLA_Q1_2022) The **energy** business has continued to be impacted by macro conditions, more severely than the **vehicle** business.
+5. [Sentence #38]  (TSLA_Q1_2022) And thus, those inefficiencies will start to flow through our **gross** margins in Q2.
+6. [Sentence #634]  (TSLA_Q2_2022) On GAAP automotive ****gross** **margin****, it declined sequentially to 27.9%.
+7. [Sentence #733]  (TSLA_Q2_2022) Elon Musk
+
+Well, Tesla is – Tesla’s goal is to accelerate the advent of sustainable **energy**.
+8. [Sentence #1062]  (TSLA_Q2_2022) Tesla has obviously changed dramatically in the last 3 years from near life or death to a company with consistent cash flow and industry-leading margins.
+9. [Sentence #1210]  (TSLA_Q3_2022) On automotive profitability, our GAAP operating **margin** was 17.2% with automotive ****gross** **margin**** at 27.9%.
+10. [Sentence #1213]  (TSLA_Q3_2022) Removing regulatory credits and Austin and Berlin, our operating margins would have been our strongest yet and auto ****gross** **margin**** would have been nearly 30%.
+11. [Sentence #1217]  (TSLA_Q3_2022) On **energy** profitability, we achieved our strongest **gross** profit yet for this business, driven primarily by record volumes of our Megapack and Powerwall products.
+12. [Sentence #1700]  (TSLA_Q4_2022) So, in 2022, we delivered over 1.3 million cars and achieved a 17% operating **margin**, the highest among any volume carmaker, I think maybe among any carmaker.
+13. [Sentence #1773]  (TSLA_Q4_2022) This includes expanding in-house cell production, bringing Cybertruck to market, development of our next-generation **vehicle** platform, expansion of our manufacturing footprint and growth of the **energy** business.
+14. [Sentence #1790]  (TSLA_Q4_2022) So $3,700 per long-range Model 3 and Model Y, it's $45 a kilowatt-hour for autos and **energy** products and how much does Tesla expect to earn in the coming year from these credits?
+15. [Sentence #1808]  (TSLA_Q4_2022) The next question from investors is, after recent price cuts, analyst released expectations that Tesla automotive ****gross** **margin****, excluding leasing and credits, will drop below 20% and average selling price around $47,000 across all models.
+16. [Sentence #1809]  (TSLA_Q4_2022) Where do you see average selling price and **gross** margins after the price cuts?
+17. [Sentence #1813]  (TSLA_Q4_2022) So based upon these metrics here, we believe that we'll be above both of the metrics that are **stated** in the question, so 20% automotive ****gross** **margin****, excluding leases and rent credits and then $47,000 ASP across all models.
+18. [Sentence #1820]  (TSLA_Q4_2022) And so as other areas of the business become more important, particularly the **energy** business, which is growing faster than the **vehicle** business and as we're heavily focused on operating leverage here, improving efficiency of our overheads, we think the right metric for us to be focused on is operating **margin**.
+19. [Sentence #1825]  (TSLA_Q4_2022) So that means that there's millions of cars were full self-driving can be sold at essentially 100% ****gross** **margin****.
+20. [Sentence #2099]  (TSLA_Q4_2022) Are there maybe some plans to accelerate commercial **vehicle** form factors outside of the Tesla Semi to help accelerate EV adoption?
+
+Total transcript-order evidence sentences: 20
+
+--- Evidence by Similarity ---
+1. [Sentence #1808]  (TSLA_Q4_2022) (Similarity: 1.093) The next question from investors is, after recent price cuts, analyst released expectations that Tesla automotive ****gross** **margin****, excluding leasing and credits, will drop below 20% and average selling price around $47,000 across all models.
+2. [Sentence #1813]  (TSLA_Q4_2022) (Similarity: 1.074) So based upon these metrics here, we believe that we'll be above both of the metrics that are **stated** in the question, so 20% automotive ****gross** **margin****, excluding leases and rent credits and then $47,000 ASP across all models.
+3. [Sentence #634]  (TSLA_Q2_2022) (Similarity: 0.960) On GAAP automotive ****gross** **margin****, it declined sequentially to 27.9%.
+4. [Sentence #1210]  (TSLA_Q3_2022) (Similarity: 0.945) On automotive profitability, our GAAP operating **margin** was 17.2% with automotive ****gross** **margin**** at 27.9%.
+5. [Sentence #1213]  (TSLA_Q3_2022) (Similarity: 0.942) Removing regulatory credits and Austin and Berlin, our operating margins would have been our strongest yet and auto ****gross** **margin**** would have been nearly 30%.
+6. [Sentence #1825]  (TSLA_Q4_2022) (Similarity: 0.937) So that means that there's millions of cars were full self-driving can be sold at essentially 100% ****gross** **margin****.
+7. [Sentence #1820]  (TSLA_Q4_2022) (Similarity: 0.915) And so as other areas of the business become more important, particularly the **energy** business, which is growing faster than the **vehicle** business and as we're heavily focused on operating leverage here, improving efficiency of our overheads, we think the right metric for us to be focused on is operating **margin**.
+8. [Sentence #14]  (TSLA_Q1_2022) (Similarity: 0.895) Last quarter, we demonstrated a series of new financial records, including revenue, **gross** margins, operating **margin** and bottom line profitability.
+9. [Sentence #15]  (TSLA_Q1_2022) (Similarity: 0.888) GAAP automotive ****gross** **margin**** reached 32.9% and first time exceeded 30% when excluding regulatory credits.
+10. [Sentence #38]  (TSLA_Q1_2022) (Similarity: 0.836) And thus, those inefficiencies will start to flow through our **gross** margins in Q2.
+11. [Sentence #1809]  (TSLA_Q4_2022) (Similarity: 0.739) Where do you see average selling price and **gross** margins after the price cuts?
+12. [Sentence #1]  (Similarity: 0.735) --- TSLA_Q1_2022 ---
+Company Participants
+
+Martin Viecha - VP, IR
+Elon Musk - CEO
+Zachary Kirkhorn - CFO
+Andrew Baglino - SVP, Powertrain and **Energy** Engineering
+Lars Moravy - VP, **Vehicle** Engineering
+
+Conference Call Participants
+
+Dan Levy - CSFB
+Rod Lache - Wolfe Research
+Pierre Ferragu - New Street Research
+Trip Chowdhry - Global Equities Research
+Alex Potter - Piper Sandler
+Colin Langan - Wells Fargo
+Mark Delaney - Goldman Sachs
+
+Martin Viecha
+
+Good afternoon, everyone, and welcome to Tesla’s First Quarter 2022 Q&A Webcast.
+13. [Sentence #25]  (TSLA_Q1_2022) (Similarity: 0.710) The **energy** business has continued to be impacted by macro conditions, more severely than the **vehicle** business.
+14. [Sentence #1700]  (TSLA_Q4_2022) (Similarity: 0.671) So, in 2022, we delivered over 1.3 million cars and achieved a 17% operating **margin**, the highest among any volume carmaker, I think maybe among any carmaker.
+15. [Sentence #1773]  (TSLA_Q4_2022) (Similarity: 0.671) This includes expanding in-house cell production, bringing Cybertruck to market, development of our next-generation **vehicle** platform, expansion of our manufacturing footprint and growth of the **energy** business.
+16. [Sentence #2099]  (TSLA_Q4_2022) (Similarity: 0.651) Are there maybe some plans to accelerate commercial **vehicle** form factors outside of the Tesla Semi to help accelerate EV adoption?
+17. [Sentence #1062]  (TSLA_Q2_2022) (Similarity: 0.646) Tesla has obviously changed dramatically in the last 3 years from near life or death to a company with consistent cash flow and industry-leading margins.
+18. [Sentence #733]  (TSLA_Q2_2022) (Similarity: 0.627) Elon Musk
+
+Well, Tesla is – Tesla’s goal is to accelerate the advent of sustainable **energy**.
+19. [Sentence #1217]  (TSLA_Q3_2022) (Similarity: 0.619) On **energy** profitability, we achieved our strongest **gross** profit yet for this business, driven primarily by record volumes of our Megapack and Powerwall products.
+20. [Sentence #1790]  (TSLA_Q4_2022) (Similarity: 0.612) So $3,700 per long-range Model 3 and Model Y, it's $45 a kilowatt-hour for autos and **energy** products and how much does Tesla expect to earn in the coming year from these credits?
+
+Total similarity-top evidence sentences: 20
+
+-----

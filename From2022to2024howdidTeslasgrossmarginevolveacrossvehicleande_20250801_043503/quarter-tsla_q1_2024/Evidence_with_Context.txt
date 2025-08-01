@@ -1,0 +1,40 @@
+[TSLA_Q1_2024] From 2022 to 2024, how did Tesla’s gross margin evolve across vehicle and energy segments, and did it match their stated margin targets?
+
+1. [Sentence #15] [PLAN]
+     Please use the raise hand button to join the question queue.
+     But before we jump into Q&A, Elon has some opening remarks.
+     Elon?
+     Elon Musk
+
+Thanks, Martin.
+     So to recap, in Q1 we navigated several unforeseen challenges as well as the ramp of the updated Model 3 in Fremont.
+     There was, as we all have seen, the EV adoption rate globally is under pressure and a lot of other auto manufacturers are pulling back on EVs and pursuing plug-in hybrids instead.
+     We believe this is not the right strategy and electric vehicles will ultimately dominate the market.
+>>> Despite these challenges, the Tesla team did a great job executing in a tough environment and energy storage deployments, the Megapack in particular, reached an all-time high in Q1, leading to record profitability for the energy business, and that looks likely to continue to increase in the quarters and years ahead.
+     It will increase.
+     We actually know that it will, so significantly faster than the car business as we expected.
+     We also continue to expand our AI training capacity in Q1, more than doubling our training compute sequentially.
+     In terms of the new product roadmap, there has been a lot of talk about our upcoming vehicle line in the next – in the past several weeks.
+     We've updated our future vehicle lineup to accelerate the launch of new models ahead, previously mentioned startup production in the second half of 2025, so we expect it to be more like the early 2025, if not late this year.
+     These new vehicles, including more affordable models, will use aspects of the next generation platform as well as aspects of our current platforms, and will be able to produce on the same manufacturing lines as our current vehicle lineup.
+     So it's not contingent on any new factory or massive new production line.
+-----
+2. [Sentence #66] [PLAN]
+     Currently normalized Model Y cost per vehicle in Austin and Berlin are already very close to that of Fremont.
+     Our ability to reduce costs without sacrificing on quality was due to the amazing efforts of the team, in executing Tesla's relentless pursuit of efficiency across the business.
+     We've also witnessed that as other OEMs are pulling back on their investments in EV, there is increasing appetite for credits, and that means a steady stream of revenue for us.
+     Obviously, seeing others pull back from EV is not the future we want.
+     We would prefer it the whole industry went all in.
+     On the demand front, we've undertaken a variety of initiatives, including lowering the price of both the purchase and subscription options for FSD launching extremely attractive leasing specials for the Model 3 in the U.S. for $299 a month and offering attractive financing options in certain markets.
+     We believe that our awareness activities, paired with attractive financing, will go a long way in expanding our reach and driving demand for our products.
+>>> Our Energy business continues to make meaningful progress with margins reaching a record of 24.6%.
+     We expect the energy storage deployments for 2024 to grow at least 75% higher from 2023.
+     And accordingly, this business will begin contributing significantly to our overall profitability.
+     Note that there is a bit of lumpiness in our storage deployments due to a variety of factors that are outside of our control, so deployments may fluctuate quarter-over-quarter.
+     On the operating expense front, we saw a sequential increase from our AI initiatives, continued investment in future projects, marketing, and other activities.
+     We had negative free cash flow of $2.5 billion in the first quarter.
+     The primary driver of this was an increase in inventory from a mismatch between builds and deliveries as discussed before, and our elevated spend on CapEx across various initiatives, including AI compute.
+     We expect the inventory build to reverse in the second quarter and free cash flow to return to positive again.
+-----
+
+Total context windows: 2

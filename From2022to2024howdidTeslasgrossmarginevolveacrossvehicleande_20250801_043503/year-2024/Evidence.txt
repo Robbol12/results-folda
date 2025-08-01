@@ -1,0 +1,23 @@
+[Year 2024] From 2022 to 2024, how did Tesla’s gross margin evolve across vehicle and energy segments, and did it match their stated margin targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #15]  (TSLA_Q1_2024) Despite these challenges, the Tesla team did a great job executing in a tough environment and **energy** storage deployments, the Megapack in particular, reached an all-time high in Q1, leading to record profitability for the **energy** business, and that looks likely to continue to increase in the quarters and years ahead.
+2. [Sentence #66]  (TSLA_Q1_2024) Our **Energy** business continues to make meaningful progress with margins reaching a record of 24.6%.
+3. [Sentence #875]  (TSLA_Q2_2024) When we think about revenue contribution and with **energy** growing so quickly and Optimus on the come, how do we think about the overall **segments** longer term?
+4. [Sentence #1253]  (TSLA_Q3_2024) Tesla becomes more than a sort of **vehicle** and a battery manufacturing company at that point.
+5. [Sentence #1292]  (TSLA_Q3_2024) So, in conclusion, Tesla is focused on building the future of **energy**, transport, robotics and AI.
+6. [Sentence #1337]  (TSLA_Q3_2024) I mean, just in Q3, we faced our lowest cost per **vehicle**, and that is a trend which we want to keep focused on.
+
+Total transcript-order evidence sentences: 6
+
+--- Evidence by Similarity ---
+1. [Sentence #875]  (TSLA_Q2_2024) (Similarity: 0.693) When we think about revenue contribution and with **energy** growing so quickly and Optimus on the come, how do we think about the overall **segments** longer term?
+2. [Sentence #15]  (TSLA_Q1_2024) (Similarity: 0.656) Despite these challenges, the Tesla team did a great job executing in a tough environment and **energy** storage deployments, the Megapack in particular, reached an all-time high in Q1, leading to record profitability for the **energy** business, and that looks likely to continue to increase in the quarters and years ahead.
+3. [Sentence #1292]  (TSLA_Q3_2024) (Similarity: 0.638) So, in conclusion, Tesla is focused on building the future of **energy**, transport, robotics and AI.
+4. [Sentence #1253]  (TSLA_Q3_2024) (Similarity: 0.623) Tesla becomes more than a sort of **vehicle** and a battery manufacturing company at that point.
+5. [Sentence #66]  (TSLA_Q1_2024) (Similarity: 0.609) Our **Energy** business continues to make meaningful progress with margins reaching a record of 24.6%.
+6. [Sentence #1337]  (TSLA_Q3_2024) (Similarity: 0.605) I mean, just in Q3, we faced our lowest cost per **vehicle**, and that is a trend which we want to keep focused on.
+
+Total similarity-top evidence sentences: 6
+
+-----

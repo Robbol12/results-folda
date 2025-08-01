@@ -1,0 +1,21 @@
+[TSLA_Q2_2022] From 2022 to 2024, how did Tesla’s gross margin evolve across vehicle and energy segments, and did it match their stated margin targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #77]  On GAAP automotive ****gross** **margin****, it declined sequentially to 27.9%.
+2. [Sentence #176]  Elon Musk
+
+Well, Tesla is – Tesla’s goal is to accelerate the advent of sustainable **energy**.
+3. [Sentence #505]  Tesla has obviously changed dramatically in the last 3 years from near life or death to a company with consistent cash flow and industry-leading margins.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #77]  (Similarity: 0.960) On GAAP automotive ****gross** **margin****, it declined sequentially to 27.9%.
+2. [Sentence #505]  (Similarity: 0.646) Tesla has obviously changed dramatically in the last 3 years from near life or death to a company with consistent cash flow and industry-leading margins.
+3. [Sentence #176]  (Similarity: 0.627) Elon Musk
+
+Well, Tesla is – Tesla’s goal is to accelerate the advent of sustainable **energy**.
+
+Total similarity-top evidence sentences: 3
+
+-----

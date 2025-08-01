@@ -1,0 +1,21 @@
+[TSLA_Q3_2023] From 2022 to 2024, how did Tesla’s gross margin evolve across vehicle and energy segments, and did it match their stated margin targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #15]  And as this business grows, the **energy** division is becoming our highest **margin** business.
+2. [Sentence #44]  **Vehicle** deliveries in Q3 outpaced production, and we had yet another record quarter of profitability in our **energy** business.
+3. [Sentence #260]  It’s about like your ****gross** **margin**** in the quarter.
+4. [Sentence #261]  Could you give us a sense of like in how the ****gross** **margin**** evolved sequentially, how much was the impact of idle cost?
+5. [Sentence #264]  So, if you can give us the background on that and tell us how we should think about that ****gross** **margin**** going forward.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #261]  (Similarity: 0.970) Could you give us a sense of like in how the ****gross** **margin**** evolved sequentially, how much was the impact of idle cost?
+2. [Sentence #264]  (Similarity: 0.925) So, if you can give us the background on that and tell us how we should think about that ****gross** **margin**** going forward.
+3. [Sentence #260]  (Similarity: 0.827) It’s about like your ****gross** **margin**** in the quarter.
+4. [Sentence #15]  (Similarity: 0.715) And as this business grows, the **energy** division is becoming our highest **margin** business.
+5. [Sentence #44]  (Similarity: 0.696) **Vehicle** deliveries in Q3 outpaced production, and we had yet another record quarter of profitability in our **energy** business.
+
+Total similarity-top evidence sentences: 5
+
+-----

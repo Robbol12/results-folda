@@ -1,0 +1,25 @@
+[TSLA_Q4_2023] From 2022 to 2024, how did Tesla’s gross margin evolve across vehicle and energy segments, and did it match their stated margin targets?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #39]  We're focused on making sure that our next growth wave, driven by next-gen **vehicle**, **energy** storage, full self-driving, other projects, is executed as well as possible.
+2. [Sentence #63]  Several years ago, I said, perhaps the most important competitive characteristic of Tesla in the future will be manufacturing technology and you will really see that come to bear with our next-gen **vehicle**.
+3. [Sentence #85]  As a result, our auto ****gross** **margin**** improved sequentially.
+4. [Sentence #86]  That said, predicting auto **gross** margins is extremely challenging since there are many moving parts to this equation, some of which are out of our control like the change in tariffs or local incentives to name a few.
+5. [Sentence #90]  Our data suggests that around 90% of our **vehicle** buyers in 2023 never owned a Tesla before.
+6. [Sentence #186]  The next question is, what is your expectation for automotive ****gross** **margin**** ex-regulatory credits for the full year?
+7. [Sentence #304]  The next question is, can we get Tesla **Energy** volumes reported in the production and delivery release?
+
+Total transcript-order evidence sentences: 7
+
+--- Evidence by Similarity ---
+1. [Sentence #186]  (Similarity: 0.955) The next question is, what is your expectation for automotive ****gross** **margin**** ex-regulatory credits for the full year?
+2. [Sentence #85]  (Similarity: 0.916) As a result, our auto ****gross** **margin**** improved sequentially.
+3. [Sentence #86]  (Similarity: 0.878) That said, predicting auto **gross** margins is extremely challenging since there are many moving parts to this equation, some of which are out of our control like the change in tariffs or local incentives to name a few.
+4. [Sentence #39]  (Similarity: 0.658) We're focused on making sure that our next growth wave, driven by next-gen **vehicle**, **energy** storage, full self-driving, other projects, is executed as well as possible.
+5. [Sentence #304]  (Similarity: 0.626) The next question is, can we get Tesla **Energy** volumes reported in the production and delivery release?
+6. [Sentence #90]  (Similarity: 0.624) Our data suggests that around 90% of our **vehicle** buyers in 2023 never owned a Tesla before.
+7. [Sentence #63]  (Similarity: 0.619) Several years ago, I said, perhaps the most important competitive characteristic of Tesla in the future will be manufacturing technology and you will really see that come to bear with our next-gen **vehicle**.
+
+Total similarity-top evidence sentences: 7
+
+-----
