@@ -1,0 +1,15 @@
+[Multi-Year Analysis] frotell me about production plans for tsla from 2019-2020
+
+--- Evidence in Transcript Order ---
+1. [Sentence #321]  (TSLA_Q2_2020) And the second question is, now that it's time to bring the Tesla Semi to volume **production**, can you share more detail on ****production** **plans****?
+2. [Sentence #328]  (TSLA_Q4_2020) If we get lucky, we'll be able to do a few deliveries towards the end of this year, but I expect volume **production** to be in 2022.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #321]  (TSLA_Q2_2020) (Similarity: 0.910) And the second question is, now that it's time to bring the Tesla Semi to volume **production**, can you share more detail on ****production** **plans****?
+2. [Sentence #328]  (TSLA_Q4_2020) (Similarity: 0.611) If we get lucky, we'll be able to do a few deliveries towards the end of this year, but I expect volume **production** to be in 2022.
+
+Total similarity-top evidence sentences: 2
+
+-----
