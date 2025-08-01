@@ -1,0 +1,51 @@
+[TSLA_Q3_2020] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+1. [Sentence #162] [PILOT]
+     We're just now capturing the full power of customer-cited solar plus storage as customers in some jurisdictions are providing services back to the grid when they don't need to consume energy or have backup power.
+     This has massive potential to reduce system cost and make the grid more efficient globally.
+     In the United States, we lowered our residential solar retrofit price to $1.49 a watt after tax incentives, which is the lowest in the industry.
+     We're able to do this by leveraging our online vehicle ordering infrastructure, which substantially reduces the soft costs associated with sales and marketing.
+     As a result, our fixed costs remained relatively flat as our volume and efficiency increase, leading to increased profitability in the retrofit business.
+     We're using the same methodology across the entire Energy business, including service, to capitalize on the technology backbone of the company.
+     Solar Roof is especially exciting as we've gained significant experience over the last year in the installation process, which is a key enabler to scale the business.
+     We've recently demonstrated our ability to complete Solar Roof installation in just one day.
+     We're pleased now, this still requires one to two days to remove the existing roof and prepare it for the Solar Roof installation.
+     Clearly, there will be a range of installation times based on size, complexity, weather and other factors.
+     Overall, our reduced installation time provides a better customer experience, and will enable the business to grow exponentially as scale effects allow for increased efficiency.
+     In closing, we believe the Energy segment is poised for a strong growth as we continue to focus on increasing scale while reducing cost to maximize profitability.
+     I want to thank the team again for their hard work, and I look forward to another strong quarter ahead of us.
+     Question-and-Answer Session
+
+A - Martin Viecha
+
+Thank you very much, everyone.
+     And let's begin with questions from say.com.
+>>> The first question from retail shareholders is, is Tesla planning to start 4680 cell production at Giga Berlin at the same time as vehicle production?
+     Can Tesla share more information on what products you'll use the battery cells from the pilot line in Fremont?
+     Elon Musk
+
+Yes.
+     Drew, do you want to take that?
+     Drew Baglino
+
+Sure.
+     Yes, we will incorporate 4680 design solutions into many applications in time across both energy and vehicle.
+     And we can use our pilot production facility in Fremont to support the new factory in Berlin as it ramps.
+     Martin Viecha
+
+Thank you very much.
+     Let's go to the next question, which is question number two from retail shareholders.
+     Does Tesla's tablet cell design allow for significantly higher peak charging rates?
+     Does it improve the required taper curve?
+     Drew Baglino
+
+Yes.
+     The fundamental limitation on charge rate in lithium-ion batteries is avoiding lithium plating on the anode.
+     And while the tablet's architecture helps avoid overheating because it's a more power dense architecture at high continuous charge rates, it doesn't change the anode plating story.
+     Electro design and anode material choice more directly determines the maximum charge rate and how to avoid that lithium plating problem.
+     Martin Viecha
+
+Okay.
+-----
+
+Total context windows: 1

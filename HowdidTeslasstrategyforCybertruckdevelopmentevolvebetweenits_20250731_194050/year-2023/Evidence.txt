@@ -1,0 +1,31 @@
+[Year 2023] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #54]  (TSLA_Q1_2023) I want to **start** by congratulating the Tesla team for record vehicle **production** and deliveries.
+2. [Sentence #71]  (TSLA_Q1_2023) We plan to continue to invest heavily into our future plans, which include the **Cybertruck** next-generation platform, in-house cell **production**, energy storage business and our autonomy and AI-enabled products.
+3. [Sentence #175]  (TSLA_Q1_2023) And maybe the last question from investors, can you give updated specs and pricing for **Cybertruck** and any new features that will make it to **production**?
+4. [Sentence #637]  (TSLA_Q2_2023) With regard to our **Cybertruck**, we continue to build our release candidates of the **Cybertruck** on our final **production** line in Austin.
+5. [Sentence #695]  (TSLA_Q2_2023) Here in Texas, we’re preparing to launch our **Cybertruck** cell, which is 10% higher energy density than current **production**.
+6. [Sentence #1170]  (TSLA_Q3_2023) I do want to emphasize that there will be enormous challenges in reaching volume **production** with the **Cybertruck**, and then in making a **Cybertruck** cash flow positive.
+7. [Sentence #1240]  (TSLA_Q3_2023) The **Cybertruck** cell with 10% higher energy than our Model Y cell started **production** on line two in Texas.
+8. [Sentence #1745]  (TSLA_Q4_2023) Given that you moved the **start** of the next-generation compact vehicle **production** to Austin, has the **timeline** improved so that we might see next-generation platform vehicles in 2025?
+9. [Sentence #1846]  (TSLA_Q4_2023) When will Tesla **start** construction on the Giga Nevada expansion and Giga Mexico, and when can we expect each of these to produce their first products such as 4680 cell, Semi, and next-gen vehicles?
+10. [Sentence #2097]  (TSLA_Q4_2023) To what extent do you think **Cybertruck** is really a proving ground for the next-gen platform and is really going to be a gating factor to unlocking the cost reductions needed for the next-gen platform?
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #175]  (TSLA_Q1_2023) (Similarity: 0.882) And maybe the last question from investors, can you give updated specs and pricing for **Cybertruck** and any new features that will make it to **production**?
+2. [Sentence #1745]  (TSLA_Q4_2023) (Similarity: 0.850) Given that you moved the **start** of the next-generation compact vehicle **production** to Austin, has the **timeline** improved so that we might see next-generation platform vehicles in 2025?
+3. [Sentence #71]  (TSLA_Q1_2023) (Similarity: 0.839) We plan to continue to invest heavily into our future plans, which include the **Cybertruck** next-generation platform, in-house cell **production**, energy storage business and our autonomy and AI-enabled products.
+4. [Sentence #1170]  (TSLA_Q3_2023) (Similarity: 0.831) I do want to emphasize that there will be enormous challenges in reaching volume **production** with the **Cybertruck**, and then in making a **Cybertruck** cash flow positive.
+5. [Sentence #637]  (TSLA_Q2_2023) (Similarity: 0.805) With regard to our **Cybertruck**, we continue to build our release candidates of the **Cybertruck** on our final **production** line in Austin.
+6. [Sentence #695]  (TSLA_Q2_2023) (Similarity: 0.773) Here in Texas, we’re preparing to launch our **Cybertruck** cell, which is 10% higher energy density than current **production**.
+7. [Sentence #1240]  (TSLA_Q3_2023) (Similarity: 0.759) The **Cybertruck** cell with 10% higher energy than our Model Y cell started **production** on line two in Texas.
+8. [Sentence #2097]  (TSLA_Q4_2023) (Similarity: 0.743) To what extent do you think **Cybertruck** is really a proving ground for the next-gen platform and is really going to be a gating factor to unlocking the cost reductions needed for the next-gen platform?
+9. [Sentence #54]  (TSLA_Q1_2023) (Similarity: 0.722) I want to **start** by congratulating the Tesla team for record vehicle **production** and deliveries.
+10. [Sentence #1846]  (TSLA_Q4_2023) (Similarity: 0.701) When will Tesla **start** construction on the Giga Nevada expansion and Giga Mexico, and when can we expect each of these to produce their first products such as 4680 cell, Semi, and next-gen vehicles?
+
+Total similarity-top evidence sentences: 10
+
+-----

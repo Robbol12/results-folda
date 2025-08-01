@@ -1,0 +1,31 @@
+[Year 2021] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #76]  (TSLA_Q1_2021) In the background, we are continuing work -- **development** work on the Semi, **Cybertruck**, on the Roadster and other products.
+2. [Sentence #1286]  (TSLA_Q3_2021) We've been busy detailing the **Cybertruck** to achieve the prototype version we shared with customers awhile back.
+3. [Sentence #1658]  (TSLA_Q4_2021) We will, however, do a lot of engineering and tooling and whatnot to create those vehicles, **Cybertruck**, Semi, Roadster, Optimus, and be ready to bring those to **production** hopefully next year.
+4. [Sentence #1863]  (TSLA_Q4_2021) Martin Viecha
+
+And the next question is, what are the biggest obstacles for **Cybertruck** volume **production** besides battery shortage?
+5. [Sentence #1864]  (TSLA_Q4_2021) Elon Musk
+
+Batteries will probably not be the limiting factor in **Cybertruck** **production**.
+6. [Sentence #1865]  (TSLA_Q4_2021) There's a lot of new technology in the **Cybertruck** that will take some time to work through.
+
+Total transcript-order evidence sentences: 6
+
+--- Evidence by Similarity ---
+1. [Sentence #1863]  (TSLA_Q4_2021) (Similarity: 0.846) Martin Viecha
+
+And the next question is, what are the biggest obstacles for **Cybertruck** volume **production** besides battery shortage?
+2. [Sentence #1864]  (TSLA_Q4_2021) (Similarity: 0.808) Elon Musk
+
+Batteries will probably not be the limiting factor in **Cybertruck** **production**.
+3. [Sentence #76]  (TSLA_Q1_2021) (Similarity: 0.807) In the background, we are continuing work -- **development** work on the Semi, **Cybertruck**, on the Roadster and other products.
+4. [Sentence #1658]  (TSLA_Q4_2021) (Similarity: 0.774) We will, however, do a lot of engineering and tooling and whatnot to create those vehicles, **Cybertruck**, Semi, Roadster, Optimus, and be ready to bring those to **production** hopefully next year.
+5. [Sentence #1865]  (TSLA_Q4_2021) (Similarity: 0.718) There's a lot of new technology in the **Cybertruck** that will take some time to work through.
+6. [Sentence #1286]  (TSLA_Q3_2021) (Similarity: 0.703) We've been busy detailing the **Cybertruck** to achieve the prototype version we shared with customers awhile back.
+
+Total similarity-top evidence sentences: 6
+
+-----

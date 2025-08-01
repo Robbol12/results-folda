@@ -1,0 +1,21 @@
+[Year 2024] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #87]  (TSLA_Q1_2024) 4680 **production** increased about 18% to 20% from Q4 reaching greater than 1K a week for **Cybertruck**, which is about 7 gigawatt hours per year as we posted on X.
+2. [Sentence #88]  (TSLA_Q1_2024) We expect to stay ahead of the **Cybertruck** ramp with the cell **production** throughout Q2 as we ramp the third of four lines in Phase 1, while maintaining multiple weeks of cell inventory to make sure we're ahead of the ramp.
+3. [Sentence #203]  (TSLA_Q1_2024) The next question is, what is the progress of **Cybertruck** ramp?
+4. [Sentence #1465]  (TSLA_Q3_2024) We've released all our major cash flow expenditures for that program, and we're on track to **start** pilot builds in the second half of next year with **production** starting in the first half of 2026 and ramping really throughout the year to full **production**.
+5. [Sentence #2074]  (TSLA_Q4_2024) And if so, what is the **timeline** and expected impact to Tesla's capex?
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #88]  (TSLA_Q1_2024) (Similarity: 0.791) We expect to stay ahead of the **Cybertruck** ramp with the cell **production** throughout Q2 as we ramp the third of four lines in Phase 1, while maintaining multiple weeks of cell inventory to make sure we're ahead of the ramp.
+2. [Sentence #1465]  (TSLA_Q3_2024) (Similarity: 0.778) We've released all our major cash flow expenditures for that program, and we're on track to **start** pilot builds in the second half of next year with **production** starting in the first half of 2026 and ramping really throughout the year to full **production**.
+3. [Sentence #203]  (TSLA_Q1_2024) (Similarity: 0.720) The next question is, what is the progress of **Cybertruck** ramp?
+4. [Sentence #87]  (TSLA_Q1_2024) (Similarity: 0.708) 4680 **production** increased about 18% to 20% from Q4 reaching greater than 1K a week for **Cybertruck**, which is about 7 gigawatt hours per year as we posted on X.
+5. [Sentence #2074]  (TSLA_Q4_2024) (Similarity: 0.701) And if so, what is the **timeline** and expected impact to Tesla's capex?
+
+Total similarity-top evidence sentences: 5
+
+-----

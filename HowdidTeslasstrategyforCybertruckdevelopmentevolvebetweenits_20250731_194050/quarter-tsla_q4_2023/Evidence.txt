@@ -1,0 +1,17 @@
+[TSLA_Q4_2023] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #113]  Given that you moved the **start** of the next-generation compact vehicle **production** to Austin, has the **timeline** improved so that we might see next-generation platform vehicles in 2025?
+2. [Sentence #214]  When will Tesla **start** construction on the Giga Nevada expansion and Giga Mexico, and when can we expect each of these to produce their first products such as 4680 cell, Semi, and next-gen vehicles?
+3. [Sentence #465]  To what extent do you think **Cybertruck** is really a proving ground for the next-gen platform and is really going to be a gating factor to unlocking the cost reductions needed for the next-gen platform?
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #113]  (Similarity: 0.850) Given that you moved the **start** of the next-generation compact vehicle **production** to Austin, has the **timeline** improved so that we might see next-generation platform vehicles in 2025?
+2. [Sentence #465]  (Similarity: 0.743) To what extent do you think **Cybertruck** is really a proving ground for the next-gen platform and is really going to be a gating factor to unlocking the cost reductions needed for the next-gen platform?
+3. [Sentence #214]  (Similarity: 0.701) When will Tesla **start** construction on the Giga Nevada expansion and Giga Mexico, and when can we expect each of these to produce their first products such as 4680 cell, Semi, and next-gen vehicles?
+
+Total similarity-top evidence sentences: 3
+
+-----

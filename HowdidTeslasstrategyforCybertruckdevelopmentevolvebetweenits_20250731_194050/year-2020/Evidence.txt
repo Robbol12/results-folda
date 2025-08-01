@@ -1,0 +1,21 @@
+[Year 2020] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #564]  (TSLA_Q2_2020) And it's also where we'll be doing **Cybertruck** there, the Tesla Semi.
+2. [Sentence #659]  (TSLA_Q2_2020) The question number one is, as Tesla continues its journey towards the long-term goal of selling 20 million units per year, what are the most important vehicle programs that will drive volume growth over the next three to five years beyond Model 3, Y and the **Cybertruck**?
+3. [Sentence #1299]  (TSLA_Q3_2020) The first question from retail shareholders is, is Tesla planning to **start** 4680 cell **production** at Giga Berlin at the same time as vehicle **production**?
+4. [Sentence #2099]  (TSLA_Q4_2020) So let's go straight to the last question from institutional investors, which is, where are you in **Cybertruck** **development**?
+5. [Sentence #2106]  (TSLA_Q4_2020) We're actually going to be using even bigger Tesla machines for the rear body of **Cybertruck** because you've got – obviously, it's a bigger vehicle and you've got a long truck bed that's going to a lot of load.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #2099]  (TSLA_Q4_2020) (Similarity: 0.814) So let's go straight to the last question from institutional investors, which is, where are you in **Cybertruck** **development**?
+2. [Sentence #1299]  (TSLA_Q3_2020) (Similarity: 0.791) The first question from retail shareholders is, is Tesla planning to **start** 4680 cell **production** at Giga Berlin at the same time as vehicle **production**?
+3. [Sentence #564]  (TSLA_Q2_2020) (Similarity: 0.789) And it's also where we'll be doing **Cybertruck** there, the Tesla Semi.
+4. [Sentence #659]  (TSLA_Q2_2020) (Similarity: 0.716) The question number one is, as Tesla continues its journey towards the long-term goal of selling 20 million units per year, what are the most important vehicle programs that will drive volume growth over the next three to five years beyond Model 3, Y and the **Cybertruck**?
+5. [Sentence #2106]  (TSLA_Q4_2020) (Similarity: 0.708) We're actually going to be using even bigger Tesla machines for the rear body of **Cybertruck** because you've got – obviously, it's a bigger vehicle and you've got a long truck bed that's going to a lot of load.
+
+Total similarity-top evidence sentences: 5
+
+-----

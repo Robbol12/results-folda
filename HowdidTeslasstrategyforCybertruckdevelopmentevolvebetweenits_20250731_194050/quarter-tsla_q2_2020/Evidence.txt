@@ -1,0 +1,15 @@
+[TSLA_Q2_2020] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #32]  And it's also where we'll be doing **Cybertruck** there, the Tesla Semi.
+2. [Sentence #127]  The question number one is, as Tesla continues its journey towards the long-term goal of selling 20 million units per year, what are the most important vehicle programs that will drive volume growth over the next three to five years beyond Model 3, Y and the **Cybertruck**?
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #32]  (Similarity: 0.789) And it's also where we'll be doing **Cybertruck** there, the Tesla Semi.
+2. [Sentence #127]  (Similarity: 0.716) The question number one is, as Tesla continues its journey towards the long-term goal of selling 20 million units per year, what are the most important vehicle programs that will drive volume growth over the next three to five years beyond Model 3, Y and the **Cybertruck**?
+
+Total similarity-top evidence sentences: 2
+
+-----

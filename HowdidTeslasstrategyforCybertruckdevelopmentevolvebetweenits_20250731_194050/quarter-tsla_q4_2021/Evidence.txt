@@ -1,0 +1,27 @@
+[TSLA_Q4_2021] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #57]  We will, however, do a lot of engineering and tooling and whatnot to create those vehicles, **Cybertruck**, Semi, Roadster, Optimus, and be ready to bring those to **production** hopefully next year.
+2. [Sentence #262]  Martin Viecha
+
+And the next question is, what are the biggest obstacles for **Cybertruck** volume **production** besides battery shortage?
+3. [Sentence #263]  Elon Musk
+
+Batteries will probably not be the limiting factor in **Cybertruck** **production**.
+4. [Sentence #264]  There's a lot of new technology in the **Cybertruck** that will take some time to work through.
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #262]  (Similarity: 0.846) Martin Viecha
+
+And the next question is, what are the biggest obstacles for **Cybertruck** volume **production** besides battery shortage?
+2. [Sentence #263]  (Similarity: 0.808) Elon Musk
+
+Batteries will probably not be the limiting factor in **Cybertruck** **production**.
+3. [Sentence #57]  (Similarity: 0.774) We will, however, do a lot of engineering and tooling and whatnot to create those vehicles, **Cybertruck**, Semi, Roadster, Optimus, and be ready to bring those to **production** hopefully next year.
+4. [Sentence #264]  (Similarity: 0.718) There's a lot of new technology in the **Cybertruck** that will take some time to work through.
+
+Total similarity-top evidence sentences: 4
+
+-----
