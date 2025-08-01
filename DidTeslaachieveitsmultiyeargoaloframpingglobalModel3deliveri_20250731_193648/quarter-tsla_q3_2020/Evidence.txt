@@ -1,0 +1,23 @@
+[TSLA_Q3_2020] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #63]  We're continuing to expand Shanghai significantly, which is going incredibly well at Tesla **China** team.
+2. [Sentence #66]  It's like I'm always amazed by how much progress the Tesla **China** team makes.
+3. [Sentence #122]  As were previous investments in ****Model** 3** Shanghai and **Model** Y in Fremont, we're expecting these programs to have already fully paid for their respective investments by the end of this year.
+4. [Sentence #125]  While we expect the return on our investments to remain very strong, keep in mind that with additional scope and location-specific costs, payback of these investments may be slightly longer than what we saw in ****Model** 3** in Shanghai and **Model** Y in Fremont.
+5. [Sentence #485]  Zach, maybe you could give us a sense of where directionally **Model** Y and **China** ****Model** 3** gross margin was in the quarter relative to Fremont ****Model** 3**?
+6. [Sentence #496]  But we've guided in the past that **Model** Y cost should be roughly equivalent to the ****Model** 3** built in Fremont costs.
+
+Total transcript-order evidence sentences: 6
+
+--- Evidence by Similarity ---
+1. [Sentence #125]  (Similarity: 0.785) While we expect the return on our investments to remain very strong, keep in mind that with additional scope and location-specific costs, payback of these investments may be slightly longer than what we saw in ****Model** 3** in Shanghai and **Model** Y in Fremont.
+2. [Sentence #485]  (Similarity: 0.756) Zach, maybe you could give us a sense of where directionally **Model** Y and **China** ****Model** 3** gross margin was in the quarter relative to Fremont ****Model** 3**?
+3. [Sentence #122]  (Similarity: 0.733) As were previous investments in ****Model** 3** Shanghai and **Model** Y in Fremont, we're expecting these programs to have already fully paid for their respective investments by the end of this year.
+4. [Sentence #496]  (Similarity: 0.711) But we've guided in the past that **Model** Y cost should be roughly equivalent to the ****Model** 3** built in Fremont costs.
+5. [Sentence #66]  (Similarity: 0.672) It's like I'm always amazed by how much progress the Tesla **China** team makes.
+6. [Sentence #63]  (Similarity: 0.656) We're continuing to expand Shanghai significantly, which is going incredibly well at Tesla **China** team.
+
+Total similarity-top evidence sentences: 6
+
+-----
