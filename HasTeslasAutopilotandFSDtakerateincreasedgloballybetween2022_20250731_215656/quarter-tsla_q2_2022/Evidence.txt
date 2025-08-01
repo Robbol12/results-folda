@@ -1,0 +1,17 @@
+[TSLA_Q2_2022] Has Tesla’s Autopilot and FSD take rate increased globally between 2022 and 2024, and did they achieve profitability from FSD as predicted?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #27]  Regarding **Autopilot**, we have now deployed our **FSD** beta with City Streets driving capability to over 100,000 owners.
+2. [Sentence #452]  Could you talk a little bit about the pricing strategy around **FSD**, and as you get closer to this full functionality rolling out and the increased cycle times, how you see that evolving through the balance of this year and into 2023?
+3. [Sentence #454]  We will increase the price of **FSD** sometime later this year.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #27]  (Similarity: 0.739) Regarding **Autopilot**, we have now deployed our **FSD** beta with City Streets driving capability to over 100,000 owners.
+2. [Sentence #452]  (Similarity: 0.731) Could you talk a little bit about the pricing strategy around **FSD**, and as you get closer to this full functionality rolling out and the increased cycle times, how you see that evolving through the balance of this year and into 2023?
+3. [Sentence #454]  (Similarity: 0.647) We will increase the price of **FSD** sometime later this year.
+
+Total similarity-top evidence sentences: 3
+
+-----

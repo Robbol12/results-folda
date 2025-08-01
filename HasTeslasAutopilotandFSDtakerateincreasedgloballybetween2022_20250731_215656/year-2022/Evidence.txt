@@ -1,0 +1,49 @@
+[Year 2022] Has Tesla’s Autopilot and FSD take rate increased globally between 2022 and 2024, and did they achieve profitability from FSD as predicted?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #76]  (TSLA_Q1_2022) Those who are insightful or listen carefully will understand that Optimus ultimately will be worth more than the car business, worth more than **FSD**.
+2. [Sentence #119]  (TSLA_Q1_2022) Elon Musk
+
+Actually, on the price increase front, I should mention that it may seem like maybe we’re being unreasonable about increasing the prices of our vehicles, given that we had record **profitability** this quarter, but the wait list for our vehicles is quite long.
+3. [Sentence #186]  (TSLA_Q1_2022) Similar to Model 3, it will **take** us several years to get **rate** and yields to the point where everything that we’ve discussed is achieved.
+4. [Sentence #507]  (TSLA_Q1_2022) Are there any metrics you can share on what **take** rates have been like?
+5. [Sentence #527]  (TSLA_Q1_2022) We see that in the ****take** **rate**** data, we have extremely high retention for customers who experience the product.
+6. [Sentence #584]  (TSLA_Q2_2022) Regarding **Autopilot**, we have now deployed our **FSD** beta with City Streets driving capability to over 100,000 owners.
+7. [Sentence #1009]  (TSLA_Q2_2022) Could you talk a little bit about the pricing strategy around **FSD**, and as you get closer to this full functionality rolling out and the increased cycle times, how you see that evolving through the balance of this year and into 2023?
+8. [Sentence #1011]  (TSLA_Q2_2022) We will increase the price of **FSD** sometime later this year.
+9. [Sentence #1258]  (TSLA_Q3_2022) We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue production at a 50% or greater compound annual growth **rate**.
+10. [Sentence #1262]  (TSLA_Q3_2022) The next question is, “Can you tell us more about the product future road map beyond new models and **FSD**, and especially for interior and powertrain of existing vehicle models?
+11. [Sentence #1789]  (TSLA_Q4_2022) The next investor question is, will Tesla be able to **take** full advantage of advanced manufacturing production credits for battery cells packs?
+12. [Sentence #2026]  (TSLA_Q4_2022) And so, I was wondering, how much is this like impacting the ****take** **rate**** of **FSD** today?
+13. [Sentence #2027]  (TSLA_Q4_2022) So do you already see that people are getting more excited by **FSD**, because they see it around them on 400,000 cars and they see the value of the service already, or is that too early to really see like, to expect like an uptick in the ****take** **rate****?
+14. [Sentence #2028]  (TSLA_Q4_2022) Elon Musk
+
+The trend is very strong towards use of **FSD**.
+15. [Sentence #2050]  (TSLA_Q4_2022) There's enhanced **Autopilot**, the price of which is listed on the website.
+
+Total transcript-order evidence sentences: 15
+
+--- Evidence by Similarity ---
+1. [Sentence #2027]  (TSLA_Q4_2022) (Similarity: 1.216) So do you already see that people are getting more excited by **FSD**, because they see it around them on 400,000 cars and they see the value of the service already, or is that too early to really see like, to expect like an uptick in the ****take** **rate****?
+2. [Sentence #2026]  (TSLA_Q4_2022) (Similarity: 1.138) And so, I was wondering, how much is this like impacting the ****take** **rate**** of **FSD** today?
+3. [Sentence #584]  (TSLA_Q2_2022) (Similarity: 0.739) Regarding **Autopilot**, we have now deployed our **FSD** beta with City Streets driving capability to over 100,000 owners.
+4. [Sentence #1009]  (TSLA_Q2_2022) (Similarity: 0.731) Could you talk a little bit about the pricing strategy around **FSD**, and as you get closer to this full functionality rolling out and the increased cycle times, how you see that evolving through the balance of this year and into 2023?
+5. [Sentence #527]  (TSLA_Q1_2022) (Similarity: 0.689) We see that in the ****take** **rate**** data, we have extremely high retention for customers who experience the product.
+6. [Sentence #2050]  (TSLA_Q4_2022) (Similarity: 0.685) There's enhanced **Autopilot**, the price of which is listed on the website.
+7. [Sentence #1258]  (TSLA_Q3_2022) (Similarity: 0.682) We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue production at a 50% or greater compound annual growth **rate**.
+8. [Sentence #507]  (TSLA_Q1_2022) (Similarity: 0.669) Are there any metrics you can share on what **take** rates have been like?
+9. [Sentence #1011]  (TSLA_Q2_2022) (Similarity: 0.647) We will increase the price of **FSD** sometime later this year.
+10. [Sentence #2028]  (TSLA_Q4_2022) (Similarity: 0.625) Elon Musk
+
+The trend is very strong towards use of **FSD**.
+11. [Sentence #119]  (TSLA_Q1_2022) (Similarity: 0.614) Elon Musk
+
+Actually, on the price increase front, I should mention that it may seem like maybe we’re being unreasonable about increasing the prices of our vehicles, given that we had record **profitability** this quarter, but the wait list for our vehicles is quite long.
+12. [Sentence #76]  (TSLA_Q1_2022) (Similarity: 0.607) Those who are insightful or listen carefully will understand that Optimus ultimately will be worth more than the car business, worth more than **FSD**.
+13. [Sentence #1262]  (TSLA_Q3_2022) (Similarity: 0.604) The next question is, “Can you tell us more about the product future road map beyond new models and **FSD**, and especially for interior and powertrain of existing vehicle models?
+14. [Sentence #1789]  (TSLA_Q4_2022) (Similarity: 0.601) The next investor question is, will Tesla be able to **take** full advantage of advanced manufacturing production credits for battery cells packs?
+15. [Sentence #186]  (TSLA_Q1_2022) (Similarity: 0.600) Similar to Model 3, it will **take** us several years to get **rate** and yields to the point where everything that we’ve discussed is achieved.
+
+Total similarity-top evidence sentences: 15
+
+-----

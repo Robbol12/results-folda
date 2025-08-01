@@ -1,0 +1,119 @@
+[TSLA_Q2_2024] Has Tesla’s Autopilot and FSD take rate increased globally between 2022 and 2024, and did they achieve profitability from FSD as predicted?
+
+1. [Sentence #374] [UNCERTAIN]
+     And from what we understand, and again, maybe I'm wrong here, but the Robotaxi that has been shown at least in images of the public is also pedal less and wheel less.
+     Is there a different regulatory concern just if you deploy a vehicle like that that doesn't have pedal -- pedals or a wheel, and that may not be different from just regular FSD on a traditional Tesla vehicle.
+     Thank you.
+     Elon Musk
+
+Well, obviously the real reason that they cancel it is because GM can't make it work, not because the regulators, they're blaming regulators.
+     That's misleading of them to do so, because Waymo is doing just fine in those markets.
+     So it's just that their technology is not far.
+     George Gianarikas
+
+Right.
+>>> And maybe just as a follow-up, I think you mentioned, that FSD take rates were up materially after you reduced the price.
+     Is there any way you can help us quantify what that means Exactly?
+     Thank you.
+     Vaibhav Taneja
+
+Yes, we shared the [indiscernible] that there we've seen a meaningful increase.
+     I don't want to get into specific because we started from a low base and -- but we are seeing encouraging results.
+     And the key thing here is, like Elon said, you need to experience it because words can't describe it till the time we actually use it.
+     And that's why we are trying to make sure that every time a car is getting delivered, people are being showed how this thing is working because when you see it working, you realize how great it is.
+     I mean, just to give you one example, so again, there's a bias example, but I have a more than 20 mile commute into the factory almost every day.
+-----
+2. [Sentence #54] [UNCERTAIN]
+     For the energy business, this is growing faster than anything else.
+     This is -- we are really demand constrained rather than production constrained.
+     So we are ramping up production in our U.S. factory as well as building the Megapack factory in China that should roughly double our output, maybe more than double -- maybe triple potentially.
+     So in conclusion, we are super excited about the progress across the board.
+     We are changing the energy system, how people move around, how people approach the economy.
+     The undertaking is massive, but I think the future is incredibly bright.
+     I really just can't emphasize just the importance of autonomy for the vehicle side and for Optimus.
+>>> Although the numbers sound crazy, I think Tesla producing at volume with unsupervised FSD essentially enabling the fleet to operate like a giant autonomous fleet.
+     And it takes the valuation, I think, to some pretty crazy number.
+     ARK Invest thinks, on the order of $5 trillion, I think they are probably not wrong.
+     And long-term Optimus, I think, it achieves a valuation several times that number.
+     I want to thank the Tesla team for a strong execution and looking forward to exciting years ahead.
+     Travis Axelrod
+
+Great.
+     Thank you very much, Elon, and Vaibhav has opening remarks as well.
+     Vaibhav Taneja
+
+Thanks.
+-----
+3. [Sentence #167] [UNCERTAIN]
+     And I should say that the Cybertaxi or Robotaxi will be produced here at our headquarters at Giga Texas.
+     Travis Axelrod
+
+All right.
+     Thank you.
+     Elon Musk
+
+And as well Optimus towards the end of next year for Optimus production Version 2, the high volume version of Optimus will also be produced here in Texas.
+     Travis Axelrod
+
+Great.
+     Thank you.
+     Just a couple more.
+>>> Is Tesla still in talks with an OEM to license FSD?
+     Elon Musk
+
+There are a few major OEMs that have expressed interest in licensing Tesla full self-driving.
+     And I suspect there will be more over time.
+     But we can't comment on the details of those discussions.
+     Travis Axelrod
+
+All right.
+     Thank you.
+     And the last one, any updates on investing in xAI and integrating Grok into Tesla software?
+     Elon Musk
+
+I should say Tesla is learning quite a bit from xAI.
+-----
+4. [Sentence #77] [PLAN]
+     We had a record quarter on regulatory credits, revenues, and as well.
+     On net, our auto margins remained flat sequentially.
+     It is important to note that the demand for regulatory credits is dependent on other OEMs plans for the kind of vehicles they are manufacturing and selling as well as changes in regulations.
+     We pride ourselves to be the company with the most American-made cars and are continuing our journey to further localize our supply chain, not just in the U.S., but in Europe and China as well for the respective factories.
+     As always, our focus is on providing the most compelling products at a reasonable price.
+     We have stepped up our efforts to provide more trims that have estimated range of more than 300 miles on a single charge.
+     We believe this, along with the expansion of our supercharging network, is the right strategy to combat range anxiety.
+>>> Since the revision of FSD pricing in North America, we've seen production rates increase meaningfully and expect this to be a driver of vehicle sales as the feature set improves further.
+     Cost per vehicle declined sequentially when we removed the impact of Cybertruck.
+     While we are experiencing material costs trending down, note that there is latency on the cost side and such reductions would show up in the P&L when the vehicles built with these materials get delivered.
+     Additionally, as we get into the second half of the year, it is important to note that we are still ramping Cybertruck and Model 3 and are also getting impacted by varying amounts of tariffs on both raw materials and finished goods.
+     While our teams are working feverishly to offset these, unfortunately it may have an impact on the cost in the near-term.
+     We previously talked about the potential of the energy business and now feel excited that the foundation that was laid over time is bearing the expected results.
+     Energy storage deployments more than doubled with contribution not just from Megapack, but also Powerwall, resulting in record revenues and profit for the energy business.
+     Energy storage backlog is strong.
+-----
+5. [Sentence #343] [PLAN]
+     So it's -- there's this capability I think in our experience, once we demonstrate that something is safe enough or significantly safer than human.
+     We are fine that regulators are supportive of deploying deployment of that capability.
+     It's difficult to argue with if you -- if you've got a large number of -- yes, if you've got billions of miles that show that in the future unsupervised FSD is safer than human.
+     What regulator could really stand in the way of that?
+     They would -- they're morally obligated to approve.
+     So I don't think regulatory approval will be a limiting factor.
+     I should also say that the self-driving capabilities of this are deployed outside of North America are far behind that in, in North America.
+>>> So with the -- with Version 12.5, and maybe a 12.6, but pretty soon we will ask for regular regulatory approval of the Tesla supervised FSD in Europe, China, and other countries.
+     And I, I think we're likely to receive that before the end of the year, which will be a helpful demand driver in those regions obviously.
+     Travis Axelrod
+
+Thank you.
+     Just to …
+
+Elon Musk
+
+Go ahead, Travis.
+     Travis Axelrod
+
+In terms of like, as Elon said, in terms of regulatory approval, the vehicles are governed by FMVSS in U.S., which is the same across all 50 states.
+     The road rules are the same across all 50 states.
+     So creating a generalized solution gives us the best opportunity to deploy in all 50 states, reasonably.
+     Of course there are state and even local and municipal level regulations that may apply to, being a transportation company or deploying taxes.
+-----
+
+Total context windows: 5

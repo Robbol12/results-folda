@@ -1,0 +1,113 @@
+[TSLA_Q3_2023] Has Tesla’s Autopilot and FSD take rate increased globally between 2022 and 2024, and did they achieve profitability from FSD as predicted?
+
+1. [Sentence #2] [PILOT]
+     Elon Musk
+
+[Call Starts Abruptly]…of new factories and we believe there’s still meaningful room for improvement there.
+>>> Regarding Autopilot and AI, our vehicles are now driven over 0.5 billion miles with FSD beta, full self-driving beta, and that number is growing rapidly.
+     We recently completed a 10,000 GPU cluster of H100s.
+     We think probably bring it into operation faster than anyone’s ever brought that much compute per unit time into production, since training is the fundamental limiting factor on progress with full self-driving and vehicle autonomy.
+     We’re also seeing significant promise with FSD version 12.
+     This is the end-to-end AI where it’s photon count in, controls out.
+     Really you can think of it as there’s just a large bitstream coming in and a tiny bitstream going out, compressing reality into a very small set of outputs, which is actually kind of how humans work.
+     The vast majority of human data input is optics from our eyes.
+     And so, we are like the car, photons in, controls out with neural nets, just neural nets in the middle.
+-----
+2. [Sentence #247] [UNCERTAIN]
+     Let’s go to Pierre Ferragu from New Street Research.
+     Pierre Ferragu
+
+I have first like a follow-up question on FSD and pricing and adoption.
+     So, I agree with you that as FSD improves, we should see its value increasing.
+     But I guess, like the ultimate values of FSD, which is to be able to handle like a robotaxi is not going to necessarily interest everybody, and you have a bit of a degraded version that would be like a chauffeur service where the car drives by itself, but you still have to be in the car and around.
+     And then there is like the hands-on -- eyes-on version of the service.
+     And I guess, there should be like much lower cost, lower feature kind of variance of the service that could have a very large penetration on your installed base and more expensive one that would remain at a lower penetration level.
+     So, I’m just wondering if you’re taking that -- and last but not least, like the simplest version of FSD available and are going to work from a technical perspective, probably before like the ultimate robotaxi version can work if ever.
+>>> And so I’m wondering how you take that into account and how you’re thinking like the financial contribution of FSD over time and whether you could evolve your pricing along that kind of tiers to increase adoption.
+     Elon Musk
+
+Yes.
+     A fully autonomous vehicle, I think, Pierre, your -- sort of the economics of autonomous vehicle are truly astounding in a positive way.
+     When you look at passenger vehicles today, they only get about 10 to 12 hours of usage per week.
+     That’s -- if you drive 1.5-hour a day on average, that’s roughly 10 hours a week out of 168 hours.
+     And then there’s also you’re going to have parking and insurance.
+     You got to take care of the car.
+     It’s like there’s a lot of overhead.
+-----
+3. [Sentence #155] [PILOT]
+     We do not create some variance of the terminator outcome.
+     So, we’re going to put a lot of effort into localized control of the humanoid robot.
+     So basically, anyone will be able to shut it off locally, and you can’t change that, even if you put -- like a software update, you can’t change that.
+     It has to be hard-coded.
+     Martin Viecha
+
+Thank you.
+     The next question is, why was the price dropped on FSD if it is getting better and robotaxi is expected so soon?
+     Elon Musk
+
+Well, we just wanted to make it more affordable as more people try it.
+>>> Yes, I think, over time, the price of FSD will increase proportionate to its value.
+     So we regard the current price as a kind of a temporary low.
+     Martin Viecha
+
+The next question is again on FSD.
+     Mercedes is accepting legal liability for when its Level 3 autonomous driving system drive pilot is active.
+     Is Tesla planning to accept legal liability for FSD?
+     And if so, when?
+     Elon Musk
+
+Well, there’s a lot of people that assume we have legal liability judging by the lawsuits.
+     We’re certainly not being let that off the hook on that front, whether we’d like to or wouldn’t like to do.
+-----
+4. [Sentence #159] [PILOT]
+     Martin Viecha
+
+Thank you.
+     The next question is, why was the price dropped on FSD if it is getting better and robotaxi is expected so soon?
+     Elon Musk
+
+Well, we just wanted to make it more affordable as more people try it.
+     Yes, I think, over time, the price of FSD will increase proportionate to its value.
+     So we regard the current price as a kind of a temporary low.
+     Martin Viecha
+
+The next question is again on FSD.
+     Mercedes is accepting legal liability for when its Level 3 autonomous driving system drive pilot is active.
+>>> Is Tesla planning to accept legal liability for FSD?
+     And if so, when?
+     Elon Musk
+
+Well, there’s a lot of people that assume we have legal liability judging by the lawsuits.
+     We’re certainly not being let that off the hook on that front, whether we’d like to or wouldn’t like to do.
+     Unidentified Company Representative
+
+I mean I think it’s important to remember for everyone that Mercedes’ system is limited to roads in Nevada and some certain cities in California, doesn’t work in the snow or the fog.
+     It must have a lead car in plains, only 40 miles per hour.
+     Our system is meant to be holistic and drive in any conditions, so we obviously have a much more capable approach.
+     But with those kind of limitations, it’s really not very useful.
+-----
+5. [Sentence #153] [PILOT]
+     And then at some point, the robots will manufacture the robots.
+     Now obviously, we need to make sure that it’s a good place for humans in that future.
+     We do not create some variance of the terminator outcome.
+     So, we’re going to put a lot of effort into localized control of the humanoid robot.
+     So basically, anyone will be able to shut it off locally, and you can’t change that, even if you put -- like a software update, you can’t change that.
+     It has to be hard-coded.
+     Martin Viecha
+
+Thank you.
+>>> The next question is, why was the price dropped on FSD if it is getting better and robotaxi is expected so soon?
+     Elon Musk
+
+Well, we just wanted to make it more affordable as more people try it.
+     Yes, I think, over time, the price of FSD will increase proportionate to its value.
+     So we regard the current price as a kind of a temporary low.
+     Martin Viecha
+
+The next question is again on FSD.
+     Mercedes is accepting legal liability for when its Level 3 autonomous driving system drive pilot is active.
+     Is Tesla planning to accept legal liability for FSD?
+     And if so, when?
+-----
+
+Total context windows: 5

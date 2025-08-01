@@ -1,0 +1,25 @@
+[TSLA_Q1_2022] Has Tesla’s Autopilot and FSD take rate increased globally between 2022 and 2024, and did they achieve profitability from FSD as predicted?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #76]  Those who are insightful or listen carefully will understand that Optimus ultimately will be worth more than the car business, worth more than **FSD**.
+2. [Sentence #119]  Elon Musk
+
+Actually, on the price increase front, I should mention that it may seem like maybe we’re being unreasonable about increasing the prices of our vehicles, given that we had record **profitability** this quarter, but the wait list for our vehicles is quite long.
+3. [Sentence #186]  Similar to Model 3, it will **take** us several years to get **rate** and yields to the point where everything that we’ve discussed is achieved.
+4. [Sentence #507]  Are there any metrics you can share on what **take** rates have been like?
+5. [Sentence #527]  We see that in the ****take** **rate**** data, we have extremely high retention for customers who experience the product.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #527]  (Similarity: 0.689) We see that in the ****take** **rate**** data, we have extremely high retention for customers who experience the product.
+2. [Sentence #507]  (Similarity: 0.669) Are there any metrics you can share on what **take** rates have been like?
+3. [Sentence #119]  (Similarity: 0.614) Elon Musk
+
+Actually, on the price increase front, I should mention that it may seem like maybe we’re being unreasonable about increasing the prices of our vehicles, given that we had record **profitability** this quarter, but the wait list for our vehicles is quite long.
+4. [Sentence #76]  (Similarity: 0.607) Those who are insightful or listen carefully will understand that Optimus ultimately will be worth more than the car business, worth more than **FSD**.
+5. [Sentence #186]  (Similarity: 0.600) Similar to Model 3, it will **take** us several years to get **rate** and yields to the point where everything that we’ve discussed is achieved.
+
+Total similarity-top evidence sentences: 5
+
+-----

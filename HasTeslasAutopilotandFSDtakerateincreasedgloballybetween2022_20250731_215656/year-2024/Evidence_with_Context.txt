@@ -1,0 +1,399 @@
+[Year 2024] Has Tesla’s Autopilot and FSD take rate increased globally between 2022 and 2024, and did they achieve profitability from FSD as predicted?
+
+1. [Sentence #1220, TSLA_Q3_2024] [PILOT]
+     A vast majority of humanity has no idea that Tesla could drive themselves so especially for something like a Model 3 or Model Y, it looks like a normal car.
+     So, you don't expect a normal car to be able to be intelligent enough to drive itself.
+     A Cybercab looks different.
+     A Cybertruck looks different, but Model Y and Model 3 are -- look, they're good-looking cars but look fairly normal.
+     You don't expect a fairly normal-looking car to have the intelligence, enough AI to be able to drive itself, but it does.
+     So, we do want to expose that to more people, and so we're doing -- every time we have a significant improvement in the software, we'll roll out another sort of 30-day trial to encourage people to try it again.
+     And we are seeing a significant improvement in adoption.
+>>> So, the take rate for FSD has improved substantially, especially after the 10/10 event.
+     Yes.
+     So, there's no need to wait for robotaxi or Cybercab to experience full autonomy.
+     We expect to achieve that next year with the -- with our existing vehicle line.
+     Ashok Elluswamy -- Director, Autopilot Software
+
+I wanted to actually spot someone gives a small taste of what it's going to look like, the car able to drive itself to the user within private parking lots.
+     Currently, it's speed-limited, but then it's going to quickly be increased.
+     We already had more than 1 billion usage in terms of Smart Summon.
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+Ye.
+-----
+2. [Sentence #1013, TSLA_Q2_2024] [UNCERTAIN]
+     And from what we understand, and again, maybe I'm wrong here, but the Robotaxi that has been shown at least in images of the public is also pedal less and wheel less.
+     Is there a different regulatory concern just if you deploy a vehicle like that that doesn't have pedal -- pedals or a wheel, and that may not be different from just regular FSD on a traditional Tesla vehicle.
+     Thank you.
+     Elon Musk
+
+Well, obviously the real reason that they cancel it is because GM can't make it work, not because the regulators, they're blaming regulators.
+     That's misleading of them to do so, because Waymo is doing just fine in those markets.
+     So it's just that their technology is not far.
+     George Gianarikas
+
+Right.
+>>> And maybe just as a follow-up, I think you mentioned, that FSD take rates were up materially after you reduced the price.
+     Is there any way you can help us quantify what that means Exactly?
+     Thank you.
+     Vaibhav Taneja
+
+Yes, we shared the [indiscernible] that there we've seen a meaningful increase.
+     I don't want to get into specific because we started from a low base and -- but we are seeing encouraging results.
+     And the key thing here is, like Elon said, you need to experience it because words can't describe it till the time we actually use it.
+     And that's why we are trying to make sure that every time a car is getting delivered, people are being showed how this thing is working because when you see it working, you realize how great it is.
+     I mean, just to give you one example, so again, there's a bias example, but I have a more than 20 mile commute into the factory almost every day.
+-----
+3. [Sentence #693, TSLA_Q2_2024] [UNCERTAIN]
+     For the energy business, this is growing faster than anything else.
+     This is -- we are really demand constrained rather than production constrained.
+     So we are ramping up production in our U.S. factory as well as building the Megapack factory in China that should roughly double our output, maybe more than double -- maybe triple potentially.
+     So in conclusion, we are super excited about the progress across the board.
+     We are changing the energy system, how people move around, how people approach the economy.
+     The undertaking is massive, but I think the future is incredibly bright.
+     I really just can't emphasize just the importance of autonomy for the vehicle side and for Optimus.
+>>> Although the numbers sound crazy, I think Tesla producing at volume with unsupervised FSD essentially enabling the fleet to operate like a giant autonomous fleet.
+     And it takes the valuation, I think, to some pretty crazy number.
+     ARK Invest thinks, on the order of $5 trillion, I think they are probably not wrong.
+     And long-term Optimus, I think, it achieves a valuation several times that number.
+     I want to thank the Tesla team for a strong execution and looking forward to exciting years ahead.
+     Travis Axelrod
+
+Great.
+     Thank you very much, Elon, and Vaibhav has opening remarks as well.
+     Vaibhav Taneja
+
+Thanks.
+-----
+4. [Sentence #211, TSLA_Q1_2024] [SCALE ACHIEVED]
+     Lars Moravy
+
+I can take that one too.
+     Cybertruck had 1K a week just a couple of weeks ago.
+     This happened in the first four to five months since we SOP [ph] late last year.
+     Of course, volume production is what matters.
+     That’s what drives costs and so our costs are dropping, but the ramp still faces like a lot of challenges with so many new technologies, some supplier limitations, et cetera, and continue to ramp this year, just focusing on cost efficiency and quality.
+     Martin Viecha
+
+Okay.
+     Thank you.
+>>> The next question, have any of the legacy automakers contacted Tesla about possibly licensing FSD in the future?
+     Elon Musk
+
+We’re in conversations with one major automaker regarding licensing FSD.
+     Martin Viecha
+
+Thank you.
+     The next question is about the robotaxi unveil.
+     Elon already talked about that.
+     So we’ll have to wait till August.
+     The following question is about the next-generation vehicle.
+     We already talked about that.
+-----
+5. [Sentence #806, TSLA_Q2_2024] [UNCERTAIN]
+     And I should say that the Cybertaxi or Robotaxi will be produced here at our headquarters at Giga Texas.
+     Travis Axelrod
+
+All right.
+     Thank you.
+     Elon Musk
+
+And as well Optimus towards the end of next year for Optimus production Version 2, the high volume version of Optimus will also be produced here in Texas.
+     Travis Axelrod
+
+Great.
+     Thank you.
+     Just a couple more.
+>>> Is Tesla still in talks with an OEM to license FSD?
+     Elon Musk
+
+There are a few major OEMs that have expressed interest in licensing Tesla full self-driving.
+     And I suspect there will be more over time.
+     But we can't comment on the details of those discussions.
+     Travis Axelrod
+
+All right.
+     Thank you.
+     And the last one, any updates on investing in xAI and integrating Grok into Tesla software?
+     Elon Musk
+
+I should say Tesla is learning quite a bit from xAI.
+-----
+6. [Sentence #716, TSLA_Q2_2024] [PLAN]
+     We had a record quarter on regulatory credits, revenues, and as well.
+     On net, our auto margins remained flat sequentially.
+     It is important to note that the demand for regulatory credits is dependent on other OEMs plans for the kind of vehicles they are manufacturing and selling as well as changes in regulations.
+     We pride ourselves to be the company with the most American-made cars and are continuing our journey to further localize our supply chain, not just in the U.S., but in Europe and China as well for the respective factories.
+     As always, our focus is on providing the most compelling products at a reasonable price.
+     We have stepped up our efforts to provide more trims that have estimated range of more than 300 miles on a single charge.
+     We believe this, along with the expansion of our supercharging network, is the right strategy to combat range anxiety.
+>>> Since the revision of FSD pricing in North America, we've seen production rates increase meaningfully and expect this to be a driver of vehicle sales as the feature set improves further.
+     Cost per vehicle declined sequentially when we removed the impact of Cybertruck.
+     While we are experiencing material costs trending down, note that there is latency on the cost side and such reductions would show up in the P&L when the vehicles built with these materials get delivered.
+     Additionally, as we get into the second half of the year, it is important to note that we are still ramping Cybertruck and Model 3 and are also getting impacted by varying amounts of tariffs on both raw materials and finished goods.
+     While our teams are working feverishly to offset these, unfortunately it may have an impact on the cost in the near-term.
+     We previously talked about the potential of the energy business and now feel excited that the foundation that was laid over time is bearing the expected results.
+     Energy storage deployments more than doubled with contribution not just from Megapack, but also Powerwall, resulting in record revenues and profit for the energy business.
+     Energy storage backlog is strong.
+-----
+7. [Sentence #2313, TSLA_Q4_2024] [PILOT]
+     It's going to happen.
+     And you can't stop the advent of electric cars.
+     It's going to happen.
+     The other thing holding back electric cars was range and that is a solved problem.
+     Dan Levy -- Analyst
+
+Great.
+     And then as a follow-up, in the past, Elon, you had made a comment that you'd be willing to sell cars at effectively no margin to get the cars out there.
+     And there's a comment in the release today of the rate of acceleration of the autonomy efforts does impact volume growth.
+>>> So, perhaps you could just talk about with your efforts on FSD, how we should think about your desire to put more vehicles out in the market to take advantage of your tech advances?
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+So, I'm not sure I understand the question.
+     We have a lot of cars.
+     I mean, you've got millions of cars out there.
+     Ashok Elluswamy -- Director, Autopilot Software
+
+So, is there a question, Dan, that how do we marry our future growth aspects with FSD?
+     Travis Axelrod -- Head of Investor Relations
+
+Go ahead, unmute yourself, Dan.
+     Dan Levy -- Analyst
+
+Yes.
+     More so just how much more aggressively you would be willing to sell your cars versus in light of your improvements on FSD?
+-----
+8. [Sentence #1200, TSLA_Q3_2024] [PILOT]
+     And the release of actually Smart -- we try to have a sense of humor here.
+     And we're also -- so that's 12.5.
+     Version 13 of FSD is going out soon.
+     will elaborate more on that later in the call.
+     We expect to see roughly a five- or sixfold improvement in miles between interventions compared to 12.5.
+     And actually, looking at the year as whole, the improvement in miles interventions, we think will be at least three orders of magnitude.
+     So, that's a very dramatic improvement in the course of the year, and we expect that trend to continue next year.
+>>> So, the current total expectation, internal expectation for the Tesla FSD having longer miles between versions than human is the second quarter of next year, which means it may end up being in the third quarter, but it's next -- it seems extremely likely to be next year.
+     Ashok, do you want to say anything?
+     Ashok Elluswamy -- Director, Autopilot Software
+
+Yeah.
+     Miles between critical interventions, like you mentioned, Elon, we already made 100x improvement with 12.5 from starting of this year and then with v13 release.
+     We expect to be 1,000x from the beginning, from January of this year on production software.
+     And this came in because of technology improvements going to end to end, having higher frame rate, partly also helped by Hardware force, more capabilities, so on.
+     And we hope that we continue to scale the neural network, the data, the training compute, etc.
+     By Q2 next year, we should cross over the average, even in miles per critical intervention collision, in that case.
+-----
+9. [Sentence #2317, TSLA_Q4_2024] [PILOT]
+     Dan Levy -- Analyst
+
+Great.
+     And then as a follow-up, in the past, Elon, you had made a comment that you'd be willing to sell cars at effectively no margin to get the cars out there.
+     And there's a comment in the release today of the rate of acceleration of the autonomy efforts does impact volume growth.
+     So, perhaps you could just talk about with your efforts on FSD, how we should think about your desire to put more vehicles out in the market to take advantage of your tech advances?
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+So, I'm not sure I understand the question.
+     We have a lot of cars.
+     I mean, you've got millions of cars out there.
+>>> Ashok Elluswamy -- Director, Autopilot Software
+
+So, is there a question, Dan, that how do we marry our future growth aspects with FSD?
+     Travis Axelrod -- Head of Investor Relations
+
+Go ahead, unmute yourself, Dan.
+     Dan Levy -- Analyst
+
+Yes.
+     More so just how much more aggressively you would be willing to sell your cars versus in light of your improvements on FSD?
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+Well, right now, the constraint we're trying to solve is battery production as opposed to demand.
+     And now Q1, we've got this massive factory retooling for the new Model Y, for example.
+     That obviously has a short-term impact on output.
+     But the problem we were saying with, in fact, we're talking that the executive team and I were talking about just before this call was we've got to figure out how to increase total gigawatt hours of battery production this year one way or another.
+-----
+10. [Sentence #2320, TSLA_Q4_2024] [PILOT]
+     So, perhaps you could just talk about with your efforts on FSD, how we should think about your desire to put more vehicles out in the market to take advantage of your tech advances?
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+So, I'm not sure I understand the question.
+     We have a lot of cars.
+     I mean, you've got millions of cars out there.
+     Ashok Elluswamy -- Director, Autopilot Software
+
+So, is there a question, Dan, that how do we marry our future growth aspects with FSD?
+     Travis Axelrod -- Head of Investor Relations
+
+Go ahead, unmute yourself, Dan.
+     Dan Levy -- Analyst
+
+Yes.
+>>> More so just how much more aggressively you would be willing to sell your cars versus in light of your improvements on FSD?
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+Well, right now, the constraint we're trying to solve is battery production as opposed to demand.
+     And now Q1, we've got this massive factory retooling for the new Model Y, for example.
+     That obviously has a short-term impact on output.
+     But the problem we were saying with, in fact, we're talking that the executive team and I were talking about just before this call was we've got to figure out how to increase total gigawatt hours of battery production this year one way or another.
+     That's the constraint on our output.
+     Travis Axelrod -- Head of Investor Relations
+
+Great.
+     All right.
+-----
+11. [Sentence #573, TSLA_Q1_2024] [PLAN]
+     It's not like we want to take on a whole bunch of problems just for the hell of it.
+     We did the cell program in order to address the crazy increase in cost per kilowatt hour from our suppliers due to gigantic orders placed by every carmaker on earth.
+     Martin Viecha
+
+Okay.
+     Thank you.
+     And the last question comes from Ben Kallo from Baird.
+     Ben, go ahead and unmute.
+     Ben, you're still muted.
+>>> Elon Musk
+
+Well, I want to say again, we'd just like to strongly recommend that anyone who is, I guess, thinking about the Tesla stock should really drive FSD 12.3.
+     It really – you can't – it's impossible to understand the company if you do not do this.
+     Martin Viecha
+
+All right.
+     So since Ben is not unmuting.
+     Let's try Shreyas Patil from Wolfe Research.
+     Final question.
+     Shreyas Patil
+
+Thanks so much.
+     Just Elon, during the Investor Day last year, you mentioned that auto COGS per unit for the next-gen vehicle would decline by 50% versus the current three and Y. I think that was implying something around $20,000 of COGS.
+-----
+12. [Sentence #982, TSLA_Q2_2024] [PLAN]
+     So it's -- there's this capability I think in our experience, once we demonstrate that something is safe enough or significantly safer than human.
+     We are fine that regulators are supportive of deploying deployment of that capability.
+     It's difficult to argue with if you -- if you've got a large number of -- yes, if you've got billions of miles that show that in the future unsupervised FSD is safer than human.
+     What regulator could really stand in the way of that?
+     They would -- they're morally obligated to approve.
+     So I don't think regulatory approval will be a limiting factor.
+     I should also say that the self-driving capabilities of this are deployed outside of North America are far behind that in, in North America.
+>>> So with the -- with Version 12.5, and maybe a 12.6, but pretty soon we will ask for regular regulatory approval of the Tesla supervised FSD in Europe, China, and other countries.
+     And I, I think we're likely to receive that before the end of the year, which will be a helpful demand driver in those regions obviously.
+     Travis Axelrod
+
+Thank you.
+     Just to …
+
+Elon Musk
+
+Go ahead, Travis.
+     Travis Axelrod
+
+In terms of like, as Elon said, in terms of regulatory approval, the vehicles are governed by FMVSS in U.S., which is the same across all 50 states.
+     The road rules are the same across all 50 states.
+     So creating a generalized solution gives us the best opportunity to deploy in all 50 states, reasonably.
+     Of course there are state and even local and municipal level regulations that may apply to, being a transportation company or deploying taxes.
+-----
+13. [Sentence #1462, TSLA_Q3_2024] [PILOT]
+     The car -- this is like, again, a fundamental technology advantage and structural advantage compared to the rest of the auto industry.
+     Vaibhav Taneja -- Chief Financial Officer
+
+I think it's underappreciated as to what all we are able to do.
+     And that's why -- because like I said before, most of our cars, except for Cybertruck, look the same, so people don't realize that it has so much capability.
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+But they look better than other cars, but they're not like obviously super futuristic.
+     Travis Axelrod -- Head of Investor Relations
+
+Great.
+     Thank you very much.
+     The next question is, please provide an update on the Semi.
+>>> What will the next stage growth look like and when will FSD be ready?
+     Unknown speaker -- -- Analyst
+
+Sure.
+     So, as you -- we posted in the earnings we're progressing swiftly on the build of the Semi factory, our data factory in Reno.
+     We've released all our major cash flow expenditures for that program, and we're on track to start pilot builds in the second half of next year with production starting in the first half of 2026 and ramping really throughout the year to full production.
+     Semi growth will largely depend on our customers' adoption of the product.
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+Well, I don't think we're going to be limited, honestly.
+     Unknown speaker -- -- Analyst
+
+Which I can say -- which is like a no-brainer for the Semi because it's really a commodity of total cost of ownership.
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+Yes, exactly.
+-----
+14. [Sentence #1306, TSLA_Q3_2024] [UNCERTAIN]
+     Thank you very much, Elon.
+     And Vaibhav has some opening remarks as well.
+     Vaibhav Taneja -- Chief Financial Officer
+
+Thanks.
+     Our Q3 results were positive and once again demonstrate the scale to which the business has evolved or with generation of record operating cash flows of $6.3 billion.
+     Our automotive revenues grew both quarter on quarter and year on year.
+     While we had unit volume growth, we did experience a reduction in ASPs primarily due to the impact of financing incentives.
+     As a reminder, we are providing these incentives primarily using third-party banks and financial institutions and recognize the cost of these incentives as an upfront reduction to revenue.
+>>> We released FSD for Cybertruck and other features like actually Smart Summon, like Elon talked about, in North America, which contributed $326 million of revenues in the quarter.
+     We continue to see elevated levels of regulatory credit sales with over $2 billion of revenues so far this year.
+     To expand on this at an industry level, China continues to outperform U.S.
+
+and Europe by a factor of three.
+     And if there is something to be learned from that, this gives a signal of what is to come in other regions.
+     As customers' acceptance of EV growth, we feel that is the right strategy to build affordable and more compelling leads.
+     Our focus remains on growing unit volume while avoiding a buildup of inventory.
+     To support this strategy, we're continuing to offer extremely compelling vehicle financing options in When you compare any vehicle in our lineup with other OEMs, we believe our vehicles provide much better value, particularly when you consider the safety features, performance and unparalleled software functionalities, like David also talked about, include also what Ashok had talked about around autonomy, music options, parental controls, and much more.
+     While every vehicle in our lineup comes up with these capabilities, there is an awareness gap not just with buyers but at times even with existing owners.
+-----
+15. [Sentence #28, TSLA_Q1_2024] [UNCERTAIN]
+     These new vehicles, including more affordable models, will use aspects of the next generation platform as well as aspects of our current platforms, and will be able to produce on the same manufacturing lines as our current vehicle lineup.
+     So it's not contingent on any new factory or massive new production line.
+     It'll be made on our current production lines much more efficiently.
+     And we think this should allow us to get to over 3 million vehicles of capacity when realized to the full extent.
+     Regarding FSD Version 12, which is the pure AI-based self-driving, if you haven't experienced this, I strongly urge you to try it out.
+     It's profound and the rate of improvement is rapid so – and we've now turned that on for all cars with the cameras and inference computer and everything from Hardware 3 on in North America.
+     So it's been pushed out to, I think, around 1.8 million vehicles and we're seeing about half of people use it so far and that percentage is increasing with each passing week.
+>>> So, we now have over 300 billion miles that have been driven with FSD V12.
+     Since the launch of full self-driving, supervised full self-driving, it's become very clear that the vision-based approach with end-to-end neural networks is the right solution for scalable autonomy.
+     It's really how humans drive.
+     Our entire road network is designed for biological neural nets and eyes.
+     So naturally cameras and digital neural nets are the solution to our current road system.
+     To make it more accessible, we've reduced the subscription price to $99 a month, so it's easy to try out.
+     And as we've announced, we'll be showcasing our purpose-built Robotaxi, or Cybercab, in August.
+     Yes.
+-----
+16. [Sentence #1911, TSLA_Q4_2024] [PLAN]
+     As Elon mentioned, in Q4, we set records of vehicle deliveries and energy storage deployments in an uncertain macro environment.
+     We were able to grow auto and energy storage volumes, both sequentially and on a year-on-year basis.
+     For this, I would like to thank the efforts of everyone at Tesla to make this a reality, and our customers who helped us achieve this.
+     Coming into the fourth quarter, our focus was to reduce inventory levels in the automotive business, and we accomplished that by ending the quarter with the lowest finished good inventory in the last two years.
+     This was a result of offering not only attractive financing options but also other discounts and programs, which impacted ASPs.
+     While we saw volume growth in almost all regions that we operate in, we hit a new record for deliveries in the Greater China market.
+     This is an encouraging trend since we grew volume in a highly competitive BEV market.
+>>> On the automotive margin front, we saw a quarter-over-quarter decline primarily due to lower ASPs than due to the recognition of FSD-related revenue in Q3 from feature releases.
+     Our journey on cost reduction continues, and we were able to get our overall cost per car down below $35,000, driven primarily by material costs.
+     This was despite increased depreciation and other costs as we prepare for the transition to the new Model Y, for which we recently started taking orders in all markets.
+     All our factories will start producing the new Model Y next month.
+     While we feel confident in our team's abilities to ramp production quickly, note that it is an unprecedented change, and we are not aware of anybody else taking the best-selling car on the planet and updating all factories at the same time.
+     This changeover will result in several weeks of lost production in the quarter.
+     As a result, margins will be impacted due to idle capacity and other ramp-related costs, as is common in any launch but will be overcome as production is ramped.
+     We will be introducing several new products throughout 2025.
+-----
+17. [Sentence #15, TSLA_Q1_2024] [PLAN]
+     Please use the raise hand button to join the question queue.
+     But before we jump into Q&A, Elon has some opening remarks.
+     Elon?
+     Elon Musk
+
+Thanks, Martin.
+     So to recap, in Q1 we navigated several unforeseen challenges as well as the ramp of the updated Model 3 in Fremont.
+     There was, as we all have seen, the EV adoption rate globally is under pressure and a lot of other auto manufacturers are pulling back on EVs and pursuing plug-in hybrids instead.
+     We believe this is not the right strategy and electric vehicles will ultimately dominate the market.
+>>> Despite these challenges, the Tesla team did a great job executing in a tough environment and energy storage deployments, the Megapack in particular, reached an all-time high in Q1, leading to record profitability for the energy business, and that looks likely to continue to increase in the quarters and years ahead.
+     It will increase.
+     We actually know that it will, so significantly faster than the car business as we expected.
+     We also continue to expand our AI training capacity in Q1, more than doubling our training compute sequentially.
+     In terms of the new product roadmap, there has been a lot of talk about our upcoming vehicle line in the next – in the past several weeks.
+     We've updated our future vehicle lineup to accelerate the launch of new models ahead, previously mentioned startup production in the second half of 2025, so we expect it to be more like the early 2025, if not late this year.
+     These new vehicles, including more affordable models, will use aspects of the next generation platform as well as aspects of our current platforms, and will be able to produce on the same manufacturing lines as our current vehicle lineup.
+     So it's not contingent on any new factory or massive new production line.
+-----
+
+Total context windows: 17

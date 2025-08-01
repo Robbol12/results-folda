@@ -1,0 +1,83 @@
+[Multi-Year Analysis] Has Tesla’s Autopilot and FSD take rate increased globally between 2022 and 2024, and did they achieve profitability from FSD as predicted?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #2]  (TSLA_Q3_2023) Regarding **Autopilot** and AI, our vehicles are now driven over 0.5 billion miles with **FSD** beta, full self-driving beta, and that number is growing rapidly.
+2. [Sentence #27]  (TSLA_Q2_2022) Regarding **Autopilot**, we have now deployed our **FSD** beta with City Streets driving capability to over 100,000 owners.
+3. [Sentence #40]  (TSLA_Q1_2023) Regarding **Autopilot** and Full Self-Driving, we've now crossed over 150 million miles driven by Full Self-Driving beta, and this number is growing exponentially.
+4. [Sentence #54]  (TSLA_Q2_2024) Although the numbers sound crazy, I think Tesla producing at volume with unsupervised **FSD** essentially enabling the fleet to operate like a giant autonomous fleet.
+5. [Sentence #54]  (TSLA_Q3_2024) So, the current total expectation, internal expectation for the Tesla **FSD** having longer miles between versions than human is the second quarter of next year, which means it may end up being in the third quarter, but it's next -- it seems extremely likely to be next year.
+6. [Sentence #74]  (TSLA_Q3_2024) So, the ****take** **rate**** for **FSD** has improved substantially, especially after the 10/10 event.
+7. [Sentence #77]  (TSLA_Q2_2024) Since the revision of **FSD** pricing in North America, we've seen production rates increase meaningfully and expect this to be a driver of vehicle sales as the feature set improves further.
+8. [Sentence #132]  (TSLA_Q3_2022) We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue production at a 50% or greater compound annual growth **rate**.
+9. [Sentence #153]  (TSLA_Q3_2023) The next question is, why was the price dropped on **FSD** if it is getting better and robotaxi is expected so soon?
+10. [Sentence #155]  (TSLA_Q3_2023) Yes, I think, over time, the price of **FSD** will increase proportionate to its value.
+11. [Sentence #159]  (TSLA_Q3_2023) Is Tesla planning to accept legal liability for **FSD**?
+12. [Sentence #167]  (TSLA_Q2_2024) Is Tesla still in talks with an OEM to license **FSD**?
+13. [Sentence #211]  (TSLA_Q1_2024) The next question, have any of the legacy automakers contacted Tesla about possibly licensing **FSD** in the future?
+14. [Sentence #223]  (TSLA_Q1_2023) I was wondering, first, if you could discuss your **FSD** **take** rates and whether you've seen any significant positive or negative change there?
+15. [Sentence #226]  (TSLA_Q1_2023) Elon Musk
+
+Well, I can kind of answer the details on the **FSD** ****take** **rate****, but the -- it's a tricky pricing question, because the value of a car that is autonomous is enormous.
+16. [Sentence #247]  (TSLA_Q3_2023) And so I’m wondering how you **take** that into account and how you’re thinking like the financial contribution of **FSD** over time and whether you could evolve your pricing along that kind of tiers to increase adoption.
+17. [Sentence #343]  (TSLA_Q4_2022) And so, I was wondering, how much is this like impacting the ****take** **rate**** of **FSD** today?
+18. [Sentence #343]  (TSLA_Q2_2024) So with the -- with Version 12.5, and maybe a 12.6, but pretty soon we will ask for regular regulatory approval of the Tesla supervised **FSD** in Europe, China, and other countries.
+19. [Sentence #344]  (TSLA_Q4_2022) So do you already see that people are getting more excited by **FSD**, because they see it around them on 400,000 cars and they see the value of the service already, or is that too early to really see like, to expect like an uptick in the ****take** **rate****?
+20. [Sentence #367]  (TSLA_Q4_2022) There's enhanced **Autopilot**, the price of which is listed on the website.
+21. [Sentence #374]  (TSLA_Q2_2024) And maybe just as a follow-up, I think you mentioned, that **FSD** **take** rates were up materially after you reduced the price.
+22. [Sentence #424]  (TSLA_Q2_2023) And would Tesla benefit from lowering the price of **FSD**?
+23. [Sentence #452]  (TSLA_Q2_2022) Could you talk a little bit about the pricing strategy around **FSD**, and as you get closer to this full functionality rolling out and the increased cycle times, how you see that evolving through the balance of this year and into 2023?
+24. [Sentence #454]  (TSLA_Q2_2022) We will increase the price of **FSD** sometime later this year.
+25. [Sentence #507]  (TSLA_Q1_2022) Are there any metrics you can share on what **take** rates have been like?
+26. [Sentence #527]  (TSLA_Q1_2022) We see that in the ****take** **rate**** data, we have extremely high retention for customers who experience the product.
+27. [Sentence #573]  (TSLA_Q1_2024) Elon Musk
+
+Well, I want to say again, we'd just like to strongly recommend that anyone who is, I guess, thinking about the Tesla stock should really drive **FSD** 12.3.
+28. [Sentence #576]  (TSLA_Q4_2024) So, perhaps you could just talk about with your efforts on **FSD**, how we should think about your desire to put more vehicles out in the market to **take** advantage of your tech advances?
+29. [Sentence #580]  (TSLA_Q4_2024) Ashok Elluswamy -- Director, **Autopilot** Software
+
+So, is there a question, Dan, that how do we marry our future growth aspects with **FSD**?
+30. [Sentence #583]  (TSLA_Q4_2024) More so just how much more aggressively you would be willing to sell your cars versus in light of your improvements on **FSD**?
+
+Total transcript-order evidence sentences: 30
+
+--- Evidence by Similarity ---
+1. [Sentence #344]  (TSLA_Q4_2022) (Similarity: 1.216) So do you already see that people are getting more excited by **FSD**, because they see it around them on 400,000 cars and they see the value of the service already, or is that too early to really see like, to expect like an uptick in the ****take** **rate****?
+2. [Sentence #226]  (TSLA_Q1_2023) (Similarity: 1.208) Elon Musk
+
+Well, I can kind of answer the details on the **FSD** ****take** **rate****, but the -- it's a tricky pricing question, because the value of a car that is autonomous is enormous.
+3. [Sentence #343]  (TSLA_Q4_2022) (Similarity: 1.138) And so, I was wondering, how much is this like impacting the ****take** **rate**** of **FSD** today?
+4. [Sentence #74]  (TSLA_Q3_2024) (Similarity: 1.048) So, the ****take** **rate**** for **FSD** has improved substantially, especially after the 10/10 event.
+5. [Sentence #374]  (TSLA_Q2_2024) (Similarity: 0.962) And maybe just as a follow-up, I think you mentioned, that **FSD** **take** rates were up materially after you reduced the price.
+6. [Sentence #223]  (TSLA_Q1_2023) (Similarity: 0.950) I was wondering, first, if you could discuss your **FSD** **take** rates and whether you've seen any significant positive or negative change there?
+7. [Sentence #2]  (TSLA_Q3_2023) (Similarity: 0.820) Regarding **Autopilot** and AI, our vehicles are now driven over 0.5 billion miles with **FSD** beta, full self-driving beta, and that number is growing rapidly.
+8. [Sentence #424]  (TSLA_Q2_2023) (Similarity: 0.807) And would Tesla benefit from lowering the price of **FSD**?
+9. [Sentence #54]  (TSLA_Q2_2024) (Similarity: 0.774) Although the numbers sound crazy, I think Tesla producing at volume with unsupervised **FSD** essentially enabling the fleet to operate like a giant autonomous fleet.
+10. [Sentence #27]  (TSLA_Q2_2022) (Similarity: 0.739) Regarding **Autopilot**, we have now deployed our **FSD** beta with City Streets driving capability to over 100,000 owners.
+11. [Sentence #452]  (TSLA_Q2_2022) (Similarity: 0.731) Could you talk a little bit about the pricing strategy around **FSD**, and as you get closer to this full functionality rolling out and the increased cycle times, how you see that evolving through the balance of this year and into 2023?
+12. [Sentence #211]  (TSLA_Q1_2024) (Similarity: 0.731) The next question, have any of the legacy automakers contacted Tesla about possibly licensing **FSD** in the future?
+13. [Sentence #247]  (TSLA_Q3_2023) (Similarity: 0.727) And so I’m wondering how you **take** that into account and how you’re thinking like the financial contribution of **FSD** over time and whether you could evolve your pricing along that kind of tiers to increase adoption.
+14. [Sentence #167]  (TSLA_Q2_2024) (Similarity: 0.718) Is Tesla still in talks with an OEM to license **FSD**?
+15. [Sentence #77]  (TSLA_Q2_2024) (Similarity: 0.714) Since the revision of **FSD** pricing in North America, we've seen production rates increase meaningfully and expect this to be a driver of vehicle sales as the feature set improves further.
+16. [Sentence #576]  (TSLA_Q4_2024) (Similarity: 0.705) So, perhaps you could just talk about with your efforts on **FSD**, how we should think about your desire to put more vehicles out in the market to **take** advantage of your tech advances?
+17. [Sentence #54]  (TSLA_Q3_2024) (Similarity: 0.703) So, the current total expectation, internal expectation for the Tesla **FSD** having longer miles between versions than human is the second quarter of next year, which means it may end up being in the third quarter, but it's next -- it seems extremely likely to be next year.
+18. [Sentence #580]  (TSLA_Q4_2024) (Similarity: 0.693) Ashok Elluswamy -- Director, **Autopilot** Software
+
+So, is there a question, Dan, that how do we marry our future growth aspects with **FSD**?
+19. [Sentence #527]  (TSLA_Q1_2022) (Similarity: 0.689) We see that in the ****take** **rate**** data, we have extremely high retention for customers who experience the product.
+20. [Sentence #155]  (TSLA_Q3_2023) (Similarity: 0.686) Yes, I think, over time, the price of **FSD** will increase proportionate to its value.
+21. [Sentence #367]  (TSLA_Q4_2022) (Similarity: 0.685) There's enhanced **Autopilot**, the price of which is listed on the website.
+22. [Sentence #132]  (TSLA_Q3_2022) (Similarity: 0.682) We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue production at a 50% or greater compound annual growth **rate**.
+23. [Sentence #583]  (TSLA_Q4_2024) (Similarity: 0.682) More so just how much more aggressively you would be willing to sell your cars versus in light of your improvements on **FSD**?
+24. [Sentence #573]  (TSLA_Q1_2024) (Similarity: 0.678) Elon Musk
+
+Well, I want to say again, we'd just like to strongly recommend that anyone who is, I guess, thinking about the Tesla stock should really drive **FSD** 12.3.
+25. [Sentence #507]  (TSLA_Q1_2022) (Similarity: 0.669) Are there any metrics you can share on what **take** rates have been like?
+26. [Sentence #40]  (TSLA_Q1_2023) (Similarity: 0.667) Regarding **Autopilot** and Full Self-Driving, we've now crossed over 150 million miles driven by Full Self-Driving beta, and this number is growing exponentially.
+27. [Sentence #159]  (TSLA_Q3_2023) (Similarity: 0.659) Is Tesla planning to accept legal liability for **FSD**?
+28. [Sentence #343]  (TSLA_Q2_2024) (Similarity: 0.658) So with the -- with Version 12.5, and maybe a 12.6, but pretty soon we will ask for regular regulatory approval of the Tesla supervised **FSD** in Europe, China, and other countries.
+29. [Sentence #153]  (TSLA_Q3_2023) (Similarity: 0.649) The next question is, why was the price dropped on **FSD** if it is getting better and robotaxi is expected so soon?
+30. [Sentence #454]  (TSLA_Q2_2022) (Similarity: 0.647) We will increase the price of **FSD** sometime later this year.
+
+Total similarity-top evidence sentences: 30
+
+-----
