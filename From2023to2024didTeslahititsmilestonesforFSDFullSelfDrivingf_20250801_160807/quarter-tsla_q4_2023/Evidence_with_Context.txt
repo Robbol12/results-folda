@@ -1,0 +1,78 @@
+[TSLA_Q4_2023] From 2023 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+1. [Sentence #40] [PLAN]
+     I said for many years that the storage business would grow much faster than the car business, and it is doing that.
+     Free cash flow remains strong at $4.4 billion in 2023, in spite of record spending on future projects.
+     So we had record CapEx expenses as well as record R&D.
+     This brings us to 2024.
+     There's a lot to look forward to in 2024.
+     Tesla is currently between two major growth waves.
+     We're focused on making sure that our next growth wave, driven by next-gen vehicle, energy storage, full self-driving, other projects, is executed as well as possible.
+>>> For full self-driving, we've released Version 12, which is a complete architectural rewrite compared to prior versions.
+     This is end-to-end artificial intelligence.
+     So another bit nets basically photons in and controls out, and it really is quite a profound difference.
+     This is currently just with employees and a few customers, but we will be rolling out to all customers in the U.S. who request full self-driving in the weeks to come.
+     That's over 400,000 vehicles in North America.
+     So this is the first-time AI is being used, not just for object perception, but for path planning and vehicle controls.
+     We replaced 330,000 lines of C++ code with neural nets.
+     It's really quite remarkable.
+-----
+2. [Sentence #39] [PLAN]
+     And yeah, I think we'll continue to see very strong growth in storage, as predicted.
+     I said for many years that the storage business would grow much faster than the car business, and it is doing that.
+     Free cash flow remains strong at $4.4 billion in 2023, in spite of record spending on future projects.
+     So we had record CapEx expenses as well as record R&D.
+     This brings us to 2024.
+     There's a lot to look forward to in 2024.
+     Tesla is currently between two major growth waves.
+>>> We're focused on making sure that our next growth wave, driven by next-gen vehicle, energy storage, full self-driving, other projects, is executed as well as possible.
+     For full self-driving, we've released Version 12, which is a complete architectural rewrite compared to prior versions.
+     This is end-to-end artificial intelligence.
+     So another bit nets basically photons in and controls out, and it really is quite a profound difference.
+     This is currently just with employees and a few customers, but we will be rolling out to all customers in the U.S. who request full self-driving in the weeks to come.
+     That's over 400,000 vehicles in North America.
+     So this is the first-time AI is being used, not just for object perception, but for path planning and vehicle controls.
+     We replaced 330,000 lines of C++ code with neural nets.
+-----
+3. [Sentence #43] [PLAN]
+     This brings us to 2024.
+     There's a lot to look forward to in 2024.
+     Tesla is currently between two major growth waves.
+     We're focused on making sure that our next growth wave, driven by next-gen vehicle, energy storage, full self-driving, other projects, is executed as well as possible.
+     For full self-driving, we've released Version 12, which is a complete architectural rewrite compared to prior versions.
+     This is end-to-end artificial intelligence.
+     So another bit nets basically photons in and controls out, and it really is quite a profound difference.
+>>> This is currently just with employees and a few customers, but we will be rolling out to all customers in the U.S. who request full self-driving in the weeks to come.
+     That's over 400,000 vehicles in North America.
+     So this is the first-time AI is being used, not just for object perception, but for path planning and vehicle controls.
+     We replaced 330,000 lines of C++ code with neural nets.
+     It's really quite remarkable.
+     Yeah, sort of, as a side note, I think Tesla is probably the most efficient company in the world for AI inference.
+     Out of necessity, we've actually had to be extremely good at getting the most out of hardware, because Hardware 3 at this point is several years old.
+     So I think we're quite far ahead of any other company in the world in terms of AI and inference efficiency, which is going to be a very important metric in the future in many arenas.
+-----
+4. [Sentence #227] [SCALE ACHIEVED]
+     I still have mental scar tissue from those three years, as do many.
+     And then Model Y was somewhat of a variant on Model 3.
+     So a much easier situation.
+     And then we were able to actually do an improved -- slightly improved versions of, in some cases, significantly improved versions of the Model Y production line in Shanghai and Berlin.
+     And that's the right, I think the sensible way to go about things is kind of figure out the core technology of the manufacturing line and then replicate it with improvements throughout the world.
+     Martin Viecha
+
+Thank you.
+     The next question from Michael is, has there been any progress made with an FSD licensing agreement with another company?
+>>> Elon Musk
+
+I really think lots of car companies should be asking for FSD licenses.
+     And we've had some tentative conversations, but I think they don't believe it's real quite yet.
+     I think that will become obvious probably this year.
+     And I do want to emphasize that if I were CEO of another car company, I would definitely be calling Tesla and asking to license Tesla full self-driving technology.
+     It's definitely the smart move.
+     Martin Viecha
+
+Thank you.
+     The next question from Siddharth.
+     What is the timeline for Optimus first production off volume production line and what are the barriers to getting there?
+-----
+
+Total context windows: 4

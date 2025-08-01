@@ -1,0 +1,25 @@
+[TSLA_Q1_2024] From 2023 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #25]  Regarding **FSD** Version 12, which is the pure AI-based self-driving, if you haven't experienced this, I strongly urge you to try it out.
+2. [Sentence #28]  So, we now have over 300 billion miles that have been driven with **FSD** V12.
+3. [Sentence #211]  The next question, have any of the legacy automakers contacted Tesla about possibly licensing **FSD** in the future?
+4. [Sentence #365]  And is there anything Tesla needs to achieve with the technology in terms of product **milestones** in order to be successful at reaching a licensing agreement in your view?
+5. [Sentence #573]  Elon Musk
+
+Well, I want to say again, we'd just like to strongly recommend that anyone who is, I guess, thinking about the Tesla stock should really drive **FSD** 12.3.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #211]  (Similarity: 0.814) The next question, have any of the legacy automakers contacted Tesla about possibly licensing **FSD** in the future?
+2. [Sentence #365]  (Similarity: 0.711) And is there anything Tesla needs to achieve with the technology in terms of product **milestones** in order to be successful at reaching a licensing agreement in your view?
+3. [Sentence #573]  (Similarity: 0.706) Elon Musk
+
+Well, I want to say again, we'd just like to strongly recommend that anyone who is, I guess, thinking about the Tesla stock should really drive **FSD** 12.3.
+4. [Sentence #28]  (Similarity: 0.641) So, we now have over 300 billion miles that have been driven with **FSD** V12.
+5. [Sentence #25]  (Similarity: 0.637) Regarding **FSD** Version 12, which is the pure AI-based self-driving, if you haven't experienced this, I strongly urge you to try it out.
+
+Total similarity-top evidence sentences: 5
+
+-----

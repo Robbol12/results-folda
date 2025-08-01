@@ -1,0 +1,113 @@
+[TSLA_Q1_2024] From 2023 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+1. [Sentence #211] [SCALE ACHIEVED]
+     Lars Moravy
+
+I can take that one too.
+     Cybertruck had 1K a week just a couple of weeks ago.
+     This happened in the first four to five months since we SOP [ph] late last year.
+     Of course, volume production is what matters.
+     That’s what drives costs and so our costs are dropping, but the ramp still faces like a lot of challenges with so many new technologies, some supplier limitations, et cetera, and continue to ramp this year, just focusing on cost efficiency and quality.
+     Martin Viecha
+
+Okay.
+     Thank you.
+>>> The next question, have any of the legacy automakers contacted Tesla about possibly licensing FSD in the future?
+     Elon Musk
+
+We’re in conversations with one major automaker regarding licensing FSD.
+     Martin Viecha
+
+Thank you.
+     The next question is about the robotaxi unveil.
+     Elon already talked about that.
+     So we’ll have to wait till August.
+     The following question is about the next-generation vehicle.
+     We already talked about that.
+-----
+2. [Sentence #365] [UNCERTAIN]
+     Let's go to Mark Delaney from Goldman Sachs.
+     Mark please go ahead and unmute.
+     Mark Delaney
+
+Yes.
+     Good afternoon.
+     Thanks very much for taking the question.
+     The company previously characterized potential FSD licensing discussions in the early phase and some OEMs had not really been believing in it.
+     Can you elaborate on how much the licensing business opportunity you mentioned today has progressed?
+>>> And is there anything Tesla needs to achieve with the technology in terms of product milestones in order to be successful at reaching a licensing agreement in your view?
+     Elon Musk
+
+Well, I think we just need to – it just needs to be obvious that our approach is the right approach.
+     And I think it is.
+     I think we've now with 12.3, if you just have the car drive you around; it is obvious that our solution with a relatively low-cost inference computer and standard cameras can achieve self-driving.
+     No LiDARs, no radars, no ultrasonic nothing.
+     Vaibhav Taneja
+
+No heavy integration work for vehicle manufacturers.
+     Elon Musk
+
+Yes.
+     So it really just be a case of having them use the same cameras and inference computer and licensing our software.
+-----
+3. [Sentence #573] [PLAN]
+     It's not like we want to take on a whole bunch of problems just for the hell of it.
+     We did the cell program in order to address the crazy increase in cost per kilowatt hour from our suppliers due to gigantic orders placed by every carmaker on earth.
+     Martin Viecha
+
+Okay.
+     Thank you.
+     And the last question comes from Ben Kallo from Baird.
+     Ben, go ahead and unmute.
+     Ben, you're still muted.
+>>> Elon Musk
+
+Well, I want to say again, we'd just like to strongly recommend that anyone who is, I guess, thinking about the Tesla stock should really drive FSD 12.3.
+     It really – you can't – it's impossible to understand the company if you do not do this.
+     Martin Viecha
+
+All right.
+     So since Ben is not unmuting.
+     Let's try Shreyas Patil from Wolfe Research.
+     Final question.
+     Shreyas Patil
+
+Thanks so much.
+     Just Elon, during the Investor Day last year, you mentioned that auto COGS per unit for the next-gen vehicle would decline by 50% versus the current three and Y. I think that was implying something around $20,000 of COGS.
+-----
+4. [Sentence #28] [UNCERTAIN]
+     These new vehicles, including more affordable models, will use aspects of the next generation platform as well as aspects of our current platforms, and will be able to produce on the same manufacturing lines as our current vehicle lineup.
+     So it's not contingent on any new factory or massive new production line.
+     It'll be made on our current production lines much more efficiently.
+     And we think this should allow us to get to over 3 million vehicles of capacity when realized to the full extent.
+     Regarding FSD Version 12, which is the pure AI-based self-driving, if you haven't experienced this, I strongly urge you to try it out.
+     It's profound and the rate of improvement is rapid so – and we've now turned that on for all cars with the cameras and inference computer and everything from Hardware 3 on in North America.
+     So it's been pushed out to, I think, around 1.8 million vehicles and we're seeing about half of people use it so far and that percentage is increasing with each passing week.
+>>> So, we now have over 300 billion miles that have been driven with FSD V12.
+     Since the launch of full self-driving, supervised full self-driving, it's become very clear that the vision-based approach with end-to-end neural networks is the right solution for scalable autonomy.
+     It's really how humans drive.
+     Our entire road network is designed for biological neural nets and eyes.
+     So naturally cameras and digital neural nets are the solution to our current road system.
+     To make it more accessible, we've reduced the subscription price to $99 a month, so it's easy to try out.
+     And as we've announced, we'll be showcasing our purpose-built Robotaxi, or Cybercab, in August.
+     Yes.
+-----
+5. [Sentence #25] [PLAN]
+     We also continue to expand our AI training capacity in Q1, more than doubling our training compute sequentially.
+     In terms of the new product roadmap, there has been a lot of talk about our upcoming vehicle line in the next – in the past several weeks.
+     We've updated our future vehicle lineup to accelerate the launch of new models ahead, previously mentioned startup production in the second half of 2025, so we expect it to be more like the early 2025, if not late this year.
+     These new vehicles, including more affordable models, will use aspects of the next generation platform as well as aspects of our current platforms, and will be able to produce on the same manufacturing lines as our current vehicle lineup.
+     So it's not contingent on any new factory or massive new production line.
+     It'll be made on our current production lines much more efficiently.
+     And we think this should allow us to get to over 3 million vehicles of capacity when realized to the full extent.
+>>> Regarding FSD Version 12, which is the pure AI-based self-driving, if you haven't experienced this, I strongly urge you to try it out.
+     It's profound and the rate of improvement is rapid so – and we've now turned that on for all cars with the cameras and inference computer and everything from Hardware 3 on in North America.
+     So it's been pushed out to, I think, around 1.8 million vehicles and we're seeing about half of people use it so far and that percentage is increasing with each passing week.
+     So, we now have over 300 billion miles that have been driven with FSD V12.
+     Since the launch of full self-driving, supervised full self-driving, it's become very clear that the vision-based approach with end-to-end neural networks is the right solution for scalable autonomy.
+     It's really how humans drive.
+     Our entire road network is designed for biological neural nets and eyes.
+     So naturally cameras and digital neural nets are the solution to our current road system.
+-----
+
+Total context windows: 5

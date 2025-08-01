@@ -1,0 +1,17 @@
+[TSLA_Q3_2024] From 2023 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #54]  So, the current total expectation, internal expectation for the Tesla **FSD** having longer miles between versions than human is the second quarter of next year, which means it may end up being in the third quarter, but it's next -- it seems extremely likely to be next year.
+2. [Sentence #316]  What will the next stage growth look like and when will **FSD** be ready?
+3. [Sentence #363]  In fact, for the Tesla, once you get to **full** autonomy, you actually want fully a system that is -- can do anything.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #54]  (Similarity: 0.711) So, the current total expectation, internal expectation for the Tesla **FSD** having longer miles between versions than human is the second quarter of next year, which means it may end up being in the third quarter, but it's next -- it seems extremely likely to be next year.
+2. [Sentence #316]  (Similarity: 0.620) What will the next stage growth look like and when will **FSD** be ready?
+3. [Sentence #363]  (Similarity: 0.618) In fact, for the Tesla, once you get to **full** autonomy, you actually want fully a system that is -- can do anything.
+
+Total similarity-top evidence sentences: 3
+
+-----
