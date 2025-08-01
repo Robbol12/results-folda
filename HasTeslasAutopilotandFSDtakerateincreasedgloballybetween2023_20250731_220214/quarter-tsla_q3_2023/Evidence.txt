@@ -1,0 +1,21 @@
+[TSLA_Q3_2023] Has Tesla’s Autopilot and FSD take rate increased globally between 2023 and 2024, and did they achieve profitability from FSD as predicted?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #2]  Regarding **Autopilot** and AI, our vehicles are now driven over 0.5 billion miles with **FSD** beta, full self-driving beta, and that number is growing rapidly.
+2. [Sentence #153]  The next question is, why was the price dropped on **FSD** if it is getting better and robotaxi is expected so soon?
+3. [Sentence #155]  Yes, I think, over time, the price of **FSD** will increase proportionate to its value.
+4. [Sentence #159]  Is Tesla planning to accept legal liability for **FSD**?
+5. [Sentence #247]  And so I’m wondering how you **take** that into account and how you’re thinking like the financial contribution of **FSD** over time and whether you could evolve your pricing along that kind of tiers to increase adoption.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #2]  (Similarity: 0.822) Regarding **Autopilot** and AI, our vehicles are now driven over 0.5 billion miles with **FSD** beta, full self-driving beta, and that number is growing rapidly.
+2. [Sentence #247]  (Similarity: 0.732) And so I’m wondering how you **take** that into account and how you’re thinking like the financial contribution of **FSD** over time and whether you could evolve your pricing along that kind of tiers to increase adoption.
+3. [Sentence #155]  (Similarity: 0.690) Yes, I think, over time, the price of **FSD** will increase proportionate to its value.
+4. [Sentence #159]  (Similarity: 0.666) Is Tesla planning to accept legal liability for **FSD**?
+5. [Sentence #153]  (Similarity: 0.652) The next question is, why was the price dropped on **FSD** if it is getting better and robotaxi is expected so soon?
+
+Total similarity-top evidence sentences: 5
+
+-----

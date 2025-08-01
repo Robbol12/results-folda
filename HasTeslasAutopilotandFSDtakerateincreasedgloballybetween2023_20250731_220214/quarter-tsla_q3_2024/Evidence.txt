@@ -1,0 +1,19 @@
+[TSLA_Q3_2024] Has Tesla’s Autopilot and FSD take rate increased globally between 2023 and 2024, and did they achieve profitability from FSD as predicted?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #54]  So, the current total expectation, internal expectation for the Tesla **FSD** having longer miles between versions than human is the second quarter of next year, which means it may end up being in the third quarter, but it's next -- it seems extremely likely to be next year.
+2. [Sentence #74]  So, the ****take** **rate**** for **FSD** has improved substantially, especially after the 10/10 event.
+3. [Sentence #160]  We released **FSD** for Cybertruck and other features like actually Smart Summon, like Elon talked about, in North America, which contributed $326 million of revenues in the quarter.
+4. [Sentence #316]  What will the next stage growth look like and when will **FSD** be ready?
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #74]  (Similarity: 1.048) So, the ****take** **rate**** for **FSD** has improved substantially, especially after the 10/10 event.
+2. [Sentence #54]  (Similarity: 0.707) So, the current total expectation, internal expectation for the Tesla **FSD** having longer miles between versions than human is the second quarter of next year, which means it may end up being in the third quarter, but it's next -- it seems extremely likely to be next year.
+3. [Sentence #316]  (Similarity: 0.647) What will the next stage growth look like and when will **FSD** be ready?
+4. [Sentence #160]  (Similarity: 0.642) We released **FSD** for Cybertruck and other features like actually Smart Summon, like Elon talked about, in North America, which contributed $326 million of revenues in the quarter.
+
+Total similarity-top evidence sentences: 4
+
+-----

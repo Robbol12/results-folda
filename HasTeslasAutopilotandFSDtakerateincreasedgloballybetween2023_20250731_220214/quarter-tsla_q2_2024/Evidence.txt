@@ -1,0 +1,21 @@
+[TSLA_Q2_2024] Has Tesla’s Autopilot and FSD take rate increased globally between 2023 and 2024, and did they achieve profitability from FSD as predicted?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #54]  Although the numbers sound crazy, I think Tesla producing at volume with unsupervised **FSD** essentially enabling the fleet to operate like a giant autonomous fleet.
+2. [Sentence #77]  Since the revision of **FSD** pricing in North America, we've seen production rates increase meaningfully and expect this to be a driver of vehicle sales as the feature set improves further.
+3. [Sentence #167]  Is Tesla still in talks with an OEM to license **FSD**?
+4. [Sentence #343]  So with the -- with Version 12.5, and maybe a 12.6, but pretty soon we will ask for regular regulatory approval of the Tesla supervised **FSD** in Europe, China, and other countries.
+5. [Sentence #374]  And maybe just as a follow-up, I think you mentioned, that **FSD** **take** rates were up materially after you reduced the price.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #374]  (Similarity: 0.965) And maybe just as a follow-up, I think you mentioned, that **FSD** **take** rates were up materially after you reduced the price.
+2. [Sentence #54]  (Similarity: 0.775) Although the numbers sound crazy, I think Tesla producing at volume with unsupervised **FSD** essentially enabling the fleet to operate like a giant autonomous fleet.
+3. [Sentence #167]  (Similarity: 0.720) Is Tesla still in talks with an OEM to license **FSD**?
+4. [Sentence #77]  (Similarity: 0.716) Since the revision of **FSD** pricing in North America, we've seen production rates increase meaningfully and expect this to be a driver of vehicle sales as the feature set improves further.
+5. [Sentence #343]  (Similarity: 0.660) So with the -- with Version 12.5, and maybe a 12.6, but pretty soon we will ask for regular regulatory approval of the Tesla supervised **FSD** in Europe, China, and other countries.
+
+Total similarity-top evidence sentences: 5
+
+-----

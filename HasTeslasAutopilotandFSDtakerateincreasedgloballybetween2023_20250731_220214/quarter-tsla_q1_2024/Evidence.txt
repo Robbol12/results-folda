@@ -1,0 +1,23 @@
+[TSLA_Q1_2024] Has Tesla’s Autopilot and FSD take rate increased globally between 2023 and 2024, and did they achieve profitability from FSD as predicted?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #15]  Despite these challenges, the Tesla team did a great job executing in a tough environment and energy storage deployments, the Megapack in particular, reached an all-time high in Q1, leading to record **profitability** for the energy business, and that looks likely to continue to increase in the quarters and years ahead.
+2. [Sentence #28]  So, we now have over 300 billion miles that have been driven with **FSD** V12.
+3. [Sentence #211]  The next question, have any of the legacy automakers contacted Tesla about possibly licensing **FSD** in the future?
+4. [Sentence #573]  Elon Musk
+
+Well, I want to say again, we'd just like to strongly recommend that anyone who is, I guess, thinking about the Tesla stock should really drive **FSD** 12.3.
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #211]  (Similarity: 0.736) The next question, have any of the legacy automakers contacted Tesla about possibly licensing **FSD** in the future?
+2. [Sentence #573]  (Similarity: 0.681) Elon Musk
+
+Well, I want to say again, we'd just like to strongly recommend that anyone who is, I guess, thinking about the Tesla stock should really drive **FSD** 12.3.
+3. [Sentence #28]  (Similarity: 0.639) So, we now have over 300 billion miles that have been driven with **FSD** V12.
+4. [Sentence #15]  (Similarity: 0.608) Despite these challenges, the Tesla team did a great job executing in a tough environment and energy storage deployments, the Megapack in particular, reached an all-time high in Q1, leading to record **profitability** for the energy business, and that looks likely to continue to increase in the quarters and years ahead.
+
+Total similarity-top evidence sentences: 4
+
+-----
