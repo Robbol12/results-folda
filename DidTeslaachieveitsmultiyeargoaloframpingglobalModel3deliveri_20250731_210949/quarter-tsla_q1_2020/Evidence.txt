@@ -1,0 +1,31 @@
+[TSLA_Q1_2020] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #22]  After the ****Model** 3** **ramp** from three years ago, our new products get run faster and become profitable sooner.
+2. [Sentence #57]  So **Model** Y has remarkable range on par with -- in fact slightly better than, I guess, the ****Model** 3** and just despite being a bigger car that weighs more.
+3. [Sentence #66]  And we're really looking forward to being in sometime next year, a truly **global** manufacturer with major factories in ****North** **America****, **China** and **Europe** and a capacity of well over 1 million units a year.
+4. [Sentence #76]  This is our second large-scale product launch since ****Model** 3** in 2017 and it's evidence to the progress we've made on cost control and **ramp** efficiency.
+5. [Sentence #80]  We also announced a long-range and performance variant of ****Model** 3** for our road map, which will positively impact ASPs in **China**.
+6. [Sentence #95]  **Model** Y in Shanghai and Berlin are proceeding as planned and we're making progress on improving capacity for **Model** Y in Fremont and ****Model** 3** in Shanghai.
+7. [Sentence #100]  Note that one of the most important aspects of **Model** Y in Fremont and ****Model** 3** in Shanghai is the dramatically improved cash conversion cycle by locally producing and delivering vehicles.
+8. [Sentence #135]  And we're actually excited to announce on this call that we will be reducing the price of the standard range ****Model** 3** basically tomorrow, **China** time.
+9. [Sentence #140]  And on the manufacturing cost portion of the question, the cost of vehicles produced in Shanghai in Q1 is already lower than the cost to produce the ****Model** 3** in Fremont, and there's still significant opportunity left to take costs out.
+10. [Sentence #380]  And in addition to that, manufacturing processes are very similar to ****Model** 3** as well, and so we have experience with that both with ****Model** 3** in Fremont and then as well in Shanghai.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #66]  (Similarity: 1.360) And we're really looking forward to being in sometime next year, a truly **global** manufacturer with major factories in ****North** **America****, **China** and **Europe** and a capacity of well over 1 million units a year.
+2. [Sentence #135]  (Similarity: 1.003) And we're actually excited to announce on this call that we will be reducing the price of the standard range ****Model** 3** basically tomorrow, **China** time.
+3. [Sentence #76]  (Similarity: 0.999) This is our second large-scale product launch since ****Model** 3** in 2017 and it's evidence to the progress we've made on cost control and **ramp** efficiency.
+4. [Sentence #80]  (Similarity: 0.978) We also announced a long-range and performance variant of ****Model** 3** for our road map, which will positively impact ASPs in **China**.
+5. [Sentence #22]  (Similarity: 0.970) After the ****Model** 3** **ramp** from three years ago, our new products get run faster and become profitable sooner.
+6. [Sentence #95]  (Similarity: 0.857) **Model** Y in Shanghai and Berlin are proceeding as planned and we're making progress on improving capacity for **Model** Y in Fremont and ****Model** 3** in Shanghai.
+7. [Sentence #380]  (Similarity: 0.855) And in addition to that, manufacturing processes are very similar to ****Model** 3** as well, and so we have experience with that both with ****Model** 3** in Fremont and then as well in Shanghai.
+8. [Sentence #140]  (Similarity: 0.855) And on the manufacturing cost portion of the question, the cost of vehicles produced in Shanghai in Q1 is already lower than the cost to produce the ****Model** 3** in Fremont, and there's still significant opportunity left to take costs out.
+9. [Sentence #100]  (Similarity: 0.828) Note that one of the most important aspects of **Model** Y in Fremont and ****Model** 3** in Shanghai is the dramatically improved cash conversion cycle by locally producing and delivering vehicles.
+10. [Sentence #57]  (Similarity: 0.791) So **Model** Y has remarkable range on par with -- in fact slightly better than, I guess, the ****Model** 3** and just despite being a bigger car that weighs more.
+
+Total similarity-top evidence sentences: 10
+
+-----

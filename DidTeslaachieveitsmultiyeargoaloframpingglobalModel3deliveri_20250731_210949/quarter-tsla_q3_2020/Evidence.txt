@@ -1,0 +1,31 @@
+[TSLA_Q3_2020] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #63]  We're continuing to expand Shanghai significantly, which is going incredibly well at Tesla **China** team.
+2. [Sentence #66]  It's like I'm always amazed by how much progress the Tesla **China** team makes.
+3. [Sentence #122]  As were previous investments in ****Model** 3** Shanghai and **Model** Y in Fremont, we're expecting these programs to have already fully paid for their respective investments by the end of this year.
+4. [Sentence #125]  While we expect the return on our investments to remain very strong, keep in mind that with additional scope and location-specific costs, payback of these investments may be slightly longer than what we saw in ****Model** 3** in Shanghai and **Model** Y in Fremont.
+5. [Sentence #139]  We have more demand than supply through 2021 and we continue to **ramp** the product to match unprecedented demand across the globe through 2023 and beyond.
+6. [Sentence #485]  Zach, maybe you could give us a sense of where directionally **Model** Y and **China** ****Model** 3** gross margin was in the quarter relative to Fremont ****Model** 3**?
+7. [Sentence #495]  **Model** Y cost is also coming down quite quickly as we **ramp** that.
+8. [Sentence #496]  But we've guided in the past that **Model** Y cost should be roughly equivalent to the ****Model** 3** built in Fremont costs.
+9. [Sentence #497]  It's not quite there, and it's also a bit of a moving target as ****Model** 3** Fremont cost comes down, **Model** Y also has to come down with that.
+10. [Sentence #506]  So once you **ramp** in Berlin, what's the reasonable expectation of what pricing might look like in **Europe**?
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #125]  (Similarity: 0.785) While we expect the return on our investments to remain very strong, keep in mind that with additional scope and location-specific costs, payback of these investments may be slightly longer than what we saw in ****Model** 3** in Shanghai and **Model** Y in Fremont.
+2. [Sentence #485]  (Similarity: 0.756) Zach, maybe you could give us a sense of where directionally **Model** Y and **China** ****Model** 3** gross margin was in the quarter relative to Fremont ****Model** 3**?
+3. [Sentence #122]  (Similarity: 0.733) As were previous investments in ****Model** 3** Shanghai and **Model** Y in Fremont, we're expecting these programs to have already fully paid for their respective investments by the end of this year.
+4. [Sentence #496]  (Similarity: 0.711) But we've guided in the past that **Model** Y cost should be roughly equivalent to the ****Model** 3** built in Fremont costs.
+5. [Sentence #66]  (Similarity: 0.672) It's like I'm always amazed by how much progress the Tesla **China** team makes.
+6. [Sentence #63]  (Similarity: 0.656) We're continuing to expand Shanghai significantly, which is going incredibly well at Tesla **China** team.
+7. [Sentence #497]  (Similarity: 0.644) It's not quite there, and it's also a bit of a moving target as ****Model** 3** Fremont cost comes down, **Model** Y also has to come down with that.
+8. [Sentence #139]  (Similarity: 0.624) We have more demand than supply through 2021 and we continue to **ramp** the product to match unprecedented demand across the globe through 2023 and beyond.
+9. [Sentence #506]  (Similarity: 0.608) So once you **ramp** in Berlin, what's the reasonable expectation of what pricing might look like in **Europe**?
+10. [Sentence #495]  (Similarity: 0.605) **Model** Y cost is also coming down quite quickly as we **ramp** that.
+
+Total similarity-top evidence sentences: 10
+
+-----

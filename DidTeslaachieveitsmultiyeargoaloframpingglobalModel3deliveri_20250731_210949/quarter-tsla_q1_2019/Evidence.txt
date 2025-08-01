@@ -1,0 +1,39 @@
+[TSLA_Q1_2019] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #23]  Last quarter, we experienced a massive increase in delivery volume in **Europe**, similar to what ****North** **America**** experienced last year as well as the massive increase in delivery volume too to **China**.
+2. [Sentence #25]  This rapid increase in overseas volume strained our logistics operation and resulted in over half of our ****global** **deliveries**** occurring in the final 10 days of Q1.
+3. [Sentence #40]  And keep in mind, **global** expansion for the ****Model** 3** has just begun and this segment is vastly larger internationally than it is in the U.S. We are continuing to make significant improvements to our vehicle lineup, including updating the **Model** S and X production line to culminate the next generation of powertrains.
+4. [Sentence #62]  The **global** expansion of ****Model** 3** was a huge theme within the quarter.
+5. [Sentence #75]  This led to a binary inflow of ****Model** 3** cars to EMEA and **China** and significantly stressed the delivery operations.
+6. [Sentence #91]  In spite of launching the standard range variance, we want to note that **North** American ASPs are close to $50,000, with the majority of our orders being from long-range bearings of ****Model** 3**.
+7. [Sentence #225]  So quite a bit, but we think if we didn’t unwind or pulled the wave where we, yes, made cars in the first half of the quarter almost exclusively for Asia and **Europe** and in the second half almost exclusively for ****North** **America****.
+8. [Sentence #290]  One, you mentioned a $50,000 ASP for ****North** **America**** **Model** 3s, can you give us a little bit more detail on kind of is that a number like since the February 28 price adjustments?
+9. [Sentence #345]  Is that basically saying that people in **Europe** and **China** are just going to need to wait longer to take their **deliveries** and you’re going to try to emphasize more in ****North** **America**** in order to...
+
+Elon Musk
+
+No, they would actually receive their cars sooner.
+10. [Sentence #346]  It just means that instead of building cars in batches, where, say, the first half of the quarter is just dedicated to **China**, **Europe** cars, and the second half is dedicated to **North** American cars that we blend vehicle production for customers throughout the world, throughout the quarter.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #345]  (Similarity: 1.423) Is that basically saying that people in **Europe** and **China** are just going to need to wait longer to take their **deliveries** and you’re going to try to emphasize more in ****North** **America**** in order to...
+
+Elon Musk
+
+No, they would actually receive their cars sooner.
+2. [Sentence #23]  (Similarity: 1.234) Last quarter, we experienced a massive increase in delivery volume in **Europe**, similar to what ****North** **America**** experienced last year as well as the massive increase in delivery volume too to **China**.
+3. [Sentence #290]  (Similarity: 1.177) One, you mentioned a $50,000 ASP for ****North** **America**** **Model** 3s, can you give us a little bit more detail on kind of is that a number like since the February 28 price adjustments?
+4. [Sentence #40]  (Similarity: 1.119) And keep in mind, **global** expansion for the ****Model** 3** has just begun and this segment is vastly larger internationally than it is in the U.S. We are continuing to make significant improvements to our vehicle lineup, including updating the **Model** S and X production line to culminate the next generation of powertrains.
+5. [Sentence #75]  (Similarity: 1.077) This led to a binary inflow of ****Model** 3** cars to EMEA and **China** and significantly stressed the delivery operations.
+6. [Sentence #91]  (Similarity: 1.018) In spite of launching the standard range variance, we want to note that **North** American ASPs are close to $50,000, with the majority of our orders being from long-range bearings of ****Model** 3**.
+7. [Sentence #62]  (Similarity: 0.943) The **global** expansion of ****Model** 3** was a huge theme within the quarter.
+8. [Sentence #346]  (Similarity: 0.933) It just means that instead of building cars in batches, where, say, the first half of the quarter is just dedicated to **China**, **Europe** cars, and the second half is dedicated to **North** American cars that we blend vehicle production for customers throughout the world, throughout the quarter.
+9. [Sentence #225]  (Similarity: 0.928) So quite a bit, but we think if we didn’t unwind or pulled the wave where we, yes, made cars in the first half of the quarter almost exclusively for Asia and **Europe** and in the second half almost exclusively for ****North** **America****.
+10. [Sentence #25]  (Similarity: 0.927) This rapid increase in overseas volume strained our logistics operation and resulted in over half of our ****global** **deliveries**** occurring in the final 10 days of Q1.
+
+Total similarity-top evidence sentences: 10
+
+-----
