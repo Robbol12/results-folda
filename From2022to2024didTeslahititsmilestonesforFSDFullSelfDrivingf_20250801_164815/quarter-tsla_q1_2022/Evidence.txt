@@ -1,0 +1,15 @@
+[TSLA_Q1_2022] From 2022 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #90]  Well, with respect to **full** self-driving, of any technology development I’ve ever been involved in, I’ve never really seen more kind of false dawns or where it seems like we’re going to break through, but we don’t, as I’ve seen in **full** self-driving.
+2. [Sentence #95]  The best way to reach your own assessment is to join the Tesla **full** self-driving beta program where we have over 100,000 people right now enrolled in that program, and we expect to broaden that significantly this year.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #95]  (Similarity: 0.703) The best way to reach your own assessment is to join the Tesla **full** self-driving beta program where we have over 100,000 people right now enrolled in that program, and we expect to broaden that significantly this year.
+2. [Sentence #90]  (Similarity: 0.645) Well, with respect to **full** self-driving, of any technology development I’ve ever been involved in, I’ve never really seen more kind of false dawns or where it seems like we’re going to break through, but we don’t, as I’ve seen in **full** self-driving.
+
+Total similarity-top evidence sentences: 2
+
+-----

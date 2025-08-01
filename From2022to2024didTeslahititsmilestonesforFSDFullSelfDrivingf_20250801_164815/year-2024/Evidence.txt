@@ -1,0 +1,89 @@
+[Year 2024] From 2022 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #25]  (TSLA_Q1_2024) Regarding **FSD** Version 12, which is the pure AI-based self-driving, if you haven't experienced this, I strongly urge you to try it out.
+2. [Sentence #28]  (TSLA_Q1_2024) So, we now have over 300 billion miles that have been driven with **FSD** V12.
+3. [Sentence #211]  (TSLA_Q1_2024) The next question, have any of the legacy automakers contacted Tesla about possibly licensing **FSD** in the future?
+4. [Sentence #365]  (TSLA_Q1_2024) And is there anything Tesla needs to achieve with the technology in terms of product **milestones** in order to be successful at reaching a licensing agreement in your view?
+5. [Sentence #573]  (TSLA_Q1_2024) Elon Musk
+
+Well, I want to say again, we'd just like to strongly recommend that anyone who is, I guess, thinking about the Tesla stock should really drive **FSD** 12.3.
+6. [Sentence #656]  (TSLA_Q2_2024) Despite many challenges the Tesla team did a great job executing and we did achieve record **quarterly** revenues.
+7. [Sentence #665]  (TSLA_Q2_2024) Regarding **Full** Self-Driving and Robotaxi, we've made a lot of progress with **Full** Self-Driving in Q2 and with version 12.5 beginning rollout, we think customers will experience a step change improvement in how well supervised **full** self-driving works.
+8. [Sentence #693]  (TSLA_Q2_2024) Although the numbers sound crazy, I think Tesla producing at volume with unsupervised **FSD** essentially enabling the fleet to operate like a giant autonomous fleet.
+9. [Sentence #716]  (TSLA_Q2_2024) Since the revision of **FSD** pricing in North America, we've seen production rates increase meaningfully and expect this to be a driver of vehicle sales as the feature set improves further.
+10. [Sentence #748]  (TSLA_Q2_2024) Elon Musk
+
+I guess that, that's really just a question of when can we expect the first -- or when can we do unsupervised **full** self-driving.
+11. [Sentence #806]  (TSLA_Q2_2024) Is Tesla still in talks with an OEM to license **FSD**?
+12. [Sentence #807]  (TSLA_Q2_2024) Elon Musk
+
+There are a few major OEMs that have expressed interest in licensing Tesla **full** self-driving.
+13. [Sentence #814]  (TSLA_Q2_2024) It's been actually helpful in advancing **full** self-driving and in building up the new Tesla data center.
+14. [Sentence #913]  (TSLA_Q2_2024) I guess presumably this would not be some sort of simple plug and play proposition that presumably an OEM would need, I don't know, several years to develop its own vehicle platform that's based on **FSD**.
+15. [Sentence #982]  (TSLA_Q2_2024) So with the -- with Version 12.5, and maybe a 12.6, but pretty soon we will ask for regular regulatory approval of the Tesla supervised **FSD** in Europe, China, and other countries.
+16. [Sentence #1007]  (TSLA_Q2_2024) Is there a different regulatory concern just if you deploy a vehicle like that that doesn't have pedal -- pedals or a wheel, and that may not be different from just regular **FSD** on a traditional Tesla vehicle.
+17. [Sentence #1200]  (TSLA_Q3_2024) So, the current total expectation, internal expectation for the Tesla **FSD** having longer miles between versions than human is the second quarter of next year, which means it may end up being in the third quarter, but it's next -- it seems extremely likely to be next year.
+18. [Sentence #1462]  (TSLA_Q3_2024) What will the next stage growth look like and when will **FSD** be ready?
+19. [Sentence #1509]  (TSLA_Q3_2024) In fact, for the Tesla, once you get to **full** autonomy, you actually want fully a system that is -- can do anything.
+20. [Sentence #1831]  (TSLA_Q4_2024) We already have Teslas operating autonomously unsupervised **full** self-driving at our factory in Fremont, and we'll soon be doing that at our factory in Texas.
+21. [Sentence #1892]  (TSLA_Q4_2024) And when we look back on 2025 and the launch of unsupervised **full** self-driving, true real-world AI that actually works, I think we may regard it as the biggest year in Tesla history, maybe even bigger than Atlas car, or the Model S or the Model 3 or Model Y.
+22. [Sentence #1911]  (TSLA_Q4_2024) On the automotive margin front, we saw a quarter-over-quarter decline primarily due to lower ASPs than due to the recognition of **FSD**-related revenue in Q3 from feature releases.
+23. [Sentence #1970]  (TSLA_Q4_2024) The next question is, are there any discussions with other auto companies about licensing **FSD**?
+24. [Sentence #1972]  (TSLA_Q4_2024) What we're seeing is at this point, significant interest from a number of major car companies about licensing Tesla **full** self-driving technology.
+25. [Sentence #2086]  (TSLA_Q4_2024) Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+I mean, I think the honest answer is that we're going to have to upgrade people's Hardware 3 computer for those that have bought **full** self-driving, and that is the honest answer and that's going to be painful and difficult but we'll get it done.
+26. [Sentence #2115]  (TSLA_Q4_2024) What technical breakthroughs will define V14 of **FSD**, given that V13 already covered to control?
+27. [Sentence #2163]  (TSLA_Q4_2024) But I'm very confident we'll have released unsupervised **full** self-driving, fully autonomous Teslas in Austin and several other cities in America by the end of this year, as probably everywhere in America next year, at everywhere in North America, at least.
+28. [Sentence #2266]  (TSLA_Q4_2024) Pierre Ferragu -- Analyst
+
+But then so my follow-up question would be, I have a Tesla, I have **FSD**, and I have to keep my eyes on the road all the time.
+29. [Sentence #2320]  (TSLA_Q4_2024) More so just how much more aggressively you would be willing to sell your cars versus in light of your improvements on **FSD**?
+
+Total transcript-order evidence sentences: 29
+
+--- Evidence by Similarity ---
+1. [Sentence #211]  (TSLA_Q1_2024) (Similarity: 0.810) The next question, have any of the legacy automakers contacted Tesla about possibly licensing **FSD** in the future?
+2. [Sentence #806]  (TSLA_Q2_2024) (Similarity: 0.790) Is Tesla still in talks with an OEM to license **FSD**?
+3. [Sentence #693]  (TSLA_Q2_2024) (Similarity: 0.771) Although the numbers sound crazy, I think Tesla producing at volume with unsupervised **FSD** essentially enabling the fleet to operate like a giant autonomous fleet.
+4. [Sentence #1972]  (TSLA_Q4_2024) (Similarity: 0.744) What we're seeing is at this point, significant interest from a number of major car companies about licensing Tesla **full** self-driving technology.
+5. [Sentence #814]  (TSLA_Q2_2024) (Similarity: 0.740) It's been actually helpful in advancing **full** self-driving and in building up the new Tesla data center.
+6. [Sentence #1892]  (TSLA_Q4_2024) (Similarity: 0.721) And when we look back on 2025 and the launch of unsupervised **full** self-driving, true real-world AI that actually works, I think we may regard it as the biggest year in Tesla history, maybe even bigger than Atlas car, or the Model S or the Model 3 or Model Y.
+7. [Sentence #665]  (TSLA_Q2_2024) (Similarity: 0.717) Regarding **Full** Self-Driving and Robotaxi, we've made a lot of progress with **Full** Self-Driving in Q2 and with version 12.5 beginning rollout, we think customers will experience a step change improvement in how well supervised **full** self-driving works.
+8. [Sentence #365]  (TSLA_Q1_2024) (Similarity: 0.708) And is there anything Tesla needs to achieve with the technology in terms of product **milestones** in order to be successful at reaching a licensing agreement in your view?
+9. [Sentence #1200]  (TSLA_Q3_2024) (Similarity: 0.707) So, the current total expectation, internal expectation for the Tesla **FSD** having longer miles between versions than human is the second quarter of next year, which means it may end up being in the third quarter, but it's next -- it seems extremely likely to be next year.
+10. [Sentence #573]  (TSLA_Q1_2024) (Similarity: 0.705) Elon Musk
+
+Well, I want to say again, we'd just like to strongly recommend that anyone who is, I guess, thinking about the Tesla stock should really drive **FSD** 12.3.
+11. [Sentence #807]  (TSLA_Q2_2024) (Similarity: 0.687) Elon Musk
+
+There are a few major OEMs that have expressed interest in licensing Tesla **full** self-driving.
+12. [Sentence #2086]  (TSLA_Q4_2024) (Similarity: 0.662) Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+I mean, I think the honest answer is that we're going to have to upgrade people's Hardware 3 computer for those that have bought **full** self-driving, and that is the honest answer and that's going to be painful and difficult but we'll get it done.
+13. [Sentence #982]  (TSLA_Q2_2024) (Similarity: 0.662) So with the -- with Version 12.5, and maybe a 12.6, but pretty soon we will ask for regular regulatory approval of the Tesla supervised **FSD** in Europe, China, and other countries.
+14. [Sentence #1831]  (TSLA_Q4_2024) (Similarity: 0.655) We already have Teslas operating autonomously unsupervised **full** self-driving at our factory in Fremont, and we'll soon be doing that at our factory in Texas.
+15. [Sentence #748]  (TSLA_Q2_2024) (Similarity: 0.653) Elon Musk
+
+I guess that, that's really just a question of when can we expect the first -- or when can we do unsupervised **full** self-driving.
+16. [Sentence #2163]  (TSLA_Q4_2024) (Similarity: 0.645) But I'm very confident we'll have released unsupervised **full** self-driving, fully autonomous Teslas in Austin and several other cities in America by the end of this year, as probably everywhere in America next year, at everywhere in North America, at least.
+17. [Sentence #25]  (TSLA_Q1_2024) (Similarity: 0.644) Regarding **FSD** Version 12, which is the pure AI-based self-driving, if you haven't experienced this, I strongly urge you to try it out.
+18. [Sentence #28]  (TSLA_Q1_2024) (Similarity: 0.642) So, we now have over 300 billion miles that have been driven with **FSD** V12.
+19. [Sentence #716]  (TSLA_Q2_2024) (Similarity: 0.632) Since the revision of **FSD** pricing in North America, we've seen production rates increase meaningfully and expect this to be a driver of vehicle sales as the feature set improves further.
+20. [Sentence #913]  (TSLA_Q2_2024) (Similarity: 0.626) I guess presumably this would not be some sort of simple plug and play proposition that presumably an OEM would need, I don't know, several years to develop its own vehicle platform that's based on **FSD**.
+21. [Sentence #2266]  (TSLA_Q4_2024) (Similarity: 0.626) Pierre Ferragu -- Analyst
+
+But then so my follow-up question would be, I have a Tesla, I have **FSD**, and I have to keep my eyes on the road all the time.
+22. [Sentence #2115]  (TSLA_Q4_2024) (Similarity: 0.623) What technical breakthroughs will define V14 of **FSD**, given that V13 already covered to control?
+23. [Sentence #1911]  (TSLA_Q4_2024) (Similarity: 0.620) On the automotive margin front, we saw a quarter-over-quarter decline primarily due to lower ASPs than due to the recognition of **FSD**-related revenue in Q3 from feature releases.
+24. [Sentence #1970]  (TSLA_Q4_2024) (Similarity: 0.618) The next question is, are there any discussions with other auto companies about licensing **FSD**?
+25. [Sentence #1509]  (TSLA_Q3_2024) (Similarity: 0.618) In fact, for the Tesla, once you get to **full** autonomy, you actually want fully a system that is -- can do anything.
+26. [Sentence #1462]  (TSLA_Q3_2024) (Similarity: 0.616) What will the next stage growth look like and when will **FSD** be ready?
+27. [Sentence #1007]  (TSLA_Q2_2024) (Similarity: 0.610) Is there a different regulatory concern just if you deploy a vehicle like that that doesn't have pedal -- pedals or a wheel, and that may not be different from just regular **FSD** on a traditional Tesla vehicle.
+28. [Sentence #2320]  (TSLA_Q4_2024) (Similarity: 0.610) More so just how much more aggressively you would be willing to sell your cars versus in light of your improvements on **FSD**?
+29. [Sentence #656]  (TSLA_Q2_2024) (Similarity: 0.608) Despite many challenges the Tesla team did a great job executing and we did achieve record **quarterly** revenues.
+
+Total similarity-top evidence sentences: 29
+
+-----

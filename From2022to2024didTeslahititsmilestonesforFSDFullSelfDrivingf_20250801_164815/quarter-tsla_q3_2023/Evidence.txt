@@ -1,0 +1,21 @@
+[TSLA_Q3_2023] From 2022 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #2]  Regarding Autopilot and AI, our vehicles are now driven over 0.5 billion miles with **FSD** beta, **full** self-driving beta, and that number is growing rapidly.
+2. [Sentence #4]  We think probably bring it into operation faster than anyone’s ever brought that much compute per unit time into production, since training is the fundamental limiting factor on progress with **full** self-driving and vehicle autonomy.
+3. [Sentence #159]  Is Tesla planning to accept legal liability for **FSD**?
+4. [Sentence #243]  But I guess, like the ultimate values of **FSD**, which is to be able to handle like a robotaxi is not going to necessarily interest everybody, and you have a bit of a degraded version that would be like a chauffeur service where the car drives by itself, but you still have to be in the car and around.
+5. [Sentence #246]  So, I’m just wondering if you’re taking that -- and last but not least, like the simplest version of **FSD** available and are going to work from a technical perspective, probably before like the ultimate robotaxi version can work if ever.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #2]  (Similarity: 0.817) Regarding Autopilot and AI, our vehicles are now driven over 0.5 billion miles with **FSD** beta, **full** self-driving beta, and that number is growing rapidly.
+2. [Sentence #159]  (Similarity: 0.748) Is Tesla planning to accept legal liability for **FSD**?
+3. [Sentence #4]  (Similarity: 0.637) We think probably bring it into operation faster than anyone’s ever brought that much compute per unit time into production, since training is the fundamental limiting factor on progress with **full** self-driving and vehicle autonomy.
+4. [Sentence #246]  (Similarity: 0.629) So, I’m just wondering if you’re taking that -- and last but not least, like the simplest version of **FSD** available and are going to work from a technical perspective, probably before like the ultimate robotaxi version can work if ever.
+5. [Sentence #243]  (Similarity: 0.610) But I guess, like the ultimate values of **FSD**, which is to be able to handle like a robotaxi is not going to necessarily interest everybody, and you have a bit of a degraded version that would be like a chauffeur service where the car drives by itself, but you still have to be in the car and around.
+
+Total similarity-top evidence sentences: 5
+
+-----
