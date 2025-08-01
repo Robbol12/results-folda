@@ -1,0 +1,41 @@
+[Year 2024] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #20]  (TSLA_Q1_2024) We've updated our future vehicle lineup to accelerate the launch of new models ahead, previously mentioned startup **production** in the second half of 2025, so we expect it to be more like the early 2025, if not late this year.
+2. [Sentence #87]  (TSLA_Q1_2024) 4680 **production** increased about 18% to 20% from Q4 reaching greater than 1K a week for **Cybertruck**, which is about 7 gigawatt hours per year as we posted on X.
+3. [Sentence #88]  (TSLA_Q1_2024) We expect to stay ahead of the **Cybertruck** ramp with the cell **production** throughout Q2 as we ramp the third of four lines in Phase 1, while maintaining multiple weeks of cell inventory to make sure we're ahead of the ramp.
+4. [Sentence #203]  (TSLA_Q1_2024) The next question is, what is the progress of **Cybertruck** ramp?
+5. [Sentence #680]  (TSLA_Q2_2024) And we expect to have Optimus **production** Version 1 in limited **production** starting early next year.
+6. [Sentence #717]  (TSLA_Q2_2024) Cost per vehicle declined sequentially when we removed the impact of **Cybertruck**.
+7. [Sentence #719]  (TSLA_Q2_2024) Additionally, as we get into the second half of the year, it is important to note that we are still ramping **Cybertruck** and Model 3 and are also getting impacted by varying amounts of tariffs on both raw materials and finished goods.
+8. [Sentence #755]  (TSLA_Q2_2024) Our third question is, the **Cybertruck** is an iconic product that wows everyone who sees it.
+9. [Sentence #762]  (TSLA_Q2_2024) We've built our first validation **Cybertruck** with dry cathode process made on our mass **production** equipment, which is a huge technical milestone and we're super proud of that.
+10. [Sentence #847]  (TSLA_Q2_2024) So what I was finding was that when trying to recruit people to Tesla, they were only interested in working on AGI and not on Tesla's specific problems and they want to **start** -- do a **start**-up.
+11. [Sentence #1457]  (TSLA_Q3_2024) And that's why -- because like I said before, most of our cars, except for **Cybertruck**, look the same, so people don't realize that it has so much capability.
+12. [Sentence #1465]  (TSLA_Q3_2024) We've released all our major cash flow expenditures for that program, and we're on track to **start** pilot builds in the second half of next year with **production** starting in the first half of 2026 and ramping really throughout the year to full **production**.
+13. [Sentence #1750]  (TSLA_Q4_2024) So, congratulations to the Tesla team on excellent work, achieving record **production** and deliveries.
+14. [Sentence #2039]  (TSLA_Q4_2024) The next question is, what is the status on mass **production** of the Tesla Semi?
+15. [Sentence #2074]  (TSLA_Q4_2024) And if so, what is the **timeline** and expected impact to Tesla's capex?
+
+Total transcript-order evidence sentences: 15
+
+--- Evidence by Similarity ---
+1. [Sentence #88]  (TSLA_Q1_2024) (Similarity: 0.791) We expect to stay ahead of the **Cybertruck** ramp with the cell **production** throughout Q2 as we ramp the third of four lines in Phase 1, while maintaining multiple weeks of cell inventory to make sure we're ahead of the ramp.
+2. [Sentence #1465]  (TSLA_Q3_2024) (Similarity: 0.778) We've released all our major cash flow expenditures for that program, and we're on track to **start** pilot builds in the second half of next year with **production** starting in the first half of 2026 and ramping really throughout the year to full **production**.
+3. [Sentence #203]  (TSLA_Q1_2024) (Similarity: 0.720) The next question is, what is the progress of **Cybertruck** ramp?
+4. [Sentence #87]  (TSLA_Q1_2024) (Similarity: 0.708) 4680 **production** increased about 18% to 20% from Q4 reaching greater than 1K a week for **Cybertruck**, which is about 7 gigawatt hours per year as we posted on X.
+5. [Sentence #2074]  (TSLA_Q4_2024) (Similarity: 0.701) And if so, what is the **timeline** and expected impact to Tesla's capex?
+6. [Sentence #2039]  (TSLA_Q4_2024) (Similarity: 0.676) The next question is, what is the status on mass **production** of the Tesla Semi?
+7. [Sentence #762]  (TSLA_Q2_2024) (Similarity: 0.667) We've built our first validation **Cybertruck** with dry cathode process made on our mass **production** equipment, which is a huge technical milestone and we're super proud of that.
+8. [Sentence #680]  (TSLA_Q2_2024) (Similarity: 0.635) And we expect to have Optimus **production** Version 1 in limited **production** starting early next year.
+9. [Sentence #847]  (TSLA_Q2_2024) (Similarity: 0.634) So what I was finding was that when trying to recruit people to Tesla, they were only interested in working on AGI and not on Tesla's specific problems and they want to **start** -- do a **start**-up.
+10. [Sentence #1457]  (TSLA_Q3_2024) (Similarity: 0.626) And that's why -- because like I said before, most of our cars, except for **Cybertruck**, look the same, so people don't realize that it has so much capability.
+11. [Sentence #755]  (TSLA_Q2_2024) (Similarity: 0.619) Our third question is, the **Cybertruck** is an iconic product that wows everyone who sees it.
+12. [Sentence #719]  (TSLA_Q2_2024) (Similarity: 0.616) Additionally, as we get into the second half of the year, it is important to note that we are still ramping **Cybertruck** and Model 3 and are also getting impacted by varying amounts of tariffs on both raw materials and finished goods.
+13. [Sentence #717]  (TSLA_Q2_2024) (Similarity: 0.615) Cost per vehicle declined sequentially when we removed the impact of **Cybertruck**.
+14. [Sentence #1750]  (TSLA_Q4_2024) (Similarity: 0.615) So, congratulations to the Tesla team on excellent work, achieving record **production** and deliveries.
+15. [Sentence #20]  (TSLA_Q1_2024) (Similarity: 0.606) We've updated our future vehicle lineup to accelerate the launch of new models ahead, previously mentioned startup **production** in the second half of 2025, so we expect it to be more like the early 2025, if not late this year.
+
+Total similarity-top evidence sentences: 15
+
+-----

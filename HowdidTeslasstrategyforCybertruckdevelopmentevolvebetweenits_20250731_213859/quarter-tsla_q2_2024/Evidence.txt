@@ -1,0 +1,23 @@
+[TSLA_Q2_2024] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #41]  And we expect to have Optimus **production** Version 1 in limited **production** starting early next year.
+2. [Sentence #78]  Cost per vehicle declined sequentially when we removed the impact of **Cybertruck**.
+3. [Sentence #80]  Additionally, as we get into the second half of the year, it is important to note that we are still ramping **Cybertruck** and Model 3 and are also getting impacted by varying amounts of tariffs on both raw materials and finished goods.
+4. [Sentence #116]  Our third question is, the **Cybertruck** is an iconic product that wows everyone who sees it.
+5. [Sentence #123]  We've built our first validation **Cybertruck** with dry cathode process made on our mass **production** equipment, which is a huge technical milestone and we're super proud of that.
+6. [Sentence #208]  So what I was finding was that when trying to recruit people to Tesla, they were only interested in working on AGI and not on Tesla's specific problems and they want to **start** -- do a **start**-up.
+
+Total transcript-order evidence sentences: 6
+
+--- Evidence by Similarity ---
+1. [Sentence #123]  (Similarity: 0.667) We've built our first validation **Cybertruck** with dry cathode process made on our mass **production** equipment, which is a huge technical milestone and we're super proud of that.
+2. [Sentence #41]  (Similarity: 0.635) And we expect to have Optimus **production** Version 1 in limited **production** starting early next year.
+3. [Sentence #208]  (Similarity: 0.634) So what I was finding was that when trying to recruit people to Tesla, they were only interested in working on AGI and not on Tesla's specific problems and they want to **start** -- do a **start**-up.
+4. [Sentence #116]  (Similarity: 0.619) Our third question is, the **Cybertruck** is an iconic product that wows everyone who sees it.
+5. [Sentence #80]  (Similarity: 0.616) Additionally, as we get into the second half of the year, it is important to note that we are still ramping **Cybertruck** and Model 3 and are also getting impacted by varying amounts of tariffs on both raw materials and finished goods.
+6. [Sentence #78]  (Similarity: 0.615) Cost per vehicle declined sequentially when we removed the impact of **Cybertruck**.
+
+Total similarity-top evidence sentences: 6
+
+-----

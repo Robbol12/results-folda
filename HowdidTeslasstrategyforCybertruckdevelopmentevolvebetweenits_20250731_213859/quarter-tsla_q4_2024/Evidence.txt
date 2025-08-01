@@ -1,0 +1,17 @@
+[TSLA_Q4_2024] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #13]  So, congratulations to the Tesla team on excellent work, achieving record **production** and deliveries.
+2. [Sentence #302]  The next question is, what is the status on mass **production** of the Tesla Semi?
+3. [Sentence #337]  And if so, what is the **timeline** and expected impact to Tesla's capex?
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #337]  (Similarity: 0.701) And if so, what is the **timeline** and expected impact to Tesla's capex?
+2. [Sentence #302]  (Similarity: 0.676) The next question is, what is the status on mass **production** of the Tesla Semi?
+3. [Sentence #13]  (Similarity: 0.615) So, congratulations to the Tesla team on excellent work, achieving record **production** and deliveries.
+
+Total similarity-top evidence sentences: 3
+
+-----

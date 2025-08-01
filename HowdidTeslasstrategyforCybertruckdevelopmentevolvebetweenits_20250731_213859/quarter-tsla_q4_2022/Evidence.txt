@@ -1,0 +1,27 @@
+[TSLA_Q4_2022] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #90]  This includes expanding in-house cell **production**, bringing **Cybertruck** to market, **development** of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+2. [Sentence #106]  The next investor question is, will Tesla be able to take full advantage of advanced manufacturing **production** credits for battery cells packs?
+3. [Sentence #174]  Really, our 2023 goal as a 4680 team is to deliver a cost-effective ramp of 4680s well ahead of **Cybertruck**.
+4. [Sentence #182]  And to be clear, for 2023, **Cybertruck** will not be a significant contributor to the bottom line but it will be into next year.
+5. [Sentence #231]  The next question from investors is, is **Cybertruck** **production** still on track for mid-year?
+6. [Sentence #232]  Elon Musk
+
+We do expect **production** to **start**, I don't know, maybe sometime this summer.
+
+Total transcript-order evidence sentences: 6
+
+--- Evidence by Similarity ---
+1. [Sentence #90]  (Similarity: 1.036) This includes expanding in-house cell **production**, bringing **Cybertruck** to market, **development** of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+2. [Sentence #231]  (Similarity: 0.856) The next question from investors is, is **Cybertruck** **production** still on track for mid-year?
+3. [Sentence #182]  (Similarity: 0.744) And to be clear, for 2023, **Cybertruck** will not be a significant contributor to the bottom line but it will be into next year.
+4. [Sentence #232]  (Similarity: 0.649) Elon Musk
+
+We do expect **production** to **start**, I don't know, maybe sometime this summer.
+5. [Sentence #174]  (Similarity: 0.642) Really, our 2023 goal as a 4680 team is to deliver a cost-effective ramp of 4680s well ahead of **Cybertruck**.
+6. [Sentence #106]  (Similarity: 0.629) The next investor question is, will Tesla be able to take full advantage of advanced manufacturing **production** credits for battery cells packs?
+
+Total similarity-top evidence sentences: 6
+
+-----

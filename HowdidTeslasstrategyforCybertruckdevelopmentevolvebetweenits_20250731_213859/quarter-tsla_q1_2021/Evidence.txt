@@ -1,0 +1,21 @@
+[TSLA_Q1_2021] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #24]  It’s been exceeded by the Tesla Model 3, and this is only three-and-a half years into **production** and with just two factories.
+2. [Sentence #63]  But we do expect to ramp Model S **production** and **start** delivering them probably next month.
+3. [Sentence #64]  So -- and then to be in sort of fairly high-volume **production** for the S in Q3 and to **start** delivering the Model X in Q3 as well.
+4. [Sentence #76]  In the background, we are continuing work -- **development** work on the Semi, **Cybertruck**, on the Roadster and other products.
+5. [Sentence #355]  The truly profound thing on the car side is that Tesla was the first American car company to achieve volume **production** of a car in 100 years and not go bankrupt.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #76]  (Similarity: 0.807) In the background, we are continuing work -- **development** work on the Semi, **Cybertruck**, on the Roadster and other products.
+2. [Sentence #355]  (Similarity: 0.682) The truly profound thing on the car side is that Tesla was the first American car company to achieve volume **production** of a car in 100 years and not go bankrupt.
+3. [Sentence #63]  (Similarity: 0.642) But we do expect to ramp Model S **production** and **start** delivering them probably next month.
+4. [Sentence #64]  (Similarity: 0.611) So -- and then to be in sort of fairly high-volume **production** for the S in Q3 and to **start** delivering the Model X in Q3 as well.
+5. [Sentence #24]  (Similarity: 0.604) It’s been exceeded by the Tesla Model 3, and this is only three-and-a half years into **production** and with just two factories.
+
+Total similarity-top evidence sentences: 5
+
+-----

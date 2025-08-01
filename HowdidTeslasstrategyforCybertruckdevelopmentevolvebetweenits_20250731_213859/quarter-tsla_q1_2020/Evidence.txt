@@ -1,0 +1,19 @@
+[TSLA_Q1_2020] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #108]  It is important to note that Tesla remains an extremely agile and dynamic company, and this is aided by the substantial work we've done over the last year to improve our cost efficiency and productivity.
+2. [Sentence #203]  Is this still in line with Tesla's ambitions for the next five to 10 years?
+3. [Sentence #280]  And the last question from the retailers, when will Tesla **start** acquiring utilities like Hornsdale Power Reserve and most lending instead of selling them battery storage?
+4. [Sentence #438]  I would love for you to walk through the rollout **strategy** of the Tesla Network app and how that's going to look prior to the robo taxi stage?
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #280]  (Similarity: 0.664) And the last question from the retailers, when will Tesla **start** acquiring utilities like Hornsdale Power Reserve and most lending instead of selling them battery storage?
+2. [Sentence #203]  (Similarity: 0.620) Is this still in line with Tesla's ambitions for the next five to 10 years?
+3. [Sentence #108]  (Similarity: 0.617) It is important to note that Tesla remains an extremely agile and dynamic company, and this is aided by the substantial work we've done over the last year to improve our cost efficiency and productivity.
+4. [Sentence #438]  (Similarity: 0.617) I would love for you to walk through the rollout **strategy** of the Tesla Network app and how that's going to look prior to the robo taxi stage?
+
+Total similarity-top evidence sentences: 4
+
+-----

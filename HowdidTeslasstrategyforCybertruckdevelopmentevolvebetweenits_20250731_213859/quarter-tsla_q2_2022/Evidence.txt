@@ -1,0 +1,21 @@
+[TSLA_Q2_2022] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #44]  We will bring another level of simplicity and manufacturing improvements with **Cybertruck** and future products that we are not quite ready to talk about now, but I think will be very exciting to unveil in the future.
+2. [Sentence #52]  Our team continues to focus on **Cybertruck** **production** readiness and some future platform design.
+3. [Sentence #53]  We are expecting to be – still expecting to be in **production** with the **Cybertruck** in the middle of next year.
+4. [Sentence #292]  And the last question is, when will the **Cybertruck** be officially available?
+5. [Sentence #329]  The Tesla battery cell **production** is in addition to what our suppliers can do.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #52]  (Similarity: 0.861) Our team continues to focus on **Cybertruck** **production** readiness and some future platform design.
+2. [Sentence #53]  (Similarity: 0.836) We are expecting to be – still expecting to be in **production** with the **Cybertruck** in the middle of next year.
+3. [Sentence #292]  (Similarity: 0.705) And the last question is, when will the **Cybertruck** be officially available?
+4. [Sentence #44]  (Similarity: 0.684) We will bring another level of simplicity and manufacturing improvements with **Cybertruck** and future products that we are not quite ready to talk about now, but I think will be very exciting to unveil in the future.
+5. [Sentence #329]  (Similarity: 0.636) The Tesla battery cell **production** is in addition to what our suppliers can do.
+
+Total similarity-top evidence sentences: 5
+
+-----

@@ -1,0 +1,19 @@
+[TSLA_Q1_2024] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #20]  We've updated our future vehicle lineup to accelerate the launch of new models ahead, previously mentioned startup **production** in the second half of 2025, so we expect it to be more like the early 2025, if not late this year.
+2. [Sentence #87]  4680 **production** increased about 18% to 20% from Q4 reaching greater than 1K a week for **Cybertruck**, which is about 7 gigawatt hours per year as we posted on X.
+3. [Sentence #88]  We expect to stay ahead of the **Cybertruck** ramp with the cell **production** throughout Q2 as we ramp the third of four lines in Phase 1, while maintaining multiple weeks of cell inventory to make sure we're ahead of the ramp.
+4. [Sentence #203]  The next question is, what is the progress of **Cybertruck** ramp?
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #88]  (Similarity: 0.791) We expect to stay ahead of the **Cybertruck** ramp with the cell **production** throughout Q2 as we ramp the third of four lines in Phase 1, while maintaining multiple weeks of cell inventory to make sure we're ahead of the ramp.
+2. [Sentence #203]  (Similarity: 0.720) The next question is, what is the progress of **Cybertruck** ramp?
+3. [Sentence #87]  (Similarity: 0.708) 4680 **production** increased about 18% to 20% from Q4 reaching greater than 1K a week for **Cybertruck**, which is about 7 gigawatt hours per year as we posted on X.
+4. [Sentence #20]  (Similarity: 0.606) We've updated our future vehicle lineup to accelerate the launch of new models ahead, previously mentioned startup **production** in the second half of 2025, so we expect it to be more like the early 2025, if not late this year.
+
+Total similarity-top evidence sentences: 4
+
+-----

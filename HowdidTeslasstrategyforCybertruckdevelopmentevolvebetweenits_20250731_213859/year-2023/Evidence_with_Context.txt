@@ -1,0 +1,573 @@
+[Year 2023] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+1. [Sentence #175, TSLA_Q1_2023] [UNCERTAIN]
+     Elon Musk
+
+Yes.
+     Zachary Kirkhorn
+
+So this is our approach.
+     How that nets out, I mean, just a lot of risk, and we'll have to see how the year progresses.
+     Martin Viecha
+
+Thank you.
+     The next question is, how has global order intake tracked since the most recent round of price cuts?
+     Elon Musk
+
+I think the overall thing we can say is that orders are in excess of production.
+     Martin Viecha
+
+Thank you.
+>>> And maybe the last question from investors, can you give updated specs and pricing for Cybertruck and any new features that will make it to production?
+     Elon Musk
+
+Well, I think we'll save that for the Cybertruck handover, which will hopefully be around the end of Q3 this year.
+     And one thing I am confident of saying is that, it's an incredible product, it's a hall of famer, I think.
+     And a product like this only comes once in a long while.
+     So it will not be disappointed at all.
+     It's amazing.
+     Martin Viecha
+
+Great.
+     Thank you very much.
+-----
+2. [Sentence #1745, TSLA_Q4_2023] [PLAN]
+     Accordingly, we are currently expecting our capital expenditure for 2024 to be in excess of $10 billion.
+     We believe this would be critical in helping us lay the foundation for the next phase of growth.
+     Once again, I would like to thank everybody at Tesla, our investors, and our suppliers for being with us in this journey.
+     We can open it up to questions, Martin.
+     Question-and-Answer Session
+
+A - Martin Viecha
+
+Thank you.
+     Let's go through investor questions.
+     Question number one is from Michael.
+>>> Given that you moved the start of the next-generation compact vehicle production to Austin, has the timeline improved so that we might see next-generation platform vehicles in 2025?
+     Elon Musk
+
+I mean, I would certainly say things with they should be taken with a grain of salt, since I am often optimistic.
+     I don't want to blow your minds, but I'm often optimistic regarding time.
+     But our current schedule shows that we will start production towards the end of 2025.
+     So sometime in the second half.
+     That's just what our current schedule says.
+     But there's a lot of new technology like a tremendous amount of new revolutionary manufacturing technology here.
+     The reason I wanted to put this new revolutionary manufacturing line at Giga Texas was because we really need the engineers to be living on the line.
+-----
+3. [Sentence #71, TSLA_Q1_2023] [PLAN]
+     As I've mentioned previously, this results in lower deliveries and production within a quarter due to a higher volume of cars in transit at the end of the quarter and has an associated impact on quarter-ending free cash flows.
+     This was particularly prevalent in Q1 for S and X as we begin exporting cars for international deliveries.
+     Second, our storage business is starting to take shape, and this is exciting to see after many years of investment and focus.
+     This business is growing as a percentage of the businesses of the company's revenue and reached its highest level yet in Q1, driven by an increasing rate of deliveries for our Megapack products.
+     We are also making progress on storage profitability, generating our highest gross profit yet in the quarter.
+     Third, I want to reiterate the philosophy by which we're operating the business this year.
+     Our approach is to grow volumes as quickly as possible in both our vehicle and energy businesses.
+>>> We plan to continue to invest heavily into our future plans, which include the Cybertruck next-generation platform, in-house cell production, energy storage business and our autonomy and AI-enabled products.
+     And we plan to do this while keeping the business financially healthy and industry leading.
+     To accomplish this, we need to remain focused on cost efficiency and working capital and in particular, unwinding the strategic inventory buildup left over from the pandemic.
+     I want to conclude by thanking the Tesla team again, as well as thanking our suppliers and our customers.
+     Question-and-Answer Session
+
+A - Martin Viecha
+
+Thank you very much.
+     And let's go to investor questions on say.com.
+     The first one is what is the process to make auto pricing adjustments?
+     What variables do you consider?
+-----
+4. [Sentence #1170, TSLA_Q3_2023] [SCALE ACHIEVED]
+     Regarding energy storage, we deployed 4 gigawatt hours of energy of storage products in Q3.
+     And as this business grows, the energy division is becoming our highest margin business.
+     Energy and service now contribute over $0.5 billion to quarterly profit.
+     The Cybertruck, I know a lot of people are excited about the Cybertruck.
+     I am too.
+     I’ve driven the car.
+     It’s an amazing product.
+>>> I do want to emphasize that there will be enormous challenges in reaching volume production with the Cybertruck, and then in making a Cybertruck cash flow positive.
+     This is simply normal for when you’ve got a product with a lot of new technology or any new vehicle, brand new vehicle program, but especially one that is as different and advanced as the Cybertruck, you will have problems proportionate to how many new things you’re trying to solve at scale.
+     So, I just want to emphasize that while I think this is potentially our best product ever and I think it is our best product ever, it is going to be -- require immense work to reach volume production and be cash flow positive at a price that people can afford.
+     Often people do not understand what is truly hard.
+     That’s why I say prototypes are easy, production is hard.
+     People think it’s the idea, or you make a prototype, you design a car.
+     And as soon as they’re designing a car, it’s just anyone can do it, it does require taste, it does require effort to design a prototype.
+     But it’s difficult to going from a prototype to volume production, it’s like 10,000% harder to get to volume production than to make a prototype in the first place, and then it is even harder than that to reach positive cash flow.
+-----
+5. [Sentence #637, TSLA_Q2_2023] [PILOT]
+     So, to date, over 300 million miles have been driven using FSD beta.
+     That 300 million mile number is going to seem small very quickly.
+     It’ll soon be billions of miles, then tens of billions of miles.
+     And FSD will go from being as good as a human to then being vastly better than a human.
+     We see a clear path to full self-driving being 10 times safer than the average human driver, so.
+     And between Autopilot, Dojo computer, our inference hardware in the car, which we call sort of Hardware 3, 4, but it’s really dedicated.
+     It’s a high efficiency inference computer that’s in the car and our Optimus robot, Tesla’s clearly at the cutting edge of AI development.
+>>> With regard to our Cybertruck, we continue to build our release candidates of the Cybertruck on our final production line in Austin.
+     I’m actually here in Austin at the Gigafactory.
+     This is the first truck that we’re aware of that will have four doors over a six foot bed and will fit into a 20-foot garage.
+     So, it’s sort of biggest on the outside, but it’s even bigger on the inside.
+     So it’s -- I think that’s a -- one of the elements of good design is it should feel bigger on the inside than it looks on the outside.
+     And this is no small car, but we really cared about the exterior dimensions of the Cybertruck down to the last millimeter.
+     So just -- we try to get right in the middle of the Goldilocks zone, not too big, not too small and then really maximize the utility of the volume.
+     And we can’t wait to start delivering it later this year.
+-----
+6. [Sentence #695, TSLA_Q2_2023] [PLAN]
+     How far are you from the specs you laid out on Battery Day?
+     When do you expect to achieve what you laid out on Battery Day?
+     Unidentified Company Representative
+
+Yes.
+     First, I’ll just start with a little bit of a production update.
+     So, in Texas, 4680 cell production increased 80% Q2 over Q1, and the team surpassed 10 million production cells produced here in Texas.
+     So, congrats to the team for that.
+     Their focus on yield reduced our scrap bill by 40% quarter-over-quarter, and that resulted in a 25% reduction in cell COGS.
+>>> Here in Texas, we’re preparing to launch our Cybertruck cell, which is 10% higher energy density than current production.
+     That was accomplished through process and mechanical design optimization.
+     As we scale Cyber cell production through the end of the year and early next, we should be in a comfortable place on cost per cell.
+     Against our battery energy density targets, the Cyber cell is at our expectations on a like-for-like electrochemistry basis.
+     We’re yet to integrate silicon or in-house cathode production, both reviewed on Battery Day, which do bring significant further energy density and cost improvements, but that is a topic for another day.
+     Lastly, it is important to remember that most of what we focused on a Battery Day was the Tesla-engineered 4680 production system and the improvements we strove to achieve on equipment, factory density, capital cost and utility cost reduction, all of which we are realizing in our Texas scale up to date.
+     Martin Viecha
+
+Thank you very much.
+     The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the revenue model?
+-----
+7. [Sentence #1240, TSLA_Q3_2023] [SCALE ACHIEVED]
+     4680 cell production in Texas increased 40% quarter-over-quarter.
+     Congrats to the Texas team for producing their 20 million cell off of line one.
+     Texas is now our primary 4680 facility.
+     We’re heavily focused on quality.
+     Scrap is down 40% quarter-over-quarter.
+     With the increased volume and yield improvements, cell costs consistently improved month-over-month within the quarter, although we have a lot more work to do to achieve our steady state goals.
+     And that is our priority.
+>>> The Cybertruck cell with 10% higher energy than our Model Y cell started production on line two in Texas.
+     This quarter we convert to building a 100% Cybertruck cells to simplify and focus the factory as we ramp all four lines in Phase 1 over the next three quarters.
+     Phase 2 of the Texas 4680 facility is currently under construction.
+     The additional four lines incorporate further capital efficiencies over Phase 1, and our target is for them to start producing in late 2024.
+     Lastly, in Kato, we’re retooling to enable large scale pallet runs of our next generation cell designs.
+     Kato’s long-term goal is to be the launch pad for new cells, one generation ahead of our mass production facilities, enabling faster iteration and smoother ramp ups of new designs.
+     A – Martin Viecha
+
+Thank you.
+     The next question from institutional investors.
+-----
+8. [Sentence #2097, TSLA_Q4_2023] [SCALE ACHIEVED]
+     Dan Levy
+
+Hi.
+     Good evening.
+     Thank you for taking the questions.
+     First, I'm wondering if you can just walk through some of the gating factors required to unlock your next-gen platform.
+     You talked about a number of cost initiatives back at the Investor Day a year ago, things in manufacturing and powertrain.
+     Maybe you can just give us a sense of where these initiatives stand.
+     And do you believe -- we know that there's a number of new features and technologies in Cybertruck, things like 48 volts architecture, really employing your 4680 batteries.
+>>> To what extent do you think Cybertruck is really a proving ground for the next-gen platform and is really going to be a gating factor to unlocking the cost reductions needed for the next-gen platform?
+     Lars Moravy
+
+Yeah, I don't think that anything on Cybertruck should be considered gating for the next-gen platform.
+     We're obviously doing a lot of manufacturing innovation, as Elon said, for a next-generation vehicle.
+     When you do something at that scale, you have to prove it out.
+     You don't just throw it on the line and just build it.
+     So we're going through those validation phases for all those new manufacturing technologies now.
+     Sure, 48 volts was definitely something we wanted to carry forward, and it's something we hope the industry adopts as well.
+     We're also open to partnering.
+-----
+9. [Sentence #54, TSLA_Q1_2023] [PILOT]
+     In conclusion, we're taking a view that we want to keep making and selling as many cars as we can.
+     Despite this being an uncertain macro environment, this is a good time to increase our lead further, and we'll continue to invest in growth as fast as possible.
+     Once again, I'd like to give a huge thanks to all Tesla employees worldwide who are doing an incredible job again.
+     And yes, super appreciated.
+     Martin Viecha
+
+Thank you very much.
+     And Zach has some remarks as well.
+     Zachary Kirkhorn
+
+Thanks Martin.
+>>> I want to start by congratulating the Tesla team for record vehicle production and deliveries.
+     And I also want to congratulate our energy storage team for record volumes as well.
+     There's three main points I want to make.
+     First, automotive gross margin and operating margin reduced sequentially.
+     But as Elon mentioned, these remain at healthy levels.
+     In particular, automotive gross margin was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve vehicle pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as increased deferred revenue for certain Autopilot features as we transition technologies.
+     Progress on vehicle cost reduction continued in Q1 with meaningful improvements on logistics and the beginnings of some commodity cost reductions starting to be realized.
+     Per unit cost for Austin and Berlin improved as well, driven by record volumes.
+-----
+10. [Sentence #1846, TSLA_Q4_2023] [PLAN]
+     Vaibhav Taneja
+
+As we have said in our prior guidance, there will be periods where we won't be growing at the same rate as before.
+     We are between two major growth waves.
+     The first one began with the global expansion of Model 3 and Y, and we believe the next one will be initiated with the next generation platform.
+     In 2024, our volume growth will be lower, as we have said, because we are trying to focus the team on the launch of the next generation vehicle.
+     Martin Viecha
+
+All right.
+     Thank you very much.
+     The next question is from Michael.
+>>> When will Tesla start construction on the Giga Nevada expansion and Giga Mexico, and when can we expect each of these to produce their first products such as 4680 cell, Semi, and next-gen vehicles?
+     Karn Budhiraj
+
+We have recently broken ground for the next phase of Giga Nevada expansion to incorporate Semi and other projects.
+     But as said earlier, as regarding Mexico, we want to first demonstrate success with the next-generation platform in Austin before we start construction.
+     Therefore, we have started the long lead work to get the basics ready and plan to follow our recipe from the 3/Y ramp with Shanghai, where we started with learnings from Fremont and ramp really quickly.
+     Elon Musk
+
+Yeah, exactly.
+     It's important to emphasize that I mean, Model 3 production was three years of hell, I've said it before, some of the really worst years of my life, frankly.
+     I still have mental scar tissue from those three years, as do many.
+     And then Model Y was somewhat of a variant on Model 3.
+-----
+11. [Sentence #26, TSLA_Q1_2023] [SCALE ACHIEVED]
+     We've taken a view that pushing for higher volumes and a larger fleet is the right choice here versus a lower volume and higher margin.
+     However, we expect our vehicles, over time, will be able to generate significant profit through autonomy.
+     So we do believe we're like laying the groundwork here, and then it's better to ship a large number of cars at a lower margin, and subsequently, harvest that margin in the future as we perfect autonomy.
+     This is an extremely important point.
+     Let's see.
+     Regarding the Cybertruck, we continue to build Alpha versions of the Cybertruck on our pilot line for testing purposes.
+     It's a great product, and we're completing the installation of the volume production line at Giga Texas, and we're anticipating having delivery event, a great delivery event probably in Q3.
+>>> As with all new products, it will follow an S curve, so production starts out slow and then accelerates.
+     So the Cybertruck is no different.
+     So it's -- there's [Indiscernible] amount of demand for the product, obviously.
+     And it is my view, a fantastic product, a hall of famer.
+     But as with all new products, it takes time to get the manufacturing line going.
+     And this is really a very radical product.
+     It's not made in the way that other cars are made.
+     So with regard to Megapack, we're making great progress.
+-----
+12. [Sentence #1217, TSLA_Q3_2023] [PLAN]
+     To that extent, we recently announced a partner vehicle leasing program in the U.S. whereby you can get a standard Model Y for as low as $399 a month.
+     In conclusion, as we navigate through a challenging economic environment, we’re focused on reducing costs, maximizing delivery volumes, and continuing making investments in the future, in particular, AI and other next generation platform.
+     We believe this strategy positions us well for the long term.
+     Once again, I would like to thank the Tesla team for their efforts in the last quarter.
+     Question-and-Answer Session
+
+A - Martin Viecha
+
+Thank you very much.
+     And now let’s go to investor questions.
+     The first investor question comes from Craig.
+>>> How many Cybertruck deliveries do you anticipate for 2024?
+     Elon Musk
+
+It’s difficult to make an accurate guess at this point.
+     Going back to what I said earlier that the ramp is going to be extremely difficult.
+     And like I said, there’s no way around that.
+     If you try to make -- if we just try to do some copycat vehicle design, of which there are literally 200 models that are slight variations on a theme in the combustion engine world, distinctions without a difference, then it’s really not that hard.
+     But if you want to do something radical and innovative and something really special, like the Cybertruck, it is extremely difficult because there’s nothing to copy.
+     You have to invent not just the car, but the way to make the car.
+     So, the more uncharted the territory, the less predictable the outcome.
+-----
+13. [Sentence #141, TSLA_Q1_2023] [PLAN]
+     We do believe structural as a concept is a good one.
+     It's simpler.
+     We'll continue to structurally load the cells and use the pack as the floor of the vehicle while iterating the design to closer to B-level execution of this A-level architecture in future programs.
+     And zooming out for the 4680 team, Q1 was all about cost and quality.
+     We made significant improvements in both areas.
+     Texas production increased 50% quarter-over-quarter through yields increased 12% and [Indiscernible] peak rate increased by 20% and through yields improved by 20%.
+     Altogether, the team accomplished a 25% reduction in COGS over the quarter, and we are on track to achieve steady-state cost targets over the next 12 months.
+>>> And going forward for the rest of the year, the priority, one, is yielding cost for the 4680 program as we steadily ramp production ahead of Cybertruck next year.
+     Martin Viecha
+
+Thank you very much.
+     The next question is, what do you anticipate 2023 automotive gross margins ex credits will be at the company's current pricing levels?
+     Zachary Kirkhorn
+
+Yes, I can start off on this one.
+     This is a difficult environment to make a projection like this.
+     There's a lot of macro uncertainty.
+     There's also headwinds and tailwinds.
+     And this is basically a question I think that's asking about viewpoint on where costs will go.
+-----
+14. [Sentence #990, TSLA_Q2_2023] [UNCERTAIN]
+     I want to say, the fundamental rate limiter on the progress of full self-driving is training.
+     That’s -- if we had more training compute, we would get it done faster.
+     So that’s it.
+     Zachary Kirkhorn
+
+And it’s just difficult to predict how quickly we can execute on it.
+     Dan Levy
+
+Great.
+     Thank you.
+     Just as a follow-up, I recognize there’s incredible macro uncertainty right now, but you’re sticking with your near term, your volume target of 50% CAGR.
+>>> As we just think about sort of in the year ahead, Cybertruck is going to be some contribution.
+     There’s going to be some help from further EV penetration growth.
+     But to what extent are you willing to sacrifice on pricing to keep that 50% volume CAGR intact, or are you thinking differently about margins versus your prior commentary of willing to sacrifice on margins to get more share?
+     Elon Musk
+
+It’s not about getting more share.
+     It’s just that you can think of every car that we sell or produce that has full autonomy capability as actually something that in the future may be worth as much as 5 times what it is today.
+     Because average -- vehicle is doing like maybe 10 hours of driving a week.
+     If sort of -- if this says 1.5 hours a day on average, that’s 10 hours a week-ish.
+     If you’ve got on autonomous -- if the vehicle is able to operate autonomously and use either dedicated autonomous or partially autonomous like Airbnb, like maybe sometimes you allow your car to be used by others.
+-----
+15. [Sentence #1200, TSLA_Q3_2023] [PILOT]
+     Vehicle deliveries in Q3 outpaced production, and we had yet another record quarter of profitability in our energy business.
+     Congratulations to the Tesla team for the continued focus on operational excellence as we navigate through a period of economic uncertainty, higher interest rates, and shifting consumer sentiment.
+     As Elon mentioned, our Q3 operational and financial performance was impacted by planned downtimes for our factory upgrades.
+     This was necessary to allow for further factory improvements and production rate increases.
+     Despite such factory shutdowns, our cost per vehicle decreased to approximately $37,500.
+     We saw sequential decreases in material cost and freight.
+     Reducing the cost of our vehicles is our top priority.
+>>> On the operating expenses front, R&D expenses continued to rise due to Cybertruck prototype builds and pilot production testing combined with spend on AI technologies like full self-driving, Optimus and Dojo.
+     We have and will continue to make investments in these areas, and hence our capital expenditure and R&D will continue to grow in the near term.
+     However, our focus is to continue making investments through positive cash flow from operations.
+     This year itself, we have generated operating cash flows of approximately [$8.9 billion] (ph) and free cash flows of approximately $2.3 billion.
+     Our other businesses are becoming more prominent on a standalone basis with energy business leading the charge, primarily from the growth in Megapack deployments.
+     Our services and other businesses on a year-on-year basis also continue to show positive momentum as we benefit from our growing fleet.
+     As regards our pricing strategy, in addition to what we have shared before, I want to elaborate that most car buying happens with one or other form of financing, and hence we also view pricing in terms of monthly costs for the customer.
+     And therefore, as interest costs in the U.S. have risen substantially, it has required us to adjust the price of our vehicles to keep the monthly cost in parity.
+-----
+16. [Sentence #1560, TSLA_Q3_2023] [PLAN]
+     And then inevitably, sometimes the QR code doesn’t go on properly or you can’t read it properly, and it stops the line.
+     Unidentified Company Representative
+
+More than a penny.
+     Elon Musk
+
+Yes, absolutely.
+     So chipping away, with -- I mean it is trying to -- it does feel like digging a tunnel with a spoon at times.
+     Unidentified Company Representative
+
+Very much escaping prison.
+     Vaibhav Taneja
+
+On top of it, like we said, we did some factory upgrades, so we expect volume to go up.
+     That would also bring some savings from higher production.
+>>> But then on the flip side, we’re going to be ramping a new product like Cybertruck, which we talked about.
+     So, yes, so those are the real puts and takes what we are working for.
+     Elon Musk
+
+Yes.
+     But there’s not like some accidently some brick of gold that we go left in the car, unfortunately.
+     And it’s -- we’re trying to be very rigorous about improving the quality and capability of the car because it’s like any fool can reduce the cost of a car by making it worse and just deleting functionality and capability and that’s how I call this sort of any fool -- like if you want to like lose weight and you’d say, well, I need to lose over 15 pounds right away, well, you could chop your arm off, but then you’re sitting with one arm.
+     You’re still fat.
+     So sort of like yes, you actually have to eat less food and work out.
+     That’s the actual way.
+-----
+17. [Sentence #24, TSLA_Q1_2023] [SCALE ACHIEVED]
+     I don't think I'm telling anyone anything, I think people already know, especially with large purchases such as cars.
+     And while we reduced prices considerably in early Q1, it's worth noting that our operating margin remains among the best in the industry.
+     We've taken a view that pushing for higher volumes and a larger fleet is the right choice here versus a lower volume and higher margin.
+     However, we expect our vehicles, over time, will be able to generate significant profit through autonomy.
+     So we do believe we're like laying the groundwork here, and then it's better to ship a large number of cars at a lower margin, and subsequently, harvest that margin in the future as we perfect autonomy.
+     This is an extremely important point.
+     Let's see.
+>>> Regarding the Cybertruck, we continue to build Alpha versions of the Cybertruck on our pilot line for testing purposes.
+     It's a great product, and we're completing the installation of the volume production line at Giga Texas, and we're anticipating having delivery event, a great delivery event probably in Q3.
+     As with all new products, it will follow an S curve, so production starts out slow and then accelerates.
+     So the Cybertruck is no different.
+     So it's -- there's [Indiscernible] amount of demand for the product, obviously.
+     And it is my view, a fantastic product, a hall of famer.
+     But as with all new products, it takes time to get the manufacturing line going.
+     And this is really a very radical product.
+-----
+18. [Sentence #1166, TSLA_Q3_2023] [SCALE ACHIEVED]
+     So, interesting to think about that.
+     We’ll continue to invest significantly in AI development, as this is really the mass game changer.
+     And I mean success in this regard in the long-term I think has the potential to make Tesla the most valuable company in the world by far.
+     If you have fully autonomous cars at scale and fully autonomous humanoid robots that are truly useful, it’s not clear what the limit is.
+     Regarding energy storage, we deployed 4 gigawatt hours of energy of storage products in Q3.
+     And as this business grows, the energy division is becoming our highest margin business.
+     Energy and service now contribute over $0.5 billion to quarterly profit.
+>>> The Cybertruck, I know a lot of people are excited about the Cybertruck.
+     I am too.
+     I’ve driven the car.
+     It’s an amazing product.
+     I do want to emphasize that there will be enormous challenges in reaching volume production with the Cybertruck, and then in making a Cybertruck cash flow positive.
+     This is simply normal for when you’ve got a product with a lot of new technology or any new vehicle, brand new vehicle program, but especially one that is as different and advanced as the Cybertruck, you will have problems proportionate to how many new things you’re trying to solve at scale.
+     So, I just want to emphasize that while I think this is potentially our best product ever and I think it is our best product ever, it is going to be -- require immense work to reach volume production and be cash flow positive at a price that people can afford.
+     Often people do not understand what is truly hard.
+-----
+19. [Sentence #765, TSLA_Q2_2023] [PLAN]
+     So, it needs to be -- you need to take advantage of it in Q3, but -- or at least place the order in Q3 within reasonable delivery time frames.
+     So yes, I hope this makes people happy.
+     This is a onetime thing.
+     Martin Viecha
+
+Right.
+     The next question, when will we give more information about the Cybertruck orders, estimated delivery schedules, pricing and specifications?
+     Elon Musk
+
+Demand is so far off the hook, you can’t even see the hook.
+     So, that’s really not an issue.
+>>> I do want to emphasize that the Cybertruck has a lot of new technology in it, like a lot.
+     It doesn’t look like -- it doesn’t look like any other vehicle because it is not like any other vehicle.
+     So -- and the production ramp will move as fast as the slowest and least likely elements of the entire supply chain and internal production.
+     So, I wouldn’t expect -- I hope it’s smooth.
+     We’re certainly better at production ramps that -- we’ve got a lot of experience with the production ramps.
+     But first order approximation, there’s like 10,000 unique parts and processes in the Cybertruck.
+     And if any one of -- it will go as fast as the least lucky, least well-executed element of the 10,000.
+     So, it’s always difficult to predict the ramp initially, but I think we’ll be making them in high volume next year, and we will be delivering the car this year.
+-----
+20. [Sentence #1241, TSLA_Q3_2023] [SCALE ACHIEVED]
+     Congrats to the Texas team for producing their 20 million cell off of line one.
+     Texas is now our primary 4680 facility.
+     We’re heavily focused on quality.
+     Scrap is down 40% quarter-over-quarter.
+     With the increased volume and yield improvements, cell costs consistently improved month-over-month within the quarter, although we have a lot more work to do to achieve our steady state goals.
+     And that is our priority.
+     The Cybertruck cell with 10% higher energy than our Model Y cell started production on line two in Texas.
+>>> This quarter we convert to building a 100% Cybertruck cells to simplify and focus the factory as we ramp all four lines in Phase 1 over the next three quarters.
+     Phase 2 of the Texas 4680 facility is currently under construction.
+     The additional four lines incorporate further capital efficiencies over Phase 1, and our target is for them to start producing in late 2024.
+     Lastly, in Kato, we’re retooling to enable large scale pallet runs of our next generation cell designs.
+     Kato’s long-term goal is to be the launch pad for new cells, one generation ahead of our mass production facilities, enabling faster iteration and smoother ramp ups of new designs.
+     A – Martin Viecha
+
+Thank you.
+     The next question from institutional investors.
+     Could you please provide an update on capacity expansion plans for company’s factories in Berlin and Austin, and the opening schedule of Gigafactory Mexico?
+-----
+21. [Sentence #1748, TSLA_Q4_2023] [PLAN]
+     We can open it up to questions, Martin.
+     Question-and-Answer Session
+
+A - Martin Viecha
+
+Thank you.
+     Let's go through investor questions.
+     Question number one is from Michael.
+     Given that you moved the start of the next-generation compact vehicle production to Austin, has the timeline improved so that we might see next-generation platform vehicles in 2025?
+     Elon Musk
+
+I mean, I would certainly say things with they should be taken with a grain of salt, since I am often optimistic.
+     I don't want to blow your minds, but I'm often optimistic regarding time.
+>>> But our current schedule shows that we will start production towards the end of 2025.
+     So sometime in the second half.
+     That's just what our current schedule says.
+     But there's a lot of new technology like a tremendous amount of new revolutionary manufacturing technology here.
+     The reason I wanted to put this new revolutionary manufacturing line at Giga Texas was because we really need the engineers to be living on the line.
+     This is not sort of off the shelf, just works type of thing.
+     And it's just a lot easier for Tesla engineering to live online if it's in Austin versus elsewhere.
+     So -- but we are currently expecting to start production second half next year.
+-----
+22. [Sentence #1644, TSLA_Q4_2023] [PLAN]
+     These comments are based on our predictions and expectations as of today.
+     Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC.
+     During the question-and-answer portion of today's call, please limit yourself to one question and one follow-up.
+     Please use the raise hand button to join the question queue.
+     But before we jump into Q&A, Elon has some opening remarks.
+     Elon?
+     Elon Musk
+
+Thank you.
+>>> So the Tesla team did an incredible job in 2023.
+     We achieved record production and deliveries of over 1.8 million vehicles in line with our official guidance.
+     And in Q4, we were producing vehicles at an annualized run rate of almost 2 million cars a year.
+     This is really a phenomenal achievement.
+     Looking at just the Fremont factory alone, we made 560,000 cars.
+     This is a record.
+     In fact, it's the highest output of automotive plants in North America.
+     And people are often surprised that the highest output factory, car factory in North America is in the San Francisco Bay area.
+-----
+23. [Sentence #1446, TSLA_Q3_2023] [PLAN]
+     So just in terms of product margins, there are lots of puts and takes when you look at this.
+     There are certain things which we control, and there are certain things which we don’t control.
+     We get -- we expect that we’ll get some benefits from our cost reduction efforts, which are all underway.
+     So on the other hand, we just finished our factory upgrades late in Q3.
+     Some of these factories are still in the early ramp phase in Q4.
+     We’re still not up to where we want those factories to be.
+     So, they will impact in the near term.
+>>> Plus, like Elon mentioned, we’re going to be ramping Cybertruck, which is going to be another headwind, which we will be dealing with.
+     On top of all that, there’s overall uncertainty in the macroeconomic environment, which even makes it harder to predict precisely as to where we land.
+     But yes, this is something which -- it’s an evolving thing which we’re observing every day and reacting to it on a daily basis.
+     Unidentified Company Representative
+
+I would just say that on the cost reduction efforts, like we are not -- we are unflagging in our pursuit of additional cost downs for 2024.
+     We do have a good pipeline of them and work on both the engineering side and the factory operations side.
+     And our intention is to like maintain or exceed the trend that you saw, trying as hard as we possibly can.
+     Rod Lache
+
+The timing of the next-gen product, can you share that?
+     Elon Musk
+
+Not at this time.
+-----
+24. [Sentence #700, TSLA_Q2_2023] [PLAN]
+     So, congrats to the team for that.
+     Their focus on yield reduced our scrap bill by 40% quarter-over-quarter, and that resulted in a 25% reduction in cell COGS.
+     Here in Texas, we’re preparing to launch our Cybertruck cell, which is 10% higher energy density than current production.
+     That was accomplished through process and mechanical design optimization.
+     As we scale Cyber cell production through the end of the year and early next, we should be in a comfortable place on cost per cell.
+     Against our battery energy density targets, the Cyber cell is at our expectations on a like-for-like electrochemistry basis.
+     We’re yet to integrate silicon or in-house cathode production, both reviewed on Battery Day, which do bring significant further energy density and cost improvements, but that is a topic for another day.
+>>> Lastly, it is important to remember that most of what we focused on a Battery Day was the Tesla-engineered 4680 production system and the improvements we strove to achieve on equipment, factory density, capital cost and utility cost reduction, all of which we are realizing in our Texas scale up to date.
+     Martin Viecha
+
+Thank you very much.
+     The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the revenue model?
+     Given Tesla’s AI capabilities, how do you see the long-term mix between hardware margin and recurring software margin from Autobidder as this segment accelerates?
+     Unidentified Company Representative
+
+We can’t comment on future product road map, but I can provide a quick energy Q2 update.
+     Megapack continues to show strong demand globally with Lathrop ramping successfully to meet our contracted projects in 2023.
+     As stated last quarter, Megapack margins are in a reasonable place, in line with our target – vehicle target margins.
+     The second final assembly line at Lathrop is progressing on schedule, eventually doubling Lathrop capacity ahead of our full factory ramp in 2024.
+-----
+25. [Sentence #1271, TSLA_Q3_2023] [PLAN]
+     I don’t think it’s nothing.
+     But informing people of a car that is great, but they cannot afford doesn’t really help.
+     So that is really the thing that must be solved is to make the car affordable or the average person cannot buy it for any amount of money or they can’t afford it.
+     So, this is big deal.
+     Martin Viecha
+
+The next question is, when do you expect Model 3 Highland to be available in the U.S.?
+     I just wanted to address that unfortunately we don’t answer product related questions and timings on earnings calls.
+     So let’s go to the next one.
+>>> Current sell side consensus assumes that Tesla will deliver 2.3 million vehicles in 2024, representing 28% growth versus 2023 guidance.
+     Is this growth rate achievable without any mass market launches in 2024?
+     And when does Tesla expect to return to its 50% long-term CAGR?
+     Vaibhav Taneja
+
+When we look at 2024, there are a lot of moving pieces.
+     I just talked about what is happening in the macroeconomic environment.
+     So, we’re focused on growing our volumes in a very cost efficient manner and are carefully reviewing all our options, and we’ll be able to provide a much more meaningful update at our next earnings call.
+     Elon Musk
+
+Yes.
+     I mean, at the risk of stating the obvious, it is not possible to have a compound growth rate of 50% forever, or you will exceed the mass of the known universe.
+-----
+26. [Sentence #1766, TSLA_Q4_2023] [PLAN]
+     We will be.
+     But I am confident that once it is going, it will be head and shoulders above any other manufacturing technology that exists anywhere in the world.
+     It's next level.
+     So it's always difficult to predict what that S-curve of manufacturing looks like.
+     So it always starts off real slow, and then it grows exponentially.
+     So -- and predicting that intermediate S-curve is difficult, so I don't know.
+     It's hard to say what the unit volume would be next year.
+>>> We're not going to make any predictions on that front, but it does seem quite likely that we will start production next year.
+     Martin Viecha
+
+Thank you.
+     The next question is from Michael again.
+     What has been the barrier to ramping 4680 cells into the multi-million cells per week rate and when do you expect to get there?
+     Elon Musk
+
+Karn?
+     Karn Budhiraj
+
+Yeah.
+     First, I just want to allay any concerns regarding 4680 limiting the Cybertruck ramp, because I've seen some people commenting about that.
+     To date, 4680 production is ahead of the ramp with actually weeks of finished cell inventory.
+-----
+27. [Sentence #669, TSLA_Q2_2023] [UNCERTAIN]
+     And I think Zach has some opening remarks as well.
+     Zachary Kirkhorn
+
+Yes.
+     Thanks Martin.
+     As Elon mentioned, Q2 was another record quarter of production and deliveries, as well as records in profit for our energy and services and other businesses.
+     Congratulations again to the Tesla team on the continued progress.
+     As we navigate through a period of economic uncertainty, rising interest rates, volatility in consumer confidence and regulatory change, I want to comment on our financial approach.
+     First, the single most important priority is to ensure we are continuing to invest heavily in the core technologies that will drive the long-term value of the business.
+>>> This includes increasing spending on AI related technologies such as full self-driving, Optimus and Dojo, as well as new products such as Cybertruck, our next generation platform and the Semi, as evidenced by the continued growth in our R&D spend.
+     This also includes continuing our investments in capacity expansion, not only in our vehicle factories, but also our Supercharging network, service, internal applications, and battery processes, as we continue with meaningful capital expenditures to lay this foundation for the future.
+     Second, we continue to work towards our goals of maximizing volumes on both, our vehicle and energy business, but most importantly, doing so in a way that generates the capital to continue our pace of R&D and capital investments.
+     This requires a strong focus on per unit COGS reductions in each of our key businesses, as well as working capital improvements on raw materials, work in process inventory and customer AR, all of which progressed appropriately in Q2.
+     If we look specifically at our automotive business, our gross margin showed a modest reduction and remained healthy, despite action taken to further improve vehicle affordability early in the quarter.
+     We recognized – we realized per unit cost improvements in nearly every category, including material cost and commodities, manufacturing costs and logistics, while also continuing to rapidly increase the build rate in our Austin and Berlin factories.
+     For our energy business, we improved margins and gross profit driven by cost reductions and deal economics, particularly with Megapack.
+     As a reminder, storage volumes are typically volatile sequentially based on the types of projects and their specific revenue recognition milestones.
+-----
+
+Total context windows: 27

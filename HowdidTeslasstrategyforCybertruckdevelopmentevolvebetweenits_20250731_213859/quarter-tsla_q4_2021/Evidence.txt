@@ -1,0 +1,35 @@
+[TSLA_Q4_2021] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #12]  So, just to recap 2021, it was a breakthrough year for Tesla and for electric vehicles in general.
+2. [Sentence #57]  We will, however, do a lot of engineering and tooling and whatnot to create those vehicles, **Cybertruck**, Semi, Roadster, Optimus, and be ready to bring those to **production** hopefully next year.
+3. [Sentence #262]  Martin Viecha
+
+And the next question is, what are the biggest obstacles for **Cybertruck** volume **production** besides battery shortage?
+4. [Sentence #263]  Elon Musk
+
+Batteries will probably not be the limiting factor in **Cybertruck** **production**.
+5. [Sentence #264]  There's a lot of new technology in the **Cybertruck** that will take some time to work through.
+6. [Sentence #268]  I worry more about like how do we the **Cybertruck** affordable despite having awesome technology.
+7. [Sentence #270]  Aspirationally, we'd like it to go, in terms of just a rough order of magnitude, we'd like **Cybertruck** to be at least on the order of [indiscernible] vehicles a year.
+8. [Sentence #434]  If there is no $25,000 vehicle being worked on, is it really realistic to think that you can sell more than 3 million vehicles with two very high-volume cars and **Cybertruck** in 2024, or how do we think about that or what else is missing in that equation?
+
+Total transcript-order evidence sentences: 8
+
+--- Evidence by Similarity ---
+1. [Sentence #262]  (Similarity: 0.846) Martin Viecha
+
+And the next question is, what are the biggest obstacles for **Cybertruck** volume **production** besides battery shortage?
+2. [Sentence #263]  (Similarity: 0.808) Elon Musk
+
+Batteries will probably not be the limiting factor in **Cybertruck** **production**.
+3. [Sentence #57]  (Similarity: 0.774) We will, however, do a lot of engineering and tooling and whatnot to create those vehicles, **Cybertruck**, Semi, Roadster, Optimus, and be ready to bring those to **production** hopefully next year.
+4. [Sentence #264]  (Similarity: 0.718) There's a lot of new technology in the **Cybertruck** that will take some time to work through.
+5. [Sentence #268]  (Similarity: 0.657) I worry more about like how do we the **Cybertruck** affordable despite having awesome technology.
+6. [Sentence #270]  (Similarity: 0.647) Aspirationally, we'd like it to go, in terms of just a rough order of magnitude, we'd like **Cybertruck** to be at least on the order of [indiscernible] vehicles a year.
+7. [Sentence #434]  (Similarity: 0.620) If there is no $25,000 vehicle being worked on, is it really realistic to think that you can sell more than 3 million vehicles with two very high-volume cars and **Cybertruck** in 2024, or how do we think about that or what else is missing in that equation?
+8. [Sentence #12]  (Similarity: 0.603) So, just to recap 2021, it was a breakthrough year for Tesla and for electric vehicles in general.
+
+Total similarity-top evidence sentences: 8
+
+-----

@@ -1,0 +1,55 @@
+[Year 2021] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #24]  (TSLA_Q1_2021) It’s been exceeded by the Tesla Model 3, and this is only three-and-a half years into **production** and with just two factories.
+2. [Sentence #63]  (TSLA_Q1_2021) But we do expect to ramp Model S **production** and **start** delivering them probably next month.
+3. [Sentence #64]  (TSLA_Q1_2021) So -- and then to be in sort of fairly high-volume **production** for the S in Q3 and to **start** delivering the Model X in Q3 as well.
+4. [Sentence #76]  (TSLA_Q1_2021) In the background, we are continuing work -- **development** work on the Semi, **Cybertruck**, on the Roadster and other products.
+5. [Sentence #355]  (TSLA_Q1_2021) The truly profound thing on the car side is that Tesla was the first American car company to achieve volume **production** of a car in 100 years and not go bankrupt.
+6. [Sentence #1110]  (TSLA_Q3_2021) The second question from institutional investor comes, do you still expect to **start** **production** of the $25,000 model in 2023.
+7. [Sentence #1117]  (TSLA_Q3_2021) As we've mentioned before, after Model Y in Austin, our next product launch will be **Cybertruck**.
+8. [Sentence #1138]  (TSLA_Q3_2021) The next question, a question from retail shareholder is, what is Tesla 's goal for vehicle **production** capacity for the four current factories, Fremont, Shanghai, Austin and Berlin by 2024?
+9. [Sentence #1281]  (TSLA_Q3_2021) The next question is, Elon said that we get an update on **Cybertruck** in November a year ago, but it hasn't happened and we know there are a lot of updates.
+10. [Sentence #1286]  (TSLA_Q3_2021) We've been busy detailing the **Cybertruck** to achieve the prototype version we shared with customers awhile back.
+11. [Sentence #1613]  (TSLA_Q4_2021) So, just to recap 2021, it was a breakthrough year for Tesla and for electric vehicles in general.
+12. [Sentence #1658]  (TSLA_Q4_2021) We will, however, do a lot of engineering and tooling and whatnot to create those vehicles, **Cybertruck**, Semi, Roadster, Optimus, and be ready to bring those to **production** hopefully next year.
+13. [Sentence #1863]  (TSLA_Q4_2021) Martin Viecha
+
+And the next question is, what are the biggest obstacles for **Cybertruck** volume **production** besides battery shortage?
+14. [Sentence #1864]  (TSLA_Q4_2021) Elon Musk
+
+Batteries will probably not be the limiting factor in **Cybertruck** **production**.
+15. [Sentence #1865]  (TSLA_Q4_2021) There's a lot of new technology in the **Cybertruck** that will take some time to work through.
+16. [Sentence #1869]  (TSLA_Q4_2021) I worry more about like how do we the **Cybertruck** affordable despite having awesome technology.
+17. [Sentence #1871]  (TSLA_Q4_2021) Aspirationally, we'd like it to go, in terms of just a rough order of magnitude, we'd like **Cybertruck** to be at least on the order of [indiscernible] vehicles a year.
+18. [Sentence #2035]  (TSLA_Q4_2021) If there is no $25,000 vehicle being worked on, is it really realistic to think that you can sell more than 3 million vehicles with two very high-volume cars and **Cybertruck** in 2024, or how do we think about that or what else is missing in that equation?
+
+Total transcript-order evidence sentences: 18
+
+--- Evidence by Similarity ---
+1. [Sentence #1863]  (TSLA_Q4_2021) (Similarity: 0.846) Martin Viecha
+
+And the next question is, what are the biggest obstacles for **Cybertruck** volume **production** besides battery shortage?
+2. [Sentence #1864]  (TSLA_Q4_2021) (Similarity: 0.808) Elon Musk
+
+Batteries will probably not be the limiting factor in **Cybertruck** **production**.
+3. [Sentence #76]  (TSLA_Q1_2021) (Similarity: 0.807) In the background, we are continuing work -- **development** work on the Semi, **Cybertruck**, on the Roadster and other products.
+4. [Sentence #1658]  (TSLA_Q4_2021) (Similarity: 0.774) We will, however, do a lot of engineering and tooling and whatnot to create those vehicles, **Cybertruck**, Semi, Roadster, Optimus, and be ready to bring those to **production** hopefully next year.
+5. [Sentence #1865]  (TSLA_Q4_2021) (Similarity: 0.718) There's a lot of new technology in the **Cybertruck** that will take some time to work through.
+6. [Sentence #1286]  (TSLA_Q3_2021) (Similarity: 0.703) We've been busy detailing the **Cybertruck** to achieve the prototype version we shared with customers awhile back.
+7. [Sentence #1117]  (TSLA_Q3_2021) (Similarity: 0.696) As we've mentioned before, after Model Y in Austin, our next product launch will be **Cybertruck**.
+8. [Sentence #355]  (TSLA_Q1_2021) (Similarity: 0.682) The truly profound thing on the car side is that Tesla was the first American car company to achieve volume **production** of a car in 100 years and not go bankrupt.
+9. [Sentence #1138]  (TSLA_Q3_2021) (Similarity: 0.670) The next question, a question from retail shareholder is, what is Tesla 's goal for vehicle **production** capacity for the four current factories, Fremont, Shanghai, Austin and Berlin by 2024?
+10. [Sentence #1869]  (TSLA_Q4_2021) (Similarity: 0.657) I worry more about like how do we the **Cybertruck** affordable despite having awesome technology.
+11. [Sentence #1281]  (TSLA_Q3_2021) (Similarity: 0.650) The next question is, Elon said that we get an update on **Cybertruck** in November a year ago, but it hasn't happened and we know there are a lot of updates.
+12. [Sentence #1110]  (TSLA_Q3_2021) (Similarity: 0.648) The second question from institutional investor comes, do you still expect to **start** **production** of the $25,000 model in 2023.
+13. [Sentence #1871]  (TSLA_Q4_2021) (Similarity: 0.647) Aspirationally, we'd like it to go, in terms of just a rough order of magnitude, we'd like **Cybertruck** to be at least on the order of [indiscernible] vehicles a year.
+14. [Sentence #63]  (TSLA_Q1_2021) (Similarity: 0.642) But we do expect to ramp Model S **production** and **start** delivering them probably next month.
+15. [Sentence #2035]  (TSLA_Q4_2021) (Similarity: 0.620) If there is no $25,000 vehicle being worked on, is it really realistic to think that you can sell more than 3 million vehicles with two very high-volume cars and **Cybertruck** in 2024, or how do we think about that or what else is missing in that equation?
+16. [Sentence #64]  (TSLA_Q1_2021) (Similarity: 0.611) So -- and then to be in sort of fairly high-volume **production** for the S in Q3 and to **start** delivering the Model X in Q3 as well.
+17. [Sentence #24]  (TSLA_Q1_2021) (Similarity: 0.604) It’s been exceeded by the Tesla Model 3, and this is only three-and-a half years into **production** and with just two factories.
+18. [Sentence #1613]  (TSLA_Q4_2021) (Similarity: 0.603) So, just to recap 2021, it was a breakthrough year for Tesla and for electric vehicles in general.
+
+Total similarity-top evidence sentences: 18
+
+-----

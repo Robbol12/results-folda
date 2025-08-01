@@ -1,0 +1,119 @@
+[TSLA_Q3_2021] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+1. [Sentence #240] [UNCERTAIN]
+     And hopefully, this clears this out because we do actually do that.
+     Martin Viecha
+
+Okay.
+     The next question is, Elon said that we get an update on Cybertruck in November a year ago, but it hasn't happened and we know there are a lot of updates.
+     Will you show off the new and improved Cybertruck?
+     Lars Moravy
+
+Yeah.
+     Thanks, Martin.
+     We get a lot of questions on Cybertruck.
+>>> We've been busy detailing the Cybertruck to achieve the prototype version we shared with customers awhile back.
+     As you may have seen recently on social media, we've built a number of alphas and are currently testing those to further mature the design.
+     And while those point out a few key additions like rear steer.
+     There are also a number of smaller or less visible improvements, though the product is largely true to the initial vision.
+     We'll continue to work through the product in the beta stages that we're in now and look to launch that by next year.
+     Question-And-Answer Session
+
+Martin Viecha
+
+Okay.
+     Thank you very much.
+     We just promoted Pierre to a presenter here.
+-----
+2. [Sentence #71] [PLAN]
+     The second question from institutional investor comes, do you still expect to start production of the $25,000 model in 2023.
+     What are the biggest hurdles from now until then?
+     Lars Moravy
+
+Yeah, we're working on a strategy to increase our production rates as quickly as possible.
+     I think Zach spoke to that well.
+     And we're doing this while trying to add the least amount of incremental complexities to the business.
+     We don't want to add any new vehicles to our lineup when we're generally in a cell constrained world.
+     While there is still more runway to grow these existing products, we are focused on Model Y expansion in Austin and Berlin, ramping S&X further in Fremont to restore to past levels, while also growing 3 and Y production in Fremont and Shanghai.
+>>> As we've mentioned before, after Model Y in Austin, our next product launch will be Cybertruck.
+     And that time and course depend on increasing cell capacity, both from our suppliers and through our inherent cell, as well as many other headwinds we face in supply chain, and completing our currently full plate of products on the table.
+     Martin Viecha
+
+Thank you very much.
+     The third question is, with FSD Beta training dataset set to explode exponentially as software is released to a wider and wider audience, are there any early takeaways with regards to how quickly versions can iterate and be pushed out from biweekly to weekly or even daily?
+     Lars Moravy
+
+At this point, it's not so much about how much data can we collect, but how quickly can we process the data we've collected.
+     This is where Dojo comes in as we mentioned on AI Day with substantially faster training computer.
+     In Dojo, we will be able to iterate more often than we do now.
+     If for instance, say the training, and that takes one day instead of one week, makes a huge difference in our ability to push out more updates.
+-----
+3. [Sentence #92] [PLAN]
+     Lars Moravy
+
+Thanks, Martin.
+     As we've mentioned before, we've seen record growth of both Model 3 and Model Y segments, where Model 3 is currently the bestselling luxury sedan worldwide.
+     As we mentioned at our shareholder's meeting, Model Y is poised to be the bestselling vehicle in the world.
+     Tesla continues to break molds in these vehicle segments and we hope to do so with each new product.
+     As we've said publicly, we'll eventually expand the vehicle line up to get to larger volumes, and we believe that we will need to be in all major segments across small and mid-size, large sedans, SUVs, and trucks to do so.
+     Along with, of course, the massive space of robotaxi.
+     Martin Viecha
+
+Thank you very much.
+>>> The next question, a question from retail shareholder is, what is Tesla 's goal for vehicle production capacity for the four current factories, Fremont, Shanghai, Austin and Berlin by 2024?
+     Zachary Kirkhorn
+
+Yeah.
+     Thanks, Martin.
+     Our goal as a company here is to grow on an average pace of 50% per year.
+     And so, you can extrapolate that out.
+     There may be some periods of time in which we're well ahead of that.
+     There could be some periods of time, despite best efforts, where we're slightly lower than that.
+     But that remains the long-term goal of the Company.
+-----
+4. [Sentence #235] [UNCERTAIN]
+     That money can then be applied towards the purchase of the new car.
+     So, I just -- we hear this feedback quite a bit, we see it on social media, we see it in the forums, etc.
+     And so, this already does exist.
+     And not directly in the form here.
+     And we don't call it out explicitly in the trade-in, potentially that we have increased the price of your trade-in as a result.
+     And hopefully, this clears this out because we do actually do that.
+     Martin Viecha
+
+Okay.
+>>> The next question is, Elon said that we get an update on Cybertruck in November a year ago, but it hasn't happened and we know there are a lot of updates.
+     Will you show off the new and improved Cybertruck?
+     Lars Moravy
+
+Yeah.
+     Thanks, Martin.
+     We get a lot of questions on Cybertruck.
+     We've been busy detailing the Cybertruck to achieve the prototype version we shared with customers awhile back.
+     As you may have seen recently on social media, we've built a number of alphas and are currently testing those to further mature the design.
+     And while those point out a few key additions like rear steer.
+-----
+5. [Sentence #64] [PLAN]
+     Zachary Kirkhorn
+
+Yes, thanks, Martin.
+     Earlier next year, from a non-cell perspective, structural battery crash, range, and reliability testing are on track to be complete this quarter.
+     Testing to-date has gone well, and the Fremont manufacturing line is on track to support.
+     However, similar to what Zach said before, this is a new architecture, and unknown unknowns may exist still.
+     Our top priority is ensuring quality in what we deliver.
+     And from a cell perspective, we are comfortable with the design maturity and manufacturing readiness, matching the pack timeline I just mentioned.
+     Martin Viecha
+
+Thank you very much.
+>>> The second question from institutional investor comes, do you still expect to start production of the $25,000 model in 2023.
+     What are the biggest hurdles from now until then?
+     Lars Moravy
+
+Yeah, we're working on a strategy to increase our production rates as quickly as possible.
+     I think Zach spoke to that well.
+     And we're doing this while trying to add the least amount of incremental complexities to the business.
+     We don't want to add any new vehicles to our lineup when we're generally in a cell constrained world.
+     While there is still more runway to grow these existing products, we are focused on Model Y expansion in Austin and Berlin, ramping S&X further in Fremont to restore to past levels, while also growing 3 and Y production in Fremont and Shanghai.
+     As we've mentioned before, after Model Y in Austin, our next product launch will be Cybertruck.
+-----
+
+Total context windows: 5

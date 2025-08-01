@@ -1,0 +1,126 @@
+[TSLA_Q2_2023] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+1. [Sentence #52] [PILOT]
+     So, to date, over 300 million miles have been driven using FSD beta.
+     That 300 million mile number is going to seem small very quickly.
+     It’ll soon be billions of miles, then tens of billions of miles.
+     And FSD will go from being as good as a human to then being vastly better than a human.
+     We see a clear path to full self-driving being 10 times safer than the average human driver, so.
+     And between Autopilot, Dojo computer, our inference hardware in the car, which we call sort of Hardware 3, 4, but it’s really dedicated.
+     It’s a high efficiency inference computer that’s in the car and our Optimus robot, Tesla’s clearly at the cutting edge of AI development.
+>>> With regard to our Cybertruck, we continue to build our release candidates of the Cybertruck on our final production line in Austin.
+     I’m actually here in Austin at the Gigafactory.
+     This is the first truck that we’re aware of that will have four doors over a six foot bed and will fit into a 20-foot garage.
+     So, it’s sort of biggest on the outside, but it’s even bigger on the inside.
+     So it’s -- I think that’s a -- one of the elements of good design is it should feel bigger on the inside than it looks on the outside.
+     And this is no small car, but we really cared about the exterior dimensions of the Cybertruck down to the last millimeter.
+     So just -- we try to get right in the middle of the Goldilocks zone, not too big, not too small and then really maximize the utility of the volume.
+     And we can’t wait to start delivering it later this year.
+-----
+2. [Sentence #110] [PLAN]
+     How far are you from the specs you laid out on Battery Day?
+     When do you expect to achieve what you laid out on Battery Day?
+     Unidentified Company Representative
+
+Yes.
+     First, I’ll just start with a little bit of a production update.
+     So, in Texas, 4680 cell production increased 80% Q2 over Q1, and the team surpassed 10 million production cells produced here in Texas.
+     So, congrats to the team for that.
+     Their focus on yield reduced our scrap bill by 40% quarter-over-quarter, and that resulted in a 25% reduction in cell COGS.
+>>> Here in Texas, we’re preparing to launch our Cybertruck cell, which is 10% higher energy density than current production.
+     That was accomplished through process and mechanical design optimization.
+     As we scale Cyber cell production through the end of the year and early next, we should be in a comfortable place on cost per cell.
+     Against our battery energy density targets, the Cyber cell is at our expectations on a like-for-like electrochemistry basis.
+     We’re yet to integrate silicon or in-house cathode production, both reviewed on Battery Day, which do bring significant further energy density and cost improvements, but that is a topic for another day.
+     Lastly, it is important to remember that most of what we focused on a Battery Day was the Tesla-engineered 4680 production system and the improvements we strove to achieve on equipment, factory density, capital cost and utility cost reduction, all of which we are realizing in our Texas scale up to date.
+     Martin Viecha
+
+Thank you very much.
+     The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the revenue model?
+-----
+3. [Sentence #405] [UNCERTAIN]
+     I want to say, the fundamental rate limiter on the progress of full self-driving is training.
+     That’s -- if we had more training compute, we would get it done faster.
+     So that’s it.
+     Zachary Kirkhorn
+
+And it’s just difficult to predict how quickly we can execute on it.
+     Dan Levy
+
+Great.
+     Thank you.
+     Just as a follow-up, I recognize there’s incredible macro uncertainty right now, but you’re sticking with your near term, your volume target of 50% CAGR.
+>>> As we just think about sort of in the year ahead, Cybertruck is going to be some contribution.
+     There’s going to be some help from further EV penetration growth.
+     But to what extent are you willing to sacrifice on pricing to keep that 50% volume CAGR intact, or are you thinking differently about margins versus your prior commentary of willing to sacrifice on margins to get more share?
+     Elon Musk
+
+It’s not about getting more share.
+     It’s just that you can think of every car that we sell or produce that has full autonomy capability as actually something that in the future may be worth as much as 5 times what it is today.
+     Because average -- vehicle is doing like maybe 10 hours of driving a week.
+     If sort of -- if this says 1.5 hours a day on average, that’s 10 hours a week-ish.
+     If you’ve got on autonomous -- if the vehicle is able to operate autonomously and use either dedicated autonomous or partially autonomous like Airbnb, like maybe sometimes you allow your car to be used by others.
+-----
+4. [Sentence #180] [PLAN]
+     So, it needs to be -- you need to take advantage of it in Q3, but -- or at least place the order in Q3 within reasonable delivery time frames.
+     So yes, I hope this makes people happy.
+     This is a onetime thing.
+     Martin Viecha
+
+Right.
+     The next question, when will we give more information about the Cybertruck orders, estimated delivery schedules, pricing and specifications?
+     Elon Musk
+
+Demand is so far off the hook, you can’t even see the hook.
+     So, that’s really not an issue.
+>>> I do want to emphasize that the Cybertruck has a lot of new technology in it, like a lot.
+     It doesn’t look like -- it doesn’t look like any other vehicle because it is not like any other vehicle.
+     So -- and the production ramp will move as fast as the slowest and least likely elements of the entire supply chain and internal production.
+     So, I wouldn’t expect -- I hope it’s smooth.
+     We’re certainly better at production ramps that -- we’ve got a lot of experience with the production ramps.
+     But first order approximation, there’s like 10,000 unique parts and processes in the Cybertruck.
+     And if any one of -- it will go as fast as the least lucky, least well-executed element of the 10,000.
+     So, it’s always difficult to predict the ramp initially, but I think we’ll be making them in high volume next year, and we will be delivering the car this year.
+-----
+5. [Sentence #115] [PLAN]
+     So, congrats to the team for that.
+     Their focus on yield reduced our scrap bill by 40% quarter-over-quarter, and that resulted in a 25% reduction in cell COGS.
+     Here in Texas, we’re preparing to launch our Cybertruck cell, which is 10% higher energy density than current production.
+     That was accomplished through process and mechanical design optimization.
+     As we scale Cyber cell production through the end of the year and early next, we should be in a comfortable place on cost per cell.
+     Against our battery energy density targets, the Cyber cell is at our expectations on a like-for-like electrochemistry basis.
+     We’re yet to integrate silicon or in-house cathode production, both reviewed on Battery Day, which do bring significant further energy density and cost improvements, but that is a topic for another day.
+>>> Lastly, it is important to remember that most of what we focused on a Battery Day was the Tesla-engineered 4680 production system and the improvements we strove to achieve on equipment, factory density, capital cost and utility cost reduction, all of which we are realizing in our Texas scale up to date.
+     Martin Viecha
+
+Thank you very much.
+     The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the revenue model?
+     Given Tesla’s AI capabilities, how do you see the long-term mix between hardware margin and recurring software margin from Autobidder as this segment accelerates?
+     Unidentified Company Representative
+
+We can’t comment on future product road map, but I can provide a quick energy Q2 update.
+     Megapack continues to show strong demand globally with Lathrop ramping successfully to meet our contracted projects in 2023.
+     As stated last quarter, Megapack margins are in a reasonable place, in line with our target – vehicle target margins.
+     The second final assembly line at Lathrop is progressing on schedule, eventually doubling Lathrop capacity ahead of our full factory ramp in 2024.
+-----
+6. [Sentence #84] [UNCERTAIN]
+     And I think Zach has some opening remarks as well.
+     Zachary Kirkhorn
+
+Yes.
+     Thanks Martin.
+     As Elon mentioned, Q2 was another record quarter of production and deliveries, as well as records in profit for our energy and services and other businesses.
+     Congratulations again to the Tesla team on the continued progress.
+     As we navigate through a period of economic uncertainty, rising interest rates, volatility in consumer confidence and regulatory change, I want to comment on our financial approach.
+     First, the single most important priority is to ensure we are continuing to invest heavily in the core technologies that will drive the long-term value of the business.
+>>> This includes increasing spending on AI related technologies such as full self-driving, Optimus and Dojo, as well as new products such as Cybertruck, our next generation platform and the Semi, as evidenced by the continued growth in our R&D spend.
+     This also includes continuing our investments in capacity expansion, not only in our vehicle factories, but also our Supercharging network, service, internal applications, and battery processes, as we continue with meaningful capital expenditures to lay this foundation for the future.
+     Second, we continue to work towards our goals of maximizing volumes on both, our vehicle and energy business, but most importantly, doing so in a way that generates the capital to continue our pace of R&D and capital investments.
+     This requires a strong focus on per unit COGS reductions in each of our key businesses, as well as working capital improvements on raw materials, work in process inventory and customer AR, all of which progressed appropriately in Q2.
+     If we look specifically at our automotive business, our gross margin showed a modest reduction and remained healthy, despite action taken to further improve vehicle affordability early in the quarter.
+     We recognized – we realized per unit cost improvements in nearly every category, including material cost and commodities, manufacturing costs and logistics, while also continuing to rapidly increase the build rate in our Austin and Berlin factories.
+     For our energy business, we improved margins and gross profit driven by cost reductions and deal economics, particularly with Megapack.
+     As a reminder, storage volumes are typically volatile sequentially based on the types of projects and their specific revenue recognition milestones.
+-----
+
+Total context windows: 6

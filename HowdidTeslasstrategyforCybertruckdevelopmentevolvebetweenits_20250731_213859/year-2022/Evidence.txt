@@ -1,0 +1,59 @@
+[Year 2022] How did Tesla's strategy for Cybertruck development evolve between its 2019 unveiling and its production start in 2023–2024?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #65]  (TSLA_Q1_2022) And we remain on track to reach volume **production** of the **Cybertruck** next year.
+2. [Sentence #407]  (TSLA_Q1_2022) First is regarding the **Cybertruck**.
+3. [Sentence #601]  (TSLA_Q2_2022) We will bring another level of simplicity and manufacturing improvements with **Cybertruck** and future products that we are not quite ready to talk about now, but I think will be very exciting to unveil in the future.
+4. [Sentence #609]  (TSLA_Q2_2022) Our team continues to focus on **Cybertruck** **production** readiness and some future platform design.
+5. [Sentence #610]  (TSLA_Q2_2022) We are expecting to be – still expecting to be in **production** with the **Cybertruck** in the middle of next year.
+6. [Sentence #849]  (TSLA_Q2_2022) And the last question is, when will the **Cybertruck** be officially available?
+7. [Sentence #886]  (TSLA_Q2_2022) The Tesla battery cell **production** is in addition to what our suppliers can do.
+8. [Sentence #1150]  (TSLA_Q3_2022) And its output is growing rapidly, and we expect it to **start** incorporating in cars and having it be a significant portion of our **production** here in Texas in the coming months.
+9. [Sentence #1258]  (TSLA_Q3_2022) We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue **production** at a 50% or greater compound annual growth rate.
+10. [Sentence #1291]  (TSLA_Q3_2022) And the next question is, “How is **production** planning going for the **Cybertruck**?
+11. [Sentence #1306]  (TSLA_Q3_2022) So, we’ll be handing over our first **production** Tesla Semis to Pepsi on December 1st.
+12. [Sentence #1308]  (TSLA_Q3_2022) And we will begin ramping up **production** of the Tesla Semi, which is a max low, heavy -- heavy truck.
+13. [Sentence #1380]  (TSLA_Q3_2022) Elon Musk
+
+Well, we don’t want to talk exact dates, but this is a -- I mean, the primary focus of our new vehicle **development** team, obviously.
+14. [Sentence #1635]  (TSLA_Q3_2022) And how do you balance the need for 4680 across Semi, **Cybertruck** and potentially Model Y in 2023?
+15. [Sentence #1773]  (TSLA_Q4_2022) This includes expanding in-house cell **production**, bringing **Cybertruck** to market, **development** of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+16. [Sentence #1789]  (TSLA_Q4_2022) The next investor question is, will Tesla be able to take full advantage of advanced manufacturing **production** credits for battery cells packs?
+17. [Sentence #1857]  (TSLA_Q4_2022) Really, our 2023 goal as a 4680 team is to deliver a cost-effective ramp of 4680s well ahead of **Cybertruck**.
+18. [Sentence #1865]  (TSLA_Q4_2022) And to be clear, for 2023, **Cybertruck** will not be a significant contributor to the bottom line but it will be into next year.
+19. [Sentence #1914]  (TSLA_Q4_2022) The next question from investors is, is **Cybertruck** **production** still on track for mid-year?
+20. [Sentence #1915]  (TSLA_Q4_2022) Elon Musk
+
+We do expect **production** to **start**, I don't know, maybe sometime this summer.
+
+Total transcript-order evidence sentences: 20
+
+--- Evidence by Similarity ---
+1. [Sentence #1773]  (TSLA_Q4_2022) (Similarity: 1.036) This includes expanding in-house cell **production**, bringing **Cybertruck** to market, **development** of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+2. [Sentence #1291]  (TSLA_Q3_2022) (Similarity: 0.906) And the next question is, “How is **production** planning going for the **Cybertruck**?
+3. [Sentence #65]  (TSLA_Q1_2022) (Similarity: 0.863) And we remain on track to reach volume **production** of the **Cybertruck** next year.
+4. [Sentence #609]  (TSLA_Q2_2022) (Similarity: 0.861) Our team continues to focus on **Cybertruck** **production** readiness and some future platform design.
+5. [Sentence #1914]  (TSLA_Q4_2022) (Similarity: 0.856) The next question from investors is, is **Cybertruck** **production** still on track for mid-year?
+6. [Sentence #610]  (TSLA_Q2_2022) (Similarity: 0.836) We are expecting to be – still expecting to be in **production** with the **Cybertruck** in the middle of next year.
+7. [Sentence #1865]  (TSLA_Q4_2022) (Similarity: 0.744) And to be clear, for 2023, **Cybertruck** will not be a significant contributor to the bottom line but it will be into next year.
+8. [Sentence #849]  (TSLA_Q2_2022) (Similarity: 0.705) And the last question is, when will the **Cybertruck** be officially available?
+9. [Sentence #601]  (TSLA_Q2_2022) (Similarity: 0.684) We will bring another level of simplicity and manufacturing improvements with **Cybertruck** and future products that we are not quite ready to talk about now, but I think will be very exciting to unveil in the future.
+10. [Sentence #1258]  (TSLA_Q3_2022) (Similarity: 0.672) We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue **production** at a 50% or greater compound annual growth rate.
+11. [Sentence #1635]  (TSLA_Q3_2022) (Similarity: 0.669) And how do you balance the need for 4680 across Semi, **Cybertruck** and potentially Model Y in 2023?
+12. [Sentence #1308]  (TSLA_Q3_2022) (Similarity: 0.665) And we will begin ramping up **production** of the Tesla Semi, which is a max low, heavy -- heavy truck.
+13. [Sentence #407]  (TSLA_Q1_2022) (Similarity: 0.661) First is regarding the **Cybertruck**.
+14. [Sentence #1915]  (TSLA_Q4_2022) (Similarity: 0.649) Elon Musk
+
+We do expect **production** to **start**, I don't know, maybe sometime this summer.
+15. [Sentence #1857]  (TSLA_Q4_2022) (Similarity: 0.642) Really, our 2023 goal as a 4680 team is to deliver a cost-effective ramp of 4680s well ahead of **Cybertruck**.
+16. [Sentence #886]  (TSLA_Q2_2022) (Similarity: 0.636) The Tesla battery cell **production** is in addition to what our suppliers can do.
+17. [Sentence #1789]  (TSLA_Q4_2022) (Similarity: 0.629) The next investor question is, will Tesla be able to take full advantage of advanced manufacturing **production** credits for battery cells packs?
+18. [Sentence #1150]  (TSLA_Q3_2022) (Similarity: 0.618) And its output is growing rapidly, and we expect it to **start** incorporating in cars and having it be a significant portion of our **production** here in Texas in the coming months.
+19. [Sentence #1306]  (TSLA_Q3_2022) (Similarity: 0.611) So, we’ll be handing over our first **production** Tesla Semis to Pepsi on December 1st.
+20. [Sentence #1380]  (TSLA_Q3_2022) (Similarity: 0.606) Elon Musk
+
+Well, we don’t want to talk exact dates, but this is a -- I mean, the primary focus of our new vehicle **development** team, obviously.
+
+Total similarity-top evidence sentences: 20
+
+-----
