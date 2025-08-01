@@ -1,0 +1,15 @@
+[TSLA_Q3_2022] From 2022 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #28]  Regarding Autopilot, at the end of September, we hosted our second AI Day and drove the first prototype of our Optimus robot, released **updates** on our training computer and high range improvements of **full** self-driving software.
+2. [Sentence #34]  So, anyone who has ordered a **full** self-driving Beta -- **full** self-driving, will have access to the **FSD** Beta program this year, probably about a month from now.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #34]  (Similarity: 0.778) So, anyone who has ordered a **full** self-driving Beta -- **full** self-driving, will have access to the **FSD** Beta program this year, probably about a month from now.
+2. [Sentence #28]  (Similarity: 0.702) Regarding Autopilot, at the end of September, we hosted our second AI Day and drove the first prototype of our Optimus robot, released **updates** on our training computer and high range improvements of **full** self-driving software.
+
+Total similarity-top evidence sentences: 2
+
+-----

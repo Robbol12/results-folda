@@ -1,0 +1,21 @@
+[TSLA_Q1_2024] From 2022 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #211]  The next question, have any of the legacy automakers contacted Tesla about possibly licensing **FSD** in the future?
+2. [Sentence #365]  And is there anything Tesla needs to achieve with the technology in terms of product **milestones** in order to be successful at reaching a licensing agreement in your view?
+3. [Sentence #573]  Elon Musk
+
+Well, I want to say again, we'd just like to strongly recommend that anyone who is, I guess, thinking about the Tesla stock should really drive **FSD** 12.3.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #211]  (Similarity: 0.810) The next question, have any of the legacy automakers contacted Tesla about possibly licensing **FSD** in the future?
+2. [Sentence #365]  (Similarity: 0.708) And is there anything Tesla needs to achieve with the technology in terms of product **milestones** in order to be successful at reaching a licensing agreement in your view?
+3. [Sentence #573]  (Similarity: 0.705) Elon Musk
+
+Well, I want to say again, we'd just like to strongly recommend that anyone who is, I guess, thinking about the Tesla stock should really drive **FSD** 12.3.
+
+Total similarity-top evidence sentences: 3
+
+-----

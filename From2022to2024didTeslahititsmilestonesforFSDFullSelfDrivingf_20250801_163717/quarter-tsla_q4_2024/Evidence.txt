@@ -1,0 +1,15 @@
+[TSLA_Q4_2024] From 2022 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #155]  And when we look back on 2025 and the launch of unsupervised **full** self-driving, true real-world AI that actually works, I think we may regard it as the biggest year in Tesla history, maybe even bigger than Atlas car, or the Model S or the Model 3 or Model Y.
+2. [Sentence #235]  What we're seeing is at this point, significant interest from a number of major car companies about licensing Tesla **full** self-driving technology.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #235]  (Similarity: 0.744) What we're seeing is at this point, significant interest from a number of major car companies about licensing Tesla **full** self-driving technology.
+2. [Sentence #155]  (Similarity: 0.721) And when we look back on 2025 and the launch of unsupervised **full** self-driving, true real-world AI that actually works, I think we may regard it as the biggest year in Tesla history, maybe even bigger than Atlas car, or the Model S or the Model 3 or Model Y.
+
+Total similarity-top evidence sentences: 2
+
+-----

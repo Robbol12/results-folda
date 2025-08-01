@@ -1,0 +1,21 @@
+[Year 2023] From 2022 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #652]  (TSLA_Q2_2023) And we are already in discussions with -- early discussions with major OEM about using Tesla **FSD**.
+2. [Sentence #1001]  (TSLA_Q2_2023) I think the Tesla fleet value increase at the point which we can upload **full** self-driving and is approved by regulators will be the single biggest step change in asset value maybe in history.
+3. [Sentence #1009]  (TSLA_Q2_2023) And would Tesla benefit from lowering the price of **FSD**?
+4. [Sentence #1151]  (TSLA_Q3_2023) Regarding Autopilot and AI, our vehicles are now driven over 0.5 billion miles with **FSD** beta, **full** self-driving beta, and that number is growing rapidly.
+5. [Sentence #1308]  (TSLA_Q3_2023) Is Tesla planning to accept legal liability for **FSD**?
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #1151]  (TSLA_Q3_2023) (Similarity: 0.817) Regarding Autopilot and AI, our vehicles are now driven over 0.5 billion miles with **FSD** beta, **full** self-driving beta, and that number is growing rapidly.
+2. [Sentence #1308]  (TSLA_Q3_2023) (Similarity: 0.748) Is Tesla planning to accept legal liability for **FSD**?
+3. [Sentence #1001]  (TSLA_Q2_2023) (Similarity: 0.742) I think the Tesla fleet value increase at the point which we can upload **full** self-driving and is approved by regulators will be the single biggest step change in asset value maybe in history.
+4. [Sentence #1009]  (TSLA_Q2_2023) (Similarity: 0.725) And would Tesla benefit from lowering the price of **FSD**?
+5. [Sentence #652]  (TSLA_Q2_2023) (Similarity: 0.723) And we are already in discussions with -- early discussions with major OEM about using Tesla **FSD**.
+
+Total similarity-top evidence sentences: 5
+
+-----

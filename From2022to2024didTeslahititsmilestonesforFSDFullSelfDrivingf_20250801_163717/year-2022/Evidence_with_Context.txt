@@ -1,0 +1,103 @@
+[Year 2022] From 2022 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+1. [Sentence #1009, TSLA_Q2_2022] [PLAN]
+     Elon Musk
+
+There is always a lot of uncertainty like the production looks like ESCO [ph], and that intermediate part of ESCO, it’s very difficult to bridge that with high certainty.
+     But the end part of the ESCO, you can say, I think you can have a lot more certainty.
+     And so that’s why I am confident we will get to 5,000 cars a week at – in Austin and Berlin by the end of this year or early next year and probably but not certainly, 10,000 cars a week at both locations by the end of next year.
+     Martin Viecha
+
+Thank you.
+     The next question comes from Colin Rusch from Oppenheimer.
+     Colin, go ahead please.
+     Colin Rusch
+
+Thanks so much, guys.
+>>> Could you talk a little bit about the pricing strategy around FSD, and as you get closer to this full functionality rolling out and the increased cycle times, how you see that evolving through the balance of this year and into 2023?
+     Elon Musk
+
+Yes.
+     We will increase the price of FSD sometime later this year.
+     I think probably just before we go to quiet Beta or Beta is anyone who wants to use the Beta software with all the caveats associated with that can use it.
+     Then it would make sense to increase the price of FSD.
+     The value of FSD is, I think extremely high and not well understood by most people.
+     It is basically currently ridiculously cheap, assuming FSD materializes, which is well.
+     Colin Rusch
+
+Great.
+-----
+2. [Sentence #1160, TSLA_Q3_2022] [PILOT]
+     And we intend to keep raising production in Fremont.
+     Regarding Autopilot, at the end of September, we hosted our second AI Day and drove the first prototype of our Optimus robot, released updates on our training computer and high range improvements of full self-driving software.
+     Our vehicles have now driven nearly 60 miles in full self-driving Beta mode, and this number continues to grow exponentially.
+     Our goal with that AI Day was to [post] (ph) recruiting, and we’ve seen a massive influx of world-class artificial intelligence engineer and scientist resume.
+     So, it generated a tremendous amount of interest from some of the best AI researchers in the world.
+     I can’t emphasize the importance of this enough because I think finally it has become clear to the smartest AI technologists in the world that Tesla is among the very best.
+     So, this quarter, we expect to go to a wide release of full self-driving Beta in North America.
+>>> So, anyone who has ordered a full self-driving Beta -- full self-driving, will have access to the FSD Beta program this year, probably about a month from now.
+     So -- and then obviously, any new -- anyone who buys a car and purchases a full self-driving option, will immediately have that available to them.
+     So, the safety that we’re seeing when the car is in FSD mode is actually significantly greater than the safety we’re seeing when it is not, which is a key threshold for going to a wide Beta.
+     Let’s see, with respect to demand.
+     We’ve got a lot of questions about demand in recent weeks.
+     I can’t emphasize enough, we have excellent demand for Q4, and we expect to sell every car that we make for as far into future as we can see.
+     So, the factories are running at full speed, and we’re delivering every car we make and keeping operating margins strong.
+     We are still a very small percentage of the total vehicles on the road.
+-----
+3. [Sentence #1902, TSLA_Q4_2022] [UNCERTAIN]
+     And so there are two really important side benefit to our Tesla Insurance that are worth mentioning, one of which Zach alluded to, which is that, just by Tesla operating insurance for our cars at a competitive rate, that makes the other car insurance companies offer better rates for Teslas.
+     So it has a bigger effect than you think because it improves total cost of insurance costs even when they don't use Tesla Insurance, because now the guy [ph] goes up to the world have to compete with Tesla and cannot charge outrageous insurance for Teslas.
+     So it's great.
+     So it has an amplified effect, very important.
+     Then, it is also giving us a good feedback loop into minimizing the cost of repair of Teslas, for all Teslas worldwide, because we obviously want to minimize the cost of repairing at Tesla if it's in a collision and for Tesla Insurance.
+     And previously, we didn't actually have good insight into that, because the other insurance companies would cover the cost.
+     And actually, the cost in some cases, were unreasonably high.
+>>> So we've actually adjusted the design of the car and made changes in the software of the car to minimize the cost of repair, obviously minimize -- first, the best repair is no repair, avoid the accident entirely, which since every Tesla comes with the most advanced active safety in the world, whether or not you buy full self-driving, you still get the intelligence of full self-driving or active safety, active collision prevention.
+     So it's giving us this really good feedback before, again, reducing cost -- total cost of ownership and also just figuring out how to get -- if somebody's cars in an accident, most accidents are actually small.
+     They're like a broken fender or scratched side of the car or something like, the vast majority of accidents.
+     But we're actually solving how to get somebody's car repaired very quickly and efficiently and back in their hands.
+     And like I said, those improvements actually apply then to old cars.
+     And we're making just to emphasize another key point, because some of these points might be like, so I apologize for being repetitive.
+     But it's remarkable how small changes in design of the bumper and improving -- obviously improving the logistics of spare part or providing spare parts needed for collision repair, have an enormous effect on the repair cost.
+     So, if you're waiting for a part to get repaired and that part takes a month, now you've got a month of having to rent another car.
+-----
+4. [Sentence #95, TSLA_Q1_2022] [PLAN]
+     Interventions per mile driven, or any other data?
+     Elon Musk
+
+Sure.
+     Well, with respect to full self-driving, of any technology development I’ve ever been involved in, I’ve never really seen more kind of false dawns or where it seems like we’re going to break through, but we don’t, as I’ve seen in full self-driving.
+     And ultimately, what it comes down to is that to solve full self-driving, you actually have to solve real-world artificial intelligence, which is -- which nobody has solved.
+     The whole road system is made for biological neural nets and eyes.
+     And so, actually, when you think about it, in order to solve for full self-driving, we have to solve neural nets and cameras to a degree of capability that is on par with or really exceeds humans.
+     And I think we will achieve that this year.
+>>> The best way to reach your own assessment is to join the Tesla full self-driving beta program where we have over 100,000 people right now enrolled in that program, and we expect to broaden that significantly this year.
+     So, that’s my recommendation, is join the full self-driving beta program and experience it for yourself and take note of the rate of improvement with every release.
+     And we put out a new release roughly every two weeks.
+     And you’ll see a little bit of two steps forward, one step back.
+     But overall, the rate of improvement is incredibly quick.
+     So, that’s my recommendation for reaching your own assessment is literally try it.
+     Martin Viecha
+
+Thank you.
+     The second question is, how much of an impact will the production shutdown in Shanghai have in Q2?
+-----
+5. [Sentence #1154, TSLA_Q3_2022] [PILOT]
+     And in fact, just yesterday, we extrapolated yesterday’s build rate, it would be 2,000.
+     Our production of 4680 cells has tripled in Q3 compared to the previous quarter.
+     We are finally gaining rapid traction on the 4680 cell.
+     And its output is growing rapidly, and we expect it to start incorporating in cars and having it be a significant portion of our production here in Texas in the coming months.
+     We also have our second generation of manufacturing equipment for 4680 cells in Texas, which continues to show great progress along with our original pilot line in Fremont.
+     The Fremont factory team once again reached record production in Q3.
+     And we intend to keep raising production in Fremont.
+>>> Regarding Autopilot, at the end of September, we hosted our second AI Day and drove the first prototype of our Optimus robot, released updates on our training computer and high range improvements of full self-driving software.
+     Our vehicles have now driven nearly 60 miles in full self-driving Beta mode, and this number continues to grow exponentially.
+     Our goal with that AI Day was to [post] (ph) recruiting, and we’ve seen a massive influx of world-class artificial intelligence engineer and scientist resume.
+     So, it generated a tremendous amount of interest from some of the best AI researchers in the world.
+     I can’t emphasize the importance of this enough because I think finally it has become clear to the smartest AI technologists in the world that Tesla is among the very best.
+     So, this quarter, we expect to go to a wide release of full self-driving Beta in North America.
+     So, anyone who has ordered a full self-driving Beta -- full self-driving, will have access to the FSD Beta program this year, probably about a month from now.
+     So -- and then obviously, any new -- anyone who buys a car and purchases a full self-driving option, will immediately have that available to them.
+-----
+
+Total context windows: 5

@@ -1,0 +1,17 @@
+[TSLA_Q2_2023] From 2022 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #67]  And we are already in discussions with -- early discussions with major OEM about using Tesla **FSD**.
+2. [Sentence #416]  I think the Tesla fleet value increase at the point which we can upload **full** self-driving and is approved by regulators will be the single biggest step change in asset value maybe in history.
+3. [Sentence #424]  And would Tesla benefit from lowering the price of **FSD**?
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #416]  (Similarity: 0.742) I think the Tesla fleet value increase at the point which we can upload **full** self-driving and is approved by regulators will be the single biggest step change in asset value maybe in history.
+2. [Sentence #424]  (Similarity: 0.725) And would Tesla benefit from lowering the price of **FSD**?
+3. [Sentence #67]  (Similarity: 0.723) And we are already in discussions with -- early discussions with major OEM about using Tesla **FSD**.
+
+Total similarity-top evidence sentences: 3
+
+-----

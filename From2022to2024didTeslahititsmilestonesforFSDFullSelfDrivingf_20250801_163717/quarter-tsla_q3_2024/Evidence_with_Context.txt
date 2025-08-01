@@ -1,0 +1,23 @@
+[TSLA_Q3_2024] From 2022 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+1. [Sentence #54] [PILOT]
+     And the release of actually Smart -- we try to have a sense of humor here.
+     And we're also -- so that's 12.5.
+     Version 13 of FSD is going out soon.
+     will elaborate more on that later in the call.
+     We expect to see roughly a five- or sixfold improvement in miles between interventions compared to 12.5.
+     And actually, looking at the year as whole, the improvement in miles interventions, we think will be at least three orders of magnitude.
+     So, that's a very dramatic improvement in the course of the year, and we expect that trend to continue next year.
+>>> So, the current total expectation, internal expectation for the Tesla FSD having longer miles between versions than human is the second quarter of next year, which means it may end up being in the third quarter, but it's next -- it seems extremely likely to be next year.
+     Ashok, do you want to say anything?
+     Ashok Elluswamy -- Director, Autopilot Software
+
+Yeah.
+     Miles between critical interventions, like you mentioned, Elon, we already made 100x improvement with 12.5 from starting of this year and then with v13 release.
+     We expect to be 1,000x from the beginning, from January of this year on production software.
+     And this came in because of technology improvements going to end to end, having higher frame rate, partly also helped by Hardware force, more capabilities, so on.
+     And we hope that we continue to scale the neural network, the data, the training compute, etc.
+     By Q2 next year, we should cross over the average, even in miles per critical intervention collision, in that case.
+-----
+
+Total context windows: 1
