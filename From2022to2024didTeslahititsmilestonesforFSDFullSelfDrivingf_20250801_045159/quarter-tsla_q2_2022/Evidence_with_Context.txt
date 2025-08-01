@@ -1,0 +1,67 @@
+[TSLA_Q2_2022] From 2022 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+1. [Sentence #452] [PLAN]
+     Elon Musk
+
+There is always a lot of uncertainty like the production looks like ESCO [ph], and that intermediate part of ESCO, it’s very difficult to bridge that with high certainty.
+     But the end part of the ESCO, you can say, I think you can have a lot more certainty.
+     And so that’s why I am confident we will get to 5,000 cars a week at – in Austin and Berlin by the end of this year or early next year and probably but not certainly, 10,000 cars a week at both locations by the end of next year.
+     Martin Viecha
+
+Thank you.
+     The next question comes from Colin Rusch from Oppenheimer.
+     Colin, go ahead please.
+     Colin Rusch
+
+Thanks so much, guys.
+>>> Could you talk a little bit about the pricing strategy around FSD, and as you get closer to this full functionality rolling out and the increased cycle times, how you see that evolving through the balance of this year and into 2023?
+     Elon Musk
+
+Yes.
+     We will increase the price of FSD sometime later this year.
+     I think probably just before we go to quiet Beta or Beta is anyone who wants to use the Beta software with all the caveats associated with that can use it.
+     Then it would make sense to increase the price of FSD.
+     The value of FSD is, I think extremely high and not well understood by most people.
+     It is basically currently ridiculously cheap, assuming FSD materializes, which is well.
+     Colin Rusch
+
+Great.
+-----
+2. [Sentence #128] [PLAN]
+     Will this be a v11 or later version?
+     If the latter, can you explain what makes it a difficult problem in layman terms?
+     Elon Musk
+
+Okay.
+     This answer will be understood by 0.0 -- 01% of the audience, I think.
+     I suppose you wanted to know what a unified vector space would actually mean.
+     It essentially would be if you can take – if instead of netting together static and dynamic objects in C++, if they could be net together at the neural net level, then you don’t need to reconcile them within C++ heuristics.
+     That is an architecturally better way to – that’s the most desirable outcome.
+>>> It’s – I think it’s probably not necessary to achieve full self-driving, but it would be a slight improvement in the efficiency of the self-driving.
+     And it’s certainly something we want to get to.
+     Yes.
+     The sort of nirvana situation is you have surround video/audio labeling of all static and dynamic objects.
+     And you have then surround video inference with spatial memory as well.
+     Then that’s – I mean, I think we are almost certainly there before the end of the year.
+     Yes, I am not sure how many of you would understand that.
+     I should say also, we are also confident of improving the frame rate as we delete some of the legacy neural nets.
+-----
+3. [Sentence #29] [PILOT]
+     But it is worth emphasizing that we have enough 2170 cells to satisfy all vehicle production for the remainder of the year.
+     So we are not dependent on 4680.
+     4680 will be important next year but it is not important for this year.
+     That said we have installed the second generation of manufacturing equipment for 4680 cells in Texas.
+     And even at our established factories like Fremont and Shanghai, we continue to expand capacity.
+     Regarding Autopilot, we have now deployed our FSD beta with City Streets driving capability to over 100,000 owners.
+     They are very happy with the capability of the system and we will continue to improve it every week.
+>>> We have now driven over 35 million miles with FSD beta.
+     That’s more autonomous miles than any company we are aware of, I think probably more than – it might be more than any – all other companies combined.
+     So – and that mileage is growing exponentially.
+     With regard to manufacturing and technology, about 5 or 6 years ago, we said we wanted to become the best manufacturer in the world and that is somewhat counterintuitively, to some people, will actually be, I think, our strongest competitive advantage.
+     We are super pro-manufacturing here at Tesla.
+     And in general, we want to encourage other companies to be super pro-manufacturing.
+     And in general, I think it is a very important thing to do.
+     We need to make stuff and make it efficiently and that’s manufacturing.
+-----
+
+Total context windows: 3

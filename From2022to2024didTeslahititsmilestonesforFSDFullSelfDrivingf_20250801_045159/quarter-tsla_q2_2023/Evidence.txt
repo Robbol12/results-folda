@@ -1,0 +1,27 @@
+[TSLA_Q2_2023] From 2022 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #45]  So, to date, over 300 million miles have been driven using **FSD** beta.
+2. [Sentence #66]  Then something I think, I want emphasize, like very strongly, this is a very important point is that Tesla -- just as with the North American Charging Standard, although we’re not license -- in that case not licensing, we’re just making it available, but we are very open to licensing our **full** self-driving software and hardware to other car companies.
+3. [Sentence #67]  And we are already in discussions with -- early discussions with major OEM about using Tesla **FSD**.
+4. [Sentence #84]  This includes increasing spending on AI related technologies such as **full** self-driving, Optimus and Dojo, as well as new products such as Cybertruck, our next generation platform and the Semi, as evidenced by the continued growth in our R&D spend.
+5. [Sentence #168]  Have you considered allowing **FSD** transferability as a lever to allow existing customers to upgrade to a new Tesla instead of being locked into an existing car due to the price of **FSD**?
+6. [Sentence #416]  I think the Tesla fleet value increase at the point which we can upload **full** self-driving and is approved by regulators will be the single biggest step change in asset value maybe in history.
+7. [Sentence #422]  So before you start launching these dedicated robotaxi vehicles, on existing vehicles, you’re improving **FSD** incrementally.
+8. [Sentence #424]  And would Tesla benefit from lowering the price of **FSD**?
+
+Total transcript-order evidence sentences: 8
+
+--- Evidence by Similarity ---
+1. [Sentence #416]  (Similarity: 0.742) I think the Tesla fleet value increase at the point which we can upload **full** self-driving and is approved by regulators will be the single biggest step change in asset value maybe in history.
+2. [Sentence #424]  (Similarity: 0.725) And would Tesla benefit from lowering the price of **FSD**?
+3. [Sentence #67]  (Similarity: 0.723) And we are already in discussions with -- early discussions with major OEM about using Tesla **FSD**.
+4. [Sentence #168]  (Similarity: 0.666) Have you considered allowing **FSD** transferability as a lever to allow existing customers to upgrade to a new Tesla instead of being locked into an existing car due to the price of **FSD**?
+5. [Sentence #45]  (Similarity: 0.641) So, to date, over 300 million miles have been driven using **FSD** beta.
+6. [Sentence #422]  (Similarity: 0.631) So before you start launching these dedicated robotaxi vehicles, on existing vehicles, you’re improving **FSD** incrementally.
+7. [Sentence #84]  (Similarity: 0.608) This includes increasing spending on AI related technologies such as **full** self-driving, Optimus and Dojo, as well as new products such as Cybertruck, our next generation platform and the Semi, as evidenced by the continued growth in our R&D spend.
+8. [Sentence #66]  (Similarity: 0.608) Then something I think, I want emphasize, like very strongly, this is a very important point is that Tesla -- just as with the North American Charging Standard, although we’re not license -- in that case not licensing, we’re just making it available, but we are very open to licensing our **full** self-driving software and hardware to other car companies.
+
+Total similarity-top evidence sentences: 8
+
+-----

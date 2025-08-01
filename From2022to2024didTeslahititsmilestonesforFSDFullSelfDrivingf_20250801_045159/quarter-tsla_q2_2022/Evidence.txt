@@ -1,0 +1,17 @@
+[TSLA_Q2_2022] From 2022 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #29]  We have now driven over 35 million miles with **FSD** beta.
+2. [Sentence #128]  It’s – I think it’s probably not necessary to achieve **full** self-driving, but it would be a slight improvement in the efficiency of the self-driving.
+3. [Sentence #452]  Could you talk a little bit about the pricing strategy around **FSD**, and as you get closer to this **full** **functionality** rolling out and the increased cycle times, how you see that evolving through the balance of this year and into 2023?
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #452]  (Similarity: 0.946) Could you talk a little bit about the pricing strategy around **FSD**, and as you get closer to this **full** **functionality** rolling out and the increased cycle times, how you see that evolving through the balance of this year and into 2023?
+2. [Sentence #128]  (Similarity: 0.621) It’s – I think it’s probably not necessary to achieve **full** self-driving, but it would be a slight improvement in the efficiency of the self-driving.
+3. [Sentence #29]  (Similarity: 0.614) We have now driven over 35 million miles with **FSD** beta.
+
+Total similarity-top evidence sentences: 3
+
+-----

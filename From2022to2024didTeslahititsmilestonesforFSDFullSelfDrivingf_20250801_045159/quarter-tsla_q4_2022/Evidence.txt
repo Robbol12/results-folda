@@ -1,0 +1,25 @@
+[TSLA_Q4_2022] From 2022 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #36]  With respect to Autopilot, as of now, we deployed **full**-self driving beta for city streets to roughly 400,000 customers in North America.
+2. [Sentence #37]  This is a huge milestone for autonomy as **FSD** Beta is the only way any consumer can actually test the latest AI-powered autonomy.
+3. [Sentence #140]  Something that I think some of these smart retail investors understand, but I think a lot of others maybe don't is that the -- every time we sell a car, it has the ability, just from uploading software to have **full** self-driving enabled and **full** self-driving is obviously getting better very rapidly.
+4. [Sentence #219]  So we've actually adjusted the design of the car and made changes in the software of the car to minimize the cost of repair, obviously minimize -- first, the best repair is no repair, avoid the accident entirely, which since every Tesla comes with the most advanced active safety in the world, whether or not you buy **full** self-driving, you still get the intelligence of **full** self-driving or active safety, active collision prevention.
+5. [Sentence #344]  So do you already see that people are getting more excited by **FSD**, because they see it around them on 400,000 cars and they see the value of the service already, or is that too early to really see like, to expect like an uptick in the take rate?
+6. [Sentence #366]  I mean, the way that we've structured this is a **full** self-driving package has two components.
+7. [Sentence #369]  Then there's an incremental, which is for the additional features of **full** self-driving offers and we've released a portion of that.
+
+Total transcript-order evidence sentences: 7
+
+--- Evidence by Similarity ---
+1. [Sentence #219]  (Similarity: 0.722) So we've actually adjusted the design of the car and made changes in the software of the car to minimize the cost of repair, obviously minimize -- first, the best repair is no repair, avoid the accident entirely, which since every Tesla comes with the most advanced active safety in the world, whether or not you buy **full** self-driving, you still get the intelligence of **full** self-driving or active safety, active collision prevention.
+2. [Sentence #369]  (Similarity: 0.664) Then there's an incremental, which is for the additional features of **full** self-driving offers and we've released a portion of that.
+3. [Sentence #140]  (Similarity: 0.647) Something that I think some of these smart retail investors understand, but I think a lot of others maybe don't is that the -- every time we sell a car, it has the ability, just from uploading software to have **full** self-driving enabled and **full** self-driving is obviously getting better very rapidly.
+4. [Sentence #344]  (Similarity: 0.627) So do you already see that people are getting more excited by **FSD**, because they see it around them on 400,000 cars and they see the value of the service already, or is that too early to really see like, to expect like an uptick in the take rate?
+5. [Sentence #36]  (Similarity: 0.617) With respect to Autopilot, as of now, we deployed **full**-self driving beta for city streets to roughly 400,000 customers in North America.
+6. [Sentence #366]  (Similarity: 0.609) I mean, the way that we've structured this is a **full** self-driving package has two components.
+7. [Sentence #37]  (Similarity: 0.605) This is a huge milestone for autonomy as **FSD** Beta is the only way any consumer can actually test the latest AI-powered autonomy.
+
+Total similarity-top evidence sentences: 7
+
+-----

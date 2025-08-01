@@ -1,0 +1,236 @@
+[TSLA_Q2_2024] From 2022 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+1. [Sentence #167] [UNCERTAIN]
+     And I should say that the Cybertaxi or Robotaxi will be produced here at our headquarters at Giga Texas.
+     Travis Axelrod
+
+All right.
+     Thank you.
+     Elon Musk
+
+And as well Optimus towards the end of next year for Optimus production Version 2, the high volume version of Optimus will also be produced here in Texas.
+     Travis Axelrod
+
+Great.
+     Thank you.
+     Just a couple more.
+>>> Is Tesla still in talks with an OEM to license FSD?
+     Elon Musk
+
+There are a few major OEMs that have expressed interest in licensing Tesla full self-driving.
+     And I suspect there will be more over time.
+     But we can't comment on the details of those discussions.
+     Travis Axelrod
+
+All right.
+     Thank you.
+     And the last one, any updates on investing in xAI and integrating Grok into Tesla software?
+     Elon Musk
+
+I should say Tesla is learning quite a bit from xAI.
+-----
+2. [Sentence #54] [UNCERTAIN]
+     For the energy business, this is growing faster than anything else.
+     This is -- we are really demand constrained rather than production constrained.
+     So we are ramping up production in our U.S. factory as well as building the Megapack factory in China that should roughly double our output, maybe more than double -- maybe triple potentially.
+     So in conclusion, we are super excited about the progress across the board.
+     We are changing the energy system, how people move around, how people approach the economy.
+     The undertaking is massive, but I think the future is incredibly bright.
+     I really just can't emphasize just the importance of autonomy for the vehicle side and for Optimus.
+>>> Although the numbers sound crazy, I think Tesla producing at volume with unsupervised FSD essentially enabling the fleet to operate like a giant autonomous fleet.
+     And it takes the valuation, I think, to some pretty crazy number.
+     ARK Invest thinks, on the order of $5 trillion, I think they are probably not wrong.
+     And long-term Optimus, I think, it achieves a valuation several times that number.
+     I want to thank the Tesla team for a strong execution and looking forward to exciting years ahead.
+     Travis Axelrod
+
+Great.
+     Thank you very much, Elon, and Vaibhav has opening remarks as well.
+     Vaibhav Taneja
+
+Thanks.
+-----
+3. [Sentence #175] [PLAN]
+     Elon Musk
+
+There are a few major OEMs that have expressed interest in licensing Tesla full self-driving.
+     And I suspect there will be more over time.
+     But we can't comment on the details of those discussions.
+     Travis Axelrod
+
+All right.
+     Thank you.
+     And the last one, any updates on investing in xAI and integrating Grok into Tesla software?
+     Elon Musk
+
+I should say Tesla is learning quite a bit from xAI.
+>>> It's been actually helpful in advancing full self-driving and in building up the new Tesla data center.
+     With -- regarding investing in xAI, I think, we need to have a shareholder approval of any such investment.
+     But I'm certainly supportive of that if shareholders are, the group -- probably, I think we need a vote on that.
+     And I think there are opportunities to integrate Grok into Tesla's software, yes.
+     Travis Axelrod
+
+All right.
+     Thanks very much.
+     And now we will move on to analyst questions.
+     The first question comes from Will Stein from Truist.
+-----
+4. [Sentence #26] [UNCERTAIN]
+     And we are investing in many future projects, including AI training and inference and great deal of infrastructure to support future products.
+     We won't get too much into the product roadmap here, because that is reserved for product announcement events.
+     But we are on track to deliver a more affordable model in the first half of next year.
+     The big -- really by far the biggest differentiator for Tesla is autonomy.
+     In addition to that, we've scale economies and we're the most efficient electric vehicle producer in the world.
+     So, this, anyway -- while others are pursuing different parts of the AI robotic stack, we are pursuing all of them.
+     This allows for better cost control, more scale, quicker time to market, and a superior product, applying not to -- not just to autonomous vehicles, but to autonomous humanoid robots like Optimus.
+>>> Regarding Full Self-Driving and Robotaxi, we've made a lot of progress with Full Self-Driving in Q2 and with version 12.5 beginning rollout, we think customers will experience a step change improvement in how well supervised full self-driving works.
+     Version 12.5 has 5x the parameters of 12.4 and will finally merge the highway and city stacks.
+     So the highway stack is still at this point is pretty old.
+     So often the issues people encounter are on highway, but with 12.5, we are finally merged the two stacks.
+     I still find that most people actually don't know how good the system is, and I would encourage anyone to understand the system better, to simply try it out and let the car drive you around.
+     One of the things we're going to be doing just to make sure people actually understand the capabilities of the car is when delivering a new car and when picking up a car for service to just show people how to use it and just drive them around the block.
+     Once people use it at all they tend to continue using it.
+     So it's very compelling.
+-----
+5. [Sentence #168] [UNCERTAIN]
+     Travis Axelrod
+
+All right.
+     Thank you.
+     Elon Musk
+
+And as well Optimus towards the end of next year for Optimus production Version 2, the high volume version of Optimus will also be produced here in Texas.
+     Travis Axelrod
+
+Great.
+     Thank you.
+     Just a couple more.
+     Is Tesla still in talks with an OEM to license FSD?
+>>> Elon Musk
+
+There are a few major OEMs that have expressed interest in licensing Tesla full self-driving.
+     And I suspect there will be more over time.
+     But we can't comment on the details of those discussions.
+     Travis Axelrod
+
+All right.
+     Thank you.
+     And the last one, any updates on investing in xAI and integrating Grok into Tesla software?
+     Elon Musk
+
+I should say Tesla is learning quite a bit from xAI.
+     It's been actually helpful in advancing full self-driving and in building up the new Tesla data center.
+-----
+6. [Sentence #343] [PLAN]
+     So it's -- there's this capability I think in our experience, once we demonstrate that something is safe enough or significantly safer than human.
+     We are fine that regulators are supportive of deploying deployment of that capability.
+     It's difficult to argue with if you -- if you've got a large number of -- yes, if you've got billions of miles that show that in the future unsupervised FSD is safer than human.
+     What regulator could really stand in the way of that?
+     They would -- they're morally obligated to approve.
+     So I don't think regulatory approval will be a limiting factor.
+     I should also say that the self-driving capabilities of this are deployed outside of North America are far behind that in, in North America.
+>>> So with the -- with Version 12.5, and maybe a 12.6, but pretty soon we will ask for regular regulatory approval of the Tesla supervised FSD in Europe, China, and other countries.
+     And I, I think we're likely to receive that before the end of the year, which will be a helpful demand driver in those regions obviously.
+     Travis Axelrod
+
+Thank you.
+     Just to …
+
+Elon Musk
+
+Go ahead, Travis.
+     Travis Axelrod
+
+In terms of like, as Elon said, in terms of regulatory approval, the vehicles are governed by FMVSS in U.S., which is the same across all 50 states.
+     The road rules are the same across all 50 states.
+     So creating a generalized solution gives us the best opportunity to deploy in all 50 states, reasonably.
+     Of course there are state and even local and municipal level regulations that may apply to, being a transportation company or deploying taxes.
+-----
+7. [Sentence #109] [PLAN]
+     The first question is, what is the status on the Roadster?
+     Elon Musk
+
+With respect to Roadster, we've completed most of the engineering.
+     And I think there's still some upgrades we want to make to it, but we expect to be in production with Roadster next year.
+     It will be something special, like the whole thing [Indiscernible].
+     Travis Axelrod
+
+Fantastic.
+     The next question is about timing of Robotaxi event, which we've already covered.
+     So we'll go to the next question, when do you expect the first Robotaxi ride?
+>>> Elon Musk
+
+I guess that, that's really just a question of when can we expect the first -- or when can we do unsupervised full self-driving.
+     It's difficult, obviously, my predictions on this have been overly optimistic in the past.
+     So I mean, based on the current trend, it seems as though we should get miles between interventions to be high enough that -- to be far enough in excess of humans that you could do unsupervised possibly by the end of this year.
+     I would be shocked if we cannot do it next year.
+     So next year seems highly probable to me based on [quite simply] (ph) plus the points of the curve of miles between intervention.
+     That trend exceeds humans for sure next year, so yes.
+     Travis Axelrod
+
+Thank you very much.
+     Our third question is, the Cybertruck is an iconic product that wows everyone who sees it.
+-----
+8. [Sentence #77] [PLAN]
+     We had a record quarter on regulatory credits, revenues, and as well.
+     On net, our auto margins remained flat sequentially.
+     It is important to note that the demand for regulatory credits is dependent on other OEMs plans for the kind of vehicles they are manufacturing and selling as well as changes in regulations.
+     We pride ourselves to be the company with the most American-made cars and are continuing our journey to further localize our supply chain, not just in the U.S., but in Europe and China as well for the respective factories.
+     As always, our focus is on providing the most compelling products at a reasonable price.
+     We have stepped up our efforts to provide more trims that have estimated range of more than 300 miles on a single charge.
+     We believe this, along with the expansion of our supercharging network, is the right strategy to combat range anxiety.
+>>> Since the revision of FSD pricing in North America, we've seen production rates increase meaningfully and expect this to be a driver of vehicle sales as the feature set improves further.
+     Cost per vehicle declined sequentially when we removed the impact of Cybertruck.
+     While we are experiencing material costs trending down, note that there is latency on the cost side and such reductions would show up in the P&L when the vehicles built with these materials get delivered.
+     Additionally, as we get into the second half of the year, it is important to note that we are still ramping Cybertruck and Model 3 and are also getting impacted by varying amounts of tariffs on both raw materials and finished goods.
+     While our teams are working feverishly to offset these, unfortunately it may have an impact on the cost in the near-term.
+     We previously talked about the potential of the energy business and now feel excited that the foundation that was laid over time is bearing the expected results.
+     Energy storage deployments more than doubled with contribution not just from Megapack, but also Powerwall, resulting in record revenues and profit for the energy business.
+     Energy storage backlog is strong.
+-----
+9. [Sentence #274] [UNCERTAIN]
+     Thank you.
+     The next question comes from Alex Potter from Piper Alex.
+     Alex, please go ahead and unmute yourself.
+     Alex Potter
+
+Perfect.
+     Thanks.
+     I wanted to ask a question on FSD licensing.
+     You mentioned that in passing previously, was just wondering if you can elaborate maybe on the mechanics of how that would work.
+>>> I guess presumably this would not be some sort of simple plug and play proposition that presumably an OEM would need, I don't know, several years to develop its own vehicle platform that's based on FSD.
+     I imagine they would need to adopt Tesla's electrical architecture, compute, sensor stack.
+     So I, correct me if I'm sort of misunderstanding this, but if you had a cooperative agreement of some kind with another OEM, then presumably it would take you several years before you'd be able to recognize licensing revenue from that agreement.
+     Is that the right way to think about that?
+     Elon Musk
+
+Yes.
+     The OEMs not real fast.
+     There's not really a sensor suite, it's just cameras.
+     But they would have to integrate our AI computer and have cameras with a 360 degree view.
+-----
+10. [Sentence #368] [UNCERTAIN]
+     George, please go ahead and unmute yourself.
+     George Gianarikas
+
+Hi, everyone.
+     Thank you for taking my questions.
+     Maybe just to expand on the regulatory question for a second.
+     And I could be comparing apples and oranges, but GM canceled their pedal less, wheel less vehicle.
+     And according to the company this morning, their decision was driven by uncertainty about the regulatory environment.
+     And from what we understand, and again, maybe I'm wrong here, but the Robotaxi that has been shown at least in images of the public is also pedal less and wheel less.
+>>> Is there a different regulatory concern just if you deploy a vehicle like that that doesn't have pedal -- pedals or a wheel, and that may not be different from just regular FSD on a traditional Tesla vehicle.
+     Thank you.
+     Elon Musk
+
+Well, obviously the real reason that they cancel it is because GM can't make it work, not because the regulators, they're blaming regulators.
+     That's misleading of them to do so, because Waymo is doing just fine in those markets.
+     So it's just that their technology is not far.
+     George Gianarikas
+
+Right.
+     And maybe just as a follow-up, I think you mentioned, that FSD take rates were up materially after you reduced the price.
+     Is there any way you can help us quantify what that means Exactly?
+-----
+
+Total context windows: 10
