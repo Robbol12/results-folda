@@ -1,0 +1,15 @@
+[TSLA_Q2_2022] tell me about tesla cybertruck production from 2022-2023
+
+--- Evidence in Transcript Order ---
+1. [Sentence #52]  Our team continues to focus on **Cybertruck** **production** readiness and some future platform design.
+2. [Sentence #53]  We are expecting to be – still expecting to be in **production** with the **Cybertruck** in the middle of next year.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #53]  (Similarity: 0.877) We are expecting to be – still expecting to be in **production** with the **Cybertruck** in the middle of next year.
+2. [Sentence #52]  (Similarity: 0.812) Our team continues to focus on **Cybertruck** **production** readiness and some future platform design.
+
+Total similarity-top evidence sentences: 2
+
+-----

@@ -1,0 +1,17 @@
+[TSLA_Q3_2023] tell me about tesla cybertruck production from 2022-2023
+
+--- Evidence in Transcript Order ---
+1. [Sentence #21]  I do want to emphasize that there will be enormous challenges in reaching volume **production** with the **Cybertruck**, and then in making a **Cybertruck** cash flow positive.
+2. [Sentence #68]  How many **Cybertruck** deliveries do you anticipate for 2024?
+3. [Sentence #91]  The **Cybertruck** cell with 10% higher energy than our Model Y cell started **production** on line two in Texas.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #21]  (Similarity: 0.877) I do want to emphasize that there will be enormous challenges in reaching volume **production** with the **Cybertruck**, and then in making a **Cybertruck** cash flow positive.
+2. [Sentence #68]  (Similarity: 0.771) How many **Cybertruck** deliveries do you anticipate for 2024?
+3. [Sentence #91]  (Similarity: 0.769) The **Cybertruck** cell with 10% higher energy than our Model Y cell started **production** on line two in Texas.
+
+Total similarity-top evidence sentences: 3
+
+-----

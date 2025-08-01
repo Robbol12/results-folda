@@ -1,0 +1,15 @@
+[TSLA_Q1_2023] tell me about tesla cybertruck production from 2022-2023
+
+--- Evidence in Transcript Order ---
+1. [Sentence #71]  We plan to continue to invest heavily into our future plans, which include the **Cybertruck** next-generation platform, in-house cell **production**, energy storage business and our autonomy and AI-enabled products.
+2. [Sentence #175]  And maybe the last question from investors, can you give updated specs and pricing for **Cybertruck** and any new features that will make it to **production**?
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #175]  (Similarity: 0.930) And maybe the last question from investors, can you give updated specs and pricing for **Cybertruck** and any new features that will make it to **production**?
+2. [Sentence #71]  (Similarity: 0.850) We plan to continue to invest heavily into our future plans, which include the **Cybertruck** next-generation platform, in-house cell **production**, energy storage business and our autonomy and AI-enabled products.
+
+Total similarity-top evidence sentences: 2
+
+-----

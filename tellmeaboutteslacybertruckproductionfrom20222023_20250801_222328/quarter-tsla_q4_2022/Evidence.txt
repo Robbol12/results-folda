@@ -1,0 +1,17 @@
+[TSLA_Q4_2022] tell me about tesla cybertruck production from 2022-2023
+
+--- Evidence in Transcript Order ---
+1. [Sentence #90]  This includes expanding in-house cell **production**, bringing **Cybertruck** to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+2. [Sentence #182]  And to be clear, for 2023, **Cybertruck** will not be a significant contributor to the bottom line but it will be into next year.
+3. [Sentence #231]  The next question from investors is, is **Cybertruck** **production** still on track for mid-year?
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #90]  (Similarity: 0.922) This includes expanding in-house cell **production**, bringing **Cybertruck** to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+2. [Sentence #231]  (Similarity: 0.893) The next question from investors is, is **Cybertruck** **production** still on track for mid-year?
+3. [Sentence #182]  (Similarity: 0.802) And to be clear, for 2023, **Cybertruck** will not be a significant contributor to the bottom line but it will be into next year.
+
+Total similarity-top evidence sentences: 3
+
+-----

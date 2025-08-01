@@ -1,0 +1,25 @@
+[Year 2023] tell me about tesla cybertruck production from 2022-2023
+
+--- Evidence in Transcript Order ---
+1. [Sentence #71]  (TSLA_Q1_2023) We plan to continue to invest heavily into our future plans, which include the **Cybertruck** next-generation platform, in-house cell **production**, energy storage business and our autonomy and AI-enabled products.
+2. [Sentence #175]  (TSLA_Q1_2023) And maybe the last question from investors, can you give updated specs and pricing for **Cybertruck** and any new features that will make it to **production**?
+3. [Sentence #637]  (TSLA_Q2_2023) With regard to our **Cybertruck**, we continue to build our release candidates of the **Cybertruck** on our final **production** line in Austin.
+4. [Sentence #695]  (TSLA_Q2_2023) Here in Texas, we’re preparing to launch our **Cybertruck** cell, which is 10% higher energy density than current **production**.
+5. [Sentence #1170]  (TSLA_Q3_2023) I do want to emphasize that there will be enormous challenges in reaching volume **production** with the **Cybertruck**, and then in making a **Cybertruck** cash flow positive.
+6. [Sentence #1217]  (TSLA_Q3_2023) How many **Cybertruck** deliveries do you anticipate for 2024?
+7. [Sentence #1240]  (TSLA_Q3_2023) The **Cybertruck** cell with 10% higher energy than our Model Y cell started **production** on line two in Texas.
+
+Total transcript-order evidence sentences: 7
+
+--- Evidence by Similarity ---
+1. [Sentence #175]  (TSLA_Q1_2023) (Similarity: 0.930) And maybe the last question from investors, can you give updated specs and pricing for **Cybertruck** and any new features that will make it to **production**?
+2. [Sentence #1170]  (TSLA_Q3_2023) (Similarity: 0.877) I do want to emphasize that there will be enormous challenges in reaching volume **production** with the **Cybertruck**, and then in making a **Cybertruck** cash flow positive.
+3. [Sentence #71]  (TSLA_Q1_2023) (Similarity: 0.850) We plan to continue to invest heavily into our future plans, which include the **Cybertruck** next-generation platform, in-house cell **production**, energy storage business and our autonomy and AI-enabled products.
+4. [Sentence #695]  (TSLA_Q2_2023) (Similarity: 0.822) Here in Texas, we’re preparing to launch our **Cybertruck** cell, which is 10% higher energy density than current **production**.
+5. [Sentence #637]  (TSLA_Q2_2023) (Similarity: 0.808) With regard to our **Cybertruck**, we continue to build our release candidates of the **Cybertruck** on our final **production** line in Austin.
+6. [Sentence #1217]  (TSLA_Q3_2023) (Similarity: 0.771) How many **Cybertruck** deliveries do you anticipate for 2024?
+7. [Sentence #1240]  (TSLA_Q3_2023) (Similarity: 0.769) The **Cybertruck** cell with 10% higher energy than our Model Y cell started **production** on line two in Texas.
+
+Total similarity-top evidence sentences: 7
+
+-----

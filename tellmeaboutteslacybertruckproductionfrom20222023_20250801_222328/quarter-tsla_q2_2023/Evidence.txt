@@ -1,0 +1,15 @@
+[TSLA_Q2_2023] tell me about tesla cybertruck production from 2022-2023
+
+--- Evidence in Transcript Order ---
+1. [Sentence #52]  With regard to our **Cybertruck**, we continue to build our release candidates of the **Cybertruck** on our final **production** line in Austin.
+2. [Sentence #110]  Here in Texas, we’re preparing to launch our **Cybertruck** cell, which is 10% higher energy density than current **production**.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #110]  (Similarity: 0.822) Here in Texas, we’re preparing to launch our **Cybertruck** cell, which is 10% higher energy density than current **production**.
+2. [Sentence #52]  (Similarity: 0.808) With regard to our **Cybertruck**, we continue to build our release candidates of the **Cybertruck** on our final **production** line in Austin.
+
+Total similarity-top evidence sentences: 2
+
+-----

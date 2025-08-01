@@ -1,0 +1,15 @@
+[TSLA_Q3_2022] tell me about tesla cybertruck production from 2022-2023
+
+--- Evidence in Transcript Order ---
+1. [Sentence #132]  We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue **production** at a 50% or greater compound annual growth rate.
+2. [Sentence #165]  And the next question is, “How is **production** planning going for the **Cybertruck**?
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #165]  (Similarity: 0.929) And the next question is, “How is **production** planning going for the **Cybertruck**?
+2. [Sentence #132]  (Similarity: 0.755) We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue **production** at a 50% or greater compound annual growth rate.
+
+Total similarity-top evidence sentences: 2
+
+-----
