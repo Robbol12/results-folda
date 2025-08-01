@@ -1,0 +1,13 @@
+[Multi-Year Analysis] Tell me about  Tesla cybertruck production from 2019-2020
+
+--- Evidence in Transcript Order ---
+1. [Sentence #32]  (TSLA_Q2_2020) And it's also where we'll be doing **Cybertruck** there, the Tesla Semi.
+
+Total transcript-order evidence sentences: 1
+
+--- Evidence by Similarity ---
+1. [Sentence #32]  (TSLA_Q2_2020) (Similarity: 0.835) And it's also where we'll be doing **Cybertruck** there, the Tesla Semi.
+
+Total similarity-top evidence sentences: 1
+
+-----
