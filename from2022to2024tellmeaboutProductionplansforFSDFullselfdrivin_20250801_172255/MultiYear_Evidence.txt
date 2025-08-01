@@ -1,0 +1,19 @@
+[Multi-Year Analysis] from 2022 to 2024 tell me about Production plans for FSD Fullselfdriving
+
+--- Evidence in Transcript Order ---
+1. [Sentence #77]  (TSLA_Q2_2024) Since the revision of **FSD** pricing in North America, we've seen **production** rates increase meaningfully and expect this to be a driver of vehicle sales as the feature set improves further.
+2. [Sentence #316]  (TSLA_Q3_2024) What will the next stage growth look like and when will **FSD** be ready?
+3. [Sentence #319]  (TSLA_Q3_2024) We've released all our major cash flow expenditures for that program, and we're on track to start pilot builds in the second half of next year with **production** starting in the first half of 2026 and ramping really throughout the year to **full** **production**.
+4. [Sentence #452]  (TSLA_Q2_2022) Could you talk a little bit about the pricing strategy around **FSD**, and as you get closer to this **full** functionality rolling out and the increased cycle times, how you see that evolving through the balance of this year and into 2023?
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #452]  (TSLA_Q2_2022) (Similarity: 0.933) Could you talk a little bit about the pricing strategy around **FSD**, and as you get closer to this **full** functionality rolling out and the increased cycle times, how you see that evolving through the balance of this year and into 2023?
+2. [Sentence #316]  (TSLA_Q3_2024) (Similarity: 0.838) What will the next stage growth look like and when will **FSD** be ready?
+3. [Sentence #319]  (TSLA_Q3_2024) (Similarity: 0.793) We've released all our major cash flow expenditures for that program, and we're on track to start pilot builds in the second half of next year with **production** starting in the first half of 2026 and ramping really throughout the year to **full** **production**.
+4. [Sentence #77]  (TSLA_Q2_2024) (Similarity: 0.772) Since the revision of **FSD** pricing in North America, we've seen **production** rates increase meaningfully and expect this to be a driver of vehicle sales as the feature set improves further.
+
+Total similarity-top evidence sentences: 4
+
+-----

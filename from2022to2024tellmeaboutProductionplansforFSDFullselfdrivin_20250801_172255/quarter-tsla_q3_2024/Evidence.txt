@@ -1,0 +1,15 @@
+[TSLA_Q3_2024] from 2022 to 2024 tell me about Production plans for FSD Fullselfdriving
+
+--- Evidence in Transcript Order ---
+1. [Sentence #316]  What will the next stage growth look like and when will **FSD** be ready?
+2. [Sentence #319]  We've released all our major cash flow expenditures for that program, and we're on track to start pilot builds in the second half of next year with **production** starting in the first half of 2026 and ramping really throughout the year to **full** **production**.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #316]  (Similarity: 0.838) What will the next stage growth look like and when will **FSD** be ready?
+2. [Sentence #319]  (Similarity: 0.793) We've released all our major cash flow expenditures for that program, and we're on track to start pilot builds in the second half of next year with **production** starting in the first half of 2026 and ramping really throughout the year to **full** **production**.
+
+Total similarity-top evidence sentences: 2
+
+-----
