@@ -1,0 +1,31 @@
+[Year Q2] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #33]  (TSLA_Q2_2020) And we'll be doing ****Model** 3** and Y for the eastern half of ****North** **America****.
+2. [Sentence #35]  (TSLA_Q2_2020) But we expect California to do **Model** S and X for worldwide consumption and 3 and Y for the western half of ****North** **America****.
+3. [Sentence #101]  (TSLA_Q2_2020) Despite these charges, we continue to make progress, reducing our costs, particularly on **Model** Y in Fremont, and ****Model** 3** in Shanghai.
+4. [Sentence #127]  (TSLA_Q2_2020) The question number one is, as Tesla continues its journey towards the long-term goal of selling 20 million units per year, what are the most important vehicle programs that will drive volume growth over the next three to five years beyond ****Model** 3**, Y and the Cybertruck?
+5. [Sentence #157]  (TSLA_Q2_2020) And the ability to upgrade your vehicle through the app, for example, on Acceleration Boost or upgrading a Standard Range ****Model** 3** to a Standard Plus, adding rear-heated seats.
+6. [Sentence #348]  (TSLA_Q2_2020) What we're seeing with our passenger vehicles is that our powertrain efficiency and tire efficiency, drive coefficient like basically all of the things that, like, you know, our HVAC, going to a heat pump, basically our total vehicle efficiency has gotten good enough with ****Model** 3**, for example, that we actually are comfortable having an iron phosphate battery pack in ****Model** 3** in **China** and that that'll be in volume production later this year.
+7. [Sentence #354]  (TSLA_Q2_2020) The next question is, Tesla recently decided not to produce Standard 3 Range version of **Model** Y.
+8. [Sentence #450]  (TSLA_Q2_2020) And as we said before, the **Model** Y cost structure and ****Model** 3** cost structure will converge.
+9. [Sentence #451]  (TSLA_Q2_2020) They're not quite there, **Model** Y is still slightly more expensive than ****Model** 3**, and it's not yet at full production.
+10. [Sentence #498]  (TSLA_Q2_2020) ****Model** 3**, which is our second most mature product, that continues to come down.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #33]  (TSLA_Q2_2020) (Similarity: 1.270) And we'll be doing ****Model** 3** and Y for the eastern half of ****North** **America****.
+2. [Sentence #35]  (TSLA_Q2_2020) (Similarity: 0.967) But we expect California to do **Model** S and X for worldwide consumption and 3 and Y for the western half of ****North** **America****.
+3. [Sentence #127]  (TSLA_Q2_2020) (Similarity: 0.894) The question number one is, as Tesla continues its journey towards the long-term goal of selling 20 million units per year, what are the most important vehicle programs that will drive volume growth over the next three to five years beyond ****Model** 3**, Y and the Cybertruck?
+4. [Sentence #348]  (TSLA_Q2_2020) (Similarity: 0.882) What we're seeing with our passenger vehicles is that our powertrain efficiency and tire efficiency, drive coefficient like basically all of the things that, like, you know, our HVAC, going to a heat pump, basically our total vehicle efficiency has gotten good enough with ****Model** 3**, for example, that we actually are comfortable having an iron phosphate battery pack in ****Model** 3** in **China** and that that'll be in volume production later this year.
+5. [Sentence #101]  (TSLA_Q2_2020) (Similarity: 0.815) Despite these charges, we continue to make progress, reducing our costs, particularly on **Model** Y in Fremont, and ****Model** 3** in Shanghai.
+6. [Sentence #498]  (TSLA_Q2_2020) (Similarity: 0.749) ****Model** 3**, which is our second most mature product, that continues to come down.
+7. [Sentence #450]  (TSLA_Q2_2020) (Similarity: 0.743) And as we said before, the **Model** Y cost structure and ****Model** 3** cost structure will converge.
+8. [Sentence #451]  (TSLA_Q2_2020) (Similarity: 0.732) They're not quite there, **Model** Y is still slightly more expensive than ****Model** 3**, and it's not yet at full production.
+9. [Sentence #354]  (TSLA_Q2_2020) (Similarity: 0.723) The next question is, Tesla recently decided not to produce Standard 3 Range version of **Model** Y.
+10. [Sentence #157]  (TSLA_Q2_2020) (Similarity: 0.671) And the ability to upgrade your vehicle through the app, for example, on Acceleration Boost or upgrading a Standard Range ****Model** 3** to a Standard Plus, adding rear-heated seats.
+
+Total similarity-top evidence sentences: 10
+
+-----
