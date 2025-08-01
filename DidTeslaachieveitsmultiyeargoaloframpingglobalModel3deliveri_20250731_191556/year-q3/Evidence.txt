@@ -1,0 +1,91 @@
+[Year Q3] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #24]  (TSLA_Q3_2019) Our operating cost is now at the lowest level since ****Model** 3** production started.
+2. [Sentence #32]  (TSLA_Q3_2019) We're planning to build **model**-wise in Shanghai as well of course, and build a Gigafactory in **Europe** and we hope to announce the location to that Gigafactory.
+3. [Sentence #37]  (TSLA_Q3_2019) I think it's quite likely to -- just my opinion, but I think it will outsell **Model** S, **Model** X and ****Model** 3** combined.
+4. [Sentence #68]  (TSLA_Q3_2019) We achieved these improvements through higher production volumes on **Model** S, **Model** X and ****Model** 3**, enabling better fixed cost absorption.
+5. [Sentence #72]  (TSLA_Q3_2019) And ****Model** 3** ASPs declined slightly, driven by mix in Asia, pricing action in EMEA.
+6. [Sentence #91]  (TSLA_Q3_2019) In the immediate term, we're focused on increasing production of ****Model** 3** and **Model** S and **Model** X as quickly as we can.
+7. [Sentence #105]  (TSLA_Q3_2019) In the last three months, we relaunched Tesla Solar in ****North** **America**** by simplifying our solar offering into three sizes of small, medium and large with transfer and pricing on the website.
+8. [Sentence #179]  (TSLA_Q3_2019) We had to basically take resources from everywhere else in the company and apply them to the ****Model** 3** production -- fixing the ****Model** 3** production **ramp** and simplifying the design of the ****Model** 3**.
+9. [Sentence #181]  (TSLA_Q3_2019) Now that we feel that ****Model** 3** production is in a good place and headed to a great place, we've restored resources to Tesla Solar and storage.
+10. [Sentence #183]  (TSLA_Q3_2019) And but we had to do it because if we didn't solve ****Model** 3**, Tesla wouldn't survive.
+11. [Sentence #217]  (TSLA_Q3_2019) Do you anticipate any ****Model** 3** production downtime at Fremont during the launch?
+12. [Sentence #226]  (TSLA_Q3_2019) Zachary Kirkhorn
+
+Yeah, from a margin perspective, we're expecting ASPs for **Model** Y to be slightly higher than they are for ****Model** 3**, and this is common in the industry between sedans and CUVs.
+13. [Sentence #227]  (TSLA_Q3_2019) The part that we've worked very hard on is controlling the cost of **Model** Y, and our steady state forecast for that program puts the cost at roughly equivalent to ****Model** 3**.
+14. [Sentence #253]  (TSLA_Q3_2019) News reports suggest that Gigafactory may already be producing **Model** 3s for Chinese market.
+15. [Sentence #257]  (TSLA_Q3_2019) Elon Musk
+
+Yeah, we're in trial production of ****Model** 3**, basically sending cars through the system, and we're ramping rapidly.
+16. [Sentence #302]  (TSLA_Q3_2019) On your final -- on your last question about **China** headwinds, there are always **ramp** inefficiencies when we launch a new factory.
+17. [Sentence #324]  (TSLA_Q3_2019) So, first question, is it a fair assumption to say that once the Shanghai Gigafactory is ramped, the ****Model** 3** sold in **China** for **China** could be the most profitable car you sell, even more profitable than the average car made at Fremont right now?
+18. [Sentence #326]  (TSLA_Q3_2019) At least based on the plans that we have now, we're expecting it to be roughly in line with where ****Model** 3** is coming out of our Fremont factory.
+19. [Sentence #332]  (TSLA_Q3_2019) As your business **model** proves to be more sustainable, could we potentially see Tesla maybe supplying other OEMs with batteries or software or complete electric vehicle architectures maybe in an effort to accelerate mass adoption of sustainable transport?
+20. [Sentence #430]  (TSLA_Q3_2019) It looks like the **deliveries** have stayed to the **deliveries** of the previous quarter and that ****Model** 3** has indeed cannibalized the demand for these cars, quite a big deal.
+21. [Sentence #455]  (TSLA_Q3_2019) And so, I think part of the story here is, as we have launched, ramped and stabilized ****Model** 3**, that's kind of consumed a lot of the attention around the company.
+22. [Sentence #467]  (TSLA_Q3_2019) And yeah, so 5% improvement for all ****Model** 3** customers and 3% for S and X.
+
+Elon Musk
+
+Yeah, and there's also the single pedal driving that will improve the range as well.
+23. [Sentence #488]  (TSLA_Q3_2019) So, I was wondering what you have learned with S and X that make you think maybe when you launch **Model** Y, you have some cannibalization of demand on the ****Model** 3**?
+24. [Sentence #508]  (TSLA_Q3_2019) But we saw with Fremont that the **ramp** on ****Model** 3** was lumpy.
+25. [Sentence #514]  (TSLA_Q3_2019) Elon Musk
+
+Yeah, it should be smoother than ****Model** 3** because there's a lot of commonality of parts.
+26. [Sentence #609]  (TSLA_Q3_2020) It's like I'm always amazed by how much progress the Tesla **China** team makes.
+27. [Sentence #665]  (TSLA_Q3_2020) As were previous investments in ****Model** 3** Shanghai and **Model** Y in Fremont, we're expecting these programs to have already fully paid for their respective investments by the end of this year.
+28. [Sentence #668]  (TSLA_Q3_2020) While we expect the return on our investments to remain very strong, keep in mind that with additional scope and location-specific costs, payback of these investments may be slightly longer than what we saw in ****Model** 3** in Shanghai and **Model** Y in Fremont.
+29. [Sentence #1028]  (TSLA_Q3_2020) Zach, maybe you could give us a sense of where directionally **Model** Y and **China** ****Model** 3** gross margin was in the quarter relative to Fremont ****Model** 3**?
+30. [Sentence #1039]  (TSLA_Q3_2020) But we've guided in the past that **Model** Y cost should be roughly equivalent to the ****Model** 3** built in Fremont costs.
+
+Total transcript-order evidence sentences: 30
+
+--- Evidence by Similarity ---
+1. [Sentence #430]  (TSLA_Q3_2019) (Similarity: 1.047) It looks like the **deliveries** have stayed to the **deliveries** of the previous quarter and that ****Model** 3** has indeed cannibalized the demand for these cars, quite a big deal.
+2. [Sentence #324]  (TSLA_Q3_2019) (Similarity: 0.984) So, first question, is it a fair assumption to say that once the Shanghai Gigafactory is ramped, the ****Model** 3** sold in **China** for **China** could be the most profitable car you sell, even more profitable than the average car made at Fremont right now?
+3. [Sentence #105]  (TSLA_Q3_2019) (Similarity: 0.959) In the last three months, we relaunched Tesla Solar in ****North** **America**** by simplifying our solar offering into three sizes of small, medium and large with transfer and pricing on the website.
+4. [Sentence #181]  (TSLA_Q3_2019) (Similarity: 0.945) Now that we feel that ****Model** 3** production is in a good place and headed to a great place, we've restored resources to Tesla Solar and storage.
+5. [Sentence #179]  (TSLA_Q3_2019) (Similarity: 0.927) We had to basically take resources from everywhere else in the company and apply them to the ****Model** 3** production -- fixing the ****Model** 3** production **ramp** and simplifying the design of the ****Model** 3**.
+6. [Sentence #257]  (TSLA_Q3_2019) (Similarity: 0.912) Elon Musk
+
+Yeah, we're in trial production of ****Model** 3**, basically sending cars through the system, and we're ramping rapidly.
+7. [Sentence #253]  (TSLA_Q3_2019) (Similarity: 0.851) News reports suggest that Gigafactory may already be producing **Model** 3s for Chinese market.
+8. [Sentence #183]  (TSLA_Q3_2019) (Similarity: 0.850) And but we had to do it because if we didn't solve ****Model** 3**, Tesla wouldn't survive.
+9. [Sentence #455]  (TSLA_Q3_2019) (Similarity: 0.837) And so, I think part of the story here is, as we have launched, ramped and stabilized ****Model** 3**, that's kind of consumed a lot of the attention around the company.
+10. [Sentence #467]  (TSLA_Q3_2019) (Similarity: 0.813) And yeah, so 5% improvement for all ****Model** 3** customers and 3% for S and X.
+
+Elon Musk
+
+Yeah, and there's also the single pedal driving that will improve the range as well.
+11. [Sentence #326]  (TSLA_Q3_2019) (Similarity: 0.811) At least based on the plans that we have now, we're expecting it to be roughly in line with where ****Model** 3** is coming out of our Fremont factory.
+12. [Sentence #91]  (TSLA_Q3_2019) (Similarity: 0.809) In the immediate term, we're focused on increasing production of ****Model** 3** and **Model** S and **Model** X as quickly as we can.
+13. [Sentence #668]  (TSLA_Q3_2020) (Similarity: 0.785) While we expect the return on our investments to remain very strong, keep in mind that with additional scope and location-specific costs, payback of these investments may be slightly longer than what we saw in ****Model** 3** in Shanghai and **Model** Y in Fremont.
+14. [Sentence #37]  (TSLA_Q3_2019) (Similarity: 0.775) I think it's quite likely to -- just my opinion, but I think it will outsell **Model** S, **Model** X and ****Model** 3** combined.
+15. [Sentence #217]  (TSLA_Q3_2019) (Similarity: 0.772) Do you anticipate any ****Model** 3** production downtime at Fremont during the launch?
+16. [Sentence #508]  (TSLA_Q3_2019) (Similarity: 0.767) But we saw with Fremont that the **ramp** on ****Model** 3** was lumpy.
+17. [Sentence #1028]  (TSLA_Q3_2020) (Similarity: 0.756) Zach, maybe you could give us a sense of where directionally **Model** Y and **China** ****Model** 3** gross margin was in the quarter relative to Fremont ****Model** 3**?
+18. [Sentence #24]  (TSLA_Q3_2019) (Similarity: 0.752) Our operating cost is now at the lowest level since ****Model** 3** production started.
+19. [Sentence #488]  (TSLA_Q3_2019) (Similarity: 0.740) So, I was wondering what you have learned with S and X that make you think maybe when you launch **Model** Y, you have some cannibalization of demand on the ****Model** 3**?
+20. [Sentence #665]  (TSLA_Q3_2020) (Similarity: 0.733) As were previous investments in ****Model** 3** Shanghai and **Model** Y in Fremont, we're expecting these programs to have already fully paid for their respective investments by the end of this year.
+21. [Sentence #68]  (TSLA_Q3_2019) (Similarity: 0.727) We achieved these improvements through higher production volumes on **Model** S, **Model** X and ****Model** 3**, enabling better fixed cost absorption.
+22. [Sentence #226]  (TSLA_Q3_2019) (Similarity: 0.722) Zachary Kirkhorn
+
+Yeah, from a margin perspective, we're expecting ASPs for **Model** Y to be slightly higher than they are for ****Model** 3**, and this is common in the industry between sedans and CUVs.
+23. [Sentence #302]  (TSLA_Q3_2019) (Similarity: 0.711) On your final -- on your last question about **China** headwinds, there are always **ramp** inefficiencies when we launch a new factory.
+24. [Sentence #1039]  (TSLA_Q3_2020) (Similarity: 0.711) But we've guided in the past that **Model** Y cost should be roughly equivalent to the ****Model** 3** built in Fremont costs.
+25. [Sentence #227]  (TSLA_Q3_2019) (Similarity: 0.708) The part that we've worked very hard on is controlling the cost of **Model** Y, and our steady state forecast for that program puts the cost at roughly equivalent to ****Model** 3**.
+26. [Sentence #514]  (TSLA_Q3_2019) (Similarity: 0.692) Elon Musk
+
+Yeah, it should be smoother than ****Model** 3** because there's a lot of commonality of parts.
+27. [Sentence #332]  (TSLA_Q3_2019) (Similarity: 0.691) As your business **model** proves to be more sustainable, could we potentially see Tesla maybe supplying other OEMs with batteries or software or complete electric vehicle architectures maybe in an effort to accelerate mass adoption of sustainable transport?
+28. [Sentence #72]  (TSLA_Q3_2019) (Similarity: 0.678) And ****Model** 3** ASPs declined slightly, driven by mix in Asia, pricing action in EMEA.
+29. [Sentence #609]  (TSLA_Q3_2020) (Similarity: 0.672) It's like I'm always amazed by how much progress the Tesla **China** team makes.
+30. [Sentence #32]  (TSLA_Q3_2019) (Similarity: 0.671) We're planning to build **model**-wise in Shanghai as well of course, and build a Gigafactory in **Europe** and we hope to announce the location to that Gigafactory.
+
+Total similarity-top evidence sentences: 30
+
+-----

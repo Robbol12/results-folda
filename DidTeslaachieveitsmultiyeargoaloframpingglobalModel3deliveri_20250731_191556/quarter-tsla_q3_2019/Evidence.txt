@@ -1,0 +1,43 @@
+[TSLA_Q3_2019] Did Tesla achieve its multi-year goal of ramping global Model 3 deliveries from 2019 to 2020 across North America, Europe, and China?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #105]  In the last three months, we relaunched Tesla Solar in ****North** **America**** by simplifying our solar offering into three sizes of small, medium and large with transfer and pricing on the website.
+2. [Sentence #179]  We had to basically take resources from everywhere else in the company and apply them to the ****Model** 3** production -- fixing the ****Model** 3** production **ramp** and simplifying the design of the ****Model** 3**.
+3. [Sentence #181]  Now that we feel that ****Model** 3** production is in a good place and headed to a great place, we've restored resources to Tesla Solar and storage.
+4. [Sentence #183]  And but we had to do it because if we didn't solve ****Model** 3**, Tesla wouldn't survive.
+5. [Sentence #253]  News reports suggest that Gigafactory may already be producing **Model** 3s for Chinese market.
+6. [Sentence #257]  Elon Musk
+
+Yeah, we're in trial production of ****Model** 3**, basically sending cars through the system, and we're ramping rapidly.
+7. [Sentence #324]  So, first question, is it a fair assumption to say that once the Shanghai Gigafactory is ramped, the ****Model** 3** sold in **China** for **China** could be the most profitable car you sell, even more profitable than the average car made at Fremont right now?
+8. [Sentence #430]  It looks like the **deliveries** have stayed to the **deliveries** of the previous quarter and that ****Model** 3** has indeed cannibalized the demand for these cars, quite a big deal.
+9. [Sentence #455]  And so, I think part of the story here is, as we have launched, ramped and stabilized ****Model** 3**, that's kind of consumed a lot of the attention around the company.
+10. [Sentence #467]  And yeah, so 5% improvement for all ****Model** 3** customers and 3% for S and X.
+
+Elon Musk
+
+Yeah, and there's also the single pedal driving that will improve the range as well.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #430]  (Similarity: 1.047) It looks like the **deliveries** have stayed to the **deliveries** of the previous quarter and that ****Model** 3** has indeed cannibalized the demand for these cars, quite a big deal.
+2. [Sentence #324]  (Similarity: 0.984) So, first question, is it a fair assumption to say that once the Shanghai Gigafactory is ramped, the ****Model** 3** sold in **China** for **China** could be the most profitable car you sell, even more profitable than the average car made at Fremont right now?
+3. [Sentence #105]  (Similarity: 0.959) In the last three months, we relaunched Tesla Solar in ****North** **America**** by simplifying our solar offering into three sizes of small, medium and large with transfer and pricing on the website.
+4. [Sentence #181]  (Similarity: 0.945) Now that we feel that ****Model** 3** production is in a good place and headed to a great place, we've restored resources to Tesla Solar and storage.
+5. [Sentence #179]  (Similarity: 0.927) We had to basically take resources from everywhere else in the company and apply them to the ****Model** 3** production -- fixing the ****Model** 3** production **ramp** and simplifying the design of the ****Model** 3**.
+6. [Sentence #257]  (Similarity: 0.912) Elon Musk
+
+Yeah, we're in trial production of ****Model** 3**, basically sending cars through the system, and we're ramping rapidly.
+7. [Sentence #253]  (Similarity: 0.851) News reports suggest that Gigafactory may already be producing **Model** 3s for Chinese market.
+8. [Sentence #183]  (Similarity: 0.850) And but we had to do it because if we didn't solve ****Model** 3**, Tesla wouldn't survive.
+9. [Sentence #455]  (Similarity: 0.837) And so, I think part of the story here is, as we have launched, ramped and stabilized ****Model** 3**, that's kind of consumed a lot of the attention around the company.
+10. [Sentence #467]  (Similarity: 0.813) And yeah, so 5% improvement for all ****Model** 3** customers and 3% for S and X.
+
+Elon Musk
+
+Yeah, and there's also the single pedal driving that will improve the range as well.
+
+Total similarity-top evidence sentences: 10
+
+-----
