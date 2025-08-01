@@ -1,0 +1,55 @@
+[Year 2022] From 2022 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #90]  (TSLA_Q1_2022) Well, with respect to **full** self-driving, of any technology development I’ve ever been involved in, I’ve never really seen more kind of false dawns or where it seems like we’re going to break through, but we don’t, as I’ve seen in **full** self-driving.
+2. [Sentence #95]  (TSLA_Q1_2022) The best way to reach your own assessment is to join the Tesla **full** self-driving beta program where we have over 100,000 people right now enrolled in that program, and we expect to broaden that significantly this year.
+3. [Sentence #586]  (TSLA_Q2_2022) We have now driven over 35 million miles with **FSD** beta.
+4. [Sentence #685]  (TSLA_Q2_2022) It’s – I think it’s probably not necessary to achieve **full** self-driving, but it would be a slight improvement in the efficiency of the self-driving.
+5. [Sentence #1009]  (TSLA_Q2_2022) Could you talk a little bit about the pricing strategy around **FSD**, and as you get closer to this **full** functionality rolling out and the increased cycle times, how you see that evolving through the balance of this year and into 2023?
+6. [Sentence #1154]  (TSLA_Q3_2022) Regarding Autopilot, at the end of September, we hosted our second AI Day and drove the first prototype of our Optimus robot, released **updates** on our training computer and high range improvements of **full** self-driving software.
+7. [Sentence #1155]  (TSLA_Q3_2022) Our vehicles have now driven nearly 60 miles in **full** self-driving Beta mode, and this number continues to grow exponentially.
+8. [Sentence #1159]  (TSLA_Q3_2022) So, this quarter, we expect to go to a wide release of **full** self-driving Beta in North America.
+9. [Sentence #1160]  (TSLA_Q3_2022) So, anyone who has ordered a **full** self-driving Beta -- **full** self-driving, will have access to the **FSD** Beta program this year, probably about a month from now.
+10. [Sentence #1262]  (TSLA_Q3_2022) The next question is, “Can you tell us more about the product future road map beyond new models and **FSD**, and especially for interior and powertrain of existing vehicle models?
+11. [Sentence #1443]  (TSLA_Q3_2022) Any update on **full** self-driving?
+12. [Sentence #1664]  (TSLA_Q3_2022) Elon Musk
+
+We’ll achieve **full** self-driving **full** autonomy -- I look at that occurring is 100%.
+13. [Sentence #1667]  (TSLA_Q3_2022) But anyone who’s driving **full** self-driving cars -- has **full** self-driving Beta in the car, you can see the rate of improvement.
+14. [Sentence #1719]  (TSLA_Q4_2022) With respect to Autopilot, as of now, we deployed **full**-self driving beta for city streets to roughly 400,000 customers in North America.
+15. [Sentence #1720]  (TSLA_Q4_2022) This is a huge milestone for autonomy as **FSD** Beta is the only way any consumer can actually test the latest AI-powered autonomy.
+16. [Sentence #1823]  (TSLA_Q4_2022) Something that I think some of these smart retail investors understand, but I think a lot of others maybe don't is that the -- every time we sell a car, it has the ability, just from uploading software to have **full** self-driving enabled and **full** self-driving is obviously getting better very rapidly.
+17. [Sentence #1902]  (TSLA_Q4_2022) So we've actually adjusted the design of the car and made changes in the software of the car to minimize the cost of repair, obviously minimize -- first, the best repair is no repair, avoid the accident entirely, which since every Tesla comes with the most advanced active safety in the world, whether or not you buy **full** self-driving, you still get the intelligence of **full** self-driving or active safety, active collision prevention.
+18. [Sentence #2027]  (TSLA_Q4_2022) So do you already see that people are getting more excited by **FSD**, because they see it around them on 400,000 cars and they see the value of the service already, or is that too early to really see like, to expect like an uptick in the take rate?
+19. [Sentence #2049]  (TSLA_Q4_2022) I mean, the way that we've structured this is a **full** self-driving package has two components.
+20. [Sentence #2052]  (TSLA_Q4_2022) Then there's an incremental, which is for the additional features of **full** self-driving offers and we've released a portion of that.
+
+Total transcript-order evidence sentences: 20
+
+--- Evidence by Similarity ---
+1. [Sentence #1009]  (TSLA_Q2_2022) (Similarity: 0.826) Could you talk a little bit about the pricing strategy around **FSD**, and as you get closer to this **full** functionality rolling out and the increased cycle times, how you see that evolving through the balance of this year and into 2023?
+2. [Sentence #1160]  (TSLA_Q3_2022) (Similarity: 0.778) So, anyone who has ordered a **full** self-driving Beta -- **full** self-driving, will have access to the **FSD** Beta program this year, probably about a month from now.
+3. [Sentence #1902]  (TSLA_Q4_2022) (Similarity: 0.722) So we've actually adjusted the design of the car and made changes in the software of the car to minimize the cost of repair, obviously minimize -- first, the best repair is no repair, avoid the accident entirely, which since every Tesla comes with the most advanced active safety in the world, whether or not you buy **full** self-driving, you still get the intelligence of **full** self-driving or active safety, active collision prevention.
+4. [Sentence #95]  (TSLA_Q1_2022) (Similarity: 0.703) The best way to reach your own assessment is to join the Tesla **full** self-driving beta program where we have over 100,000 people right now enrolled in that program, and we expect to broaden that significantly this year.
+5. [Sentence #1154]  (TSLA_Q3_2022) (Similarity: 0.702) Regarding Autopilot, at the end of September, we hosted our second AI Day and drove the first prototype of our Optimus robot, released **updates** on our training computer and high range improvements of **full** self-driving software.
+6. [Sentence #1443]  (TSLA_Q3_2022) (Similarity: 0.685) Any update on **full** self-driving?
+7. [Sentence #1262]  (TSLA_Q3_2022) (Similarity: 0.680) The next question is, “Can you tell us more about the product future road map beyond new models and **FSD**, and especially for interior and powertrain of existing vehicle models?
+8. [Sentence #2052]  (TSLA_Q4_2022) (Similarity: 0.664) Then there's an incremental, which is for the additional features of **full** self-driving offers and we've released a portion of that.
+9. [Sentence #1159]  (TSLA_Q3_2022) (Similarity: 0.661) So, this quarter, we expect to go to a wide release of **full** self-driving Beta in North America.
+10. [Sentence #1823]  (TSLA_Q4_2022) (Similarity: 0.647) Something that I think some of these smart retail investors understand, but I think a lot of others maybe don't is that the -- every time we sell a car, it has the ability, just from uploading software to have **full** self-driving enabled and **full** self-driving is obviously getting better very rapidly.
+11. [Sentence #90]  (TSLA_Q1_2022) (Similarity: 0.645) Well, with respect to **full** self-driving, of any technology development I’ve ever been involved in, I’ve never really seen more kind of false dawns or where it seems like we’re going to break through, but we don’t, as I’ve seen in **full** self-driving.
+12. [Sentence #1667]  (TSLA_Q3_2022) (Similarity: 0.630) But anyone who’s driving **full** self-driving cars -- has **full** self-driving Beta in the car, you can see the rate of improvement.
+13. [Sentence #2027]  (TSLA_Q4_2022) (Similarity: 0.627) So do you already see that people are getting more excited by **FSD**, because they see it around them on 400,000 cars and they see the value of the service already, or is that too early to really see like, to expect like an uptick in the take rate?
+14. [Sentence #685]  (TSLA_Q2_2022) (Similarity: 0.621) It’s – I think it’s probably not necessary to achieve **full** self-driving, but it would be a slight improvement in the efficiency of the self-driving.
+15. [Sentence #1719]  (TSLA_Q4_2022) (Similarity: 0.617) With respect to Autopilot, as of now, we deployed **full**-self driving beta for city streets to roughly 400,000 customers in North America.
+16. [Sentence #586]  (TSLA_Q2_2022) (Similarity: 0.614) We have now driven over 35 million miles with **FSD** beta.
+17. [Sentence #1664]  (TSLA_Q3_2022) (Similarity: 0.611) Elon Musk
+
+We’ll achieve **full** self-driving **full** autonomy -- I look at that occurring is 100%.
+18. [Sentence #2049]  (TSLA_Q4_2022) (Similarity: 0.609) I mean, the way that we've structured this is a **full** self-driving package has two components.
+19. [Sentence #1720]  (TSLA_Q4_2022) (Similarity: 0.605) This is a huge milestone for autonomy as **FSD** Beta is the only way any consumer can actually test the latest AI-powered autonomy.
+20. [Sentence #1155]  (TSLA_Q3_2022) (Similarity: 0.604) Our vehicles have now driven nearly 60 miles in **full** self-driving Beta mode, and this number continues to grow exponentially.
+
+Total similarity-top evidence sentences: 20
+
+-----

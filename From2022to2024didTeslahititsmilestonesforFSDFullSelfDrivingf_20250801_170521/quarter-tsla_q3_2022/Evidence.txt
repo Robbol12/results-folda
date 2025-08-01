@@ -1,0 +1,31 @@
+[TSLA_Q3_2022] From 2022 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #28]  Regarding Autopilot, at the end of September, we hosted our second AI Day and drove the first prototype of our Optimus robot, released **updates** on our training computer and high range improvements of **full** self-driving software.
+2. [Sentence #29]  Our vehicles have now driven nearly 60 miles in **full** self-driving Beta mode, and this number continues to grow exponentially.
+3. [Sentence #33]  So, this quarter, we expect to go to a wide release of **full** self-driving Beta in North America.
+4. [Sentence #34]  So, anyone who has ordered a **full** self-driving Beta -- **full** self-driving, will have access to the **FSD** Beta program this year, probably about a month from now.
+5. [Sentence #136]  The next question is, “Can you tell us more about the product future road map beyond new models and **FSD**, and especially for interior and powertrain of existing vehicle models?
+6. [Sentence #317]  Any update on **full** self-driving?
+7. [Sentence #538]  Elon Musk
+
+We’ll achieve **full** self-driving **full** autonomy -- I look at that occurring is 100%.
+8. [Sentence #541]  But anyone who’s driving **full** self-driving cars -- has **full** self-driving Beta in the car, you can see the rate of improvement.
+
+Total transcript-order evidence sentences: 8
+
+--- Evidence by Similarity ---
+1. [Sentence #34]  (Similarity: 0.778) So, anyone who has ordered a **full** self-driving Beta -- **full** self-driving, will have access to the **FSD** Beta program this year, probably about a month from now.
+2. [Sentence #28]  (Similarity: 0.702) Regarding Autopilot, at the end of September, we hosted our second AI Day and drove the first prototype of our Optimus robot, released **updates** on our training computer and high range improvements of **full** self-driving software.
+3. [Sentence #317]  (Similarity: 0.685) Any update on **full** self-driving?
+4. [Sentence #136]  (Similarity: 0.680) The next question is, “Can you tell us more about the product future road map beyond new models and **FSD**, and especially for interior and powertrain of existing vehicle models?
+5. [Sentence #33]  (Similarity: 0.661) So, this quarter, we expect to go to a wide release of **full** self-driving Beta in North America.
+6. [Sentence #541]  (Similarity: 0.630) But anyone who’s driving **full** self-driving cars -- has **full** self-driving Beta in the car, you can see the rate of improvement.
+7. [Sentence #538]  (Similarity: 0.611) Elon Musk
+
+We’ll achieve **full** self-driving **full** autonomy -- I look at that occurring is 100%.
+8. [Sentence #29]  (Similarity: 0.604) Our vehicles have now driven nearly 60 miles in **full** self-driving Beta mode, and this number continues to grow exponentially.
+
+Total similarity-top evidence sentences: 8
+
+-----
