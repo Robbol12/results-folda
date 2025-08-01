@@ -1,0 +1,79 @@
+[TSLA_Q3_2024] From 2023 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+1. [Sentence #54] [PILOT]
+     And the release of actually Smart -- we try to have a sense of humor here.
+     And we're also -- so that's 12.5.
+     Version 13 of FSD is going out soon.
+     will elaborate more on that later in the call.
+     We expect to see roughly a five- or sixfold improvement in miles between interventions compared to 12.5.
+     And actually, looking at the year as whole, the improvement in miles interventions, we think will be at least three orders of magnitude.
+     So, that's a very dramatic improvement in the course of the year, and we expect that trend to continue next year.
+>>> So, the current total expectation, internal expectation for the Tesla FSD having longer miles between versions than human is the second quarter of next year, which means it may end up being in the third quarter, but it's next -- it seems extremely likely to be next year.
+     Ashok, do you want to say anything?
+     Ashok Elluswamy -- Director, Autopilot Software
+
+Yeah.
+     Miles between critical interventions, like you mentioned, Elon, we already made 100x improvement with 12.5 from starting of this year and then with v13 release.
+     We expect to be 1,000x from the beginning, from January of this year on production software.
+     And this came in because of technology improvements going to end to end, having higher frame rate, partly also helped by Hardware force, more capabilities, so on.
+     And we hope that we continue to scale the neural network, the data, the training compute, etc.
+     By Q2 next year, we should cross over the average, even in miles per critical intervention collision, in that case.
+-----
+2. [Sentence #316] [PILOT]
+     The car -- this is like, again, a fundamental technology advantage and structural advantage compared to the rest of the auto industry.
+     Vaibhav Taneja -- Chief Financial Officer
+
+I think it's underappreciated as to what all we are able to do.
+     And that's why -- because like I said before, most of our cars, except for Cybertruck, look the same, so people don't realize that it has so much capability.
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+But they look better than other cars, but they're not like obviously super futuristic.
+     Travis Axelrod -- Head of Investor Relations
+
+Great.
+     Thank you very much.
+     The next question is, please provide an update on the Semi.
+>>> What will the next stage growth look like and when will FSD be ready?
+     Unknown speaker -- -- Analyst
+
+Sure.
+     So, as you -- we posted in the earnings we're progressing swiftly on the build of the Semi factory, our data factory in Reno.
+     We've released all our major cash flow expenditures for that program, and we're on track to start pilot builds in the second half of next year with production starting in the first half of 2026 and ramping really throughout the year to full production.
+     Semi growth will largely depend on our customers' adoption of the product.
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+Well, I don't think we're going to be limited, honestly.
+     Unknown speaker -- -- Analyst
+
+Which I can say -- which is like a no-brainer for the Semi because it's really a commodity of total cost of ownership.
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+Yes, exactly.
+-----
+3. [Sentence #363] [UNCERTAIN]
+     Travis Axelrod -- Head of Investor Relations
+
+Great.
+     guys.
+     Thank you very much.
+     Our next question is when will Tesla incorporate X and Grok in all Tesla vehicles?
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+I mean, these are relatively small things.
+     But yes, I think we'll keep expanding what is available in the car on the screen.
+     And also improving like the browser so like just generally, you can access anything you want in the car.
+>>> In fact, for the Tesla, once you get to full autonomy, you actually want fully a system that is -- can do anything.
+     Like if you want to browse the Internet, if you want to ask AI questions, if you want to watch a movie, if you want to play a video game, if you wanted to do some productivity thing, you can do anything you want in an autonomous vehicle because you don't need to drive.
+     So, that's why Cybercab's got a nice big screen and a great sound system.
+     So, you can watch it, watch you're moving with.
+     It's like being in a personal movie theater.
+     Unknown speaker -- -- Analyst
+
+Yes, this is why we've been building this functionality.
+     I think gaming to the car, adding and other -- all sorts of different media applications of the car because that's what you're going to -- that's, yes, the cars that will be built today.
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+There's some fun games, by the way.
+-----
+
+Total context windows: 3
