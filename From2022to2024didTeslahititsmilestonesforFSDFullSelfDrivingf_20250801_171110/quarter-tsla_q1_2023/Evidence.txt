@@ -1,0 +1,23 @@
+[TSLA_Q1_2023] From 2022 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #40]  Regarding Autopilot and **Full** Self-Driving, we've now crossed over 150 million miles driven by **Full** Self-Driving beta, and this number is growing exponentially.
+2. [Sentence #224]  And also, given that you've reduced the prices for your vehicles, do you think you need to do that for **FSD** as well?
+3. [Sentence #226]  Elon Musk
+
+Well, I can kind of answer the details on the **FSD** take rate, but the -- it's a tricky pricing question, because the value of a car that is autonomous is enormous.
+4. [Sentence #232]  But the trend is very clearly towards **full** self-driving, towards **full** autonomy.
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #226]  (Similarity: 0.681) Elon Musk
+
+Well, I can kind of answer the details on the **FSD** take rate, but the -- it's a tricky pricing question, because the value of a car that is autonomous is enormous.
+2. [Sentence #40]  (Similarity: 0.667) Regarding Autopilot and **Full** Self-Driving, we've now crossed over 150 million miles driven by **Full** Self-Driving beta, and this number is growing exponentially.
+3. [Sentence #232]  (Similarity: 0.627) But the trend is very clearly towards **full** self-driving, towards **full** autonomy.
+4. [Sentence #224]  (Similarity: 0.602) And also, given that you've reduced the prices for your vehicles, do you think you need to do that for **FSD** as well?
+
+Total similarity-top evidence sentences: 4
+
+-----
