@@ -1,0 +1,17 @@
+[TSLA_Q3_2021] CYBERTRUCK PRODUCTION; CYBERTRUCK COST
+
+--- Evidence in Transcript Order ---
+1. [Sentence #239]  We get a lot of questions on Cybertruck.
+2. [Sentence #240]  We've been busy detailing the Cybertruck to achieve the prototype version we shared with customers awhile back.
+3. [Sentence #503]  And the second question is related to Cybertruck.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #239]  (Similarity: 0.640) We get a lot of questions on Cybertruck.
+2. [Sentence #240]  (Similarity: 0.624) We've been busy detailing the Cybertruck to achieve the prototype version we shared with customers awhile back.
+3. [Sentence #503]  (Similarity: 0.613) And the second question is related to Cybertruck.
+
+Total similarity-top evidence sentences: 3
+
+-----
