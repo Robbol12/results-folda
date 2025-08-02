@@ -1,0 +1,39 @@
+[TSLA_Q3_2022] tell me about tesla cybertruck production from 2021-2022
+
+--- Evidence in Transcript Order ---
+1. [Sentence #83]  Just to continue on Elon’s theme, I just want to thank and congratulate the Tesla team for achieving record vehicle deliveries, [white on yellow]production[/white on yellow] and storage deployments in the third quarter.
+2. [Sentence #132]  We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue [white on yellow]production[/white on yellow] at a 50% or greater compound annual growth rate.
+3. [Sentence #165]  And the next question is, “How is [white on yellow]production[/white on yellow] planning going for the [white on yellow]Cybertruck[/white on yellow]?
+4. [Sentence #167]  When can we expect an update on pricing and final design?”
+
+Unidentified Company Representative
+
+I mean, as Elon said earlier, we’d be -- facilities preparations here in Giga Texas for [white on yellow]Cybertruck[/white on yellow].
+5. [Sentence #180]  So, we’ll be handing over our first [white on yellow]production[/white on yellow] Tesla Semis to Pepsi on December 1st.
+6. [Sentence #182]  And we will begin ramping up [white on yellow]production[/white on yellow] of the Tesla Semi, which is a max low, heavy -- heavy truck.
+7. [Sentence #200]  So, we expect to see significant -- we’re tentatively aiming for 50,000 units in 2024 for Tesla Semi in North America.
+8. [Sentence #218]  And like I said, we’re -- our goal is to strive towards 1,000 gigawatt hours a year of annualized [white on yellow]production[/white on yellow] in United States alone by Tesla, not including [indiscernible], will be on top of that.
+9. [Sentence #258]  But it will, I think, certainly become -- certainly exceed the [white on yellow]production[/white on yellow] of all our other vehicles combined.
+10. [Sentence #509]  And how do you balance the need for 4680 across Semi, [white on yellow]Cybertruck[/white on yellow] and potentially Model Y in 2023?
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #165]  (Similarity: 0.920) And the next question is, “How is [white on yellow]production[/white on yellow] planning going for the [white on yellow]Cybertruck[/white on yellow]?
+2. [Sentence #132]  (Similarity: 0.746) We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue [white on yellow]production[/white on yellow] at a 50% or greater compound annual growth rate.
+3. [Sentence #182]  (Similarity: 0.740) And we will begin ramping up [white on yellow]production[/white on yellow] of the Tesla Semi, which is a max low, heavy -- heavy truck.
+4. [Sentence #509]  (Similarity: 0.737) And how do you balance the need for 4680 across Semi, [white on yellow]Cybertruck[/white on yellow] and potentially Model Y in 2023?
+5. [Sentence #180]  (Similarity: 0.704) So, we’ll be handing over our first [white on yellow]production[/white on yellow] Tesla Semis to Pepsi on December 1st.
+6. [Sentence #167]  (Similarity: 0.640) When can we expect an update on pricing and final design?”
+
+Unidentified Company Representative
+
+I mean, as Elon said earlier, we’d be -- facilities preparations here in Giga Texas for [white on yellow]Cybertruck[/white on yellow].
+7. [Sentence #218]  (Similarity: 0.629) And like I said, we’re -- our goal is to strive towards 1,000 gigawatt hours a year of annualized [white on yellow]production[/white on yellow] in United States alone by Tesla, not including [indiscernible], will be on top of that.
+8. [Sentence #83]  (Similarity: 0.614) Just to continue on Elon’s theme, I just want to thank and congratulate the Tesla team for achieving record vehicle deliveries, [white on yellow]production[/white on yellow] and storage deployments in the third quarter.
+9. [Sentence #200]  (Similarity: 0.609) So, we expect to see significant -- we’re tentatively aiming for 50,000 units in 2024 for Tesla Semi in North America.
+10. [Sentence #258]  (Similarity: 0.602) But it will, I think, certainly become -- certainly exceed the [white on yellow]production[/white on yellow] of all our other vehicles combined.
+
+Total similarity-top evidence sentences: 10
+
+-----
