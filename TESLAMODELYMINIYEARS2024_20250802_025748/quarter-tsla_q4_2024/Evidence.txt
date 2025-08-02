@@ -1,0 +1,17 @@
+[TSLA_Q4_2024] TESLA MODEL Y MINI YEARS 2024
+
+--- Evidence in Transcript Order ---
+1. [Sentence #14]  **Model** Y was the best-selling vehicle of any kind for 2024.
+2. [Sentence #177]  All our factories will start producing the new **Model** Y next month.
+3. [Sentence #182]  We are still on track to launch a more affordable **model** in the first half of 2025 and will continue to expand our lineup from there.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #14]  (Similarity: 0.766) **Model** Y was the best-selling vehicle of any kind for 2024.
+2. [Sentence #177]  (Similarity: 0.685) All our factories will start producing the new **Model** Y next month.
+3. [Sentence #182]  (Similarity: 0.647) We are still on track to launch a more affordable **model** in the first half of 2025 and will continue to expand our lineup from there.
+
+Total similarity-top evidence sentences: 3
+
+-----

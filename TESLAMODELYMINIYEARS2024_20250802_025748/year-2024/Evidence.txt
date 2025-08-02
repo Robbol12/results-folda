@@ -1,0 +1,25 @@
+[Year 2024] TESLA MODEL Y MINI YEARS 2024
+
+--- Evidence in Transcript Order ---
+1. [Sentence #179]  (TSLA_Q1_2024) So we have good insight into where the **model** is, how well the car will perform, in, say, three or four months.
+2. [Sentence #1213]  (TSLA_Q3_2024) A vast majority of humanity has no idea that Tesla could drive themselves so especially for something like a **Model** 3 or **Model** Y, it looks like a normal car.
+3. [Sentence #1358]  (TSLA_Q3_2024) The first one is, is Tesla still on track to deliver the more affordable **model** next year, as mentioned by Elon earlier?
+4. [Sentence #1371]  (TSLA_Q3_2024) When can we expect Tesla to give us the $25,000 non-robotaxi regular car **model**?
+5. [Sentence #1751]  (TSLA_Q4_2024) **Model** Y was the best-selling vehicle of any kind for 2024.
+6. [Sentence #1914]  (TSLA_Q4_2024) All our factories will start producing the new **Model** Y next month.
+7. [Sentence #1919]  (TSLA_Q4_2024) We are still on track to launch a more affordable **model** in the first half of 2025 and will continue to expand our lineup from there.
+
+Total transcript-order evidence sentences: 7
+
+--- Evidence by Similarity ---
+1. [Sentence #1371]  (TSLA_Q3_2024) (Similarity: 0.785) When can we expect Tesla to give us the $25,000 non-robotaxi regular car **model**?
+2. [Sentence #1751]  (TSLA_Q4_2024) (Similarity: 0.766) **Model** Y was the best-selling vehicle of any kind for 2024.
+3. [Sentence #1914]  (TSLA_Q4_2024) (Similarity: 0.685) All our factories will start producing the new **Model** Y next month.
+4. [Sentence #1919]  (TSLA_Q4_2024) (Similarity: 0.647) We are still on track to launch a more affordable **model** in the first half of 2025 and will continue to expand our lineup from there.
+5. [Sentence #179]  (TSLA_Q1_2024) (Similarity: 0.632) So we have good insight into where the **model** is, how well the car will perform, in, say, three or four months.
+6. [Sentence #1358]  (TSLA_Q3_2024) (Similarity: 0.628) The first one is, is Tesla still on track to deliver the more affordable **model** next year, as mentioned by Elon earlier?
+7. [Sentence #1213]  (TSLA_Q3_2024) (Similarity: 0.627) A vast majority of humanity has no idea that Tesla could drive themselves so especially for something like a **Model** 3 or **Model** Y, it looks like a normal car.
+
+Total similarity-top evidence sentences: 7
+
+-----
