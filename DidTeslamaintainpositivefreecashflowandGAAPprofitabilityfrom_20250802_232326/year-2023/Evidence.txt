@@ -1,0 +1,53 @@
+[Year 2023] Did Tesla maintain positive free cash flow and GAAP profitability from 2022 through 2024, as it promised after its first full profitable year?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #64]  (TSLA_Q1_2023) As I've mentioned previously, this results in lower deliveries and production within a quarter due to a higher volume of cars in transit at the end of the quarter and has an associated impact on quarter-ending [white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] flows.
+2. [Sentence #68]  (TSLA_Q1_2023) We are also making progress on storage [white on yellow]profitability[/white on yellow], generating our highest gross profit yet in the quarter.
+3. [Sentence #702]  (TSLA_Q2_2023) The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the revenue model?
+4. [Sentence #899]  (TSLA_Q2_2023) So, I strongly believe Tesla is a big long-term investment.
+5. [Sentence #909]  (TSLA_Q2_2023) Elon Musk
+
+Frankly, I think it’s ridiculous that we have positive [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow] in a capital-intensive business, while investing massive amounts of money in new technology.
+6. [Sentence #1161]  (TSLA_Q3_2023) And I mean success in this regard in the long-term I think has the potential to make Tesla the most valuable company in the world by far.
+7. [Sentence #1170]  (TSLA_Q3_2023) I do want to emphasize that there will be enormous challenges in reaching volume production with the Cybertruck, and then in making a Cybertruck [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow] positive.
+8. [Sentence #1172]  (TSLA_Q3_2023) So, I just want to emphasize that while I think this is potentially our best product ever and I think it is our best product ever, it is going to be -- require immense work to reach volume production and be [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow] positive at a price that people can afford.
+9. [Sentence #1177]  (TSLA_Q3_2023) But it’s difficult to going from a prototype to volume production, it’s like 10,000% harder to get to volume production than to make a prototype in the first place, and then it is even harder than that to reach positive [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow].
+10. [Sentence #1180]  (TSLA_Q3_2023) It’s a great product, but financially it will take, I don’t know, a year to 18 months before it is a significant positive [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow] contributor.
+11. [Sentence #1185]  (TSLA_Q3_2023) In conclusion, we continue to focus on ramping production while maintaining positive [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow] and we continue to target -- expect to have around 1.8 million vehicle deliveries, as stated earlier this year.
+12. [Sentence #1193]  (TSLA_Q3_2023) Vehicle deliveries in Q3 outpaced production, and we had yet another record quarter of [white on yellow]profitability[/white on yellow] in our energy business.
+13. [Sentence #1202]  (TSLA_Q3_2023) However, our focus is to continue making investments through positive [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow] from operations.
+14. [Sentence #1203]  (TSLA_Q3_2023) This year itself, we have generated operating [white on yellow]cash[/white on yellow] flows of approximately [$8.9 billion] (ph) and [white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] flows of approximately $2.3 billion.
+15. [Sentence #1273]  (TSLA_Q3_2023) And when does Tesla expect to return to its 50% long-term CAGR?
+16. [Sentence #1666]  (TSLA_Q4_2023) [white on yellow][white on yellow]Free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow] remains strong at $4.4 billion in 2023, in spite of record spending on future projects.
+17. [Sentence #1698]  (TSLA_Q4_2023) In conclusion, we had a great year with record production, record deliveries, and a strong [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow] in spite of a very high interest rate environment.
+18. [Sentence #1712]  (TSLA_Q4_2023) In terms of 2023 financials, we ended the year with over $96 billion of revenue and generated $4.4 billion of [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow] to end the year with over $29 billion of [white on yellow]cash[/white on yellow] and investments on hand.
+19. [Sentence #1713]  (TSLA_Q4_2023) Our 2023 [white on yellow]GAAP[/white on yellow] net income was impacted by the recognition of one-time non-[white on yellow]cash[/white on yellow] benefit of $5.9 billion from the release of valuation allowance on certain deferred tax assets.
+
+Total transcript-order evidence sentences: 19
+
+--- Evidence by Similarity ---
+1. [Sentence #1666]  (TSLA_Q4_2023) (Similarity: 1.200) [white on yellow][white on yellow]Free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow] remains strong at $4.4 billion in 2023, in spite of record spending on future projects.
+2. [Sentence #909]  (TSLA_Q2_2023) (Similarity: 1.155) Elon Musk
+
+Frankly, I think it’s ridiculous that we have positive [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow] in a capital-intensive business, while investing massive amounts of money in new technology.
+3. [Sentence #1712]  (TSLA_Q4_2023) (Similarity: 1.102) In terms of 2023 financials, we ended the year with over $96 billion of revenue and generated $4.4 billion of [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow] to end the year with over $29 billion of [white on yellow]cash[/white on yellow] and investments on hand.
+4. [Sentence #1698]  (TSLA_Q4_2023) (Similarity: 1.007) In conclusion, we had a great year with record production, record deliveries, and a strong [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow] in spite of a very high interest rate environment.
+5. [Sentence #64]  (TSLA_Q1_2023) (Similarity: 0.917) As I've mentioned previously, this results in lower deliveries and production within a quarter due to a higher volume of cars in transit at the end of the quarter and has an associated impact on quarter-ending [white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] flows.
+6. [Sentence #1203]  (TSLA_Q3_2023) (Similarity: 0.842) This year itself, we have generated operating [white on yellow]cash[/white on yellow] flows of approximately [$8.9 billion] (ph) and [white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] flows of approximately $2.3 billion.
+7. [Sentence #1202]  (TSLA_Q3_2023) (Similarity: 0.743) However, our focus is to continue making investments through positive [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow] from operations.
+8. [Sentence #1172]  (TSLA_Q3_2023) (Similarity: 0.701) So, I just want to emphasize that while I think this is potentially our best product ever and I think it is our best product ever, it is going to be -- require immense work to reach volume production and be [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow] positive at a price that people can afford.
+9. [Sentence #1713]  (TSLA_Q4_2023) (Similarity: 0.671) Our 2023 [white on yellow]GAAP[/white on yellow] net income was impacted by the recognition of one-time non-[white on yellow]cash[/white on yellow] benefit of $5.9 billion from the release of valuation allowance on certain deferred tax assets.
+10. [Sentence #702]  (TSLA_Q2_2023) (Similarity: 0.651) The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the revenue model?
+11. [Sentence #1170]  (TSLA_Q3_2023) (Similarity: 0.640) I do want to emphasize that there will be enormous challenges in reaching volume production with the Cybertruck, and then in making a Cybertruck [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow] positive.
+12. [Sentence #1180]  (TSLA_Q3_2023) (Similarity: 0.637) It’s a great product, but financially it will take, I don’t know, a year to 18 months before it is a significant positive [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow] contributor.
+13. [Sentence #1273]  (TSLA_Q3_2023) (Similarity: 0.633) And when does Tesla expect to return to its 50% long-term CAGR?
+14. [Sentence #1177]  (TSLA_Q3_2023) (Similarity: 0.629) But it’s difficult to going from a prototype to volume production, it’s like 10,000% harder to get to volume production than to make a prototype in the first place, and then it is even harder than that to reach positive [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow].
+15. [Sentence #1161]  (TSLA_Q3_2023) (Similarity: 0.625) And I mean success in this regard in the long-term I think has the potential to make Tesla the most valuable company in the world by far.
+16. [Sentence #899]  (TSLA_Q2_2023) (Similarity: 0.624) So, I strongly believe Tesla is a big long-term investment.
+17. [Sentence #68]  (TSLA_Q1_2023) (Similarity: 0.620) We are also making progress on storage [white on yellow]profitability[/white on yellow], generating our highest gross profit yet in the quarter.
+18. [Sentence #1193]  (TSLA_Q3_2023) (Similarity: 0.612) Vehicle deliveries in Q3 outpaced production, and we had yet another record quarter of [white on yellow]profitability[/white on yellow] in our energy business.
+19. [Sentence #1185]  (TSLA_Q3_2023) (Similarity: 0.612) In conclusion, we continue to focus on ramping production while maintaining positive [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow] and we continue to target -- expect to have around 1.8 million vehicle deliveries, as stated earlier this year.
+
+Total similarity-top evidence sentences: 19
+
+-----

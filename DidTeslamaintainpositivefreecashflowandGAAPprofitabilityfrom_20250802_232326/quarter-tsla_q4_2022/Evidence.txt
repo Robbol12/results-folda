@@ -1,0 +1,21 @@
+[TSLA_Q4_2022] Did Tesla maintain positive free cash flow and GAAP profitability from 2022 through 2024, as it promised after its first full profitable year?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #18]  While doing so, we generated $12.5 billion in net income and $7.5 billion in [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow].
+2. [Sentence #19]  Importantly, the Tesla team achieved these records, despite the fact that 2022 was an incredibly challenging year due to forced shutdowns, very high interest rates, and many delivery challenges.
+3. [Sentence #66]  On a full year basis: revenue increased over 50%, operating income doubled, [white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] flows increased over 50%, and our margins remained industry-leading.
+4. [Sentence #106]  The next investor question is, will Tesla be able to take full advantage of advanced manufacturing production credits for battery cells packs?
+5. [Sentence #197]  Zach, when do you think Tesla Insurance will become big enough revenue source to warrant providing more details in the financials of the business so investors can compare it to other insurance companies?
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #18]  (Similarity: 0.999) While doing so, we generated $12.5 billion in net income and $7.5 billion in [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow].
+2. [Sentence #66]  (Similarity: 0.911) On a full year basis: revenue increased over 50%, operating income doubled, [white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] flows increased over 50%, and our margins remained industry-leading.
+3. [Sentence #197]  (Similarity: 0.623) Zach, when do you think Tesla Insurance will become big enough revenue source to warrant providing more details in the financials of the business so investors can compare it to other insurance companies?
+4. [Sentence #19]  (Similarity: 0.608) Importantly, the Tesla team achieved these records, despite the fact that 2022 was an incredibly challenging year due to forced shutdowns, very high interest rates, and many delivery challenges.
+5. [Sentence #106]  (Similarity: 0.604) The next investor question is, will Tesla be able to take full advantage of advanced manufacturing production credits for battery cells packs?
+
+Total similarity-top evidence sentences: 5
+
+-----

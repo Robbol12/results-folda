@@ -1,0 +1,614 @@
+[Multi-Year Analysis] Did Tesla maintain positive free cash flow and GAAP profitability from 2022 through 2024, as it promised after its first full profitable year?
+
+1. [Sentence #5601, TSLA_Q4_2023] [UNCERTAIN]
+     So I'm super proud of the people that work there.
+     Model Y became the best-selling vehicle globally, as predicted.
+     The best-selling vehicle of any kind, not just electric vehicles with over 1.2 million units delivered.
+     The energy storage business delivered nearly 15 gigawatt hours of batteries in 2023, compared to 6.5 gigawatt hours the year before.
+     So tremendous year-over-year growth, triple-digits.
+     And yeah, I think we'll continue to see very strong growth in storage, as predicted.
+     I said for many years that the storage business would grow much faster than the car business, and it is doing that.
+>>> Free cash flow remains strong at $4.4 billion in 2023, in spite of record spending on future projects.
+     So we had record CapEx expenses as well as record R&D.
+     This brings us to 2024.
+     There's a lot to look forward to in 2024.
+     Tesla is currently between two major growth waves.
+     We're focused on making sure that our next growth wave, driven by next-gen vehicle, energy storage, full self-driving, other projects, is executed as well as possible.
+     For full self-driving, we've released Version 12, which is a complete architectural rewrite compared to prior versions.
+     This is end-to-end artificial intelligence.
+-----
+2. [Sentence #2674, TSLA_Q2_2023] [UNCERTAIN]
+     But just generally, like -- I feel -- I’m confident we’ll deliver over long term, but can’t control short term.
+     So -- and the autonomy is really where it’s at.
+     I mean, Zachary?
+     Zachary Kirkhorn
+
+I fully agree with you.
+     I mean, I think the only thing in the short term that matters is what I said in my opening remarks, which is are we generating enough money to continue to invest.
+     And the portfolio of products and technologies that the technical teams are investing in right now, this is intense.
+     It’s intense in terms of investment; it’s intense in terms of potential.
+>>> Elon Musk
+
+Frankly, I think it’s ridiculous that we have positive free cash flow in a capital-intensive business, while investing massive amounts of money in new technology.
+     That is super hard.
+     Unidentified Company Representative
+
+And vertical integration.
+     It’s not even just like new products, but also...
+
+Elon Musk
+
+Yes.
+     We actually make our share...
+
+Zachary Kirkhorn
+
+And so, at least from my perspective, what matters is continuing to generate the cash to invest.
+     That means continuing to be hyper focused on near-term cost reduction.
+     Is everything we do in near-term cost reduction provides capital to reinvest?
+     Hyper-focused on working capital management, which we’ve made quite a bit of progress there on the raw materials and with -- a set of that we’ve been very focused on accounts receivables as well to ensure that we can continue to reinvest the cash.
+-----
+3. [Sentence #1559, TSLA_Q1_2024] [UNCERTAIN]
+     Elon Musk
+
+Yes.
+     Vaibhav Taneja
+
+Mark, is it helpful?
+     Mark Delaney
+
+Yes, very helpful.
+     Thank you.
+     My follow-up was to better understand Tesla's approach to pricing going forward.
+     Previously, the company had said that the price reductions were driving incremental demand with how affordable the cars have become, especially for vehicles that have access to IRA credits and some of the leasing offers that Tesla has in place.
+     Do you still see meaningful incremental price reductions as making sense from here for the existing products?
+>>> And can the company meaningfully lower prices from here and also stay free cash flow positive on an annual basis with the current product set?
+     Thanks.
+     Elon Musk
+
+Yes.
+     I think we can be free cash flow positive meaningfully.
+     Lars Moravy
+
+I think Vaibhav said it in his opening remarks, like our cost down efforts, we basically were offsetting the price cut like we’re trying to give it back to the customers.
+     Elon Musk
+
+Yes.
+     I mean the end of the day, like for any given company, if you sell a great product at a great price – if you have a great product at a great price, the sales will be excellent.
+     That’s true of any area.
+-----
+4. [Sentence #3008, TSLA_Q2_2024] [PLAN]
+     Moving on to the other parts of the business, service and other gross profits also improved sequentially from the improvement in service utilization and growth in our collision repair business.
+     The impact of our recent reorg is reflected in restructuring other - on the income statement.
+     Just to level set, this was about $622 million of charge, which got recorded in the period.
+     And I want people to remember that we've called it out separately on the financials.
+     Sequentially, our operating expenses excluding surcharges reduced despite an increase in spend for AI-related activities and higher legal and other costs.
+     On the CapEx front, while we saw a sequential decline in Q2, we still expect the year to be over $10 billion in CapEx as we increase our spend to bring a 50k GPU cluster online.
+     This new cluster will immensely increase our capabilities to scale FSD and other AI initiatives.
+>>> We reverted to positive free cash flow of $1.3 billion in Q2.
+     This was despite restructuring payments being made in the quarter and we ended the quarter with over $30 billion of cash and investments.
+     Once again, we've begun the journey towards the next phase for the company with the building blocks being placed.
+     It will take some time, but will be a rewarding experience for everyone involved.
+     Once again, I would like to thank the entire Tesla team for their efforts.
+     Question-and-Answer Session
+
+A - Travis Axelrod
+
+Great.
+     Thank you very much, Vaibhav.
+     Now let's go to investor questions.
+-----
+5. [Sentence #1213, TSLA_Q1_2024] [PLAN]
+     On the demand front, we've undertaken a variety of initiatives, including lowering the price of both the purchase and subscription options for FSD launching extremely attractive leasing specials for the Model 3 in the U.S. for $299 a month and offering attractive financing options in certain markets.
+     We believe that our awareness activities, paired with attractive financing, will go a long way in expanding our reach and driving demand for our products.
+     Our Energy business continues to make meaningful progress with margins reaching a record of 24.6%.
+     We expect the energy storage deployments for 2024 to grow at least 75% higher from 2023.
+     And accordingly, this business will begin contributing significantly to our overall profitability.
+     Note that there is a bit of lumpiness in our storage deployments due to a variety of factors that are outside of our control, so deployments may fluctuate quarter-over-quarter.
+     On the operating expense front, we saw a sequential increase from our AI initiatives, continued investment in future projects, marketing, and other activities.
+>>> We had negative free cash flow of $2.5 billion in the first quarter.
+     The primary driver of this was an increase in inventory from a mismatch between builds and deliveries as discussed before, and our elevated spend on CapEx across various initiatives, including AI compute.
+     We expect the inventory build to reverse in the second quarter and free cash flow to return to positive again.
+     As we prepare the company for the next phase of growth, we had to make the hard but necessary decision to reduce our head count by over 10%.
+     The savings generated are expected to be well in excess of $1 billion on an annual run rate basis.
+     We are also getting hyper focused on CapEx efficiency and utilizing our installed capacity in a more efficient manner.
+     The savings from these initiatives, including our cost reductions will help improve our overall profitability and ultimately enable us to increase the scale of our investments in AI.
+     In conclusion, the future is extremely bright and the journey to get there while challenging will be extremely rewarding.
+-----
+6. [Sentence #5647, TSLA_Q4_2023] [UNCERTAIN]
+     And our CFO, Vaibhav has some opening remarks as well.
+     Vaibhav Taneja
+
+Thanks, Martin.
+     Good afternoon, everyone.
+     As Elon mentioned, we had a record year in terms of both production and deliveries for our auto business as well as record deployments in our energy business.
+     This was achieved despite 2023 being a challenging year in terms of higher interest rates and higher inflation.
+     Big thanks to our customer for being with us through this challenging period.
+     I would also like to thank the whole Tesla team for their resolve and dedication throughout.
+>>> In terms of 2023 financials, we ended the year with over $96 billion of revenue and generated $4.4 billion of free cash flow to end the year with over $29 billion of cash and investments on hand.
+     Our 2023 GAAP net income was impacted by the recognition of one-time non-cash benefit of $5.9 billion from the release of valuation allowance on certain deferred tax assets.
+     This was due to our recent history of sustained profitability and is similar to several other companies who have recently gone through a similar change in their account.
+     Accordingly, starting with Q1, our book tax rate will now be more in line with other companies in the S&P 500.
+     In our vehicle business, we continue to see improvements in our per unit cost despite us being in the early phase of Cybertruck ramp.
+     As a result, our auto gross margin improved sequentially.
+     That said, predicting auto gross margins is extremely challenging since there are many moving parts to this equation, some of which are out of our control like the change in tariffs or local incentives to name a few.
+     While the teams are focused on cost reductions, we are approaching the limits within our current platforms.
+-----
+7. [Sentence #6359, TSLA_Q4_2024] [PLAN]
+     Over the years, we've tried to localize our supply chain in every market, but we are still very reliant on parts from across the world for all our businesses.
+     Therefore, the imposition of tariffs, which is very likely, will have an impact on our business and profitability.
+     Our operating expenses grew both year over year and sequentially.
+     The biggest driver of the increase was R&D as we continue to invest in AI-related initiatives.
+     The remaining increase came from growth in our sales capabilities and marketing efforts from referral program.
+     For 2025, we expect operating expenses to increase to support our growth initiatives.
+     It is important to point out that the net income in Q4 was impacted by a $600 million mark-to-market benefit from Bitcoin due to the adoption of a new accounting standard for digital assets, whereby we will change -- we will take mark-to-market adjustments through other income every reporting period going forward.
+>>> Our free cash flow for the quarter was $2 billion, and despite capex increase of over $2.4 billion in 2024, we were able to generate free cash flow of $3.6 billion for the year.
+     Capex efficiency is something we are extremely focused on.
+     While we have invested in AI-related initiatives, we have done so in a very targeted manner to utilize the spend to get immediate benefits.
+     The build-out of Cortex was accelerated because of the role -- actually to accelerate the rollout of FSD Version 13.
+     Accumulated AI-related capex, including infrastructure, so far has been approximately $5 billion.
+     And for 2025, we expect our capex to be flat on a year-over-year basis.
+     In conclusion, like Elon said, 2025 is going to be a pivotal year for Tesla.
+     There are a lot of investments which we have made and will continue to make in this coming year, which will set the pace for the next phase of growth.
+-----
+8. [Sentence #3436, TSLA_Q3_2022] [UNCERTAIN]
+     Please use the raise hand button to join the question queue.
+     But before we jump into Q&A, Elon has some opening remarks.
+     Elon?
+     Elon Musk
+
+Thank you, Martin.
+     So just to do a Q3 recap.
+     Q3 was another record quarter on many levels.
+     We had our industry-leading operating margin reach 17%.
+>>> And our free cash flow surpassed $3 billion in Q3 and approached $9 billion in the past 12 months.
+     As our factories ramp, we’re looking forward to a record-breaking Q4.
+     So it really, knock on wood, looks like we’ll have an epic end of year.
+     So, Q4 is looking extremely good.
+     On the production ramp, Giga Berlin achieved another milestone of 2,000 cars made in a week with very good quality and is ramping rapidly.
+     Giga Austin or Giga Texas should reach this milestone very soon.
+     And in fact, just yesterday, we extrapolated yesterday’s build rate, it would be 2,000.
+     Our production of 4680 cells has tripled in Q3 compared to the previous quarter.
+-----
+9. [Sentence #1215, TSLA_Q1_2024] [PLAN]
+     Our Energy business continues to make meaningful progress with margins reaching a record of 24.6%.
+     We expect the energy storage deployments for 2024 to grow at least 75% higher from 2023.
+     And accordingly, this business will begin contributing significantly to our overall profitability.
+     Note that there is a bit of lumpiness in our storage deployments due to a variety of factors that are outside of our control, so deployments may fluctuate quarter-over-quarter.
+     On the operating expense front, we saw a sequential increase from our AI initiatives, continued investment in future projects, marketing, and other activities.
+     We had negative free cash flow of $2.5 billion in the first quarter.
+     The primary driver of this was an increase in inventory from a mismatch between builds and deliveries as discussed before, and our elevated spend on CapEx across various initiatives, including AI compute.
+>>> We expect the inventory build to reverse in the second quarter and free cash flow to return to positive again.
+     As we prepare the company for the next phase of growth, we had to make the hard but necessary decision to reduce our head count by over 10%.
+     The savings generated are expected to be well in excess of $1 billion on an annual run rate basis.
+     We are also getting hyper focused on CapEx efficiency and utilizing our installed capacity in a more efficient manner.
+     The savings from these initiatives, including our cost reductions will help improve our overall profitability and ultimately enable us to increase the scale of our investments in AI.
+     In conclusion, the future is extremely bright and the journey to get there while challenging will be extremely rewarding.
+     Once again, I would like to thank the whole Tesla team for delivering great results.
+     And we can open it up to Q&A.
+-----
+10. [Sentence #1562, TSLA_Q1_2024] [UNCERTAIN]
+     Thank you.
+     My follow-up was to better understand Tesla's approach to pricing going forward.
+     Previously, the company had said that the price reductions were driving incremental demand with how affordable the cars have become, especially for vehicles that have access to IRA credits and some of the leasing offers that Tesla has in place.
+     Do you still see meaningful incremental price reductions as making sense from here for the existing products?
+     And can the company meaningfully lower prices from here and also stay free cash flow positive on an annual basis with the current product set?
+     Thanks.
+     Elon Musk
+
+Yes.
+>>> I think we can be free cash flow positive meaningfully.
+     Lars Moravy
+
+I think Vaibhav said it in his opening remarks, like our cost down efforts, we basically were offsetting the price cut like we’re trying to give it back to the customers.
+     Elon Musk
+
+Yes.
+     I mean the end of the day, like for any given company, if you sell a great product at a great price – if you have a great product at a great price, the sales will be excellent.
+     That’s true of any area.
+     So over time, we do need to keep making sure that we’re – that it’s a great product at a great price.
+     And moreover, that price is accessible to people.
+     So it’s not – you have to solve both the value for money and the fundamental affordability question.
+-----
+11. [Sentence #5633, TSLA_Q4_2023] [NO EVIDENCE]
+     So there'll no doubt be many questions that try to ask us about new product, new products coming.
+     But we reserve product announcements for product announcements not earning calls.
+     So -- but we're very excited about this, and this is really going to be profound, not just in its design of the vehicle itself, but in the design of the manufacturing system.
+     This is a revolutionary manufacturing system significantly, far more advanced than any other automotive manufacturing system in the world, by a significant margin.
+     Several years ago, I said, perhaps the most important competitive characteristic of Tesla in the future will be manufacturing technology and you will really see that come to bear with our next-gen vehicle.
+     The first manufacturing location for this will be at our Gigafactory and headquarters in Austin, Texas, and then we'll follow that up with other locations around the world.
+     Probably the factory we'll build in Mexico will be second, and then we'll be looking to identify a third location, perhaps by the end of this year or early next outside of North America.
+>>> In conclusion, we had a great year with record production, record deliveries, and a strong free cash flow in spite of a very high interest rate environment.
+     And we are focused on exciting new projects that will -- I think, ultimately if we execute on all these things, and it is very hard to do all these things, it's not a sure thing.
+     But I do see a path where Tesla could one day be the most valuable company in the world.
+     I do emphasize that is not an easy path and a very difficult one, but it is now in the set of possible outcomes and previously I would not have thought it is in the set of possible outcomes.
+     And thank you, again to all of our investors, our employees, and our suppliers for a strong year, and looking forward to a great 2024 and years to come.
+     Thank you.
+     Martin Viecha
+
+Thank you.
+     And our CFO, Vaibhav has some opening remarks as well.
+-----
+12. [Sentence #5070, TSLA_Q4_2022] [NO EVIDENCE]
+     Elon Musk
+
+Thank you, Martin.
+     So 2022 -- just going through the 2022 recap.
+     It was a fantastic year for Tesla.
+     It was our best year ever on every level.
+     Team did an amazing job.
+     It's an honor, of course, to work with such an incredibly talented group of people.
+     So, in 2022, we delivered over 1.3 million cars and achieved a 17% operating margin, the highest among any volume carmaker, I think maybe among any carmaker.
+>>> While doing so, we generated $12.5 billion in net income and $7.5 billion in free cash flow.
+     Importantly, the Tesla team achieved these records, despite the fact that 2022 was an incredibly challenging year due to forced shutdowns, very high interest rates, and many delivery challenges.
+     So, it's worth noting that all these records were in the phase of massive difficulties.
+     [Indiscernible] credit to the team for achieving that.
+     The most common question we've been getting from investors is about demand.
+     Thus far -- so I want to put that concern to rest.
+     Thus far in January, we've seen the strongest orders year-to-date than ever in our history.
+     We currently are seeing orders at almost twice the rate of production.
+-----
+13. [Sentence #31, TSLA_Q1_2022] [PLAN]
+     We also recognized a onetime benefit of $288 million from credit revenue relating to a regulatory change in the U.S. CAFE penalty, without of which credit revenue would have declined compared to the same period last year.
+     The energy business has continued to be impacted by macro conditions, more severely than the vehicle business.
+     Our storage products, our need of chip supply and new import processes have impacted supply of certain components for our solar systems, which is reflected in our solar volume for the quarter.
+     OpEx as a percentage of revenue continues to reduce, driven by higher revenue, lower stock-based comp expense and other items.
+     As a result of our ongoing improvements in operating leverage, we achieved a record operating margin of over 19%.
+     Note that commissioning costs for our factories are in R&D as Berlin started production in late March and Austin in early April.
+     These costs will be in automotive costs going forward, given these factories are now producing customer sellable cars.
+>>> Our free cash flows have remained quite strong, yet were impacted by working capital related to lower-than-planned production.
+     Additionally, we have reduced our debt, excluding product financing, to nearly zero.
+     Looking ahead in the immediate term, a few things to keep in mind for Q2.
+     First, we’ve lost about a month of build volume out of our factory in Shanghai due to COVID-related shutdowns.
+     Production is resuming at limited levels, and we’re working to get back to full production as quickly as possible.
+     This will impact total build and delivery volume in Q2.
+     Second, as I’ve mentioned before, Austin and Berlin are just starting their ramps.
+     And thus, those inefficiencies will start to flow through our gross margins in Q2.
+-----
+14. [Sentence #3513, TSLA_Q3_2022] [PLAN]
+     Operating margin is one of our best yet, with improvements in operating leverage.
+     However, Austin and Berlin ramp costs weighed on our margins, particularly if you compare it to Q1.
+     Removing regulatory credits and Austin and Berlin, our operating margins would have been our strongest yet and auto gross margin would have been nearly 30%.
+     Note that while small and growing, each car we build in Austin and Berlin is contributing positively to profitability.
+     We also continue to experience margin headwinds associated with macroeconomic conditions, as we’ve discussed at length on prior calls.
+     In particular, raw materials, logistics and foreign exchange was a big part of this past quarter.
+     On energy profitability, we achieved our strongest gross profit yet for this business, driven primarily by record volumes of our Megapack and Powerwall products.
+>>> Our free cash flows were also a record despite an increase in cars in transit at the end of the quarter, which has a negative impact on working capital.
+     Specifically on cars in transit, as noted in our press release on October 2nd, we’ve started to experience limits on outbound logistics capacity which we didn’t anticipate.
+     This issue is particularly present for ships from Shanghai to Europe and local trucking within certain parts of the U.S. and Europe.
+     Our historical operating pattern of batch building by delivery region leads to extreme concentrations of outbound logistics needs in the final weeks of each quarter.
+     Just to put this in perspective, roughly two-thirds of our Q3 deliveries occurred in September and one-third in the final two weeks.
+     As a result, we’ve begun to smooth the regional builds throughout the quarter to reduce our peak needs for outbound logistics.
+     We expect this to simplify our operations, reduce costs and improve the experience of our customers.
+     As we look ahead, our plans show that we’re on track for the 50% annual growth in production this year, although we are tracking supply chain risks which are beyond our control.
+-----
+15. [Sentence #384, TSLA_Q1_2022] [UNCERTAIN]
+     It’s going to retard the growth of what is inherently a good thing that we can’t have that as an outcome.
+     Martin Viecha
+
+Thank you.
+     The next question comes from Pierre Ferragu from New Street Research.
+     Pierre Ferragu
+
+Thanks.
+     Can you hear me well?
+     Martin Viecha
+
+Yes.
+     Pierre Ferragu
+
+Great.
+>>> I’d like to ask you some questions about free cash flow.
+     Do you -- so first, maybe in the long run, if you look at your performance and your growth model and your growth ambitions, I did the math very quick.
+     And I see you guys sitting on $400 billion or maybe $500 billion of cash at the end of the decade.
+     And I was wondering if it’s something you have given some thoughts about.
+     Elon Musk
+
+If inflation keeps going crazy, $500 billion might be like $20 billion today.
+     I don’t know.
+     So, we’ll see what $500 billion buys you in a decade, but it might be a lot less.
+     So, I don’t know if we’ll -- that seems like a lot of cash.
+-----
+16. [Sentence #2286, TSLA_Q2_2022] [NO EVIDENCE]
+     So, it’s – manage price, frankly.
+     But we have so much excess demand.
+     That is really just not an issue for us.
+     It might be an issue for some other companies but it is not an issue for us.
+     Toni Sacconaghi
+
+Okay.
+     Thank you.
+     Elon, I am just wondering, a question for you.
+>>> Tesla has obviously changed dramatically in the last 3 years from near life or death to a company with consistent cash flow and industry-leading margins.
+     I am wondering if you can comment on your personal role in the company and whether you see that changing in terms of your role, your commitment and time spent at the company over the next 3 years or 4 years.
+     I think you said a few calls ago, you wouldn’t be on calls unless there is something unusual and you have been on every call since then.
+     I am wondering how...
+
+Elon Musk
+
+I do a lot of unusual things, let’s face it.
+     Basically, if there is only good news, I won’t be on the call.
+     But if you have like a tough situation like COVID shutdowns in China, then I think I will be on the call – relatively speaking, if there is bad news.
+     And we have this good news, then I won’t be on the call.
+     But I am committed to the long – I mean I will work at Tesla as long as I can usefully advance the cause of sustainability and autonomy.
+-----
+17. [Sentence #621, TSLA_Q1_2023] [PILOT]
+     First, automotive gross margin and operating margin reduced sequentially.
+     But as Elon mentioned, these remain at healthy levels.
+     In particular, automotive gross margin was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve vehicle pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as increased deferred revenue for certain Autopilot features as we transition technologies.
+     Progress on vehicle cost reduction continued in Q1 with meaningful improvements on logistics and the beginnings of some commodity cost reductions starting to be realized.
+     Per unit cost for Austin and Berlin improved as well, driven by record volumes.
+     However, these factories still provide a margin headwind and will likely continue to do so until after we reach and stabilize at our intended volumes.
+     Note that Q1 was our third quarter in our multi-quarter plan to move to a more regionally balanced mix of build and deliveries.
+>>> As I've mentioned previously, this results in lower deliveries and production within a quarter due to a higher volume of cars in transit at the end of the quarter and has an associated impact on quarter-ending free cash flows.
+     This was particularly prevalent in Q1 for S and X as we begin exporting cars for international deliveries.
+     Second, our storage business is starting to take shape, and this is exciting to see after many years of investment and focus.
+     This business is growing as a percentage of the businesses of the company's revenue and reached its highest level yet in Q1, driven by an increasing rate of deliveries for our Megapack products.
+     We are also making progress on storage profitability, generating our highest gross profit yet in the quarter.
+     Third, I want to reiterate the philosophy by which we're operating the business this year.
+     Our approach is to grow volumes as quickly as possible in both our vehicle and energy businesses.
+     We plan to continue to invest heavily into our future plans, which include the Cybertruck next-generation platform, in-house cell production, energy storage business and our autonomy and AI-enabled products.
+-----
+18. [Sentence #5118, TSLA_Q4_2022] [UNCERTAIN]
+     Congratulations, guys.
+     Martin Viecha
+
+Thanks, Elon.
+     And I think Zach has some opening remarks as well.
+     Zachary Kirkhorn
+
+Yes.
+     Thanks, Martin.
+     So as Elon mentioned, 2022 was a terrific year for Tesla.
+     I also want to congratulate the Tesla team and also say thank you to our suppliers for your support during quite a volatile year.
+>>> On a full year basis: revenue increased over 50%, operating income doubled, free cash flows increased over 50%, and our margins remained industry-leading.
+     Additionally, we continued to make progress on overhead efficiencies as non-GAAP OpEx as a percentage of revenue improved further.
+     For Q4 specifically, sequential and annual margin was impacted by ASP reductions, as we are managing through COVID impacts in China, uncertainty around the consumer tax credit in the U.S., and a rising interest rate environment.
+     Note that in 2022, rising interest rates alone had effectively increased the price of our cars in the U.S. by nearly 10%.
+     Additionally, COGS per unit has increased on a year-over-year basis, driven primarily by three factors.
+     First is raw materials and inflation led by lithium prices and discussed at length in previous calls.
+     Second, we are working through the early ramp of inefficiencies of our Austin and Berlin and in-house cell production factories.
+     Third, our vehicle mix over the last year has moved more heavily towards Model Y, which carries a slight cost premium to Model 3.
+-----
+19. [Sentence #1877, TSLA_Q2_2022] [PLAN]
+     We are certainly open to increasing our Bitcoin holdings in future.
+     So this should not be taken as some verdict on Bitcoin.
+     It’s just that we were concerned about overall liquidity for the company given COVID shutdowns in China.
+     And we have not sold any of our Dogecoin.
+     Zachary Kirkhorn
+
+We still have it.
+     Elon Musk
+
+We still have our Dogecoin.
+     Zachary Kirkhorn
+
+Despite these challenges, we were still able to achieve one of our strongest operating margins at 14.6%.
+>>> Our free cash flows were impacted by working capital related to the Shanghai factory shutdown.
+     However, we expect this will show as a benefit in Q3 as our working capital-related cash flows restabilize.
+     As we look ahead and as Elon mentioned, we are positioned for a record-breaking second half of the year.
+     We are quite excited about this.
+     A couple of things to keep in mind as we progress, Austin and Berlin ramp inefficiencies will continue to weigh on our margins for the balance of the year.
+     However, the impact should reduce as we increase ramp.
+     Second, as we’ve mentioned before, we expect to continue to see recognized global pricing to increase as our backlog flows through.
+     However, macroeconomic-related cost increases will also continue to be part of our story.
+-----
+20. [Sentence #4032, TSLA_Q3_2023] [PILOT]
+     This was necessary to allow for further factory improvements and production rate increases.
+     Despite such factory shutdowns, our cost per vehicle decreased to approximately $37,500.
+     We saw sequential decreases in material cost and freight.
+     Reducing the cost of our vehicles is our top priority.
+     On the operating expenses front, R&D expenses continued to rise due to Cybertruck prototype builds and pilot production testing combined with spend on AI technologies like full self-driving, Optimus and Dojo.
+     We have and will continue to make investments in these areas, and hence our capital expenditure and R&D will continue to grow in the near term.
+     However, our focus is to continue making investments through positive cash flow from operations.
+>>> This year itself, we have generated operating cash flows of approximately [$8.9 billion] (ph) and free cash flows of approximately $2.3 billion.
+     Our other businesses are becoming more prominent on a standalone basis with energy business leading the charge, primarily from the growth in Megapack deployments.
+     Our services and other businesses on a year-on-year basis also continue to show positive momentum as we benefit from our growing fleet.
+     As regards our pricing strategy, in addition to what we have shared before, I want to elaborate that most car buying happens with one or other form of financing, and hence we also view pricing in terms of monthly costs for the customer.
+     And therefore, as interest costs in the U.S. have risen substantially, it has required us to adjust the price of our vehicles to keep the monthly cost in parity.
+     We’ve tried to offset such adjustments via focus on reducing costs.
+     However, there is an inherent lag in cost reductions, which in turn impacts margins.
+     To that extent, we recently announced a partner vehicle leasing program in the U.S. whereby you can get a standard Model Y for as low as $399 a month.
+-----
+21. [Sentence #4031, TSLA_Q3_2023] [PILOT]
+     As Elon mentioned, our Q3 operational and financial performance was impacted by planned downtimes for our factory upgrades.
+     This was necessary to allow for further factory improvements and production rate increases.
+     Despite such factory shutdowns, our cost per vehicle decreased to approximately $37,500.
+     We saw sequential decreases in material cost and freight.
+     Reducing the cost of our vehicles is our top priority.
+     On the operating expenses front, R&D expenses continued to rise due to Cybertruck prototype builds and pilot production testing combined with spend on AI technologies like full self-driving, Optimus and Dojo.
+     We have and will continue to make investments in these areas, and hence our capital expenditure and R&D will continue to grow in the near term.
+>>> However, our focus is to continue making investments through positive cash flow from operations.
+     This year itself, we have generated operating cash flows of approximately [$8.9 billion] (ph) and free cash flows of approximately $2.3 billion.
+     Our other businesses are becoming more prominent on a standalone basis with energy business leading the charge, primarily from the growth in Megapack deployments.
+     Our services and other businesses on a year-on-year basis also continue to show positive momentum as we benefit from our growing fleet.
+     As regards our pricing strategy, in addition to what we have shared before, I want to elaborate that most car buying happens with one or other form of financing, and hence we also view pricing in terms of monthly costs for the customer.
+     And therefore, as interest costs in the U.S. have risen substantially, it has required us to adjust the price of our vehicles to keep the monthly cost in parity.
+     We’ve tried to offset such adjustments via focus on reducing costs.
+     However, there is an inherent lag in cost reductions, which in turn impacts margins.
+-----
+22. [Sentence #4001, TSLA_Q3_2023] [SCALE ACHIEVED]
+     Energy and service now contribute over $0.5 billion to quarterly profit.
+     The Cybertruck, I know a lot of people are excited about the Cybertruck.
+     I am too.
+     I’ve driven the car.
+     It’s an amazing product.
+     I do want to emphasize that there will be enormous challenges in reaching volume production with the Cybertruck, and then in making a Cybertruck cash flow positive.
+     This is simply normal for when you’ve got a product with a lot of new technology or any new vehicle, brand new vehicle program, but especially one that is as different and advanced as the Cybertruck, you will have problems proportionate to how many new things you’re trying to solve at scale.
+>>> So, I just want to emphasize that while I think this is potentially our best product ever and I think it is our best product ever, it is going to be -- require immense work to reach volume production and be cash flow positive at a price that people can afford.
+     Often people do not understand what is truly hard.
+     That’s why I say prototypes are easy, production is hard.
+     People think it’s the idea, or you make a prototype, you design a car.
+     And as soon as they’re designing a car, it’s just anyone can do it, it does require taste, it does require effort to design a prototype.
+     But it’s difficult to going from a prototype to volume production, it’s like 10,000% harder to get to volume production than to make a prototype in the first place, and then it is even harder than that to reach positive cash flow.
+     That is why there have not been new car startups that have been successful for a 100 years apart from Tesla.
+     So, I just want to temper expectations for Cybertruck.
+-----
+23. [Sentence #1157, TSLA_Q1_2024] [PLAN]
+     Please use the raise hand button to join the question queue.
+     But before we jump into Q&A, Elon has some opening remarks.
+     Elon?
+     Elon Musk
+
+Thanks, Martin.
+     So to recap, in Q1 we navigated several unforeseen challenges as well as the ramp of the updated Model 3 in Fremont.
+     There was, as we all have seen, the EV adoption rate globally is under pressure and a lot of other auto manufacturers are pulling back on EVs and pursuing plug-in hybrids instead.
+     We believe this is not the right strategy and electric vehicles will ultimately dominate the market.
+>>> Despite these challenges, the Tesla team did a great job executing in a tough environment and energy storage deployments, the Megapack in particular, reached an all-time high in Q1, leading to record profitability for the energy business, and that looks likely to continue to increase in the quarters and years ahead.
+     It will increase.
+     We actually know that it will, so significantly faster than the car business as we expected.
+     We also continue to expand our AI training capacity in Q1, more than doubling our training compute sequentially.
+     In terms of the new product roadmap, there has been a lot of talk about our upcoming vehicle line in the next – in the past several weeks.
+     We've updated our future vehicle lineup to accelerate the launch of new models ahead, previously mentioned startup production in the second half of 2025, so we expect it to be more like the early 2025, if not late this year.
+     These new vehicles, including more affordable models, will use aspects of the next generation platform as well as aspects of our current platforms, and will be able to produce on the same manufacturing lines as our current vehicle lineup.
+     So it's not contingent on any new factory or massive new production line.
+-----
+24. [Sentence #1468, TSLA_Q1_2024] [UNCERTAIN]
+     I'll be more reticent with respect to Optimus, if we have a super-sentient humanoid robot that can follow you indoors and that you can escape, we're talking terminator-level risk.
+     And yes, I'd be uncomfortable with.
+     If there's not some meaningful level of influence over how that is deployed.
+     And if there's shareholders have an opportunity to ratify or reratify the sort of competition because I can't say that.
+     That is a fact.
+     They have an opportunity.
+     And yes, we'll see.
+>>> If the company generates a lot of positive cash flow, we could obviously buy back shares.
+     Alex Potter
+
+All right.
+     That's actually all very helpful context.
+     Thank you.
+     Maybe one final question and I'll pass it on.
+     OpEx reductions, thank you for quantifying the impact there.
+     I'd be interested also in potentially more qualitative discussion of what the implications are for these headcount reductions.
+     What are the types of activities that you're presumably sacrificing as a result of parting ways with these folks?
+-----
+25. [Sentence #5648, TSLA_Q4_2023] [UNCERTAIN]
+     Vaibhav Taneja
+
+Thanks, Martin.
+     Good afternoon, everyone.
+     As Elon mentioned, we had a record year in terms of both production and deliveries for our auto business as well as record deployments in our energy business.
+     This was achieved despite 2023 being a challenging year in terms of higher interest rates and higher inflation.
+     Big thanks to our customer for being with us through this challenging period.
+     I would also like to thank the whole Tesla team for their resolve and dedication throughout.
+     In terms of 2023 financials, we ended the year with over $96 billion of revenue and generated $4.4 billion of free cash flow to end the year with over $29 billion of cash and investments on hand.
+>>> Our 2023 GAAP net income was impacted by the recognition of one-time non-cash benefit of $5.9 billion from the release of valuation allowance on certain deferred tax assets.
+     This was due to our recent history of sustained profitability and is similar to several other companies who have recently gone through a similar change in their account.
+     Accordingly, starting with Q1, our book tax rate will now be more in line with other companies in the S&P 500.
+     In our vehicle business, we continue to see improvements in our per unit cost despite us being in the early phase of Cybertruck ramp.
+     As a result, our auto gross margin improved sequentially.
+     That said, predicting auto gross margins is extremely challenging since there are many moving parts to this equation, some of which are out of our control like the change in tariffs or local incentives to name a few.
+     While the teams are focused on cost reductions, we are approaching the limits within our current platforms.
+     On the demand front, as promised, we made investments in digital campaigns in 2023.
+-----
+26. [Sentence #3505, TSLA_Q3_2022] [UNCERTAIN]
+     Thank you.
+     Thank you, everyone.
+     Martin Viecha
+
+Thank you very much.
+     And Zach has some opening remarks as well.
+     Zachary Kirkhorn
+
+Yes.
+     Thanks, Martin.
+     Just to continue on Elon’s theme, I just want to thank and congratulate the Tesla team for achieving record vehicle deliveries, production and storage deployments in the third quarter.
+>>> On automotive profitability, our GAAP operating margin was 17.2% with automotive gross margin at 27.9%.
+     Operating margin is one of our best yet, with improvements in operating leverage.
+     However, Austin and Berlin ramp costs weighed on our margins, particularly if you compare it to Q1.
+     Removing regulatory credits and Austin and Berlin, our operating margins would have been our strongest yet and auto gross margin would have been nearly 30%.
+     Note that while small and growing, each car we build in Austin and Berlin is contributing positively to profitability.
+     We also continue to experience margin headwinds associated with macroeconomic conditions, as we’ve discussed at length on prior calls.
+     In particular, raw materials, logistics and foreign exchange was a big part of this past quarter.
+     On energy profitability, we achieved our strongest gross profit yet for this business, driven primarily by record volumes of our Megapack and Powerwall products.
+-----
+27. [Sentence #2467, TSLA_Q2_2023] [PLAN]
+     Here in Texas, we’re preparing to launch our Cybertruck cell, which is 10% higher energy density than current production.
+     That was accomplished through process and mechanical design optimization.
+     As we scale Cyber cell production through the end of the year and early next, we should be in a comfortable place on cost per cell.
+     Against our battery energy density targets, the Cyber cell is at our expectations on a like-for-like electrochemistry basis.
+     We’re yet to integrate silicon or in-house cathode production, both reviewed on Battery Day, which do bring significant further energy density and cost improvements, but that is a topic for another day.
+     Lastly, it is important to remember that most of what we focused on a Battery Day was the Tesla-engineered 4680 production system and the improvements we strove to achieve on equipment, factory density, capital cost and utility cost reduction, all of which we are realizing in our Texas scale up to date.
+     Martin Viecha
+
+Thank you very much.
+>>> The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the revenue model?
+     Given Tesla’s AI capabilities, how do you see the long-term mix between hardware margin and recurring software margin from Autobidder as this segment accelerates?
+     Unidentified Company Representative
+
+We can’t comment on future product road map, but I can provide a quick energy Q2 update.
+     Megapack continues to show strong demand globally with Lathrop ramping successfully to meet our contracted projects in 2023.
+     As stated last quarter, Megapack margins are in a reasonable place, in line with our target – vehicle target margins.
+     The second final assembly line at Lathrop is progressing on schedule, eventually doubling Lathrop capacity ahead of our full factory ramp in 2024.
+     We have several exciting large projects in construction or nearing completion, including the KES project in Hawaii, the Riverina project in Australia, several products in California and one here at Gigafactory, Texas that we’ll tour today, actually.
+     We want to thank our customers, utilities and grid operators for trusting us with these projects.
+-----
+28. [Sentence #3807, TSLA_Q3_2022] [UNCERTAIN]
+     Elon Musk
+
+Get optimistic.
+     Don’t change things.
+     What matters is where are the most brilliant people working?
+     And Tesla remains the -- Tesla and SpaceX are two companies where the smartest engineers want to work.
+     Zachary Kirkhorn
+
+I mean, like we don’t have to spend billions of dollars to invest in the future and invent the future.
+     Engineers are also cost conscious.
+     And we don’t just burn the money out the window when we’re trying to do R&D.
+>>> I wouldn’t stop looking at like R&D as a cash investment for...
+
+Elon Musk
+
+I think 1 nickel Tesla is frankly worth an infinite number of dollars.
+     You could have like a -- almost same the number of credit shares and they would not be able to do work 1 nickel of Tesla we can do.
+     You can’t make it up in volume.
+     Martin Viecha
+
+Okay.
+     Thank you very much.
+     Let’s go to the next question from George at Canaccord.
+     George Gianarikas
+
+I think, at your Annual Shareholders’ event, where Elon mentioned that the prices of many of the materials used in your production have started to come off the boil.
+     If that continues, does that give you an opportunity to adjust prices globally after several increases?
+-----
+29. [Sentence #48, TSLA_Q1_2022] [UNCERTAIN]
+     I want to conclude by thanking the Tesla team, our suppliers and our new customers for a great first quarter.
+     Martin Viecha
+
+Thank you very much.
+     And Elon has some opening remarks as well.
+     Elon Musk
+
+Sure.
+     Some of my remarks will be redundant with Zach’s, but it’s maybe worth repeating.
+     Q1 was once again a record quarter on many levels, by reaching the highest deliveries, profit and an operating margin of 19%.
+     This was despite a lot of chip shortages, many logistics challenges and an overall difficult quarter.
+>>> So, I’d really like to congratulate the Tesla team on achieving record profitability and output despite many, many difficult headwinds, and especially the Tesla China team in our Shanghai factory.
+     They really had significant challenges due to the COVID shutdown and nonetheless have been able to output a tremendous number of high-quality vehicles.
+     And we are already back up and running with the Shanghai factory.
+     So, as Zach said, we remain confident of a 50% growth in vehicle production in 2022 versus ‘21.
+     I think, we actually have a reasonable shot at a 60% increase over last year.
+     So, let’s see.
+     Obviously, we ramped production, as you will know, with Giga Berlin and Giga Texas in the past few months.
+     So, with two fantastic factories with great teams, and they are ramping rapidly.
+-----
+30. [Sentence #3999, TSLA_Q3_2023] [SCALE ACHIEVED]
+     Regarding energy storage, we deployed 4 gigawatt hours of energy of storage products in Q3.
+     And as this business grows, the energy division is becoming our highest margin business.
+     Energy and service now contribute over $0.5 billion to quarterly profit.
+     The Cybertruck, I know a lot of people are excited about the Cybertruck.
+     I am too.
+     I’ve driven the car.
+     It’s an amazing product.
+>>> I do want to emphasize that there will be enormous challenges in reaching volume production with the Cybertruck, and then in making a Cybertruck cash flow positive.
+     This is simply normal for when you’ve got a product with a lot of new technology or any new vehicle, brand new vehicle program, but especially one that is as different and advanced as the Cybertruck, you will have problems proportionate to how many new things you’re trying to solve at scale.
+     So, I just want to emphasize that while I think this is potentially our best product ever and I think it is our best product ever, it is going to be -- require immense work to reach volume production and be cash flow positive at a price that people can afford.
+     Often people do not understand what is truly hard.
+     That’s why I say prototypes are easy, production is hard.
+     People think it’s the idea, or you make a prototype, you design a car.
+     And as soon as they’re designing a car, it’s just anyone can do it, it does require taste, it does require effort to design a prototype.
+     But it’s difficult to going from a prototype to volume production, it’s like 10,000% harder to get to volume production than to make a prototype in the first place, and then it is even harder than that to reach positive cash flow.
+-----
+
+Total context windows: 30

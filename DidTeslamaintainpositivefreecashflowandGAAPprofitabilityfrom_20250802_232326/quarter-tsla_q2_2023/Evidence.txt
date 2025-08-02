@@ -1,0 +1,21 @@
+[TSLA_Q2_2023] Did Tesla maintain positive free cash flow and GAAP profitability from 2022 through 2024, as it promised after its first full profitable year?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #117]  The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the revenue model?
+2. [Sentence #314]  So, I strongly believe Tesla is a big long-term investment.
+3. [Sentence #324]  Elon Musk
+
+Frankly, I think it’s ridiculous that we have positive [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow] in a capital-intensive business, while investing massive amounts of money in new technology.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #324]  (Similarity: 1.155) Elon Musk
+
+Frankly, I think it’s ridiculous that we have positive [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow] in a capital-intensive business, while investing massive amounts of money in new technology.
+2. [Sentence #117]  (Similarity: 0.651) The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the revenue model?
+3. [Sentence #314]  (Similarity: 0.624) So, I strongly believe Tesla is a big long-term investment.
+
+Total similarity-top evidence sentences: 3
+
+-----

@@ -1,0 +1,51 @@
+[Year 2022] Did Tesla maintain positive free cash flow and GAAP profitability from 2022 through 2024, as it promised after its first full profitable year?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #31]  (TSLA_Q1_2022) Our [white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] flows have remained quite strong, yet were impacted by working capital related to lower-than-planned production.
+2. [Sentence #48]  (TSLA_Q1_2022) So, I’d really like to congratulate the Tesla team on achieving record [white on yellow]profitability[/white on yellow] and output despite many, many difficult headwinds, and especially the Tesla China team in our Shanghai factory.
+3. [Sentence #87]  (TSLA_Q1_2022) We love his optimism for 2022 release, but is there any data Tesla can share with investors to help them make their own conclusions on progress being made?
+4. [Sentence #384]  (TSLA_Q1_2022) I’d like to ask you some questions about [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow].
+5. [Sentence #653]  (TSLA_Q2_2022) Our [white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] flows were impacted by working capital related to the Shanghai factory shutdown.
+6. [Sentence #1062]  (TSLA_Q2_2022) Tesla has obviously changed dramatically in the last 3 years from near life or death to a company with consistent [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow] and industry-leading margins.
+7. [Sentence #1141]  (TSLA_Q3_2022) And our [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow] surpassed $3 billion in Q3 and approached $9 billion in the past 12 months.
+8. [Sentence #1210]  (TSLA_Q3_2022) On automotive [white on yellow]profitability[/white on yellow], our [white on yellow]GAAP[/white on yellow] operating margin was 17.2% with automotive gross margin at 27.9%.
+9. [Sentence #1218]  (TSLA_Q3_2022) Our [white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] flows were also a record despite an increase in cars in transit at the end of the quarter, which has a negative impact on working capital.
+10. [Sentence #1258]  (TSLA_Q3_2022) We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue production at a 50% or greater compound annual growth rate.
+11. [Sentence #1512]  (TSLA_Q3_2022) I wouldn’t stop looking at like R&D as a [white on yellow]cash[/white on yellow] investment for...
+
+Elon Musk
+
+I think 1 nickel Tesla is frankly worth an infinite number of dollars.
+12. [Sentence #1701]  (TSLA_Q4_2022) While doing so, we generated $12.5 billion in net income and $7.5 billion in [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow].
+13. [Sentence #1702]  (TSLA_Q4_2022) Importantly, the Tesla team achieved these records, despite the fact that 2022 was an incredibly challenging year due to forced shutdowns, very high interest rates, and many delivery challenges.
+14. [Sentence #1749]  (TSLA_Q4_2022) On a full year basis: revenue increased over 50%, operating income doubled, [white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] flows increased over 50%, and our margins remained industry-leading.
+15. [Sentence #1789]  (TSLA_Q4_2022) The next investor question is, will Tesla be able to take full advantage of advanced manufacturing production credits for battery cells packs?
+16. [Sentence #1880]  (TSLA_Q4_2022) Zach, when do you think Tesla Insurance will become big enough revenue source to warrant providing more details in the financials of the business so investors can compare it to other insurance companies?
+
+Total transcript-order evidence sentences: 16
+
+--- Evidence by Similarity ---
+1. [Sentence #1141]  (TSLA_Q3_2022) (Similarity: 1.093) And our [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow] surpassed $3 billion in Q3 and approached $9 billion in the past 12 months.
+2. [Sentence #1701]  (TSLA_Q4_2022) (Similarity: 0.999) While doing so, we generated $12.5 billion in net income and $7.5 billion in [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow].
+3. [Sentence #31]  (TSLA_Q1_2022) (Similarity: 0.990) Our [white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] flows have remained quite strong, yet were impacted by working capital related to lower-than-planned production.
+4. [Sentence #1218]  (TSLA_Q3_2022) (Similarity: 0.960) Our [white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] flows were also a record despite an increase in cars in transit at the end of the quarter, which has a negative impact on working capital.
+5. [Sentence #384]  (TSLA_Q1_2022) (Similarity: 0.957) I’d like to ask you some questions about [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow].
+6. [Sentence #1062]  (TSLA_Q2_2022) (Similarity: 0.951) Tesla has obviously changed dramatically in the last 3 years from near life or death to a company with consistent [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow] and industry-leading margins.
+7. [Sentence #1749]  (TSLA_Q4_2022) (Similarity: 0.911) On a full year basis: revenue increased over 50%, operating income doubled, [white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] flows increased over 50%, and our margins remained industry-leading.
+8. [Sentence #653]  (TSLA_Q2_2022) (Similarity: 0.889) Our [white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] flows were impacted by working capital related to the Shanghai factory shutdown.
+9. [Sentence #1210]  (TSLA_Q3_2022) (Similarity: 0.662) On automotive [white on yellow]profitability[/white on yellow], our [white on yellow]GAAP[/white on yellow] operating margin was 17.2% with automotive gross margin at 27.9%.
+10. [Sentence #1512]  (TSLA_Q3_2022) (Similarity: 0.649) I wouldn’t stop looking at like R&D as a [white on yellow]cash[/white on yellow] investment for...
+
+Elon Musk
+
+I think 1 nickel Tesla is frankly worth an infinite number of dollars.
+11. [Sentence #48]  (TSLA_Q1_2022) (Similarity: 0.646) So, I’d really like to congratulate the Tesla team on achieving record [white on yellow]profitability[/white on yellow] and output despite many, many difficult headwinds, and especially the Tesla China team in our Shanghai factory.
+12. [Sentence #1258]  (TSLA_Q3_2022) (Similarity: 0.630) We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue production at a 50% or greater compound annual growth rate.
+13. [Sentence #1880]  (TSLA_Q4_2022) (Similarity: 0.623) Zach, when do you think Tesla Insurance will become big enough revenue source to warrant providing more details in the financials of the business so investors can compare it to other insurance companies?
+14. [Sentence #87]  (TSLA_Q1_2022) (Similarity: 0.622) We love his optimism for 2022 release, but is there any data Tesla can share with investors to help them make their own conclusions on progress being made?
+15. [Sentence #1702]  (TSLA_Q4_2022) (Similarity: 0.608) Importantly, the Tesla team achieved these records, despite the fact that 2022 was an incredibly challenging year due to forced shutdowns, very high interest rates, and many delivery challenges.
+16. [Sentence #1789]  (TSLA_Q4_2022) (Similarity: 0.604) The next investor question is, will Tesla be able to take full advantage of advanced manufacturing production credits for battery cells packs?
+
+Total similarity-top evidence sentences: 16
+
+-----

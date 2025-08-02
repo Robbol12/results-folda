@@ -1,0 +1,373 @@
+[Year 2023] Did Tesla maintain positive free cash flow and GAAP profitability from 2022 through 2024, as it promised after its first full profitable year?
+
+1. [Sentence #1666, TSLA_Q4_2023] [UNCERTAIN]
+     So I'm super proud of the people that work there.
+     Model Y became the best-selling vehicle globally, as predicted.
+     The best-selling vehicle of any kind, not just electric vehicles with over 1.2 million units delivered.
+     The energy storage business delivered nearly 15 gigawatt hours of batteries in 2023, compared to 6.5 gigawatt hours the year before.
+     So tremendous year-over-year growth, triple-digits.
+     And yeah, I think we'll continue to see very strong growth in storage, as predicted.
+     I said for many years that the storage business would grow much faster than the car business, and it is doing that.
+>>> Free cash flow remains strong at $4.4 billion in 2023, in spite of record spending on future projects.
+     So we had record CapEx expenses as well as record R&D.
+     This brings us to 2024.
+     There's a lot to look forward to in 2024.
+     Tesla is currently between two major growth waves.
+     We're focused on making sure that our next growth wave, driven by next-gen vehicle, energy storage, full self-driving, other projects, is executed as well as possible.
+     For full self-driving, we've released Version 12, which is a complete architectural rewrite compared to prior versions.
+     This is end-to-end artificial intelligence.
+-----
+2. [Sentence #909, TSLA_Q2_2023] [UNCERTAIN]
+     But just generally, like -- I feel -- I’m confident we’ll deliver over long term, but can’t control short term.
+     So -- and the autonomy is really where it’s at.
+     I mean, Zachary?
+     Zachary Kirkhorn
+
+I fully agree with you.
+     I mean, I think the only thing in the short term that matters is what I said in my opening remarks, which is are we generating enough money to continue to invest.
+     And the portfolio of products and technologies that the technical teams are investing in right now, this is intense.
+     It’s intense in terms of investment; it’s intense in terms of potential.
+>>> Elon Musk
+
+Frankly, I think it’s ridiculous that we have positive free cash flow in a capital-intensive business, while investing massive amounts of money in new technology.
+     That is super hard.
+     Unidentified Company Representative
+
+And vertical integration.
+     It’s not even just like new products, but also...
+
+Elon Musk
+
+Yes.
+     We actually make our share...
+
+Zachary Kirkhorn
+
+And so, at least from my perspective, what matters is continuing to generate the cash to invest.
+     That means continuing to be hyper focused on near-term cost reduction.
+     Is everything we do in near-term cost reduction provides capital to reinvest?
+     Hyper-focused on working capital management, which we’ve made quite a bit of progress there on the raw materials and with -- a set of that we’ve been very focused on accounts receivables as well to ensure that we can continue to reinvest the cash.
+-----
+3. [Sentence #1712, TSLA_Q4_2023] [UNCERTAIN]
+     And our CFO, Vaibhav has some opening remarks as well.
+     Vaibhav Taneja
+
+Thanks, Martin.
+     Good afternoon, everyone.
+     As Elon mentioned, we had a record year in terms of both production and deliveries for our auto business as well as record deployments in our energy business.
+     This was achieved despite 2023 being a challenging year in terms of higher interest rates and higher inflation.
+     Big thanks to our customer for being with us through this challenging period.
+     I would also like to thank the whole Tesla team for their resolve and dedication throughout.
+>>> In terms of 2023 financials, we ended the year with over $96 billion of revenue and generated $4.4 billion of free cash flow to end the year with over $29 billion of cash and investments on hand.
+     Our 2023 GAAP net income was impacted by the recognition of one-time non-cash benefit of $5.9 billion from the release of valuation allowance on certain deferred tax assets.
+     This was due to our recent history of sustained profitability and is similar to several other companies who have recently gone through a similar change in their account.
+     Accordingly, starting with Q1, our book tax rate will now be more in line with other companies in the S&P 500.
+     In our vehicle business, we continue to see improvements in our per unit cost despite us being in the early phase of Cybertruck ramp.
+     As a result, our auto gross margin improved sequentially.
+     That said, predicting auto gross margins is extremely challenging since there are many moving parts to this equation, some of which are out of our control like the change in tariffs or local incentives to name a few.
+     While the teams are focused on cost reductions, we are approaching the limits within our current platforms.
+-----
+4. [Sentence #1698, TSLA_Q4_2023] [NO EVIDENCE]
+     So there'll no doubt be many questions that try to ask us about new product, new products coming.
+     But we reserve product announcements for product announcements not earning calls.
+     So -- but we're very excited about this, and this is really going to be profound, not just in its design of the vehicle itself, but in the design of the manufacturing system.
+     This is a revolutionary manufacturing system significantly, far more advanced than any other automotive manufacturing system in the world, by a significant margin.
+     Several years ago, I said, perhaps the most important competitive characteristic of Tesla in the future will be manufacturing technology and you will really see that come to bear with our next-gen vehicle.
+     The first manufacturing location for this will be at our Gigafactory and headquarters in Austin, Texas, and then we'll follow that up with other locations around the world.
+     Probably the factory we'll build in Mexico will be second, and then we'll be looking to identify a third location, perhaps by the end of this year or early next outside of North America.
+>>> In conclusion, we had a great year with record production, record deliveries, and a strong free cash flow in spite of a very high interest rate environment.
+     And we are focused on exciting new projects that will -- I think, ultimately if we execute on all these things, and it is very hard to do all these things, it's not a sure thing.
+     But I do see a path where Tesla could one day be the most valuable company in the world.
+     I do emphasize that is not an easy path and a very difficult one, but it is now in the set of possible outcomes and previously I would not have thought it is in the set of possible outcomes.
+     And thank you, again to all of our investors, our employees, and our suppliers for a strong year, and looking forward to a great 2024 and years to come.
+     Thank you.
+     Martin Viecha
+
+Thank you.
+     And our CFO, Vaibhav has some opening remarks as well.
+-----
+5. [Sentence #64, TSLA_Q1_2023] [PILOT]
+     First, automotive gross margin and operating margin reduced sequentially.
+     But as Elon mentioned, these remain at healthy levels.
+     In particular, automotive gross margin was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve vehicle pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as increased deferred revenue for certain Autopilot features as we transition technologies.
+     Progress on vehicle cost reduction continued in Q1 with meaningful improvements on logistics and the beginnings of some commodity cost reductions starting to be realized.
+     Per unit cost for Austin and Berlin improved as well, driven by record volumes.
+     However, these factories still provide a margin headwind and will likely continue to do so until after we reach and stabilize at our intended volumes.
+     Note that Q1 was our third quarter in our multi-quarter plan to move to a more regionally balanced mix of build and deliveries.
+>>> As I've mentioned previously, this results in lower deliveries and production within a quarter due to a higher volume of cars in transit at the end of the quarter and has an associated impact on quarter-ending free cash flows.
+     This was particularly prevalent in Q1 for S and X as we begin exporting cars for international deliveries.
+     Second, our storage business is starting to take shape, and this is exciting to see after many years of investment and focus.
+     This business is growing as a percentage of the businesses of the company's revenue and reached its highest level yet in Q1, driven by an increasing rate of deliveries for our Megapack products.
+     We are also making progress on storage profitability, generating our highest gross profit yet in the quarter.
+     Third, I want to reiterate the philosophy by which we're operating the business this year.
+     Our approach is to grow volumes as quickly as possible in both our vehicle and energy businesses.
+     We plan to continue to invest heavily into our future plans, which include the Cybertruck next-generation platform, in-house cell production, energy storage business and our autonomy and AI-enabled products.
+-----
+6. [Sentence #1203, TSLA_Q3_2023] [PILOT]
+     This was necessary to allow for further factory improvements and production rate increases.
+     Despite such factory shutdowns, our cost per vehicle decreased to approximately $37,500.
+     We saw sequential decreases in material cost and freight.
+     Reducing the cost of our vehicles is our top priority.
+     On the operating expenses front, R&D expenses continued to rise due to Cybertruck prototype builds and pilot production testing combined with spend on AI technologies like full self-driving, Optimus and Dojo.
+     We have and will continue to make investments in these areas, and hence our capital expenditure and R&D will continue to grow in the near term.
+     However, our focus is to continue making investments through positive cash flow from operations.
+>>> This year itself, we have generated operating cash flows of approximately [$8.9 billion] (ph) and free cash flows of approximately $2.3 billion.
+     Our other businesses are becoming more prominent on a standalone basis with energy business leading the charge, primarily from the growth in Megapack deployments.
+     Our services and other businesses on a year-on-year basis also continue to show positive momentum as we benefit from our growing fleet.
+     As regards our pricing strategy, in addition to what we have shared before, I want to elaborate that most car buying happens with one or other form of financing, and hence we also view pricing in terms of monthly costs for the customer.
+     And therefore, as interest costs in the U.S. have risen substantially, it has required us to adjust the price of our vehicles to keep the monthly cost in parity.
+     We’ve tried to offset such adjustments via focus on reducing costs.
+     However, there is an inherent lag in cost reductions, which in turn impacts margins.
+     To that extent, we recently announced a partner vehicle leasing program in the U.S. whereby you can get a standard Model Y for as low as $399 a month.
+-----
+7. [Sentence #1202, TSLA_Q3_2023] [PILOT]
+     As Elon mentioned, our Q3 operational and financial performance was impacted by planned downtimes for our factory upgrades.
+     This was necessary to allow for further factory improvements and production rate increases.
+     Despite such factory shutdowns, our cost per vehicle decreased to approximately $37,500.
+     We saw sequential decreases in material cost and freight.
+     Reducing the cost of our vehicles is our top priority.
+     On the operating expenses front, R&D expenses continued to rise due to Cybertruck prototype builds and pilot production testing combined with spend on AI technologies like full self-driving, Optimus and Dojo.
+     We have and will continue to make investments in these areas, and hence our capital expenditure and R&D will continue to grow in the near term.
+>>> However, our focus is to continue making investments through positive cash flow from operations.
+     This year itself, we have generated operating cash flows of approximately [$8.9 billion] (ph) and free cash flows of approximately $2.3 billion.
+     Our other businesses are becoming more prominent on a standalone basis with energy business leading the charge, primarily from the growth in Megapack deployments.
+     Our services and other businesses on a year-on-year basis also continue to show positive momentum as we benefit from our growing fleet.
+     As regards our pricing strategy, in addition to what we have shared before, I want to elaborate that most car buying happens with one or other form of financing, and hence we also view pricing in terms of monthly costs for the customer.
+     And therefore, as interest costs in the U.S. have risen substantially, it has required us to adjust the price of our vehicles to keep the monthly cost in parity.
+     We’ve tried to offset such adjustments via focus on reducing costs.
+     However, there is an inherent lag in cost reductions, which in turn impacts margins.
+-----
+8. [Sentence #1172, TSLA_Q3_2023] [SCALE ACHIEVED]
+     Energy and service now contribute over $0.5 billion to quarterly profit.
+     The Cybertruck, I know a lot of people are excited about the Cybertruck.
+     I am too.
+     I’ve driven the car.
+     It’s an amazing product.
+     I do want to emphasize that there will be enormous challenges in reaching volume production with the Cybertruck, and then in making a Cybertruck cash flow positive.
+     This is simply normal for when you’ve got a product with a lot of new technology or any new vehicle, brand new vehicle program, but especially one that is as different and advanced as the Cybertruck, you will have problems proportionate to how many new things you’re trying to solve at scale.
+>>> So, I just want to emphasize that while I think this is potentially our best product ever and I think it is our best product ever, it is going to be -- require immense work to reach volume production and be cash flow positive at a price that people can afford.
+     Often people do not understand what is truly hard.
+     That’s why I say prototypes are easy, production is hard.
+     People think it’s the idea, or you make a prototype, you design a car.
+     And as soon as they’re designing a car, it’s just anyone can do it, it does require taste, it does require effort to design a prototype.
+     But it’s difficult to going from a prototype to volume production, it’s like 10,000% harder to get to volume production than to make a prototype in the first place, and then it is even harder than that to reach positive cash flow.
+     That is why there have not been new car startups that have been successful for a 100 years apart from Tesla.
+     So, I just want to temper expectations for Cybertruck.
+-----
+9. [Sentence #1713, TSLA_Q4_2023] [UNCERTAIN]
+     Vaibhav Taneja
+
+Thanks, Martin.
+     Good afternoon, everyone.
+     As Elon mentioned, we had a record year in terms of both production and deliveries for our auto business as well as record deployments in our energy business.
+     This was achieved despite 2023 being a challenging year in terms of higher interest rates and higher inflation.
+     Big thanks to our customer for being with us through this challenging period.
+     I would also like to thank the whole Tesla team for their resolve and dedication throughout.
+     In terms of 2023 financials, we ended the year with over $96 billion of revenue and generated $4.4 billion of free cash flow to end the year with over $29 billion of cash and investments on hand.
+>>> Our 2023 GAAP net income was impacted by the recognition of one-time non-cash benefit of $5.9 billion from the release of valuation allowance on certain deferred tax assets.
+     This was due to our recent history of sustained profitability and is similar to several other companies who have recently gone through a similar change in their account.
+     Accordingly, starting with Q1, our book tax rate will now be more in line with other companies in the S&P 500.
+     In our vehicle business, we continue to see improvements in our per unit cost despite us being in the early phase of Cybertruck ramp.
+     As a result, our auto gross margin improved sequentially.
+     That said, predicting auto gross margins is extremely challenging since there are many moving parts to this equation, some of which are out of our control like the change in tariffs or local incentives to name a few.
+     While the teams are focused on cost reductions, we are approaching the limits within our current platforms.
+     On the demand front, as promised, we made investments in digital campaigns in 2023.
+-----
+10. [Sentence #702, TSLA_Q2_2023] [PLAN]
+     Here in Texas, we’re preparing to launch our Cybertruck cell, which is 10% higher energy density than current production.
+     That was accomplished through process and mechanical design optimization.
+     As we scale Cyber cell production through the end of the year and early next, we should be in a comfortable place on cost per cell.
+     Against our battery energy density targets, the Cyber cell is at our expectations on a like-for-like electrochemistry basis.
+     We’re yet to integrate silicon or in-house cathode production, both reviewed on Battery Day, which do bring significant further energy density and cost improvements, but that is a topic for another day.
+     Lastly, it is important to remember that most of what we focused on a Battery Day was the Tesla-engineered 4680 production system and the improvements we strove to achieve on equipment, factory density, capital cost and utility cost reduction, all of which we are realizing in our Texas scale up to date.
+     Martin Viecha
+
+Thank you very much.
+>>> The next question is, can you talk more to the upcoming Tesla Energy products and how your thinking has evolved on the revenue model?
+     Given Tesla’s AI capabilities, how do you see the long-term mix between hardware margin and recurring software margin from Autobidder as this segment accelerates?
+     Unidentified Company Representative
+
+We can’t comment on future product road map, but I can provide a quick energy Q2 update.
+     Megapack continues to show strong demand globally with Lathrop ramping successfully to meet our contracted projects in 2023.
+     As stated last quarter, Megapack margins are in a reasonable place, in line with our target – vehicle target margins.
+     The second final assembly line at Lathrop is progressing on schedule, eventually doubling Lathrop capacity ahead of our full factory ramp in 2024.
+     We have several exciting large projects in construction or nearing completion, including the KES project in Hawaii, the Riverina project in Australia, several products in California and one here at Gigafactory, Texas that we’ll tour today, actually.
+     We want to thank our customers, utilities and grid operators for trusting us with these projects.
+-----
+11. [Sentence #1170, TSLA_Q3_2023] [SCALE ACHIEVED]
+     Regarding energy storage, we deployed 4 gigawatt hours of energy of storage products in Q3.
+     And as this business grows, the energy division is becoming our highest margin business.
+     Energy and service now contribute over $0.5 billion to quarterly profit.
+     The Cybertruck, I know a lot of people are excited about the Cybertruck.
+     I am too.
+     I’ve driven the car.
+     It’s an amazing product.
+>>> I do want to emphasize that there will be enormous challenges in reaching volume production with the Cybertruck, and then in making a Cybertruck cash flow positive.
+     This is simply normal for when you’ve got a product with a lot of new technology or any new vehicle, brand new vehicle program, but especially one that is as different and advanced as the Cybertruck, you will have problems proportionate to how many new things you’re trying to solve at scale.
+     So, I just want to emphasize that while I think this is potentially our best product ever and I think it is our best product ever, it is going to be -- require immense work to reach volume production and be cash flow positive at a price that people can afford.
+     Often people do not understand what is truly hard.
+     That’s why I say prototypes are easy, production is hard.
+     People think it’s the idea, or you make a prototype, you design a car.
+     And as soon as they’re designing a car, it’s just anyone can do it, it does require taste, it does require effort to design a prototype.
+     But it’s difficult to going from a prototype to volume production, it’s like 10,000% harder to get to volume production than to make a prototype in the first place, and then it is even harder than that to reach positive cash flow.
+-----
+12. [Sentence #1180, TSLA_Q3_2023] [SCALE ACHIEVED]
+     Often people do not understand what is truly hard.
+     That’s why I say prototypes are easy, production is hard.
+     People think it’s the idea, or you make a prototype, you design a car.
+     And as soon as they’re designing a car, it’s just anyone can do it, it does require taste, it does require effort to design a prototype.
+     But it’s difficult to going from a prototype to volume production, it’s like 10,000% harder to get to volume production than to make a prototype in the first place, and then it is even harder than that to reach positive cash flow.
+     That is why there have not been new car startups that have been successful for a 100 years apart from Tesla.
+     So, I just want to temper expectations for Cybertruck.
+>>> It’s a great product, but financially it will take, I don’t know, a year to 18 months before it is a significant positive cash flow contributor.
+     I wish there was some way for that to be different, but that’s my best guess.
+     The demand is off the charts.
+     We have over 1 million people who’ve reserved the car.
+     So it’s not a demand issue, but we have to make it and we need to make it at a price that people can afford, insanely difficult things.
+     In conclusion, we continue to focus on ramping production while maintaining positive cash flow and we continue to target -- expect to have around 1.8 million vehicle deliveries, as stated earlier this year.
+     The Tesla AI team is I think one of the world’s best, and I think it is actually by far the world’s best when it comes to real world AI.
+     I’ll say that again, Tesla has the best real world AI team on earth, period, and it’s getting better.
+-----
+13. [Sentence #1273, TSLA_Q3_2023] [PLAN]
+     So that is really the thing that must be solved is to make the car affordable or the average person cannot buy it for any amount of money or they can’t afford it.
+     So, this is big deal.
+     Martin Viecha
+
+The next question is, when do you expect Model 3 Highland to be available in the U.S.?
+     I just wanted to address that unfortunately we don’t answer product related questions and timings on earnings calls.
+     So let’s go to the next one.
+     Current sell side consensus assumes that Tesla will deliver 2.3 million vehicles in 2024, representing 28% growth versus 2023 guidance.
+     Is this growth rate achievable without any mass market launches in 2024?
+>>> And when does Tesla expect to return to its 50% long-term CAGR?
+     Vaibhav Taneja
+
+When we look at 2024, there are a lot of moving pieces.
+     I just talked about what is happening in the macroeconomic environment.
+     So, we’re focused on growing our volumes in a very cost efficient manner and are carefully reviewing all our options, and we’ll be able to provide a much more meaningful update at our next earnings call.
+     Elon Musk
+
+Yes.
+     I mean, at the risk of stating the obvious, it is not possible to have a compound growth rate of 50% forever, or you will exceed the mass of the known universe.
+     I think we will grow very rapidly, much faster than any other car company on earth by far.
+     Martin Viecha
+
+Thank you.
+-----
+14. [Sentence #1177, TSLA_Q3_2023] [SCALE ACHIEVED]
+     I do want to emphasize that there will be enormous challenges in reaching volume production with the Cybertruck, and then in making a Cybertruck cash flow positive.
+     This is simply normal for when you’ve got a product with a lot of new technology or any new vehicle, brand new vehicle program, but especially one that is as different and advanced as the Cybertruck, you will have problems proportionate to how many new things you’re trying to solve at scale.
+     So, I just want to emphasize that while I think this is potentially our best product ever and I think it is our best product ever, it is going to be -- require immense work to reach volume production and be cash flow positive at a price that people can afford.
+     Often people do not understand what is truly hard.
+     That’s why I say prototypes are easy, production is hard.
+     People think it’s the idea, or you make a prototype, you design a car.
+     And as soon as they’re designing a car, it’s just anyone can do it, it does require taste, it does require effort to design a prototype.
+>>> But it’s difficult to going from a prototype to volume production, it’s like 10,000% harder to get to volume production than to make a prototype in the first place, and then it is even harder than that to reach positive cash flow.
+     That is why there have not been new car startups that have been successful for a 100 years apart from Tesla.
+     So, I just want to temper expectations for Cybertruck.
+     It’s a great product, but financially it will take, I don’t know, a year to 18 months before it is a significant positive cash flow contributor.
+     I wish there was some way for that to be different, but that’s my best guess.
+     The demand is off the charts.
+     We have over 1 million people who’ve reserved the car.
+     So it’s not a demand issue, but we have to make it and we need to make it at a price that people can afford, insanely difficult things.
+-----
+15. [Sentence #1161, TSLA_Q3_2023] [SCALE ACHIEVED]
+     We’re also seeing significant promise with FSD version 12.
+     This is the end-to-end AI where it’s photon count in, controls out.
+     Really you can think of it as there’s just a large bitstream coming in and a tiny bitstream going out, compressing reality into a very small set of outputs, which is actually kind of how humans work.
+     The vast majority of human data input is optics from our eyes.
+     And so, we are like the car, photons in, controls out with neural nets, just neural nets in the middle.
+     So, interesting to think about that.
+     We’ll continue to invest significantly in AI development, as this is really the mass game changer.
+>>> And I mean success in this regard in the long-term I think has the potential to make Tesla the most valuable company in the world by far.
+     If you have fully autonomous cars at scale and fully autonomous humanoid robots that are truly useful, it’s not clear what the limit is.
+     Regarding energy storage, we deployed 4 gigawatt hours of energy of storage products in Q3.
+     And as this business grows, the energy division is becoming our highest margin business.
+     Energy and service now contribute over $0.5 billion to quarterly profit.
+     The Cybertruck, I know a lot of people are excited about the Cybertruck.
+     I am too.
+     I’ve driven the car.
+-----
+16. [Sentence #899, TSLA_Q2_2023] [UNCERTAIN]
+     Autonomy will make all of these numbers look silly.
+     I’d recommend looking at ARK Invest.
+     I think their analysis is very good.
+     It’s the best.
+     And generally, Fintwit or the finance, Smart Finance people on Twitter, follow their accounts.
+     They’re great.
+     So that’s in my opinion where you’ll get the best info.
+>>> So, I strongly believe Tesla is a big long-term investment.
+     And don’t sweat when things go up and down.
+     In fact, if the market panics, buy; if the market is a little too exuberant, sell at the time.
+     But just generally, like -- I feel -- I’m confident we’ll deliver over long term, but can’t control short term.
+     So -- and the autonomy is really where it’s at.
+     I mean, Zachary?
+     Zachary Kirkhorn
+
+I fully agree with you.
+     I mean, I think the only thing in the short term that matters is what I said in my opening remarks, which is are we generating enough money to continue to invest.
+-----
+17. [Sentence #68, TSLA_Q1_2023] [PLAN]
+     Per unit cost for Austin and Berlin improved as well, driven by record volumes.
+     However, these factories still provide a margin headwind and will likely continue to do so until after we reach and stabilize at our intended volumes.
+     Note that Q1 was our third quarter in our multi-quarter plan to move to a more regionally balanced mix of build and deliveries.
+     As I've mentioned previously, this results in lower deliveries and production within a quarter due to a higher volume of cars in transit at the end of the quarter and has an associated impact on quarter-ending free cash flows.
+     This was particularly prevalent in Q1 for S and X as we begin exporting cars for international deliveries.
+     Second, our storage business is starting to take shape, and this is exciting to see after many years of investment and focus.
+     This business is growing as a percentage of the businesses of the company's revenue and reached its highest level yet in Q1, driven by an increasing rate of deliveries for our Megapack products.
+>>> We are also making progress on storage profitability, generating our highest gross profit yet in the quarter.
+     Third, I want to reiterate the philosophy by which we're operating the business this year.
+     Our approach is to grow volumes as quickly as possible in both our vehicle and energy businesses.
+     We plan to continue to invest heavily into our future plans, which include the Cybertruck next-generation platform, in-house cell production, energy storage business and our autonomy and AI-enabled products.
+     And we plan to do this while keeping the business financially healthy and industry leading.
+     To accomplish this, we need to remain focused on cost efficiency and working capital and in particular, unwinding the strategic inventory buildup left over from the pandemic.
+     I want to conclude by thanking the Tesla team again, as well as thanking our suppliers and our customers.
+     Question-and-Answer Session
+
+A - Martin Viecha
+
+Thank you very much.
+-----
+18. [Sentence #1193, TSLA_Q3_2023] [PILOT]
+     The Tesla AI team is I think one of the world’s best, and I think it is actually by far the world’s best when it comes to real world AI.
+     I’ll say that again, Tesla has the best real world AI team on earth, period, and it’s getting better.
+     And lastly, I wanted to thank all of our employees who are making a lot of extra effort during uncertain times.
+     Thank you very much for your hard work and the impact that you’re making.
+     Martin Viecha
+
+Thank you very much, Elon.
+     And our CFO, Vaibhav, has some opening remarks as well.
+     Vaibhav Taneja
+
+Thanks, Martin.
+>>> Vehicle deliveries in Q3 outpaced production, and we had yet another record quarter of profitability in our energy business.
+     Congratulations to the Tesla team for the continued focus on operational excellence as we navigate through a period of economic uncertainty, higher interest rates, and shifting consumer sentiment.
+     As Elon mentioned, our Q3 operational and financial performance was impacted by planned downtimes for our factory upgrades.
+     This was necessary to allow for further factory improvements and production rate increases.
+     Despite such factory shutdowns, our cost per vehicle decreased to approximately $37,500.
+     We saw sequential decreases in material cost and freight.
+     Reducing the cost of our vehicles is our top priority.
+     On the operating expenses front, R&D expenses continued to rise due to Cybertruck prototype builds and pilot production testing combined with spend on AI technologies like full self-driving, Optimus and Dojo.
+-----
+19. [Sentence #1185, TSLA_Q3_2023] [PLAN]
+     That is why there have not been new car startups that have been successful for a 100 years apart from Tesla.
+     So, I just want to temper expectations for Cybertruck.
+     It’s a great product, but financially it will take, I don’t know, a year to 18 months before it is a significant positive cash flow contributor.
+     I wish there was some way for that to be different, but that’s my best guess.
+     The demand is off the charts.
+     We have over 1 million people who’ve reserved the car.
+     So it’s not a demand issue, but we have to make it and we need to make it at a price that people can afford, insanely difficult things.
+>>> In conclusion, we continue to focus on ramping production while maintaining positive cash flow and we continue to target -- expect to have around 1.8 million vehicle deliveries, as stated earlier this year.
+     The Tesla AI team is I think one of the world’s best, and I think it is actually by far the world’s best when it comes to real world AI.
+     I’ll say that again, Tesla has the best real world AI team on earth, period, and it’s getting better.
+     And lastly, I wanted to thank all of our employees who are making a lot of extra effort during uncertain times.
+     Thank you very much for your hard work and the impact that you’re making.
+     Martin Viecha
+
+Thank you very much, Elon.
+     And our CFO, Vaibhav, has some opening remarks as well.
+     Vaibhav Taneja
+
+Thanks, Martin.
+-----
+
+Total context windows: 19

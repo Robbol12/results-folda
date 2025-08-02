@@ -1,0 +1,15 @@
+[TSLA_Q2_2022] Did Tesla maintain positive free cash flow and GAAP profitability from 2022 through 2024, as it promised after its first full profitable year?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #96]  Our [white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] flows were impacted by working capital related to the Shanghai factory shutdown.
+2. [Sentence #505]  Tesla has obviously changed dramatically in the last 3 years from near life or death to a company with consistent [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow] and industry-leading margins.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #505]  (Similarity: 0.951) Tesla has obviously changed dramatically in the last 3 years from near life or death to a company with consistent [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow] and industry-leading margins.
+2. [Sentence #96]  (Similarity: 0.889) Our [white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] flows were impacted by working capital related to the Shanghai factory shutdown.
+
+Total similarity-top evidence sentences: 2
+
+-----

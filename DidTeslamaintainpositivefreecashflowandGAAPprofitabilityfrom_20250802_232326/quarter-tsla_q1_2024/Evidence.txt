@@ -1,0 +1,25 @@
+[TSLA_Q1_2024] Did Tesla maintain positive free cash flow and GAAP profitability from 2022 through 2024, as it promised after its first full profitable year?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #15]  Despite these challenges, the Tesla team did a great job executing in a tough environment and energy storage deployments, the Megapack in particular, reached an all-time high in Q1, leading to record [white on yellow]profitability[/white on yellow] for the energy business, and that looks likely to continue to increase in the quarters and years ahead.
+2. [Sentence #49]  We continue to make the necessary investments that will drive growth and profits for Tesla in the future, and I wanted to thank the Tesla team for incredible execution during this period and look forward to everything that we have planned ahead.
+3. [Sentence #71]  We had negative [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow] of $2.5 billion in the first quarter.
+4. [Sentence #73]  We expect the inventory build to reverse in the second quarter and [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow] to return to positive again.
+5. [Sentence #326]  If the company generates a lot of positive [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow], we could obviously buy back shares.
+6. [Sentence #417]  And can the company meaningfully lower prices from here and also stay [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow] positive on an annual basis with the current product set?
+7. [Sentence #420]  I think we can be [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow] positive meaningfully.
+
+Total transcript-order evidence sentences: 7
+
+--- Evidence by Similarity ---
+1. [Sentence #417]  (Similarity: 1.137) And can the company meaningfully lower prices from here and also stay [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow] positive on an annual basis with the current product set?
+2. [Sentence #71]  (Similarity: 1.114) We had negative [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow] of $2.5 billion in the first quarter.
+3. [Sentence #73]  (Similarity: 1.090) We expect the inventory build to reverse in the second quarter and [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow] to return to positive again.
+4. [Sentence #420]  (Similarity: 1.047) I think we can be [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow] positive meaningfully.
+5. [Sentence #15]  (Similarity: 0.701) Despite these challenges, the Tesla team did a great job executing in a tough environment and energy storage deployments, the Megapack in particular, reached an all-time high in Q1, leading to record [white on yellow]profitability[/white on yellow] for the energy business, and that looks likely to continue to increase in the quarters and years ahead.
+6. [Sentence #326]  (Similarity: 0.696) If the company generates a lot of positive [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow], we could obviously buy back shares.
+7. [Sentence #49]  (Similarity: 0.610) We continue to make the necessary investments that will drive growth and profits for Tesla in the future, and I wanted to thank the Tesla team for incredible execution during this period and look forward to everything that we have planned ahead.
+
+Total similarity-top evidence sentences: 7
+
+-----

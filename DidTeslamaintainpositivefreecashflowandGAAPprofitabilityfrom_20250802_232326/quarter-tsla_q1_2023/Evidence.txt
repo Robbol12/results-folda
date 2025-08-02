@@ -1,0 +1,15 @@
+[TSLA_Q1_2023] Did Tesla maintain positive free cash flow and GAAP profitability from 2022 through 2024, as it promised after its first full profitable year?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #64]  As I've mentioned previously, this results in lower deliveries and production within a quarter due to a higher volume of cars in transit at the end of the quarter and has an associated impact on quarter-ending [white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] flows.
+2. [Sentence #68]  We are also making progress on storage [white on yellow]profitability[/white on yellow], generating our highest gross profit yet in the quarter.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #64]  (Similarity: 0.917) As I've mentioned previously, this results in lower deliveries and production within a quarter due to a higher volume of cars in transit at the end of the quarter and has an associated impact on quarter-ending [white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] flows.
+2. [Sentence #68]  (Similarity: 0.620) We are also making progress on storage [white on yellow]profitability[/white on yellow], generating our highest gross profit yet in the quarter.
+
+Total similarity-top evidence sentences: 2
+
+-----

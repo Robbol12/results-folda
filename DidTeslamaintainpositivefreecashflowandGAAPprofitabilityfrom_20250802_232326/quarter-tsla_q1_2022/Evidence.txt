@@ -1,0 +1,19 @@
+[TSLA_Q1_2022] Did Tesla maintain positive free cash flow and GAAP profitability from 2022 through 2024, as it promised after its first full profitable year?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #31]  Our [white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] flows have remained quite strong, yet were impacted by working capital related to lower-than-planned production.
+2. [Sentence #48]  So, I’d really like to congratulate the Tesla team on achieving record [white on yellow]profitability[/white on yellow] and output despite many, many difficult headwinds, and especially the Tesla China team in our Shanghai factory.
+3. [Sentence #87]  We love his optimism for 2022 release, but is there any data Tesla can share with investors to help them make their own conclusions on progress being made?
+4. [Sentence #384]  I’d like to ask you some questions about [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow].
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #31]  (Similarity: 0.990) Our [white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] flows have remained quite strong, yet were impacted by working capital related to lower-than-planned production.
+2. [Sentence #384]  (Similarity: 0.957) I’d like to ask you some questions about [white on yellow][white on yellow]free[/white on yellow] [white on yellow]cash[/white on yellow] [white on yellow]flow[/white on yellow][/white on yellow].
+3. [Sentence #48]  (Similarity: 0.646) So, I’d really like to congratulate the Tesla team on achieving record [white on yellow]profitability[/white on yellow] and output despite many, many difficult headwinds, and especially the Tesla China team in our Shanghai factory.
+4. [Sentence #87]  (Similarity: 0.622) We love his optimism for 2022 release, but is there any data Tesla can share with investors to help them make their own conclusions on progress being made?
+
+Total similarity-top evidence sentences: 4
+
+-----
