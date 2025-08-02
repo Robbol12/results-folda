@@ -1,0 +1,17 @@
+[TSLA_Q2_2022] tell me about tesla cybertruck production from 2021-2022
+
+--- Evidence in Transcript Order ---
+1. [Sentence #52]  Our team continues to focus on <mark style='background-color: yellow; color: white;'>Cybertruck</mark> <mark style='background-color: yellow; color: white;'>production</mark> readiness and some future platform design.
+2. [Sentence #53]  We are expecting to be – still expecting to be in <mark style='background-color: yellow; color: white;'>production</mark> with the <mark style='background-color: yellow; color: white;'>Cybertruck</mark> in the middle of next year.
+3. [Sentence #292]  And the last question is, when will the <mark style='background-color: yellow; color: white;'>Cybertruck</mark> be officially available?
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #53]  (Similarity: 0.878) We are expecting to be – still expecting to be in <mark style='background-color: yellow; color: white;'>production</mark> with the <mark style='background-color: yellow; color: white;'>Cybertruck</mark> in the middle of next year.
+2. [Sentence #52]  (Similarity: 0.840) Our team continues to focus on <mark style='background-color: yellow; color: white;'>Cybertruck</mark> <mark style='background-color: yellow; color: white;'>production</mark> readiness and some future platform design.
+3. [Sentence #292]  (Similarity: 0.751) And the last question is, when will the <mark style='background-color: yellow; color: white;'>Cybertruck</mark> be officially available?
+
+Total similarity-top evidence sentences: 3
+
+-----

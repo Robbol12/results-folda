@@ -1,0 +1,17 @@
+[TSLA_Q4_2022] tell me about tesla cybertruck production from 2021-2022
+
+--- Evidence in Transcript Order ---
+1. [Sentence #90]  This includes expanding in-house cell <mark style='background-color: yellow; color: white;'>production</mark>, bringing <mark style='background-color: yellow; color: white;'>Cybertruck</mark> to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+2. [Sentence #182]  And to be clear, for 2023, <mark style='background-color: yellow; color: white;'>Cybertruck</mark> will not be a significant contributor to the bottom line but it will be into next year.
+3. [Sentence #231]  The next question from investors is, is <mark style='background-color: yellow; color: white;'>Cybertruck</mark> <mark style='background-color: yellow; color: white;'>production</mark> still on track for mid-year?
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #90]  (Similarity: 0.926) This includes expanding in-house cell <mark style='background-color: yellow; color: white;'>production</mark>, bringing <mark style='background-color: yellow; color: white;'>Cybertruck</mark> to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+2. [Sentence #231]  (Similarity: 0.909) The next question from investors is, is <mark style='background-color: yellow; color: white;'>Cybertruck</mark> <mark style='background-color: yellow; color: white;'>production</mark> still on track for mid-year?
+3. [Sentence #182]  (Similarity: 0.777) And to be clear, for 2023, <mark style='background-color: yellow; color: white;'>Cybertruck</mark> will not be a significant contributor to the bottom line but it will be into next year.
+
+Total similarity-top evidence sentences: 3
+
+-----

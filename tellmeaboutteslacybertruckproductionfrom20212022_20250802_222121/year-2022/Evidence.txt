@@ -1,0 +1,27 @@
+[Year 2022] tell me about tesla cybertruck production from 2021-2022
+
+--- Evidence in Transcript Order ---
+1. [Sentence #65]  (TSLA_Q1_2022) And we remain on track to reach volume <mark style='background-color: yellow; color: white;'>production</mark> of the <mark style='background-color: yellow; color: white;'>Cybertruck</mark> next year.
+2. [Sentence #609]  (TSLA_Q2_2022) Our team continues to focus on <mark style='background-color: yellow; color: white;'>Cybertruck</mark> <mark style='background-color: yellow; color: white;'>production</mark> readiness and some future platform design.
+3. [Sentence #610]  (TSLA_Q2_2022) We are expecting to be – still expecting to be in <mark style='background-color: yellow; color: white;'>production</mark> with the <mark style='background-color: yellow; color: white;'>Cybertruck</mark> in the middle of next year.
+4. [Sentence #849]  (TSLA_Q2_2022) And the last question is, when will the <mark style='background-color: yellow; color: white;'>Cybertruck</mark> be officially available?
+5. [Sentence #1291]  (TSLA_Q3_2022) And the next question is, “How is <mark style='background-color: yellow; color: white;'>production</mark> planning going for the <mark style='background-color: yellow; color: white;'>Cybertruck</mark>?
+6. [Sentence #1773]  (TSLA_Q4_2022) This includes expanding in-house cell <mark style='background-color: yellow; color: white;'>production</mark>, bringing <mark style='background-color: yellow; color: white;'>Cybertruck</mark> to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+7. [Sentence #1865]  (TSLA_Q4_2022) And to be clear, for 2023, <mark style='background-color: yellow; color: white;'>Cybertruck</mark> will not be a significant contributor to the bottom line but it will be into next year.
+8. [Sentence #1914]  (TSLA_Q4_2022) The next question from investors is, is <mark style='background-color: yellow; color: white;'>Cybertruck</mark> <mark style='background-color: yellow; color: white;'>production</mark> still on track for mid-year?
+
+Total transcript-order evidence sentences: 8
+
+--- Evidence by Similarity ---
+1. [Sentence #1773]  (TSLA_Q4_2022) (Similarity: 0.926) This includes expanding in-house cell <mark style='background-color: yellow; color: white;'>production</mark>, bringing <mark style='background-color: yellow; color: white;'>Cybertruck</mark> to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+2. [Sentence #1291]  (TSLA_Q3_2022) (Similarity: 0.920) And the next question is, “How is <mark style='background-color: yellow; color: white;'>production</mark> planning going for the <mark style='background-color: yellow; color: white;'>Cybertruck</mark>?
+3. [Sentence #1914]  (TSLA_Q4_2022) (Similarity: 0.909) The next question from investors is, is <mark style='background-color: yellow; color: white;'>Cybertruck</mark> <mark style='background-color: yellow; color: white;'>production</mark> still on track for mid-year?
+4. [Sentence #65]  (TSLA_Q1_2022) (Similarity: 0.878) And we remain on track to reach volume <mark style='background-color: yellow; color: white;'>production</mark> of the <mark style='background-color: yellow; color: white;'>Cybertruck</mark> next year.
+5. [Sentence #610]  (TSLA_Q2_2022) (Similarity: 0.878) We are expecting to be – still expecting to be in <mark style='background-color: yellow; color: white;'>production</mark> with the <mark style='background-color: yellow; color: white;'>Cybertruck</mark> in the middle of next year.
+6. [Sentence #609]  (TSLA_Q2_2022) (Similarity: 0.840) Our team continues to focus on <mark style='background-color: yellow; color: white;'>Cybertruck</mark> <mark style='background-color: yellow; color: white;'>production</mark> readiness and some future platform design.
+7. [Sentence #1865]  (TSLA_Q4_2022) (Similarity: 0.777) And to be clear, for 2023, <mark style='background-color: yellow; color: white;'>Cybertruck</mark> will not be a significant contributor to the bottom line but it will be into next year.
+8. [Sentence #849]  (TSLA_Q2_2022) (Similarity: 0.751) And the last question is, when will the <mark style='background-color: yellow; color: white;'>Cybertruck</mark> be officially available?
+
+Total similarity-top evidence sentences: 8
+
+-----

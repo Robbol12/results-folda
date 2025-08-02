@@ -1,0 +1,43 @@
+[Multi-Year Analysis] tell me about tesla cybertruck production from 2021-2022
+
+--- Evidence in Transcript Order ---
+1. [Sentence #52]  (TSLA_Q2_2022) Our team continues to focus on <mark style='background-color: yellow; color: white;'>Cybertruck</mark> <mark style='background-color: yellow; color: white;'>production</mark> readiness and some future platform design.
+2. [Sentence #53]  (TSLA_Q2_2022) We are expecting to be – still expecting to be in <mark style='background-color: yellow; color: white;'>production</mark> with the <mark style='background-color: yellow; color: white;'>Cybertruck</mark> in the middle of next year.
+3. [Sentence #57]  (TSLA_Q4_2021) We will, however, do a lot of engineering and tooling and whatnot to create those vehicles, <mark style='background-color: yellow; color: white;'>Cybertruck</mark>, Semi, Roadster, Optimus, and be ready to bring those to <mark style='background-color: yellow; color: white;'>production</mark> hopefully next year.
+4. [Sentence #65]  (TSLA_Q1_2022) And we remain on track to reach volume <mark style='background-color: yellow; color: white;'>production</mark> of the <mark style='background-color: yellow; color: white;'>Cybertruck</mark> next year.
+5. [Sentence #90]  (TSLA_Q4_2022) This includes expanding in-house cell <mark style='background-color: yellow; color: white;'>production</mark>, bringing <mark style='background-color: yellow; color: white;'>Cybertruck</mark> to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+6. [Sentence #92]  (TSLA_Q3_2021) The next question, a question from retail shareholder is, what is Tesla 's goal for vehicle <mark style='background-color: yellow; color: white;'>production</mark> capacity for the four current factories, Fremont, Shanghai, Austin and Berlin by 2024?
+7. [Sentence #165]  (TSLA_Q3_2022) And the next question is, “How is <mark style='background-color: yellow; color: white;'>production</mark> planning going for the <mark style='background-color: yellow; color: white;'>Cybertruck</mark>?
+8. [Sentence #182]  (TSLA_Q4_2022) And to be clear, for 2023, <mark style='background-color: yellow; color: white;'>Cybertruck</mark> will not be a significant contributor to the bottom line but it will be into next year.
+9. [Sentence #231]  (TSLA_Q4_2022) The next question from investors is, is <mark style='background-color: yellow; color: white;'>Cybertruck</mark> <mark style='background-color: yellow; color: white;'>production</mark> still on track for mid-year?
+10. [Sentence #262]  (TSLA_Q4_2021) Martin Viecha
+
+And the next question is, what are the biggest obstacles for <mark style='background-color: yellow; color: white;'>Cybertruck</mark> volume <mark style='background-color: yellow; color: white;'>production</mark> besides battery shortage?
+11. [Sentence #263]  (TSLA_Q4_2021) Elon Musk
+
+Batteries will probably not be the limiting factor in <mark style='background-color: yellow; color: white;'>Cybertruck</mark> <mark style='background-color: yellow; color: white;'>production</mark>.
+12. [Sentence #292]  (TSLA_Q2_2022) And the last question is, when will the <mark style='background-color: yellow; color: white;'>Cybertruck</mark> be officially available?
+
+Total transcript-order evidence sentences: 12
+
+--- Evidence by Similarity ---
+1. [Sentence #90]  (TSLA_Q4_2022) (Similarity: 0.926) This includes expanding in-house cell <mark style='background-color: yellow; color: white;'>production</mark>, bringing <mark style='background-color: yellow; color: white;'>Cybertruck</mark> to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+2. [Sentence #165]  (TSLA_Q3_2022) (Similarity: 0.920) And the next question is, “How is <mark style='background-color: yellow; color: white;'>production</mark> planning going for the <mark style='background-color: yellow; color: white;'>Cybertruck</mark>?
+3. [Sentence #231]  (TSLA_Q4_2022) (Similarity: 0.909) The next question from investors is, is <mark style='background-color: yellow; color: white;'>Cybertruck</mark> <mark style='background-color: yellow; color: white;'>production</mark> still on track for mid-year?
+4. [Sentence #262]  (TSLA_Q4_2021) (Similarity: 0.897) Martin Viecha
+
+And the next question is, what are the biggest obstacles for <mark style='background-color: yellow; color: white;'>Cybertruck</mark> volume <mark style='background-color: yellow; color: white;'>production</mark> besides battery shortage?
+5. [Sentence #65]  (TSLA_Q1_2022) (Similarity: 0.878) And we remain on track to reach volume <mark style='background-color: yellow; color: white;'>production</mark> of the <mark style='background-color: yellow; color: white;'>Cybertruck</mark> next year.
+6. [Sentence #53]  (TSLA_Q2_2022) (Similarity: 0.878) We are expecting to be – still expecting to be in <mark style='background-color: yellow; color: white;'>production</mark> with the <mark style='background-color: yellow; color: white;'>Cybertruck</mark> in the middle of next year.
+7. [Sentence #57]  (TSLA_Q4_2021) (Similarity: 0.841) We will, however, do a lot of engineering and tooling and whatnot to create those vehicles, <mark style='background-color: yellow; color: white;'>Cybertruck</mark>, Semi, Roadster, Optimus, and be ready to bring those to <mark style='background-color: yellow; color: white;'>production</mark> hopefully next year.
+8. [Sentence #52]  (TSLA_Q2_2022) (Similarity: 0.840) Our team continues to focus on <mark style='background-color: yellow; color: white;'>Cybertruck</mark> <mark style='background-color: yellow; color: white;'>production</mark> readiness and some future platform design.
+9. [Sentence #263]  (TSLA_Q4_2021) (Similarity: 0.829) Elon Musk
+
+Batteries will probably not be the limiting factor in <mark style='background-color: yellow; color: white;'>Cybertruck</mark> <mark style='background-color: yellow; color: white;'>production</mark>.
+10. [Sentence #182]  (TSLA_Q4_2022) (Similarity: 0.777) And to be clear, for 2023, <mark style='background-color: yellow; color: white;'>Cybertruck</mark> will not be a significant contributor to the bottom line but it will be into next year.
+11. [Sentence #292]  (TSLA_Q2_2022) (Similarity: 0.751) And the last question is, when will the <mark style='background-color: yellow; color: white;'>Cybertruck</mark> be officially available?
+12. [Sentence #92]  (TSLA_Q3_2021) (Similarity: 0.750) The next question, a question from retail shareholder is, what is Tesla 's goal for vehicle <mark style='background-color: yellow; color: white;'>production</mark> capacity for the four current factories, Fremont, Shanghai, Austin and Berlin by 2024?
+
+Total similarity-top evidence sentences: 12
+
+-----

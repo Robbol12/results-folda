@@ -1,0 +1,25 @@
+[TSLA_Q4_2021] tell me about tesla cybertruck production from 2021-2022
+
+--- Evidence in Transcript Order ---
+1. [Sentence #57]  We will, however, do a lot of engineering and tooling and whatnot to create those vehicles, <mark style='background-color: yellow; color: white;'>Cybertruck</mark>, Semi, Roadster, Optimus, and be ready to bring those to <mark style='background-color: yellow; color: white;'>production</mark> hopefully next year.
+2. [Sentence #262]  Martin Viecha
+
+And the next question is, what are the biggest obstacles for <mark style='background-color: yellow; color: white;'>Cybertruck</mark> volume <mark style='background-color: yellow; color: white;'>production</mark> besides battery shortage?
+3. [Sentence #263]  Elon Musk
+
+Batteries will probably not be the limiting factor in <mark style='background-color: yellow; color: white;'>Cybertruck</mark> <mark style='background-color: yellow; color: white;'>production</mark>.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #262]  (Similarity: 0.897) Martin Viecha
+
+And the next question is, what are the biggest obstacles for <mark style='background-color: yellow; color: white;'>Cybertruck</mark> volume <mark style='background-color: yellow; color: white;'>production</mark> besides battery shortage?
+2. [Sentence #57]  (Similarity: 0.841) We will, however, do a lot of engineering and tooling and whatnot to create those vehicles, <mark style='background-color: yellow; color: white;'>Cybertruck</mark>, Semi, Roadster, Optimus, and be ready to bring those to <mark style='background-color: yellow; color: white;'>production</mark> hopefully next year.
+3. [Sentence #263]  (Similarity: 0.829) Elon Musk
+
+Batteries will probably not be the limiting factor in <mark style='background-color: yellow; color: white;'>Cybertruck</mark> <mark style='background-color: yellow; color: white;'>production</mark>.
+
+Total similarity-top evidence sentences: 3
+
+-----
