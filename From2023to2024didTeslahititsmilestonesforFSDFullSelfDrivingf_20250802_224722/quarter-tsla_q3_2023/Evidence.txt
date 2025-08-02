@@ -1,0 +1,15 @@
+[TSLA_Q3_2023] From 2023 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #2]  Regarding Autopilot and AI, our vehicles are now driven over 0.5 billion miles with [white on yellow]FSD[/white on yellow] beta, [white on yellow]full[/white on yellow] self-driving beta, and that number is growing rapidly.
+2. [Sentence #159]  Is Tesla planning to accept legal liability for [white on yellow]FSD[/white on yellow]?
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #2]  (Similarity: 0.815) Regarding Autopilot and AI, our vehicles are now driven over 0.5 billion miles with [white on yellow]FSD[/white on yellow] beta, [white on yellow]full[/white on yellow] self-driving beta, and that number is growing rapidly.
+2. [Sentence #159]  (Similarity: 0.753) Is Tesla planning to accept legal liability for [white on yellow]FSD[/white on yellow]?
+
+Total similarity-top evidence sentences: 2
+
+-----

@@ -1,0 +1,44 @@
+[TSLA_Q3_2023] From 2023 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+1. [Sentence #2] [PILOT]
+     Elon Musk
+
+[Call Starts Abruptly]…of new factories and we believe there’s still meaningful room for improvement there.
+>>> Regarding Autopilot and AI, our vehicles are now driven over 0.5 billion miles with FSD beta, full self-driving beta, and that number is growing rapidly.
+     We recently completed a 10,000 GPU cluster of H100s.
+     We think probably bring it into operation faster than anyone’s ever brought that much compute per unit time into production, since training is the fundamental limiting factor on progress with full self-driving and vehicle autonomy.
+     We’re also seeing significant promise with FSD version 12.
+     This is the end-to-end AI where it’s photon count in, controls out.
+     Really you can think of it as there’s just a large bitstream coming in and a tiny bitstream going out, compressing reality into a very small set of outputs, which is actually kind of how humans work.
+     The vast majority of human data input is optics from our eyes.
+     And so, we are like the car, photons in, controls out with neural nets, just neural nets in the middle.
+-----
+2. [Sentence #159] [PILOT]
+     Martin Viecha
+
+Thank you.
+     The next question is, why was the price dropped on FSD if it is getting better and robotaxi is expected so soon?
+     Elon Musk
+
+Well, we just wanted to make it more affordable as more people try it.
+     Yes, I think, over time, the price of FSD will increase proportionate to its value.
+     So we regard the current price as a kind of a temporary low.
+     Martin Viecha
+
+The next question is again on FSD.
+     Mercedes is accepting legal liability for when its Level 3 autonomous driving system drive pilot is active.
+>>> Is Tesla planning to accept legal liability for FSD?
+     And if so, when?
+     Elon Musk
+
+Well, there’s a lot of people that assume we have legal liability judging by the lawsuits.
+     We’re certainly not being let that off the hook on that front, whether we’d like to or wouldn’t like to do.
+     Unidentified Company Representative
+
+I mean I think it’s important to remember for everyone that Mercedes’ system is limited to roads in Nevada and some certain cities in California, doesn’t work in the snow or the fog.
+     It must have a lead car in plains, only 40 miles per hour.
+     Our system is meant to be holistic and drive in any conditions, so we obviously have a much more capable approach.
+     But with those kind of limitations, it’s really not very useful.
+-----
+
+Total context windows: 2

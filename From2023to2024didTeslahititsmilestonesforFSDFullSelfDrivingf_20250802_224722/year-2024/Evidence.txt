@@ -1,0 +1,21 @@
+[Year 2024] From 2023 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #211]  (TSLA_Q1_2024) The next question, have any of the legacy automakers contacted Tesla about possibly licensing [white on yellow]FSD[/white on yellow] in the future?
+2. [Sentence #693]  (TSLA_Q2_2024) Although the numbers sound crazy, I think Tesla producing at volume with unsupervised [white on yellow]FSD[/white on yellow] essentially enabling the fleet to operate like a giant autonomous fleet.
+3. [Sentence #806]  (TSLA_Q2_2024) Is Tesla still in talks with an OEM to license [white on yellow]FSD[/white on yellow]?
+4. [Sentence #814]  (TSLA_Q2_2024) It's been actually helpful in advancing [white on yellow]full[/white on yellow] self-driving and in building up the new Tesla data center.
+5. [Sentence #1972]  (TSLA_Q4_2024) What we're seeing is at this point, significant interest from a number of major car companies about licensing Tesla [white on yellow]full[/white on yellow] self-driving technology.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #211]  (TSLA_Q1_2024) (Similarity: 0.814) The next question, have any of the legacy automakers contacted Tesla about possibly licensing [white on yellow]FSD[/white on yellow] in the future?
+2. [Sentence #806]  (TSLA_Q2_2024) (Similarity: 0.790) Is Tesla still in talks with an OEM to license [white on yellow]FSD[/white on yellow]?
+3. [Sentence #693]  (TSLA_Q2_2024) (Similarity: 0.768) Although the numbers sound crazy, I think Tesla producing at volume with unsupervised [white on yellow]FSD[/white on yellow] essentially enabling the fleet to operate like a giant autonomous fleet.
+4. [Sentence #1972]  (TSLA_Q4_2024) (Similarity: 0.744) What we're seeing is at this point, significant interest from a number of major car companies about licensing Tesla [white on yellow]full[/white on yellow] self-driving technology.
+5. [Sentence #814]  (TSLA_Q2_2024) (Similarity: 0.737) It's been actually helpful in advancing [white on yellow]full[/white on yellow] self-driving and in building up the new Tesla data center.
+
+Total similarity-top evidence sentences: 5
+
+-----

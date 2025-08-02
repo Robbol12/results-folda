@@ -1,0 +1,21 @@
+[Year 2023] From 2023 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #652]  (TSLA_Q2_2023) And we are already in discussions with -- early discussions with major OEM about using Tesla [white on yellow]FSD[/white on yellow].
+2. [Sentence #1001]  (TSLA_Q2_2023) I think the Tesla fleet value increase at the point which we can upload [white on yellow]full[/white on yellow] self-driving and is approved by regulators will be the single biggest step change in asset value maybe in history.
+3. [Sentence #1009]  (TSLA_Q2_2023) And would Tesla benefit from lowering the price of [white on yellow]FSD[/white on yellow]?
+4. [Sentence #1151]  (TSLA_Q3_2023) Regarding Autopilot and AI, our vehicles are now driven over 0.5 billion miles with [white on yellow]FSD[/white on yellow] beta, [white on yellow]full[/white on yellow] self-driving beta, and that number is growing rapidly.
+5. [Sentence #1308]  (TSLA_Q3_2023) Is Tesla planning to accept legal liability for [white on yellow]FSD[/white on yellow]?
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #1151]  (TSLA_Q3_2023) (Similarity: 0.815) Regarding Autopilot and AI, our vehicles are now driven over 0.5 billion miles with [white on yellow]FSD[/white on yellow] beta, [white on yellow]full[/white on yellow] self-driving beta, and that number is growing rapidly.
+2. [Sentence #1308]  (TSLA_Q3_2023) (Similarity: 0.753) Is Tesla planning to accept legal liability for [white on yellow]FSD[/white on yellow]?
+3. [Sentence #1001]  (TSLA_Q2_2023) (Similarity: 0.743) I think the Tesla fleet value increase at the point which we can upload [white on yellow]full[/white on yellow] self-driving and is approved by regulators will be the single biggest step change in asset value maybe in history.
+4. [Sentence #1009]  (TSLA_Q2_2023) (Similarity: 0.724) And would Tesla benefit from lowering the price of [white on yellow]FSD[/white on yellow]?
+5. [Sentence #652]  (TSLA_Q2_2023) (Similarity: 0.724) And we are already in discussions with -- early discussions with major OEM about using Tesla [white on yellow]FSD[/white on yellow].
+
+Total similarity-top evidence sentences: 5
+
+-----

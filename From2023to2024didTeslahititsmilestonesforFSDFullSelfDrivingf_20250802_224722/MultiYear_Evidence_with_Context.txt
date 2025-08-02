@@ -1,0 +1,643 @@
+[Multi-Year Analysis] From 2023 to 2024, did Tesla hit its milestones for FSD (Full Self-Driving) functionality rollouts as described in quarterly updates?
+
+1. [Sentence #2297, TSLA_Q3_2023] [PILOT]
+     And then on top of it, once you add autonomy to it, like even said, it becomes meaningless to you think about the short-term.
+     Travis Axelrod
+
+Okay.
+     I think that's unfortunately all the time we have for today.
+     We appreciate all of your questions.
+     We look forward to talking to you next quarter.
+     Thank you very much and goodbye.
+     --- TSLA_Q3_2023 ---
+Elon Musk
+
+[Call Starts Abruptly]…of new factories and we believe there’s still meaningful room for improvement there.
+>>> Regarding Autopilot and AI, our vehicles are now driven over 0.5 billion miles with FSD beta, full self-driving beta, and that number is growing rapidly.
+     We recently completed a 10,000 GPU cluster of H100s.
+     We think probably bring it into operation faster than anyone’s ever brought that much compute per unit time into production, since training is the fundamental limiting factor on progress with full self-driving and vehicle autonomy.
+     We’re also seeing significant promise with FSD version 12.
+     This is the end-to-end AI where it’s photon count in, controls out.
+     Really you can think of it as there’s just a large bitstream coming in and a tiny bitstream going out, compressing reality into a very small set of outputs, which is actually kind of how humans work.
+     The vast majority of human data input is optics from our eyes.
+     And so, we are like the car, photons in, controls out with neural nets, just neural nets in the middle.
+-----
+2. [Sentence #796, TSLA_Q1_2024] [SCALE ACHIEVED]
+     Lars Moravy
+
+I can take that one too.
+     Cybertruck had 1K a week just a couple of weeks ago.
+     This happened in the first four to five months since we SOP [ph] late last year.
+     Of course, volume production is what matters.
+     That’s what drives costs and so our costs are dropping, but the ramp still faces like a lot of challenges with so many new technologies, some supplier limitations, et cetera, and continue to ramp this year, just focusing on cost efficiency and quality.
+     Martin Viecha
+
+Okay.
+     Thank you.
+>>> The next question, have any of the legacy automakers contacted Tesla about possibly licensing FSD in the future?
+     Elon Musk
+
+We’re in conversations with one major automaker regarding licensing FSD.
+     Martin Viecha
+
+Thank you.
+     The next question is about the robotaxi unveil.
+     Elon already talked about that.
+     So we’ll have to wait till August.
+     The following question is about the next-generation vehicle.
+     We already talked about that.
+-----
+3. [Sentence #1955, TSLA_Q2_2024] [UNCERTAIN]
+     And I should say that the Cybertaxi or Robotaxi will be produced here at our headquarters at Giga Texas.
+     Travis Axelrod
+
+All right.
+     Thank you.
+     Elon Musk
+
+And as well Optimus towards the end of next year for Optimus production Version 2, the high volume version of Optimus will also be produced here in Texas.
+     Travis Axelrod
+
+Great.
+     Thank you.
+     Just a couple more.
+>>> Is Tesla still in talks with an OEM to license FSD?
+     Elon Musk
+
+There are a few major OEMs that have expressed interest in licensing Tesla full self-driving.
+     And I suspect there will be more over time.
+     But we can't comment on the details of those discussions.
+     Travis Axelrod
+
+All right.
+     Thank you.
+     And the last one, any updates on investing in xAI and integrating Grok into Tesla software?
+     Elon Musk
+
+I should say Tesla is learning quite a bit from xAI.
+-----
+4. [Sentence #1842, TSLA_Q2_2024] [UNCERTAIN]
+     For the energy business, this is growing faster than anything else.
+     This is -- we are really demand constrained rather than production constrained.
+     So we are ramping up production in our U.S. factory as well as building the Megapack factory in China that should roughly double our output, maybe more than double -- maybe triple potentially.
+     So in conclusion, we are super excited about the progress across the board.
+     We are changing the energy system, how people move around, how people approach the economy.
+     The undertaking is massive, but I think the future is incredibly bright.
+     I really just can't emphasize just the importance of autonomy for the vehicle side and for Optimus.
+>>> Although the numbers sound crazy, I think Tesla producing at volume with unsupervised FSD essentially enabling the fleet to operate like a giant autonomous fleet.
+     And it takes the valuation, I think, to some pretty crazy number.
+     ARK Invest thinks, on the order of $5 trillion, I think they are probably not wrong.
+     And long-term Optimus, I think, it achieves a valuation several times that number.
+     I want to thank the Tesla team for a strong execution and looking forward to exciting years ahead.
+     Travis Axelrod
+
+Great.
+     Thank you very much, Elon, and Vaibhav has opening remarks as well.
+     Vaibhav Taneja
+
+Thanks.
+-----
+5. [Sentence #2454, TSLA_Q3_2023] [PILOT]
+     Martin Viecha
+
+Thank you.
+     The next question is, why was the price dropped on FSD if it is getting better and robotaxi is expected so soon?
+     Elon Musk
+
+Well, we just wanted to make it more affordable as more people try it.
+     Yes, I think, over time, the price of FSD will increase proportionate to its value.
+     So we regard the current price as a kind of a temporary low.
+     Martin Viecha
+
+The next question is again on FSD.
+     Mercedes is accepting legal liability for when its Level 3 autonomous driving system drive pilot is active.
+>>> Is Tesla planning to accept legal liability for FSD?
+     And if so, when?
+     Elon Musk
+
+Well, there’s a lot of people that assume we have legal liability judging by the lawsuits.
+     We’re certainly not being let that off the hook on that front, whether we’d like to or wouldn’t like to do.
+     Unidentified Company Representative
+
+I mean I think it’s important to remember for everyone that Mercedes’ system is limited to roads in Nevada and some certain cities in California, doesn’t work in the snow or the fog.
+     It must have a lead car in plains, only 40 miles per hour.
+     Our system is meant to be holistic and drive in any conditions, so we obviously have a much more capable approach.
+     But with those kind of limitations, it’s really not very useful.
+-----
+6. [Sentence #4194, TSLA_Q4_2024] [PLAN]
+     So, it's really from a -- the only thing holding us back is an excess of caution.
+     But people can certainly get a feel for how well the car would perform as unsupervised FSD by simply having a car -- allowing the car to drive you around your city and see how many times did you have to intervene, not where you wanted to intervene or were little concerned.
+     But how many times did you have to be intervened for definite safety reasons?
+     And you will find that that is currently very rare and over time, almost never.
+     Travis Axelrod -- Head of Investor Relations
+
+Great.
+     The next question is, are there any discussions with other auto companies about licensing FSD?
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+Yeah.
+>>> What we're seeing is at this point, significant interest from a number of major car companies about licensing Tesla full self-driving technology.
+     What we've generally said is the best way to know what to do is take one of our cars apart.
+     And then you can see where the placement of the cameras are, what the thermal needs are of the Tesla AI inference computer.
+     That's better than us selling CAD drawings.
+     And then we're only going to entertain situations where the volume would be very -- otherwise, it's not worth the complexity.
+     And we will not burden our engineering team with laborious discussions with other engineering teams until we obviously have unsupervised full self-driving working throughout the United States.
+     I think the interest level from other manufacturers to license FSD will be extremely high once it is obvious that unless you have FSD, you're dead.
+     Travis Axelrod -- Head of Investor Relations
+
+Great.
+-----
+7. [Sentence #1640, TSLA_Q2_2023] [UNCERTAIN]
+     It’s just that you can think of every car that we sell or produce that has full autonomy capability as actually something that in the future may be worth as much as 5 times what it is today.
+     Because average -- vehicle is doing like maybe 10 hours of driving a week.
+     If sort of -- if this says 1.5 hours a day on average, that’s 10 hours a week-ish.
+     If you’ve got on autonomous -- if the vehicle is able to operate autonomously and use either dedicated autonomous or partially autonomous like Airbnb, like maybe sometimes you allow your car to be used by others.
+     Sometimes you want to use it exclusively just like Airbnb -- doing Airbnb with a room in your house.
+     The value is just tremendous.
+     So, I think it’s sort of, it would be -- I think it -- it does make sense to sacrifice margins in favor of making more vehicles because we think in the not too distant future, they will have a dramatic valuation increase.
+>>> I think the Tesla fleet value increase at the point which we can upload full self-driving and is approved by regulators will be the single biggest step change in asset value maybe in history.
+     Martin Viecha
+
+Thank you.
+     Let’s go to the next analyst.
+     The question comes from Emmanuel Rosner from Deutsche Bank.
+     Emmanuel Rosner
+
+Two questions from me as well.
+     First, following up on the autonomy.
+     So before you start launching these dedicated robotaxi vehicles, on existing vehicles, you’re improving FSD incrementally.
+     What is your latest targeted timing to essentially release a non-beta version or an eyes-off version that would trigger much higher take rates?
+-----
+8. [Sentence #1963, TSLA_Q2_2024] [PLAN]
+     Elon Musk
+
+There are a few major OEMs that have expressed interest in licensing Tesla full self-driving.
+     And I suspect there will be more over time.
+     But we can't comment on the details of those discussions.
+     Travis Axelrod
+
+All right.
+     Thank you.
+     And the last one, any updates on investing in xAI and integrating Grok into Tesla software?
+     Elon Musk
+
+I should say Tesla is learning quite a bit from xAI.
+>>> It's been actually helpful in advancing full self-driving and in building up the new Tesla data center.
+     With -- regarding investing in xAI, I think, we need to have a shareholder approval of any such investment.
+     But I'm certainly supportive of that if shareholders are, the group -- probably, I think we need a vote on that.
+     And I think there are opportunities to integrate Grok into Tesla's software, yes.
+     Travis Axelrod
+
+All right.
+     Thanks very much.
+     And now we will move on to analyst questions.
+     The first question comes from Will Stein from Truist.
+-----
+9. [Sentence #1648, TSLA_Q2_2023] [UNCERTAIN]
+     Martin Viecha
+
+Thank you.
+     Let’s go to the next analyst.
+     The question comes from Emmanuel Rosner from Deutsche Bank.
+     Emmanuel Rosner
+
+Two questions from me as well.
+     First, following up on the autonomy.
+     So before you start launching these dedicated robotaxi vehicles, on existing vehicles, you’re improving FSD incrementally.
+     What is your latest targeted timing to essentially release a non-beta version or an eyes-off version that would trigger much higher take rates?
+>>> And would Tesla benefit from lowering the price of FSD?
+     Elon Musk
+
+Well, obviously, as people have sort of made fun of me and perhaps quite fairly have made fun of me, my predictions about achieving full self-driving have been optimistic in the past.
+     The reason I’ve been optimistic is -- it tends to look like is the -- we’ll make rapid progress with a new version of FSD, but then it will curve over logarithmically.
+     So first, logarithmic curve looks like just sort of fairly straight upward line, diagonally up.
+     And so, if you extrapolate that, then you have a great thing.
+     But then because it’s actually logarithmic, it curves over, and then there have been a series of stacked logarithmic curves.
+     Now, I’m the boy who cried FSD, but I think we’ll be better than human by the end of this year.
+     That’s not to say we’re approved by regulators.
+-----
+10. [Sentence #1291, TSLA_Q2_2023] [UNCERTAIN]
+     Some other highlights.
+     Our global Supercharging network now stands at over 50,000 -- roughly 50,000 connectors and over 5,000 locations.
+     As I think a lot of people are aware, the Tesla Charging Standard, which we made open source and it’s now called the North American Charging Standard.
+     We’re deeply honored that Ford, GM, Mercedes and many other OEMs have signed up to use our connector and gain access to our charging network.
+     We strongly believe in helping other car companies to accelerate the EV revolution and just trying to do the right thing in general.
+     So, that’s the goal there.
+     Then something I think, I want emphasize, like very strongly, this is a very important point is that Tesla -- just as with the North American Charging Standard, although we’re not license -- in that case not licensing, we’re just making it available, but we are very open to licensing our full self-driving software and hardware to other car companies.
+>>> And we are already in discussions with -- early discussions with major OEM about using Tesla FSD.
+     So, we’re not trying to keep this to ourselves.
+     We’re more than happy to license it to others.
+     And lastly, our new lithium refinery and cathode facility are progressing well.
+     In conclusion, we continue to focus on making as many cars as we can, while maintaining healthy financials.
+     Our artificial intelligence development is obviously entering a new era and we’re incredibly excited about what’s to come.
+     Our other businesses such as Megapack, Supercharging service and whatnot, all started to become a meaningful contributor to overall profitability this quarter.
+     And then lastly, I’d just like to profusely thank all of our employees who are making a lot of extra effort during uncertain times.
+-----
+11. [Sentence #4114, TSLA_Q4_2024] [UNCERTAIN]
+     This will drive the demand of stationary battery packs and especially the grid-scale ones to and saying basically as much demand as we can possibly make.
+     So, we have our second factory, which is in Shanghai, that's starting operation, and we're building a third factory.
+     So, we're trying to ramp output of the stationary battery storage as quickly as possible.
+     Now there is a challenge here where we have to be careful to -- that were not robbing from 1 pocket to take to another pocket because for a given gigawatt hours per year of the cell output, does it go into stationary applications or mobile applications?
+     It can't go both into both so we have to make that trade-off, yes.
+     But overall, the demand for total gigawatt hours of batteries, whether mobile or stationary, that will grow in a very, very big way over time.
+     So, in conclusion, 2025 really is a pivotal year for Tesla.
+>>> And when we look back on 2025 and the launch of unsupervised full self-driving, true real-world AI that actually works, I think we may regard it as the biggest year in Tesla history, maybe even bigger than Atlas car, or the Model S or the Model 3 or Model Y.
+     In fact, I think it probably will be viewed '25 as maybe the most important year in Tesla's history.
+     There is no company in the world that is as good in real-world AI as Tesla.
+     I don't even know who's in second place.
+     Like you say, like, who's in the second place for real-world AI?
+     I would need a very big telescope to see them.
+     That's how far behind they are.
+     All right.
+-----
+12. [Sentence #2832, TSLA_Q3_2024] [PILOT]
+     And the release of actually Smart -- we try to have a sense of humor here.
+     And we're also -- so that's 12.5.
+     Version 13 of FSD is going out soon.
+     will elaborate more on that later in the call.
+     We expect to see roughly a five- or sixfold improvement in miles between interventions compared to 12.5.
+     And actually, looking at the year as whole, the improvement in miles interventions, we think will be at least three orders of magnitude.
+     So, that's a very dramatic improvement in the course of the year, and we expect that trend to continue next year.
+>>> So, the current total expectation, internal expectation for the Tesla FSD having longer miles between versions than human is the second quarter of next year, which means it may end up being in the third quarter, but it's next -- it seems extremely likely to be next year.
+     Ashok, do you want to say anything?
+     Ashok Elluswamy -- Director, Autopilot Software
+
+Yeah.
+     Miles between critical interventions, like you mentioned, Elon, we already made 100x improvement with 12.5 from starting of this year and then with v13 release.
+     We expect to be 1,000x from the beginning, from January of this year on production software.
+     And this came in because of technology improvements going to end to end, having higher frame rate, partly also helped by Hardware force, more capabilities, so on.
+     And we hope that we continue to scale the neural network, the data, the training compute, etc.
+     By Q2 next year, we should cross over the average, even in miles per critical intervention collision, in that case.
+-----
+13. [Sentence #950, TSLA_Q1_2024] [UNCERTAIN]
+     Let's go to Mark Delaney from Goldman Sachs.
+     Mark please go ahead and unmute.
+     Mark Delaney
+
+Yes.
+     Good afternoon.
+     Thanks very much for taking the question.
+     The company previously characterized potential FSD licensing discussions in the early phase and some OEMs had not really been believing in it.
+     Can you elaborate on how much the licensing business opportunity you mentioned today has progressed?
+>>> And is there anything Tesla needs to achieve with the technology in terms of product milestones in order to be successful at reaching a licensing agreement in your view?
+     Elon Musk
+
+Well, I think we just need to – it just needs to be obvious that our approach is the right approach.
+     And I think it is.
+     I think we've now with 12.3, if you just have the car drive you around; it is obvious that our solution with a relatively low-cost inference computer and standard cameras can achieve self-driving.
+     No LiDARs, no radars, no ultrasonic nothing.
+     Vaibhav Taneja
+
+No heavy integration work for vehicle manufacturers.
+     Elon Musk
+
+Yes.
+     So it really just be a case of having them use the same cameras and inference computer and licensing our software.
+-----
+14. [Sentence #1814, TSLA_Q2_2024] [UNCERTAIN]
+     And we are investing in many future projects, including AI training and inference and great deal of infrastructure to support future products.
+     We won't get too much into the product roadmap here, because that is reserved for product announcement events.
+     But we are on track to deliver a more affordable model in the first half of next year.
+     The big -- really by far the biggest differentiator for Tesla is autonomy.
+     In addition to that, we've scale economies and we're the most efficient electric vehicle producer in the world.
+     So, this, anyway -- while others are pursuing different parts of the AI robotic stack, we are pursuing all of them.
+     This allows for better cost control, more scale, quicker time to market, and a superior product, applying not to -- not just to autonomous vehicles, but to autonomous humanoid robots like Optimus.
+>>> Regarding Full Self-Driving and Robotaxi, we've made a lot of progress with Full Self-Driving in Q2 and with version 12.5 beginning rollout, we think customers will experience a step change improvement in how well supervised full self-driving works.
+     Version 12.5 has 5x the parameters of 12.4 and will finally merge the highway and city stacks.
+     So the highway stack is still at this point is pretty old.
+     So often the issues people encounter are on highway, but with 12.5, we are finally merged the two stacks.
+     I still find that most people actually don't know how good the system is, and I would encourage anyone to understand the system better, to simply try it out and let the car drive you around.
+     One of the things we're going to be doing just to make sure people actually understand the capabilities of the car is when delivering a new car and when picking up a car for service to just show people how to use it and just drive them around the block.
+     Once people use it at all they tend to continue using it.
+     So it's very compelling.
+-----
+15. [Sentence #1158, TSLA_Q1_2024] [PLAN]
+     It's not like we want to take on a whole bunch of problems just for the hell of it.
+     We did the cell program in order to address the crazy increase in cost per kilowatt hour from our suppliers due to gigantic orders placed by every carmaker on earth.
+     Martin Viecha
+
+Okay.
+     Thank you.
+     And the last question comes from Ben Kallo from Baird.
+     Ben, go ahead and unmute.
+     Ben, you're still muted.
+>>> Elon Musk
+
+Well, I want to say again, we'd just like to strongly recommend that anyone who is, I guess, thinking about the Tesla stock should really drive FSD 12.3.
+     It really – you can't – it's impossible to understand the company if you do not do this.
+     Martin Viecha
+
+All right.
+     So since Ben is not unmuting.
+     Let's try Shreyas Patil from Wolfe Research.
+     Final question.
+     Shreyas Patil
+
+Thanks so much.
+     Just Elon, during the Investor Day last year, you mentioned that auto COGS per unit for the next-gen vehicle would decline by 50% versus the current three and Y. I think that was implying something around $20,000 of COGS.
+-----
+16. [Sentence #1956, TSLA_Q2_2024] [UNCERTAIN]
+     Travis Axelrod
+
+All right.
+     Thank you.
+     Elon Musk
+
+And as well Optimus towards the end of next year for Optimus production Version 2, the high volume version of Optimus will also be produced here in Texas.
+     Travis Axelrod
+
+Great.
+     Thank you.
+     Just a couple more.
+     Is Tesla still in talks with an OEM to license FSD?
+>>> Elon Musk
+
+There are a few major OEMs that have expressed interest in licensing Tesla full self-driving.
+     And I suspect there will be more over time.
+     But we can't comment on the details of those discussions.
+     Travis Axelrod
+
+All right.
+     Thank you.
+     And the last one, any updates on investing in xAI and integrating Grok into Tesla software?
+     Elon Musk
+
+I should say Tesla is learning quite a bit from xAI.
+     It's been actually helpful in advancing full self-driving and in building up the new Tesla data center.
+-----
+17. [Sentence #226, TSLA_Q1_2023] [UNCERTAIN]
+     Let's go to the next analyst, George from Canaccord.
+     Go ahead and unmute.
+     George Gianarikas
+
+Hi.
+     Thanks for taking my question.
+     I was wondering, first, if you could discuss your FSD take rates and whether you've seen any significant positive or negative change there?
+     And also, given that you've reduced the prices for your vehicles, do you think you need to do that for FSD as well?
+     Thanks.
+>>> Elon Musk
+
+Well, I can kind of answer the details on the FSD take rate, but the -- it's a tricky pricing question, because the value of a car that is autonomous is enormous.
+     So in a way, the price right now is an option value on an autonomous vehicle.
+     And that value is -- that will ultimately be very significant.
+     And it's really -- yes.
+     I mean, for those that are using the FSD beta, I think you can see the improvements are really quite dramatic.
+     There'll be a little bit of two steps forward, one step back between releases for those trying the beta.
+     But the trend is very clearly towards full self-driving, towards full autonomy.
+     And I hesitate to say this, but I think we'll do it this year.
+-----
+18. [Sentence #4308, TSLA_Q4_2024] [UNCERTAIN]
+     We released the 12.6 release recently, which was like a baby V13, but it's a significant improvement compared to what they had previously.
+     People are still finding ways to distill larger models in the smaller models.
+     So, we're not giving up on Hardware.
+     We're still working on it.
+     Just will trail the Hardware 4 releases.
+     Travis Axelrod -- Head of Investor Relations
+
+Great.
+     Thanks.
+>>> Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+I mean, I think the honest answer is that we're going to have to upgrade people's Hardware 3 computer for those that have bought full self-driving, and that is the honest answer and that's going to be painful and difficult but we'll get it done.
+     Now I'm kind of glad that not that many people bought the FSD package.
+     Travis Axelrod -- Head of Investor Relations
+
+Thanks, Elon.
+     The next question, has Tesla given up on ramping their solar roof product?
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+Sorry, Mike, go ahead.
+     Unknown speaker -- -- Analyst
+
+Yes, I can take it.
+     Yes, solar roof is a core part of the residential product portfolio and it still remains.
+     It draws a lot of customer interest despite it being premium products.
+-----
+19. [Sentence #1392, TSLA_Q2_2023] [PLAN]
+     As you mentioned, Zach, we’ve naturally been a little bit hedged from the lithium position because of the long-term contracts we have in place.
+     But we have seen reduction in pricing across the board for all commodities that specifically go into batteries such as nickel, cobalt and graphite.
+     And the reductions in pricing translate into thousands of dollars when you look at it from a per-vehicle impact.
+     We’re taking advantage of the historically low commodity pricing and certainly [Indiscernible] to kind of extend some of those fixed price contracts through the end of the decade.
+     So it’s a playbook that we’ll continue to kind of go back to as we look to the future.
+     Martin Viecha
+
+Thank you.
+     The next question on FSD.
+>>> Have you considered allowing FSD transferability as a lever to allow existing customers to upgrade to a new Tesla instead of being locked into an existing car due to the price of FSD?
+     Elon Musk
+
+Yes.
+     This is a question we get asked a lot.
+     So, we’re excited to announce that for Q3, we will be allowing transfer of FSD.
+     This is a onetime amnesty.
+     So, it needs to be -- you need to take advantage of it in Q3, but -- or at least place the order in Q3 within reasonable delivery time frames.
+     So yes, I hope this makes people happy.
+     This is a onetime thing.
+-----
+20. [Sentence #40, TSLA_Q1_2023] [PILOT]
+     So with regard to Megapack, we're making great progress.
+     Our energy storage deployment reached nearly 4 gigawatt hours in Q1.
+     This is, by far, the strongest quarter ever.
+     And this growth was achieved thanks to the ongoing ramp at our Mega factory in Lathrop, California.
+     There's still some way to go to reach the [Indiscernible] rate of 40 gigawatt hours per year.
+     And then we additionally announced the start of a new Mega factory in Shanghai.
+     So we're -- as we've expected, the stationary storage growth actually will significantly exceed the vehicle growth.
+>>> Regarding Autopilot and Full Self-Driving, we've now crossed over 150 million miles driven by Full Self-Driving beta, and this number is growing exponentially.
+     We're -- I mean, this is a data advantage that really no one else has.
+     Those who understand AI will understand the importance of data -- of training data and how fundamental that is to achieving an incredible outcome.
+     So, yes, so we're also very focused on improving our neural net training capabilities as is one of the main limiting factors of achieving full autonomy.
+     So, we're continuing to simultaneously make significant purchases of NVIDIA GPUs and also putting a lot of effort into Dojo, which we believe has the potential for an order of magnitude improvement in the cost of training.
+     And it also -- Dojo also has the potential to become a sellable service that we would offer to other companies in the same way that Amazon Web Services offers web services, even though it started out as a bookstore.
+     So, I really think that, yes, the Dojo potential is very significant.
+     In conclusion, we're taking a view that we want to keep making and selling as many cars as we can.
+-----
+21. [Sentence #2131, TSLA_Q2_2024] [PLAN]
+     So it's -- there's this capability I think in our experience, once we demonstrate that something is safe enough or significantly safer than human.
+     We are fine that regulators are supportive of deploying deployment of that capability.
+     It's difficult to argue with if you -- if you've got a large number of -- yes, if you've got billions of miles that show that in the future unsupervised FSD is safer than human.
+     What regulator could really stand in the way of that?
+     They would -- they're morally obligated to approve.
+     So I don't think regulatory approval will be a limiting factor.
+     I should also say that the self-driving capabilities of this are deployed outside of North America are far behind that in, in North America.
+>>> So with the -- with Version 12.5, and maybe a 12.6, but pretty soon we will ask for regular regulatory approval of the Tesla supervised FSD in Europe, China, and other countries.
+     And I, I think we're likely to receive that before the end of the year, which will be a helpful demand driver in those regions obviously.
+     Travis Axelrod
+
+Thank you.
+     Just to …
+
+Elon Musk
+
+Go ahead, Travis.
+     Travis Axelrod
+
+In terms of like, as Elon said, in terms of regulatory approval, the vehicles are governed by FMVSS in U.S., which is the same across all 50 states.
+     The road rules are the same across all 50 states.
+     So creating a generalized solution gives us the best opportunity to deploy in all 50 states, reasonably.
+     Of course there are state and even local and municipal level regulations that may apply to, being a transportation company or deploying taxes.
+-----
+22. [Sentence #1897, TSLA_Q2_2024] [PLAN]
+     The first question is, what is the status on the Roadster?
+     Elon Musk
+
+With respect to Roadster, we've completed most of the engineering.
+     And I think there's still some upgrades we want to make to it, but we expect to be in production with Roadster next year.
+     It will be something special, like the whole thing [Indiscernible].
+     Travis Axelrod
+
+Fantastic.
+     The next question is about timing of Robotaxi event, which we've already covered.
+     So we'll go to the next question, when do you expect the first Robotaxi ride?
+>>> Elon Musk
+
+I guess that, that's really just a question of when can we expect the first -- or when can we do unsupervised full self-driving.
+     It's difficult, obviously, my predictions on this have been overly optimistic in the past.
+     So I mean, based on the current trend, it seems as though we should get miles between interventions to be high enough that -- to be far enough in excess of humans that you could do unsupervised possibly by the end of this year.
+     I would be shocked if we cannot do it next year.
+     So next year seems highly probable to me based on [quite simply] (ph) plus the points of the curve of miles between intervention.
+     That trend exceeds humans for sure next year, so yes.
+     Travis Axelrod
+
+Thank you very much.
+     Our third question is, the Cybertruck is an iconic product that wows everyone who sees it.
+-----
+23. [Sentence #4053, TSLA_Q4_2024] [UNCERTAIN]
+     In fact, even $500 billion training compute in that situation will be quite a good deal.
+     Yes, the future is going to be incredibly different from the past, that's for sure.
+     We live at this unbelievable inflection point in human history.
+     So, yes, so the proof is in the pudding.
+     So, we're going to be launching unsupervised full self-driving as a paid service in Austin in June.
+     So, I talked to the team.
+     We feel confident in being able to do an initial launch of unsupervised, no one in the car, full self-driving in Austin in June.
+>>> We already have Teslas operating autonomously unsupervised full self-driving at our factory in Fremont, and we'll soon be doing that at our factory in Texas.
+     So, thousands of cars every day are driving with no one in them at our Fremont factory in California, that we'll soon be doing that in Austin and then elsewhere in the world, the rest of our factories, which is pretty cool.
+     And the cars aren't just driving to exactly the same spot because, obviously, they want to collide at the same spot.
+     The cars are actually programmed with where -- with what lane they need to park into to be picked up for delivery.
+     So, the drive from the factory end of line to their destination parking spot and to be picked up for delivery to customers and then doing this reliably every day, thousands of times a day.
+     It's pretty cool.
+     Like I said, these Teslas will be in the wild with no one in them in June in Austin.
+     So, what I'm saying is this is not some far-off mythical situation.
+-----
+24. [Sentence #3409, TSLA_Q4_2023] [PLAN]
+     I said for many years that the storage business would grow much faster than the car business, and it is doing that.
+     Free cash flow remains strong at $4.4 billion in 2023, in spite of record spending on future projects.
+     So we had record CapEx expenses as well as record R&D.
+     This brings us to 2024.
+     There's a lot to look forward to in 2024.
+     Tesla is currently between two major growth waves.
+     We're focused on making sure that our next growth wave, driven by next-gen vehicle, energy storage, full self-driving, other projects, is executed as well as possible.
+>>> For full self-driving, we've released Version 12, which is a complete architectural rewrite compared to prior versions.
+     This is end-to-end artificial intelligence.
+     So another bit nets basically photons in and controls out, and it really is quite a profound difference.
+     This is currently just with employees and a few customers, but we will be rolling out to all customers in the U.S. who request full self-driving in the weeks to come.
+     That's over 400,000 vehicles in North America.
+     So this is the first-time AI is being used, not just for object perception, but for path planning and vehicle controls.
+     We replaced 330,000 lines of C++ code with neural nets.
+     It's really quite remarkable.
+-----
+25. [Sentence #1269, TSLA_Q2_2023] [PILOT]
+     And I really just don’t know how anyone could do what we’re doing, even if they had our software and had our computer, if they did not have the training data.
+     So, speaking of which, our Dojo training computer is designed to significantly reduce the cost of neural net training.
+     It is designed to -- it’s somewhat optimized for the kind of training that we need, which is a video training.
+     So, we just see that the need for neural net training -- again, talking -- speaking of quasi-infinite things, is just enormous.
+     So, I think having -- we expect to use both, NVIDIA and Dojo, to be clear.
+     But there’s -- we just see demand for really vast training resources.
+     And we think we may reach in-house neural net training capability of a 100 exaflops by the end of next year.
+>>> So, to date, over 300 million miles have been driven using FSD beta.
+     That 300 million mile number is going to seem small very quickly.
+     It’ll soon be billions of miles, then tens of billions of miles.
+     And FSD will go from being as good as a human to then being vastly better than a human.
+     We see a clear path to full self-driving being 10 times safer than the average human driver, so.
+     And between Autopilot, Dojo computer, our inference hardware in the car, which we call sort of Hardware 3, 4, but it’s really dedicated.
+     It’s a high efficiency inference computer that’s in the car and our Optimus robot, Tesla’s clearly at the cutting edge of AI development.
+     With regard to our Cybertruck, we continue to build our release candidates of the Cybertruck on our final production line in Austin.
+-----
+26. [Sentence #4385, TSLA_Q4_2024] [UNCERTAIN]
+     Or other way around, where would it be off most likely in your mind that you say, "Hey, I need to go back there and I need to change something to enable the team better?"
+     Elon Reeve Musk -- Chief Executive Officer and Product Architect
+
+SP1 Well, I mean, I think the predictions that I'm making here are going to be pretty accurate.
+     And it's worth nothing that sometimes people say, Elon's always late.
+     Well, actually, no, the problems of the media reports on when I'm late but never reports when I'm early.
+     So, sure, I'm optimistic but I'm not that optimistic.
+     There are many cases in past where actually we've been early such as completion of the Shanghai factory or the factory completion has generally been ahead of schedule, not behind.
+     So, yes.
+>>> But I'm very confident we'll have released unsupervised full self-driving, fully autonomous Teslas in Austin and several other cities in America by the end of this year, as probably everywhere in America next year, at everywhere in North America, at least.
+     I think in terms of next year, our constraints, I think it's likely to be just regulatory.
+     Like Europe really has, for example, Europe is a layer cake of regulations of bureaucracy, which that really needs to be addressed.
+     This is a like America innovates, Europe regulates.
+     So, guys, there's too many reps in the field.
+     For example, for us, just to release unsupervised full self-driving in Europe, even though it works really well, we have to go through a mountain of paperwork with the Netherlands, which is our primary regulatory authority.
+     Then the Netherlands presents us to the EU in, I think, May.
+     And there's like this EU country committee.
+-----
+27. [Sentence #3408, TSLA_Q4_2023] [PLAN]
+     And yeah, I think we'll continue to see very strong growth in storage, as predicted.
+     I said for many years that the storage business would grow much faster than the car business, and it is doing that.
+     Free cash flow remains strong at $4.4 billion in 2023, in spite of record spending on future projects.
+     So we had record CapEx expenses as well as record R&D.
+     This brings us to 2024.
+     There's a lot to look forward to in 2024.
+     Tesla is currently between two major growth waves.
+>>> We're focused on making sure that our next growth wave, driven by next-gen vehicle, energy storage, full self-driving, other projects, is executed as well as possible.
+     For full self-driving, we've released Version 12, which is a complete architectural rewrite compared to prior versions.
+     This is end-to-end artificial intelligence.
+     So another bit nets basically photons in and controls out, and it really is quite a profound difference.
+     This is currently just with employees and a few customers, but we will be rolling out to all customers in the U.S. who request full self-driving in the weeks to come.
+     That's over 400,000 vehicles in North America.
+     So this is the first-time AI is being used, not just for object perception, but for path planning and vehicle controls.
+     We replaced 330,000 lines of C++ code with neural nets.
+-----
+28. [Sentence #613, TSLA_Q1_2024] [UNCERTAIN]
+     These new vehicles, including more affordable models, will use aspects of the next generation platform as well as aspects of our current platforms, and will be able to produce on the same manufacturing lines as our current vehicle lineup.
+     So it's not contingent on any new factory or massive new production line.
+     It'll be made on our current production lines much more efficiently.
+     And we think this should allow us to get to over 3 million vehicles of capacity when realized to the full extent.
+     Regarding FSD Version 12, which is the pure AI-based self-driving, if you haven't experienced this, I strongly urge you to try it out.
+     It's profound and the rate of improvement is rapid so – and we've now turned that on for all cars with the cameras and inference computer and everything from Hardware 3 on in North America.
+     So it's been pushed out to, I think, around 1.8 million vehicles and we're seeing about half of people use it so far and that percentage is increasing with each passing week.
+>>> So, we now have over 300 billion miles that have been driven with FSD V12.
+     Since the launch of full self-driving, supervised full self-driving, it's become very clear that the vision-based approach with end-to-end neural networks is the right solution for scalable autonomy.
+     It's really how humans drive.
+     Our entire road network is designed for biological neural nets and eyes.
+     So naturally cameras and digital neural nets are the solution to our current road system.
+     To make it more accessible, we've reduced the subscription price to $99 a month, so it's easy to try out.
+     And as we've announced, we'll be showcasing our purpose-built Robotaxi, or Cybercab, in August.
+     Yes.
+-----
+29. [Sentence #610, TSLA_Q1_2024] [PLAN]
+     We also continue to expand our AI training capacity in Q1, more than doubling our training compute sequentially.
+     In terms of the new product roadmap, there has been a lot of talk about our upcoming vehicle line in the next – in the past several weeks.
+     We've updated our future vehicle lineup to accelerate the launch of new models ahead, previously mentioned startup production in the second half of 2025, so we expect it to be more like the early 2025, if not late this year.
+     These new vehicles, including more affordable models, will use aspects of the next generation platform as well as aspects of our current platforms, and will be able to produce on the same manufacturing lines as our current vehicle lineup.
+     So it's not contingent on any new factory or massive new production line.
+     It'll be made on our current production lines much more efficiently.
+     And we think this should allow us to get to over 3 million vehicles of capacity when realized to the full extent.
+>>> Regarding FSD Version 12, which is the pure AI-based self-driving, if you haven't experienced this, I strongly urge you to try it out.
+     It's profound and the rate of improvement is rapid so – and we've now turned that on for all cars with the cameras and inference computer and everything from Hardware 3 on in North America.
+     So it's been pushed out to, I think, around 1.8 million vehicles and we're seeing about half of people use it so far and that percentage is increasing with each passing week.
+     So, we now have over 300 billion miles that have been driven with FSD V12.
+     Since the launch of full self-driving, supervised full self-driving, it's become very clear that the vision-based approach with end-to-end neural networks is the right solution for scalable autonomy.
+     It's really how humans drive.
+     Our entire road network is designed for biological neural nets and eyes.
+     So naturally cameras and digital neural nets are the solution to our current road system.
+-----
+30. [Sentence #3412, TSLA_Q4_2023] [PLAN]
+     This brings us to 2024.
+     There's a lot to look forward to in 2024.
+     Tesla is currently between two major growth waves.
+     We're focused on making sure that our next growth wave, driven by next-gen vehicle, energy storage, full self-driving, other projects, is executed as well as possible.
+     For full self-driving, we've released Version 12, which is a complete architectural rewrite compared to prior versions.
+     This is end-to-end artificial intelligence.
+     So another bit nets basically photons in and controls out, and it really is quite a profound difference.
+>>> This is currently just with employees and a few customers, but we will be rolling out to all customers in the U.S. who request full self-driving in the weeks to come.
+     That's over 400,000 vehicles in North America.
+     So this is the first-time AI is being used, not just for object perception, but for path planning and vehicle controls.
+     We replaced 330,000 lines of C++ code with neural nets.
+     It's really quite remarkable.
+     Yeah, sort of, as a side note, I think Tesla is probably the most efficient company in the world for AI inference.
+     Out of necessity, we've actually had to be extremely good at getting the most out of hardware, because Hardware 3 at this point is several years old.
+     So I think we're quite far ahead of any other company in the world in terms of AI and inference efficiency, which is going to be a very important metric in the future in many arenas.
+-----
+
+Total context windows: 30
