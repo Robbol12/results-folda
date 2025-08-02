@@ -1,0 +1,43 @@
+[Multi-Year Analysis] tell me about tesla cybertruck production from 2021-2022
+
+--- Evidence in Transcript Order ---
+1. [Sentence #52]  (TSLA_Q2_2022) Our team continues to focus on [white on yellow]Cybertruck[/white on yellow] [white on yellow]production[/white on yellow] readiness and some future platform design.
+2. [Sentence #53]  (TSLA_Q2_2022) We are expecting to be – still expecting to be in [white on yellow]production[/white on yellow] with the [white on yellow]Cybertruck[/white on yellow] in the middle of next year.
+3. [Sentence #57]  (TSLA_Q4_2021) We will, however, do a lot of engineering and tooling and whatnot to create those vehicles, [white on yellow]Cybertruck[/white on yellow], Semi, Roadster, Optimus, and be ready to bring those to [white on yellow]production[/white on yellow] hopefully next year.
+4. [Sentence #65]  (TSLA_Q1_2022) And we remain on track to reach volume [white on yellow]production[/white on yellow] of the [white on yellow]Cybertruck[/white on yellow] next year.
+5. [Sentence #90]  (TSLA_Q4_2022) This includes expanding in-house cell [white on yellow]production[/white on yellow], bringing [white on yellow]Cybertruck[/white on yellow] to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+6. [Sentence #92]  (TSLA_Q3_2021) The next question, a question from retail shareholder is, what is Tesla 's goal for vehicle [white on yellow]production[/white on yellow] capacity for the four current factories, Fremont, Shanghai, Austin and Berlin by 2024?
+7. [Sentence #165]  (TSLA_Q3_2022) And the next question is, “How is [white on yellow]production[/white on yellow] planning going for the [white on yellow]Cybertruck[/white on yellow]?
+8. [Sentence #182]  (TSLA_Q4_2022) And to be clear, for 2023, [white on yellow]Cybertruck[/white on yellow] will not be a significant contributor to the bottom line but it will be into next year.
+9. [Sentence #231]  (TSLA_Q4_2022) The next question from investors is, is [white on yellow]Cybertruck[/white on yellow] [white on yellow]production[/white on yellow] still on track for mid-year?
+10. [Sentence #262]  (TSLA_Q4_2021) Martin Viecha
+
+And the next question is, what are the biggest obstacles for [white on yellow]Cybertruck[/white on yellow] volume [white on yellow]production[/white on yellow] besides battery shortage?
+11. [Sentence #263]  (TSLA_Q4_2021) Elon Musk
+
+Batteries will probably not be the limiting factor in [white on yellow]Cybertruck[/white on yellow] [white on yellow]production[/white on yellow].
+12. [Sentence #292]  (TSLA_Q2_2022) And the last question is, when will the [white on yellow]Cybertruck[/white on yellow] be officially available?
+
+Total transcript-order evidence sentences: 12
+
+--- Evidence by Similarity ---
+1. [Sentence #90]  (TSLA_Q4_2022) (Similarity: 0.926) This includes expanding in-house cell [white on yellow]production[/white on yellow], bringing [white on yellow]Cybertruck[/white on yellow] to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+2. [Sentence #165]  (TSLA_Q3_2022) (Similarity: 0.920) And the next question is, “How is [white on yellow]production[/white on yellow] planning going for the [white on yellow]Cybertruck[/white on yellow]?
+3. [Sentence #231]  (TSLA_Q4_2022) (Similarity: 0.909) The next question from investors is, is [white on yellow]Cybertruck[/white on yellow] [white on yellow]production[/white on yellow] still on track for mid-year?
+4. [Sentence #262]  (TSLA_Q4_2021) (Similarity: 0.897) Martin Viecha
+
+And the next question is, what are the biggest obstacles for [white on yellow]Cybertruck[/white on yellow] volume [white on yellow]production[/white on yellow] besides battery shortage?
+5. [Sentence #65]  (TSLA_Q1_2022) (Similarity: 0.878) And we remain on track to reach volume [white on yellow]production[/white on yellow] of the [white on yellow]Cybertruck[/white on yellow] next year.
+6. [Sentence #53]  (TSLA_Q2_2022) (Similarity: 0.878) We are expecting to be – still expecting to be in [white on yellow]production[/white on yellow] with the [white on yellow]Cybertruck[/white on yellow] in the middle of next year.
+7. [Sentence #57]  (TSLA_Q4_2021) (Similarity: 0.841) We will, however, do a lot of engineering and tooling and whatnot to create those vehicles, [white on yellow]Cybertruck[/white on yellow], Semi, Roadster, Optimus, and be ready to bring those to [white on yellow]production[/white on yellow] hopefully next year.
+8. [Sentence #52]  (TSLA_Q2_2022) (Similarity: 0.840) Our team continues to focus on [white on yellow]Cybertruck[/white on yellow] [white on yellow]production[/white on yellow] readiness and some future platform design.
+9. [Sentence #263]  (TSLA_Q4_2021) (Similarity: 0.829) Elon Musk
+
+Batteries will probably not be the limiting factor in [white on yellow]Cybertruck[/white on yellow] [white on yellow]production[/white on yellow].
+10. [Sentence #182]  (TSLA_Q4_2022) (Similarity: 0.777) And to be clear, for 2023, [white on yellow]Cybertruck[/white on yellow] will not be a significant contributor to the bottom line but it will be into next year.
+11. [Sentence #292]  (TSLA_Q2_2022) (Similarity: 0.751) And the last question is, when will the [white on yellow]Cybertruck[/white on yellow] be officially available?
+12. [Sentence #92]  (TSLA_Q3_2021) (Similarity: 0.750) The next question, a question from retail shareholder is, what is Tesla 's goal for vehicle [white on yellow]production[/white on yellow] capacity for the four current factories, Fremont, Shanghai, Austin and Berlin by 2024?
+
+Total similarity-top evidence sentences: 12
+
+-----

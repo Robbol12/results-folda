@@ -1,0 +1,27 @@
+[Year 2022] tell me about tesla cybertruck production from 2021-2022
+
+--- Evidence in Transcript Order ---
+1. [Sentence #65]  (TSLA_Q1_2022) And we remain on track to reach volume [white on yellow]production[/white on yellow] of the [white on yellow]Cybertruck[/white on yellow] next year.
+2. [Sentence #609]  (TSLA_Q2_2022) Our team continues to focus on [white on yellow]Cybertruck[/white on yellow] [white on yellow]production[/white on yellow] readiness and some future platform design.
+3. [Sentence #610]  (TSLA_Q2_2022) We are expecting to be – still expecting to be in [white on yellow]production[/white on yellow] with the [white on yellow]Cybertruck[/white on yellow] in the middle of next year.
+4. [Sentence #849]  (TSLA_Q2_2022) And the last question is, when will the [white on yellow]Cybertruck[/white on yellow] be officially available?
+5. [Sentence #1291]  (TSLA_Q3_2022) And the next question is, “How is [white on yellow]production[/white on yellow] planning going for the [white on yellow]Cybertruck[/white on yellow]?
+6. [Sentence #1773]  (TSLA_Q4_2022) This includes expanding in-house cell [white on yellow]production[/white on yellow], bringing [white on yellow]Cybertruck[/white on yellow] to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+7. [Sentence #1865]  (TSLA_Q4_2022) And to be clear, for 2023, [white on yellow]Cybertruck[/white on yellow] will not be a significant contributor to the bottom line but it will be into next year.
+8. [Sentence #1914]  (TSLA_Q4_2022) The next question from investors is, is [white on yellow]Cybertruck[/white on yellow] [white on yellow]production[/white on yellow] still on track for mid-year?
+
+Total transcript-order evidence sentences: 8
+
+--- Evidence by Similarity ---
+1. [Sentence #1773]  (TSLA_Q4_2022) (Similarity: 0.926) This includes expanding in-house cell [white on yellow]production[/white on yellow], bringing [white on yellow]Cybertruck[/white on yellow] to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+2. [Sentence #1291]  (TSLA_Q3_2022) (Similarity: 0.920) And the next question is, “How is [white on yellow]production[/white on yellow] planning going for the [white on yellow]Cybertruck[/white on yellow]?
+3. [Sentence #1914]  (TSLA_Q4_2022) (Similarity: 0.909) The next question from investors is, is [white on yellow]Cybertruck[/white on yellow] [white on yellow]production[/white on yellow] still on track for mid-year?
+4. [Sentence #65]  (TSLA_Q1_2022) (Similarity: 0.878) And we remain on track to reach volume [white on yellow]production[/white on yellow] of the [white on yellow]Cybertruck[/white on yellow] next year.
+5. [Sentence #610]  (TSLA_Q2_2022) (Similarity: 0.878) We are expecting to be – still expecting to be in [white on yellow]production[/white on yellow] with the [white on yellow]Cybertruck[/white on yellow] in the middle of next year.
+6. [Sentence #609]  (TSLA_Q2_2022) (Similarity: 0.840) Our team continues to focus on [white on yellow]Cybertruck[/white on yellow] [white on yellow]production[/white on yellow] readiness and some future platform design.
+7. [Sentence #1865]  (TSLA_Q4_2022) (Similarity: 0.777) And to be clear, for 2023, [white on yellow]Cybertruck[/white on yellow] will not be a significant contributor to the bottom line but it will be into next year.
+8. [Sentence #849]  (TSLA_Q2_2022) (Similarity: 0.751) And the last question is, when will the [white on yellow]Cybertruck[/white on yellow] be officially available?
+
+Total similarity-top evidence sentences: 8
+
+-----
