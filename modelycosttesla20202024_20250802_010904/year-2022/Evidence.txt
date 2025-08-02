@@ -1,0 +1,37 @@
+[Year 2022] model-y cost tesla 2020-2024
+
+--- Evidence in Transcript Order ---
+1. [Sentence #23]  (TSLA_Q1_2022) Additionally, we saw a slight mix shift towards more profitable vehicles, including the ****Model** Y**.
+2. [Sentence #246]  (TSLA_Q1_2022) And so, we don’t want to get complacent or entitled, but this should be a faster ramp because we have learned more, and we have done a lot to simplify the production prices of ****Model** Y** that should lead us to a faster ramp within Texas and Berlin.
+3. [Sentence #783]  (TSLA_Q2_2022) Andrew Baglino
+
+No, I am talking about like our first **Model** Ys.
+4. [Sentence #1329]  (TSLA_Q3_2022) So, with a few thousand heavy trucks of this nature, it would be worth several **Model** Ys.
+5. [Sentence #1635]  (TSLA_Q3_2022) And how do you balance the need for 4680 across Semi, Cybertruck and potentially ****Model** Y** in 2023?
+6. [Sentence #1640]  (TSLA_Q3_2022) We are making **Model** Ys.
+7. [Sentence #1641]  (TSLA_Q3_2022) Some of the **Model** Ys coming out of Giga Texas are 4680.
+8. [Sentence #1642]  (TSLA_Q3_2022) And I think, Drew, the car you drive around is 4680 ****Model** Y**?
+9. [Sentence #1710]  (TSLA_Q4_2022) And we've actually raised the ****Model** Y** price a little bit in response to that.
+10. [Sentence #1756]  (TSLA_Q4_2022) Third, our vehicle mix over the last year has moved more heavily towards ****Model** Y**, which carries a slight **cost** premium to **Model** 3.
+11. [Sentence #1790]  (TSLA_Q4_2022) So $3,700 per long-range **Model** 3 and ****Model** Y**, it's $45 a kilowatt-hour for autos and energy products and how much does Tesla expect to earn in the coming year from these credits?
+
+Total transcript-order evidence sentences: 11
+
+--- Evidence by Similarity ---
+1. [Sentence #1756]  (TSLA_Q4_2022) (Similarity: 1.016) Third, our vehicle mix over the last year has moved more heavily towards ****Model** Y**, which carries a slight **cost** premium to **Model** 3.
+2. [Sentence #1710]  (TSLA_Q4_2022) (Similarity: 0.988) And we've actually raised the ****Model** Y** price a little bit in response to that.
+3. [Sentence #1790]  (TSLA_Q4_2022) (Similarity: 0.941) So $3,700 per long-range **Model** 3 and ****Model** Y**, it's $45 a kilowatt-hour for autos and energy products and how much does Tesla expect to earn in the coming year from these credits?
+4. [Sentence #1640]  (TSLA_Q3_2022) (Similarity: 0.913) We are making **Model** Ys.
+5. [Sentence #23]  (TSLA_Q1_2022) (Similarity: 0.895) Additionally, we saw a slight mix shift towards more profitable vehicles, including the ****Model** Y**.
+6. [Sentence #1635]  (TSLA_Q3_2022) (Similarity: 0.889) And how do you balance the need for 4680 across Semi, Cybertruck and potentially ****Model** Y** in 2023?
+7. [Sentence #1642]  (TSLA_Q3_2022) (Similarity: 0.858) And I think, Drew, the car you drive around is 4680 ****Model** Y**?
+8. [Sentence #246]  (TSLA_Q1_2022) (Similarity: 0.849) And so, we don’t want to get complacent or entitled, but this should be a faster ramp because we have learned more, and we have done a lot to simplify the production prices of ****Model** Y** that should lead us to a faster ramp within Texas and Berlin.
+9. [Sentence #1329]  (TSLA_Q3_2022) (Similarity: 0.835) So, with a few thousand heavy trucks of this nature, it would be worth several **Model** Ys.
+10. [Sentence #1641]  (TSLA_Q3_2022) (Similarity: 0.831) Some of the **Model** Ys coming out of Giga Texas are 4680.
+11. [Sentence #783]  (TSLA_Q2_2022) (Similarity: 0.814) Andrew Baglino
+
+No, I am talking about like our first **Model** Ys.
+
+Total similarity-top evidence sentences: 11
+
+-----

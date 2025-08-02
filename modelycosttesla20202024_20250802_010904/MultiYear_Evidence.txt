@@ -1,0 +1,71 @@
+[Multi-Year Analysis] model-y cost tesla 2020-2024
+
+--- Evidence in Transcript Order ---
+1. [Sentence #14]  (TSLA_Q4_2024) ****Model** Y** was the best-selling vehicle of any kind for 2024.
+2. [Sentence #23]  (TSLA_Q1_2022) Additionally, we saw a slight mix shift towards more profitable vehicles, including the ****Model** Y**.
+3. [Sentence #26]  (TSLA_Q1_2020) Most surprisingly, ****Model** Y** was profitable already in its first quarter of production, something we haven't achieved with any product in the past.
+4. [Sentence #27]  (TSLA_Q4_2022) And we've actually raised the ****Model** Y** price a little bit in response to that.
+5. [Sentence #27]  (TSLA_Q1_2021) When it comes to ****Model** Y**, we think ****Model** Y** will be the best-selling car or vehicle of any kind in the world, and probably, next year.
+6. [Sentence #27]  (TSLA_Q1_2021) When it comes to ****Model** Y**, we think ****Model** Y** will be the best-selling car or vehicle of any kind in the world, and probably, next year.
+7. [Sentence #28]  (TSLA_Q4_2023) ****Model** Y** became the best-selling vehicle globally, as predicted.
+8. [Sentence #29]  (TSLA_Q1_2021) I’d say more likely than not that in 2022 ****Model** Y** is the best-selling car or truck of any kind in the world.
+9. [Sentence #29]  (TSLA_Q1_2021) I’d say more likely than not that in 2022 ****Model** Y** is the best-selling car or truck of any kind in the world.
+10. [Sentence #59]  (TSLA_Q1_2024) Currently normalized ****Model** Y** **cost** per vehicle in Austin and Berlin are already very close to that of Fremont.
+11. [Sentence #67]  (TSLA_Q3_2024) A vast majority of humanity has no idea that Tesla could drive themselves so especially for something like a **Model** 3 or ****Model** Y**, it looks like a normal car.
+12. [Sentence #73]  (TSLA_Q4_2022) Third, our vehicle mix over the last year has moved more heavily towards ****Model** Y**, which carries a slight **cost** premium to **Model** 3.
+13. [Sentence #75]  (TSLA_Q1_2021) And at this time, we will continue to ramp production of ****Model** Y** in three months in Shanghai.
+14. [Sentence #75]  (TSLA_Q1_2021) And at this time, we will continue to ramp production of ****Model** Y** in three months in Shanghai.
+15. [Sentence #75]  (TSLA_Q1_2020) We successfully launched, ramped and demonstrated profitability of the ****Model** Y**, as Elon mentioned, significantly ahead of schedule.
+16. [Sentence #107]  (TSLA_Q4_2022) So $3,700 per long-range **Model** 3 and ****Model** Y**, it's $45 a kilowatt-hour for autos and energy products and how much does Tesla expect to earn in the coming year from these credits?
+17. [Sentence #110]  (TSLA_Q3_2023) And we are tracking, I believe at this point for ****Model** Y** to be the best selling car on earth, but not just in revenue, but in unit volume.
+18. [Sentence #111]  (TSLA_Q3_2021) And so, we'll take ****Model** Y** at these factories.
+19. [Sentence #156]  (TSLA_Q2_2023) And then secondly, as we continue to work on reducing our Austin and Berlin **cost**, which we did quite a bit of that from Q1 to Q2, these factories are still slightly above ****Model** Y** production costs elsewhere.
+20. [Sentence #177]  (TSLA_Q4_2024) All our factories will start producing the new ****Model** Y** next month.
+21. [Sentence #279]  (TSLA_Q4_2021) And the reason that matters is the ****Model** Y** is a vehicle that carries a higher profit than the **Model** 3.
+22. [Sentence #297]  (TSLA_Q4_2024) So, I would expect that at similar volumes to say the ****Model** Y**, which is over 1 million units a year, that you'd see Optimus be, I don't know, half the **cost** or something like that.
+23. [Sentence #354]  (TSLA_Q2_2020) The next question is, Tesla recently decided not to produce Standard 3 Range version of ****Model** Y**.
+24. [Sentence #448]  (TSLA_Q2_2020) ****Model** Y**, as we mentioned last quarter, was profitable in its first quarter of production.
+25. [Sentence #450]  (TSLA_Q2_2020) And as we said before, the ****Model** Y** **cost** structure and **Model** 3 **cost** structure will converge.
+26. [Sentence #495]  (TSLA_Q3_2020) ****Model** Y** **cost** is also coming down quite quickly as we ramp that.
+27. [Sentence #496]  (TSLA_Q3_2020) But we've guided in the past that ****Model** Y** **cost** should be roughly equivalent to the **Model** 3 built in Fremont costs.
+28. [Sentence #509]  (TSLA_Q3_2022) And how do you balance the need for 4680 across Semi, Cybertruck and potentially ****Model** Y** in 2023?
+29. [Sentence #514]  (TSLA_Q3_2022) We are making **Model** Ys.
+30. [Sentence #585]  (TSLA_Q4_2024) And now Q1, we've got this massive factory retooling for the new ****Model** Y**, for example.
+
+Total transcript-order evidence sentences: 30
+
+--- Evidence by Similarity ---
+1. [Sentence #495]  (TSLA_Q3_2020) (Similarity: 1.139) ****Model** Y** **cost** is also coming down quite quickly as we ramp that.
+2. [Sentence #496]  (TSLA_Q3_2020) (Similarity: 1.091) But we've guided in the past that ****Model** Y** **cost** should be roughly equivalent to the **Model** 3 built in Fremont costs.
+3. [Sentence #450]  (TSLA_Q2_2020) (Similarity: 1.056) And as we said before, the ****Model** Y** **cost** structure and **Model** 3 **cost** structure will converge.
+4. [Sentence #14]  (TSLA_Q4_2024) (Similarity: 1.024) ****Model** Y** was the best-selling vehicle of any kind for 2024.
+5. [Sentence #73]  (TSLA_Q4_2022) (Similarity: 1.016) Third, our vehicle mix over the last year has moved more heavily towards ****Model** Y**, which carries a slight **cost** premium to **Model** 3.
+6. [Sentence #354]  (TSLA_Q2_2020) (Similarity: 1.009) The next question is, Tesla recently decided not to produce Standard 3 Range version of ****Model** Y**.
+7. [Sentence #156]  (TSLA_Q2_2023) (Similarity: 1.004) And then secondly, as we continue to work on reducing our Austin and Berlin **cost**, which we did quite a bit of that from Q1 to Q2, these factories are still slightly above ****Model** Y** production costs elsewhere.
+8. [Sentence #27]  (TSLA_Q4_2022) (Similarity: 0.988) And we've actually raised the ****Model** Y** price a little bit in response to that.
+9. [Sentence #59]  (TSLA_Q1_2024) (Similarity: 0.984) Currently normalized ****Model** Y** **cost** per vehicle in Austin and Berlin are already very close to that of Fremont.
+10. [Sentence #177]  (TSLA_Q4_2024) (Similarity: 0.971) All our factories will start producing the new ****Model** Y** next month.
+11. [Sentence #27]  (TSLA_Q1_2021) (Similarity: 0.968) When it comes to ****Model** Y**, we think ****Model** Y** will be the best-selling car or vehicle of any kind in the world, and probably, next year.
+12. [Sentence #27]  (TSLA_Q1_2021) (Similarity: 0.968) When it comes to ****Model** Y**, we think ****Model** Y** will be the best-selling car or vehicle of any kind in the world, and probably, next year.
+13. [Sentence #29]  (TSLA_Q1_2021) (Similarity: 0.963) I’d say more likely than not that in 2022 ****Model** Y** is the best-selling car or truck of any kind in the world.
+14. [Sentence #29]  (TSLA_Q1_2021) (Similarity: 0.963) I’d say more likely than not that in 2022 ****Model** Y** is the best-selling car or truck of any kind in the world.
+15. [Sentence #107]  (TSLA_Q4_2022) (Similarity: 0.941) So $3,700 per long-range **Model** 3 and ****Model** Y**, it's $45 a kilowatt-hour for autos and energy products and how much does Tesla expect to earn in the coming year from these credits?
+16. [Sentence #28]  (TSLA_Q4_2023) (Similarity: 0.940) ****Model** Y** became the best-selling vehicle globally, as predicted.
+17. [Sentence #448]  (TSLA_Q2_2020) (Similarity: 0.931) ****Model** Y**, as we mentioned last quarter, was profitable in its first quarter of production.
+18. [Sentence #26]  (TSLA_Q1_2020) (Similarity: 0.930) Most surprisingly, ****Model** Y** was profitable already in its first quarter of production, something we haven't achieved with any product in the past.
+19. [Sentence #111]  (TSLA_Q3_2021) (Similarity: 0.924) And so, we'll take ****Model** Y** at these factories.
+20. [Sentence #110]  (TSLA_Q3_2023) (Similarity: 0.921) And we are tracking, I believe at this point for ****Model** Y** to be the best selling car on earth, but not just in revenue, but in unit volume.
+21. [Sentence #585]  (TSLA_Q4_2024) (Similarity: 0.915) And now Q1, we've got this massive factory retooling for the new ****Model** Y**, for example.
+22. [Sentence #75]  (TSLA_Q1_2021) (Similarity: 0.915) And at this time, we will continue to ramp production of ****Model** Y** in three months in Shanghai.
+23. [Sentence #75]  (TSLA_Q1_2021) (Similarity: 0.915) And at this time, we will continue to ramp production of ****Model** Y** in three months in Shanghai.
+24. [Sentence #514]  (TSLA_Q3_2022) (Similarity: 0.913) We are making **Model** Ys.
+25. [Sentence #279]  (TSLA_Q4_2021) (Similarity: 0.910) And the reason that matters is the ****Model** Y** is a vehicle that carries a higher profit than the **Model** 3.
+26. [Sentence #23]  (TSLA_Q1_2022) (Similarity: 0.895) Additionally, we saw a slight mix shift towards more profitable vehicles, including the ****Model** Y**.
+27. [Sentence #297]  (TSLA_Q4_2024) (Similarity: 0.891) So, I would expect that at similar volumes to say the ****Model** Y**, which is over 1 million units a year, that you'd see Optimus be, I don't know, half the **cost** or something like that.
+28. [Sentence #509]  (TSLA_Q3_2022) (Similarity: 0.889) And how do you balance the need for 4680 across Semi, Cybertruck and potentially ****Model** Y** in 2023?
+29. [Sentence #67]  (TSLA_Q3_2024) (Similarity: 0.888) A vast majority of humanity has no idea that Tesla could drive themselves so especially for something like a **Model** 3 or ****Model** Y**, it looks like a normal car.
+30. [Sentence #75]  (TSLA_Q1_2020) (Similarity: 0.888) We successfully launched, ramped and demonstrated profitability of the ****Model** Y**, as Elon mentioned, significantly ahead of schedule.
+
+Total similarity-top evidence sentences: 30
+
+-----

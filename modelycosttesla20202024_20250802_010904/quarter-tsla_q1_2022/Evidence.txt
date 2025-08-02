@@ -1,0 +1,15 @@
+[TSLA_Q1_2022] model-y cost tesla 2020-2024
+
+--- Evidence in Transcript Order ---
+1. [Sentence #23]  Additionally, we saw a slight mix shift towards more profitable vehicles, including the ****Model** Y**.
+2. [Sentence #246]  And so, we don’t want to get complacent or entitled, but this should be a faster ramp because we have learned more, and we have done a lot to simplify the production prices of ****Model** Y** that should lead us to a faster ramp within Texas and Berlin.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #23]  (Similarity: 0.895) Additionally, we saw a slight mix shift towards more profitable vehicles, including the ****Model** Y**.
+2. [Sentence #246]  (Similarity: 0.849) And so, we don’t want to get complacent or entitled, but this should be a faster ramp because we have learned more, and we have done a lot to simplify the production prices of ****Model** Y** that should lead us to a faster ramp within Texas and Berlin.
+
+Total similarity-top evidence sentences: 2
+
+-----

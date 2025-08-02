@@ -1,0 +1,27 @@
+[TSLA_Q2_2020] model-y cost tesla 2020-2024
+
+--- Evidence in Transcript Order ---
+1. [Sentence #101]  Despite these charges, we continue to make progress, reducing our costs, particularly on ****Model** Y** in Fremont, and **Model** 3 in Shanghai.
+2. [Sentence #200]  The fundamental architecture of ****Model** Y** will be different in Berlin, it may look the same, but the internals will be quite different and fundamentally more efficient architecturally than what we've done to date.
+3. [Sentence #354]  The next question is, Tesla recently decided not to produce Standard 3 Range version of ****Model** Y**.
+4. [Sentence #448]  ****Model** Y**, as we mentioned last quarter, was profitable in its first quarter of production.
+5. [Sentence #449]  And despite the inefficiencies that we had due to the shutdown, we did see pretty substantial improvement in the ****Model** Y** margin.
+6. [Sentence #450]  And as we said before, the ****Model** Y** **cost** structure and **Model** 3 **cost** structure will converge.
+7. [Sentence #451]  They're not quite there, ****Model** Y** is still slightly more expensive than **Model** 3, and it's not yet at full production.
+8. [Sentence #452]  And with ****Model** Y** carrying a slightly higher price point, you can kind of back into the math there on the relative gross margins.
+
+Total transcript-order evidence sentences: 8
+
+--- Evidence by Similarity ---
+1. [Sentence #450]  (Similarity: 1.056) And as we said before, the ****Model** Y** **cost** structure and **Model** 3 **cost** structure will converge.
+2. [Sentence #354]  (Similarity: 1.009) The next question is, Tesla recently decided not to produce Standard 3 Range version of ****Model** Y**.
+3. [Sentence #448]  (Similarity: 0.931) ****Model** Y**, as we mentioned last quarter, was profitable in its first quarter of production.
+4. [Sentence #101]  (Similarity: 0.870) Despite these charges, we continue to make progress, reducing our costs, particularly on ****Model** Y** in Fremont, and **Model** 3 in Shanghai.
+5. [Sentence #451]  (Similarity: 0.857) They're not quite there, ****Model** Y** is still slightly more expensive than **Model** 3, and it's not yet at full production.
+6. [Sentence #452]  (Similarity: 0.833) And with ****Model** Y** carrying a slightly higher price point, you can kind of back into the math there on the relative gross margins.
+7. [Sentence #200]  (Similarity: 0.786) The fundamental architecture of ****Model** Y** will be different in Berlin, it may look the same, but the internals will be quite different and fundamentally more efficient architecturally than what we've done to date.
+8. [Sentence #449]  (Similarity: 0.780) And despite the inefficiencies that we had due to the shutdown, we did see pretty substantial improvement in the ****Model** Y** margin.
+
+Total similarity-top evidence sentences: 8
+
+-----

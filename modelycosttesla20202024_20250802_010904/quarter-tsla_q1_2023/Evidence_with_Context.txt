@@ -1,0 +1,44 @@
+[TSLA_Q1_2023] model-y cost tesla 2020-2024
+
+1. [Sentence #13] [PLAN]
+     Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC.
+     During the question-and-answer portion of today’s call, please limit yourself to one question and one follow-up.
+     Please use the raise hand button to join the question queue.
+     But before we jump into Q&A, Elon has some opening remarks.
+     Elon?
+     Elon Musk
+
+Thank you, Martin.
+     So just a Q1 recap.
+>>> Model Y became the best-selling vehicle of any kind in Europe and the best-selling non-pickup vehicle in the United States.
+     And this is in spite of a lot of challenges in production and delivery.
+     So it's a huge credit to the Tesla team for achieving these great results.
+     The -- it is worth pointing out that the current macro environment remains uncertain.
+     I don't think I'm telling anyone anything, I think people already know, especially with large purchases such as cars.
+     And while we reduced prices considerably in early Q1, it's worth noting that our operating margin remains among the best in the industry.
+     We've taken a view that pushing for higher volumes and a larger fleet is the right choice here versus a lower volume and higher margin.
+     However, we expect our vehicles, over time, will be able to generate significant profit through autonomy.
+-----
+2. [Sentence #309] [UNCERTAIN]
+     So, I guess in which ways would you monetize it?
+     Elon Musk
+
+Sorry, the robotaxi terminology can be a bit confusing because that's sort of like a generic term for our next-generation vehicle.
+     And we obviously are working on next-generation vehicle.
+     That's going to be very compelling.
+     This is just not the time to talk about it in details product.
+     So, we internally call it robotaxi.
+     But really, all of the vehicles that have Hardware 3, which is the vast majority of our fleet, we believe will achieve full autonomy.
+>>> So, there will be a like a Model 3 or Model Y would be a robotaxi, a robotic taxi.
+     So, yes, that's -- to the best of my knowledge that we believe the current hardware can achieve full autonomy.
+     Emmanuel Rosner
+
+Understood.
+     And then maybe a question for Zach.
+     Back on the automotive gross margins.
+     So, I think, I guess, a few months ago, even after major price cuts, you felt pretty strongly that 20% automotive gross margin was still probably a reasonable floor.
+     Obviously, the macro has gone worse and additional price cuts have happened.
+     Is there anything else that has changed in terms of the outlook?
+-----
+
+Total context windows: 2

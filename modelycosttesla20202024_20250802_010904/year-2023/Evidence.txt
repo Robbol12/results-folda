@@ -1,0 +1,49 @@
+[Year 2023] model-y cost tesla 2020-2024
+
+--- Evidence in Transcript Order ---
+1. [Sentence #13]  (TSLA_Q1_2023) ****Model** Y** became the best-selling vehicle of any kind in Europe and the best-selling non-pickup vehicle in the United States.
+2. [Sentence #309]  (TSLA_Q1_2023) So, there will be a like a **Model** 3 or ****Model** Y** would be a robotaxi, a robotic taxi.
+3. [Sentence #600]  (TSLA_Q2_2023) And ****Model** Y** became the bestselling vehicle of any kind globally in Q1, surpassing the likes of Corolla and Golf.
+4. [Sentence #741]  (TSLA_Q2_2023) And then secondly, as we continue to work on reducing our Austin and Berlin **cost**, which we did quite a bit of that from Q1 to Q2, these factories are still slightly above ****Model** Y** production costs elsewhere.
+5. [Sentence #787]  (TSLA_Q2_2023) Using an example of replacing a rear cast rail in the ****Model** Y**, to do that versus like what we replaced it with from **Model** 3, it’s 10 times cheaper and 3 times faster to do it with the cast rail.
+6. [Sentence #1210]  (TSLA_Q3_2023) To that extent, we recently announced a partner vehicle leasing program in the U.S. whereby you can get a standard ****Model** Y** for as low as $399 a month.
+7. [Sentence #1240]  (TSLA_Q3_2023) The Cybertruck cell with 10% higher energy than our ****Model** Y** cell started production on line two in Texas.
+8. [Sentence #1259]  (TSLA_Q3_2023) And we are tracking, I believe at this point for ****Model** Y** to be the best selling car on earth, but not just in revenue, but in unit volume.
+9. [Sentence #1485]  (TSLA_Q3_2023) I mean, we’re looking an internal analysis, which we think is more or less on track that when you look at the **cost** -- or the price reductions we’ve made in, say, the ****Model** Y** and you compare that to how much people’s monthly payment has risen due to interest rates, the price of the ****Model** Y** is almost unchanged.
+10. [Sentence #1660]  (TSLA_Q4_2023) ****Model** Y** became the best-selling vehicle globally, as predicted.
+11. [Sentence #1853]  (TSLA_Q4_2023) And then ****Model** Y** was somewhat of a variant on **Model** 3.
+12. [Sentence #1855]  (TSLA_Q4_2023) And then we were able to actually do an improved -- slightly improved versions of, in some cases, significantly improved versions of the ****Model** Y** production line in Shanghai and Berlin.
+13. [Sentence #2048]  (TSLA_Q4_2023) Elon Musk
+
+I mean, it's worth noting that if you look at, say, the average selling price of the other top-selling vehicles in the world, they are much lower priced than a ****Model** Y**.
+
+Andrew Baglino
+
+Yeah.
+
+Total transcript-order evidence sentences: 13
+
+--- Evidence by Similarity ---
+1. [Sentence #741]  (TSLA_Q2_2023) (Similarity: 1.004) And then secondly, as we continue to work on reducing our Austin and Berlin **cost**, which we did quite a bit of that from Q1 to Q2, these factories are still slightly above ****Model** Y** production costs elsewhere.
+2. [Sentence #1660]  (TSLA_Q4_2023) (Similarity: 0.940) ****Model** Y** became the best-selling vehicle globally, as predicted.
+3. [Sentence #1259]  (TSLA_Q3_2023) (Similarity: 0.921) And we are tracking, I believe at this point for ****Model** Y** to be the best selling car on earth, but not just in revenue, but in unit volume.
+4. [Sentence #600]  (TSLA_Q2_2023) (Similarity: 0.854) And ****Model** Y** became the bestselling vehicle of any kind globally in Q1, surpassing the likes of Corolla and Golf.
+5. [Sentence #2048]  (TSLA_Q4_2023) (Similarity: 0.851) Elon Musk
+
+I mean, it's worth noting that if you look at, say, the average selling price of the other top-selling vehicles in the world, they are much lower priced than a ****Model** Y**.
+
+Andrew Baglino
+
+Yeah.
+6. [Sentence #1240]  (TSLA_Q3_2023) (Similarity: 0.843) The Cybertruck cell with 10% higher energy than our ****Model** Y** cell started production on line two in Texas.
+7. [Sentence #1855]  (TSLA_Q4_2023) (Similarity: 0.841) And then we were able to actually do an improved -- slightly improved versions of, in some cases, significantly improved versions of the ****Model** Y** production line in Shanghai and Berlin.
+8. [Sentence #13]  (TSLA_Q1_2023) (Similarity: 0.824) ****Model** Y** became the best-selling vehicle of any kind in Europe and the best-selling non-pickup vehicle in the United States.
+9. [Sentence #1210]  (TSLA_Q3_2023) (Similarity: 0.819) To that extent, we recently announced a partner vehicle leasing program in the U.S. whereby you can get a standard ****Model** Y** for as low as $399 a month.
+10. [Sentence #1853]  (TSLA_Q4_2023) (Similarity: 0.806) And then ****Model** Y** was somewhat of a variant on **Model** 3.
+11. [Sentence #1485]  (TSLA_Q3_2023) (Similarity: 0.796) I mean, we’re looking an internal analysis, which we think is more or less on track that when you look at the **cost** -- or the price reductions we’ve made in, say, the ****Model** Y** and you compare that to how much people’s monthly payment has risen due to interest rates, the price of the ****Model** Y** is almost unchanged.
+12. [Sentence #787]  (TSLA_Q2_2023) (Similarity: 0.772) Using an example of replacing a rear cast rail in the ****Model** Y**, to do that versus like what we replaced it with from **Model** 3, it’s 10 times cheaper and 3 times faster to do it with the cast rail.
+13. [Sentence #309]  (TSLA_Q1_2023) (Similarity: 0.767) So, there will be a like a **Model** 3 or ****Model** Y** would be a robotaxi, a robotic taxi.
+
+Total similarity-top evidence sentences: 13
+
+-----

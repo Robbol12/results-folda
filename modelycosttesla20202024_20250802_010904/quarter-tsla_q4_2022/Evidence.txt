@@ -1,0 +1,17 @@
+[TSLA_Q4_2022] model-y cost tesla 2020-2024
+
+--- Evidence in Transcript Order ---
+1. [Sentence #27]  And we've actually raised the ****Model** Y** price a little bit in response to that.
+2. [Sentence #73]  Third, our vehicle mix over the last year has moved more heavily towards ****Model** Y**, which carries a slight **cost** premium to **Model** 3.
+3. [Sentence #107]  So $3,700 per long-range **Model** 3 and ****Model** Y**, it's $45 a kilowatt-hour for autos and energy products and how much does Tesla expect to earn in the coming year from these credits?
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #73]  (Similarity: 1.016) Third, our vehicle mix over the last year has moved more heavily towards ****Model** Y**, which carries a slight **cost** premium to **Model** 3.
+2. [Sentence #27]  (Similarity: 0.988) And we've actually raised the ****Model** Y** price a little bit in response to that.
+3. [Sentence #107]  (Similarity: 0.941) So $3,700 per long-range **Model** 3 and ****Model** Y**, it's $45 a kilowatt-hour for autos and energy products and how much does Tesla expect to earn in the coming year from these credits?
+
+Total similarity-top evidence sentences: 3
+
+-----

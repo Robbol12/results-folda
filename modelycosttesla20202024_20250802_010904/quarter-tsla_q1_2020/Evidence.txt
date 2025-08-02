@@ -1,0 +1,31 @@
+[TSLA_Q1_2020] model-y cost tesla 2020-2024
+
+--- Evidence in Transcript Order ---
+1. [Sentence #23]  In Q1, we produced more **Model** Ys in the first quarter than **Model** 3s in Fremont in the first two quarters.
+2. [Sentence #24]  Thus far, the ****Model** Y** ramp has been even faster than the Giga Shanghai ramp in Q1.
+3. [Sentence #26]  Most surprisingly, ****Model** Y** was profitable already in its first quarter of production, something we haven't achieved with any product in the past.
+4. [Sentence #56]  For ****Model** Y**, we also introduced a revolutionary new heat pump, which allows the car to have a higher range.
+5. [Sentence #57]  So ****Model** Y** has remarkable range on par with -- in fact slightly better than, I guess, the **Model** 3 and just despite being a bigger car that weighs more.
+6. [Sentence #75]  We successfully launched, ramped and demonstrated profitability of the ****Model** Y**, as Elon mentioned, significantly ahead of schedule.
+7. [Sentence #95]  ****Model** Y** in Shanghai and Berlin are proceeding as planned and we're making progress on improving capacity for ****Model** Y** in Fremont and **Model** 3 in Shanghai.
+8. [Sentence #100]  Note that one of the most important aspects of ****Model** Y** in Fremont and **Model** 3 in Shanghai is the dramatically improved cash conversion cycle by locally producing and delivering vehicles.
+9. [Sentence #391]  But for a five-seater ****Model** Y**, we expect marginal costs of that car to be comparable to the **Model** 3 once we have reached say, 10,000 or 20,000 units or something like that and…[Technical Difficulty].
+10. [Sentence #508]  ****Model** Y** ramping, bringing down overall gross margin, I agree with that as well.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #26]  (Similarity: 0.930) Most surprisingly, ****Model** Y** was profitable already in its first quarter of production, something we haven't achieved with any product in the past.
+2. [Sentence #75]  (Similarity: 0.888) We successfully launched, ramped and demonstrated profitability of the ****Model** Y**, as Elon mentioned, significantly ahead of schedule.
+3. [Sentence #391]  (Similarity: 0.874) But for a five-seater ****Model** Y**, we expect marginal costs of that car to be comparable to the **Model** 3 once we have reached say, 10,000 or 20,000 units or something like that and…[Technical Difficulty].
+4. [Sentence #95]  (Similarity: 0.868) ****Model** Y** in Shanghai and Berlin are proceeding as planned and we're making progress on improving capacity for ****Model** Y** in Fremont and **Model** 3 in Shanghai.
+5. [Sentence #57]  (Similarity: 0.866) So ****Model** Y** has remarkable range on par with -- in fact slightly better than, I guess, the **Model** 3 and just despite being a bigger car that weighs more.
+6. [Sentence #100]  (Similarity: 0.851) Note that one of the most important aspects of ****Model** Y** in Fremont and **Model** 3 in Shanghai is the dramatically improved cash conversion cycle by locally producing and delivering vehicles.
+7. [Sentence #23]  (Similarity: 0.840) In Q1, we produced more **Model** Ys in the first quarter than **Model** 3s in Fremont in the first two quarters.
+8. [Sentence #24]  (Similarity: 0.816) Thus far, the ****Model** Y** ramp has been even faster than the Giga Shanghai ramp in Q1.
+9. [Sentence #56]  (Similarity: 0.798) For ****Model** Y**, we also introduced a revolutionary new heat pump, which allows the car to have a higher range.
+10. [Sentence #508]  (Similarity: 0.784) ****Model** Y** ramping, bringing down overall gross margin, I agree with that as well.
+
+Total similarity-top evidence sentences: 10
+
+-----

@@ -1,0 +1,21 @@
+[TSLA_Q3_2022] model-y cost tesla 2020-2024
+
+--- Evidence in Transcript Order ---
+1. [Sentence #203]  So, with a few thousand heavy trucks of this nature, it would be worth several **Model** Ys.
+2. [Sentence #509]  And how do you balance the need for 4680 across Semi, Cybertruck and potentially ****Model** Y** in 2023?
+3. [Sentence #514]  We are making **Model** Ys.
+4. [Sentence #515]  Some of the **Model** Ys coming out of Giga Texas are 4680.
+5. [Sentence #516]  And I think, Drew, the car you drive around is 4680 ****Model** Y**?
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #514]  (Similarity: 0.913) We are making **Model** Ys.
+2. [Sentence #509]  (Similarity: 0.889) And how do you balance the need for 4680 across Semi, Cybertruck and potentially ****Model** Y** in 2023?
+3. [Sentence #516]  (Similarity: 0.858) And I think, Drew, the car you drive around is 4680 ****Model** Y**?
+4. [Sentence #203]  (Similarity: 0.835) So, with a few thousand heavy trucks of this nature, it would be worth several **Model** Ys.
+5. [Sentence #515]  (Similarity: 0.831) Some of the **Model** Ys coming out of Giga Texas are 4680.
+
+Total similarity-top evidence sentences: 5
+
+-----

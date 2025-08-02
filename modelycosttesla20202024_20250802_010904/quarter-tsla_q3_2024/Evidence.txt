@@ -1,0 +1,15 @@
+[TSLA_Q3_2024] model-y cost tesla 2020-2024
+
+--- Evidence in Transcript Order ---
+1. [Sentence #67]  A vast majority of humanity has no idea that Tesla could drive themselves so especially for something like a **Model** 3 or ****Model** Y**, it looks like a normal car.
+2. [Sentence #225]  When can we expect Tesla to give us the $25,000 non-robotaxi regular car **model**?
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #67]  (Similarity: 0.888) A vast majority of humanity has no idea that Tesla could drive themselves so especially for something like a **Model** 3 or ****Model** Y**, it looks like a normal car.
+2. [Sentence #225]  (Similarity: 0.763) When can we expect Tesla to give us the $25,000 non-robotaxi regular car **model**?
+
+Total similarity-top evidence sentences: 2
+
+-----

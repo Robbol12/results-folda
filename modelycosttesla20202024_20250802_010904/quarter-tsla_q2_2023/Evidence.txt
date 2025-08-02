@@ -1,0 +1,17 @@
+[TSLA_Q2_2023] model-y cost tesla 2020-2024
+
+--- Evidence in Transcript Order ---
+1. [Sentence #15]  And ****Model** Y** became the bestselling vehicle of any kind globally in Q1, surpassing the likes of Corolla and Golf.
+2. [Sentence #156]  And then secondly, as we continue to work on reducing our Austin and Berlin **cost**, which we did quite a bit of that from Q1 to Q2, these factories are still slightly above ****Model** Y** production costs elsewhere.
+3. [Sentence #202]  Using an example of replacing a rear cast rail in the ****Model** Y**, to do that versus like what we replaced it with from **Model** 3, it’s 10 times cheaper and 3 times faster to do it with the cast rail.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #156]  (Similarity: 1.004) And then secondly, as we continue to work on reducing our Austin and Berlin **cost**, which we did quite a bit of that from Q1 to Q2, these factories are still slightly above ****Model** Y** production costs elsewhere.
+2. [Sentence #15]  (Similarity: 0.854) And ****Model** Y** became the bestselling vehicle of any kind globally in Q1, surpassing the likes of Corolla and Golf.
+3. [Sentence #202]  (Similarity: 0.772) Using an example of replacing a rear cast rail in the ****Model** Y**, to do that versus like what we replaced it with from **Model** 3, it’s 10 times cheaper and 3 times faster to do it with the cast rail.
+
+Total similarity-top evidence sentences: 3
+
+-----

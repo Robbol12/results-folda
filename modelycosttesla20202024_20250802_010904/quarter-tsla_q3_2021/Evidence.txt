@@ -1,0 +1,31 @@
+[TSLA_Q3_2021] model-y cost tesla 2020-2024
+
+--- Evidence in Transcript Order ---
+1. [Sentence #15]  The increase in production rate has primarily been driven by further ramping of the ****Model** Y** at our Shanghai factory.
+2. [Sentence #20]  This has enabled us to supply more vehicles to the North America market and to introduce ****Model** Y** to Europe.
+3. [Sentence #33]  This benefit primarily comes from higher volumes, particularly out of the Shanghai factory, increased mix of the ****Model** Y** as we -- and we have made good progress increasing **Model** S volumes.
+4. [Sentence #70]  While there is still more runway to grow these existing products, we are focused on ****Model** Y** expansion in Austin and Berlin, ramping S&X further in Fremont to restore to past levels, while also growing 3 and Y production in Fremont and Shanghai.
+5. [Sentence #71]  As we've mentioned before, after ****Model** Y** in Austin, our next product launch will be Cybertruck.
+6. [Sentence #86]  As we've mentioned before, we've seen record growth of both **Model** 3 and ****Model** Y** segments, where **Model** 3 is currently the bestselling luxury sedan worldwide.
+7. [Sentence #87]  As we mentioned at our shareholder's meeting, ****Model** Y** is poised to be the bestselling vehicle in the world.
+8. [Sentence #106]  So most recently, the ramp up to ****Model** Y**, which was our biggest contributor of volume in Q3.
+9. [Sentence #109]  Austin and Berlin are interesting factories because our first iterations of capacity there are on ****Model** Y**.
+10. [Sentence #111]  And so, we'll take ****Model** Y** at these factories.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #111]  (Similarity: 0.924) And so, we'll take ****Model** Y** at these factories.
+2. [Sentence #15]  (Similarity: 0.882) The increase in production rate has primarily been driven by further ramping of the ****Model** Y** at our Shanghai factory.
+3. [Sentence #87]  (Similarity: 0.879) As we mentioned at our shareholder's meeting, ****Model** Y** is poised to be the bestselling vehicle in the world.
+4. [Sentence #20]  (Similarity: 0.830) This has enabled us to supply more vehicles to the North America market and to introduce ****Model** Y** to Europe.
+5. [Sentence #71]  (Similarity: 0.827) As we've mentioned before, after ****Model** Y** in Austin, our next product launch will be Cybertruck.
+6. [Sentence #33]  (Similarity: 0.807) This benefit primarily comes from higher volumes, particularly out of the Shanghai factory, increased mix of the ****Model** Y** as we -- and we have made good progress increasing **Model** S volumes.
+7. [Sentence #86]  (Similarity: 0.787) As we've mentioned before, we've seen record growth of both **Model** 3 and ****Model** Y** segments, where **Model** 3 is currently the bestselling luxury sedan worldwide.
+8. [Sentence #106]  (Similarity: 0.786) So most recently, the ramp up to ****Model** Y**, which was our biggest contributor of volume in Q3.
+9. [Sentence #70]  (Similarity: 0.783) While there is still more runway to grow these existing products, we are focused on ****Model** Y** expansion in Austin and Berlin, ramping S&X further in Fremont to restore to past levels, while also growing 3 and Y production in Fremont and Shanghai.
+10. [Sentence #109]  (Similarity: 0.768) Austin and Berlin are interesting factories because our first iterations of capacity there are on ****Model** Y**.
+
+Total similarity-top evidence sentences: 10
+
+-----

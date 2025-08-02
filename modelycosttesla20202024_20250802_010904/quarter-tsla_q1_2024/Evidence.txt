@@ -1,0 +1,15 @@
+[TSLA_Q1_2024] model-y cost tesla 2020-2024
+
+--- Evidence in Transcript Order ---
+1. [Sentence #59]  Currently normalized ****Model** Y** **cost** per vehicle in Austin and Berlin are already very close to that of Fremont.
+2. [Sentence #497]  And if you’ve got the excess demand for **Model** 3 and ****Model** Y** in one market, but you don’t have it there.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #59]  (Similarity: 0.984) Currently normalized ****Model** Y** **cost** per vehicle in Austin and Berlin are already very close to that of Fremont.
+2. [Sentence #497]  (Similarity: 0.810) And if you’ve got the excess demand for **Model** 3 and ****Model** Y** in one market, but you don’t have it there.
+
+Total similarity-top evidence sentences: 2
+
+-----

@@ -1,0 +1,17 @@
+[TSLA_Q4_2021] model-y cost tesla 2020-2024
+
+--- Evidence in Transcript Order ---
+1. [Sentence #24]  So, in Texas, we're building the **Model** Ys with the structural battery pack and the 4680 cells, and we’ll start delivering after final certification of the vehicle, which should be fairly soon.
+2. [Sentence #278]  So, our mix of ****Model** Y** is increasing as we've ramped that to higher capacity in Fremont and also in Shanghai.
+3. [Sentence #279]  And the reason that matters is the ****Model** Y** is a vehicle that carries a higher profit than the **Model** 3.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #279]  (Similarity: 0.910) And the reason that matters is the ****Model** Y** is a vehicle that carries a higher profit than the **Model** 3.
+2. [Sentence #278]  (Similarity: 0.817) So, our mix of ****Model** Y** is increasing as we've ramped that to higher capacity in Fremont and also in Shanghai.
+3. [Sentence #24]  (Similarity: 0.790) So, in Texas, we're building the **Model** Ys with the structural battery pack and the 4680 cells, and we’ll start delivering after final certification of the vehicle, which should be fairly soon.
+
+Total similarity-top evidence sentences: 3
+
+-----

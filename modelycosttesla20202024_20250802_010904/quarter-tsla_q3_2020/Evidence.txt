@@ -1,0 +1,19 @@
+[TSLA_Q3_2020] model-y cost tesla 2020-2024
+
+--- Evidence in Transcript Order ---
+1. [Sentence #121]  Capital expenses grew to $1 billion, driven by ****Model** Y** incidents in Shanghai, Berlin, and Austin.
+2. [Sentence #495]  ****Model** Y** **cost** is also coming down quite quickly as we ramp that.
+3. [Sentence #496]  But we've guided in the past that ****Model** Y** **cost** should be roughly equivalent to the **Model** 3 built in Fremont costs.
+4. [Sentence #497]  It's not quite there, and it's also a bit of a moving target as **Model** 3 Fremont **cost** comes down, ****Model** Y** also has to come down with that.
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #495]  (Similarity: 1.139) ****Model** Y** **cost** is also coming down quite quickly as we ramp that.
+2. [Sentence #496]  (Similarity: 1.091) But we've guided in the past that ****Model** Y** **cost** should be roughly equivalent to the **Model** 3 built in Fremont costs.
+3. [Sentence #497]  (Similarity: 0.841) It's not quite there, and it's also a bit of a moving target as **Model** 3 Fremont **cost** comes down, ****Model** Y** also has to come down with that.
+4. [Sentence #121]  (Similarity: 0.775) Capital expenses grew to $1 billion, driven by ****Model** Y** incidents in Shanghai, Berlin, and Austin.
+
+Total similarity-top evidence sentences: 4
+
+-----

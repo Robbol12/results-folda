@@ -1,0 +1,25 @@
+[TSLA_Q4_2024] model-y cost tesla 2020-2024
+
+--- Evidence in Transcript Order ---
+1. [Sentence #14]  ****Model** Y** was the best-selling vehicle of any kind for 2024.
+2. [Sentence #19]  1 was ****Model** Y**.
+3. [Sentence #155]  And when we look back on 2025 and the launch of unsupervised full self-driving, true real-world AI that actually works, I think we may regard it as the biggest year in Tesla history, maybe even bigger than Atlas car, or the **Model** S or the **Model** 3 or ****Model** Y**.
+4. [Sentence #176]  This was despite increased depreciation and other costs as we prepare for the transition to the new ****Model** Y**, for which we recently started taking orders in all markets.
+5. [Sentence #177]  All our factories will start producing the new ****Model** Y** next month.
+6. [Sentence #297]  So, I would expect that at similar volumes to say the ****Model** Y**, which is over 1 million units a year, that you'd see Optimus be, I don't know, half the **cost** or something like that.
+7. [Sentence #585]  And now Q1, we've got this massive factory retooling for the new ****Model** Y**, for example.
+
+Total transcript-order evidence sentences: 7
+
+--- Evidence by Similarity ---
+1. [Sentence #14]  (Similarity: 1.024) ****Model** Y** was the best-selling vehicle of any kind for 2024.
+2. [Sentence #177]  (Similarity: 0.971) All our factories will start producing the new ****Model** Y** next month.
+3. [Sentence #585]  (Similarity: 0.915) And now Q1, we've got this massive factory retooling for the new ****Model** Y**, for example.
+4. [Sentence #297]  (Similarity: 0.891) So, I would expect that at similar volumes to say the ****Model** Y**, which is over 1 million units a year, that you'd see Optimus be, I don't know, half the **cost** or something like that.
+5. [Sentence #176]  (Similarity: 0.857) This was despite increased depreciation and other costs as we prepare for the transition to the new ****Model** Y**, for which we recently started taking orders in all markets.
+6. [Sentence #19]  (Similarity: 0.850) 1 was ****Model** Y**.
+7. [Sentence #155]  (Similarity: 0.832) And when we look back on 2025 and the launch of unsupervised full self-driving, true real-world AI that actually works, I think we may regard it as the biggest year in Tesla history, maybe even bigger than Atlas car, or the **Model** S or the **Model** 3 or ****Model** Y**.
+
+Total similarity-top evidence sentences: 7
+
+-----

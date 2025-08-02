@@ -1,0 +1,35 @@
+[Year 2024] model-y cost tesla 2020-2024
+
+--- Evidence in Transcript Order ---
+1. [Sentence #59]  (TSLA_Q1_2024) Currently normalized ****Model** Y** **cost** per vehicle in Austin and Berlin are already very close to that of Fremont.
+2. [Sentence #497]  (TSLA_Q1_2024) And if you’ve got the excess demand for **Model** 3 and ****Model** Y** in one market, but you don’t have it there.
+3. [Sentence #1122]  (TSLA_Q2_2024) I think **model** Y3 and Y get IRA help for customers, and I think your batteries get production tax credits.
+4. [Sentence #1213]  (TSLA_Q3_2024) A vast majority of humanity has no idea that Tesla could drive themselves so especially for something like a **Model** 3 or ****Model** Y**, it looks like a normal car.
+5. [Sentence #1371]  (TSLA_Q3_2024) When can we expect Tesla to give us the $25,000 non-robotaxi regular car **model**?
+6. [Sentence #1751]  (TSLA_Q4_2024) ****Model** Y** was the best-selling vehicle of any kind for 2024.
+7. [Sentence #1756]  (TSLA_Q4_2024) 1 was ****Model** Y**.
+8. [Sentence #1892]  (TSLA_Q4_2024) And when we look back on 2025 and the launch of unsupervised full self-driving, true real-world AI that actually works, I think we may regard it as the biggest year in Tesla history, maybe even bigger than Atlas car, or the **Model** S or the **Model** 3 or ****Model** Y**.
+9. [Sentence #1913]  (TSLA_Q4_2024) This was despite increased depreciation and other costs as we prepare for the transition to the new ****Model** Y**, for which we recently started taking orders in all markets.
+10. [Sentence #1914]  (TSLA_Q4_2024) All our factories will start producing the new ****Model** Y** next month.
+11. [Sentence #2034]  (TSLA_Q4_2024) So, I would expect that at similar volumes to say the ****Model** Y**, which is over 1 million units a year, that you'd see Optimus be, I don't know, half the **cost** or something like that.
+12. [Sentence #2322]  (TSLA_Q4_2024) And now Q1, we've got this massive factory retooling for the new ****Model** Y**, for example.
+
+Total transcript-order evidence sentences: 12
+
+--- Evidence by Similarity ---
+1. [Sentence #1751]  (TSLA_Q4_2024) (Similarity: 1.024) ****Model** Y** was the best-selling vehicle of any kind for 2024.
+2. [Sentence #59]  (TSLA_Q1_2024) (Similarity: 0.984) Currently normalized ****Model** Y** **cost** per vehicle in Austin and Berlin are already very close to that of Fremont.
+3. [Sentence #1914]  (TSLA_Q4_2024) (Similarity: 0.971) All our factories will start producing the new ****Model** Y** next month.
+4. [Sentence #2322]  (TSLA_Q4_2024) (Similarity: 0.915) And now Q1, we've got this massive factory retooling for the new ****Model** Y**, for example.
+5. [Sentence #2034]  (TSLA_Q4_2024) (Similarity: 0.891) So, I would expect that at similar volumes to say the ****Model** Y**, which is over 1 million units a year, that you'd see Optimus be, I don't know, half the **cost** or something like that.
+6. [Sentence #1213]  (TSLA_Q3_2024) (Similarity: 0.888) A vast majority of humanity has no idea that Tesla could drive themselves so especially for something like a **Model** 3 or ****Model** Y**, it looks like a normal car.
+7. [Sentence #1913]  (TSLA_Q4_2024) (Similarity: 0.857) This was despite increased depreciation and other costs as we prepare for the transition to the new ****Model** Y**, for which we recently started taking orders in all markets.
+8. [Sentence #1756]  (TSLA_Q4_2024) (Similarity: 0.850) 1 was ****Model** Y**.
+9. [Sentence #1892]  (TSLA_Q4_2024) (Similarity: 0.832) And when we look back on 2025 and the launch of unsupervised full self-driving, true real-world AI that actually works, I think we may regard it as the biggest year in Tesla history, maybe even bigger than Atlas car, or the **Model** S or the **Model** 3 or ****Model** Y**.
+10. [Sentence #497]  (TSLA_Q1_2024) (Similarity: 0.810) And if you’ve got the excess demand for **Model** 3 and ****Model** Y** in one market, but you don’t have it there.
+11. [Sentence #1122]  (TSLA_Q2_2024) (Similarity: 0.778) I think **model** Y3 and Y get IRA help for customers, and I think your batteries get production tax credits.
+12. [Sentence #1371]  (TSLA_Q3_2024) (Similarity: 0.763) When can we expect Tesla to give us the $25,000 non-robotaxi regular car **model**?
+
+Total similarity-top evidence sentences: 12
+
+-----

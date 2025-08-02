@@ -1,0 +1,31 @@
+[TSLA_Q4_2023] model-y cost tesla 2020-2024
+
+--- Evidence in Transcript Order ---
+1. [Sentence #28]  ****Model** Y** became the best-selling vehicle globally, as predicted.
+2. [Sentence #221]  And then ****Model** Y** was somewhat of a variant on **Model** 3.
+3. [Sentence #223]  And then we were able to actually do an improved -- slightly improved versions of, in some cases, significantly improved versions of the ****Model** Y** production line in Shanghai and Berlin.
+4. [Sentence #416]  Elon Musk
+
+I mean, it's worth noting that if you look at, say, the average selling price of the other top-selling vehicles in the world, they are much lower priced than a ****Model** Y**.
+
+Andrew Baglino
+
+Yeah.
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #28]  (Similarity: 0.940) ****Model** Y** became the best-selling vehicle globally, as predicted.
+2. [Sentence #416]  (Similarity: 0.851) Elon Musk
+
+I mean, it's worth noting that if you look at, say, the average selling price of the other top-selling vehicles in the world, they are much lower priced than a ****Model** Y**.
+
+Andrew Baglino
+
+Yeah.
+3. [Sentence #223]  (Similarity: 0.841) And then we were able to actually do an improved -- slightly improved versions of, in some cases, significantly improved versions of the ****Model** Y** production line in Shanghai and Berlin.
+4. [Sentence #221]  (Similarity: 0.806) And then ****Model** Y** was somewhat of a variant on **Model** 3.
+
+Total similarity-top evidence sentences: 4
+
+-----

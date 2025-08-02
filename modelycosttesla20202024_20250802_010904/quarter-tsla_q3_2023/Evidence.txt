@@ -1,0 +1,19 @@
+[TSLA_Q3_2023] model-y cost tesla 2020-2024
+
+--- Evidence in Transcript Order ---
+1. [Sentence #61]  To that extent, we recently announced a partner vehicle leasing program in the U.S. whereby you can get a standard ****Model** Y** for as low as $399 a month.
+2. [Sentence #91]  The Cybertruck cell with 10% higher energy than our ****Model** Y** cell started production on line two in Texas.
+3. [Sentence #110]  And we are tracking, I believe at this point for ****Model** Y** to be the best selling car on earth, but not just in revenue, but in unit volume.
+4. [Sentence #336]  I mean, we’re looking an internal analysis, which we think is more or less on track that when you look at the **cost** -- or the price reductions we’ve made in, say, the ****Model** Y** and you compare that to how much people’s monthly payment has risen due to interest rates, the price of the ****Model** Y** is almost unchanged.
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #110]  (Similarity: 0.921) And we are tracking, I believe at this point for ****Model** Y** to be the best selling car on earth, but not just in revenue, but in unit volume.
+2. [Sentence #91]  (Similarity: 0.843) The Cybertruck cell with 10% higher energy than our ****Model** Y** cell started production on line two in Texas.
+3. [Sentence #61]  (Similarity: 0.819) To that extent, we recently announced a partner vehicle leasing program in the U.S. whereby you can get a standard ****Model** Y** for as low as $399 a month.
+4. [Sentence #336]  (Similarity: 0.796) I mean, we’re looking an internal analysis, which we think is more or less on track that when you look at the **cost** -- or the price reductions we’ve made in, say, the ****Model** Y** and you compare that to how much people’s monthly payment has risen due to interest rates, the price of the ****Model** Y** is almost unchanged.
+
+Total similarity-top evidence sentences: 4
+
+-----

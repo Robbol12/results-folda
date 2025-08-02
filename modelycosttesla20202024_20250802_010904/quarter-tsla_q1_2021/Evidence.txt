@@ -1,0 +1,25 @@
+[TSLA_Q1_2021] model-y cost tesla 2020-2024
+
+--- Evidence in Transcript Order ---
+1. [Sentence #27]  When it comes to ****Model** Y**, we think ****Model** Y** will be the best-selling car or vehicle of any kind in the world, and probably, next year.
+2. [Sentence #29]  I’d say more likely than not that in 2022 ****Model** Y** is the best-selling car or truck of any kind in the world.
+3. [Sentence #75]  And at this time, we will continue to ramp production of ****Model** Y** in three months in Shanghai.
+4. [Sentence #87]  First, we successfully launched and began the ramp of ****Model** Y** in Shanghai, achieving positive gross margin in the first quarter of production and receiving a great reception from the market.
+5. [Sentence #113]  As we think about Q2 and Q3, these quarters should largely be driven by execution on SNX, as we have discussed, continued ramp of ****Model** Y** in Shanghai and the associated **cost** reductions of these programs, and we expect profitability and cash generation to evolve over the course of the year in line with those improvements.
+6. [Sentence #501]  **Model** 3 and ****Model** Y** were steps of improvement in that.
+7. [Sentence #502]  But when you look at some of the other advancements that we are including in the ****Model** Y**, factories into Austin and Berlin, we have reduced the body pound by as much 60%.
+
+Total transcript-order evidence sentences: 7
+
+--- Evidence by Similarity ---
+1. [Sentence #27]  (Similarity: 0.968) When it comes to ****Model** Y**, we think ****Model** Y** will be the best-selling car or vehicle of any kind in the world, and probably, next year.
+2. [Sentence #29]  (Similarity: 0.963) I’d say more likely than not that in 2022 ****Model** Y** is the best-selling car or truck of any kind in the world.
+3. [Sentence #75]  (Similarity: 0.915) And at this time, we will continue to ramp production of ****Model** Y** in three months in Shanghai.
+4. [Sentence #87]  (Similarity: 0.804) First, we successfully launched and began the ramp of ****Model** Y** in Shanghai, achieving positive gross margin in the first quarter of production and receiving a great reception from the market.
+5. [Sentence #501]  (Similarity: 0.793) **Model** 3 and ****Model** Y** were steps of improvement in that.
+6. [Sentence #502]  (Similarity: 0.773) But when you look at some of the other advancements that we are including in the ****Model** Y**, factories into Austin and Berlin, we have reduced the body pound by as much 60%.
+7. [Sentence #113]  (Similarity: 0.772) As we think about Q2 and Q3, these quarters should largely be driven by execution on SNX, as we have discussed, continued ramp of ****Model** Y** in Shanghai and the associated **cost** reductions of these programs, and we expect profitability and cash generation to evolve over the course of the year in line with those improvements.
+
+Total similarity-top evidence sentences: 7
+
+-----

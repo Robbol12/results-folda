@@ -1,0 +1,65 @@
+[Year 2020] model-y cost tesla 2020-2024
+
+--- Evidence in Transcript Order ---
+1. [Sentence #23]  (TSLA_Q1_2020) In Q1, we produced more **Model** Ys in the first quarter than **Model** 3s in Fremont in the first two quarters.
+2. [Sentence #24]  (TSLA_Q1_2020) Thus far, the ****Model** Y** ramp has been even faster than the Giga Shanghai ramp in Q1.
+3. [Sentence #26]  (TSLA_Q1_2020) Most surprisingly, ****Model** Y** was profitable already in its first quarter of production, something we haven't achieved with any product in the past.
+4. [Sentence #56]  (TSLA_Q1_2020) For ****Model** Y**, we also introduced a revolutionary new heat pump, which allows the car to have a higher range.
+5. [Sentence #57]  (TSLA_Q1_2020) So ****Model** Y** has remarkable range on par with -- in fact slightly better than, I guess, the **Model** 3 and just despite being a bigger car that weighs more.
+6. [Sentence #60]  (TSLA_Q1_2020) So -- and the feedback we're getting from customers who have received the ****Model** Y** thus far has been universally positive.
+7. [Sentence #62]  (TSLA_Q1_2020) So in conclusion, and just to -- looking forward, I guess this is a forward-looking statement we are absolutely continuing our ****Model** Y** capacity expansion at full speed at both Giga Berlin and Giga Shanghai and here in Fremont when they will let us continue.
+8. [Sentence #75]  (TSLA_Q1_2020) We successfully launched, ramped and demonstrated profitability of the ****Model** Y**, as Elon mentioned, significantly ahead of schedule.
+9. [Sentence #95]  (TSLA_Q1_2020) ****Model** Y** in Shanghai and Berlin are proceeding as planned and we're making progress on improving capacity for ****Model** Y** in Fremont and **Model** 3 in Shanghai.
+10. [Sentence #100]  (TSLA_Q1_2020) Note that one of the most important aspects of ****Model** Y** in Fremont and **Model** 3 in Shanghai is the dramatically improved cash conversion cycle by locally producing and delivering vehicles.
+11. [Sentence #391]  (TSLA_Q1_2020) But for a five-seater ****Model** Y**, we expect marginal costs of that car to be comparable to the **Model** 3 once we have reached say, 10,000 or 20,000 units or something like that and…[Technical Difficulty].
+12. [Sentence #508]  (TSLA_Q1_2020) ****Model** Y** ramping, bringing down overall gross margin, I agree with that as well.
+13. [Sentence #633]  (TSLA_Q2_2020) Despite these charges, we continue to make progress, reducing our costs, particularly on ****Model** Y** in Fremont, and **Model** 3 in Shanghai.
+14. [Sentence #732]  (TSLA_Q2_2020) The fundamental architecture of ****Model** Y** will be different in Berlin, it may look the same, but the internals will be quite different and fundamentally more efficient architecturally than what we've done to date.
+15. [Sentence #886]  (TSLA_Q2_2020) The next question is, Tesla recently decided not to produce Standard 3 Range version of ****Model** Y**.
+16. [Sentence #980]  (TSLA_Q2_2020) ****Model** Y**, as we mentioned last quarter, was profitable in its first quarter of production.
+17. [Sentence #981]  (TSLA_Q2_2020) And despite the inefficiencies that we had due to the shutdown, we did see pretty substantial improvement in the ****Model** Y** margin.
+18. [Sentence #982]  (TSLA_Q2_2020) And as we said before, the ****Model** Y** **cost** structure and **Model** 3 **cost** structure will converge.
+19. [Sentence #983]  (TSLA_Q2_2020) They're not quite there, ****Model** Y** is still slightly more expensive than **Model** 3, and it's not yet at full production.
+20. [Sentence #984]  (TSLA_Q2_2020) And with ****Model** Y** carrying a slightly higher price point, you can kind of back into the math there on the relative gross margins.
+21. [Sentence #1258]  (TSLA_Q3_2020) Capital expenses grew to $1 billion, driven by ****Model** Y** incidents in Shanghai, Berlin, and Austin.
+22. [Sentence #1632]  (TSLA_Q3_2020) ****Model** Y** **cost** is also coming down quite quickly as we ramp that.
+23. [Sentence #1633]  (TSLA_Q3_2020) But we've guided in the past that ****Model** Y** **cost** should be roughly equivalent to the **Model** 3 built in Fremont costs.
+24. [Sentence #1634]  (TSLA_Q3_2020) It's not quite there, and it's also a bit of a moving target as **Model** 3 Fremont **cost** comes down, ****Model** Y** also has to come down with that.
+25. [Sentence #1810]  (TSLA_Q4_2020) We started producing the ****Model** Y** out of Fremont and have almost reached full production speed.
+26. [Sentence #1815]  (TSLA_Q4_2020) We built a ****Model** Y** factory in China from start to finish in one year.
+27. [Sentence #1899]  (TSLA_Q4_2020) Specifically for Q1, our volumes will have the benefit of early ****Model** Y** ramp in Shanghai, However, S and X production will be low due to the transition to the newly architected products.
+
+Total transcript-order evidence sentences: 27
+
+--- Evidence by Similarity ---
+1. [Sentence #1632]  (TSLA_Q3_2020) (Similarity: 1.139) ****Model** Y** **cost** is also coming down quite quickly as we ramp that.
+2. [Sentence #1633]  (TSLA_Q3_2020) (Similarity: 1.091) But we've guided in the past that ****Model** Y** **cost** should be roughly equivalent to the **Model** 3 built in Fremont costs.
+3. [Sentence #982]  (TSLA_Q2_2020) (Similarity: 1.056) And as we said before, the ****Model** Y** **cost** structure and **Model** 3 **cost** structure will converge.
+4. [Sentence #886]  (TSLA_Q2_2020) (Similarity: 1.009) The next question is, Tesla recently decided not to produce Standard 3 Range version of ****Model** Y**.
+5. [Sentence #980]  (TSLA_Q2_2020) (Similarity: 0.931) ****Model** Y**, as we mentioned last quarter, was profitable in its first quarter of production.
+6. [Sentence #26]  (TSLA_Q1_2020) (Similarity: 0.930) Most surprisingly, ****Model** Y** was profitable already in its first quarter of production, something we haven't achieved with any product in the past.
+7. [Sentence #75]  (TSLA_Q1_2020) (Similarity: 0.888) We successfully launched, ramped and demonstrated profitability of the ****Model** Y**, as Elon mentioned, significantly ahead of schedule.
+8. [Sentence #1810]  (TSLA_Q4_2020) (Similarity: 0.880) We started producing the ****Model** Y** out of Fremont and have almost reached full production speed.
+9. [Sentence #391]  (TSLA_Q1_2020) (Similarity: 0.874) But for a five-seater ****Model** Y**, we expect marginal costs of that car to be comparable to the **Model** 3 once we have reached say, 10,000 or 20,000 units or something like that and…[Technical Difficulty].
+10. [Sentence #633]  (TSLA_Q2_2020) (Similarity: 0.870) Despite these charges, we continue to make progress, reducing our costs, particularly on ****Model** Y** in Fremont, and **Model** 3 in Shanghai.
+11. [Sentence #95]  (TSLA_Q1_2020) (Similarity: 0.868) ****Model** Y** in Shanghai and Berlin are proceeding as planned and we're making progress on improving capacity for ****Model** Y** in Fremont and **Model** 3 in Shanghai.
+12. [Sentence #57]  (TSLA_Q1_2020) (Similarity: 0.866) So ****Model** Y** has remarkable range on par with -- in fact slightly better than, I guess, the **Model** 3 and just despite being a bigger car that weighs more.
+13. [Sentence #983]  (TSLA_Q2_2020) (Similarity: 0.857) They're not quite there, ****Model** Y** is still slightly more expensive than **Model** 3, and it's not yet at full production.
+14. [Sentence #100]  (TSLA_Q1_2020) (Similarity: 0.851) Note that one of the most important aspects of ****Model** Y** in Fremont and **Model** 3 in Shanghai is the dramatically improved cash conversion cycle by locally producing and delivering vehicles.
+15. [Sentence #1634]  (TSLA_Q3_2020) (Similarity: 0.841) It's not quite there, and it's also a bit of a moving target as **Model** 3 Fremont **cost** comes down, ****Model** Y** also has to come down with that.
+16. [Sentence #23]  (TSLA_Q1_2020) (Similarity: 0.840) In Q1, we produced more **Model** Ys in the first quarter than **Model** 3s in Fremont in the first two quarters.
+17. [Sentence #984]  (TSLA_Q2_2020) (Similarity: 0.833) And with ****Model** Y** carrying a slightly higher price point, you can kind of back into the math there on the relative gross margins.
+18. [Sentence #24]  (TSLA_Q1_2020) (Similarity: 0.816) Thus far, the ****Model** Y** ramp has been even faster than the Giga Shanghai ramp in Q1.
+19. [Sentence #1815]  (TSLA_Q4_2020) (Similarity: 0.810) We built a ****Model** Y** factory in China from start to finish in one year.
+20. [Sentence #56]  (TSLA_Q1_2020) (Similarity: 0.798) For ****Model** Y**, we also introduced a revolutionary new heat pump, which allows the car to have a higher range.
+21. [Sentence #1899]  (TSLA_Q4_2020) (Similarity: 0.789) Specifically for Q1, our volumes will have the benefit of early ****Model** Y** ramp in Shanghai, However, S and X production will be low due to the transition to the newly architected products.
+22. [Sentence #732]  (TSLA_Q2_2020) (Similarity: 0.786) The fundamental architecture of ****Model** Y** will be different in Berlin, it may look the same, but the internals will be quite different and fundamentally more efficient architecturally than what we've done to date.
+23. [Sentence #508]  (TSLA_Q1_2020) (Similarity: 0.784) ****Model** Y** ramping, bringing down overall gross margin, I agree with that as well.
+24. [Sentence #981]  (TSLA_Q2_2020) (Similarity: 0.780) And despite the inefficiencies that we had due to the shutdown, we did see pretty substantial improvement in the ****Model** Y** margin.
+25. [Sentence #1258]  (TSLA_Q3_2020) (Similarity: 0.775) Capital expenses grew to $1 billion, driven by ****Model** Y** incidents in Shanghai, Berlin, and Austin.
+26. [Sentence #62]  (TSLA_Q1_2020) (Similarity: 0.762) So in conclusion, and just to -- looking forward, I guess this is a forward-looking statement we are absolutely continuing our ****Model** Y** capacity expansion at full speed at both Giga Berlin and Giga Shanghai and here in Fremont when they will let us continue.
+27. [Sentence #60]  (TSLA_Q1_2020) (Similarity: 0.750) So -- and the feedback we're getting from customers who have received the ****Model** Y** thus far has been universally positive.
+
+Total similarity-top evidence sentences: 27
+
+-----

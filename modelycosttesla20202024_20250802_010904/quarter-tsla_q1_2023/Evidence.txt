@@ -1,0 +1,15 @@
+[TSLA_Q1_2023] model-y cost tesla 2020-2024
+
+--- Evidence in Transcript Order ---
+1. [Sentence #13]  ****Model** Y** became the best-selling vehicle of any kind in Europe and the best-selling non-pickup vehicle in the United States.
+2. [Sentence #309]  So, there will be a like a **Model** 3 or ****Model** Y** would be a robotaxi, a robotic taxi.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #13]  (Similarity: 0.824) ****Model** Y** became the best-selling vehicle of any kind in Europe and the best-selling non-pickup vehicle in the United States.
+2. [Sentence #309]  (Similarity: 0.767) So, there will be a like a **Model** 3 or ****Model** Y** would be a robotaxi, a robotic taxi.
+
+Total similarity-top evidence sentences: 2
+
+-----

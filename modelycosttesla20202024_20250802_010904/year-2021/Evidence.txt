@@ -1,0 +1,51 @@
+[Year 2021] model-y cost tesla 2020-2024
+
+--- Evidence in Transcript Order ---
+1. [Sentence #27]  (TSLA_Q1_2021) When it comes to ****Model** Y**, we think ****Model** Y** will be the best-selling car or vehicle of any kind in the world, and probably, next year.
+2. [Sentence #29]  (TSLA_Q1_2021) I’d say more likely than not that in 2022 ****Model** Y** is the best-selling car or truck of any kind in the world.
+3. [Sentence #75]  (TSLA_Q1_2021) And at this time, we will continue to ramp production of ****Model** Y** in three months in Shanghai.
+4. [Sentence #87]  (TSLA_Q1_2021) First, we successfully launched and began the ramp of ****Model** Y** in Shanghai, achieving positive gross margin in the first quarter of production and receiving a great reception from the market.
+5. [Sentence #113]  (TSLA_Q1_2021) As we think about Q2 and Q3, these quarters should largely be driven by execution on SNX, as we have discussed, continued ramp of ****Model** Y** in Shanghai and the associated **cost** reductions of these programs, and we expect profitability and cash generation to evolve over the course of the year in line with those improvements.
+6. [Sentence #501]  (TSLA_Q1_2021) **Model** 3 and ****Model** Y** were steps of improvement in that.
+7. [Sentence #502]  (TSLA_Q1_2021) But when you look at some of the other advancements that we are including in the ****Model** Y**, factories into Austin and Berlin, we have reduced the body pound by as much 60%.
+8. [Sentence #1061]  (TSLA_Q3_2021) The increase in production rate has primarily been driven by further ramping of the ****Model** Y** at our Shanghai factory.
+9. [Sentence #1066]  (TSLA_Q3_2021) This has enabled us to supply more vehicles to the North America market and to introduce ****Model** Y** to Europe.
+10. [Sentence #1079]  (TSLA_Q3_2021) This benefit primarily comes from higher volumes, particularly out of the Shanghai factory, increased mix of the ****Model** Y** as we -- and we have made good progress increasing **Model** S volumes.
+11. [Sentence #1116]  (TSLA_Q3_2021) While there is still more runway to grow these existing products, we are focused on ****Model** Y** expansion in Austin and Berlin, ramping S&X further in Fremont to restore to past levels, while also growing 3 and Y production in Fremont and Shanghai.
+12. [Sentence #1117]  (TSLA_Q3_2021) As we've mentioned before, after ****Model** Y** in Austin, our next product launch will be Cybertruck.
+13. [Sentence #1132]  (TSLA_Q3_2021) As we've mentioned before, we've seen record growth of both **Model** 3 and ****Model** Y** segments, where **Model** 3 is currently the bestselling luxury sedan worldwide.
+14. [Sentence #1133]  (TSLA_Q3_2021) As we mentioned at our shareholder's meeting, ****Model** Y** is poised to be the bestselling vehicle in the world.
+15. [Sentence #1152]  (TSLA_Q3_2021) So most recently, the ramp up to ****Model** Y**, which was our biggest contributor of volume in Q3.
+16. [Sentence #1155]  (TSLA_Q3_2021) Austin and Berlin are interesting factories because our first iterations of capacity there are on ****Model** Y**.
+17. [Sentence #1157]  (TSLA_Q3_2021) And so, we'll take ****Model** Y** at these factories.
+18. [Sentence #1625]  (TSLA_Q4_2021) So, in Texas, we're building the **Model** Ys with the structural battery pack and the 4680 cells, and we’ll start delivering after final certification of the vehicle, which should be fairly soon.
+19. [Sentence #1879]  (TSLA_Q4_2021) So, our mix of ****Model** Y** is increasing as we've ramped that to higher capacity in Fremont and also in Shanghai.
+20. [Sentence #1880]  (TSLA_Q4_2021) And the reason that matters is the ****Model** Y** is a vehicle that carries a higher profit than the **Model** 3.
+
+Total transcript-order evidence sentences: 20
+
+--- Evidence by Similarity ---
+1. [Sentence #27]  (TSLA_Q1_2021) (Similarity: 0.968) When it comes to ****Model** Y**, we think ****Model** Y** will be the best-selling car or vehicle of any kind in the world, and probably, next year.
+2. [Sentence #29]  (TSLA_Q1_2021) (Similarity: 0.963) I’d say more likely than not that in 2022 ****Model** Y** is the best-selling car or truck of any kind in the world.
+3. [Sentence #1157]  (TSLA_Q3_2021) (Similarity: 0.924) And so, we'll take ****Model** Y** at these factories.
+4. [Sentence #75]  (TSLA_Q1_2021) (Similarity: 0.915) And at this time, we will continue to ramp production of ****Model** Y** in three months in Shanghai.
+5. [Sentence #1880]  (TSLA_Q4_2021) (Similarity: 0.910) And the reason that matters is the ****Model** Y** is a vehicle that carries a higher profit than the **Model** 3.
+6. [Sentence #1061]  (TSLA_Q3_2021) (Similarity: 0.882) The increase in production rate has primarily been driven by further ramping of the ****Model** Y** at our Shanghai factory.
+7. [Sentence #1133]  (TSLA_Q3_2021) (Similarity: 0.879) As we mentioned at our shareholder's meeting, ****Model** Y** is poised to be the bestselling vehicle in the world.
+8. [Sentence #1066]  (TSLA_Q3_2021) (Similarity: 0.830) This has enabled us to supply more vehicles to the North America market and to introduce ****Model** Y** to Europe.
+9. [Sentence #1117]  (TSLA_Q3_2021) (Similarity: 0.827) As we've mentioned before, after ****Model** Y** in Austin, our next product launch will be Cybertruck.
+10. [Sentence #1879]  (TSLA_Q4_2021) (Similarity: 0.817) So, our mix of ****Model** Y** is increasing as we've ramped that to higher capacity in Fremont and also in Shanghai.
+11. [Sentence #1079]  (TSLA_Q3_2021) (Similarity: 0.807) This benefit primarily comes from higher volumes, particularly out of the Shanghai factory, increased mix of the ****Model** Y** as we -- and we have made good progress increasing **Model** S volumes.
+12. [Sentence #87]  (TSLA_Q1_2021) (Similarity: 0.804) First, we successfully launched and began the ramp of ****Model** Y** in Shanghai, achieving positive gross margin in the first quarter of production and receiving a great reception from the market.
+13. [Sentence #501]  (TSLA_Q1_2021) (Similarity: 0.793) **Model** 3 and ****Model** Y** were steps of improvement in that.
+14. [Sentence #1625]  (TSLA_Q4_2021) (Similarity: 0.790) So, in Texas, we're building the **Model** Ys with the structural battery pack and the 4680 cells, and we’ll start delivering after final certification of the vehicle, which should be fairly soon.
+15. [Sentence #1132]  (TSLA_Q3_2021) (Similarity: 0.787) As we've mentioned before, we've seen record growth of both **Model** 3 and ****Model** Y** segments, where **Model** 3 is currently the bestselling luxury sedan worldwide.
+16. [Sentence #1152]  (TSLA_Q3_2021) (Similarity: 0.786) So most recently, the ramp up to ****Model** Y**, which was our biggest contributor of volume in Q3.
+17. [Sentence #1116]  (TSLA_Q3_2021) (Similarity: 0.783) While there is still more runway to grow these existing products, we are focused on ****Model** Y** expansion in Austin and Berlin, ramping S&X further in Fremont to restore to past levels, while also growing 3 and Y production in Fremont and Shanghai.
+18. [Sentence #502]  (TSLA_Q1_2021) (Similarity: 0.773) But when you look at some of the other advancements that we are including in the ****Model** Y**, factories into Austin and Berlin, we have reduced the body pound by as much 60%.
+19. [Sentence #113]  (TSLA_Q1_2021) (Similarity: 0.772) As we think about Q2 and Q3, these quarters should largely be driven by execution on SNX, as we have discussed, continued ramp of ****Model** Y** in Shanghai and the associated **cost** reductions of these programs, and we expect profitability and cash generation to evolve over the course of the year in line with those improvements.
+20. [Sentence #1155]  (TSLA_Q3_2021) (Similarity: 0.768) Austin and Berlin are interesting factories because our first iterations of capacity there are on ****Model** Y**.
+
+Total similarity-top evidence sentences: 20
+
+-----
