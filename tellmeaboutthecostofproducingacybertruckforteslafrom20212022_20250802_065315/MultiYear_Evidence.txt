@@ -1,0 +1,37 @@
+[Multi-Year Analysis] tell me about the cost of producing  a cybertruck for tesla from 2021-2022
+
+--- Evidence in Transcript Order ---
+1. [Sentence #53]  (TSLA_Q2_2022) We are expecting to be – still expecting to be in **production** with the **Cybertruck** in the middle of next year.
+2. [Sentence #57]  (TSLA_Q4_2021) We will, however, do a lot of engineering and tooling and whatnot to create those vehicles, **Cybertruck**, Semi, Roadster, Optimus, and be ready to bring those to **production** hopefully next year.
+3. [Sentence #65]  (TSLA_Q1_2022) And we remain on track to reach volume **production** of the **Cybertruck** next year.
+4. [Sentence #90]  (TSLA_Q4_2022) This includes expanding in-house cell **production**, bringing **Cybertruck** to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+5. [Sentence #165]  (TSLA_Q3_2022) And the next question is, “How is **production** planning going for the **Cybertruck**?
+6. [Sentence #231]  (TSLA_Q4_2022) The next question from investors is, is **Cybertruck** **production** still on track for mid-year?
+7. [Sentence #262]  (TSLA_Q4_2021) Martin Viecha
+
+And the next question is, what are the biggest obstacles for **Cybertruck** volume **production** besides battery shortage?
+8. [Sentence #263]  (TSLA_Q4_2021) Elon Musk
+
+Batteries will probably not be the limiting factor in **Cybertruck** **production**.
+9. [Sentence #265]  (TSLA_Q4_2021) And then, there's a question of like, what's the average cost of **Cybertruck** and to what degree is that affordable?
+
+Total transcript-order evidence sentences: 9
+
+--- Evidence by Similarity ---
+1. [Sentence #165]  (TSLA_Q3_2022) (Similarity: 0.908) And the next question is, “How is **production** planning going for the **Cybertruck**?
+2. [Sentence #90]  (TSLA_Q4_2022) (Similarity: 0.884) This includes expanding in-house cell **production**, bringing **Cybertruck** to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+3. [Sentence #262]  (TSLA_Q4_2021) (Similarity: 0.877) Martin Viecha
+
+And the next question is, what are the biggest obstacles for **Cybertruck** volume **production** besides battery shortage?
+4. [Sentence #263]  (TSLA_Q4_2021) (Similarity: 0.833) Elon Musk
+
+Batteries will probably not be the limiting factor in **Cybertruck** **production**.
+5. [Sentence #231]  (TSLA_Q4_2022) (Similarity: 0.822) The next question from investors is, is **Cybertruck** **production** still on track for mid-year?
+6. [Sentence #65]  (TSLA_Q1_2022) (Similarity: 0.818) And we remain on track to reach volume **production** of the **Cybertruck** next year.
+7. [Sentence #57]  (TSLA_Q4_2021) (Similarity: 0.802) We will, however, do a lot of engineering and tooling and whatnot to create those vehicles, **Cybertruck**, Semi, Roadster, Optimus, and be ready to bring those to **production** hopefully next year.
+8. [Sentence #265]  (TSLA_Q4_2021) (Similarity: 0.798) And then, there's a question of like, what's the average cost of **Cybertruck** and to what degree is that affordable?
+9. [Sentence #53]  (TSLA_Q2_2022) (Similarity: 0.796) We are expecting to be – still expecting to be in **production** with the **Cybertruck** in the middle of next year.
+
+Total similarity-top evidence sentences: 9
+
+-----
