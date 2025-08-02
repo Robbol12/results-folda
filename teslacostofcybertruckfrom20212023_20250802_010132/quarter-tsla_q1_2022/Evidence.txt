@@ -1,0 +1,15 @@
+[TSLA_Q1_2022] tesla cost of cybertruck from 2021-2023
+
+--- Evidence in Transcript Order ---
+1. [Sentence #65]  And we remain on track to reach volume production of the **Cybertruck** next year.
+2. [Sentence #407]  First is regarding the **Cybertruck**.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #65]  (Similarity: 0.695) And we remain on track to reach volume production of the **Cybertruck** next year.
+2. [Sentence #407]  (Similarity: 0.635) First is regarding the **Cybertruck**.
+
+Total similarity-top evidence sentences: 2
+
+-----

@@ -1,0 +1,25 @@
+[TSLA_Q3_2021] tesla cost of cybertruck from 2021-2023
+
+--- Evidence in Transcript Order ---
+1. [Sentence #71]  As we've mentioned before, after Model Y in Austin, our next product launch will be **Cybertruck**.
+2. [Sentence #235]  The next question is, Elon said that we get an update on **Cybertruck** in November a year ago, but it hasn't happened and we know there are a lot of updates.
+3. [Sentence #236]  Will you show off the new and improved **Cybertruck**?
+4. [Sentence #239]  We get a lot of questions on **Cybertruck**.
+5. [Sentence #240]  We've been busy detailing the **Cybertruck** to achieve the prototype version we shared with customers awhile back.
+6. [Sentence #503]  And the second question is related to **Cybertruck**.
+7. [Sentence #505]  If you look at the exoskeleton steel, is the supply for that material sufficient for immediate ramp up, I'll say in 23-24 time for **Cybertruck**?
+
+Total transcript-order evidence sentences: 7
+
+--- Evidence by Similarity ---
+1. [Sentence #71]  (Similarity: 0.687) As we've mentioned before, after Model Y in Austin, our next product launch will be **Cybertruck**.
+2. [Sentence #240]  (Similarity: 0.659) We've been busy detailing the **Cybertruck** to achieve the prototype version we shared with customers awhile back.
+3. [Sentence #239]  (Similarity: 0.616) We get a lot of questions on **Cybertruck**.
+4. [Sentence #235]  (Similarity: 0.615) The next question is, Elon said that we get an update on **Cybertruck** in November a year ago, but it hasn't happened and we know there are a lot of updates.
+5. [Sentence #503]  (Similarity: 0.613) And the second question is related to **Cybertruck**.
+6. [Sentence #505]  (Similarity: 0.603) If you look at the exoskeleton steel, is the supply for that material sufficient for immediate ramp up, I'll say in 23-24 time for **Cybertruck**?
+7. [Sentence #236]  (Similarity: 0.602) Will you show off the new and improved **Cybertruck**?
+
+Total similarity-top evidence sentences: 7
+
+-----

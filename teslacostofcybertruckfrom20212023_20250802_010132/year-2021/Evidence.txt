@@ -1,0 +1,51 @@
+[Year 2021] tesla cost of cybertruck from 2021-2023
+
+--- Evidence in Transcript Order ---
+1. [Sentence #76]  (TSLA_Q1_2021) In the background, we are continuing work -- development work on the Semi, **Cybertruck**, on the Roadster and other products.
+2. [Sentence #1117]  (TSLA_Q3_2021) As we've mentioned before, after Model Y in Austin, our next product launch will be **Cybertruck**.
+3. [Sentence #1281]  (TSLA_Q3_2021) The next question is, Elon said that we get an update on **Cybertruck** in November a year ago, but it hasn't happened and we know there are a lot of updates.
+4. [Sentence #1282]  (TSLA_Q3_2021) Will you show off the new and improved **Cybertruck**?
+5. [Sentence #1285]  (TSLA_Q3_2021) We get a lot of questions on **Cybertruck**.
+6. [Sentence #1286]  (TSLA_Q3_2021) We've been busy detailing the **Cybertruck** to achieve the prototype version we shared with customers awhile back.
+7. [Sentence #1549]  (TSLA_Q3_2021) And the second question is related to **Cybertruck**.
+8. [Sentence #1551]  (TSLA_Q3_2021) If you look at the exoskeleton steel, is the supply for that material sufficient for immediate ramp up, I'll say in 23-24 time for **Cybertruck**?
+9. [Sentence #1863]  (TSLA_Q4_2021) Martin Viecha
+
+And the next question is, what are the biggest obstacles for **Cybertruck** volume production besides battery shortage?
+10. [Sentence #1864]  (TSLA_Q4_2021) Elon Musk
+
+Batteries will probably not be the limiting factor in **Cybertruck** production.
+11. [Sentence #1865]  (TSLA_Q4_2021) There's a lot of new technology in the **Cybertruck** that will take some time to work through.
+12. [Sentence #1866]  (TSLA_Q4_2021) And then, there's a question of like, what's the average **cost** of **Cybertruck** and to what degree is that affordable?
+13. [Sentence #1869]  (TSLA_Q4_2021) I worry more about like how do we the **Cybertruck** affordable despite having awesome technology.
+14. [Sentence #2024]  (TSLA_Q4_2021) I mean, it's going to be -- I think it's way cheaper to draw a price point with robotaxi, which is an autonomous Tesla, which every car we've made in the past three or four years will be capable of that, than a bus or a subway, will **cost** less than the subsidized value of a bus ticket.
+15. [Sentence #2034]  (TSLA_Q4_2021) And I think you made reference to **Cybertruck** maybe being 250,000 vehicles.
+16. [Sentence #2035]  (TSLA_Q4_2021) If there is no $25,000 vehicle being worked on, is it really realistic to think that you can sell more than 3 million vehicles with two very high-volume cars and **Cybertruck** in 2024, or how do we think about that or what else is missing in that equation?
+
+Total transcript-order evidence sentences: 16
+
+--- Evidence by Similarity ---
+1. [Sentence #1866]  (TSLA_Q4_2021) (Similarity: 0.834) And then, there's a question of like, what's the average **cost** of **Cybertruck** and to what degree is that affordable?
+2. [Sentence #1869]  (TSLA_Q4_2021) (Similarity: 0.706) I worry more about like how do we the **Cybertruck** affordable despite having awesome technology.
+3. [Sentence #1864]  (TSLA_Q4_2021) (Similarity: 0.694) Elon Musk
+
+Batteries will probably not be the limiting factor in **Cybertruck** production.
+4. [Sentence #1863]  (TSLA_Q4_2021) (Similarity: 0.690) Martin Viecha
+
+And the next question is, what are the biggest obstacles for **Cybertruck** volume production besides battery shortage?
+5. [Sentence #1117]  (TSLA_Q3_2021) (Similarity: 0.687) As we've mentioned before, after Model Y in Austin, our next product launch will be **Cybertruck**.
+6. [Sentence #2034]  (TSLA_Q4_2021) (Similarity: 0.673) And I think you made reference to **Cybertruck** maybe being 250,000 vehicles.
+7. [Sentence #2024]  (TSLA_Q4_2021) (Similarity: 0.661) I mean, it's going to be -- I think it's way cheaper to draw a price point with robotaxi, which is an autonomous Tesla, which every car we've made in the past three or four years will be capable of that, than a bus or a subway, will **cost** less than the subsidized value of a bus ticket.
+8. [Sentence #1286]  (TSLA_Q3_2021) (Similarity: 0.659) We've been busy detailing the **Cybertruck** to achieve the prototype version we shared with customers awhile back.
+9. [Sentence #2035]  (TSLA_Q4_2021) (Similarity: 0.655) If there is no $25,000 vehicle being worked on, is it really realistic to think that you can sell more than 3 million vehicles with two very high-volume cars and **Cybertruck** in 2024, or how do we think about that or what else is missing in that equation?
+10. [Sentence #1865]  (TSLA_Q4_2021) (Similarity: 0.647) There's a lot of new technology in the **Cybertruck** that will take some time to work through.
+11. [Sentence #1285]  (TSLA_Q3_2021) (Similarity: 0.616) We get a lot of questions on **Cybertruck**.
+12. [Sentence #1281]  (TSLA_Q3_2021) (Similarity: 0.615) The next question is, Elon said that we get an update on **Cybertruck** in November a year ago, but it hasn't happened and we know there are a lot of updates.
+13. [Sentence #1549]  (TSLA_Q3_2021) (Similarity: 0.613) And the second question is related to **Cybertruck**.
+14. [Sentence #76]  (TSLA_Q1_2021) (Similarity: 0.612) In the background, we are continuing work -- development work on the Semi, **Cybertruck**, on the Roadster and other products.
+15. [Sentence #1551]  (TSLA_Q3_2021) (Similarity: 0.603) If you look at the exoskeleton steel, is the supply for that material sufficient for immediate ramp up, I'll say in 23-24 time for **Cybertruck**?
+16. [Sentence #1282]  (TSLA_Q3_2021) (Similarity: 0.602) Will you show off the new and improved **Cybertruck**?
+
+Total similarity-top evidence sentences: 16
+
+-----

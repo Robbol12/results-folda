@@ -1,0 +1,19 @@
+[TSLA_Q1_2023] tesla cost of cybertruck from 2021-2023
+
+--- Evidence in Transcript Order ---
+1. [Sentence #27]  So the **Cybertruck** is no different.
+2. [Sentence #71]  We plan to continue to invest heavily into our future plans, which include the **Cybertruck** next-generation platform, in-house cell production, energy storage business and our autonomy and AI-enabled products.
+3. [Sentence #141]  And going forward for the rest of the year, the priority, one, is yielding **cost** for the 4680 program as we steadily ramp production ahead of **Cybertruck** next year.
+4. [Sentence #175]  And maybe the last question from investors, can you give updated specs and pricing for **Cybertruck** and any new features that will make it to production?
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #175]  (Similarity: 0.775) And maybe the last question from investors, can you give updated specs and pricing for **Cybertruck** and any new features that will make it to production?
+2. [Sentence #141]  (Similarity: 0.743) And going forward for the rest of the year, the priority, one, is yielding **cost** for the 4680 program as we steadily ramp production ahead of **Cybertruck** next year.
+3. [Sentence #71]  (Similarity: 0.652) We plan to continue to invest heavily into our future plans, which include the **Cybertruck** next-generation platform, in-house cell production, energy storage business and our autonomy and AI-enabled products.
+4. [Sentence #27]  (Similarity: 0.623) So the **Cybertruck** is no different.
+
+Total similarity-top evidence sentences: 4
+
+-----

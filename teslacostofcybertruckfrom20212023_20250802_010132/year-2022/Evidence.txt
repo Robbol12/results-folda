@@ -1,0 +1,41 @@
+[Year 2022] tesla cost of cybertruck from 2021-2023
+
+--- Evidence in Transcript Order ---
+1. [Sentence #65]  (TSLA_Q1_2022) And we remain on track to reach volume production of the **Cybertruck** next year.
+2. [Sentence #407]  (TSLA_Q1_2022) First is regarding the **Cybertruck**.
+3. [Sentence #609]  (TSLA_Q2_2022) Our team continues to focus on **Cybertruck** production readiness and some future platform design.
+4. [Sentence #610]  (TSLA_Q2_2022) We are expecting to be – still expecting to be in production with the **Cybertruck** in the middle of next year.
+5. [Sentence #794]  (TSLA_Q2_2022) We’re going to do another one with **Cybertruck**.
+6. [Sentence #849]  (TSLA_Q2_2022) And the last question is, when will the **Cybertruck** be officially available?
+7. [Sentence #1291]  (TSLA_Q3_2022) And the next question is, “How is production planning going for the **Cybertruck**?
+8. [Sentence #1555]  (TSLA_Q3_2022) We’ll probably see some **cost** reduction in 2023.
+9. [Sentence #1635]  (TSLA_Q3_2022) And how do you balance the need for 4680 across Semi, **Cybertruck** and potentially Model Y in 2023?
+10. [Sentence #1757]  (TSLA_Q4_2022) Partially offsetting these impacts, we've continued to execute on Tesla controllable **cost** reductions, in line with the progress we've made in prior years.
+11. [Sentence #1773]  (TSLA_Q4_2022) This includes expanding in-house cell production, bringing **Cybertruck** to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+12. [Sentence #1857]  (TSLA_Q4_2022) Really, our 2023 goal as a 4680 team is to deliver a **cost**-effective ramp of 4680s well ahead of **Cybertruck**.
+13. [Sentence #1865]  (TSLA_Q4_2022) And to be clear, for 2023, **Cybertruck** will not be a significant contributor to the bottom line but it will be into next year.
+14. [Sentence #1914]  (TSLA_Q4_2022) The next question from investors is, is **Cybertruck** production still on track for mid-year?
+15. [Sentence #2016]  (TSLA_Q4_2022) And that will actually add up to a pretty significant **cost** reduction on the powertrain side over the course of 2023.
+
+Total transcript-order evidence sentences: 15
+
+--- Evidence by Similarity ---
+1. [Sentence #1857]  (TSLA_Q4_2022) (Similarity: 0.807) Really, our 2023 goal as a 4680 team is to deliver a **cost**-effective ramp of 4680s well ahead of **Cybertruck**.
+2. [Sentence #1865]  (TSLA_Q4_2022) (Similarity: 0.739) And to be clear, for 2023, **Cybertruck** will not be a significant contributor to the bottom line but it will be into next year.
+3. [Sentence #1773]  (TSLA_Q4_2022) (Similarity: 0.721) This includes expanding in-house cell production, bringing **Cybertruck** to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+4. [Sentence #849]  (TSLA_Q2_2022) (Similarity: 0.713) And the last question is, when will the **Cybertruck** be officially available?
+5. [Sentence #1291]  (TSLA_Q3_2022) (Similarity: 0.703) And the next question is, “How is production planning going for the **Cybertruck**?
+6. [Sentence #65]  (TSLA_Q1_2022) (Similarity: 0.695) And we remain on track to reach volume production of the **Cybertruck** next year.
+7. [Sentence #1635]  (TSLA_Q3_2022) (Similarity: 0.687) And how do you balance the need for 4680 across Semi, **Cybertruck** and potentially Model Y in 2023?
+8. [Sentence #610]  (TSLA_Q2_2022) (Similarity: 0.681) We are expecting to be – still expecting to be in production with the **Cybertruck** in the middle of next year.
+9. [Sentence #1914]  (TSLA_Q4_2022) (Similarity: 0.676) The next question from investors is, is **Cybertruck** production still on track for mid-year?
+10. [Sentence #2016]  (TSLA_Q4_2022) (Similarity: 0.662) And that will actually add up to a pretty significant **cost** reduction on the powertrain side over the course of 2023.
+11. [Sentence #794]  (TSLA_Q2_2022) (Similarity: 0.653) We’re going to do another one with **Cybertruck**.
+12. [Sentence #407]  (TSLA_Q1_2022) (Similarity: 0.635) First is regarding the **Cybertruck**.
+13. [Sentence #1757]  (TSLA_Q4_2022) (Similarity: 0.635) Partially offsetting these impacts, we've continued to execute on Tesla controllable **cost** reductions, in line with the progress we've made in prior years.
+14. [Sentence #1555]  (TSLA_Q3_2022) (Similarity: 0.625) We’ll probably see some **cost** reduction in 2023.
+15. [Sentence #609]  (TSLA_Q2_2022) (Similarity: 0.606) Our team continues to focus on **Cybertruck** production readiness and some future platform design.
+
+Total similarity-top evidence sentences: 15
+
+-----

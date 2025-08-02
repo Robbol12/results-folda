@@ -1,0 +1,17 @@
+[TSLA_Q3_2022] tesla cost of cybertruck from 2021-2023
+
+--- Evidence in Transcript Order ---
+1. [Sentence #165]  And the next question is, “How is production planning going for the **Cybertruck**?
+2. [Sentence #429]  We’ll probably see some **cost** reduction in 2023.
+3. [Sentence #509]  And how do you balance the need for 4680 across Semi, **Cybertruck** and potentially Model Y in 2023?
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #165]  (Similarity: 0.703) And the next question is, “How is production planning going for the **Cybertruck**?
+2. [Sentence #509]  (Similarity: 0.687) And how do you balance the need for 4680 across Semi, **Cybertruck** and potentially Model Y in 2023?
+3. [Sentence #429]  (Similarity: 0.625) We’ll probably see some **cost** reduction in 2023.
+
+Total similarity-top evidence sentences: 3
+
+-----

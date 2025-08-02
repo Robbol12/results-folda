@@ -1,0 +1,19 @@
+[TSLA_Q4_2023] tesla cost of cybertruck from 2021-2023
+
+--- Evidence in Transcript Order ---
+1. [Sentence #84]  In our vehicle business, we continue to see improvements in our per unit **cost** despite us being in the early phase of **Cybertruck** ramp.
+2. [Sentence #293]  As long as the price is affordable, I mean, I see us ultimately delivering on the order of 0.25 million, something like 0.25 million Cybertrucks a year in North America, maybe more.
+3. [Sentence #363]  And I would say a big kudos goes to the team out here at Tesla, both the engineering team as well as the supply chain team, because every time we give them a challenge, they go gangbusters to try and figure out whatever they can to take out further **cost**.
+4. [Sentence #465]  To what extent do you think **Cybertruck** is really a proving ground for the next-gen platform and is really going to be a gating factor to unlocking the **cost** reductions needed for the next-gen platform?
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #465]  (Similarity: 0.863) To what extent do you think **Cybertruck** is really a proving ground for the next-gen platform and is really going to be a gating factor to unlocking the **cost** reductions needed for the next-gen platform?
+2. [Sentence #84]  (Similarity: 0.749) In our vehicle business, we continue to see improvements in our per unit **cost** despite us being in the early phase of **Cybertruck** ramp.
+3. [Sentence #293]  (Similarity: 0.628) As long as the price is affordable, I mean, I see us ultimately delivering on the order of 0.25 million, something like 0.25 million Cybertrucks a year in North America, maybe more.
+4. [Sentence #363]  (Similarity: 0.621) And I would say a big kudos goes to the team out here at Tesla, both the engineering team as well as the supply chain team, because every time we give them a challenge, they go gangbusters to try and figure out whatever they can to take out further **cost**.
+
+Total similarity-top evidence sentences: 4
+
+-----

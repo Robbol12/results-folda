@@ -1,0 +1,21 @@
+[TSLA_Q2_2023] tesla cost of cybertruck from 2021-2023
+
+--- Evidence in Transcript Order ---
+1. [Sentence #52]  With regard to our **Cybertruck**, we continue to build our release candidates of the **Cybertruck** on our final production line in Austin.
+2. [Sentence #110]  Here in Texas, we’re preparing to launch our **Cybertruck** cell, which is 10% higher energy density than current production.
+3. [Sentence #177]  The next question, when will we give more information about the **Cybertruck** orders, estimated delivery schedules, pricing and specifications?
+4. [Sentence #180]  I do want to emphasize that the **Cybertruck** has a lot of new technology in it, like a lot.
+5. [Sentence #405]  As we just think about sort of in the year ahead, **Cybertruck** is going to be some contribution.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #405]  (Similarity: 0.669) As we just think about sort of in the year ahead, **Cybertruck** is going to be some contribution.
+2. [Sentence #110]  (Similarity: 0.642) Here in Texas, we’re preparing to launch our **Cybertruck** cell, which is 10% higher energy density than current production.
+3. [Sentence #52]  (Similarity: 0.639) With regard to our **Cybertruck**, we continue to build our release candidates of the **Cybertruck** on our final production line in Austin.
+4. [Sentence #177]  (Similarity: 0.634) The next question, when will we give more information about the **Cybertruck** orders, estimated delivery schedules, pricing and specifications?
+5. [Sentence #180]  (Similarity: 0.619) I do want to emphasize that the **Cybertruck** has a lot of new technology in it, like a lot.
+
+Total similarity-top evidence sentences: 5
+
+-----

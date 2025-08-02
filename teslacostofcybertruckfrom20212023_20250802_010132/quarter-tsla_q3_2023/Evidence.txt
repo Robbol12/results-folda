@@ -1,0 +1,27 @@
+[TSLA_Q3_2023] tesla cost of cybertruck from 2021-2023
+
+--- Evidence in Transcript Order ---
+1. [Sentence #17]  The **Cybertruck**, I know a lot of people are excited about the **Cybertruck**.
+2. [Sentence #21]  I do want to emphasize that there will be enormous challenges in reaching volume production with the **Cybertruck**, and then in making a **Cybertruck** cash flow positive.
+3. [Sentence #68]  How many **Cybertruck** deliveries do you anticipate for 2024?
+4. [Sentence #91]  The **Cybertruck** cell with 10% higher energy than our Model Y cell started production on line two in Texas.
+5. [Sentence #215]  I mean **Cybertruck** is -- yes.
+6. [Sentence #218]  And so it is -- **Cybertruck**’s one of those special products that comes along only once in a long while.
+7. [Sentence #297]  Plus, like Elon mentioned, we’re going to be ramping **Cybertruck**, which is going to be another headwind, which we will be dealing with.
+8. [Sentence #411]  But then on the flip side, we’re going to be ramping a new product like **Cybertruck**, which we talked about.
+
+Total transcript-order evidence sentences: 8
+
+--- Evidence by Similarity ---
+1. [Sentence #68]  (Similarity: 0.761) How many **Cybertruck** deliveries do you anticipate for 2024?
+2. [Sentence #17]  (Similarity: 0.652) The **Cybertruck**, I know a lot of people are excited about the **Cybertruck**.
+3. [Sentence #21]  (Similarity: 0.641) I do want to emphasize that there will be enormous challenges in reaching volume production with the **Cybertruck**, and then in making a **Cybertruck** cash flow positive.
+4. [Sentence #411]  (Similarity: 0.626) But then on the flip side, we’re going to be ramping a new product like **Cybertruck**, which we talked about.
+5. [Sentence #215]  (Similarity: 0.611) I mean **Cybertruck** is -- yes.
+6. [Sentence #91]  (Similarity: 0.609) The **Cybertruck** cell with 10% higher energy than our Model Y cell started production on line two in Texas.
+7. [Sentence #218]  (Similarity: 0.603) And so it is -- **Cybertruck**’s one of those special products that comes along only once in a long while.
+8. [Sentence #297]  (Similarity: 0.600) Plus, like Elon mentioned, we’re going to be ramping **Cybertruck**, which is going to be another headwind, which we will be dealing with.
+
+Total similarity-top evidence sentences: 8
+
+-----

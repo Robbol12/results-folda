@@ -1,0 +1,53 @@
+[Year 2023] tesla cost of cybertruck from 2021-2023
+
+--- Evidence in Transcript Order ---
+1. [Sentence #27]  (TSLA_Q1_2023) So the **Cybertruck** is no different.
+2. [Sentence #71]  (TSLA_Q1_2023) We plan to continue to invest heavily into our future plans, which include the **Cybertruck** next-generation platform, in-house cell production, energy storage business and our autonomy and AI-enabled products.
+3. [Sentence #141]  (TSLA_Q1_2023) And going forward for the rest of the year, the priority, one, is yielding **cost** for the 4680 program as we steadily ramp production ahead of **Cybertruck** next year.
+4. [Sentence #175]  (TSLA_Q1_2023) And maybe the last question from investors, can you give updated specs and pricing for **Cybertruck** and any new features that will make it to production?
+5. [Sentence #637]  (TSLA_Q2_2023) With regard to our **Cybertruck**, we continue to build our release candidates of the **Cybertruck** on our final production line in Austin.
+6. [Sentence #695]  (TSLA_Q2_2023) Here in Texas, we’re preparing to launch our **Cybertruck** cell, which is 10% higher energy density than current production.
+7. [Sentence #762]  (TSLA_Q2_2023) The next question, when will we give more information about the **Cybertruck** orders, estimated delivery schedules, pricing and specifications?
+8. [Sentence #765]  (TSLA_Q2_2023) I do want to emphasize that the **Cybertruck** has a lot of new technology in it, like a lot.
+9. [Sentence #990]  (TSLA_Q2_2023) As we just think about sort of in the year ahead, **Cybertruck** is going to be some contribution.
+10. [Sentence #1166]  (TSLA_Q3_2023) The **Cybertruck**, I know a lot of people are excited about the **Cybertruck**.
+11. [Sentence #1170]  (TSLA_Q3_2023) I do want to emphasize that there will be enormous challenges in reaching volume production with the **Cybertruck**, and then in making a **Cybertruck** cash flow positive.
+12. [Sentence #1217]  (TSLA_Q3_2023) How many **Cybertruck** deliveries do you anticipate for 2024?
+13. [Sentence #1240]  (TSLA_Q3_2023) The **Cybertruck** cell with 10% higher energy than our Model Y cell started production on line two in Texas.
+14. [Sentence #1364]  (TSLA_Q3_2023) I mean **Cybertruck** is -- yes.
+15. [Sentence #1367]  (TSLA_Q3_2023) And so it is -- **Cybertruck**’s one of those special products that comes along only once in a long while.
+16. [Sentence #1446]  (TSLA_Q3_2023) Plus, like Elon mentioned, we’re going to be ramping **Cybertruck**, which is going to be another headwind, which we will be dealing with.
+17. [Sentence #1560]  (TSLA_Q3_2023) But then on the flip side, we’re going to be ramping a new product like **Cybertruck**, which we talked about.
+18. [Sentence #1716]  (TSLA_Q4_2023) In our vehicle business, we continue to see improvements in our per unit **cost** despite us being in the early phase of **Cybertruck** ramp.
+19. [Sentence #1925]  (TSLA_Q4_2023) As long as the price is affordable, I mean, I see us ultimately delivering on the order of 0.25 million, something like 0.25 million Cybertrucks a year in North America, maybe more.
+20. [Sentence #1995]  (TSLA_Q4_2023) And I would say a big kudos goes to the team out here at Tesla, both the engineering team as well as the supply chain team, because every time we give them a challenge, they go gangbusters to try and figure out whatever they can to take out further **cost**.
+21. [Sentence #2097]  (TSLA_Q4_2023) To what extent do you think **Cybertruck** is really a proving ground for the next-gen platform and is really going to be a gating factor to unlocking the **cost** reductions needed for the next-gen platform?
+
+Total transcript-order evidence sentences: 21
+
+--- Evidence by Similarity ---
+1. [Sentence #2097]  (TSLA_Q4_2023) (Similarity: 0.863) To what extent do you think **Cybertruck** is really a proving ground for the next-gen platform and is really going to be a gating factor to unlocking the **cost** reductions needed for the next-gen platform?
+2. [Sentence #175]  (TSLA_Q1_2023) (Similarity: 0.775) And maybe the last question from investors, can you give updated specs and pricing for **Cybertruck** and any new features that will make it to production?
+3. [Sentence #1217]  (TSLA_Q3_2023) (Similarity: 0.761) How many **Cybertruck** deliveries do you anticipate for 2024?
+4. [Sentence #1716]  (TSLA_Q4_2023) (Similarity: 0.749) In our vehicle business, we continue to see improvements in our per unit **cost** despite us being in the early phase of **Cybertruck** ramp.
+5. [Sentence #141]  (TSLA_Q1_2023) (Similarity: 0.743) And going forward for the rest of the year, the priority, one, is yielding **cost** for the 4680 program as we steadily ramp production ahead of **Cybertruck** next year.
+6. [Sentence #990]  (TSLA_Q2_2023) (Similarity: 0.669) As we just think about sort of in the year ahead, **Cybertruck** is going to be some contribution.
+7. [Sentence #71]  (TSLA_Q1_2023) (Similarity: 0.652) We plan to continue to invest heavily into our future plans, which include the **Cybertruck** next-generation platform, in-house cell production, energy storage business and our autonomy and AI-enabled products.
+8. [Sentence #1166]  (TSLA_Q3_2023) (Similarity: 0.652) The **Cybertruck**, I know a lot of people are excited about the **Cybertruck**.
+9. [Sentence #695]  (TSLA_Q2_2023) (Similarity: 0.642) Here in Texas, we’re preparing to launch our **Cybertruck** cell, which is 10% higher energy density than current production.
+10. [Sentence #1170]  (TSLA_Q3_2023) (Similarity: 0.641) I do want to emphasize that there will be enormous challenges in reaching volume production with the **Cybertruck**, and then in making a **Cybertruck** cash flow positive.
+11. [Sentence #637]  (TSLA_Q2_2023) (Similarity: 0.639) With regard to our **Cybertruck**, we continue to build our release candidates of the **Cybertruck** on our final production line in Austin.
+12. [Sentence #762]  (TSLA_Q2_2023) (Similarity: 0.634) The next question, when will we give more information about the **Cybertruck** orders, estimated delivery schedules, pricing and specifications?
+13. [Sentence #1925]  (TSLA_Q4_2023) (Similarity: 0.628) As long as the price is affordable, I mean, I see us ultimately delivering on the order of 0.25 million, something like 0.25 million Cybertrucks a year in North America, maybe more.
+14. [Sentence #1560]  (TSLA_Q3_2023) (Similarity: 0.626) But then on the flip side, we’re going to be ramping a new product like **Cybertruck**, which we talked about.
+15. [Sentence #27]  (TSLA_Q1_2023) (Similarity: 0.623) So the **Cybertruck** is no different.
+16. [Sentence #1995]  (TSLA_Q4_2023) (Similarity: 0.621) And I would say a big kudos goes to the team out here at Tesla, both the engineering team as well as the supply chain team, because every time we give them a challenge, they go gangbusters to try and figure out whatever they can to take out further **cost**.
+17. [Sentence #765]  (TSLA_Q2_2023) (Similarity: 0.619) I do want to emphasize that the **Cybertruck** has a lot of new technology in it, like a lot.
+18. [Sentence #1364]  (TSLA_Q3_2023) (Similarity: 0.611) I mean **Cybertruck** is -- yes.
+19. [Sentence #1240]  (TSLA_Q3_2023) (Similarity: 0.609) The **Cybertruck** cell with 10% higher energy than our Model Y cell started production on line two in Texas.
+20. [Sentence #1367]  (TSLA_Q3_2023) (Similarity: 0.603) And so it is -- **Cybertruck**’s one of those special products that comes along only once in a long while.
+21. [Sentence #1446]  (TSLA_Q3_2023) (Similarity: 0.600) Plus, like Elon mentioned, we’re going to be ramping **Cybertruck**, which is going to be another headwind, which we will be dealing with.
+
+Total similarity-top evidence sentences: 21
+
+-----

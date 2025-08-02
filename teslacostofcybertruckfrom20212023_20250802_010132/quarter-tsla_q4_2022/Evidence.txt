@@ -1,0 +1,23 @@
+[TSLA_Q4_2022] tesla cost of cybertruck from 2021-2023
+
+--- Evidence in Transcript Order ---
+1. [Sentence #74]  Partially offsetting these impacts, we've continued to execute on Tesla controllable **cost** reductions, in line with the progress we've made in prior years.
+2. [Sentence #90]  This includes expanding in-house cell production, bringing **Cybertruck** to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+3. [Sentence #174]  Really, our 2023 goal as a 4680 team is to deliver a **cost**-effective ramp of 4680s well ahead of **Cybertruck**.
+4. [Sentence #182]  And to be clear, for 2023, **Cybertruck** will not be a significant contributor to the bottom line but it will be into next year.
+5. [Sentence #231]  The next question from investors is, is **Cybertruck** production still on track for mid-year?
+6. [Sentence #333]  And that will actually add up to a pretty significant **cost** reduction on the powertrain side over the course of 2023.
+
+Total transcript-order evidence sentences: 6
+
+--- Evidence by Similarity ---
+1. [Sentence #174]  (Similarity: 0.807) Really, our 2023 goal as a 4680 team is to deliver a **cost**-effective ramp of 4680s well ahead of **Cybertruck**.
+2. [Sentence #182]  (Similarity: 0.739) And to be clear, for 2023, **Cybertruck** will not be a significant contributor to the bottom line but it will be into next year.
+3. [Sentence #90]  (Similarity: 0.721) This includes expanding in-house cell production, bringing **Cybertruck** to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+4. [Sentence #231]  (Similarity: 0.676) The next question from investors is, is **Cybertruck** production still on track for mid-year?
+5. [Sentence #333]  (Similarity: 0.662) And that will actually add up to a pretty significant **cost** reduction on the powertrain side over the course of 2023.
+6. [Sentence #74]  (Similarity: 0.635) Partially offsetting these impacts, we've continued to execute on Tesla controllable **cost** reductions, in line with the progress we've made in prior years.
+
+Total similarity-top evidence sentences: 6
+
+-----

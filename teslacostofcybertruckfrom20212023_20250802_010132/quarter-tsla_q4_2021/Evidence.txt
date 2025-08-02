@@ -1,0 +1,35 @@
+[TSLA_Q4_2021] tesla cost of cybertruck from 2021-2023
+
+--- Evidence in Transcript Order ---
+1. [Sentence #262]  Martin Viecha
+
+And the next question is, what are the biggest obstacles for **Cybertruck** volume production besides battery shortage?
+2. [Sentence #263]  Elon Musk
+
+Batteries will probably not be the limiting factor in **Cybertruck** production.
+3. [Sentence #264]  There's a lot of new technology in the **Cybertruck** that will take some time to work through.
+4. [Sentence #265]  And then, there's a question of like, what's the average **cost** of **Cybertruck** and to what degree is that affordable?
+5. [Sentence #268]  I worry more about like how do we the **Cybertruck** affordable despite having awesome technology.
+6. [Sentence #423]  I mean, it's going to be -- I think it's way cheaper to draw a price point with robotaxi, which is an autonomous Tesla, which every car we've made in the past three or four years will be capable of that, than a bus or a subway, will **cost** less than the subsidized value of a bus ticket.
+7. [Sentence #433]  And I think you made reference to **Cybertruck** maybe being 250,000 vehicles.
+8. [Sentence #434]  If there is no $25,000 vehicle being worked on, is it really realistic to think that you can sell more than 3 million vehicles with two very high-volume cars and **Cybertruck** in 2024, or how do we think about that or what else is missing in that equation?
+
+Total transcript-order evidence sentences: 8
+
+--- Evidence by Similarity ---
+1. [Sentence #265]  (Similarity: 0.834) And then, there's a question of like, what's the average **cost** of **Cybertruck** and to what degree is that affordable?
+2. [Sentence #268]  (Similarity: 0.706) I worry more about like how do we the **Cybertruck** affordable despite having awesome technology.
+3. [Sentence #263]  (Similarity: 0.694) Elon Musk
+
+Batteries will probably not be the limiting factor in **Cybertruck** production.
+4. [Sentence #262]  (Similarity: 0.690) Martin Viecha
+
+And the next question is, what are the biggest obstacles for **Cybertruck** volume production besides battery shortage?
+5. [Sentence #433]  (Similarity: 0.673) And I think you made reference to **Cybertruck** maybe being 250,000 vehicles.
+6. [Sentence #423]  (Similarity: 0.661) I mean, it's going to be -- I think it's way cheaper to draw a price point with robotaxi, which is an autonomous Tesla, which every car we've made in the past three or four years will be capable of that, than a bus or a subway, will **cost** less than the subsidized value of a bus ticket.
+7. [Sentence #434]  (Similarity: 0.655) If there is no $25,000 vehicle being worked on, is it really realistic to think that you can sell more than 3 million vehicles with two very high-volume cars and **Cybertruck** in 2024, or how do we think about that or what else is missing in that equation?
+8. [Sentence #264]  (Similarity: 0.647) There's a lot of new technology in the **Cybertruck** that will take some time to work through.
+
+Total similarity-top evidence sentences: 8
+
+-----
