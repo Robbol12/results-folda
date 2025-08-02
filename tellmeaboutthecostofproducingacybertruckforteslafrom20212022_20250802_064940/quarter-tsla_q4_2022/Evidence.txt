@@ -1,0 +1,17 @@
+[TSLA_Q4_2022] tell me about the cost of producing  a cybertruck for tesla from 2021-2022
+
+--- Evidence in Transcript Order ---
+1. [Sentence #90]  This includes expanding in-house cell **production**, bringing **Cybertruck** to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+2. [Sentence #174]  Really, our 2023 goal as a 4680 team is to deliver a **cost**-effective ramp of 4680s well ahead of **Cybertruck**.
+3. [Sentence #231]  The next question from investors is, is **Cybertruck** **production** still on track for mid-year?
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #90]  (Similarity: 0.884) This includes expanding in-house cell **production**, bringing **Cybertruck** to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+2. [Sentence #231]  (Similarity: 0.822) The next question from investors is, is **Cybertruck** **production** still on track for mid-year?
+3. [Sentence #174]  (Similarity: 0.800) Really, our 2023 goal as a 4680 team is to deliver a **cost**-effective ramp of 4680s well ahead of **Cybertruck**.
+
+Total similarity-top evidence sentences: 3
+
+-----

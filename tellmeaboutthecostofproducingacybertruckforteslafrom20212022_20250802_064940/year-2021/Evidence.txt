@@ -1,0 +1,29 @@
+[Year 2021] tell me about the cost of producing  a cybertruck for tesla from 2021-2022
+
+--- Evidence in Transcript Order ---
+1. [Sentence #1658]  (TSLA_Q4_2021) We will, however, do a lot of engineering and tooling and whatnot to create those vehicles, **Cybertruck**, Semi, Roadster, Optimus, and be ready to bring those to **production** hopefully next year.
+2. [Sentence #1863]  (TSLA_Q4_2021) Martin Viecha
+
+And the next question is, what are the biggest obstacles for **Cybertruck** volume **production** besides battery shortage?
+3. [Sentence #1864]  (TSLA_Q4_2021) Elon Musk
+
+Batteries will probably not be the limiting factor in **Cybertruck** **production**.
+4. [Sentence #1866]  (TSLA_Q4_2021) And then, there's a question of like, what's the average **cost** of **Cybertruck** and to what degree is that affordable?
+5. [Sentence #1874]  (TSLA_Q4_2021) The next question is, how much of Tesla's margin improvement is from, number one, economies of scale; number two, **production** design -- **production** line design efficiencies; number three, reduced transportation **costs** from multiple plant locations; and number four, pricing versus **cost** inflation; or number five, other sources?
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #1866]  (TSLA_Q4_2021) (Similarity: 0.918) And then, there's a question of like, what's the average **cost** of **Cybertruck** and to what degree is that affordable?
+2. [Sentence #1863]  (TSLA_Q4_2021) (Similarity: 0.877) Martin Viecha
+
+And the next question is, what are the biggest obstacles for **Cybertruck** volume **production** besides battery shortage?
+3. [Sentence #1874]  (TSLA_Q4_2021) (Similarity: 0.838) The next question is, how much of Tesla's margin improvement is from, number one, economies of scale; number two, **production** design -- **production** line design efficiencies; number three, reduced transportation **costs** from multiple plant locations; and number four, pricing versus **cost** inflation; or number five, other sources?
+4. [Sentence #1864]  (TSLA_Q4_2021) (Similarity: 0.833) Elon Musk
+
+Batteries will probably not be the limiting factor in **Cybertruck** **production**.
+5. [Sentence #1658]  (TSLA_Q4_2021) (Similarity: 0.802) We will, however, do a lot of engineering and tooling and whatnot to create those vehicles, **Cybertruck**, Semi, Roadster, Optimus, and be ready to bring those to **production** hopefully next year.
+
+Total similarity-top evidence sentences: 5
+
+-----
