@@ -1,0 +1,21 @@
+[Year 2022] cost of cybertruck; production of cybertruck; cybertruck production
+
+--- Evidence in Transcript Order ---
+1. [Sentence #65]  (TSLA_Q1_2022) And we remain on track to reach volume production of the Cybertruck next year.
+2. [Sentence #609]  (TSLA_Q2_2022) Our team continues to focus on **Cybertruck production** readiness and some future platform design.
+3. [Sentence #794]  (TSLA_Q2_2022) We’re going to do another one with Cybertruck.
+4. [Sentence #1291]  (TSLA_Q3_2022) And the next question is, “How is production planning going for the Cybertruck?
+5. [Sentence #1914]  (TSLA_Q4_2022) The next question from investors is, is **Cybertruck production** still on track for mid-year?
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #609]  (TSLA_Q2_2022) (Similarity: 0.866) Our team continues to focus on **Cybertruck production** readiness and some future platform design.
+2. [Sentence #1914]  (TSLA_Q4_2022) (Similarity: 0.835) The next question from investors is, is **Cybertruck production** still on track for mid-year?
+3. [Sentence #1291]  (TSLA_Q3_2022) (Similarity: 0.687) And the next question is, “How is production planning going for the Cybertruck?
+4. [Sentence #65]  (TSLA_Q1_2022) (Similarity: 0.636) And we remain on track to reach volume production of the Cybertruck next year.
+5. [Sentence #794]  (TSLA_Q2_2022) (Similarity: 0.609) We’re going to do another one with Cybertruck.
+
+Total similarity-top evidence sentences: 5
+
+-----

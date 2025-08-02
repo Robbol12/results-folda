@@ -1,0 +1,15 @@
+[TSLA_Q2_2022] cost of cybertruck; production of cybertruck; cybertruck production
+
+--- Evidence in Transcript Order ---
+1. [Sentence #52]  Our team continues to focus on **Cybertruck production** readiness and some future platform design.
+2. [Sentence #237]  We’re going to do another one with Cybertruck.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #52]  (Similarity: 0.866) Our team continues to focus on **Cybertruck production** readiness and some future platform design.
+2. [Sentence #237]  (Similarity: 0.609) We’re going to do another one with Cybertruck.
+
+Total similarity-top evidence sentences: 2
+
+-----

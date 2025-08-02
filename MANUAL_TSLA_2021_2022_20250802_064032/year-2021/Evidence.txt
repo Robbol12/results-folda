@@ -1,0 +1,21 @@
+[Year 2021] cost of cybertruck; production of cybertruck; cybertruck production
+
+--- Evidence in Transcript Order ---
+1. [Sentence #1285]  (TSLA_Q3_2021) We get a lot of questions on Cybertruck.
+2. [Sentence #1864]  (TSLA_Q4_2021) Elon Musk
+
+Batteries will probably not be the limiting factor in **Cybertruck production**.
+3. [Sentence #1866]  (TSLA_Q4_2021) And then, there's a question of like, what's the average **cost of Cybertruck** and to what degree is that affordable?
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #1866]  (TSLA_Q4_2021) (Similarity: 0.951) And then, there's a question of like, what's the average **cost of Cybertruck** and to what degree is that affordable?
+2. [Sentence #1864]  (TSLA_Q4_2021) (Similarity: 0.728) Elon Musk
+
+Batteries will probably not be the limiting factor in **Cybertruck production**.
+3. [Sentence #1285]  (TSLA_Q3_2021) (Similarity: 0.611) We get a lot of questions on Cybertruck.
+
+Total similarity-top evidence sentences: 3
+
+-----
