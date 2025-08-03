@@ -1,0 +1,31 @@
+[Year 2021] model-y; model y; cost of model y; cost of model-y
+
+--- Evidence in Transcript Order ---
+1. [Sentence #27]  (TSLA_Q1_2021) When it comes to [white on yellow]Model Y[/white on yellow], we think [white on yellow]Model Y[/white on yellow] will be the best-selling car or vehicle of any kind in the world, and probably, next year.
+2. [Sentence #75]  (TSLA_Q1_2021) And at this time, we will continue to ramp production of [white on yellow]Model Y[/white on yellow] in three months in Shanghai.
+3. [Sentence #87]  (TSLA_Q1_2021) First, we successfully launched and began the ramp of [white on yellow]Model Y[/white on yellow] in Shanghai, achieving positive gross margin in the first quarter of production and receiving a great reception from the market.
+4. [Sentence #501]  (TSLA_Q1_2021) Model 3 and [white on yellow]Model Y[/white on yellow] were steps of improvement in that.
+5. [Sentence #502]  (TSLA_Q1_2021) But when you look at some of the other advancements that we are including in the [white on yellow]Model Y[/white on yellow], factories into Austin and Berlin, we have reduced the body pound by as much 60%.
+6. [Sentence #1061]  (TSLA_Q3_2021) The increase in production rate has primarily been driven by further ramping of the [white on yellow]Model Y[/white on yellow] at our Shanghai factory.
+7. [Sentence #1079]  (TSLA_Q3_2021) This benefit primarily comes from higher volumes, particularly out of the Shanghai factory, increased mix of the [white on yellow]Model Y[/white on yellow] as we -- and we have made good progress increasing Model S volumes.
+8. [Sentence #1157]  (TSLA_Q3_2021) And so, we'll take [white on yellow]Model Y[/white on yellow] at these factories.
+9. [Sentence #1879]  (TSLA_Q4_2021) So, our mix of [white on yellow]Model Y[/white on yellow] is increasing as we've ramped that to higher capacity in Fremont and also in Shanghai.
+10. [Sentence #1880]  (TSLA_Q4_2021) And the reason that matters is the [white on yellow]Model Y[/white on yellow] is a vehicle that carries a higher profit than the Model 3.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #1061]  (TSLA_Q3_2021) (Similarity: 0.783) The increase in production rate has primarily been driven by further ramping of the [white on yellow]Model Y[/white on yellow] at our Shanghai factory.
+2. [Sentence #1880]  (TSLA_Q4_2021) (Similarity: 0.768) And the reason that matters is the [white on yellow]Model Y[/white on yellow] is a vehicle that carries a higher profit than the Model 3.
+3. [Sentence #1157]  (TSLA_Q3_2021) (Similarity: 0.764) And so, we'll take [white on yellow]Model Y[/white on yellow] at these factories.
+4. [Sentence #501]  (TSLA_Q1_2021) (Similarity: 0.756) Model 3 and [white on yellow]Model Y[/white on yellow] were steps of improvement in that.
+5. [Sentence #75]  (TSLA_Q1_2021) (Similarity: 0.739) And at this time, we will continue to ramp production of [white on yellow]Model Y[/white on yellow] in three months in Shanghai.
+6. [Sentence #1879]  (TSLA_Q4_2021) (Similarity: 0.697) So, our mix of [white on yellow]Model Y[/white on yellow] is increasing as we've ramped that to higher capacity in Fremont and also in Shanghai.
+7. [Sentence #27]  (TSLA_Q1_2021) (Similarity: 0.695) When it comes to [white on yellow]Model Y[/white on yellow], we think [white on yellow]Model Y[/white on yellow] will be the best-selling car or vehicle of any kind in the world, and probably, next year.
+8. [Sentence #87]  (TSLA_Q1_2021) (Similarity: 0.694) First, we successfully launched and began the ramp of [white on yellow]Model Y[/white on yellow] in Shanghai, achieving positive gross margin in the first quarter of production and receiving a great reception from the market.
+9. [Sentence #1079]  (TSLA_Q3_2021) (Similarity: 0.680) This benefit primarily comes from higher volumes, particularly out of the Shanghai factory, increased mix of the [white on yellow]Model Y[/white on yellow] as we -- and we have made good progress increasing Model S volumes.
+10. [Sentence #502]  (TSLA_Q1_2021) (Similarity: 0.610) But when you look at some of the other advancements that we are including in the [white on yellow]Model Y[/white on yellow], factories into Austin and Berlin, we have reduced the body pound by as much 60%.
+
+Total similarity-top evidence sentences: 10
+
+-----

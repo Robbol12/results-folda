@@ -1,0 +1,38 @@
+[TSLA_Q4_2020] model-y; model y; cost of model y; cost of model-y
+
+1. [Sentence #27] [SCALE ACHIEVED]
+     I'd just like to, once again, thank the people at Tesla for an incredible effort.
+     We delivered almost as many cars last year as we produced in our entire history.
+     So, really an incredible growth rate and despite a very challenging 2020.
+     So, my hat is off to such a hard work with such great people at Tesla.
+     So -- and full year, we achieved free cash flow of nearly $2.8 billion after spending more than $3 billion on building new factories and other expenditures.
+     We reached industry-leading GAAP operating margins in addition to positive net income and record cash flow.
+     Regarding capacity expansion, while we focus on execution, we continue to build a lot of new capacity.
+>>> We started producing the Model Y out of Fremont and have almost reached full production speed.
+     We ramped the Model 3 in Shanghai to more than 5,000 cars a week sustainably, and Shanghai continues to grow rapidly.
+     We introduced the heat pump to all of our vehicles.
+     We ramped the single piece -- we started and we're able to ramp to volume production at the single-piece castings for Model Y.
+     This is where -- for the first time in history, the entire rear third skeleton of the car is being cast as a single piece in the largest and most advanced casting machine ever made.
+     We built a Model Y factory in China from start to finish in one year.
+     We're also building Giga Berlin and Giga Texas, which we expect to start production later this year.
+     And lastly, we built a cell -- a battery cell factory in the Bay Area.
+-----
+2. [Sentence #32] [SCALE ACHIEVED]
+     We reached industry-leading GAAP operating margins in addition to positive net income and record cash flow.
+     Regarding capacity expansion, while we focus on execution, we continue to build a lot of new capacity.
+     We started producing the Model Y out of Fremont and have almost reached full production speed.
+     We ramped the Model 3 in Shanghai to more than 5,000 cars a week sustainably, and Shanghai continues to grow rapidly.
+     We introduced the heat pump to all of our vehicles.
+     We ramped the single piece -- we started and we're able to ramp to volume production at the single-piece castings for Model Y.
+     This is where -- for the first time in history, the entire rear third skeleton of the car is being cast as a single piece in the largest and most advanced casting machine ever made.
+>>> We built a Model Y factory in China from start to finish in one year.
+     We're also building Giga Berlin and Giga Texas, which we expect to start production later this year.
+     And lastly, we built a cell -- a battery cell factory in the Bay Area.
+     And this -- even though it is a pilot plant, it is -- its capacity is large enough that it would be in the -- probably the top 10 battery cell factories on earth despite being a pilot plant.
+     Regarding the new Model S and X, we are launching the -- we're super excited to announce the new Model S and Model X are in production now and will be delivered in February.
+     So we've been able to bring forward the Plaid, Model S and X.
+     And Model S will be delivered in February and X a little later.
+     The Model S Plaid, and we're actually in production now, and we'll be delivering next month.
+-----
+
+Total context windows: 2

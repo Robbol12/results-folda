@@ -1,0 +1,63 @@
+[Year 2020] model-y; model y; cost of model y; cost of model-y
+
+--- Evidence in Transcript Order ---
+1. [Sentence #23]  (TSLA_Q1_2020) In Q1, we produced more Model Ys in the first quarter than Model 3s in Fremont in the first two quarters.
+2. [Sentence #26]  (TSLA_Q1_2020) Most surprisingly, [white on yellow]Model Y[/white on yellow] was profitable already in its first quarter of production, something we haven't achieved with any product in the past.
+3. [Sentence #57]  (TSLA_Q1_2020) So [white on yellow]Model Y[/white on yellow] has remarkable range on par with -- in fact slightly better than, I guess, the Model 3 and just despite being a bigger car that weighs more.
+4. [Sentence #60]  (TSLA_Q1_2020) So -- and the feedback we're getting from customers who have received the [white on yellow]Model Y[/white on yellow] thus far has been universally positive.
+5. [Sentence #75]  (TSLA_Q1_2020) We successfully launched, ramped and demonstrated profitability of the [white on yellow]Model Y[/white on yellow], as Elon mentioned, significantly ahead of schedule.
+6. [Sentence #95]  (TSLA_Q1_2020) [white on yellow]Model Y[/white on yellow] in Shanghai and Berlin are proceeding as planned and we're making progress on improving capacity for [white on yellow]Model Y[/white on yellow] in Fremont and Model 3 in Shanghai.
+7. [Sentence #100]  (TSLA_Q1_2020) Note that one of the most important aspects of [white on yellow]Model Y[/white on yellow] in Fremont and Model 3 in Shanghai is the dramatically improved cash conversion cycle by locally producing and delivering vehicles.
+8. [Sentence #364]  (TSLA_Q1_2020) Question on [white on yellow]Model Y[/white on yellow]. I was hoping you can elaborate a little bit more on the drivers of how the gross margin is already positive at such low volume.
+9. [Sentence #366]  (TSLA_Q1_2020) And what does that mean for the app flow for the eventual gross margin on [white on yellow]Model Y[/white on yellow]?
+10. [Sentence #391]  (TSLA_Q1_2020) But for a five-seater [white on yellow]Model Y[/white on yellow], we expect marginal costs of that car to be comparable to the Model 3 once we have reached say, 10,000 or 20,000 units or something like that and…[Technical Difficulty].
+11. [Sentence #508]  (TSLA_Q1_2020) [white on yellow]Model Y[/white on yellow] ramping, bringing down overall gross margin, I agree with that as well.
+12. [Sentence #633]  (TSLA_Q2_2020) Despite these charges, we continue to make progress, reducing our costs, particularly on [white on yellow]Model Y[/white on yellow] in Fremont, and Model 3 in Shanghai.
+13. [Sentence #732]  (TSLA_Q2_2020) The fundamental architecture of [white on yellow]Model Y[/white on yellow] will be different in Berlin, it may look the same, but the internals will be quite different and fundamentally more efficient architecturally than what we've done to date.
+14. [Sentence #969]  (TSLA_Q2_2020) And give us an idea of how far [white on yellow]Model Y[/white on yellow] gross margin was versus Fremont Model 3?
+15. [Sentence #980]  (TSLA_Q2_2020) [white on yellow]Model Y[/white on yellow], as we mentioned last quarter, was profitable in its first quarter of production.
+16. [Sentence #981]  (TSLA_Q2_2020) And despite the inefficiencies that we had due to the shutdown, we did see pretty substantial improvement in the [white on yellow]Model Y[/white on yellow] margin.
+17. [Sentence #982]  (TSLA_Q2_2020) And as we said before, the [white on yellow]Model Y[/white on yellow] cost structure and Model 3 cost structure will converge.
+18. [Sentence #983]  (TSLA_Q2_2020) They're not quite there, [white on yellow]Model Y[/white on yellow] is still slightly more expensive than Model 3, and it's not yet at full production.
+19. [Sentence #984]  (TSLA_Q2_2020) And with [white on yellow]Model Y[/white on yellow] carrying a slightly higher price point, you can kind of back into the math there on the relative gross margins.
+20. [Sentence #1258]  (TSLA_Q3_2020) Capital expenses grew to $1 billion, driven by [white on yellow]Model Y[/white on yellow] incidents in Shanghai, Berlin, and Austin.
+21. [Sentence #1259]  (TSLA_Q3_2020) As were previous investments in Model 3 Shanghai and [white on yellow]Model Y[/white on yellow] in Fremont, we're expecting these programs to have already fully paid for their respective investments by the end of this year.
+22. [Sentence #1622]  (TSLA_Q3_2020) Zach, maybe you could give us a sense of where directionally [white on yellow]Model Y[/white on yellow] and China Model 3 gross margin was in the quarter relative to Fremont Model 3?
+23. [Sentence #1632]  (TSLA_Q3_2020) [white on yellow]Model Y[/white on yellow] cost is also coming down quite quickly as we ramp that.
+24. [Sentence #1633]  (TSLA_Q3_2020) But we've guided in the past that [white on yellow]Model Y[/white on yellow] cost should be roughly equivalent to the Model 3 built in Fremont costs.
+25. [Sentence #1810]  (TSLA_Q4_2020) We started producing the [white on yellow]Model Y[/white on yellow] out of Fremont and have almost reached full production speed.
+26. [Sentence #1815]  (TSLA_Q4_2020) We built a [white on yellow]Model Y[/white on yellow] factory in China from start to finish in one year.
+
+Total transcript-order evidence sentences: 26
+
+--- Evidence by Similarity ---
+1. [Sentence #1632]  (TSLA_Q3_2020) (Similarity: 0.912) [white on yellow]Model Y[/white on yellow] cost is also coming down quite quickly as we ramp that.
+2. [Sentence #1633]  (TSLA_Q3_2020) (Similarity: 0.876) But we've guided in the past that [white on yellow]Model Y[/white on yellow] cost should be roughly equivalent to the Model 3 built in Fremont costs.
+3. [Sentence #982]  (TSLA_Q2_2020) (Similarity: 0.871) And as we said before, the [white on yellow]Model Y[/white on yellow] cost structure and Model 3 cost structure will converge.
+4. [Sentence #984]  (TSLA_Q2_2020) (Similarity: 0.855) And with [white on yellow]Model Y[/white on yellow] carrying a slightly higher price point, you can kind of back into the math there on the relative gross margins.
+5. [Sentence #980]  (TSLA_Q2_2020) (Similarity: 0.829) [white on yellow]Model Y[/white on yellow], as we mentioned last quarter, was profitable in its first quarter of production.
+6. [Sentence #26]  (TSLA_Q1_2020) (Similarity: 0.773) Most surprisingly, [white on yellow]Model Y[/white on yellow] was profitable already in its first quarter of production, something we haven't achieved with any product in the past.
+7. [Sentence #95]  (TSLA_Q1_2020) (Similarity: 0.726) [white on yellow]Model Y[/white on yellow] in Shanghai and Berlin are proceeding as planned and we're making progress on improving capacity for [white on yellow]Model Y[/white on yellow] in Fremont and Model 3 in Shanghai.
+8. [Sentence #75]  (TSLA_Q1_2020) (Similarity: 0.722) We successfully launched, ramped and demonstrated profitability of the [white on yellow]Model Y[/white on yellow], as Elon mentioned, significantly ahead of schedule.
+9. [Sentence #391]  (TSLA_Q1_2020) (Similarity: 0.714) But for a five-seater [white on yellow]Model Y[/white on yellow], we expect marginal costs of that car to be comparable to the Model 3 once we have reached say, 10,000 or 20,000 units or something like that and…[Technical Difficulty].
+10. [Sentence #983]  (TSLA_Q2_2020) (Similarity: 0.708) They're not quite there, [white on yellow]Model Y[/white on yellow] is still slightly more expensive than Model 3, and it's not yet at full production.
+11. [Sentence #633]  (TSLA_Q2_2020) (Similarity: 0.700) Despite these charges, we continue to make progress, reducing our costs, particularly on [white on yellow]Model Y[/white on yellow] in Fremont, and Model 3 in Shanghai.
+12. [Sentence #100]  (TSLA_Q1_2020) (Similarity: 0.696) Note that one of the most important aspects of [white on yellow]Model Y[/white on yellow] in Fremont and Model 3 in Shanghai is the dramatically improved cash conversion cycle by locally producing and delivering vehicles.
+13. [Sentence #1810]  (TSLA_Q4_2020) (Similarity: 0.693) We started producing the [white on yellow]Model Y[/white on yellow] out of Fremont and have almost reached full production speed.
+14. [Sentence #1815]  (TSLA_Q4_2020) (Similarity: 0.691) We built a [white on yellow]Model Y[/white on yellow] factory in China from start to finish in one year.
+15. [Sentence #1258]  (TSLA_Q3_2020) (Similarity: 0.689) Capital expenses grew to $1 billion, driven by [white on yellow]Model Y[/white on yellow] incidents in Shanghai, Berlin, and Austin.
+16. [Sentence #23]  (TSLA_Q1_2020) (Similarity: 0.689) In Q1, we produced more Model Ys in the first quarter than Model 3s in Fremont in the first two quarters.
+17. [Sentence #508]  (TSLA_Q1_2020) (Similarity: 0.686) [white on yellow]Model Y[/white on yellow] ramping, bringing down overall gross margin, I agree with that as well.
+18. [Sentence #366]  (TSLA_Q1_2020) (Similarity: 0.685) And what does that mean for the app flow for the eventual gross margin on [white on yellow]Model Y[/white on yellow]?
+19. [Sentence #969]  (TSLA_Q2_2020) (Similarity: 0.666) And give us an idea of how far [white on yellow]Model Y[/white on yellow] gross margin was versus Fremont Model 3?
+20. [Sentence #57]  (TSLA_Q1_2020) (Similarity: 0.662) So [white on yellow]Model Y[/white on yellow] has remarkable range on par with -- in fact slightly better than, I guess, the Model 3 and just despite being a bigger car that weighs more.
+21. [Sentence #364]  (TSLA_Q1_2020) (Similarity: 0.636) Question on [white on yellow]Model Y[/white on yellow]. I was hoping you can elaborate a little bit more on the drivers of how the gross margin is already positive at such low volume.
+22. [Sentence #1622]  (TSLA_Q3_2020) (Similarity: 0.629) Zach, maybe you could give us a sense of where directionally [white on yellow]Model Y[/white on yellow] and China Model 3 gross margin was in the quarter relative to Fremont Model 3?
+23. [Sentence #981]  (TSLA_Q2_2020) (Similarity: 0.629) And despite the inefficiencies that we had due to the shutdown, we did see pretty substantial improvement in the [white on yellow]Model Y[/white on yellow] margin.
+24. [Sentence #60]  (TSLA_Q1_2020) (Similarity: 0.615) So -- and the feedback we're getting from customers who have received the [white on yellow]Model Y[/white on yellow] thus far has been universally positive.
+25. [Sentence #732]  (TSLA_Q2_2020) (Similarity: 0.614) The fundamental architecture of [white on yellow]Model Y[/white on yellow] will be different in Berlin, it may look the same, but the internals will be quite different and fundamentally more efficient architecturally than what we've done to date.
+26. [Sentence #1259]  (TSLA_Q3_2020) (Similarity: 0.606) As were previous investments in Model 3 Shanghai and [white on yellow]Model Y[/white on yellow] in Fremont, we're expecting these programs to have already fully paid for their respective investments by the end of this year.
+
+Total similarity-top evidence sentences: 26
+
+-----

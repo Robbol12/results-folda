@@ -1,0 +1,15 @@
+[TSLA_Q4_2020] model-y; model y; cost of model y; cost of model-y
+
+--- Evidence in Transcript Order ---
+1. [Sentence #27]  We started producing the [white on yellow]Model Y[/white on yellow] out of Fremont and have almost reached full production speed.
+2. [Sentence #32]  We built a [white on yellow]Model Y[/white on yellow] factory in China from start to finish in one year.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #27]  (Similarity: 0.693) We started producing the [white on yellow]Model Y[/white on yellow] out of Fremont and have almost reached full production speed.
+2. [Sentence #32]  (Similarity: 0.691) We built a [white on yellow]Model Y[/white on yellow] factory in China from start to finish in one year.
+
+Total similarity-top evidence sentences: 2
+
+-----

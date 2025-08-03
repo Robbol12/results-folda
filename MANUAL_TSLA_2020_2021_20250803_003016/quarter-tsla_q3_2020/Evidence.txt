@@ -1,0 +1,21 @@
+[TSLA_Q3_2020] model-y; model y; cost of model y; cost of model-y
+
+--- Evidence in Transcript Order ---
+1. [Sentence #121]  Capital expenses grew to $1 billion, driven by [white on yellow]Model Y[/white on yellow] incidents in Shanghai, Berlin, and Austin.
+2. [Sentence #122]  As were previous investments in Model 3 Shanghai and [white on yellow]Model Y[/white on yellow] in Fremont, we're expecting these programs to have already fully paid for their respective investments by the end of this year.
+3. [Sentence #485]  Zach, maybe you could give us a sense of where directionally [white on yellow]Model Y[/white on yellow] and China Model 3 gross margin was in the quarter relative to Fremont Model 3?
+4. [Sentence #495]  [white on yellow]Model Y[/white on yellow] cost is also coming down quite quickly as we ramp that.
+5. [Sentence #496]  But we've guided in the past that [white on yellow]Model Y[/white on yellow] cost should be roughly equivalent to the Model 3 built in Fremont costs.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #495]  (Similarity: 0.912) [white on yellow]Model Y[/white on yellow] cost is also coming down quite quickly as we ramp that.
+2. [Sentence #496]  (Similarity: 0.876) But we've guided in the past that [white on yellow]Model Y[/white on yellow] cost should be roughly equivalent to the Model 3 built in Fremont costs.
+3. [Sentence #121]  (Similarity: 0.689) Capital expenses grew to $1 billion, driven by [white on yellow]Model Y[/white on yellow] incidents in Shanghai, Berlin, and Austin.
+4. [Sentence #485]  (Similarity: 0.629) Zach, maybe you could give us a sense of where directionally [white on yellow]Model Y[/white on yellow] and China Model 3 gross margin was in the quarter relative to Fremont Model 3?
+5. [Sentence #122]  (Similarity: 0.606) As were previous investments in Model 3 Shanghai and [white on yellow]Model Y[/white on yellow] in Fremont, we're expecting these programs to have already fully paid for their respective investments by the end of this year.
+
+Total similarity-top evidence sentences: 5
+
+-----

@@ -1,0 +1,59 @@
+[TSLA_Q3_2021] model-y; model y; cost of model y; cost of model-y
+
+1. [Sentence #15] [PLAN]
+     [Operator Instructions] But before we jump into the Q&A, Zach has some opening remarks.
+     Zach?
+     Zachary Kirkhorn
+
+Yeah.
+     Thanks, Martin.
+     We're continuing to make great progress as a Company, setting new records on each of the most important financial metrics for Q3.
+     Overall, we delivered just over 240,000 cars, 20% higher than last quarter, and 70% higher than the same quarter last year.
+     We were also able to achieve an annualized production run rate of over 1 million cars towards the end of the quarter.
+>>> The increase in production rate has primarily been driven by further ramping of the Model Y at our Shanghai factory.
+     Additionally, we have made great progress, increasing production volumes of Model S, and have recently started to ramp and deliveries of Model X.
+     It will take a bit more time to get this program back to prior volumes.
+     But based on demand, we're targeting to exceed historical production levels.
+     We've also completed the transition of our Shanghai factory as our main export hub.
+     This has enabled us to supply more vehicles to the North America market and to introduce Model Y to Europe.
+     Due to part shortages and logistics variability, we have not been able to run our factories at full capacity.
+     It's important to note that while we have roughly doubled deliveries year-to-date, this has been exceptionally difficult to achieve.
+-----
+2. [Sentence #111] [PLAN]
+     And they're going to continue to push on that.
+     As we look towards Shanghai, we're continuing to push the boundaries there, and we continue to ramp production there as well.
+     So most recently, the ramp up to Model Y, which was our biggest contributor of volume in Q3.
+     We'll continue to ramp that factory.
+     And in our plans, there with time are to keep growing the capacity in that factory.
+     Austin and Berlin are interesting factories because our first iterations of capacity there are on Model Y.
+     But we've intentionally set these factories and locations in which they have a quite significant amount of land and ability to expand.
+>>> And so, we'll take Model Y at these factories.
+     We're trying to get to 5,000 cars a week as soon as we can.
+     And then we'll continue to push beyond that, potentially even getting to 10,000 cars per week at those factories.
+     And then we will add Cybertruck here in Austin and continue to grow from there.
+     So, our goal is to get to millions of cars per year over the next couple of years.
+     And then ultimately in the long term, be able to achieve 20 million cars per year.
+     We're going to grow as quickly as is feasibly possible with an eye towards a 50% annual growth rate.
+     Martin Viecha
+
+Great.
+-----
+3. [Sentence #33] [PLAN]
+     I also want to thank our suppliers for the dedication and partnership to Tesla.
+     Despite these increases in production and generally higher prices, our backlogs are continuing to grow and average customer wait times are extending.
+     The only practical way to address this in the immediate term is to do everything we can to build more cars on our existing production lines, which is where we are focused.
+     Similar dynamics are also playing out in our storage business as we are working to expand Powerwall and Megapack production as quickly as parts themselves allow us to do so.
+     Additionally, we have made good progress on the in-house battery manufacturing program.
+     And we're excited to have expanded the full self-driving beta program to more customers.
+     Financially, our auto gross margins reached 30.5% on a GAAP basis and just under 29%, excluding regulatory credits, which was our strongest yet.
+>>> This benefit primarily comes from higher volumes, particularly out of the Shanghai factory, increased mix of the Model Y as we -- and we have made good progress increasing Model S volumes.
+     The Model S has now returned to positive gross margin and we expect this to increase with higher production and the ramp of Model X.
+     As was the case in Q2, there were some net benefit from pricing actions.
+     However, this remains small in the context of other contributors.
+     Please keep in mind that given backlog, it will take time for the impact of recent changes to flow through our financials.
+     Note that we are also not yet recognizing additional revenue from the FSD Beta program.
+     Supply chain challenges, including expedites, continue to provide cost headwinds, as was also the case with FX this quarter.
+     While we are seeing an impact from the rise in commodity and labor costs, we have also been adjusting pricing, which should help to compensate.
+-----
+
+Total context windows: 3

@@ -1,0 +1,27 @@
+[TSLA_Q2_2020] model-y; model y; cost of model y; cost of model-y
+
+--- Evidence in Transcript Order ---
+1. [Sentence #101]  Despite these charges, we continue to make progress, reducing our costs, particularly on [white on yellow]Model Y[/white on yellow] in Fremont, and Model 3 in Shanghai.
+2. [Sentence #200]  The fundamental architecture of [white on yellow]Model Y[/white on yellow] will be different in Berlin, it may look the same, but the internals will be quite different and fundamentally more efficient architecturally than what we've done to date.
+3. [Sentence #437]  And give us an idea of how far [white on yellow]Model Y[/white on yellow] gross margin was versus Fremont Model 3?
+4. [Sentence #448]  [white on yellow]Model Y[/white on yellow], as we mentioned last quarter, was profitable in its first quarter of production.
+5. [Sentence #449]  And despite the inefficiencies that we had due to the shutdown, we did see pretty substantial improvement in the [white on yellow]Model Y[/white on yellow] margin.
+6. [Sentence #450]  And as we said before, the [white on yellow]Model Y[/white on yellow] cost structure and Model 3 cost structure will converge.
+7. [Sentence #451]  They're not quite there, [white on yellow]Model Y[/white on yellow] is still slightly more expensive than Model 3, and it's not yet at full production.
+8. [Sentence #452]  And with [white on yellow]Model Y[/white on yellow] carrying a slightly higher price point, you can kind of back into the math there on the relative gross margins.
+
+Total transcript-order evidence sentences: 8
+
+--- Evidence by Similarity ---
+1. [Sentence #450]  (Similarity: 0.871) And as we said before, the [white on yellow]Model Y[/white on yellow] cost structure and Model 3 cost structure will converge.
+2. [Sentence #452]  (Similarity: 0.855) And with [white on yellow]Model Y[/white on yellow] carrying a slightly higher price point, you can kind of back into the math there on the relative gross margins.
+3. [Sentence #448]  (Similarity: 0.829) [white on yellow]Model Y[/white on yellow], as we mentioned last quarter, was profitable in its first quarter of production.
+4. [Sentence #451]  (Similarity: 0.708) They're not quite there, [white on yellow]Model Y[/white on yellow] is still slightly more expensive than Model 3, and it's not yet at full production.
+5. [Sentence #101]  (Similarity: 0.700) Despite these charges, we continue to make progress, reducing our costs, particularly on [white on yellow]Model Y[/white on yellow] in Fremont, and Model 3 in Shanghai.
+6. [Sentence #437]  (Similarity: 0.666) And give us an idea of how far [white on yellow]Model Y[/white on yellow] gross margin was versus Fremont Model 3?
+7. [Sentence #449]  (Similarity: 0.629) And despite the inefficiencies that we had due to the shutdown, we did see pretty substantial improvement in the [white on yellow]Model Y[/white on yellow] margin.
+8. [Sentence #200]  (Similarity: 0.614) The fundamental architecture of [white on yellow]Model Y[/white on yellow] will be different in Berlin, it may look the same, but the internals will be quite different and fundamentally more efficient architecturally than what we've done to date.
+
+Total similarity-top evidence sentences: 8
+
+-----

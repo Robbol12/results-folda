@@ -1,0 +1,15 @@
+[TSLA_Q4_2021] model-y; model y; cost of model y; cost of model-y
+
+--- Evidence in Transcript Order ---
+1. [Sentence #278]  So, our mix of [white on yellow]Model Y[/white on yellow] is increasing as we've ramped that to higher capacity in Fremont and also in Shanghai.
+2. [Sentence #279]  And the reason that matters is the [white on yellow]Model Y[/white on yellow] is a vehicle that carries a higher profit than the Model 3.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #279]  (Similarity: 0.768) And the reason that matters is the [white on yellow]Model Y[/white on yellow] is a vehicle that carries a higher profit than the Model 3.
+2. [Sentence #278]  (Similarity: 0.697) So, our mix of [white on yellow]Model Y[/white on yellow] is increasing as we've ramped that to higher capacity in Fremont and also in Shanghai.
+
+Total similarity-top evidence sentences: 2
+
+-----

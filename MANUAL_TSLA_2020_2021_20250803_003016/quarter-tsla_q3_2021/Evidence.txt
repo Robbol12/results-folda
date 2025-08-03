@@ -1,0 +1,17 @@
+[TSLA_Q3_2021] model-y; model y; cost of model y; cost of model-y
+
+--- Evidence in Transcript Order ---
+1. [Sentence #15]  The increase in production rate has primarily been driven by further ramping of the [white on yellow]Model Y[/white on yellow] at our Shanghai factory.
+2. [Sentence #33]  This benefit primarily comes from higher volumes, particularly out of the Shanghai factory, increased mix of the [white on yellow]Model Y[/white on yellow] as we -- and we have made good progress increasing Model S volumes.
+3. [Sentence #111]  And so, we'll take [white on yellow]Model Y[/white on yellow] at these factories.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #15]  (Similarity: 0.783) The increase in production rate has primarily been driven by further ramping of the [white on yellow]Model Y[/white on yellow] at our Shanghai factory.
+2. [Sentence #111]  (Similarity: 0.764) And so, we'll take [white on yellow]Model Y[/white on yellow] at these factories.
+3. [Sentence #33]  (Similarity: 0.680) This benefit primarily comes from higher volumes, particularly out of the Shanghai factory, increased mix of the [white on yellow]Model Y[/white on yellow] as we -- and we have made good progress increasing Model S volumes.
+
+Total similarity-top evidence sentences: 3
+
+-----
