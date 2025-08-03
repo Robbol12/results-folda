@@ -1,0 +1,15 @@
+[TSLA_Q1_2022] tsla cybertruck production 2021-2022
+
+--- Evidence in Transcript Order ---
+1. [Sentence #65]  And we remain on track to reach volume [white on yellow]production[/white on yellow] of the [white on yellow]Cybertruck[/white on yellow] next year.
+2. [Sentence #407]  First is regarding the [white on yellow]Cybertruck[/white on yellow].
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #65]  (Similarity: 0.864) And we remain on track to reach volume [white on yellow]production[/white on yellow] of the [white on yellow]Cybertruck[/white on yellow] next year.
+2. [Sentence #407]  (Similarity: 0.674) First is regarding the [white on yellow]Cybertruck[/white on yellow].
+
+Total similarity-top evidence sentences: 2
+
+-----

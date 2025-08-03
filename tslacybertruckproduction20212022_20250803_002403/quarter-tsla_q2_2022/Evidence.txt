@@ -1,0 +1,19 @@
+[TSLA_Q2_2022] tsla cybertruck production 2021-2022
+
+--- Evidence in Transcript Order ---
+1. [Sentence #52]  Our team continues to focus on [white on yellow]Cybertruck[/white on yellow] [white on yellow]production[/white on yellow] readiness and some future platform design.
+2. [Sentence #53]  We are expecting to be – still expecting to be in [white on yellow]production[/white on yellow] with the [white on yellow]Cybertruck[/white on yellow] in the middle of next year.
+3. [Sentence #237]  We’re going to do another one with [white on yellow]Cybertruck[/white on yellow].
+4. [Sentence #292]  And the last question is, when will the [white on yellow]Cybertruck[/white on yellow] be officially available?
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #52]  (Similarity: 0.923) Our team continues to focus on [white on yellow]Cybertruck[/white on yellow] [white on yellow]production[/white on yellow] readiness and some future platform design.
+2. [Sentence #53]  (Similarity: 0.882) We are expecting to be – still expecting to be in [white on yellow]production[/white on yellow] with the [white on yellow]Cybertruck[/white on yellow] in the middle of next year.
+3. [Sentence #292]  (Similarity: 0.727) And the last question is, when will the [white on yellow]Cybertruck[/white on yellow] be officially available?
+4. [Sentence #237]  (Similarity: 0.680) We’re going to do another one with [white on yellow]Cybertruck[/white on yellow].
+
+Total similarity-top evidence sentences: 4
+
+-----

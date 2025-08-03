@@ -1,0 +1,19 @@
+[TSLA_Q3_2022] tsla cybertruck production 2021-2022
+
+--- Evidence in Transcript Order ---
+1. [Sentence #69]  We’re in the final lap for [white on yellow]Cybertruck[/white on yellow].
+2. [Sentence #70]  We’re building a [white on yellow]Cybertruck[/white on yellow] line here at Giga Texas [Indiscernible] and making a lot of progress in the robotaxi platform design.
+3. [Sentence #165]  And the next question is, “How is [white on yellow]production[/white on yellow] planning going for the [white on yellow]Cybertruck[/white on yellow]?
+4. [Sentence #509]  And how do you balance the need for 4680 across Semi, [white on yellow]Cybertruck[/white on yellow] and potentially Model Y in 2023?
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #165]  (Similarity: 0.835) And the next question is, “How is [white on yellow]production[/white on yellow] planning going for the [white on yellow]Cybertruck[/white on yellow]?
+2. [Sentence #509]  (Similarity: 0.726) And how do you balance the need for 4680 across Semi, [white on yellow]Cybertruck[/white on yellow] and potentially Model Y in 2023?
+3. [Sentence #69]  (Similarity: 0.666) We’re in the final lap for [white on yellow]Cybertruck[/white on yellow].
+4. [Sentence #70]  (Similarity: 0.648) We’re building a [white on yellow]Cybertruck[/white on yellow] line here at Giga Texas [Indiscernible] and making a lot of progress in the robotaxi platform design.
+
+Total similarity-top evidence sentences: 4
+
+-----
