@@ -1,0 +1,15 @@
+[Year 2024] cybertruck deliverys; cybertruck production; cybertruck
+
+--- Evidence in Transcript Order ---
+1. [Sentence #203]  (TSLA_Q1_2024) The next question is, what is the progress of [white on yellow]Cybertruck[/white on yellow] ramp?
+2. [Sentence #755]  (TSLA_Q2_2024) Our third question is, the [white on yellow]Cybertruck[/white on yellow] is an iconic product that wows everyone who sees it.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #755]  (TSLA_Q2_2024) (Similarity: 0.798) Our third question is, the [white on yellow]Cybertruck[/white on yellow] is an iconic product that wows everyone who sees it.
+2. [Sentence #203]  (TSLA_Q1_2024) (Similarity: 0.791) The next question is, what is the progress of [white on yellow]Cybertruck[/white on yellow] ramp?
+
+Total similarity-top evidence sentences: 2
+
+-----

@@ -1,0 +1,21 @@
+[TSLA_Q3_2023] cybertruck deliverys; cybertruck production; cybertruck
+
+--- Evidence in Transcript Order ---
+1. [Sentence #17]  The [white on yellow]Cybertruck[/white on yellow], I know a lot of people are excited about the [white on yellow]Cybertruck[/white on yellow].
+2. [Sentence #68]  How many [white on yellow]Cybertruck[/white on yellow] deliveries do you anticipate for 2024?
+3. [Sentence #215]  I mean [white on yellow]Cybertruck[/white on yellow] is -- yes.
+4. [Sentence #218]  And so it is -- [white on yellow]Cybertruck[/white on yellow]’s one of those special products that comes along only once in a long while.
+5. [Sentence #450]  It’s not full with [white on yellow]Cybertruck[/white on yellow] and the line.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #68]  (Similarity: 0.836) How many [white on yellow]Cybertruck[/white on yellow] deliveries do you anticipate for 2024?
+2. [Sentence #17]  (Similarity: 0.824) The [white on yellow]Cybertruck[/white on yellow], I know a lot of people are excited about the [white on yellow]Cybertruck[/white on yellow].
+3. [Sentence #215]  (Similarity: 0.786) I mean [white on yellow]Cybertruck[/white on yellow] is -- yes.
+4. [Sentence #218]  (Similarity: 0.770) And so it is -- [white on yellow]Cybertruck[/white on yellow]’s one of those special products that comes along only once in a long while.
+5. [Sentence #450]  (Similarity: 0.763) It’s not full with [white on yellow]Cybertruck[/white on yellow] and the line.
+
+Total similarity-top evidence sentences: 5
+
+-----

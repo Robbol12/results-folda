@@ -1,0 +1,33 @@
+[Multi-Year Analysis] cybertruck deliverys; cybertruck production; cybertruck
+
+--- Evidence in Transcript Order ---
+1. [Sentence #17]  (TSLA_Q3_2023) The [white on yellow]Cybertruck[/white on yellow], I know a lot of people are excited about the [white on yellow]Cybertruck[/white on yellow].
+2. [Sentence #24]  (TSLA_Q1_2023) Regarding the [white on yellow]Cybertruck[/white on yellow], we continue to build Alpha versions of the [white on yellow]Cybertruck[/white on yellow] on our pilot line for testing purposes.
+3. [Sentence #27]  (TSLA_Q1_2023) So the [white on yellow]Cybertruck[/white on yellow] is no different.
+4. [Sentence #52]  (TSLA_Q2_2023) With regard to our [white on yellow]Cybertruck[/white on yellow], we continue to build our release candidates of the [white on yellow]Cybertruck[/white on yellow] on our final production line in Austin.
+5. [Sentence #68]  (TSLA_Q3_2023) How many [white on yellow]Cybertruck[/white on yellow] deliveries do you anticipate for 2024?
+6. [Sentence #116]  (TSLA_Q2_2024) Our third question is, the [white on yellow]Cybertruck[/white on yellow] is an iconic product that wows everyone who sees it.
+7. [Sentence #175]  (TSLA_Q1_2023) And maybe the last question from investors, can you give updated specs and pricing for [white on yellow]Cybertruck[/white on yellow] and any new features that will make it to production?
+8. [Sentence #203]  (TSLA_Q1_2024) The next question is, what is the progress of [white on yellow]Cybertruck[/white on yellow] ramp?
+9. [Sentence #215]  (TSLA_Q3_2023) I mean [white on yellow]Cybertruck[/white on yellow] is -- yes.
+10. [Sentence #218]  (TSLA_Q3_2023) And so it is -- [white on yellow]Cybertruck[/white on yellow]’s one of those special products that comes along only once in a long while.
+11. [Sentence #450]  (TSLA_Q3_2023) It’s not full with [white on yellow]Cybertruck[/white on yellow] and the line.
+
+Total transcript-order evidence sentences: 11
+
+--- Evidence by Similarity ---
+1. [Sentence #52]  (TSLA_Q2_2023) (Similarity: 0.892) With regard to our [white on yellow]Cybertruck[/white on yellow], we continue to build our release candidates of the [white on yellow]Cybertruck[/white on yellow] on our final production line in Austin.
+2. [Sentence #68]  (TSLA_Q3_2023) (Similarity: 0.836) How many [white on yellow]Cybertruck[/white on yellow] deliveries do you anticipate for 2024?
+3. [Sentence #17]  (TSLA_Q3_2023) (Similarity: 0.824) The [white on yellow]Cybertruck[/white on yellow], I know a lot of people are excited about the [white on yellow]Cybertruck[/white on yellow].
+4. [Sentence #175]  (TSLA_Q1_2023) (Similarity: 0.815) And maybe the last question from investors, can you give updated specs and pricing for [white on yellow]Cybertruck[/white on yellow] and any new features that will make it to production?
+5. [Sentence #24]  (TSLA_Q1_2023) (Similarity: 0.801) Regarding the [white on yellow]Cybertruck[/white on yellow], we continue to build Alpha versions of the [white on yellow]Cybertruck[/white on yellow] on our pilot line for testing purposes.
+6. [Sentence #116]  (TSLA_Q2_2024) (Similarity: 0.798) Our third question is, the [white on yellow]Cybertruck[/white on yellow] is an iconic product that wows everyone who sees it.
+7. [Sentence #203]  (TSLA_Q1_2024) (Similarity: 0.791) The next question is, what is the progress of [white on yellow]Cybertruck[/white on yellow] ramp?
+8. [Sentence #215]  (TSLA_Q3_2023) (Similarity: 0.786) I mean [white on yellow]Cybertruck[/white on yellow] is -- yes.
+9. [Sentence #27]  (TSLA_Q1_2023) (Similarity: 0.780) So the [white on yellow]Cybertruck[/white on yellow] is no different.
+10. [Sentence #218]  (TSLA_Q3_2023) (Similarity: 0.770) And so it is -- [white on yellow]Cybertruck[/white on yellow]’s one of those special products that comes along only once in a long while.
+11. [Sentence #450]  (TSLA_Q3_2023) (Similarity: 0.763) It’s not full with [white on yellow]Cybertruck[/white on yellow] and the line.
+
+Total similarity-top evidence sentences: 11
+
+-----

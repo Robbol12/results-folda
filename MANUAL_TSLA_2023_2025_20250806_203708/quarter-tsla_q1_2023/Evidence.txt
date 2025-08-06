@@ -1,0 +1,17 @@
+[TSLA_Q1_2023] cybertruck deliverys; cybertruck production; cybertruck
+
+--- Evidence in Transcript Order ---
+1. [Sentence #24]  Regarding the [white on yellow]Cybertruck[/white on yellow], we continue to build Alpha versions of the [white on yellow]Cybertruck[/white on yellow] on our pilot line for testing purposes.
+2. [Sentence #27]  So the [white on yellow]Cybertruck[/white on yellow] is no different.
+3. [Sentence #175]  And maybe the last question from investors, can you give updated specs and pricing for [white on yellow]Cybertruck[/white on yellow] and any new features that will make it to production?
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #175]  (Similarity: 0.815) And maybe the last question from investors, can you give updated specs and pricing for [white on yellow]Cybertruck[/white on yellow] and any new features that will make it to production?
+2. [Sentence #24]  (Similarity: 0.801) Regarding the [white on yellow]Cybertruck[/white on yellow], we continue to build Alpha versions of the [white on yellow]Cybertruck[/white on yellow] on our pilot line for testing purposes.
+3. [Sentence #27]  (Similarity: 0.780) So the [white on yellow]Cybertruck[/white on yellow] is no different.
+
+Total similarity-top evidence sentences: 3
+
+-----
