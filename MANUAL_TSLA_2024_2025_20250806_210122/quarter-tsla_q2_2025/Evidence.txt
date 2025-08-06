@@ -1,0 +1,27 @@
+[TSLA_Q2_2025] tariffs
+
+--- Evidence in Transcript Order ---
+1. [Sentence #12]  [white on yellow]Tariffs[/white on yellow] Impact: Tariff costs increased by approximately $300 million sequentially, with two-thirds impacting the automotive segment and further increases anticipated in subsequent quarters due to manufacturing and sales cycle latency.
+2. [Sentence #15]  Energy Business Tariff and Legislative Headwinds: Despite headwinds from [white on yellow]tariffs[/white on yellow] and early expiration of consumer credits, customers -- especially in industrial storage -- have been willing to absorb some tariff impacts.
+3. [Sentence #183]  We have started seeing the impact of [white on yellow]tariffs[/white on yellow] in our P&L.
+4. [Sentence #184]  Sequentially, the cost of [white on yellow]tariffs[/white on yellow] increased around $300 million with approximately two-thirds of that impact in automotive and less in energy.
+5. [Sentence #187]  While we are doing our best to manage these impacts, we are in an unpredictable environment on the tariff front.
+6. [Sentence #194]  This is something that our customers have started realizing, and despite this business having the largest impacts from [white on yellow]tariffs[/white on yellow], we are seeing customers willing to accept some of the tariff impacts.
+7. [Sentence #196]  The challenges of the storage business definitely made both from the wealth and from [white on yellow]tariffs[/white on yellow], and we are doing our best to try and manage through this.
+8. [Sentence #207]  To summarize, we have near-term challenges in our business due to the negative impacts of the bill and [white on yellow]tariffs[/white on yellow].
+
+Total transcript-order evidence sentences: 8
+
+--- Evidence by Similarity ---
+1. [Sentence #183]  (Similarity: 0.824) We have started seeing the impact of [white on yellow]tariffs[/white on yellow] in our P&L.
+2. [Sentence #194]  (Similarity: 0.704) This is something that our customers have started realizing, and despite this business having the largest impacts from [white on yellow]tariffs[/white on yellow], we are seeing customers willing to accept some of the tariff impacts.
+3. [Sentence #184]  (Similarity: 0.695) Sequentially, the cost of [white on yellow]tariffs[/white on yellow] increased around $300 million with approximately two-thirds of that impact in automotive and less in energy.
+4. [Sentence #12]  (Similarity: 0.672) [white on yellow]Tariffs[/white on yellow] Impact: Tariff costs increased by approximately $300 million sequentially, with two-thirds impacting the automotive segment and further increases anticipated in subsequent quarters due to manufacturing and sales cycle latency.
+5. [Sentence #207]  (Similarity: 0.665) To summarize, we have near-term challenges in our business due to the negative impacts of the bill and [white on yellow]tariffs[/white on yellow].
+6. [Sentence #15]  (Similarity: 0.657) Energy Business Tariff and Legislative Headwinds: Despite headwinds from [white on yellow]tariffs[/white on yellow] and early expiration of consumer credits, customers -- especially in industrial storage -- have been willing to absorb some tariff impacts.
+7. [Sentence #187]  (Similarity: 0.628) While we are doing our best to manage these impacts, we are in an unpredictable environment on the tariff front.
+8. [Sentence #196]  (Similarity: 0.609) The challenges of the storage business definitely made both from the wealth and from [white on yellow]tariffs[/white on yellow], and we are doing our best to try and manage through this.
+
+Total similarity-top evidence sentences: 8
+
+-----

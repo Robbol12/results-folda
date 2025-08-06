@@ -1,0 +1,15 @@
+[TSLA_Q4_2024] tariffs
+
+--- Evidence in Transcript Order ---
+1. [Sentence #194]  There's a lot of uncertainty around [white on yellow]tariffs[/white on yellow].
+2. [Sentence #196]  Therefore, the imposition of [white on yellow]tariffs[/white on yellow], which is very likely, will have an impact on our business and profitability.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #194]  (Similarity: 0.857) There's a lot of uncertainty around [white on yellow]tariffs[/white on yellow].
+2. [Sentence #196]  (Similarity: 0.841) Therefore, the imposition of [white on yellow]tariffs[/white on yellow], which is very likely, will have an impact on our business and profitability.
+
+Total similarity-top evidence sentences: 2
+
+-----

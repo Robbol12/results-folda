@@ -1,0 +1,23 @@
+[Year 2024] tariffs
+
+--- Evidence in Transcript Order ---
+1. [Sentence #719]  (TSLA_Q2_2024) Additionally, as we get into the second half of the year, it is important to note that we are still ramping Cybertruck and Model 3 and are also getting impacted by varying amounts of [white on yellow]tariffs[/white on yellow] on both raw materials and finished goods.
+2. [Sentence #795]  (TSLA_Q2_2024) Trump has said that he will put heavy [white on yellow]tariffs[/white on yellow] on vehicles produced in Mexico.
+3. [Sentence #942]  (TSLA_Q2_2024) But maybe you can just give us a sense of, of how the strategy changes, if at all, given, the implementation of [white on yellow]tariffs[/white on yellow] in Europe.
+4. [Sentence #943]  (TSLA_Q2_2024) Also to what extent, your import of batteries from China into the U.S., how that might change given the [white on yellow]tariffs[/white on yellow].
+5. [Sentence #1931]  (TSLA_Q4_2024) There's a lot of uncertainty around [white on yellow]tariffs[/white on yellow].
+6. [Sentence #1933]  (TSLA_Q4_2024) Therefore, the imposition of [white on yellow]tariffs[/white on yellow], which is very likely, will have an impact on our business and profitability.
+
+Total transcript-order evidence sentences: 6
+
+--- Evidence by Similarity ---
+1. [Sentence #1931]  (TSLA_Q4_2024) (Similarity: 0.857) There's a lot of uncertainty around [white on yellow]tariffs[/white on yellow].
+2. [Sentence #1933]  (TSLA_Q4_2024) (Similarity: 0.841) Therefore, the imposition of [white on yellow]tariffs[/white on yellow], which is very likely, will have an impact on our business and profitability.
+3. [Sentence #942]  (TSLA_Q2_2024) (Similarity: 0.685) But maybe you can just give us a sense of, of how the strategy changes, if at all, given, the implementation of [white on yellow]tariffs[/white on yellow] in Europe.
+4. [Sentence #719]  (TSLA_Q2_2024) (Similarity: 0.682) Additionally, as we get into the second half of the year, it is important to note that we are still ramping Cybertruck and Model 3 and are also getting impacted by varying amounts of [white on yellow]tariffs[/white on yellow] on both raw materials and finished goods.
+5. [Sentence #795]  (TSLA_Q2_2024) (Similarity: 0.675) Trump has said that he will put heavy [white on yellow]tariffs[/white on yellow] on vehicles produced in Mexico.
+6. [Sentence #943]  (TSLA_Q2_2024) (Similarity: 0.662) Also to what extent, your import of batteries from China into the U.S., how that might change given the [white on yellow]tariffs[/white on yellow].
+
+Total similarity-top evidence sentences: 6
+
+-----

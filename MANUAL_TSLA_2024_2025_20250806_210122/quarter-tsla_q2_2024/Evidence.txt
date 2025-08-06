@@ -1,0 +1,19 @@
+[TSLA_Q2_2024] tariffs
+
+--- Evidence in Transcript Order ---
+1. [Sentence #80]  Additionally, as we get into the second half of the year, it is important to note that we are still ramping Cybertruck and Model 3 and are also getting impacted by varying amounts of [white on yellow]tariffs[/white on yellow] on both raw materials and finished goods.
+2. [Sentence #156]  Trump has said that he will put heavy [white on yellow]tariffs[/white on yellow] on vehicles produced in Mexico.
+3. [Sentence #303]  But maybe you can just give us a sense of, of how the strategy changes, if at all, given, the implementation of [white on yellow]tariffs[/white on yellow] in Europe.
+4. [Sentence #304]  Also to what extent, your import of batteries from China into the U.S., how that might change given the [white on yellow]tariffs[/white on yellow].
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #303]  (Similarity: 0.685) But maybe you can just give us a sense of, of how the strategy changes, if at all, given, the implementation of [white on yellow]tariffs[/white on yellow] in Europe.
+2. [Sentence #80]  (Similarity: 0.682) Additionally, as we get into the second half of the year, it is important to note that we are still ramping Cybertruck and Model 3 and are also getting impacted by varying amounts of [white on yellow]tariffs[/white on yellow] on both raw materials and finished goods.
+3. [Sentence #156]  (Similarity: 0.675) Trump has said that he will put heavy [white on yellow]tariffs[/white on yellow] on vehicles produced in Mexico.
+4. [Sentence #304]  (Similarity: 0.662) Also to what extent, your import of batteries from China into the U.S., how that might change given the [white on yellow]tariffs[/white on yellow].
+
+Total similarity-top evidence sentences: 4
+
+-----
