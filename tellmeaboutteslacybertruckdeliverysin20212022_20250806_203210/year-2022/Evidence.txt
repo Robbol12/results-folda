@@ -1,0 +1,19 @@
+[Year 2022] tell me about tesla cybertruck deliverys in 2021-2022
+
+--- Evidence in Transcript Order ---
+1. [Sentence #849]  (TSLA_Q2_2022) And the last question is, when will the [white on yellow]Cybertruck[/white on yellow] be officially available?
+2. [Sentence #1291]  (TSLA_Q3_2022) And the next question is, “How is production planning going for the [white on yellow]Cybertruck[/white on yellow]?
+3. [Sentence #1773]  (TSLA_Q4_2022) This includes expanding in-house cell production, bringing [white on yellow]Cybertruck[/white on yellow] to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+4. [Sentence #1865]  (TSLA_Q4_2022) And to be clear, for 2023, [white on yellow]Cybertruck[/white on yellow] will not be a significant contributor to the bottom line but it will be into next year.
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #1773]  (TSLA_Q4_2022) (Similarity: 0.794) This includes expanding in-house cell production, bringing [white on yellow]Cybertruck[/white on yellow] to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+2. [Sentence #1291]  (TSLA_Q3_2022) (Similarity: 0.768) And the next question is, “How is production planning going for the [white on yellow]Cybertruck[/white on yellow]?
+3. [Sentence #1865]  (TSLA_Q4_2022) (Similarity: 0.760) And to be clear, for 2023, [white on yellow]Cybertruck[/white on yellow] will not be a significant contributor to the bottom line but it will be into next year.
+4. [Sentence #849]  (TSLA_Q2_2022) (Similarity: 0.757) And the last question is, when will the [white on yellow]Cybertruck[/white on yellow] be officially available?
+
+Total similarity-top evidence sentences: 4
+
+-----
