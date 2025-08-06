@@ -1,0 +1,21 @@
+[TSLA_Q2_2020] Tell me about Tesla cybertruck production from 2019-2020
+
+--- Evidence in Transcript Order ---
+1. [Sentence #32]  And it's also where we'll be doing [white on yellow]Cybertruck[/white on yellow] there, the Tesla Semi.
+2. [Sentence #127]  The question number one is, as Tesla continues its journey towards the long-term goal of selling 20 million units per year, what are the most important vehicle programs that will drive volume growth over the next three to five years beyond Model 3, Y and the [white on yellow]Cybertruck[/white on yellow]?
+3. [Sentence #255]  So the long-term sustainable advantage of Tesla, I think, will be manufacturing.
+4. [Sentence #313]  The real limitation on Tesla growth is cell [white on yellow]production[/white on yellow] at affordable price.
+5. [Sentence #321]  And the second question is, now that it's time to bring the Tesla Semi to volume [white on yellow]production[/white on yellow], can you share more detail on [white on yellow]production[/white on yellow] plans?
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #32]  (Similarity: 0.835) And it's also where we'll be doing [white on yellow]Cybertruck[/white on yellow] there, the Tesla Semi.
+2. [Sentence #321]  (Similarity: 0.760) And the second question is, now that it's time to bring the Tesla Semi to volume [white on yellow]production[/white on yellow], can you share more detail on [white on yellow]production[/white on yellow] plans?
+3. [Sentence #313]  (Similarity: 0.704) The real limitation on Tesla growth is cell [white on yellow]production[/white on yellow] at affordable price.
+4. [Sentence #127]  (Similarity: 0.686) The question number one is, as Tesla continues its journey towards the long-term goal of selling 20 million units per year, what are the most important vehicle programs that will drive volume growth over the next three to five years beyond Model 3, Y and the [white on yellow]Cybertruck[/white on yellow]?
+5. [Sentence #255]  (Similarity: 0.617) So the long-term sustainable advantage of Tesla, I think, will be manufacturing.
+
+Total similarity-top evidence sentences: 5
+
+-----

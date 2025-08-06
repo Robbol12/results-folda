@@ -1,0 +1,63 @@
+[Year 2020] Tell me about Tesla cybertruck production from 2019-2020
+
+--- Evidence in Transcript Order ---
+1. [Sentence #1]  --- TSLA_Q1_2020 ---
+Operator
+
+Ladies and gentlemen, thank you for standing by, and welcome to Tesla's Q1 2020 Financial Results and Q&A Webcast.
+2. [Sentence #8]  (TSLA_Q1_2020) Welcome to Tesla's First Quarter 2020 Q&A Webcast.
+3. [Sentence #203]  (TSLA_Q1_2020) Is this still in line with Tesla's ambitions for the next five to 10 years?
+4. [Sentence #275]  (TSLA_Q1_2020) So we're going to make sure, we got a lot of ice in the fire here, for new products with the [white on yellow]Cybertruck[/white on yellow], Semi, new Roadster and the Gigafactories in various parts of the world and Model Y, Autopilot and the Solar Roof and…
+
+Zachary Kirkhorn
+
+New technologies.
+5. [Sentence #564]  (TSLA_Q2_2020) And it's also where we'll be doing [white on yellow]Cybertruck[/white on yellow] there, the Tesla Semi.
+6. [Sentence #659]  (TSLA_Q2_2020) The question number one is, as Tesla continues its journey towards the long-term goal of selling 20 million units per year, what are the most important vehicle programs that will drive volume growth over the next three to five years beyond Model 3, Y and the [white on yellow]Cybertruck[/white on yellow]?
+7. [Sentence #787]  (TSLA_Q2_2020) So the long-term sustainable advantage of Tesla, I think, will be manufacturing.
+8. [Sentence #845]  (TSLA_Q2_2020) The real limitation on Tesla growth is cell [white on yellow]production[/white on yellow] at affordable price.
+9. [Sentence #853]  (TSLA_Q2_2020) And the second question is, now that it's time to bring the Tesla Semi to volume [white on yellow]production[/white on yellow], can you share more detail on [white on yellow]production[/white on yellow] plans?
+10. [Sentence #1299]  (TSLA_Q3_2020) The first question from retail shareholders is, is Tesla planning to start 4680 cell [white on yellow]production[/white on yellow] at Giga Berlin at the same time as vehicle [white on yellow]production[/white on yellow]?
+11. [Sentence #1574]  (TSLA_Q3_2020) You haven't talked that much about like the [white on yellow]Cybertruck[/white on yellow] today.
+12. [Sentence #1598]  (TSLA_Q3_2020) If it goes well, we'll be able to do some [white on yellow]Cybertruck[/white on yellow] deliveries towards the end of next -- towards the end of next year, yes.
+13. [Sentence #1791]  (TSLA_Q4_2020) Welcome to Tesla's fourth quarter 2020 Q&A webcast.
+14. [Sentence #1978]  (TSLA_Q4_2020) The next question is what is Tesla's current gigawatt-hour run rate of the 4680 cell [white on yellow]production[/white on yellow]?
+15. [Sentence #2085]  (TSLA_Q4_2020) So -- but the reason Tesla is doing its own cell [white on yellow]production[/white on yellow] is in order to accelerate the growth.
+16. [Sentence #2099]  (TSLA_Q4_2020) So let's go straight to the last question from institutional investors, which is, where are you in [white on yellow]Cybertruck[/white on yellow] development?
+17. [Sentence #2100]  (TSLA_Q4_2020) What are your expectations for [white on yellow]Cybertruck[/white on yellow] deliveries in 2021?
+18. [Sentence #2105]  (TSLA_Q4_2020) We're getting to – we'll soon order the equipment necessary to make the [white on yellow]Cybertruck[/white on yellow] work.
+19. [Sentence #2106]  (TSLA_Q4_2020) We're actually going to be using even bigger Tesla machines for the rear body of [white on yellow]Cybertruck[/white on yellow] because you've got – obviously, it's a bigger vehicle and you've got a long truck bed that's going to a lot of load.
+
+Total transcript-order evidence sentences: 19
+
+--- Evidence by Similarity ---
+1. [Sentence #564]  (TSLA_Q2_2020) (Similarity: 0.835) And it's also where we'll be doing [white on yellow]Cybertruck[/white on yellow] there, the Tesla Semi.
+2. [Sentence #853]  (TSLA_Q2_2020) (Similarity: 0.760) And the second question is, now that it's time to bring the Tesla Semi to volume [white on yellow]production[/white on yellow], can you share more detail on [white on yellow]production[/white on yellow] plans?
+3. [Sentence #2100]  (TSLA_Q4_2020) (Similarity: 0.753) What are your expectations for [white on yellow]Cybertruck[/white on yellow] deliveries in 2021?
+4. [Sentence #2106]  (TSLA_Q4_2020) (Similarity: 0.753) We're actually going to be using even bigger Tesla machines for the rear body of [white on yellow]Cybertruck[/white on yellow] because you've got – obviously, it's a bigger vehicle and you've got a long truck bed that's going to a lot of load.
+5. [Sentence #1299]  (TSLA_Q3_2020) (Similarity: 0.724) The first question from retail shareholders is, is Tesla planning to start 4680 cell [white on yellow]production[/white on yellow] at Giga Berlin at the same time as vehicle [white on yellow]production[/white on yellow]?
+6. [Sentence #845]  (TSLA_Q2_2020) (Similarity: 0.704) The real limitation on Tesla growth is cell [white on yellow]production[/white on yellow] at affordable price.
+7. [Sentence #659]  (TSLA_Q2_2020) (Similarity: 0.686) The question number one is, as Tesla continues its journey towards the long-term goal of selling 20 million units per year, what are the most important vehicle programs that will drive volume growth over the next three to five years beyond Model 3, Y and the [white on yellow]Cybertruck[/white on yellow]?
+8. [Sentence #275]  (TSLA_Q1_2020) (Similarity: 0.679) So we're going to make sure, we got a lot of ice in the fire here, for new products with the [white on yellow]Cybertruck[/white on yellow], Semi, new Roadster and the Gigafactories in various parts of the world and Model Y, Autopilot and the Solar Roof and…
+
+Zachary Kirkhorn
+
+New technologies.
+9. [Sentence #1978]  (TSLA_Q4_2020) (Similarity: 0.668) The next question is what is Tesla's current gigawatt-hour run rate of the 4680 cell [white on yellow]production[/white on yellow]?
+10. [Sentence #2105]  (TSLA_Q4_2020) (Similarity: 0.667) We're getting to – we'll soon order the equipment necessary to make the [white on yellow]Cybertruck[/white on yellow] work.
+11. [Sentence #1598]  (TSLA_Q3_2020) (Similarity: 0.659) If it goes well, we'll be able to do some [white on yellow]Cybertruck[/white on yellow] deliveries towards the end of next -- towards the end of next year, yes.
+12. [Sentence #8]  (TSLA_Q1_2020) (Similarity: 0.654) Welcome to Tesla's First Quarter 2020 Q&A Webcast.
+13. [Sentence #1791]  (TSLA_Q4_2020) (Similarity: 0.649) Welcome to Tesla's fourth quarter 2020 Q&A webcast.
+14. [Sentence #2099]  (TSLA_Q4_2020) (Similarity: 0.626) So let's go straight to the last question from institutional investors, which is, where are you in [white on yellow]Cybertruck[/white on yellow] development?
+15. [Sentence #2085]  (TSLA_Q4_2020) (Similarity: 0.617) So -- but the reason Tesla is doing its own cell [white on yellow]production[/white on yellow] is in order to accelerate the growth.
+16. [Sentence #787]  (TSLA_Q2_2020) (Similarity: 0.617) So the long-term sustainable advantage of Tesla, I think, will be manufacturing.
+17. [Sentence #1574]  (TSLA_Q3_2020) (Similarity: 0.609) You haven't talked that much about like the [white on yellow]Cybertruck[/white on yellow] today.
+18. [Sentence #1]  (Similarity: 0.608) --- TSLA_Q1_2020 ---
+Operator
+
+Ladies and gentlemen, thank you for standing by, and welcome to Tesla's Q1 2020 Financial Results and Q&A Webcast.
+19. [Sentence #203]  (TSLA_Q1_2020) (Similarity: 0.606) Is this still in line with Tesla's ambitions for the next five to 10 years?
+
+Total similarity-top evidence sentences: 19
+
+-----

@@ -1,0 +1,17 @@
+[TSLA_Q3_2020] Tell me about Tesla cybertruck production from 2019-2020
+
+--- Evidence in Transcript Order ---
+1. [Sentence #162]  The first question from retail shareholders is, is Tesla planning to start 4680 cell [white on yellow]production[/white on yellow] at Giga Berlin at the same time as vehicle [white on yellow]production[/white on yellow]?
+2. [Sentence #437]  You haven't talked that much about like the [white on yellow]Cybertruck[/white on yellow] today.
+3. [Sentence #461]  If it goes well, we'll be able to do some [white on yellow]Cybertruck[/white on yellow] deliveries towards the end of next -- towards the end of next year, yes.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #162]  (Similarity: 0.724) The first question from retail shareholders is, is Tesla planning to start 4680 cell [white on yellow]production[/white on yellow] at Giga Berlin at the same time as vehicle [white on yellow]production[/white on yellow]?
+2. [Sentence #461]  (Similarity: 0.659) If it goes well, we'll be able to do some [white on yellow]Cybertruck[/white on yellow] deliveries towards the end of next -- towards the end of next year, yes.
+3. [Sentence #437]  (Similarity: 0.609) You haven't talked that much about like the [white on yellow]Cybertruck[/white on yellow] today.
+
+Total similarity-top evidence sentences: 3
+
+-----

@@ -1,0 +1,25 @@
+[TSLA_Q1_2020] Tell me about Tesla cybertruck production from 2019-2020
+
+--- Evidence in Transcript Order ---
+1. [Sentence #8]  Welcome to Tesla's First Quarter 2020 Q&A Webcast.
+2. [Sentence #203]  Is this still in line with Tesla's ambitions for the next five to 10 years?
+3. [Sentence #275]  So we're going to make sure, we got a lot of ice in the fire here, for new products with the [white on yellow]Cybertruck[/white on yellow], Semi, new Roadster and the Gigafactories in various parts of the world and Model Y, Autopilot and the Solar Roof and…
+
+Zachary Kirkhorn
+
+New technologies.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #275]  (Similarity: 0.679) So we're going to make sure, we got a lot of ice in the fire here, for new products with the [white on yellow]Cybertruck[/white on yellow], Semi, new Roadster and the Gigafactories in various parts of the world and Model Y, Autopilot and the Solar Roof and…
+
+Zachary Kirkhorn
+
+New technologies.
+2. [Sentence #8]  (Similarity: 0.654) Welcome to Tesla's First Quarter 2020 Q&A Webcast.
+3. [Sentence #203]  (Similarity: 0.606) Is this still in line with Tesla's ambitions for the next five to 10 years?
+
+Total similarity-top evidence sentences: 3
+
+-----

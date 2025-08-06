@@ -1,0 +1,25 @@
+[TSLA_Q4_2019] Tell me about Tesla cybertruck production from 2019-2020
+
+--- Evidence in Transcript Order ---
+1. [Sentence #31]  For the [white on yellow]Cybertruck[/white on yellow], a few months ago we revealed obviously we revealed the [white on yellow]Cybertruck[/white on yellow], and that was -- that went viral and we tried to build a product that -a product that is superior in every way without any preconceptions of how such product should look.
+2. [Sentence #41]  And in conclusion when I think of what we have in front of us, the next couple of years, we've got Model Y, we've got Giga Berlin, Tesla Semi, Solarglass Roof, [white on yellow]Cybertruck[/white on yellow] some very exciting improvements in battery technology for the full self-driving, we got the next-gen Roadster and probably in a bunch of other products we'll [indiscernible] too.
+3. [Sentence #43]  So super-fired up about where Tesla will be in the next 10 years.
+4. [Sentence #92]  So it will be a significant product but because it is a new and quite revolutionary product and that there is a lot of challenges to overcome, but they will be overcome and this will be a major product line for Tesla.
+5. [Sentence #266]  First question related to [white on yellow]Cybertruck[/white on yellow], you mentioned you will sell as many as you can make.
+6. [Sentence #267]  Can you remind me how many you think you can make and any thoughts on the cost of [white on yellow]production[/white on yellow] for making those Cybertrucks?
+7. [Sentence #270]  So that's part of the reason why we have not for example really accelerated [white on yellow]production[/white on yellow] of the Tesla Semi because it does use a lot of cells and unless we've got a lot of battery cells available then -- and say like accelerating [white on yellow]production[/white on yellow] of the Tesla Semi would then necessarily mean making pure Model 3 or Model Y cars.
+
+Total transcript-order evidence sentences: 7
+
+--- Evidence by Similarity ---
+1. [Sentence #41]  (Similarity: 0.736) And in conclusion when I think of what we have in front of us, the next couple of years, we've got Model Y, we've got Giga Berlin, Tesla Semi, Solarglass Roof, [white on yellow]Cybertruck[/white on yellow] some very exciting improvements in battery technology for the full self-driving, we got the next-gen Roadster and probably in a bunch of other products we'll [indiscernible] too.
+2. [Sentence #267]  (Similarity: 0.702) Can you remind me how many you think you can make and any thoughts on the cost of [white on yellow]production[/white on yellow] for making those Cybertrucks?
+3. [Sentence #31]  (Similarity: 0.651) For the [white on yellow]Cybertruck[/white on yellow], a few months ago we revealed obviously we revealed the [white on yellow]Cybertruck[/white on yellow], and that was -- that went viral and we tried to build a product that -a product that is superior in every way without any preconceptions of how such product should look.
+4. [Sentence #266]  (Similarity: 0.641) First question related to [white on yellow]Cybertruck[/white on yellow], you mentioned you will sell as many as you can make.
+5. [Sentence #43]  (Similarity: 0.624) So super-fired up about where Tesla will be in the next 10 years.
+6. [Sentence #270]  (Similarity: 0.622) So that's part of the reason why we have not for example really accelerated [white on yellow]production[/white on yellow] of the Tesla Semi because it does use a lot of cells and unless we've got a lot of battery cells available then -- and say like accelerating [white on yellow]production[/white on yellow] of the Tesla Semi would then necessarily mean making pure Model 3 or Model Y cars.
+7. [Sentence #92]  (Similarity: 0.618) So it will be a significant product but because it is a new and quite revolutionary product and that there is a lot of challenges to overcome, but they will be overcome and this will be a major product line for Tesla.
+
+Total similarity-top evidence sentences: 7
+
+-----

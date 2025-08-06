@@ -1,0 +1,25 @@
+[TSLA_Q4_2020] Tell me about Tesla cybertruck production from 2019-2020
+
+--- Evidence in Transcript Order ---
+1. [Sentence #8]  Welcome to Tesla's fourth quarter 2020 Q&A webcast.
+2. [Sentence #195]  The next question is what is Tesla's current gigawatt-hour run rate of the 4680 cell [white on yellow]production[/white on yellow]?
+3. [Sentence #302]  So -- but the reason Tesla is doing its own cell [white on yellow]production[/white on yellow] is in order to accelerate the growth.
+4. [Sentence #316]  So let's go straight to the last question from institutional investors, which is, where are you in [white on yellow]Cybertruck[/white on yellow] development?
+5. [Sentence #317]  What are your expectations for [white on yellow]Cybertruck[/white on yellow] deliveries in 2021?
+6. [Sentence #322]  We're getting to – we'll soon order the equipment necessary to make the [white on yellow]Cybertruck[/white on yellow] work.
+7. [Sentence #323]  We're actually going to be using even bigger Tesla machines for the rear body of [white on yellow]Cybertruck[/white on yellow] because you've got – obviously, it's a bigger vehicle and you've got a long truck bed that's going to a lot of load.
+
+Total transcript-order evidence sentences: 7
+
+--- Evidence by Similarity ---
+1. [Sentence #317]  (Similarity: 0.753) What are your expectations for [white on yellow]Cybertruck[/white on yellow] deliveries in 2021?
+2. [Sentence #323]  (Similarity: 0.753) We're actually going to be using even bigger Tesla machines for the rear body of [white on yellow]Cybertruck[/white on yellow] because you've got – obviously, it's a bigger vehicle and you've got a long truck bed that's going to a lot of load.
+3. [Sentence #195]  (Similarity: 0.668) The next question is what is Tesla's current gigawatt-hour run rate of the 4680 cell [white on yellow]production[/white on yellow]?
+4. [Sentence #322]  (Similarity: 0.667) We're getting to – we'll soon order the equipment necessary to make the [white on yellow]Cybertruck[/white on yellow] work.
+5. [Sentence #8]  (Similarity: 0.649) Welcome to Tesla's fourth quarter 2020 Q&A webcast.
+6. [Sentence #316]  (Similarity: 0.626) So let's go straight to the last question from institutional investors, which is, where are you in [white on yellow]Cybertruck[/white on yellow] development?
+7. [Sentence #302]  (Similarity: 0.617) So -- but the reason Tesla is doing its own cell [white on yellow]production[/white on yellow] is in order to accelerate the growth.
+
+Total similarity-top evidence sentences: 7
+
+-----
