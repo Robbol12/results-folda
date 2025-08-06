@@ -1,0 +1,17 @@
+[Year 2019] Model-y delivery
+
+--- Evidence in Transcript Order ---
+1. [Sentence #407]  (TSLA_Q1_2019) We’re not playing of the Model Y because we’re just not in production so you can’t really read anything into Model Y orders at this point.
+2. [Sentence #731]  (TSLA_Q3_2019) The second question, we've already answered regarding Model Y delivery.
+3. [Sentence #1086]  (TSLA_Q4_2019) On Model Y, we expect first deliveries in limited quantities later this quarter and will ramp over subsequent quarters.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #731]  (TSLA_Q3_2019) (Similarity: 0.873) The second question, we've already answered regarding Model Y delivery.
+2. [Sentence #407]  (TSLA_Q1_2019) (Similarity: 0.635) We’re not playing of the Model Y because we’re just not in production so you can’t really read anything into Model Y orders at this point.
+3. [Sentence #1086]  (TSLA_Q4_2019) (Similarity: 0.616) On Model Y, we expect first deliveries in limited quantities later this quarter and will ramp over subsequent quarters.
+
+Total similarity-top evidence sentences: 3
+
+-----
