@@ -1,0 +1,27 @@
+[TSLA_Q4_2021 [Transcript]] cybertruck
+
+--- Evidence in Transcript Order ---
+1. [Sentence #262]  Martin Viecha
+
+And the next question is, what are the biggest obstacles for [white on yellow]Cybertruck[/white on yellow] volume production besides battery shortage?
+2. [Sentence #264]  There's a lot of new technology in the [white on yellow]Cybertruck[/white on yellow] that will take some time to work through.
+3. [Sentence #265]  And then, there's a question of like, what's the average cost of [white on yellow]Cybertruck[/white on yellow] and to what degree is that affordable?
+4. [Sentence #268]  I worry more about like how do we the [white on yellow]Cybertruck[/white on yellow] affordable despite having awesome technology.
+5. [Sentence #270]  Aspirationally, we'd like it to go, in terms of just a rough order of magnitude, we'd like [white on yellow]Cybertruck[/white on yellow] to be at least on the order of [indiscernible] vehicles a year.
+6. [Sentence #433]  And I think you made reference to [white on yellow]Cybertruck[/white on yellow] maybe being 250,000 vehicles.
+
+Total transcript-order evidence sentences: 6
+
+--- Evidence by Similarity ---
+1. [Sentence #264]  (Similarity: 0.747) There's a lot of new technology in the [white on yellow]Cybertruck[/white on yellow] that will take some time to work through.
+2. [Sentence #270]  (Similarity: 0.667) Aspirationally, we'd like it to go, in terms of just a rough order of magnitude, we'd like [white on yellow]Cybertruck[/white on yellow] to be at least on the order of [indiscernible] vehicles a year.
+3. [Sentence #268]  (Similarity: 0.634) I worry more about like how do we the [white on yellow]Cybertruck[/white on yellow] affordable despite having awesome technology.
+4. [Sentence #265]  (Similarity: 0.633) And then, there's a question of like, what's the average cost of [white on yellow]Cybertruck[/white on yellow] and to what degree is that affordable?
+5. [Sentence #262]  (Similarity: 0.613) Martin Viecha
+
+And the next question is, what are the biggest obstacles for [white on yellow]Cybertruck[/white on yellow] volume production besides battery shortage?
+6. [Sentence #433]  (Similarity: 0.608) And I think you made reference to [white on yellow]Cybertruck[/white on yellow] maybe being 250,000 vehicles.
+
+Total similarity-top evidence sentences: 6
+
+-----

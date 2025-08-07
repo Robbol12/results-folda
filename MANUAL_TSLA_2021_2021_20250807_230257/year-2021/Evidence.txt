@@ -1,0 +1,43 @@
+[Year 2021] cybertruck
+
+--- Evidence in Transcript Order ---
+1. [Sentence #76]  (TSLA_Q1_2021) In the background, we are continuing work -- development work on the Semi, [white on yellow]Cybertruck[/white on yellow], on the Roadster and other products.
+2. [Sentence #1117]  (TSLA_Q3_2021) As we've mentioned before, after Model Y in Austin, our next product launch will be [white on yellow]Cybertruck[/white on yellow].
+3. [Sentence #1160]  (TSLA_Q3_2021) And then we will add [white on yellow]Cybertruck[/white on yellow] here in Austin and continue to grow from there.
+4. [Sentence #1281]  (TSLA_Q3_2021) The next question is, Elon said that we get an update on [white on yellow]Cybertruck[/white on yellow] in November a year ago, but it hasn't happened and we know there are a lot of updates.
+5. [Sentence #1282]  (TSLA_Q3_2021) Will you show off the new and improved [white on yellow]Cybertruck[/white on yellow]?
+6. [Sentence #1285]  (TSLA_Q3_2021) We get a lot of questions on [white on yellow]Cybertruck[/white on yellow].
+7. [Sentence #1286]  (TSLA_Q3_2021) We've been busy detailing the [white on yellow]Cybertruck[/white on yellow] to achieve the prototype version we shared with customers awhile back.
+8. [Sentence #1549]  (TSLA_Q3_2021) And the second question is related to [white on yellow]Cybertruck[/white on yellow].
+9. [Sentence #1863]  (TSLA_Q4_2021) Martin Viecha
+
+And the next question is, what are the biggest obstacles for [white on yellow]Cybertruck[/white on yellow] volume production besides battery shortage?
+10. [Sentence #1865]  (TSLA_Q4_2021) There's a lot of new technology in the [white on yellow]Cybertruck[/white on yellow] that will take some time to work through.
+11. [Sentence #1866]  (TSLA_Q4_2021) And then, there's a question of like, what's the average cost of [white on yellow]Cybertruck[/white on yellow] and to what degree is that affordable?
+12. [Sentence #1869]  (TSLA_Q4_2021) I worry more about like how do we the [white on yellow]Cybertruck[/white on yellow] affordable despite having awesome technology.
+13. [Sentence #1871]  (TSLA_Q4_2021) Aspirationally, we'd like it to go, in terms of just a rough order of magnitude, we'd like [white on yellow]Cybertruck[/white on yellow] to be at least on the order of [indiscernible] vehicles a year.
+14. [Sentence #2034]  (TSLA_Q4_2021) And I think you made reference to [white on yellow]Cybertruck[/white on yellow] maybe being 250,000 vehicles.
+
+Total transcript-order evidence sentences: 14
+
+--- Evidence by Similarity ---
+1. [Sentence #1549]  (TSLA_Q3_2021) (Similarity: 0.897) And the second question is related to [white on yellow]Cybertruck[/white on yellow].
+2. [Sentence #1285]  (TSLA_Q3_2021) (Similarity: 0.891) We get a lot of questions on [white on yellow]Cybertruck[/white on yellow].
+3. [Sentence #1282]  (TSLA_Q3_2021) (Similarity: 0.805) Will you show off the new and improved [white on yellow]Cybertruck[/white on yellow]?
+4. [Sentence #1286]  (TSLA_Q3_2021) (Similarity: 0.767) We've been busy detailing the [white on yellow]Cybertruck[/white on yellow] to achieve the prototype version we shared with customers awhile back.
+5. [Sentence #1117]  (TSLA_Q3_2021) (Similarity: 0.766) As we've mentioned before, after Model Y in Austin, our next product launch will be [white on yellow]Cybertruck[/white on yellow].
+6. [Sentence #1865]  (TSLA_Q4_2021) (Similarity: 0.747) There's a lot of new technology in the [white on yellow]Cybertruck[/white on yellow] that will take some time to work through.
+7. [Sentence #76]  (TSLA_Q1_2021) (Similarity: 0.731) In the background, we are continuing work -- development work on the Semi, [white on yellow]Cybertruck[/white on yellow], on the Roadster and other products.
+8. [Sentence #1281]  (TSLA_Q3_2021) (Similarity: 0.698) The next question is, Elon said that we get an update on [white on yellow]Cybertruck[/white on yellow] in November a year ago, but it hasn't happened and we know there are a lot of updates.
+9. [Sentence #1160]  (TSLA_Q3_2021) (Similarity: 0.682) And then we will add [white on yellow]Cybertruck[/white on yellow] here in Austin and continue to grow from there.
+10. [Sentence #1871]  (TSLA_Q4_2021) (Similarity: 0.667) Aspirationally, we'd like it to go, in terms of just a rough order of magnitude, we'd like [white on yellow]Cybertruck[/white on yellow] to be at least on the order of [indiscernible] vehicles a year.
+11. [Sentence #1869]  (TSLA_Q4_2021) (Similarity: 0.634) I worry more about like how do we the [white on yellow]Cybertruck[/white on yellow] affordable despite having awesome technology.
+12. [Sentence #1866]  (TSLA_Q4_2021) (Similarity: 0.633) And then, there's a question of like, what's the average cost of [white on yellow]Cybertruck[/white on yellow] and to what degree is that affordable?
+13. [Sentence #1863]  (TSLA_Q4_2021) (Similarity: 0.613) Martin Viecha
+
+And the next question is, what are the biggest obstacles for [white on yellow]Cybertruck[/white on yellow] volume production besides battery shortage?
+14. [Sentence #2034]  (TSLA_Q4_2021) (Similarity: 0.608) And I think you made reference to [white on yellow]Cybertruck[/white on yellow] maybe being 250,000 vehicles.
+
+Total similarity-top evidence sentences: 14
+
+-----

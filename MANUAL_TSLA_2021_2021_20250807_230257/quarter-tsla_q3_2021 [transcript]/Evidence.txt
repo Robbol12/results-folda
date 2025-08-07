@@ -1,0 +1,25 @@
+[TSLA_Q3_2021 [Transcript]] cybertruck
+
+--- Evidence in Transcript Order ---
+1. [Sentence #71]  As we've mentioned before, after Model Y in Austin, our next product launch will be [white on yellow]Cybertruck[/white on yellow].
+2. [Sentence #114]  And then we will add [white on yellow]Cybertruck[/white on yellow] here in Austin and continue to grow from there.
+3. [Sentence #235]  The next question is, Elon said that we get an update on [white on yellow]Cybertruck[/white on yellow] in November a year ago, but it hasn't happened and we know there are a lot of updates.
+4. [Sentence #236]  Will you show off the new and improved [white on yellow]Cybertruck[/white on yellow]?
+5. [Sentence #239]  We get a lot of questions on [white on yellow]Cybertruck[/white on yellow].
+6. [Sentence #240]  We've been busy detailing the [white on yellow]Cybertruck[/white on yellow] to achieve the prototype version we shared with customers awhile back.
+7. [Sentence #503]  And the second question is related to [white on yellow]Cybertruck[/white on yellow].
+
+Total transcript-order evidence sentences: 7
+
+--- Evidence by Similarity ---
+1. [Sentence #503]  (Similarity: 0.897) And the second question is related to [white on yellow]Cybertruck[/white on yellow].
+2. [Sentence #239]  (Similarity: 0.891) We get a lot of questions on [white on yellow]Cybertruck[/white on yellow].
+3. [Sentence #236]  (Similarity: 0.805) Will you show off the new and improved [white on yellow]Cybertruck[/white on yellow]?
+4. [Sentence #240]  (Similarity: 0.767) We've been busy detailing the [white on yellow]Cybertruck[/white on yellow] to achieve the prototype version we shared with customers awhile back.
+5. [Sentence #71]  (Similarity: 0.766) As we've mentioned before, after Model Y in Austin, our next product launch will be [white on yellow]Cybertruck[/white on yellow].
+6. [Sentence #235]  (Similarity: 0.698) The next question is, Elon said that we get an update on [white on yellow]Cybertruck[/white on yellow] in November a year ago, but it hasn't happened and we know there are a lot of updates.
+7. [Sentence #114]  (Similarity: 0.682) And then we will add [white on yellow]Cybertruck[/white on yellow] here in Austin and continue to grow from there.
+
+Total similarity-top evidence sentences: 7
+
+-----
