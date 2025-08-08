@@ -1,0 +1,19 @@
+[D_Q3_2024_transcript [Transcript]] contracted data center demand; connected
+
+--- Evidence in Transcript Order ---
+1. [Sentence #94]  We continue to see strong data center growth in Virginia and have already [white on yellow]connected[/white on yellow] 14 new data centers year-to-date.
+2. [Sentence #97]  Turning to data center demand on Slide 13.
+3. [Sentence #101]  There are also about 6 gigawatts of data center demand that have executed construction letters of authorization, which are contracts that enable construction of the required distribution and substation electric infrastructure to begin.
+4. [Sentence #107]  These contracted amounts do not contemplate the many data center projects that are in development phase and have not yet reached a point in the service connection process where a contract is executed.
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #107]  (Similarity: 0.738) These contracted amounts do not contemplate the many data center projects that are in development phase and have not yet reached a point in the service connection process where a contract is executed.
+2. [Sentence #94]  (Similarity: 0.671) We continue to see strong data center growth in Virginia and have already [white on yellow]connected[/white on yellow] 14 new data centers year-to-date.
+3. [Sentence #97]  (Similarity: 0.663) Turning to data center demand on Slide 13.
+4. [Sentence #101]  (Similarity: 0.653) There are also about 6 gigawatts of data center demand that have executed construction letters of authorization, which are contracts that enable construction of the required distribution and substation electric infrastructure to begin.
+
+Total similarity-top evidence sentences: 4
+
+-----

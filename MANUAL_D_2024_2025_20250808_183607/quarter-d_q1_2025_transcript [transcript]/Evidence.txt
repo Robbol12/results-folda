@@ -1,0 +1,17 @@
+[D_Q1_2025_transcript [Transcript]] contracted data center demand; connected
+
+--- Evidence in Transcript Order ---
+1. [Sentence #28]  Turning briefly to data centers.
+2. [Sentence #30]  Since our last call, we have not observed any evidence of slowing demand from data center customers across our service area.
+3. [Sentence #298]  We're seeing continued appetite for additional data center capacity in our service territory.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #30]  (Similarity: 0.681) Since our last call, we have not observed any evidence of slowing demand from data center customers across our service area.
+2. [Sentence #28]  (Similarity: 0.619) Turning briefly to data centers.
+3. [Sentence #298]  (Similarity: 0.607) We're seeing continued appetite for additional data center capacity in our service territory.
+
+Total similarity-top evidence sentences: 3
+
+-----

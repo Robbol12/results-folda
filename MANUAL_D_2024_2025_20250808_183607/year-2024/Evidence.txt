@@ -1,0 +1,29 @@
+[Year 2024] contracted data center demand; connected
+
+--- Evidence in Transcript Order ---
+1. [Sentence #152]  (D_Q1_2024_transcript) In aggregate, we've [white on yellow]connected[/white on yellow] 94 data centers with over 4 gigawatts of capacity over the last approximately 5 years.
+2. [Sentence #155]  (D_Q1_2024_transcript) In recent years, this growth has accelerated in orders of magnitude, driven by one, number of data centers requesting to be [white on yellow]connected[/white on yellow] to our system; 2, the size of each facility; and 3, the acceleration of each facility's ramp schedule to reach full capacity.
+3. [Sentence #334]  (D_Q1_2024_transcript) Can you just share a little bit about the process of evaluation with the data center developers and how you structure the contracts and their commitments in terms of having the load show up and so that you're restructuring the cost profile appropriately to protect ratepayers?
+4. [Sentence #336]  (D_Q1_2024_transcript) They -- our data centers are on the rate schedule that applies to all our large customers.
+5. [Sentence #483]  (D_Q2_2024_transcript) We've [white on yellow]connected[/white on yellow] nine new data centers year-to-date through July, consistent with our expectations to connect 15 data centers in 2024.
+6. [Sentence #766]  (D_Q3_2024_transcript) We continue to see strong data center growth in Virginia and have already [white on yellow]connected[/white on yellow] 14 new data centers year-to-date.
+7. [Sentence #769]  (D_Q3_2024_transcript) Turning to data center demand on Slide 13.
+8. [Sentence #773]  (D_Q3_2024_transcript) There are also about 6 gigawatts of data center demand that have executed construction letters of authorization, which are contracts that enable construction of the required distribution and substation electric infrastructure to begin.
+9. [Sentence #779]  (D_Q3_2024_transcript) These contracted amounts do not contemplate the many data center projects that are in development phase and have not yet reached a point in the service connection process where a contract is executed.
+
+Total transcript-order evidence sentences: 9
+
+--- Evidence by Similarity ---
+1. [Sentence #779]  (D_Q3_2024_transcript) (Similarity: 0.738) These contracted amounts do not contemplate the many data center projects that are in development phase and have not yet reached a point in the service connection process where a contract is executed.
+2. [Sentence #155]  (D_Q1_2024_transcript) (Similarity: 0.700) In recent years, this growth has accelerated in orders of magnitude, driven by one, number of data centers requesting to be [white on yellow]connected[/white on yellow] to our system; 2, the size of each facility; and 3, the acceleration of each facility's ramp schedule to reach full capacity.
+3. [Sentence #483]  (D_Q2_2024_transcript) (Similarity: 0.684) We've [white on yellow]connected[/white on yellow] nine new data centers year-to-date through July, consistent with our expectations to connect 15 data centers in 2024.
+4. [Sentence #766]  (D_Q3_2024_transcript) (Similarity: 0.671) We continue to see strong data center growth in Virginia and have already [white on yellow]connected[/white on yellow] 14 new data centers year-to-date.
+5. [Sentence #769]  (D_Q3_2024_transcript) (Similarity: 0.663) Turning to data center demand on Slide 13.
+6. [Sentence #773]  (D_Q3_2024_transcript) (Similarity: 0.653) There are also about 6 gigawatts of data center demand that have executed construction letters of authorization, which are contracts that enable construction of the required distribution and substation electric infrastructure to begin.
+7. [Sentence #336]  (D_Q1_2024_transcript) (Similarity: 0.625) They -- our data centers are on the rate schedule that applies to all our large customers.
+8. [Sentence #152]  (D_Q1_2024_transcript) (Similarity: 0.614) In aggregate, we've [white on yellow]connected[/white on yellow] 94 data centers with over 4 gigawatts of capacity over the last approximately 5 years.
+9. [Sentence #334]  (D_Q1_2024_transcript) (Similarity: 0.611) Can you just share a little bit about the process of evaluation with the data center developers and how you structure the contracts and their commitments in terms of having the load show up and so that you're restructuring the cost profile appropriately to protect ratepayers?
+
+Total similarity-top evidence sentences: 9
+
+-----
