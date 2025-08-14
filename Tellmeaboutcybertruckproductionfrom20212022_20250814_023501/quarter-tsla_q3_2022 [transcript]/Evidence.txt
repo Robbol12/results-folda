@@ -1,0 +1,45 @@
+[TSLA_Q3_2022 [Transcript]] Tell me about cybertruck production from 2021-2022
+
+--- Evidence in Transcript Order ---
+1. [Sentence #69]  We’re in the final lap for [white on yellow]Cybertruck[/white on yellow].
+2. [Sentence #70]  We’re building a [white on yellow]Cybertruck[/white on yellow] line here at Giga Texas [Indiscernible] and making a lot of progress in the robotaxi platform design.
+3. [Sentence #155]  And will there be any [white on yellow]delays[/white on yellow] in ramp-up in [white on yellow]production[/white on yellow] from Giga Berlin because of this?”
+
+Zachary Kirkhorn
+
+Yes, I can take that.
+4. [Sentence #165]  And the next question is, “How is [white on yellow]production[/white on yellow] planning going for the [white on yellow]Cybertruck[/white on yellow]?
+5. [Sentence #167]  When can we expect an update on pricing and final design?”
+
+Unidentified Company Representative
+
+I mean, as Elon said earlier, we’d be -- facilities preparations here in Giga Texas for [white on yellow]Cybertruck[/white on yellow].
+6. [Sentence #255]  At this point, we’ve done the engineering for Cybertrucks and for Semi.
+7. [Sentence #259]  I mean, obviously, we’re going to take everything we learned from S, X, 3, Y, [white on yellow]Cybertruck[/white on yellow] and Semi and forward into that platform.
+8. [Sentence #508]  And is -- do you anticipate 4680 being a gating factor for [white on yellow]Cybertruck[/white on yellow] ramp later this year?
+9. [Sentence #509]  And how do you balance the need for 4680 across Semi, [white on yellow]Cybertruck[/white on yellow] and potentially Model Y in 2023?
+
+Total transcript-order evidence sentences: 9
+
+--- Evidence by Similarity ---
+1. [Sentence #165]  (Similarity: 1.014) And the next question is, “How is [white on yellow]production[/white on yellow] planning going for the [white on yellow]Cybertruck[/white on yellow]?
+2. [Sentence #509]  (Similarity: 0.780) And how do you balance the need for 4680 across Semi, [white on yellow]Cybertruck[/white on yellow] and potentially Model Y in 2023?
+3. [Sentence #69]  (Similarity: 0.733) We’re in the final lap for [white on yellow]Cybertruck[/white on yellow].
+4. [Sentence #167]  (Similarity: 0.691) When can we expect an update on pricing and final design?”
+
+Unidentified Company Representative
+
+I mean, as Elon said earlier, we’d be -- facilities preparations here in Giga Texas for [white on yellow]Cybertruck[/white on yellow].
+5. [Sentence #70]  (Similarity: 0.673) We’re building a [white on yellow]Cybertruck[/white on yellow] line here at Giga Texas [Indiscernible] and making a lot of progress in the robotaxi platform design.
+6. [Sentence #155]  (Similarity: 0.645) And will there be any [white on yellow]delays[/white on yellow] in ramp-up in [white on yellow]production[/white on yellow] from Giga Berlin because of this?”
+
+Zachary Kirkhorn
+
+Yes, I can take that.
+7. [Sentence #259]  (Similarity: 0.640) I mean, obviously, we’re going to take everything we learned from S, X, 3, Y, [white on yellow]Cybertruck[/white on yellow] and Semi and forward into that platform.
+8. [Sentence #255]  (Similarity: 0.635) At this point, we’ve done the engineering for Cybertrucks and for Semi.
+9. [Sentence #508]  (Similarity: 0.617) And is -- do you anticipate 4680 being a gating factor for [white on yellow]Cybertruck[/white on yellow] ramp later this year?
+
+Total similarity-top evidence sentences: 9
+
+-----
