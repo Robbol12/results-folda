@@ -1,0 +1,29 @@
+[TSLA_Q3_2021 [Transcript]] tell me about cybertruck production in 2021-2022
+
+--- Evidence in Transcript Order ---
+1. [Sentence #71]  As we've mentioned before, after Model Y in Austin, our next product launch will be [white on yellow]Cybertruck[/white on yellow].
+2. [Sentence #114]  And then we will add [white on yellow]Cybertruck[/white on yellow] here in Austin and continue to grow from there.
+3. [Sentence #235]  The next question is, Elon said that we get an update on [white on yellow]Cybertruck[/white on yellow] in November a year ago, but it hasn't happened and we know there are a lot of updates.
+4. [Sentence #236]  Will you show off the new and improved [white on yellow]Cybertruck[/white on yellow]?
+5. [Sentence #239]  We get a lot of questions on [white on yellow]Cybertruck[/white on yellow].
+6. [Sentence #240]  We've been busy detailing the [white on yellow]Cybertruck[/white on yellow] to achieve the prototype version we shared with customers awhile back.
+7. [Sentence #503]  And the second question is related to [white on yellow]Cybertruck[/white on yellow].
+8. [Sentence #505]  If you look at the exoskeleton steel, is the supply for that material sufficient for immediate ramp up, I'll say in 23-24 time for [white on yellow]Cybertruck[/white on yellow]?
+9. [Sentence #509]  So obviously, as we've noted in the past, we developed our own stainless-steel grade for the exterior [white on yellow]Cybertruck[/white on yellow] to meet both the durability in course of requirements required for an automotive world.
+
+Total transcript-order evidence sentences: 9
+
+--- Evidence by Similarity ---
+1. [Sentence #71]  (Similarity: 0.838) As we've mentioned before, after Model Y in Austin, our next product launch will be [white on yellow]Cybertruck[/white on yellow].
+2. [Sentence #240]  (Similarity: 0.826) We've been busy detailing the [white on yellow]Cybertruck[/white on yellow] to achieve the prototype version we shared with customers awhile back.
+3. [Sentence #503]  (Similarity: 0.763) And the second question is related to [white on yellow]Cybertruck[/white on yellow].
+4. [Sentence #236]  (Similarity: 0.748) Will you show off the new and improved [white on yellow]Cybertruck[/white on yellow]?
+5. [Sentence #235]  (Similarity: 0.733) The next question is, Elon said that we get an update on [white on yellow]Cybertruck[/white on yellow] in November a year ago, but it hasn't happened and we know there are a lot of updates.
+6. [Sentence #239]  (Similarity: 0.726) We get a lot of questions on [white on yellow]Cybertruck[/white on yellow].
+7. [Sentence #114]  (Similarity: 0.681) And then we will add [white on yellow]Cybertruck[/white on yellow] here in Austin and continue to grow from there.
+8. [Sentence #505]  (Similarity: 0.673) If you look at the exoskeleton steel, is the supply for that material sufficient for immediate ramp up, I'll say in 23-24 time for [white on yellow]Cybertruck[/white on yellow]?
+9. [Sentence #509]  (Similarity: 0.622) So obviously, as we've noted in the past, we developed our own stainless-steel grade for the exterior [white on yellow]Cybertruck[/white on yellow] to meet both the durability in course of requirements required for an automotive world.
+
+Total similarity-top evidence sentences: 9
+
+-----

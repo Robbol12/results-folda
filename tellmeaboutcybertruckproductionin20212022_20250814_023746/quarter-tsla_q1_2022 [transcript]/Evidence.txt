@@ -1,0 +1,31 @@
+[TSLA_Q1_2022 [Transcript]] tell me about cybertruck production in 2021-2022
+
+--- Evidence in Transcript Order ---
+1. [Sentence #63]  And so, it’s, I think, going to be a very powerful product where we aspire to reach volume [white on yellow]production[/white on yellow] of that in 2024.
+2. [Sentence #65]  And we remain on track to reach volume [white on yellow]production[/white on yellow] of the [white on yellow]Cybertruck[/white on yellow] next year.
+3. [Sentence #171]  And so, we do consider that for Semi and [white on yellow]Cybertruck[/white on yellow].
+4. [Sentence #261]  So, I think, we’ll aim to -- we do a product event for robotaxi next year and get into more detail, but we are aiming for volume [white on yellow]production[/white on yellow] in 2024.
+5. [Sentence #407]  First is regarding the [white on yellow]Cybertruck[/white on yellow].
+6. [Sentence #408]  And I was wondering like in terms of number of parts, how would [white on yellow]Cybertruck[/white on yellow] compare with the traditional pickup truck in terms of number of parts?
+7. [Sentence #410]  Will we have any [white on yellow]production[/white on yellow] of vehicles in that factory, or all the future [white on yellow]production[/white on yellow] will happen in Giga Austin?
+8. [Sentence #412]  Elon Musk
+
+I’m not sure if we’ve actually done a comparison of [white on yellow]Cybertruck[/white on yellow] parts versus regular truck parts.
+
+Total transcript-order evidence sentences: 8
+
+--- Evidence by Similarity ---
+1. [Sentence #65]  (Similarity: 1.002) And we remain on track to reach volume [white on yellow]production[/white on yellow] of the [white on yellow]Cybertruck[/white on yellow] next year.
+2. [Sentence #407]  (Similarity: 0.813) First is regarding the [white on yellow]Cybertruck[/white on yellow].
+3. [Sentence #261]  (Similarity: 0.660) So, I think, we’ll aim to -- we do a product event for robotaxi next year and get into more detail, but we are aiming for volume [white on yellow]production[/white on yellow] in 2024.
+4. [Sentence #171]  (Similarity: 0.652) And so, we do consider that for Semi and [white on yellow]Cybertruck[/white on yellow].
+5. [Sentence #63]  (Similarity: 0.643) And so, it’s, I think, going to be a very powerful product where we aspire to reach volume [white on yellow]production[/white on yellow] of that in 2024.
+6. [Sentence #410]  (Similarity: 0.637) Will we have any [white on yellow]production[/white on yellow] of vehicles in that factory, or all the future [white on yellow]production[/white on yellow] will happen in Giga Austin?
+7. [Sentence #412]  (Similarity: 0.627) Elon Musk
+
+I’m not sure if we’ve actually done a comparison of [white on yellow]Cybertruck[/white on yellow] parts versus regular truck parts.
+8. [Sentence #408]  (Similarity: 0.627) And I was wondering like in terms of number of parts, how would [white on yellow]Cybertruck[/white on yellow] compare with the traditional pickup truck in terms of number of parts?
+
+Total similarity-top evidence sentences: 8
+
+-----
