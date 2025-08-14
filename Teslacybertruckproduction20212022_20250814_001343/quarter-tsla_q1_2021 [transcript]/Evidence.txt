@@ -1,0 +1,17 @@
+[TSLA_Q1_2021 [Transcript]] Tesla cybertruck production 2021-2022
+
+--- Evidence in Transcript Order ---
+1. [Sentence #24]  It’s been exceeded by the Tesla Model 3, and this is only three-and-a half years into [white on yellow]production[/white on yellow] and with just two factories.
+2. [Sentence #76]  In the background, we are continuing work -- development work on the Semi, [white on yellow]Cybertruck[/white on yellow], on the Roadster and other products.
+3. [Sentence #355]  The truly profound thing on the car side is that Tesla was the first American car company to achieve volume [white on yellow]production[/white on yellow] of a car in 100 years and not go bankrupt.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #76]  (Similarity: 0.725) In the background, we are continuing work -- development work on the Semi, [white on yellow]Cybertruck[/white on yellow], on the Roadster and other products.
+2. [Sentence #24]  (Similarity: 0.652) It’s been exceeded by the Tesla Model 3, and this is only three-and-a half years into [white on yellow]production[/white on yellow] and with just two factories.
+3. [Sentence #355]  (Similarity: 0.605) The truly profound thing on the car side is that Tesla was the first American car company to achieve volume [white on yellow]production[/white on yellow] of a car in 100 years and not go bankrupt.
+
+Total similarity-top evidence sentences: 3
+
+-----

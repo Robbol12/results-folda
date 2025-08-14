@@ -1,0 +1,23 @@
+[TSLA_Q3_2021 [Transcript]] Tesla cybertruck production 2021-2022
+
+--- Evidence in Transcript Order ---
+1. [Sentence #71]  As we've mentioned before, after Model Y in Austin, our next product launch will be [white on yellow]Cybertruck[/white on yellow].
+2. [Sentence #92]  The next question, a question from retail shareholder is, what is Tesla 's goal for vehicle [white on yellow]production[/white on yellow] capacity for the four current factories, Fremont, Shanghai, Austin and Berlin by 2024?
+3. [Sentence #236]  Will you show off the new and improved [white on yellow]Cybertruck[/white on yellow]?
+4. [Sentence #240]  We've been busy detailing the [white on yellow]Cybertruck[/white on yellow] to achieve the prototype version we shared with customers awhile back.
+5. [Sentence #503]  And the second question is related to [white on yellow]Cybertruck[/white on yellow].
+6. [Sentence #505]  If you look at the exoskeleton steel, is the supply for that material sufficient for immediate ramp up, I'll say in 23-24 time for [white on yellow]Cybertruck[/white on yellow]?
+
+Total transcript-order evidence sentences: 6
+
+--- Evidence by Similarity ---
+1. [Sentence #71]  (Similarity: 0.722) As we've mentioned before, after Model Y in Austin, our next product launch will be [white on yellow]Cybertruck[/white on yellow].
+2. [Sentence #92]  (Similarity: 0.718) The next question, a question from retail shareholder is, what is Tesla 's goal for vehicle [white on yellow]production[/white on yellow] capacity for the four current factories, Fremont, Shanghai, Austin and Berlin by 2024?
+3. [Sentence #240]  (Similarity: 0.713) We've been busy detailing the [white on yellow]Cybertruck[/white on yellow] to achieve the prototype version we shared with customers awhile back.
+4. [Sentence #505]  (Similarity: 0.627) If you look at the exoskeleton steel, is the supply for that material sufficient for immediate ramp up, I'll say in 23-24 time for [white on yellow]Cybertruck[/white on yellow]?
+5. [Sentence #236]  (Similarity: 0.623) Will you show off the new and improved [white on yellow]Cybertruck[/white on yellow]?
+6. [Sentence #503]  (Similarity: 0.604) And the second question is related to [white on yellow]Cybertruck[/white on yellow].
+
+Total similarity-top evidence sentences: 6
+
+-----

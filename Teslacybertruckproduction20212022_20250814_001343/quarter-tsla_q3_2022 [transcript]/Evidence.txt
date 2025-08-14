@@ -1,0 +1,35 @@
+[TSLA_Q3_2022 [Transcript]] Tesla cybertruck production 2021-2022
+
+--- Evidence in Transcript Order ---
+1. [Sentence #70]  We’re building a [white on yellow]Cybertruck[/white on yellow] line here at Giga Texas [Indiscernible] and making a lot of progress in the robotaxi platform design.
+2. [Sentence #132]  We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue [white on yellow]production[/white on yellow] at a 50% or greater compound annual growth rate.
+3. [Sentence #165]  And the next question is, “How is [white on yellow]production[/white on yellow] planning going for the [white on yellow]Cybertruck[/white on yellow]?
+4. [Sentence #167]  When can we expect an update on pricing and final design?”
+
+Unidentified Company Representative
+
+I mean, as Elon said earlier, we’d be -- facilities preparations here in Giga Texas for [white on yellow]Cybertruck[/white on yellow].
+5. [Sentence #180]  So, we’ll be handing over our first [white on yellow]production[/white on yellow] Tesla Semis to Pepsi on December 1st.
+6. [Sentence #182]  And we will begin ramping up [white on yellow]production[/white on yellow] of the Tesla Semi, which is a max low, heavy -- heavy truck.
+7. [Sentence #508]  And is -- do you anticipate 4680 being a gating factor for [white on yellow]Cybertruck[/white on yellow] ramp later this year?
+8. [Sentence #509]  And how do you balance the need for 4680 across Semi, [white on yellow]Cybertruck[/white on yellow] and potentially Model Y in 2023?
+
+Total transcript-order evidence sentences: 8
+
+--- Evidence by Similarity ---
+1. [Sentence #165]  (Similarity: 0.866) And the next question is, “How is [white on yellow]production[/white on yellow] planning going for the [white on yellow]Cybertruck[/white on yellow]?
+2. [Sentence #509]  (Similarity: 0.761) And how do you balance the need for 4680 across Semi, [white on yellow]Cybertruck[/white on yellow] and potentially Model Y in 2023?
+3. [Sentence #182]  (Similarity: 0.723) And we will begin ramping up [white on yellow]production[/white on yellow] of the Tesla Semi, which is a max low, heavy -- heavy truck.
+4. [Sentence #132]  (Similarity: 0.661) We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue [white on yellow]production[/white on yellow] at a 50% or greater compound annual growth rate.
+5. [Sentence #180]  (Similarity: 0.660) So, we’ll be handing over our first [white on yellow]production[/white on yellow] Tesla Semis to Pepsi on December 1st.
+6. [Sentence #70]  (Similarity: 0.613) We’re building a [white on yellow]Cybertruck[/white on yellow] line here at Giga Texas [Indiscernible] and making a lot of progress in the robotaxi platform design.
+7. [Sentence #167]  (Similarity: 0.604) When can we expect an update on pricing and final design?”
+
+Unidentified Company Representative
+
+I mean, as Elon said earlier, we’d be -- facilities preparations here in Giga Texas for [white on yellow]Cybertruck[/white on yellow].
+8. [Sentence #508]  (Similarity: 0.600) And is -- do you anticipate 4680 being a gating factor for [white on yellow]Cybertruck[/white on yellow] ramp later this year?
+
+Total similarity-top evidence sentences: 8
+
+-----

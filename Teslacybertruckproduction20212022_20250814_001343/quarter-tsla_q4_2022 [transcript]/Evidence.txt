@@ -1,0 +1,27 @@
+[TSLA_Q4_2022 [Transcript]] Tesla cybertruck production 2021-2022
+
+--- Evidence in Transcript Order ---
+1. [Sentence #90]  This includes expanding in-house cell [white on yellow]production[/white on yellow], bringing [white on yellow]Cybertruck[/white on yellow] to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+2. [Sentence #106]  The next investor question is, will Tesla be able to take full advantage of advanced manufacturing [white on yellow]production[/white on yellow] credits for battery cells packs?
+3. [Sentence #174]  Really, our 2023 goal as a 4680 team is to deliver a cost-effective ramp of 4680s well ahead of [white on yellow]Cybertruck[/white on yellow].
+4. [Sentence #181]  Elon Musk
+
+Yes, [white on yellow]Cybertruck[/white on yellow] will have Hardware 4.
+5. [Sentence #182]  And to be clear, for 2023, [white on yellow]Cybertruck[/white on yellow] will not be a significant contributor to the bottom line but it will be into next year.
+6. [Sentence #231]  The next question from investors is, is [white on yellow]Cybertruck[/white on yellow] [white on yellow]production[/white on yellow] still on track for mid-year?
+
+Total transcript-order evidence sentences: 6
+
+--- Evidence by Similarity ---
+1. [Sentence #90]  (Similarity: 0.897) This includes expanding in-house cell [white on yellow]production[/white on yellow], bringing [white on yellow]Cybertruck[/white on yellow] to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+2. [Sentence #231]  (Similarity: 0.879) The next question from investors is, is [white on yellow]Cybertruck[/white on yellow] [white on yellow]production[/white on yellow] still on track for mid-year?
+3. [Sentence #182]  (Similarity: 0.735) And to be clear, for 2023, [white on yellow]Cybertruck[/white on yellow] will not be a significant contributor to the bottom line but it will be into next year.
+4. [Sentence #174]  (Similarity: 0.682) Really, our 2023 goal as a 4680 team is to deliver a cost-effective ramp of 4680s well ahead of [white on yellow]Cybertruck[/white on yellow].
+5. [Sentence #106]  (Similarity: 0.642) The next investor question is, will Tesla be able to take full advantage of advanced manufacturing [white on yellow]production[/white on yellow] credits for battery cells packs?
+6. [Sentence #181]  (Similarity: 0.606) Elon Musk
+
+Yes, [white on yellow]Cybertruck[/white on yellow] will have Hardware 4.
+
+Total similarity-top evidence sentences: 6
+
+-----
