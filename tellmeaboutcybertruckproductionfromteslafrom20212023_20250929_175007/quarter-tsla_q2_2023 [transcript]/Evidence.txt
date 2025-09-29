@@ -1,0 +1,25 @@
+[TSLA_Q2_2023 [Transcript]] tell me about cybertruck production from tesla from 2021-2023
+
+--- Evidence in Transcript Order ---
+1. [Sentence #52]  With regard to our [white on yellow]Cybertruck[/white on yellow], we continue to build our release candidates of the [white on yellow]Cybertruck[/white on yellow] on our final [white on yellow]production[/white on yellow] line in Austin.
+2. [Sentence #110]  Here in Texas, we’re preparing to launch our [white on yellow]Cybertruck[/white on yellow] cell, which is 10% higher energy density than current [white on yellow]production[/white on yellow].
+3. [Sentence #115]  Lastly, it is important to remember that most of what we focused on a Battery Day was the Tesla-engineered 4680 [white on yellow]production[/white on yellow] system and the improvements we strove to achieve on equipment, factory density, capital cost and utility cost reduction, all of which we are realizing in our Texas scale up to date.
+4. [Sentence #177]  The next question, when will we give more information about the [white on yellow]Cybertruck[/white on yellow] orders, estimated delivery schedules, pricing and specifications?
+5. [Sentence #180]  I do want to emphasize that the [white on yellow]Cybertruck[/white on yellow] has a lot of new technology in it, like a lot.
+6. [Sentence #240]  The first Optimus that is -- that will have all of the Tesla designed actuators, sort of [white on yellow]production[/white on yellow] candidate actuators integrated and walking should be around November-ish.
+7. [Sentence #405]  As we just think about sort of in the year ahead, [white on yellow]Cybertruck[/white on yellow] is going to be some contribution.
+
+Total transcript-order evidence sentences: 7
+
+--- Evidence by Similarity ---
+1. [Sentence #52]  (Similarity: 0.867) With regard to our [white on yellow]Cybertruck[/white on yellow], we continue to build our release candidates of the [white on yellow]Cybertruck[/white on yellow] on our final [white on yellow]production[/white on yellow] line in Austin.
+2. [Sentence #110]  (Similarity: 0.857) Here in Texas, we’re preparing to launch our [white on yellow]Cybertruck[/white on yellow] cell, which is 10% higher energy density than current [white on yellow]production[/white on yellow].
+3. [Sentence #180]  (Similarity: 0.718) I do want to emphasize that the [white on yellow]Cybertruck[/white on yellow] has a lot of new technology in it, like a lot.
+4. [Sentence #405]  (Similarity: 0.715) As we just think about sort of in the year ahead, [white on yellow]Cybertruck[/white on yellow] is going to be some contribution.
+5. [Sentence #177]  (Similarity: 0.669) The next question, when will we give more information about the [white on yellow]Cybertruck[/white on yellow] orders, estimated delivery schedules, pricing and specifications?
+6. [Sentence #115]  (Similarity: 0.624) Lastly, it is important to remember that most of what we focused on a Battery Day was the Tesla-engineered 4680 [white on yellow]production[/white on yellow] system and the improvements we strove to achieve on equipment, factory density, capital cost and utility cost reduction, all of which we are realizing in our Texas scale up to date.
+7. [Sentence #240]  (Similarity: 0.615) The first Optimus that is -- that will have all of the Tesla designed actuators, sort of [white on yellow]production[/white on yellow] candidate actuators integrated and walking should be around November-ish.
+
+Total similarity-top evidence sentences: 7
+
+-----

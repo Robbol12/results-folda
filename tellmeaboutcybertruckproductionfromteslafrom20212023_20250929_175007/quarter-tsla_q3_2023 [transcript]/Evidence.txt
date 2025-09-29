@@ -1,0 +1,31 @@
+[TSLA_Q3_2023 [Transcript]] tell me about cybertruck production from tesla from 2021-2023
+
+--- Evidence in Transcript Order ---
+1. [Sentence #17]  The [white on yellow]Cybertruck[/white on yellow], I know a lot of people are excited about the [white on yellow]Cybertruck[/white on yellow].
+2. [Sentence #21]  I do want to emphasize that there will be enormous challenges in reaching volume [white on yellow]production[/white on yellow] with the [white on yellow]Cybertruck[/white on yellow], and then in making a [white on yellow]Cybertruck[/white on yellow] cash flow positive.
+3. [Sentence #51]  On the operating expenses front, R&D expenses continued to rise due to [white on yellow]Cybertruck[/white on yellow] prototype builds and pilot [white on yellow]production[/white on yellow] testing combined with spend on AI technologies like full self-driving, Optimus and Dojo.
+4. [Sentence #68]  How many [white on yellow]Cybertruck[/white on yellow] deliveries do you anticipate for 2024?
+5. [Sentence #91]  The [white on yellow]Cybertruck[/white on yellow] cell with 10% higher energy than our Model Y cell started [white on yellow]production[/white on yellow] on line two in Texas.
+6. [Sentence #92]  This quarter we convert to building a 100% [white on yellow]Cybertruck[/white on yellow] cells to simplify and focus the factory as we ramp all four lines in Phase 1 over the next three quarters.
+7. [Sentence #122]  Current sell side consensus assumes that Tesla will deliver 2.3 million vehicles in 2024, representing 28% growth versus 2023 guidance.
+8. [Sentence #218]  And so it is -- [white on yellow]Cybertruck[/white on yellow]’s one of those special products that comes along only once in a long while.
+9. [Sentence #297]  Plus, like Elon mentioned, we’re going to be ramping [white on yellow]Cybertruck[/white on yellow], which is going to be another headwind, which we will be dealing with.
+10. [Sentence #411]  But then on the flip side, we’re going to be ramping a new product like [white on yellow]Cybertruck[/white on yellow], which we talked about.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #21]  (Similarity: 0.903) I do want to emphasize that there will be enormous challenges in reaching volume [white on yellow]production[/white on yellow] with the [white on yellow]Cybertruck[/white on yellow], and then in making a [white on yellow]Cybertruck[/white on yellow] cash flow positive.
+2. [Sentence #91]  (Similarity: 0.794) The [white on yellow]Cybertruck[/white on yellow] cell with 10% higher energy than our Model Y cell started [white on yellow]production[/white on yellow] on line two in Texas.
+3. [Sentence #68]  (Similarity: 0.792) How many [white on yellow]Cybertruck[/white on yellow] deliveries do you anticipate for 2024?
+4. [Sentence #51]  (Similarity: 0.716) On the operating expenses front, R&D expenses continued to rise due to [white on yellow]Cybertruck[/white on yellow] prototype builds and pilot [white on yellow]production[/white on yellow] testing combined with spend on AI technologies like full self-driving, Optimus and Dojo.
+5. [Sentence #17]  (Similarity: 0.710) The [white on yellow]Cybertruck[/white on yellow], I know a lot of people are excited about the [white on yellow]Cybertruck[/white on yellow].
+6. [Sentence #411]  (Similarity: 0.708) But then on the flip side, we’re going to be ramping a new product like [white on yellow]Cybertruck[/white on yellow], which we talked about.
+7. [Sentence #92]  (Similarity: 0.695) This quarter we convert to building a 100% [white on yellow]Cybertruck[/white on yellow] cells to simplify and focus the factory as we ramp all four lines in Phase 1 over the next three quarters.
+8. [Sentence #297]  (Similarity: 0.650) Plus, like Elon mentioned, we’re going to be ramping [white on yellow]Cybertruck[/white on yellow], which is going to be another headwind, which we will be dealing with.
+9. [Sentence #218]  (Similarity: 0.643) And so it is -- [white on yellow]Cybertruck[/white on yellow]’s one of those special products that comes along only once in a long while.
+10. [Sentence #122]  (Similarity: 0.636) Current sell side consensus assumes that Tesla will deliver 2.3 million vehicles in 2024, representing 28% growth versus 2023 guidance.
+
+Total similarity-top evidence sentences: 10
+
+-----

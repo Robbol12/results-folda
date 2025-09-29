@@ -1,0 +1,23 @@
+[TSLA_Q4_2023 [Transcript]] tell me about cybertruck production from tesla from 2021-2023
+
+--- Evidence in Transcript Order ---
+1. [Sentence #12]  So the Tesla team did an incredible job in 2023.
+2. [Sentence #84]  In our vehicle business, we continue to see improvements in our per unit cost despite us being in the early phase of [white on yellow]Cybertruck[/white on yellow] ramp.
+3. [Sentence #113]  Given that you moved the start of the next-generation compact vehicle [white on yellow]production[/white on yellow] to Austin, has the timeline improved so that we might see next-generation platform vehicles in 2025?
+4. [Sentence #214]  When will Tesla start construction on the Giga Nevada expansion and Giga Mexico, and when can we expect each of these to produce their first products such as 4680 cell, Semi, and next-gen vehicles?
+5. [Sentence #304]  The next question is, can we get Tesla Energy volumes reported in the [white on yellow]production[/white on yellow] and delivery release?
+6. [Sentence #465]  To what extent do you think [white on yellow]Cybertruck[/white on yellow] is really a proving ground for the next-gen platform and is really going to be a gating factor to unlocking the cost reductions needed for the next-gen platform?
+
+Total transcript-order evidence sentences: 6
+
+--- Evidence by Similarity ---
+1. [Sentence #465]  (Similarity: 0.749) To what extent do you think [white on yellow]Cybertruck[/white on yellow] is really a proving ground for the next-gen platform and is really going to be a gating factor to unlocking the cost reductions needed for the next-gen platform?
+2. [Sentence #304]  (Similarity: 0.679) The next question is, can we get Tesla Energy volumes reported in the [white on yellow]production[/white on yellow] and delivery release?
+3. [Sentence #12]  (Similarity: 0.666) So the Tesla team did an incredible job in 2023.
+4. [Sentence #84]  (Similarity: 0.618) In our vehicle business, we continue to see improvements in our per unit cost despite us being in the early phase of [white on yellow]Cybertruck[/white on yellow] ramp.
+5. [Sentence #214]  (Similarity: 0.617) When will Tesla start construction on the Giga Nevada expansion and Giga Mexico, and when can we expect each of these to produce their first products such as 4680 cell, Semi, and next-gen vehicles?
+6. [Sentence #113]  (Similarity: 0.609) Given that you moved the start of the next-generation compact vehicle [white on yellow]production[/white on yellow] to Austin, has the timeline improved so that we might see next-generation platform vehicles in 2025?
+
+Total similarity-top evidence sentences: 6
+
+-----

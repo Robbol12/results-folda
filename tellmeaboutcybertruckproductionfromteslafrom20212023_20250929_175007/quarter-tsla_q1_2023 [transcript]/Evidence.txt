@@ -1,0 +1,23 @@
+[TSLA_Q1_2023 [Transcript]] tell me about cybertruck production from tesla from 2021-2023
+
+--- Evidence in Transcript Order ---
+1. [Sentence #24]  Regarding the [white on yellow]Cybertruck[/white on yellow], we continue to build Alpha versions of the [white on yellow]Cybertruck[/white on yellow] on our pilot line for testing purposes.
+2. [Sentence #27]  So the [white on yellow]Cybertruck[/white on yellow] is no different.
+3. [Sentence #54]  I want to start by congratulating the Tesla team for record vehicle [white on yellow]production[/white on yellow] and deliveries.
+4. [Sentence #71]  We plan to continue to invest heavily into our future plans, which include the [white on yellow]Cybertruck[/white on yellow] next-generation platform, in-house cell [white on yellow]production[/white on yellow], energy storage business and our autonomy and AI-enabled products.
+5. [Sentence #141]  And going forward for the rest of the year, the priority, one, is yielding cost for the 4680 program as we steadily ramp [white on yellow]production[/white on yellow] ahead of [white on yellow]Cybertruck[/white on yellow] next year.
+6. [Sentence #175]  And maybe the last question from investors, can you give updated specs and pricing for [white on yellow]Cybertruck[/white on yellow] and any new features that will make it to [white on yellow]production[/white on yellow]?
+
+Total transcript-order evidence sentences: 6
+
+--- Evidence by Similarity ---
+1. [Sentence #175]  (Similarity: 0.988) And maybe the last question from investors, can you give updated specs and pricing for [white on yellow]Cybertruck[/white on yellow] and any new features that will make it to [white on yellow]production[/white on yellow]?
+2. [Sentence #71]  (Similarity: 0.871) We plan to continue to invest heavily into our future plans, which include the [white on yellow]Cybertruck[/white on yellow] next-generation platform, in-house cell [white on yellow]production[/white on yellow], energy storage business and our autonomy and AI-enabled products.
+3. [Sentence #141]  (Similarity: 0.728) And going forward for the rest of the year, the priority, one, is yielding cost for the 4680 program as we steadily ramp [white on yellow]production[/white on yellow] ahead of [white on yellow]Cybertruck[/white on yellow] next year.
+4. [Sentence #24]  (Similarity: 0.699) Regarding the [white on yellow]Cybertruck[/white on yellow], we continue to build Alpha versions of the [white on yellow]Cybertruck[/white on yellow] on our pilot line for testing purposes.
+5. [Sentence #54]  (Similarity: 0.663) I want to start by congratulating the Tesla team for record vehicle [white on yellow]production[/white on yellow] and deliveries.
+6. [Sentence #27]  (Similarity: 0.640) So the [white on yellow]Cybertruck[/white on yellow] is no different.
+
+Total similarity-top evidence sentences: 6
+
+-----

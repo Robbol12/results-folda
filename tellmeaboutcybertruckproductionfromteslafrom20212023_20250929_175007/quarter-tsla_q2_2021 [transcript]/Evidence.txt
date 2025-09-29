@@ -1,0 +1,21 @@
+[TSLA_Q2_2021 [Transcript]] tell me about cybertruck production from tesla from 2021-2023
+
+--- Evidence in Transcript Order ---
+1. [Sentence #24]  It’s been exceeded by the Tesla Model 3, and this is only three-and-a half years into [white on yellow]production[/white on yellow] and with just two factories.
+2. [Sentence #76]  In the background, we are continuing work -- development work on the Semi, [white on yellow]Cybertruck[/white on yellow], on the Roadster and other products.
+3. [Sentence #93]  While the Tesla team in partnership with our suppliers did tremendous work keeping our factories running, we did experience high expedite costs in the quarter and they were also higher than they were in Q4, with some minor interruptions to [white on yellow]production[/white on yellow] over the course of the quarter.
+4. [Sentence #225]  And the next retail question is, Master of Coin, can you tell us anything about Tesla’s future plans in digital currency space?
+5. [Sentence #355]  The truly profound thing on the car side is that Tesla was the first American car company to achieve volume [white on yellow]production[/white on yellow] of a car in 100 years and not go bankrupt.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #76]  (Similarity: 0.750) In the background, we are continuing work -- development work on the Semi, [white on yellow]Cybertruck[/white on yellow], on the Roadster and other products.
+2. [Sentence #24]  (Similarity: 0.695) It’s been exceeded by the Tesla Model 3, and this is only three-and-a half years into [white on yellow]production[/white on yellow] and with just two factories.
+3. [Sentence #355]  (Similarity: 0.682) The truly profound thing on the car side is that Tesla was the first American car company to achieve volume [white on yellow]production[/white on yellow] of a car in 100 years and not go bankrupt.
+4. [Sentence #93]  (Similarity: 0.637) While the Tesla team in partnership with our suppliers did tremendous work keeping our factories running, we did experience high expedite costs in the quarter and they were also higher than they were in Q4, with some minor interruptions to [white on yellow]production[/white on yellow] over the course of the quarter.
+5. [Sentence #225]  (Similarity: 0.605) And the next retail question is, Master of Coin, can you tell us anything about Tesla’s future plans in digital currency space?
+
+Total similarity-top evidence sentences: 5
+
+-----
