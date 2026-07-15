@@ -1,0 +1,27 @@
+[Year 2019] What did TSLA say about revenue in Q1 2019
+
+--- Evidence in Transcript Order ---
+1. [Sentence #1]  --- TSLA_Q1_2019 ---
+Operator
+
+Good day, ladies and gentlemen and welcome to the Tesla Q1 2019 Financial Results and Q&A webcast.
+2. [Sentence #1017]  --- TSLA_Q3_2019 ---
+Operator
+
+Ladies and gentlemen, thank you for standing by, and welcome to Tesla's Q3 2019 Financial Results and Q&A Webcast.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #1]  (Similarity: 0.647) --- TSLA_Q1_2019 ---
+Operator
+
+Good day, ladies and gentlemen and welcome to the Tesla Q1 2019 Financial Results and Q&A webcast.
+2. [Sentence #1017]  (Similarity: 0.629) --- TSLA_Q3_2019 ---
+Operator
+
+Ladies and gentlemen, thank you for standing by, and welcome to Tesla's Q3 2019 Financial Results and Q&A Webcast.
+
+Total similarity-top evidence sentences: 2
+
+-----
