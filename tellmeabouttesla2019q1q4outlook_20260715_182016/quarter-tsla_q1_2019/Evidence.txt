@@ -1,0 +1,21 @@
+[TSLA_Q1_2019] tell me about tesla 2019 q1-q4 outlook
+
+--- Evidence in Transcript Order ---
+1. [Sentence #1]  Operator
+
+Good day, ladies and gentlemen and welcome to the Tesla Q1 2019 Financial Results and Q&A webcast.
+2. [Sentence #7]  Welcome to Tesla’s first quarter 2019 Q&A webcast.
+3. [Sentence #61]  Overall, as we reflect on the progress of Q1, this was one of the most complicated quarters that I can think of in the history of the company and it was ambitious even by Tesla’s standards.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #1]  (Similarity: 0.719) Operator
+
+Good day, ladies and gentlemen and welcome to the Tesla Q1 2019 Financial Results and Q&A webcast.
+2. [Sentence #7]  (Similarity: 0.661) Welcome to Tesla’s first quarter 2019 Q&A webcast.
+3. [Sentence #61]  (Similarity: 0.603) Overall, as we reflect on the progress of Q1, this was one of the most complicated quarters that I can think of in the history of the company and it was ambitious even by Tesla’s standards.
+
+Total similarity-top evidence sentences: 3
+
+-----

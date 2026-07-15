@@ -1,0 +1,59 @@
+[TSLA_Q1_2019] tell me about tesla 2019 q1-q4 outlook
+
+1. [Sentence #1] [UNCERTAIN]
+>>> Operator
+
+Good day, ladies and gentlemen and welcome to the Tesla Q1 2019 Financial Results and Q&A webcast.
+     My name is Sherry and I will be your coordinator for today.
+     [Operator Instructions] As a reminder, this conference is being recorded.
+     I would now like to turn the call over to your host, Mr. Martin Viecha, Senior Director of Investor Relations.
+     Mr. Viecha, you may now proceed.
+     Martin Viecha
+
+Thank you, Sherry and good afternoon everyone.
+     Welcome to Tesla’s first quarter 2019 Q&A webcast.
+     I am joined today by Elon Musk, J.B. Straubel, Zachary Kirkhorn and a number of other executives.
+-----
+2. [Sentence #7] [PLAN]
+     Operator
+
+Good day, ladies and gentlemen and welcome to the Tesla Q1 2019 Financial Results and Q&A webcast.
+     My name is Sherry and I will be your coordinator for today.
+     [Operator Instructions] As a reminder, this conference is being recorded.
+     I would now like to turn the call over to your host, Mr. Martin Viecha, Senior Director of Investor Relations.
+     Mr. Viecha, you may now proceed.
+     Martin Viecha
+
+Thank you, Sherry and good afternoon everyone.
+>>> Welcome to Tesla’s first quarter 2019 Q&A webcast.
+     I am joined today by Elon Musk, J.B. Straubel, Zachary Kirkhorn and a number of other executives.
+     Our Q1 results were announced at about 2 p.m. Pacific Time in the updated letter we published at the same link as this webcast.
+     During this call, we will discuss our business outlook and make forward-looking statements.
+     These comments are based on our predictions and expectations as of today.
+     Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC.
+     During the question-and-answer portion of today’s call, please limit yourself to one question and one follow-up.
+     [Operator Instructions] But before we jump into Q&A, Elon has some opening remarks.
+-----
+3. [Sentence #61] [PLAN]
+     And I am very excited about the future for other products, especially for full self-driving, which will fundamentally transform transport as we know it.
+     The Tesla Semi truck Model Y, improvements to Powerwall, Powerpack, the Solar Roof Version 3 on the energy side.
+     And no question in my mind that Tesla has the most exciting product roadmap of any consumer product company in the world.
+     And finally, I want to thank our employees for their incredible work and our customers for their continued support.
+     Martin Viecha
+
+Thank you very much, Elon.
+     And I think Zachary would like to have some remarks as well.
+     Zachary Kirkhorn
+
+Yes, thank you, Martin and thanks Elon as well.
+>>> Overall, as we reflect on the progress of Q1, this was one of the most complicated quarters that I can think of in the history of the company and it was ambitious even by Tesla’s standards.
+     The global expansion of Model 3 was a huge theme within the quarter.
+     We launched the standard range lineup for Model 3 product retooling from Model S and Model X, which Elon just talk about and suspension upgrade and then we implemented various pricing adjustments and work to do the corresponding impact that had on our order mix in deliverable cars.
+     So there is two key themes that I would like to discuss briefly and then we will open it up to Q&A around cash and profitability for the quarter.
+     First, on the cash front, we exited Q1 with $2.2 billion in cash and cash equivalents on hand.
+     This was a $1.5 billion reduction from our 2018 ending cash balance, but this reduction is attributed to two factors.
+     The first is that we paid off $920 million convertible note on March 1.
+     Note for those of you looking to the cash flow statement, $188 million of this is flowing through our operating cash flows.
+-----
+
+Total context windows: 3

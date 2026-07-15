@@ -1,0 +1,42 @@
+[TSLA_Q4_2019] tell me about tesla 2019 q1-q4 outlook
+
+1. [Sentence #1] [NO EVIDENCE]
+>>> perator
+
+Ladies and gentlemen, thank you for standing by and welcome to Tesla's Q4 2019 Financial Results and Q&A Webcast.
+     At this time, all participants are in a listen-only mode.
+     After the speaker presentation, there will be a question-and-answer session.
+     [Operator Instructions] Please be advised that today's conference is being recorded.
+     [Operator Instructions]
+
+I would now like to hand the conference over to your speaker, Mr. Martin Viecha, Senior Director of Investor Relations.
+     Please go ahead, sir.
+     Martin Viecha
+
+Thank you, Sherry and good afternoon everyone and welcome to Tesla's fourth quarter 2019 Q&A webcast.
+     I'm joined today by Elon Mus, Zachary Kirkhorn and a number of other executives.
+-----
+2. [Sentence #7] [PLAN]
+     perator
+
+Ladies and gentlemen, thank you for standing by and welcome to Tesla's Q4 2019 Financial Results and Q&A Webcast.
+     At this time, all participants are in a listen-only mode.
+     After the speaker presentation, there will be a question-and-answer session.
+     [Operator Instructions] Please be advised that today's conference is being recorded.
+     [Operator Instructions]
+
+I would now like to hand the conference over to your speaker, Mr. Martin Viecha, Senior Director of Investor Relations.
+     Please go ahead, sir.
+>>> Martin Viecha
+
+Thank you, Sherry and good afternoon everyone and welcome to Tesla's fourth quarter 2019 Q&A webcast.
+     I'm joined today by Elon Mus, Zachary Kirkhorn and a number of other executives.
+     Our Q4 results were announced at about 1:00 PM Pacific Time in the update deck we published at the same link as this webcast.
+     During the call, we will discuss our business outlook and make forward-looking statements.
+     These comments are based on our predictions and expectations as of today.
+     Actual events or results could differ materially due to a number of risks and uncertainties, including those mentioned in our most recent filings with the SEC.
+     During the question-and-answer portion of today's call, please limit yourself to one question and one follow-up.
+     [Operator Instructions] But before we jump in the Q&A, Elon has some opening remarks.
+-----
+
+Total context windows: 2
