@@ -1,0 +1,26 @@
+[WHAT CHANGED SINCE LAST QUARTER] TSLA: full self-driving progress
+
+Quarters compared: TSLA_Q1_2025, TSLA_Q2_2025
+Change detected: True
+
+Between TSLA_Q1_2025 and TSLA_Q2_2025, there was a noticeable shift in management's discussion on full self-driving progress. In Q1, management focused on the challenges of validation and rare edge cases, while in Q2, they highlighted significant software improvements, plans to increase parameter count, confidence in expanding the fleet for Robotaxi operation, and improvements in FSD adoption rates.
+
+Key quotes:
+  - Currently, we are driving around in Austin using our QA fleet, but then it's super rare to get interventions that are critical for Robotaxi operation.
+  - On the full self-driving front, we continue to make significant improvements just with the software.
+  - We are expecting to increase the parameter count to what we think can probably tenfold the parameter count.
+  - We've definitely seen a marked improvement in the FSD adoption since we've launched version twelve of FSD in North America.
+
+--- Evidence (with surrounding context) ---
+1. [TSLA_Q1_2025] In terms of addressing the question that asked for what are the critical things that need to get right? One thing I would like to note is validation. Self-driving is a long-tail problem where there can be a lot of edge cases that only happen very, very rarely. Currently, we are driving around in Austin using our QA fleet, but then it's super rare to get interventions that are critical for Robotaxi operation. And so, you can go many days without getting any single intervention, so you can't easily know whether you're improving or regressing in your capacity.
+
+2. [TSLA_Q2_2025] Really quite a lovely experience. Great job by the team there. On the full self-driving front, we continue to make significant improvements just with the software. We are expecting to increase the parameter count to what we think can probably tenfold the parameter count. This is a tricky thing to do because as you increase the parameter count, you get to choke on memory bandwidth.
+
+3. [TSLA_Q2_2025] especially for purpose-built vehicles such as the CyberCab, and stated, next year, but confidently next year, people would be able to add or subtract their car to the Tesla, Inc. fleet. Management confirmed Dojo two supercomputer and a new AI factory are both targeted for production by the end of next year, expanding Tesla, Inc.’s real-world AI capabilities. INDUSTRY GLOSSARY
+FSD (Full Self-Driving): Tesla’s advanced driver assistance system designed to achieve autonomous vehicle operation through continuous software and AI upgrades. Optimus: Tesla’s humanoid robotics program aimed at automating physical tasks in factories and potentially, external environments. Megapack: Tesla’s large-scale lithium-ion battery system used for energy storage applications in grid and utility projects.
+
+4. [TSLA_Q2_2025] It is, I believe, the best-selling car of any kind in the world still. Autonomy is a big factor there. Even with just supervised self-driving, it's a huge selling point. It's worth noting that we do not actually yet have approval for supervised FSD in Europe. We think our sales in Europe will improve significantly once we are able to give customers the same experience that they have in the US.
+
+5. [TSLA_Q2_2025] Good afternoon. Thank you very much for taking the questions. With the FSD trials that Tesla, Inc. has been offering to consumers and the attention on self-driving more generally, are you able to comment more specifically on what you're seeing with FSD subscription trends and take rates and help us better understand how large FSD revenue may be currently? Vaibhav Taneja: We've definitely seen a marked improvement in the FSD adoption since we've launched version twelve of FSD in North America. The other thing we did last year is we brought down the pricing and made the subscription much more affordable.
+
+Total evidence entries: 5
