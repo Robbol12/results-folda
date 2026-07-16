@@ -1,0 +1,47 @@
+[WHAT CHANGED SINCE LAST QUARTER] AMZN: aws growth
+
+Quarters compared: AMZN_Q3_2022, AMZN_Q4_2022
+Change detected: True
+
+In the previous quarter, management discussed a 28% growth rate in AWS, emphasized investments, increased headcount, and cost optimization efforts. However, in the current quarter, there was a notable shift with management mentioning mid-teens revenue growth, uncertainty in forecasting, potential headwinds impacting growth, and a focus on helping customers spend less money.
+
+Key quotes:
+  - [AMZN_Q3_2022] 'In AWS, net sales increased to $20.5 billion in Q3, up 28% year-over-year...'
+  - [AMZN_Q4_2022] 'So far in the first month of the year, AWS year-over-year revenue growth is in the mid-teens.'
+
+--- Evidence ---
+1. [AMZN_Q3_2022] I would say that although we had a 28% growth rate for the quarter for AWS, the back end of the quarter, we were more in the mid-20% growth rate.
+
+2. [AMZN_Q3_2022] And this is offset by an approximately $10 billion year-over-year increase in technology infrastructure, primarily to support the rapid growth, innovation and continued expansion of our AWS footprint.
+
+3. [AMZN_Q3_2022] In AWS, net sales increased to $20.5 billion in Q3, up 28% year-over-year, excluding the impact of foreign exchange, and now representing an annualized sales run rate of $82 billion.
+
+4. [AMZN_Q3_2022] Dave, do you want to take that question on AWS?
+
+5. [AMZN_Q3_2022] We continue to ramp up our investments in AWS, adding product builders and sales and professional services headcount to help customers save money, invent more quickly in their businesses and transition to the cloud.
+
+6. [AMZN_Q3_2022] We probably cut about one-third of our budget from what we originally thought for 2022 while still focusing our capital dollars really on the AWS business and increasing customer demand or capacity for increasing customer demand in our stores business.
+
+7. [AMZN_Q3_2022] The broad disclaimer on AWS margins is that they will fluctuate over time as we balance investments versus renegotiating pricing with the long-term customer commitments, all as headwinds to the business, offset by increasing productivity and efficiencies in our data centers, which drive profitability.
+
+8. [AMZN_Q3_2022] And we're proactively working to help customers cost optimize, just as we've done throughout AWS' history, especially in periods of economic uncertainty.
+
+9. [AMZN_Q4_2022] So far in the first month of the year, AWS year-over-year revenue growth is in the mid-teens.
+
+10. [AMZN_Q4_2022] Brian Olsavsky
+
+So on the AWS growth rate, I'm not sure I can forecast for you with any level of certainty what is going to happen beyond this quarter.
+
+11. [AMZN_Q4_2022] Brian, just any color on why mid-teens is kind of a holdable growth rate for AWS over the next couple of quarters, given what looks like pretty clearly, continuing deterioration in enterprise demand?
+
+12. [AMZN_Q4_2022] It means we have a lot of growth in front of us in the AWS business.
+
+13. [AMZN_Q4_2022] As we look ahead, we expect these optimization efforts will continue to be a headwind to AWS growth in at least the next couple of quarters.
+
+14. [AMZN_Q4_2022] AWS, if you look at the revenue growth of mid-teens, it implies it could be flattish and even down this quarter.
+
+15. [AMZN_Q4_2022] And it's one of the advantages that we've talked about since we launched AWS in 2006 of the cloud, which is that when it turns out you have a lot more demand than you anticipated, you can seamlessly scale up.
+
+16. [AMZN_Q4_2022] And the reality is that the way that we've built all our businesses, but AWS in this particular instance, is that we're going to help our customers find a way to spend less money.
+
+Total evidence entries: 16
