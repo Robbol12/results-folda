@@ -1,0 +1,19 @@
+[TSLA_Q2_2023] What did TSLA say about gross margin in Q2 2023?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #88]  If we look specifically at our automotive business, our [white on yellow][white on yellow]gross[/white on yellow] [white on yellow]margin[/white on yellow][/white on yellow] showed a modest reduction and remained healthy, despite action taken to further improve vehicle affordability early in the quarter.
+2. [Sentence #90]  For our energy business, we improved margins and [white on yellow][white on yellow]gross[/white on yellow] profit[/white on yellow] driven by cost reductions and deal economics, particularly with Megapack.
+3. [Sentence #303]  With the emphasis of price cuts to drive volume growth eating into automotive [white on yellow][white on yellow]gross[/white on yellow] [white on yellow]margin[/white on yellow][/white on yellow], can investors expect to see automotive [white on yellow][white on yellow]gross[/white on yellow] [white on yellow]margin[/white on yellow][/white on yellow] stabilize or even rise due to efficiencies outpacing the cuts?
+4. [Sentence #306]  If I may, look, the short-term variances in [white on yellow][white on yellow]gross[/white on yellow] [white on yellow]margin[/white on yellow][/white on yellow] and profitability really are minor relative to the long-term picture.
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #88]  (Similarity: 1.026) If we look specifically at our automotive business, our [white on yellow][white on yellow]gross[/white on yellow] [white on yellow]margin[/white on yellow][/white on yellow] showed a modest reduction and remained healthy, despite action taken to further improve vehicle affordability early in the quarter.
+2. [Sentence #303]  (Similarity: 0.916) With the emphasis of price cuts to drive volume growth eating into automotive [white on yellow][white on yellow]gross[/white on yellow] [white on yellow]margin[/white on yellow][/white on yellow], can investors expect to see automotive [white on yellow][white on yellow]gross[/white on yellow] [white on yellow]margin[/white on yellow][/white on yellow] stabilize or even rise due to efficiencies outpacing the cuts?
+3. [Sentence #306]  (Similarity: 0.875) If I may, look, the short-term variances in [white on yellow][white on yellow]gross[/white on yellow] [white on yellow]margin[/white on yellow][/white on yellow] and profitability really are minor relative to the long-term picture.
+4. [Sentence #90]  (Similarity: 0.711) For our energy business, we improved margins and [white on yellow][white on yellow]gross[/white on yellow] profit[/white on yellow] driven by cost reductions and deal economics, particularly with Megapack.
+
+Total similarity-top evidence sentences: 4
+
+-----
