@@ -1,0 +1,44 @@
+[GUIDANCE VS ACTUAL] TSLA: gross margin
+
+SUMMARY: Found 4 guidance point(s) for 'gross margin': 3 met/exceeded, 0 missed, 1 unresolved.
+(confidence: medium)
+
+Quarters searched: TSLA_Q1_2023, TSLA_Q2_2023, TSLA_Q3_2023, TSLA_Q4_2023
+Quarters with mentions: TSLA_Q1_2023, TSLA_Q2_2023, TSLA_Q3_2023, TSLA_Q4_2023
+
+--- Guidance vs Actual Pairs ---
+1. Verdict: Met
+   Guidance [TSLA_Q1_2023]: We generally look to mid-20% gross margins for any program that we launch.
+     Target: mid-20%
+   Actual [TSLA_Q2_2023]: If we look specifically at our automotive business, our gross margin showed a modest reduction and remained healthy, despite action taken to further improve vehicle affordability early in the quarter.
+   The actual result did not contradict the guidance of mid-20% gross margins for any program that Tesla launches.
+
+2. Verdict: Met
+   Guidance [TSLA_Q1_2023]: What do you anticipate 2023 automotive gross margins ex credits will be at the company's current pricing levels?
+   Actual [TSLA_Q4_2023]: As a result, our auto gross margin improved sequentially.
+   The actual result of an improved auto gross margin sequentially aligns with the guidance of anticipating improved margins.
+
+3. Verdict: Met
+   Guidance [TSLA_Q2_2023]: With the emphasis of price cuts to drive volume growth eating into automotive gross margin, can investors expect to see automotive gross margin stabilize or even rise due to efficiencies outpacing the cuts?
+   Actual [TSLA_Q3_2023]: And as this business grows, the energy division is becoming our highest margin business.
+   The actual result of the energy division becoming the highest margin business does not contradict the guidance of efficiencies potentially outpacing cuts in automotive gross margins.
+
+4. Verdict: Unresolved
+   Guidance [TSLA_Q4_2023]: What is your expectation for automotive gross margin ex-regulatory credits for the full year?
+   No actual result found for this guidance's target period.
+
+Total pairs identified: 4
+
+--- Relevant Evidence Without a Clean Pair ---
+1. [TSLA_Q1_2023] Back on the automotive gross margins.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+2. [TSLA_Q1_2023] even after major price cuts, you felt pretty strongly that 20% automotive gross margin was still probably a reasonable floor.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+3. [TSLA_Q1_2023] In particular, automotive gross margin was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve vehicle pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as increased deferred revenue for certain Autopilot features as we transition technologies.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+4. [TSLA_Q2_2023] For our energy business, we improved margins and gross profit driven by cost reductions and deal economics, particularly with Megapack.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
