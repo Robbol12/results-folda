@@ -1,0 +1,53 @@
+[PROMISE TRACKING] TSLA: Cybertruck production
+
+VERDICT: Still Pending (confidence: medium)
+
+The management has consistently mentioned the progress and importance of the Cybertruck initiative in each quarter. However, there is no clear evidence provided to definitively determine if the promise of Cybertruck production has been fulfilled.
+
+Key quotes:
+  - Regarding the Cybertruck, we continue to build Alpha versions of the Cybertruck on our pilot line for testing purposes.
+  - I do want to emphasize that there will be enormous challenges in reaching volume production with the Cybertruck, and then in making a Cybertruck cash flow positive.
+
+Quarters searched: TSLA_Q1_2023, TSLA_Q2_2023, TSLA_Q3_2023, TSLA_Q4_2023
+Quarters with mentions: TSLA_Q1_2023, TSLA_Q2_2023, TSLA_Q3_2023, TSLA_Q4_2023
+
+--- Evidence Timeline ---
+1. [TSLA_Q1_2023] [UNCERTAIN] And maybe the last question from investors, can you give updated specs and pricing for Cybertruck and any new features that will make it to production?
+
+2. [TSLA_Q1_2023] [PILOT] Regarding the Cybertruck, we continue to build Alpha versions of the Cybertruck on our pilot line for testing purposes.
+
+3. [TSLA_Q1_2023] [UNCERTAIN] So the Cybertruck is no different.
+
+4. [TSLA_Q1_2023] [PLAN] We plan to continue to invest heavily into our future plans, which include the Cybertruck next-generation platform, in-house cell production, energy storage business and our autonomy and AI-enabled products.
+
+5. [TSLA_Q1_2023] [UNCERTAIN] And going forward for the rest of the year, the priority, one, is yielding cost for the 4680 program as we steadily ramp production ahead of Cybertruck next year.
+
+6. [TSLA_Q2_2023] [UNCERTAIN] With regard to our Cybertruck, we continue to build our release candidates of the Cybertruck on our final production line in Austin.
+
+7. [TSLA_Q2_2023] [UNCERTAIN] As we just think about sort of in the year ahead, Cybertruck is going to be some contribution.
+
+8. [TSLA_Q2_2023] [UNCERTAIN] I do want to emphasize that the Cybertruck has a lot of new technology in it, like a lot.
+
+9. [TSLA_Q2_2023] [UNCERTAIN] Here in Texas, we’re preparing to launch our Cybertruck cell, which is 10% higher energy density than current production.
+
+10. [TSLA_Q2_2023] [UNCERTAIN] The next question, when will we give more information about the Cybertruck orders, estimated delivery schedules, pricing and specifications?
+
+11. [TSLA_Q3_2023] [SCALE ACHIEVED] I do want to emphasize that there will be enormous challenges in reaching volume production with the Cybertruck, and then in making a Cybertruck cash flow positive.
+
+12. [TSLA_Q3_2023] [UNCERTAIN] The Cybertruck, I know a lot of people are excited about the Cybertruck.
+
+13. [TSLA_Q3_2023] [NO EVIDENCE] I mean Cybertruck is -- yes.
+
+14. [TSLA_Q3_2023] [UNCERTAIN] It’s not full with Cybertruck and the line.
+
+15. [TSLA_Q3_2023] [UNCERTAIN] And so it is -- Cybertruck’s one of those special products that comes along only once in a long while.
+
+16. [TSLA_Q4_2023] [UNCERTAIN] To what extent do you think Cybertruck is really a proving ground for the next-gen platform and is really going to be a gating factor to unlocking the cost reductions needed for the next-gen platform?
+
+17. [TSLA_Q4_2023] [UNCERTAIN] It's just -- for the other trucks on the road there, which -- there's some very good trucks on the road, but if you were to switch out the brand name, you wouldn't hardly know which company made them, but you definitely would know the Cybertruck.
+
+18. [TSLA_Q4_2023] [UNCERTAIN] Lars Moravy
+
+Yeah, I don't think that anything on Cybertruck should be considered gating for the next-gen platform.
+
+Total timeline entries: 18 (18 after grouping repeats)
