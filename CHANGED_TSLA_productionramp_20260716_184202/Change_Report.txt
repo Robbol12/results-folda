@@ -1,0 +1,19 @@
+[WHAT CHANGED SINCE LAST QUARTER] TSLA: production ramp
+
+Quarters compared: TSLA_Q3_2025, TSLA_Q4_2025
+Change detected: True
+
+In Q3 2025, management expressed confidence in expanding production quickly, especially with the clarity on achieving full self-driving. However, in Q4 2025, the focus shifted to ramping production at all factories, with a specific mention of constraints on the battery pack front and the need for more compute to scale Optimus.
+
+--- Evidence (with surrounding context) ---
+1. [TSLA_Q3_2025] We'll actually have a production intent prototype ready to show off in Q1, probably February or March. We're going to be building a million units Optimus production line, hopefully with the production start towards the end of next year. That production ramp will take a while to get to an annualized rate of a million because it's going to move as fast as the slowest, dumbest, least lucky thing out of 10,000 unique items. But it will get to a million units. Ultimately, we'll do Optimus four.
+
+2. [TSLA_Q3_2025] Maybe less than twenty-four months. Bear in mind, there's an entire supply chain, a vast supply chain that's got to also move in tandem with that. I think we're going to expand production as fast as we can and as fast as our suppliers can keep up with it. Then we're going to think about where we build incremental factories beyond that. The single biggest expansion in production will be the Cyber Cap, which starts production in Q2 next year.
+
+3. [TSLA_Q3_2025] We are making a couple of million a year. In fact, with the advent of what we see now as clarity on achieving full self-driving, unsupervised full self-driving, I should say, I feel confident in expanding Tesla's production. So that is our intent, to expand as quickly as we can our future production. I was ready to do that until we had clarity on achieving unsupervised full self-driving. But at this point, I feel like we've got clarity, and it makes sense to expand production as fast as we reasonably can.
+
+4. [TSLA_Q4_2025] On the automotive margins front, automotive margins, excluding credits, improved sequentially from 15.4% to 17.9%. Automotive gross profit was flat sequentially despite 16% lower deliveries, primarily due to regional mix as we had proportionately more deliveries in APAC and EMEA. As we look to 2026, with the progress that has been made with autonomy, our focus is on ramping production at all our factories. Our biggest constraint globally continues to be on the battery pack front. While our teams have been creative in trying to resolve the situation by now putting 4,680 cells in nonstructural packs, we continue to iterate improving things from here on.
+
+5. [TSLA_Q4_2025] Vaibhav Taneja: Yeah. Emmanuel, I tried to put this in my opening remarks too, but I'll try and go a little bit deeper. There's about six factories which we are starting production in this year. So there's a lot of cash CapEx going into that. As we are trying to scale Optimus, we need a lot more compute.
+
+Total evidence entries: 5
