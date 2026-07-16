@@ -1,0 +1,16 @@
+[GUIDANCE VS ACTUAL] AMZN: aws operating margin
+
+SUMMARY: The guidance provided about strong revenue growth in AWS accelerating to 39% year over year in Q3 2021 was met with an actual AWS revenue growth of 40% in Q4 2021.
+(confidence: high)
+
+Quarters searched: AMZN_Q1_2021, AMZN_Q2_2021, AMZN_Q3_2021, AMZN_Q4_2021
+Quarters with mentions: AMZN_Q1_2021, AMZN_Q2_2021, AMZN_Q3_2021, AMZN_Q4_2021
+
+--- Guidance vs Actual Pairs ---
+1. Verdict: Met
+   Guidance [AMZN_Q3_2021]: First, we saw a continuation of strong usage and revenue growth in AWS, with revenues accelerating to 39% year over year in Q3, driven by a broad base of services and customers.
+   Actual [AMZN_Q4_2021]: Now, the $71 billion annualized revenue run rate, AWS revenue grew 40% every year in Q4, our fourth consecutive quarter of revenue growth rate acceleration.
+     Result: 40%
+   The actual AWS revenue growth of 40% in Q4 2021 met the guidance of strong revenue growth accelerating to 39% year over year in Q3 2021.
+
+Total pairs identified: 1
