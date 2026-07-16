@@ -1,0 +1,26 @@
+[FILING DIFF] TSLA: 10-Q Q3 2025 -> 10-Q Q1 2026
+
+Shared sections compared: ITEM 1. FINANCIAL STATEMENTS, ITEM 1. LEGAL PROCEEDINGS, ITEM 1A. RISK FACTORS, ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS, ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK, ITEM 4. CONTROLS AND PROCEDURES, ITEM 5. OTHER INFORMATION, ITEM 6. EXHIBITS
+
+Candidates reviewed for materiality: 50 of 293 total differences found
+
+--- Material Changes ---
+1. [ITEM 1. FINANCIAL STATEMENTS] ADDED
+   NEW: Revenue recognized from the deferred revenue balances as of December 31, 2025 and 2024 was $
+218
+ million and $
+258
+ million for the three months ended March 31, 2026 and 2025, respectively.
+   Why it matters: This change is material as it indicates a decrease in revenue recognized from deferred revenue balances, which could impact the company's financial performance and investor expectations.
+
+2. [ITEM 1. FINANCIAL STATEMENTS] ADDED
+   NEW: Net Income per Share of Common Stock Attributable to Common Stockholders
+Restricted stock awards will be excluded from the computation of diluted weighted average shares until the shares have been deemed to be earned.
+   Why it matters: This change is material as it affects the calculation of net income per share of common stock, potentially impacting how investors evaluate the company's profitability.
+
+3. [ITEM 1. FINANCIAL STATEMENTS] ADDED
+   NEW: Accounts Receivable and Allowance for Doubtful Accounts
+Depending on the day of the week on which the end of a fiscal quarter falls, our accounts receivable balance may fluctuate as we are waiting for certain customer payments to clear through our banking institutions and receipts of payments from our financing partners, which can take up to approximately two weeks based on the contractual payment terms with such partners.
+   Why it matters: This change is material as it provides insight into the potential fluctuations in Tesla's accounts receivable balance, which could impact cash flow and financial stability.
+
+Total material changes: 3
