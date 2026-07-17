@@ -1,0 +1,17 @@
+[TSLA_Q3_2023] gross margin; price cuts
+
+--- Evidence in Transcript Order ---
+1. [Sentence #260]  It’s about like your [white on yellow]gross margin[/white on yellow] in the quarter.
+2. [Sentence #261]  Could you give us a sense of like in how the [white on yellow]gross margin[/white on yellow] evolved sequentially, how much was the impact of idle cost?
+3. [Sentence #264]  So, if you can give us the background on that and tell us how we should think about that [white on yellow]gross margin[/white on yellow] going forward.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #264]  (Similarity: 0.840) So, if you can give us the background on that and tell us how we should think about that [white on yellow]gross margin[/white on yellow] going forward.
+2. [Sentence #260]  (Similarity: 0.765) It’s about like your [white on yellow]gross margin[/white on yellow] in the quarter.
+3. [Sentence #261]  (Similarity: 0.694) Could you give us a sense of like in how the [white on yellow]gross margin[/white on yellow] evolved sequentially, how much was the impact of idle cost?
+
+Total similarity-top evidence sentences: 3
+
+-----

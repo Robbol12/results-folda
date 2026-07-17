@@ -1,0 +1,27 @@
+[TSLA_Q1_2023] gross margin; price cuts
+
+--- Evidence in Transcript Order ---
+1. [Sentence #57]  First, automotive [white on yellow]gross margin[/white on yellow] and operating margin reduced sequentially.
+2. [Sentence #59]  In particular, automotive [white on yellow]gross margin[/white on yellow] was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve vehicle pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as increased deferred revenue for certain Autopilot features as we transition technologies.
+3. [Sentence #111]  We generally look to mid-20% gross margins for any program that we launch.
+4. [Sentence #143]  The next question is, what do you anticipate 2023 automotive gross margins ex credits will be at the company's current pricing levels?
+5. [Sentence #172]  The next question is, how has global order intake tracked since the most recent round of [white on yellow]price cuts[/white on yellow]?
+6. [Sentence #313]  Back on the automotive gross margins.
+7. [Sentence #314]  So, I think, I guess, a few months ago, even after major [white on yellow]price cuts[/white on yellow], you felt pretty strongly that 20% automotive [white on yellow]gross margin[/white on yellow] was still probably a reasonable floor.
+8. [Sentence #315]  Obviously, the macro has gone worse and additional [white on yellow]price cuts[/white on yellow] have happened.
+
+Total transcript-order evidence sentences: 8
+
+--- Evidence by Similarity ---
+1. [Sentence #314]  (Similarity: 1.081) So, I think, I guess, a few months ago, even after major [white on yellow]price cuts[/white on yellow], you felt pretty strongly that 20% automotive [white on yellow]gross margin[/white on yellow] was still probably a reasonable floor.
+2. [Sentence #57]  (Similarity: 0.804) First, automotive [white on yellow]gross margin[/white on yellow] and operating margin reduced sequentially.
+3. [Sentence #313]  (Similarity: 0.786) Back on the automotive gross margins.
+4. [Sentence #315]  (Similarity: 0.726) Obviously, the macro has gone worse and additional [white on yellow]price cuts[/white on yellow] have happened.
+5. [Sentence #59]  (Similarity: 0.721) In particular, automotive [white on yellow]gross margin[/white on yellow] was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve vehicle pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as increased deferred revenue for certain Autopilot features as we transition technologies.
+6. [Sentence #111]  (Similarity: 0.709) We generally look to mid-20% gross margins for any program that we launch.
+7. [Sentence #172]  (Similarity: 0.663) The next question is, how has global order intake tracked since the most recent round of [white on yellow]price cuts[/white on yellow]?
+8. [Sentence #143]  (Similarity: 0.662) The next question is, what do you anticipate 2023 automotive gross margins ex credits will be at the company's current pricing levels?
+
+Total similarity-top evidence sentences: 8
+
+-----

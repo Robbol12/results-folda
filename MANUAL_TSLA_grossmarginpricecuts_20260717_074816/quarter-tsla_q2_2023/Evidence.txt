@@ -1,0 +1,17 @@
+[TSLA_Q2_2023] gross margin; price cuts
+
+--- Evidence in Transcript Order ---
+1. [Sentence #88]  If we look specifically at our automotive business, our [white on yellow]gross margin[/white on yellow] showed a modest reduction and remained healthy, despite action taken to further improve vehicle affordability early in the quarter.
+2. [Sentence #303]  With the emphasis of [white on yellow]price cuts[/white on yellow] to drive volume growth eating into automotive [white on yellow]gross margin[/white on yellow], can investors expect to see automotive [white on yellow]gross margin[/white on yellow] stabilize or even rise due to efficiencies outpacing the cuts?
+3. [Sentence #306]  If I may, look, the short-term variances in [white on yellow]gross margin[/white on yellow] and profitability really are minor relative to the long-term picture.
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #303]  (Similarity: 1.100) With the emphasis of [white on yellow]price cuts[/white on yellow] to drive volume growth eating into automotive [white on yellow]gross margin[/white on yellow], can investors expect to see automotive [white on yellow]gross margin[/white on yellow] stabilize or even rise due to efficiencies outpacing the cuts?
+2. [Sentence #88]  (Similarity: 0.825) If we look specifically at our automotive business, our [white on yellow]gross margin[/white on yellow] showed a modest reduction and remained healthy, despite action taken to further improve vehicle affordability early in the quarter.
+3. [Sentence #306]  (Similarity: 0.718) If I may, look, the short-term variances in [white on yellow]gross margin[/white on yellow] and profitability really are minor relative to the long-term picture.
+
+Total similarity-top evidence sentences: 3
+
+-----

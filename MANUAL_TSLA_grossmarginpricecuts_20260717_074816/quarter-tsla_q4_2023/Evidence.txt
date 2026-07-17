@@ -1,0 +1,17 @@
+[TSLA_Q4_2023] gross margin; price cuts
+
+--- Evidence in Transcript Order ---
+1. [Sentence #85]  As a result, our auto [white on yellow]gross margin[/white on yellow] improved sequentially.
+2. [Sentence #86]  That said, predicting auto gross margins is extremely challenging since there are many moving parts to this equation, some of which are out of our control like the change in tariffs or local incentives to name a few.
+3. [Sentence #186]  The next question is, what is your expectation for automotive [white on yellow]gross margin[/white on yellow] ex-regulatory credits for the full year?
+
+Total transcript-order evidence sentences: 3
+
+--- Evidence by Similarity ---
+1. [Sentence #86]  (Similarity: 0.780) That said, predicting auto gross margins is extremely challenging since there are many moving parts to this equation, some of which are out of our control like the change in tariffs or local incentives to name a few.
+2. [Sentence #85]  (Similarity: 0.747) As a result, our auto [white on yellow]gross margin[/white on yellow] improved sequentially.
+3. [Sentence #186]  (Similarity: 0.703) The next question is, what is your expectation for automotive [white on yellow]gross margin[/white on yellow] ex-regulatory credits for the full year?
+
+Total similarity-top evidence sentences: 3
+
+-----
