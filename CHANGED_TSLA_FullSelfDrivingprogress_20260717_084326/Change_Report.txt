@@ -1,0 +1,29 @@
+[WHAT CHANGED SINCE LAST QUARTER] TSLA: Full Self-Driving progress
+
+Quarters compared: TSLA_Q3_2025, TSLA_Q4_2025
+Change detected: True
+
+Between the two quarters, management shifted their focus from the achievement of full self-driving clarity and expanding production to emphasizing the progress and advancements in self-driving technology, such as autonomous rides without safety monitors and increasing investments in AI chip and compute. Additionally, there was a shift in discussing the impact on the energy sector to highlighting the growth and infrastructure investments in robotaxi deployment.
+
+--- Evidence (with surrounding context) ---
+1. [TSLA_Q3_2025] In fact, with the advent of what we see now as clarity on achieving full self-driving, unsupervised full self-driving, I should say, I feel confident in expanding Tesla's production. So that is our intent, to expand as quickly as we can our future production. I was ready to do that until we had clarity on achieving unsupervised full self-driving. But at this point, I feel like we've got clarity, and it makes sense to expand production as fast as we reasonably can. We are also making a huge impact on the energy sector with battery storage.
+
+2. [TSLA_Q3_2025] We have millions of cars out there that, with a software update, become full self-driving cars. We are making a couple of million a year. In fact, with the advent of what we see now as clarity on achieving full self-driving, unsupervised full self-driving, I should say, I feel confident in expanding Tesla's production. So that is our intent, to expand as quickly as we can our future production. I was ready to do that until we had clarity on achieving unsupervised full self-driving.
+
+3. [TSLA_Q3_2025] We do expect that to probably shift in as we, as Elon said, change the way transportation is considered. We're looking forward to that timeline. Ashok, I know you can take the full self-driving part. Ashok Elluswamy: Currently, the team is super focused on solving for passenger vehicles autonomy. That said, the same technology will apply quite easily to the semi truck once we have a little bit of data from the semi trucks.
+
+4. [TSLA_Q3_2025] It's honestly going to be like a shock wave. Elon Musk: So it's because the cars are all out there. We have millions of cars out there that, with a software update, become full self-driving cars. We are making a couple of million a year. In fact, with the advent of what we see now as clarity on achieving full self-driving, unsupervised full self-driving, I should say, I feel confident in expanding Tesla's production.
+
+5. [TSLA_Q3_2025] If someone's looking down at their phone, they're not driving very well. That's really the game changer. At this point, I feel essentially 100% confident, I say not essentially, 100% confident that we can solve unsupervised full self-driving at a safety level much greater than human. We've released 14.1, got a technology roadmap that's, I think, pretty amazing. We'll be adding reasoning to the car.
+
+6. [TSLA_Q3_2025] I think that Tesla has the highest intelligence density of any AI out there in the car. And that is only going to get better. We are really just at the beginning of scaling at a quite massive level, full self-driving and robotaxi, and fundamentally changing the nature of transport. I think people just do not quite appreciate the degree to which this will take off. It's honestly going to be like a shock wave.
+
+7. [TSLA_Q3_2025] Thanks, Ashok. Alrighty. Our final question from Se is, how long until we see self-driving Tesla Semi trucks? And could you see this technology replacing trains? Elon Musk: Yeah.
+
+8. [TSLA_Q3_2025] People might think of Tesla as a car company that mostly makes cars and battery packs. It's not just an obvious fall of a log thing to make Optimus, but we do have the ingredients of real-world AI and exceptional electrical mechanical engineering capabilities and the ability to scale production, which I don't think anyone else has all of those ingredients. With version 14 of self-driving, people can see the reactions of people online. They're quite amazed. Actually, anyone in the US can get version 14 if they just go and select "I want the advanced software" in their car.
+
+9. [TSLA_Q4_2025] That is slightly sad, but it is time to bring the S and X programs to an end and shift to an autonomous future. As my profile picture on X for a few months there, the future is autonomous. With respect to self-driving and robotaxi, people are obviously following with very close attention the progress of FSD, and you can experience it for yourself. If you have a Tesla, you notice with every software update, the car gets better and better at autonomy. We were able to do our first rides with no safety monitor in the car in Austin.
+
+10. [TSLA_Q4_2025] AI chip and compute investments are set to increase further, and management signaled plans for domestic semiconductor manufacturing to address long-term supply risks. Robotaxi deployment exceeded 500 vehicles in service and is reportedly doubling monthly, with substantial infrastructure and service network investment to support growth. Industry glossary FSD (Full Self-Driving): Tesla's advanced driver-assistance system offering full driverless vehicle operation, marketed as a software feature on its vehicles. Optimus: Tesla's humanoid robot platform, developed for general-purpose automation tasks, with manufacturing now prioritized at scale. CyberCab: Tesla's dedicated fully autonomous two-passenger vehicle designed for transportation as a service, without driver controls.
+
+Total evidence entries: 10
