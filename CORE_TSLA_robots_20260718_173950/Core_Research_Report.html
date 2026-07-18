@@ -1,0 +1,150 @@
+<!doctype html>
+<html><head><meta charset="utf-8"><title>Core Research: TSLA - robots</title>
+<style>
+/* Themed scrollbar - real user report: the browser's default (light gray) scrollbar
+   reads as visually mismatched against this page's own dark theme ("the slider...
+   doesn't match the color template"). scrollbar-color/-width cover Firefox;
+   ::-webkit-scrollbar covers Chrome/Edge/Safari. */
+* { scrollbar-color: #3a3f4a #1c1f26; scrollbar-width: thin; }
+::-webkit-scrollbar { width: 12px; height: 12px; }
+::-webkit-scrollbar-track { background: #1c1f26; }
+::-webkit-scrollbar-thumb { background: #3a3f4a; border-radius: 6px; border: 2px solid #1c1f26; }
+::-webkit-scrollbar-thumb:hover { background: #44c8ff; }
+body { background: #23272f; margin: 0; padding: 0; font-family: 'Segoe UI', Arial, sans-serif; color: #fff; }
+.wrap { max-width: 1320px; margin: 0 auto; padding: 40px 40px 80px 40px; }
+h1 { font-size: 1.8rem; margin-bottom: 4px; }
+.meta { color: #9aa4b2; margin-bottom: 28px; }
+.card { background: #2a2e39; border-radius: 10px; padding: 24px 26px; margin-bottom: 20px; }
+.card h2 { margin-top: 0; font-size: 1.25rem; }
+.card h3 { font-size: 1.02rem; color: #cdd6e0; margin-bottom: 6px; }
+.card h4 { font-size: 0.95rem; color: #9aa4b2; margin: 14px 0 6px 0; text-transform: uppercase; letter-spacing: .03em; }
+.badge { display: inline-block; padding: 4px 12px; border-radius: 999px; font-weight: 600; font-size: 0.85rem; margin: 6px 0 14px 0; }
+ul { margin: 4px 0 14px 0; padding-left: 20px; }
+li { margin-bottom: 10px; line-height: 1.6; }
+.quote { color: #dfe4ea; }
+.quote-verdict { font-weight: 600; padding: 2px 9px; border-radius: 6px; font-size: 0.78rem; margin-right: 6px; display: inline-block; }
+.quote-resolves { color: #7a8699; font-size: 0.85rem; }
+/* Each Q&A exchange in its own visually distinct block, not a bare <li> - real user
+   report the old bare-<li> version read as "combined"/hard to tell entries apart. */
+.core-qa-item { margin-bottom: 20px; padding-bottom: 16px; border-bottom: 1px solid #333844; line-height: 1.6; }
+.core-qa-item:last-child { margin-bottom: 0; padding-bottom: 0; border-bottom: none; }
+details { background: #262a33; border-radius: 8px; margin-bottom: 10px; padding: 4px 18px; }
+details[open] { background: #2a2e39; }
+summary { cursor: pointer; padding: 12px 0; font-weight: 600; font-size: 1.05rem; color: #fff; }
+summary::marker { color: #44c8ff; }
+.period-body { padding: 4px 0 16px 0; }
+.empty-note { color: #6b7480; font-style: italic; }
+.filing-category { font-size: 0.78rem; font-weight: 700; color: #44c8ff; text-transform: uppercase; letter-spacing: .04em; margin: 10px 0 2px 0; }
+.fin-table-wrap { overflow-x: auto; margin: 4px 0 16px 0; -webkit-overflow-scrolling: touch; }
+.fin-table { width: 100%; min-width: 480px; border-collapse: collapse; font-size: 0.92rem; }
+.fin-table th { text-align: left; color: #9aa4b2; font-weight: 600; padding: 6px 10px; border-bottom: 1px solid #3a3f4a; font-size: 0.78rem; text-transform: uppercase; letter-spacing: .03em; white-space: nowrap; }
+.fin-table td { padding: 6px 10px; border-bottom: 1px solid #2f333d; color: #dfe4ea; white-space: nowrap; }
+.fin-table td:first-child { color: #cdd6e0; font-weight: 500; }
+.fin-table td:not(:first-child) { text-align: right; font-variant-numeric: tabular-nums; }
+.fin-table tr.fin-row-highlighted { background: rgba(68, 200, 255, 0.08); }
+.fin-table tr.fin-row-highlighted td:first-child { color: #44c8ff; }
+mark.fin-term { background: rgba(68, 200, 255, 0.18); color: #dfe4ea; border-bottom: 1px solid rgba(68, 200, 255, 0.55); border-radius: 2px; padding: 0 2px; }
+a { color: #44c8ff; }
+.source-link { font-size: 0.72rem; color: #7a8699; text-decoration: none; border: 1px solid #3a3f4a; border-radius: 4px; padding: 1px 6px; margin-left: 6px; white-space: nowrap; }
+.source-link:hover { color: #44c8ff; border-color: #44c8ff; }
+
+/* Real <table> markup straight from the filing (filing_diff.extract_tables_by_section)
+   - presentation attrs were stripped, so this is the only styling these tables get.
+   Deliberately plain/dense (borders, tabular-nums, tight padding) rather than fancy -
+   the whole point is looking like the real filing page, not a redesigned version of it. */
+.real-tables { margin: 6px 0 10px 0; }
+.real-table-item { border: 1px solid #2f333d; border-radius: 6px; padding: 2px 12px; margin-bottom: 8px; }
+.real-table-item summary { cursor: pointer; padding: 8px 0; font-size: 0.85rem; color: #9aa4b2; }
+.real-table-item[open] summary { color: #dfe4ea; border-bottom: 1px solid #2f333d; margin-bottom: 10px; }
+.real-table-badge { display: inline-block; font-size: 0.66rem; font-weight: 700; text-transform: uppercase; letter-spacing: .03em; color: #44c8ff; background: rgba(68, 200, 255, 0.14); border-radius: 4px; padding: 2px 7px; margin-right: 8px; }
+.real-table-scroll { overflow-x: auto; padding-bottom: 12px; }
+.real-table-scroll table { border-collapse: collapse; font-size: 0.82rem; color: #dfe4ea; font-variant-numeric: tabular-nums; }
+.real-table-scroll td, .real-table-scroll th { padding: 3px 8px; border-bottom: 1px solid #262a33; white-space: nowrap; }
+.real-table-scroll tr:first-child td, .real-table-scroll tr:first-child th { border-top: 1px solid #262a33; }
+
+/* Credibility timeline - one dot per period, color-coded by _period_credibility_status,
+   sitting above the Longitudinal Summary card so the per-quarter breakdown is visible
+   before reading the single overall badge. */
+.dl-cred-timeline-wrap { margin: 0 0 20px 0; }
+.dl-cred-timeline-title { font-size: 0.78rem; font-weight: 700; color: #9aa4b2; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 8px; }
+.dl-cred-timeline { display: flex; flex-wrap: wrap; align-items: center; gap: 4px; background: #2a2e39; border-radius: 10px; padding: 14px 16px; }
+.dl-cred-dot { display: flex; flex-direction: column; align-items: center; gap: 5px; text-decoration: none; padding: 4px 10px; border-radius: 6px; }
+.dl-cred-dot:hover { background: #333846; }
+.dl-cred-dot-marker { width: 11px; height: 11px; border-radius: 50%; display: inline-block; }
+.dl-cred-dot-label { font-size: 0.72rem; color: #9aa4b2; white-space: nowrap; }
+.dl-cred-legend { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 10px; font-size: 0.74rem; color: #7a8699; }
+.dl-cred-legend-item { display: flex; align-items: center; gap: 6px; }
+
+/* Revenue/gross-margin sparkline - real SEC XBRL data, sits beside the credibility
+   prose inside the Longitudinal Summary card. */
+.dl-summary-top { display: flex; gap: 24px; align-items: flex-start; flex-wrap: wrap; }
+.dl-summary-prose { flex: 1; min-width: 260px; }
+.dl-spark-wrap { min-width: 240px; }
+.dl-spark-title { font-size: 0.78rem; font-weight: 700; color: #9aa4b2; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 8px; }
+.dl-spark-legend { display: flex; flex-direction: column; gap: 4px; margin-top: 6px; font-size: 0.76rem; color: #cdd6e0; font-variant-numeric: tabular-nums; }
+.dl-spark-legend-item { display: flex; align-items: center; gap: 6px; }
+.dl-spark-swatch { width: 8px; height: 8px; border-radius: 50%; display: inline-block; flex-shrink: 0; }
+.dl-spark-range { font-size: 0.72rem; color: #7a8699; margin-top: 4px; }
+
+/* Multi-topic report (write_multi_topic_core_research_report) - one bordered,
+   color-tagged section per recognized sub-topic (split_topics), a small jump nav at
+   the top linking to each. Colors come from _TOPIC_SECTION_COLORS, indexed the same
+   way as the filing viewer's mark.dl-cited[data-topic-idx] palette, so a topic reads
+   as the same concept in both places. */
+.dl-topic-nav { display: flex; flex-wrap: wrap; gap: 16px; margin: 0 0 24px 0; padding: 12px 16px; background: #2a2e39; border-radius: 10px; }
+.dl-topic-nav-link { font-weight: 600; font-size: 0.88rem; text-decoration: none; }
+.dl-topic-nav-link:hover { text-decoration: underline; }
+.dl-topic-section { border-left: 3px solid; border-radius: 4px; padding: 4px 0 4px 20px; margin-bottom: 32px; }
+.dl-topic-badge { display: inline-block; padding: 3px 11px; border-radius: 999px; font-weight: 600; font-size: 0.76rem; margin-bottom: 10px; }
+.dl-topic-dropped-note { font-size: 0.82rem; color: #facc15; background: rgba(250, 204, 21, 0.1); border: 1px solid rgba(250, 204, 21, 0.3); border-radius: 8px; padding: 10px 14px; margin: 0 0 20px 0; }
+</style></head>
+<body><div class="wrap">
+<h1>TSLA: robots</h1>
+<div class="meta">4 quarter(s) searched &middot; 77 filing section(s) searched &middot; 1 period(s) with evidence</div>
+
+<div class="dl-cred-timeline-wrap"><div class="dl-cred-timeline-title">Credibility timeline</div><div class="dl-cred-timeline"><a class="dl-cred-dot" href="#period-2021-4" title="Q4 2021: guidance given, not yet resolved"><span class="dl-cred-dot-marker" style="background:#facc15;"></span><span class="dl-cred-dot-label">Q4 2021</span></a></div><div class="dl-cred-legend"><span class="dl-cred-legend-item"><span class="dl-cred-dot-marker" style="background:#4ade80;"></span>guidance met/exceeded</span><span class="dl-cred-legend-item"><span class="dl-cred-dot-marker" style="background:#f87171;"></span>guidance missed</span><span class="dl-cred-legend-item"><span class="dl-cred-dot-marker" style="background:#facc15;"></span>guidance given, not yet resolved</span><span class="dl-cred-legend-item"><span class="dl-cred-dot-marker" style="background:#5a6270;"></span>no forecast data this quarter</span></div></div>
+
+<div class="card">
+<h2>Longitudinal Summary</h2>
+<div class="dl-summary-top">
+<div class="dl-summary-prose">
+<p>Over the reported period, management discussed the development and prioritization of the Optimus humanoid robot, highlighting its intended use within Tesla factories for moving parts. However, no specific financial guidance or quantitative forecasts related to robots were provided. The commentary focused on the strategic importance of the robot project rather than measurable financial outcomes or targets.</p>
+<div class="badge" style="background:#9aa4b222; color:#9aa4b2; border:1px solid #9aa4b266;">Forecasting Credibility: None</div>
+<p>There are zero guidance-to-actual pairs available for the topic of robots, making it impossible to assess management&#x27;s forecasting credibility in this area. Without forward guidance paired with actual results, no judgment on accuracy or reliability can be made.</p>
+</div>
+<div class="dl-spark-wrap">
+<div class="dl-spark-title">Revenue &amp; gross margin trend</div>
+<svg viewBox="0 0 240 64" width="240" height="64" role="img" aria-label="Revenue from $10.39B to $13.76B, gross margin from 21.3% to 26.6%, Q1 2021 through Q3 2021">
+<polyline points="4.0,60.0 120.0,33.9 236.0,4.0" fill="none" stroke="#44c8ff" stroke-width="2"/>
+<polyline points="4.0,60.0 120.0,30.4 236.0,4.0" fill="none" stroke="#facc15" stroke-width="2"/>
+</svg>
+<div class="dl-spark-legend">
+<span class="dl-spark-legend-item"><span class="dl-spark-swatch" style="background:#44c8ff;"></span>Revenue ($10.39B &rarr; $13.76B)</span>
+<span class="dl-spark-legend-item"><span class="dl-spark-swatch" style="background:#facc15;"></span>Gross margin (21.3% &rarr; 26.6%)</span>
+</div>
+<div class="dl-spark-range">Q1 2021 &ndash; Q3 2021</div>
+</div>
+</div>
+<h3>Trends</h3><ul><li>Increasing strategic emphasis on Optimus robot</li><li>Focus on internal factory applications</li><li>No quantitative guidance provided</li></ul>
+<h3>Recurring Themes / Risks</h3><ul><li>Early-stage product development</li><li>Uncertainty in commercial deployment</li><li>Lack of financial disclosure on robotics</li></ul>
+<h3>Key Concerns</h3><ul><li>Absence of any forward-looking financial guidance or actual results for robots limits transparency and forecasting assessment.</li></ul>
+<h2>Conclusion</h2>
+<p>Management has positioned the Optimus humanoid robot as a key product development priority, particularly for internal use in manufacturing processes. However, the lack of any formal guidance or reported actuals related to robots means there is no basis to evaluate forecasting accuracy or financial impact. This suggests that the robotics initiative remains in an early or developmental phase without measurable financial metrics disclosed. Investors should consider the robotics segment as a strategic but currently non-quantified element of the business.</p>
+</div>
+
+<h2>By Reporting Period</h2>
+<details open id="period-2021-4"><summary>Q4 2021</summary><div class="period-body"><h4>What management said</h4><p class="empty-note">No high-confidence mentions this period - showing weaker, lower-confidence matches instead:</p><ul><li><span class="quote">"So, the first use of the Optimus robots would be, at Tesla, like moving parts around the factory or something like that."</span></li><li><span class="quote">"So, in terms of priority of products, I think actually the most important product development we&#x27;re doing this year is actually the Optimus humanoid robot."</span></li></ul><h4>Guidance given</h4><ul><li><span class="quote">"So, the first use of the Optimus robots would be, at Tesla, like moving parts around the factory or something like that."</span></li><li><span class="quote">"So, in terms of priority of products, I think actually the most important product development we&#x27;re doing this year is actually the Optimus humanoid robot."</span></li></ul><h4>Actual reported</h4><p class="empty-note">No actual results identified this period.</p><h4>Filing disclosures (10-K/10-Q)</h4><div class="filing-category">Financial Statements</div><div class="fin-table-wrap"><table class="fin-table"><thead><tr><th>Line Item</th><th>This Period</th><th>vs Prior Quarter</th><th>vs Prior Year</th></tr></thead><tbody><tr><td>Revenue</td><td>$53.82B</td><td>—</td><td>$10.74B (+401.0%)</td></tr><tr><td>Cost of Revenue</td><td>$40.22B</td><td>—</td><td>$24.91B (+61.5%)</td></tr><tr><td>Gross Profit</td><td>$13.61B</td><td>—</td><td>$2.07B (+558.6%)</td></tr><tr><td>R&amp;D Expense</td><td>$2.59B</td><td>—</td><td>$1.49B (+73.9%)</td></tr><tr><td>SG&amp;A Expense</td><td>$4.52B</td><td>—</td><td>$3.15B (+43.6%)</td></tr><tr><td>Operating Income</td><td>$6.52B</td><td>—</td><td>$1.99B (+227.1%)</td></tr><tr><td>Net Income</td><td>$5.52B</td><td>—</td><td>$270.0M (+1944.1%)</td></tr><tr><td>Diluted EPS</td><td>$1.63</td><td>—</td><td>$0.21 (+676.2%)</td></tr></tbody></table></div><h4>What was asked</h4><div class="core-qa-item"><span class="quote-resolves">Q:</span> <span class="quote">is Dojo on track for summer 2022? And what challenges, if any, are you working through? Is Dojo necessary for FSD to operate better in cities like New York City? Or on a separate note, where should we expect the first implementation of Tesla Bots? In your factories?</span><br><span class="quote-resolves">A:</span> <span class="quote">Okay. There&#x27;s a few questions on there. Like 6 questions. Yes, Dojo appears to be on track for doing something useful in the summer this year. I think the threshold that really matters is at which point when does it become more competitive than a GPU cluster for training? And obviously, the GPU cluster is getting better. So, it&#x27;s a moving target. But that&#x27;s the goal I&#x27;ve set for the team is the FSD team running our GPU supercluster needs to tell me that they want to use Dojo instead that. That&#x27;s where -- that&#x27;s the obvious sort of threshold.
+
+And I don&#x27;t know when that will. I wouldn&#x27;t say like success is 100% certain here. I think, we just generally want to overestimate meeting options to underestimate ourselves. But it does seem as though we might pass that threshold next year with Dojo if we execute well. Dojo is not needed for Full Self-Driving but it is a cost optimization on creating vast amounts of video data.
+
+Cost optimization also, a rate of improvement. So, if you can train models faster, have a shorter iteration interval, then you can make progress faster. So, not everything can be distributed to deep GPUs. There&#x27;s some elements of serialization there, so. And then, if Dojo is competitive, then it does seem like the kind of thing where we would offer it to other companies that want to do neural net training. Those are very much a neural net training optimized system.
+
+But in theory, it should be better than a generalize computing platform or say, GPUs, which were not really intended for the pixel trader. [ph] It is not directly intended for optimizing training of neural networks. They just happen to work better than CPUs in most cases. So, Dojos like a giant ASIC optimized for neural net training, especially video, or video like things. But as -- like said, we&#x27;re not saying, for sure, Dojo would succeed. We think it will. We would encourage those who think this is an interesting problem to join Tesla, and -- yes. And the first use of Tesla Bots, whether it&#x27;s in the factory or elsewhere? Yes. The first use of the Tesla Bots, Optimus, the Optimus name seems to be sticking at least internally, Optimus Subprime. Like if we can&#x27;t find a use for it, then we shouldn&#x27;t expect that others would. So, the first use of the Optimus robots would be, at Tesla, like moving parts around the factory or something like that. Okay. Thank you very much. And the next question on insurance. When do you plan on having your insurance service rolled out in all the states? International rollout timing? In markets that have Tesla insurance, what kind of uptake rates are you seeing? Yes. We currently offer Tesla Insurance in 5 states in the U.S. Four of them are telematics, which is Texas, Illinois, Ohio and Arizona. And then California, which has a more standard insurance offering based upon regulations there. It should be clear, like we are pushing very hard for California to change the rules to allow informatics, which basically means that you&#x27;re as safe as you&#x27;re driving is measured. So, I think the current California rules are contrary to the best interest of the consumers in California and should be changed. Yes. And that&#x27;s evidenced by what we&#x27;re seeing in Texas. We&#x27;ve been in this market now for about three months. And what we see in the data is the frequency of collision by folks who are -- who are given a feedback loop on how they are driving is quite a bit lower than the frequency of collision otherwise. Yes. And we get direct feedback on whether driving is safe. And if they drive safe, their insurance cost is less, so they drive safer. It encourages Tesla Insurance with informatics and real-time feedback encourages safer driving and rewards it monetarily. It&#x27;s great. Exactly. And so, we see that so far in Texas. Take rates have been quite strong. We measure this on the conversion rate from when folks quote to see what their monthly rate would be at the starting point to what percentage of them purchase. So, we&#x27;re very encouraged by the interest that we&#x27;re seeing in Texas.
+
+And then we have enough history in Texas to see what does the loss ratios look like and how do the economics of the program work. And we&#x27;re on the right track there as well. So, we&#x27;re comfortable with what we&#x27;ve seen in Texas to move as quickly as the intent to scale this across the U.S.
+
+Specifically on the question about when we will be in all states, this is a slow process because of insurance being regulated at the state level. And so we have to go through each of those processes with each of the departments of insurance in each state. But our internal goal here by the end of the year is to be in enough locations that 80% of our customers within the U.S. could choose to sign up for Tesla Insurance if they wanted to.
+
+There&#x27;s a lot of uncertainty around that based upon the regulatory processes, but that&#x27;s our goal. And then, as we make more progress rolling out in the states and each incremental state becomes a little bit less effort than the prior, that&#x27;s when we&#x27;ll turn our attention to the Europe market. We might be able to do that by the end of the year, starting to get work on Europe by the end of the year. We&#x27;ll have to see how we progress in the U.S.</span></div></div></details>
+
+</div></body></html>
