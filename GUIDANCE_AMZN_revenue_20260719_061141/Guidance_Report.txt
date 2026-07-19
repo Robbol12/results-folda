@@ -1,0 +1,74 @@
+[GUIDANCE VS ACTUAL] AMZN: revenue
+
+SUMMARY: Found 3 guidance point(s) for 'revenue': 3 met/exceeded, 0 missed, 0 unresolved.
+(confidence: high)
+
+Quarters searched: AMZN_Q1_2021, AMZN_Q2_2021, AMZN_Q3_2021, AMZN_Q4_2021, AMZN_Q1_2022, AMZN_Q2_2022, AMZN_Q3_2022, AMZN_Q4_2022
+Quarters with mentions: AMZN_Q1_2021, AMZN_Q2_2021, AMZN_Q3_2021, AMZN_Q4_2021, AMZN_Q1_2022, AMZN_Q2_2022, AMZN_Q3_2022, AMZN_Q4_2022
+
+--- Guidance vs Actual Pairs ---
+1. Verdict: Exceeded
+   Guidance [AMZN_Q1_2021]: Our Q3 revenue guidance range of 10% to 16% growth reflects an expected continuation of this trend.
+     Target: 10% to 16%
+   Actual [AMZN_Q3_2021]: First, we saw a continuation of strong usage and revenue growth in AWS, with revenues accelerating to 39% year over year in Q3, driven by a broad base of services and customers.
+     Result: 39%
+   The guidance expected 10% to 16% growth, but actual revenue growth was 39%, significantly exceeding the guidance range.
+
+2. Verdict: Exceeded
+   Guidance [AMZN_Q1_2022]: In terms of the revenue guide for the June quarter, I think it sort of implies about 3%.
+     Target: 3%
+   Actual [AMZN_Q2_2022]: For the quarter, worldwide net sales of $121.2 billion exceeded the top end of our revenue guidance range and represented an increase of 10% year-over-year, excluding approximately 320 basis points of unfavorable impact from changes in foreign exchange rates.
+     Result: $121.2 billion, 10%
+   The guidance implied about 3% growth, but actual revenue growth was 10%, exceeding the guidance.
+
+3. Verdict: Met
+   Guidance [AMZN_Q2_2022]: For revenue, note that our guidance includes an estimated approximately 390 basis points of unfavorable impact from year-over-year change in foreign exchange rates.
+   Actual [AMZN_Q3_2022]: So what we're really excited about the business, both in the long term and even in the short run, you noticed we've added $4.5 billion to the $16 billion base we had of revenue last Q3, so the business is growing in absolute dollars at a really good clip.
+     Result: $20.5 billion
+   The guidance did not specify a numeric revenue target, only noting FX impact, and the actual revenue showed strong absolute growth, consistent with positive expectations.
+
+Total pairs identified: 3
+
+--- Relevant Evidence Without a Clean Pair ---
+1. [AMZN_Q1_2021] Q1 of last year ended with a revenue growth rate of 27%.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+2. [AMZN_Q1_2021] You're probably looking at the growth rate of 13% in Q2 versus the revenue growth -- FX-neutral revenue growth rate of 24%.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+3. [AMZN_Q1_2021] 2019 full-year growth was 22%, and revenue growth for the first two months of 2020 was 21%.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+4. [AMZN_Q1_2021] Other revenue increased 83% year over year in Q2, excluding the impact of foreign exchange, driven largely by continued acceleration in our ads business.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+5. [AMZN_Q1_2021] This allowed our revenue growth rate to jump to the 35% to 45% range and remained at that level through Q1 of this year when we had 41% growth.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+6. [AMZN_Q1_2021] Our second-quarter net sales were $113 billion or at about the midpoint of our guidance range.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+7. [AMZN_Q3_2021] As a result, Amazon's Q3 revenue of $110.8 million represented a two-year compounded annual growth rate of 25% versus a pre-pandemic growth rate in the low 20% range.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+8. [AMZN_Q3_2021] Last but certainly not least, Amazon advertising continues to grow quickly, representing the significant majority of other revenue, which grew 49% year over year in Q3.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+9. [AMZN_Q4_2021] Now, the $71 billion annualized revenue run rate, AWS revenue grew 40% every year in Q4, our fourth consecutive quarter of revenue growth rate acceleration.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+10. [AMZN_Q4_2021] Even on a large base, revenue increased 40% year over year.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+11. [AMZN_Q4_2021] So -- but on a two-year basis, you're still seeing 31% compounded annual growth in the 3P seller services revenue.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+12. [AMZN_Q4_2021] AWS added more revenue year over year than any quarter in its history.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+13. [AMZN_Q1_2022] Like, in Q1 literally, where revenue 61% higher over two years from 2020.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+14. [AMZN_Q4_2022] Net sales increased $21.4 billion in Q4, up 20% year-over-year and now representing an annualized sales run rate of more than $85 billion.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
