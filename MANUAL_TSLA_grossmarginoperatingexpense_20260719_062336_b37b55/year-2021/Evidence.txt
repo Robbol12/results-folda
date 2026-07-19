@@ -1,0 +1,45 @@
+[Year 2021] gross margin; operating expense
+
+--- Evidence in Transcript Order ---
+1. [Sentence #95]  (TSLA_Q1_2021) If we double click within net income, auto [white on yellow]gross margin[/white on yellow] excluding credits improved sequentially and year-over-year.
+2. [Sentence #97]  (TSLA_Q1_2021) So as we look out over the course of the year, we feel optimistic about our [white on yellow]gross margin[/white on yellow] strength, particularly as some of these headwinds we are experiencing start to be resolved.
+3. [Sentence #99]  (TSLA_Q1_2021) On energy gross margins, these remained negative for a second quarter.
+4. [Sentence #103]  (TSLA_Q1_2021) On operating expenses, these increased for Q1, which was driven by our investments in technology and growth.
+5. [Sentence #430]  (TSLA_Q1_2021) So I understand like the negative [white on yellow]gross margin[/white on yellow] with Solar Roof ran.
+6. [Sentence #431]  (TSLA_Q1_2021) But I was wondering, what do [white on yellow]gross margin[/white on yellow] look like there when you look at the Storage business and where are you -- what’s your ambition in terms of [white on yellow]gross margin[/white on yellow] in that business?
+7. [Sentence #1078]  (TSLA_Q3_2021) Financially, our auto gross margins reached 30.5% on a GAAP basis and just under 29%, excluding regulatory credits, which was our strongest yet.
+8. [Sentence #1080]  (TSLA_Q3_2021) The Model S has now returned to positive [white on yellow]gross margin[/white on yellow] and we expect this to increase with higher production and the ramp of Model X.
+9. [Sentence #1088]  (TSLA_Q3_2021) As a result of the great progress on margins, volume, and appropriate management of overhead costs, we were able to achieve an operating margin of just under 15%, exceeding the long-term guidance we've laid out previously.
+10. [Sentence #1390]  (TSLA_Q3_2021) And in longer term, do you have an aspirational [white on yellow]gross margin[/white on yellow] target as the mix of software and hardware changes?
+11. [Sentence #1407]  (TSLA_Q3_2021) So, it's difficult on [white on yellow]gross margin[/white on yellow] to say where that will go for those reasons.
+12. [Sentence #1408]  (TSLA_Q3_2021) With respect to operating margin, we've been very focused as a Company on managing our overhead expenses and operating expenses.
+13. [Sentence #1409]  (TSLA_Q3_2021) And operating expenses as a percentage of revenue has been declining and I expect that trend to continue to happen.
+14. [Sentence #1696]  (TSLA_Q4_2021) If we look across the full year '21 and compare that to 2020, our automotive [white on yellow]gross margin[/white on yellow], excluding credits, rose by over 600 basis points, enabled by work on cost reduction, utilization of our Shanghai factory for exports and accelerating demand.
+15. [Sentence #1699]  (TSLA_Q4_2021) For Q4 specifically, automotive [white on yellow]gross margin[/white on yellow], excluding credits, increased to 29.2%, which is our highest yet.
+16. [Sentence #1704]  (TSLA_Q4_2021) Operating expenses were meaningfully impacted by stock-based compensation from the final two tranches of the CEO stock grant becoming probable and payroll taxes associated with the exercise of the 2012 CEO options.
+17. [Sentence #1716]  (TSLA_Q4_2021) How this specifically impacts gross margins in the near term is uncertain, given a mix of both tailwinds and headwinds.
+
+Total transcript-order evidence sentences: 17
+
+--- Evidence by Similarity ---
+1. [Sentence #1408]  (TSLA_Q3_2021) (Similarity: 0.990) With respect to operating margin, we've been very focused as a Company on managing our overhead expenses and operating expenses.
+2. [Sentence #431]  (TSLA_Q1_2021) (Similarity: 0.862) But I was wondering, what do [white on yellow]gross margin[/white on yellow] look like there when you look at the Storage business and where are you -- what’s your ambition in terms of [white on yellow]gross margin[/white on yellow] in that business?
+3. [Sentence #1407]  (TSLA_Q3_2021) (Similarity: 0.814) So, it's difficult on [white on yellow]gross margin[/white on yellow] to say where that will go for those reasons.
+4. [Sentence #1078]  (TSLA_Q3_2021) (Similarity: 0.811) Financially, our auto gross margins reached 30.5% on a GAAP basis and just under 29%, excluding regulatory credits, which was our strongest yet.
+5. [Sentence #95]  (TSLA_Q1_2021) (Similarity: 0.793) If we double click within net income, auto [white on yellow]gross margin[/white on yellow] excluding credits improved sequentially and year-over-year.
+6. [Sentence #99]  (TSLA_Q1_2021) (Similarity: 0.760) On energy gross margins, these remained negative for a second quarter.
+7. [Sentence #1409]  (TSLA_Q3_2021) (Similarity: 0.694) And operating expenses as a percentage of revenue has been declining and I expect that trend to continue to happen.
+8. [Sentence #1080]  (TSLA_Q3_2021) (Similarity: 0.694) The Model S has now returned to positive [white on yellow]gross margin[/white on yellow] and we expect this to increase with higher production and the ramp of Model X.
+9. [Sentence #1704]  (TSLA_Q4_2021) (Similarity: 0.692) Operating expenses were meaningfully impacted by stock-based compensation from the final two tranches of the CEO stock grant becoming probable and payroll taxes associated with the exercise of the 2012 CEO options.
+10. [Sentence #1696]  (TSLA_Q4_2021) (Similarity: 0.686) If we look across the full year '21 and compare that to 2020, our automotive [white on yellow]gross margin[/white on yellow], excluding credits, rose by over 600 basis points, enabled by work on cost reduction, utilization of our Shanghai factory for exports and accelerating demand.
+11. [Sentence #1699]  (TSLA_Q4_2021) (Similarity: 0.678) For Q4 specifically, automotive [white on yellow]gross margin[/white on yellow], excluding credits, increased to 29.2%, which is our highest yet.
+12. [Sentence #1716]  (TSLA_Q4_2021) (Similarity: 0.673) How this specifically impacts gross margins in the near term is uncertain, given a mix of both tailwinds and headwinds.
+13. [Sentence #97]  (TSLA_Q1_2021) (Similarity: 0.662) So as we look out over the course of the year, we feel optimistic about our [white on yellow]gross margin[/white on yellow] strength, particularly as some of these headwinds we are experiencing start to be resolved.
+14. [Sentence #1390]  (TSLA_Q3_2021) (Similarity: 0.633) And in longer term, do you have an aspirational [white on yellow]gross margin[/white on yellow] target as the mix of software and hardware changes?
+15. [Sentence #103]  (TSLA_Q1_2021) (Similarity: 0.625) On operating expenses, these increased for Q1, which was driven by our investments in technology and growth.
+16. [Sentence #1088]  (TSLA_Q3_2021) (Similarity: 0.624) As a result of the great progress on margins, volume, and appropriate management of overhead costs, we were able to achieve an operating margin of just under 15%, exceeding the long-term guidance we've laid out previously.
+17. [Sentence #430]  (TSLA_Q1_2021) (Similarity: 0.624) So I understand like the negative [white on yellow]gross margin[/white on yellow] with Solar Roof ran.
+
+Total similarity-top evidence sentences: 17
+
+-----

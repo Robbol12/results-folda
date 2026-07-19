@@ -1,0 +1,23 @@
+[TSLA_Q2_2021] gross margin; operating expense
+
+--- Evidence in Transcript Order ---
+1. [Sentence #95]  If we double click within net income, auto [white on yellow]gross margin[/white on yellow] excluding credits improved sequentially and year-over-year.
+2. [Sentence #97]  So as we look out over the course of the year, we feel optimistic about our [white on yellow]gross margin[/white on yellow] strength, particularly as some of these headwinds we are experiencing start to be resolved.
+3. [Sentence #99]  On energy gross margins, these remained negative for a second quarter.
+4. [Sentence #103]  On operating expenses, these increased for Q1, which was driven by our investments in technology and growth.
+5. [Sentence #430]  So I understand like the negative [white on yellow]gross margin[/white on yellow] with Solar Roof ran.
+6. [Sentence #431]  But I was wondering, what do [white on yellow]gross margin[/white on yellow] look like there when you look at the Storage business and where are you -- what’s your ambition in terms of [white on yellow]gross margin[/white on yellow] in that business?
+
+Total transcript-order evidence sentences: 6
+
+--- Evidence by Similarity ---
+1. [Sentence #431]  (Similarity: 0.862) But I was wondering, what do [white on yellow]gross margin[/white on yellow] look like there when you look at the Storage business and where are you -- what’s your ambition in terms of [white on yellow]gross margin[/white on yellow] in that business?
+2. [Sentence #95]  (Similarity: 0.793) If we double click within net income, auto [white on yellow]gross margin[/white on yellow] excluding credits improved sequentially and year-over-year.
+3. [Sentence #99]  (Similarity: 0.760) On energy gross margins, these remained negative for a second quarter.
+4. [Sentence #97]  (Similarity: 0.662) So as we look out over the course of the year, we feel optimistic about our [white on yellow]gross margin[/white on yellow] strength, particularly as some of these headwinds we are experiencing start to be resolved.
+5. [Sentence #103]  (Similarity: 0.625) On operating expenses, these increased for Q1, which was driven by our investments in technology and growth.
+6. [Sentence #430]  (Similarity: 0.624) So I understand like the negative [white on yellow]gross margin[/white on yellow] with Solar Roof ran.
+
+Total similarity-top evidence sentences: 6
+
+-----
