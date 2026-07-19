@@ -1,0 +1,355 @@
+<!doctype html><html><head><meta charset='utf-8'><title>TSLA — TSLA_Q1_2025 Transcript</title><style>
+:root { color-scheme: light; }
+html, body { background: #dfe1e6; margin: 0; padding: 0; }
+/* Themed scrollbar matching this page's own light theme - same real user report as
+   the main report's dark-theme scrollbar (research_workflows._CORE_REPORT_CSS). */
+* { scrollbar-color: #c7cdd6 #eef0f3; scrollbar-width: thin; }
+::-webkit-scrollbar { width: 12px; height: 12px; }
+::-webkit-scrollbar-track { background: #eef0f3; }
+::-webkit-scrollbar-thumb { background: #c7cdd6; border-radius: 6px; border: 2px solid #eef0f3; }
+::-webkit-scrollbar-thumb:hover { background: #0a5ba8; }
+.dl-fv-shell { font-family: Arial, Helvetica, sans-serif; min-height: 100vh; }
+.dl-fv-head { max-width: 1360px; margin: 0 auto; padding: 32px 20px 0 20px; }
+.dl-fv-head h1 { font-size: 1.2rem; font-weight: 700; margin: 0 0 6px 0; color: #111; }
+.dl-fv-note { color: #666; font-size: 0.8rem; line-height: 1.5; margin: 0 0 20px 0; }
+.dl-fv-cols { max-width: 1360px; margin: 0 auto; padding: 0 20px 60px 20px; display: flex; gap: 22px; align-items: flex-start; }
+.dl-fv-native { flex: 1; min-width: 0; background: #fff; border: 1px solid #ccced4; box-shadow: 0 2px 14px rgba(0, 0, 0, 0.12); padding: 40px 48px; overflow-x: auto; }
+/* Sidebar: a light "document viewer" panel (paper-toned, navy/blue accents), matching
+   the native filing pane's own light look next to it rather than standing apart as a
+   dark terminal - real user ask: the earlier black+amber Bloomberg-TERMINAL palette
+   read as a different product ("I don't like the Bloomberg color") from what was
+   actually wanted, a Bloomberg-DOCUMENT-VIEWER-style light reading pane. */
+/* Document-reader "boxes" layout - each sidebar section is its own bordered card,
+   rendered as a real <details>/<summary> (native collapse/expand, no JS needed) so
+   every section starts condensed and only the title bar shows until clicked open -
+   real user ask ("in the beginning they're all condensed, but you can open them
+   up"), since a sidebar with every section fully expanded got long fast on a wide
+   multi-quarter/multi-topic page. */
+.dl-fv-side { width: 360px; flex-shrink: 0; position: sticky; top: 20px; max-height: calc(100vh - 40px); overflow-y: auto; background: #f6f7f9; border: 1px solid #dde1e7; border-left: 3px solid #0a5ba8; padding: 14px 12px 6px 12px; box-shadow: 0 2px 14px rgba(0, 0, 0, 0.10); color: #2a2e39; font-variant-numeric: tabular-nums; }
+.dl-fv-side-section { margin-bottom: 12px; background: #fff; border: 1px solid #dde1e7; border-radius: 6px; overflow: hidden; }
+.dl-fv-side-section:last-child { margin-bottom: 8px; }
+.dl-fv-side-section summary { cursor: pointer; list-style: none; font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; color: #0a5ba8; padding: 9px 14px; background: #eef2f7; display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.dl-fv-side-section summary::-webkit-details-marker { display: none; }
+/* A CSS-drawn triangle, not a Unicode glyph - a B8 escape here previously got
+   mangled (this CSS lives inside a Python string literal, and Python's OWN octal/hex
+   escape processing silently ate the backslash before the browser ever saw it -
+   confirmed via a real getComputedStyle(::after).content check showing garbage, not
+   a triangle). A border-triangle has no font-glyph-support or escaping risk at all. */
+.dl-fv-side-section summary::after {
+  content: ''; width: 0; height: 0; flex-shrink: 0;
+  border-top: 4px solid transparent; border-bottom: 4px solid transparent;
+  border-left: 5px solid #7a8a9a; transition: transform .15s ease;
+}
+.dl-fv-side-section[open] summary { border-bottom: 1px solid #dde1e7; }
+.dl-fv-side-section[open] summary::after { transform: rotate(90deg); }
+.dl-fv-side-section-body { padding: 12px 14px 14px 14px; }
+/* Multi-topic filing viewer (write_filing_viewer_report's extra_topic_bundles) - one
+   of these wraps each recognized sub-topic's own stack of boxed sections (What
+   management said / Key Financial Statements / MD&A / Footnotes / What was asked),
+   color-coded to match that topic's highlight marks in the filing text
+   (mark.dl-cited[data-topic-idx]). Single-topic pages (the overwhelmingly common
+   case) never render this wrapper at all - the boxed sections above are unwrapped. */
+.dl-fv-side-topic-group { margin-bottom: 16px; }
+.dl-fv-side-topic-group:last-of-type { margin-bottom: 8px; }
+.dl-fv-side-topic-heading { font-size: 0.92rem; font-weight: 700; margin: 0 0 10px 0; padding-bottom: 8px; border-bottom: 2px solid; color: #1c2430; }
+.dl-fv-side-group { margin-bottom: 12px; }
+.dl-fv-side-group:last-child { margin-bottom: 0; }
+.dl-fv-side-group h3 { font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: .03em; color: #0a5ba8; margin: 0 0 6px 0; }
+.dl-fv-side ul { margin: 0; padding-left: 16px; }
+.dl-fv-side li { font-size: 0.8rem; line-height: 1.5; color: #384152; margin-bottom: 9px; }
+.dl-fv-side li:last-child { margin-bottom: 0; }
+/* "What was asked" - real analyst Q&A exchanges (research_workflows.parse_qa_exchanges),
+   the answer linked to filing evidence the same way "What management said" is. */
+.dl-fv-side-qa { margin-bottom: 14px; padding-bottom: 12px; border-bottom: 1px solid #e5e8ed; }
+.dl-fv-side-qa:last-child { margin-bottom: 0; padding-bottom: 0; border-bottom: none; }
+/* No line-clamp here (there used to be one, hover-to-expand) - the whole "What was
+   asked" section already sits behind its own collapsed <details> toggle, so clamping
+   individual answers ON TOP of that was a second layer of hiding real text for no
+   space benefit - real user report that this made answers "hard to read." Once a
+   reader opens the section, everything in it should just be readable. */
+.dl-fv-side-qa-q { font-size: 0.78rem; line-height: 1.5; color: #0a5ba8; font-weight: 600; margin-bottom: 5px; }
+.dl-fv-side-qa-a { font-size: 0.8rem; line-height: 1.5; color: #384152; }
+/* "Previously asked" - the same firm/analyst's other questions elsewhere in the
+   requested range (firm_question_history) - real user ask: "track who is asking
+   the questions so we can see a timeline of previous questions." Absent entirely
+   for anonymous-question transcripts (TSLA-style) or a firm that only asked once. */
+.dl-fv-side-qa-history { margin-top: 8px; padding: 8px 10px; background: #f3f5f8; border-left: 2px solid #c7cfda; }
+.dl-fv-side-qa-history-label { font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: #6b7688; margin-bottom: 5px; }
+.dl-fv-side-qa-history ul { margin: 0; padding-left: 14px; }
+.dl-fv-side-qa-history li { font-size: 0.74rem; line-height: 1.5; color: #4b5563; margin-bottom: 4px; }
+.dl-fv-side-qa-history li:last-child { margin-bottom: 0; }
+.dl-fv-side-qa-history-period { color: #0a5ba8; font-weight: 600; }
+a.dl-fv-side-link { color: #0a5ba8; text-decoration: none; border-bottom: 1px solid transparent; }
+a.dl-fv-side-link:hover { border-bottom-color: #0a5ba8; }
+.dl-fv-trend { display: inline-block; margin-right: 5px; font-size: 0.65rem; color: #0a5ba8; }
+mark.dl-cited { background: #fff3a3; padding: 0 1px; border-radius: 2px; }
+mark.dl-cited[data-concept] { cursor: help; box-shadow: inset 0 -2px 0 rgba(10, 91, 168, 0.55); }
+/* Multi-topic Core Research (research_workflows.build_filing_highlight_plan tags each
+   item with data-topic-idx) - topic 0 stays the default pale yellow above (matches
+   every existing single-topic page unchanged); topics 1+ get their own pale
+   highlighter tint so two recognized sub-topics ('gross margin', 'cogs') are visually
+   distinguishable in the real filing text at a glance. Order matches
+   research_workflows._TOPIC_SECTION_COLORS (same topic index, different palette -
+   these need to stay pale/light since marks sit on the filing's own light background,
+   unlike the dark-theme report page). */
+mark.dl-cited[data-topic-idx="1"] { background: #ffc2e0; }
+mark.dl-cited[data-topic-idx="2"] { background: #c2f0d9; }
+mark.dl-cited[data-topic-idx="3"] { background: #c2dcff; }
+.dl-fv-nav-footer { margin-top: 4px; padding-top: 14px; border-top: 1px solid #dde1e7; position: sticky; bottom: 0; background: #f6f7f9; padding-bottom: 14px; }
+a.dl-fv-nav-btn { display: block; text-align: center; font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: #0a5ba8; background: #fff; border: 1px solid #dde1e7; border-radius: 5px; padding: 9px 10px; text-decoration: none; margin-bottom: 8px; }
+a.dl-fv-nav-btn:hover { border-color: #0a5ba8; background: #eef2f7; }
+a.dl-fv-nav-btn:last-child { margin-bottom: 0; }
+.dl-fv-nav-quarters { display: flex; gap: 8px; }
+.dl-fv-nav-quarters a.dl-fv-nav-btn { flex: 1; margin-bottom: 0; }
+:target { scroll-margin-top: 20px; }
+.dl-fv-native *:target { background: #ffde59 !important; }
+.dl-hover-tip { position: absolute; z-index: 1000; background: #1c1c1c; color: #fff; font-family: Arial, Helvetica, sans-serif; font-size: 0.78rem; line-height: 1.5; padding: 10px 12px; border-radius: 6px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3); max-width: 260px; pointer-events: none; }
+.dl-hover-tip strong { display: block; margin-bottom: 4px; font-size: 0.8rem; }
+mark.dl-cited[id] { cursor: pointer; }
+tr.dl-table-hit td, tr.dl-table-hit th { background: #fff3a3 !important; }
+.dl-fv-search { display: flex; align-items: center; gap: 8px; margin: 0 0 20px 0; }
+.dl-fv-search input { flex: 1; max-width: 340px; padding: 8px 12px; border: 1px solid #ccced4; border-radius: 6px; font-size: 0.85rem; font-family: inherit; }
+.dl-fv-search input:focus { outline: none; border-color: #0a5ba8; }
+.dl-fv-search button { padding: 7px 11px; border: 1px solid #ccced4; background: #fff; border-radius: 6px; cursor: pointer; font-size: 0.85rem; color: #333; }
+.dl-fv-search button:hover { background: #f0f5fa; }
+.dl-fv-search-counter { font-size: 0.78rem; color: #666; min-width: 52px; }
+span.dl-search-hit { background: #cfe8ff; padding: 0 1px; border-radius: 2px; }
+span.dl-search-hit.dl-search-hit-active { background: #ffb347; }
+.dl-toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); background: #1c1c1c; color: #fff; padding: 10px 18px; border-radius: 6px; font-family: Arial, Helvetica, sans-serif; font-size: 0.85rem; z-index: 2000; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3); }
+@media (max-width: 980px) {
+  .dl-fv-cols { flex-direction: column; }
+  .dl-fv-side { width: 100%; position: static; max-height: none; }
+  .dl-fv-native { padding: 24px; }
+}
+</style><style>
+.dl-tv-turn { margin-bottom: 20px; }
+.dl-tv-turn:last-child { margin-bottom: 0; }
+.dl-tv-speaker { font-weight: 700; color: #1a2b4c; margin-bottom: 6px; font-size: 0.95rem; }
+.dl-tv-turn p { margin: 0 0 10px 0; line-height: 1.65; }
+.dl-tv-turn p:last-child { margin-bottom: 0; }
+.dl-fv-side-xref { display: inline-block; margin-left: 6px; font-size: 0.78rem; color: #0a66c2; text-decoration: none; white-space: nowrap; }
+.dl-fv-side-xref:hover { text-decoration: underline; }
+</style></head><body><div class='dl-fv-shell'><div class='dl-fv-head'><h1>TSLA — TSLA_Q1_2025 Transcript</h1><p class='dl-fv-note'>The real earnings-call transcript. Highlighted passages are relevant to this report's topic - hold over a highlighted financial figure to compare it to prior periods, or click a highlighted passage to copy a direct link to it.</p><div class='dl-fv-search'><input type='text' id='dl-search-input' placeholder='Search this transcript…' aria-label='Search this transcript'><button type='button' id='dl-search-prev' aria-label='Previous match'>&uarr;</button><button type='button' id='dl-search-next' aria-label='Next match'>&darr;</button><span class='dl-fv-search-counter' id='dl-search-counter'>0 / 0</span></div></div><div class='dl-fv-cols'><div class='dl-fv-native'><div></div></div><div class='dl-fv-side'><details class='dl-fv-side-section' open><summary>What management said</summary><div class='dl-fv-side-section-body'><ul><li>&ldquo;It&#x27;s not a large volume production.&rdquo;</li></ul></div></details><div class='dl-fv-nav-footer'><a class='dl-fv-nav-btn dl-fv-nav-back' href='Core_Research_Report.html'>&larr; Back to report</a><a class='dl-fv-nav-btn dl-fv-nav-cross' href='filing_10-q-q1-2025.html'>View 10-K/10-Q</a><div class='dl-fv-nav-quarters'><a class='dl-fv-nav-btn' href='transcript_tsla-q4-2024.html'>&larr; TSLA_Q4_2024</a><a class='dl-fv-nav-btn' href='transcript_tsla-q2-2025.html'>TSLA_Q2_2025 &rarr;</a></div></div></div></div></div><script>window.__DL_CONCEPT_DATA__ = {"Revenue": {"value": "$19.34B", "next_quarter": "$22.50B (-14.1%)"}, "Cost of Revenue": {"value": "$16.18B", "next_quarter": "$18.62B (-13.1%)"}, "Gross Profit": {"value": "$3.15B", "next_quarter": "$3.88B (-18.7%)"}, "R&D Expense": {"value": "$1.41B", "next_quarter": "$1.59B (-11.3%)"}, "SG&A Expense": {"value": "$1.25B", "next_quarter": "$1.37B (-8.4%)"}, "Operating Income": {"value": "$399.0M", "next_quarter": "$923.0M (-56.8%)"}, "Net Income": {"value": "$409.0M", "next_quarter": "$1.17B (-65.1%)"}, "Diluted EPS": {"value": "$0.12", "next_quarter": "$0.33 (-63.6%)"}};</script><script>
+(function() {
+  var DATA = window.__DL_CONCEPT_DATA__ || {};
+  var tooltip = null, timer = null;
+
+  function hideTooltip() {
+    if (tooltip) { tooltip.remove(); tooltip = null; }
+  }
+
+  function showTooltip(mark, concept) {
+    var d = DATA[concept];
+    if (!d) return;
+    hideTooltip();
+    tooltip = document.createElement('div');
+    tooltip.className = 'dl-hover-tip';
+    var body = '<strong>' + concept + '</strong>';
+    body += '<div>This period: ' + d.value + '</div>';
+    if (d.prior_quarter) body += '<div>vs Prior Quarter: ' + d.prior_quarter + '</div>';
+    if (d.next_quarter) body += '<div>vs Next Quarter: ' + d.next_quarter + '</div>';
+    if (!d.prior_quarter && !d.next_quarter) body += '<div>No comparison data available.</div>';
+    tooltip.innerHTML = body;
+    document.body.appendChild(tooltip);
+    var rect = mark.getBoundingClientRect();
+    var top = rect.bottom + window.scrollY + 6;
+    var left = rect.left + window.scrollX;
+    var maxLeft = window.scrollX + document.documentElement.clientWidth - tooltip.offsetWidth - 12;
+    tooltip.style.top = top + 'px';
+    tooltip.style.left = Math.max(8, Math.min(left, maxLeft)) + 'px';
+  }
+
+  document.addEventListener('mouseover', function(e) {
+    var mark = e.target.closest && e.target.closest('mark[data-concept]');
+    if (!mark) return;
+    clearTimeout(timer);
+    timer = setTimeout(function() { showTooltip(mark, mark.getAttribute('data-concept')); }, 2200);
+  });
+  document.addEventListener('mouseout', function(e) {
+    var mark = e.target.closest && e.target.closest('mark[data-concept]');
+    if (!mark) return;
+    clearTimeout(timer);
+    hideTooltip();
+  });
+  document.addEventListener('scroll', hideTooltip, true);
+})();
+</script><script>
+(function() {
+  function showToast(msg) {
+    var existing = document.querySelector('.dl-toast');
+    if (existing) existing.remove();
+    var toast = document.createElement('div');
+    toast.className = 'dl-toast';
+    toast.textContent = msg;
+    document.body.appendChild(toast);
+    setTimeout(function() { toast.remove(); }, 1800);
+  }
+
+  document.addEventListener('click', function(e) {
+    var mark = e.target.closest && e.target.closest('mark.dl-cited[id]');
+    if (!mark) return;
+    var url = location.origin + location.pathname + '#' + mark.id;
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(url).then(function() {
+        showToast('Link to this passage copied');
+      }, function() {
+        showToast('Could not copy link');
+      });
+    }
+  });
+})();
+</script><script>
+(function() {
+  var container = document.querySelector('.dl-fv-native');
+  if (!container) return;
+  var MAX_MATCHES = 300;
+  var state = { matches: [], current: -1 };
+
+  function clearHighlights() {
+    var hits = container.querySelectorAll('span.dl-search-hit');
+    hits.forEach(function(hit) {
+      var parent = hit.parentNode;
+      if (!parent) return;
+      parent.replaceChild(document.createTextNode(hit.textContent), hit);
+      parent.normalize();
+    });
+    state.matches = [];
+    state.current = -1;
+  }
+
+  function getTextNodes() {
+    var walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT, {
+      acceptNode: function(node) {
+        var el = node.parentNode;
+        while (el && el !== container) {
+          if (el.classList && el.classList.contains('dl-search-hit')) return NodeFilter.FILTER_REJECT;
+          var tag = el.nodeName ? el.nodeName.toLowerCase() : '';
+          if (tag === 'script' || tag === 'style') return NodeFilter.FILTER_REJECT;
+          el = el.parentNode;
+        }
+        return NodeFilter.FILTER_ACCEPT;
+      }
+    });
+    var nodes = [];
+    var n;
+    while ((n = walker.nextNode())) nodes.push(n);
+    return nodes;
+  }
+
+  function bisectRight(arr, x) {
+    var lo = 0, hi = arr.length;
+    while (lo < hi) {
+      var mid = (lo + hi) >> 1;
+      if (arr[mid] <= x) lo = mid + 1; else hi = mid;
+    }
+    return lo;
+  }
+
+  function wrapOne(nodes, texts, startNode, startLocal, endNode, endLocal) {
+    if (startNode === endNode) {
+      var raw = texts[startNode];
+      var before = raw.slice(0, startLocal), matched = raw.slice(startLocal, endLocal), after = raw.slice(endLocal);
+      var span = document.createElement('span');
+      span.className = 'dl-search-hit';
+      span.textContent = matched;
+      var frag = document.createDocumentFragment();
+      if (before) frag.appendChild(document.createTextNode(before));
+      frag.appendChild(span);
+      if (after) frag.appendChild(document.createTextNode(after));
+      nodes[startNode].parentNode.replaceChild(frag, nodes[startNode]);
+      return span;
+    }
+    var firstRaw = texts[startNode];
+    var firstBefore = firstRaw.slice(0, startLocal), firstTail = firstRaw.slice(startLocal);
+    var firstSpan = document.createElement('span');
+    firstSpan.className = 'dl-search-hit';
+    firstSpan.textContent = firstTail;
+    var firstFrag = document.createDocumentFragment();
+    if (firstBefore) firstFrag.appendChild(document.createTextNode(firstBefore));
+    firstFrag.appendChild(firstSpan);
+    nodes[startNode].parentNode.replaceChild(firstFrag, nodes[startNode]);
+
+    for (var i = startNode + 1; i < endNode; i++) {
+      var midRaw = texts[i];
+      if (!midRaw) continue;
+      var midSpan = document.createElement('span');
+      midSpan.className = 'dl-search-hit';
+      midSpan.textContent = midRaw;
+      nodes[i].parentNode.replaceChild(midSpan, nodes[i]);
+    }
+
+    var lastRaw = texts[endNode];
+    var lastHead = lastRaw.slice(0, endLocal), lastAfter = lastRaw.slice(endLocal);
+    var lastSpan = document.createElement('span');
+    lastSpan.className = 'dl-search-hit';
+    lastSpan.textContent = lastHead;
+    var lastFrag = document.createDocumentFragment();
+    lastFrag.appendChild(lastSpan);
+    if (lastAfter) lastFrag.appendChild(document.createTextNode(lastAfter));
+    nodes[endNode].parentNode.replaceChild(lastFrag, nodes[endNode]);
+    return firstSpan;
+  }
+
+  function updateCounter() {
+    var counter = document.getElementById('dl-search-counter');
+    if (!counter) return;
+    counter.textContent = state.matches.length ? (state.current + 1) + ' / ' + state.matches.length : '0 / 0';
+  }
+
+  function setActive(idx) {
+    state.matches.forEach(function(el, i) { el.classList.toggle('dl-search-hit-active', i === idx); });
+    updateCounter();
+  }
+
+  function goTo(delta) {
+    if (!state.matches.length) return;
+    state.current = (state.current + delta + state.matches.length) % state.matches.length;
+    setActive(state.current);
+    state.matches[state.current].scrollIntoView({ block: 'center' });
+  }
+
+  function runSearch(query) {
+    clearHighlights();
+    query = query.trim();
+    if (query.length < 2) { updateCounter(); return; }
+    var q = query.toLowerCase();
+    var matches = [];
+    for (var iter = 0; iter < MAX_MATCHES; iter++) {
+      var nodes = getTextNodes();
+      var texts = nodes.map(function(n) { return n.textContent; });
+      var combined = texts.join('').toLowerCase();
+      var idx = combined.indexOf(q);
+      if (idx === -1) break;
+      var starts = [];
+      var pos = 0;
+      for (var i = 0; i < texts.length; i++) { starts.push(pos); pos += texts[i].length; }
+      var startNode = bisectRight(starts, idx) - 1;
+      var endNode = bisectRight(starts, idx + q.length - 1) - 1;
+      var startLocal = idx - starts[startNode];
+      var endLocal = idx + q.length - starts[endNode];
+      matches.push(wrapOne(nodes, texts, startNode, startLocal, endNode, endLocal));
+    }
+    state.matches = matches;
+    state.current = -1;
+    if (matches.length) goTo(1); else updateCounter();
+  }
+
+  var input = document.getElementById('dl-search-input');
+  var nextBtn = document.getElementById('dl-search-next');
+  var prevBtn = document.getElementById('dl-search-prev');
+  if (input) {
+    var debounceTimer = null;
+    input.addEventListener('input', function() {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(function() { runSearch(input.value); }, 250);
+    });
+    input.addEventListener('keydown', function(e) {
+      if (e.key !== 'Enter') return;
+      e.preventDefault();
+      goTo(e.shiftKey ? -1 : 1);
+    });
+  }
+  if (nextBtn) nextBtn.addEventListener('click', function() { goTo(1); });
+  if (prevBtn) prevBtn.addEventListener('click', function() { goTo(-1); });
+})();
+</script></body></html>
