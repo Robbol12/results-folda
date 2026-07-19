@@ -1,0 +1,54 @@
+[GUIDANCE VS ACTUAL] AMZN: revenue
+
+SUMMARY: Found 3 guidance point(s) for 'revenue': 3 met/exceeded, 0 missed, 0 unresolved.
+(confidence: high)
+
+Quarters searched: AMZN_Q1_2021, AMZN_Q2_2021, AMZN_Q3_2021, AMZN_Q4_2021, AMZN_Q1_2022, AMZN_Q2_2022, AMZN_Q3_2022, AMZN_Q4_2022
+Quarters with mentions: AMZN_Q1_2021, AMZN_Q2_2021, AMZN_Q3_2021, AMZN_Q4_2021, AMZN_Q1_2022, AMZN_Q2_2022, AMZN_Q3_2022, AMZN_Q4_2022
+
+--- Guidance vs Actual Pairs ---
+1. Verdict: Exceeded
+   Guidance [AMZN_Q1_2021]: Our Q3 revenue guidance range of 10% to 16% growth reflects an expected continuation of this trend.
+     Target: 10% to 16% growth
+   Actual [AMZN_Q3_2021]: First, we saw a continuation of strong usage and revenue growth in AWS, with revenues accelerating to 39% year over year in Q3, driven by a broad base of services and customers.
+     Result: 39% year over year
+   The guidance expected 10% to 16% revenue growth, but the actual revenue growth was 39%, significantly exceeding the guidance range.
+
+2. Verdict: Exceeded
+   Guidance [AMZN_Q1_2022]: In terms of the revenue guide for the June quarter, I think it sort of implies about 3%.
+     Target: about 3%
+   Actual [AMZN_Q2_2022]: For the quarter, worldwide net sales of $121.2 billion exceeded the top end of our revenue guidance range and represented an increase of 10% year-over-year, excluding approximately 320 basis points of unfavorable impact from changes in foreign exchange rates.
+     Result: $121.2 billion, 10% year-over-year increase
+   The guidance implied about 3% revenue growth, but the actual revenue growth was 10% year-over-year, exceeding the guidance.
+
+3. Verdict: Met
+   Guidance [AMZN_Q2_2022]: For revenue, note that our guidance includes an estimated approximately 390 basis points of unfavorable impact from year-over-year change in foreign exchange rates.
+     Target: includes ~390 basis points unfavorable FX impact
+   Actual [AMZN_Q3_2022]: So what we're really excited about the business, both in the long term and even in the short run, you noticed we've added $4.5 billion to the $16 billion base we had of revenue last Q3, so the business is growing in absolute dollars at a really good clip.
+     Result: $4.5 billion increase on $16 billion base
+   The guidance noted an expected unfavorable FX impact, and the actual reported strong absolute revenue growth, indicating the business grew well despite FX headwinds, consistent with guidance.
+
+Total pairs identified: 3
+
+--- Relevant Evidence Without a Clean Pair ---
+1. [AMZN_Q1_2021] Our second-quarter net sales were $113 billion or at about the midpoint of our guidance range.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+2. [AMZN_Q3_2021] As a result, Amazon's Q3 revenue of $110.8 million represented a two-year compounded annual growth rate of 25% versus a pre-pandemic growth rate in the low 20% range.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+3. [AMZN_Q4_2021] Now, the $71 billion annualized revenue run rate, AWS revenue grew 40% every year in Q4, our fourth consecutive quarter of revenue growth rate acceleration.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+4. [AMZN_Q4_2021] Even on a large base, revenue increased 40% year over year.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+5. [AMZN_Q1_2022] Like, in Q1 literally, where revenue 61% higher over two years from 2020.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+6. [AMZN_Q4_2022] Net sales increased $21.4 billion in Q4, up 20% year-over-year and now representing an annualized sales run rate of more than $85 billion.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+7. [AMZN_Q4_2022] So far in the first month of the year, AWS year-over-year revenue growth is in the mid-teens.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
