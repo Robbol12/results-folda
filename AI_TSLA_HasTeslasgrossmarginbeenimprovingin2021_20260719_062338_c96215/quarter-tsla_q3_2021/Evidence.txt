@@ -1,0 +1,25 @@
+[TSLA_Q3_2021] Has Tesla's gross margin been improving in 2021?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #32]  Financially, our auto [white on yellow]gross[/white on yellow] margins reached 30.5% on a GAAP basis and just under 29%, excluding regulatory credits, which was our strongest yet.
+2. [Sentence #34]  The Model S has now returned to positive [white on yellow][white on yellow]gross[/white on yellow] [white on yellow]margin[/white on yellow][/white on yellow] and we expect this to increase with higher production and the ramp of Model X.
+3. [Sentence #344]  And in longer term, do you have an aspirational [white on yellow][white on yellow]gross[/white on yellow] [white on yellow]margin[/white on yellow][/white on yellow] target as the mix of software and hardware changes?
+4. [Sentence #346]  We have achieved -- we've actually exceeded our long-term guidance on our operating [white on yellow]margin[/white on yellow] target.
+5. [Sentence #361]  So, it's difficult on [white on yellow][white on yellow]gross[/white on yellow] [white on yellow]margin[/white on yellow][/white on yellow] to say where that will go for those reasons.
+6. [Sentence #364]  And I think the net of all of this is hopefully that we continue to make progress on operating [white on yellow]margin[/white on yellow] over the next 4 of 5 quarters.
+7. [Sentence #366]  As full self-driving matures, as take rates increase, if we are to raise pricing on that, there's considerable upside both on [white on yellow]gross[/white on yellow] margins and operating [white on yellow]margin[/white on yellow] as that comes to light, as the business starts to become more of a mix of a hardware-based Company and a software-based Company.
+
+Total transcript-order evidence sentences: 7
+
+--- Evidence by Similarity ---
+1. [Sentence #34]  (Similarity: 1.044) The Model S has now returned to positive [white on yellow][white on yellow]gross[/white on yellow] [white on yellow]margin[/white on yellow][/white on yellow] and we expect this to increase with higher production and the ramp of Model X.
+2. [Sentence #361]  (Similarity: 0.958) So, it's difficult on [white on yellow][white on yellow]gross[/white on yellow] [white on yellow]margin[/white on yellow][/white on yellow] to say where that will go for those reasons.
+3. [Sentence #32]  (Similarity: 0.908) Financially, our auto [white on yellow]gross[/white on yellow] margins reached 30.5% on a GAAP basis and just under 29%, excluding regulatory credits, which was our strongest yet.
+4. [Sentence #366]  (Similarity: 0.886) As full self-driving matures, as take rates increase, if we are to raise pricing on that, there's considerable upside both on [white on yellow]gross[/white on yellow] margins and operating [white on yellow]margin[/white on yellow] as that comes to light, as the business starts to become more of a mix of a hardware-based Company and a software-based Company.
+5. [Sentence #344]  (Similarity: 0.828) And in longer term, do you have an aspirational [white on yellow][white on yellow]gross[/white on yellow] [white on yellow]margin[/white on yellow][/white on yellow] target as the mix of software and hardware changes?
+6. [Sentence #346]  (Similarity: 0.611) We have achieved -- we've actually exceeded our long-term guidance on our operating [white on yellow]margin[/white on yellow] target.
+7. [Sentence #364]  (Similarity: 0.610) And I think the net of all of this is hopefully that we continue to make progress on operating [white on yellow]margin[/white on yellow] over the next 4 of 5 quarters.
+
+Total similarity-top evidence sentences: 7
+
+-----
