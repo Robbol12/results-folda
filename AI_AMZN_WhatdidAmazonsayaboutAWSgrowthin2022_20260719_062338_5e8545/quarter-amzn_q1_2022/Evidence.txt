@@ -1,0 +1,31 @@
+[AMZN_Q1_2022] What did Amazon say about AWS growth in 2022?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #71]  We saw another strong quarter of innovation and customer engagement in the [white on yellow]AWS[/white on yellow] segment, where net sales were $18.4 billion in Q1, up 37% year-over-year and now represent an annualized sales run rate of nearly $74 billion.
+2. [Sentence #74]  We also continue to build support infrastructure to best serve [white on yellow]AWS[/white on yellow]' millions of customers.
+3. [Sentence #81]  About 40% of that went to infrastructure, primarily supporting [white on yellow]AWS[/white on yellow], but also supporting our sizable consumer business.
+4. [Sentence #86]  For full year 2022, we do expect infrastructure spend to grow year-over-year, in large part, to support the rapid [white on yellow]growth[/white on yellow] in innovation we're seeing within [white on yellow]AWS[/white on yellow].
+5. [Sentence #188]  It came in a little higher despite [white on yellow]AWS[/white on yellow] costs coming in lower.
+6. [Sentence #203]  That [white on yellow]growth[/white on yellow] rate, though, does, of course, include an offset Q1 2022 related to a partial offset, I should say, related to the change in estimated useful lives for servers, which was a little under $1 billion of impact in the first quarter.
+7. [Sentence #206]  And then, just broadly speaking, inclusive of [white on yellow]AWS[/white on yellow], the headcount to support -- the build-out and support that the [white on yellow]AWS[/white on yellow] team is doing as well as some consumer tech teams, Alexa and Echo devices and certain other areas there.
+8. [Sentence #295]  And then, second, I don't think [white on yellow]AWS[/white on yellow] backlog was asked.
+9. [Sentence #296]  If there's any numbers you can share on [white on yellow]AWs[/white on yellow] backlog [white on yellow]growth[/white on yellow] this quarter versus last quarter.
+10. [Sentence #301]  It's the increase of [white on yellow]AWS[/white on yellow] customers making long-term commitments for [white on yellow]AWS[/white on yellow].
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #86]  (Similarity: 1.024) For full year 2022, we do expect infrastructure spend to grow year-over-year, in large part, to support the rapid [white on yellow]growth[/white on yellow] in innovation we're seeing within [white on yellow]AWS[/white on yellow].
+2. [Sentence #296]  (Similarity: 0.897) If there's any numbers you can share on [white on yellow]AWs[/white on yellow] backlog [white on yellow]growth[/white on yellow] this quarter versus last quarter.
+3. [Sentence #301]  (Similarity: 0.773) It's the increase of [white on yellow]AWS[/white on yellow] customers making long-term commitments for [white on yellow]AWS[/white on yellow].
+4. [Sentence #71]  (Similarity: 0.756) We saw another strong quarter of innovation and customer engagement in the [white on yellow]AWS[/white on yellow] segment, where net sales were $18.4 billion in Q1, up 37% year-over-year and now represent an annualized sales run rate of nearly $74 billion.
+5. [Sentence #188]  (Similarity: 0.722) It came in a little higher despite [white on yellow]AWS[/white on yellow] costs coming in lower.
+6. [Sentence #74]  (Similarity: 0.721) We also continue to build support infrastructure to best serve [white on yellow]AWS[/white on yellow]' millions of customers.
+7. [Sentence #81]  (Similarity: 0.702) About 40% of that went to infrastructure, primarily supporting [white on yellow]AWS[/white on yellow], but also supporting our sizable consumer business.
+8. [Sentence #206]  (Similarity: 0.674) And then, just broadly speaking, inclusive of [white on yellow]AWS[/white on yellow], the headcount to support -- the build-out and support that the [white on yellow]AWS[/white on yellow] team is doing as well as some consumer tech teams, Alexa and Echo devices and certain other areas there.
+9. [Sentence #295]  (Similarity: 0.640) And then, second, I don't think [white on yellow]AWS[/white on yellow] backlog was asked.
+10. [Sentence #203]  (Similarity: 0.628) That [white on yellow]growth[/white on yellow] rate, though, does, of course, include an offset Q1 2022 related to a partial offset, I should say, related to the change in estimated useful lives for servers, which was a little under $1 billion of impact in the first quarter.
+
+Total similarity-top evidence sentences: 10
+
+-----

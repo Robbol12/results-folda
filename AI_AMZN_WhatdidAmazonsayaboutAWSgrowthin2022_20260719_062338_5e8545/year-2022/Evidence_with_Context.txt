@@ -1,0 +1,571 @@
+[Year 2022] What did Amazon say about AWS growth in 2022?
+
+1. [Sentence #1205, AMZN_Q4_2022] [UNCERTAIN]
+     Mark Mahaney
+
+Two questions.
+     Brian, just any color on why mid-teens is kind of a holdable growth rate for AWS over the next couple of quarters, given what looks like pretty clearly, continuing deterioration in enterprise demand?
+     And then, Andy, I wonder at a high level if you could just talk about how your priorities may have changed or the company's priorities may have changed over the last year or so as you've been the CEO.
+     And it looks like there's a bit of a peel back on devices, a peel back on physical stores, except for groceries and then maybe a little bit more of a lean in on health.
+     And I'm not quite sure what you're doing with entertainment content spend like that.
+     Maybe it's the same, maybe it's a little bit more.
+     But just at a high level, how would you say your priorities have changed or are different than the prior CEOs?
+>>> Brian Olsavsky
+
+So on the AWS growth rate, I'm not sure I can forecast for you with any level of certainty what is going to happen beyond this quarter.
+     You kind of -- this is a bit uncharted territories economically.
+     And as we mentioned, there's some unique things going on with the customer base that I think many in this industry are all seeing the same thing.
+     So I don't have a crystal ball on that one, but we are going to continue to work for to be there for our customers.
+     And as I said in the earlier comments, we do have new deals.
+     We have new workloads coming to the cloud.
+     The value was there.
+     And whether there's short term, perhaps short-term belt tightening in the infrastructure expense by a lot of companies, I think the long-term trends are still there.
+-----
+2. [Sentence #966, AMZN_Q4_2022] [PLAN]
+     Moving on to AWS.
+     Net sales increased $21.4 billion in Q4, up 20% year-over-year and now representing an annualized sales run rate of more than $85 billion.
+     Starting back in the middle of the third quarter of 2022, we saw our year-over-year growth rates slow as enterprises of all sizes evaluated ways to optimize their cloud spending in response to the tough macroeconomic conditions.
+     As expected, these optimization efforts continued into the fourth quarter.
+     Some of the key benefits of being in the cloud compared to managing your own data center are the ability to handle large demand swings and to optimize costs relatively quickly, especially during times of economic uncertainty.
+     Our customers are looking for ways to save money, and we spend a lot of our time trying to help them do so.
+     This customer focus is in our DNA and informs how we think about our customer relationships and how we will partner with them for the long term.
+>>> As we look ahead, we expect these optimization efforts will continue to be a headwind to AWS growth in at least the next couple of quarters.
+     So far in the first month of the year, AWS year-over-year revenue growth is in the mid-teens.
+     That said, stepping back, our new customer pipeline remains healthy and robust, and there are many customers continuing to put plans in place to migrate to the cloud and commit to AWS over the long term.
+     Now let's shift to worldwide operating income.
+     For the quarter, we reported $2.7 billion in operating income.
+     The operating income was negatively impacted by 3 large items, which added approximately $2.7 billion of costs in the quarter.
+     This was related to employee severance, impairments of property and equipment and operating leases and changes in estimates related to self-insurance liabilities.
+     This cost primarily impacted our North America segment.
+-----
+3. [Sentence #86, AMZN_Q1_2022] [PLAN]
+     First, as a reminder, we look at the combination of CapEx plus finance leases.
+     Capital investments were $61 billion on the trailing 12-month period ended March 31.
+     About 40% of that went to infrastructure, primarily supporting AWS, but also supporting our sizable consumer business.
+     About 30% is fulfillment capacity, primarily fulfillment center warehouses.
+     A little less than 25% is for transportation.
+     So, think of that as the middle and last-mile capacity related to customer shipments.
+     The remaining 5% or so is comprised of things like corporate space and physical stores.
+>>> For full year 2022, we do expect infrastructure spend to grow year-over-year, in large part, to support the rapid growth in innovation we're seeing within AWS.
+     We expect infrastructure should represent about half of our total capital investments in 2022.
+     For the consumer business, as I said earlier, we currently have some excess capacity in the network that we need to grow into.
+     So, we've brought down our build expectations.
+     Note again that many of the build decisions were made 18 to 24 months ago, so there are limitations on what we can adjust midyear.
+     That said, we expect fulfillment dollars spent on capital projects to be lower in 2022 versus the prior year.
+     We also expect transportation dollars spent on capital projects to be flat to slightly down.
+     Finally, I'll highlight a few additional items.
+-----
+4. [Sentence #389, AMZN_Q2_2022] [PLAN]
+     AWS results include a greater mix of these costs, reflecting wage inflation in high demand areas, including engineers and other tech workers as well as increasing technology infrastructure investment to support long-term growth.
+     Now let's talk about capital investments.
+     As usual, we will discuss the combination of CapEx plus equipment finance leases.
+     In 2021, we incurred approximately $60 billion in capital investments.
+     About 40% of that is comprised of technology infrastructure, primarily supporting AWS as well as our worldwide stores business.
+     Another 30% of the $60 billion was fulfillment capacity and a little less than 25% was for transportation, remaining 5% was comprised of things like corporate space and physical stores.
+     For full-year 2022, we do expect to spend slightly more on capital investments than last year, but the proportion of capital spending shifts among our businesses.
+>>> We expect technology infrastructure spend to grow year-over-year, primarily to support the rapid growth in innovation we are seeing with AWS.
+     We expect infrastructure to represent a bit more than half of our total capital investments in 2022.
+     For the worldwide stores business, we've continued to moderate our build expectations to better align with customer demand.
+     We expect the fulfillment and transportation dollars spent on capital projects to be lower in 2022 versus the prior year.
+     Finally, I'd highlight a few additional items.
+     We reported an overall net loss of $2 billion in the second quarter, while we primarily focus our comments on operating income, I point out that this net loss includes a pretax valuation loss of $3.9 billion, which is included in non-operating expense from our common stock investment in Rivian Automotive.
+     In the U.S., we've started making customer deliveries using the Rivian electric delivery vehicles.
+     This rollout is the start of what we expect to be thousands of EDVs in more than 100 cities by the end of the year and 100,000 vehicles across the U.S. by the year 2030.
+-----
+5. [Sentence #967, AMZN_Q4_2022] [PLAN]
+     Net sales increased $21.4 billion in Q4, up 20% year-over-year and now representing an annualized sales run rate of more than $85 billion.
+     Starting back in the middle of the third quarter of 2022, we saw our year-over-year growth rates slow as enterprises of all sizes evaluated ways to optimize their cloud spending in response to the tough macroeconomic conditions.
+     As expected, these optimization efforts continued into the fourth quarter.
+     Some of the key benefits of being in the cloud compared to managing your own data center are the ability to handle large demand swings and to optimize costs relatively quickly, especially during times of economic uncertainty.
+     Our customers are looking for ways to save money, and we spend a lot of our time trying to help them do so.
+     This customer focus is in our DNA and informs how we think about our customer relationships and how we will partner with them for the long term.
+     As we look ahead, we expect these optimization efforts will continue to be a headwind to AWS growth in at least the next couple of quarters.
+>>> So far in the first month of the year, AWS year-over-year revenue growth is in the mid-teens.
+     That said, stepping back, our new customer pipeline remains healthy and robust, and there are many customers continuing to put plans in place to migrate to the cloud and commit to AWS over the long term.
+     Now let's shift to worldwide operating income.
+     For the quarter, we reported $2.7 billion in operating income.
+     The operating income was negatively impacted by 3 large items, which added approximately $2.7 billion of costs in the quarter.
+     This was related to employee severance, impairments of property and equipment and operating leases and changes in estimates related to self-insurance liabilities.
+     This cost primarily impacted our North America segment.
+     If we had not incurred these charges in Q4, our operating income would have been approximately $5.4 billion.
+-----
+6. [Sentence #684, AMZN_Q3_2022] [PLAN]
+     This increase was primarily driven by a reduction in the estimated forfeiture rate on certain unvested stock awards.
+     We reported overall net income of $2.9 billion in the third quarter.
+     While we primarily focus our comments on operating income, I'd point out that this net income includes a pretax valuation gain of $1.1 billion included in non-operating income from the common stock investment in Rivian Automotive.
+     As we've noted in recent quarters, the impact of this investment to our income statement is driven by quarter-to-quarter fluctuations in Rivian's stock price.
+     Now let's discuss capital investments, which is the combination of CapEx plus equipment finance leases.
+     For the full year 2022, we expect to incur approximately $60 billion in capital investments, which is broadly in line with what we spent in 2021.
+     This represents an estimated reduction in fulfillment and transportation capital investments of approximately $10 billion compared to last year, as we've continued to moderate our build expectations to better align with demand.
+>>> And this is offset by an approximately $10 billion year-over-year increase in technology infrastructure, primarily to support the rapid growth, innovation and continued expansion of our AWS footprint.
+     We also provided our fourth quarter financial guidance as part of our earnings release.
+     While we are encouraged by our progress across the business, macroeconomic environment remains challenging worldwide.
+     The continuing impacts of broad-scale inflation, heightened fuel prices and rising energy costs have impacted our sales growth as consumers assess their purchasing power and organizations of all sizes evaluate their technology and advertising spend.
+     As the third quarter progressed, we saw moderating sales growth across many of our businesses as well as the increased foreign currency headwinds, I mentioned earlier, and we expect these impacts to persist throughout the fourth quarter.
+     As we've done at similar times in our history, we're also taking actions to tighten our belt, including pausing hiring in certain businesses and winding down products and services where we believe our resources are better spent elsewhere.
+     We aim to strike the right balance between investing for our customers for the long-term, while driving operational efficiency improvements and accomplishing more with less.
+     When faced with an uncertain economy or some kind of discontinuous event, customers tend to double-down on companies that they believe have the best customer experience and that take care of them the best.
+-----
+7. [Sentence #1199, AMZN_Q4_2022] [UNCERTAIN]
+     If you think about the value of Prime, which is less than what I just mentioned, where you get the entertainment content on the Prime Video side and you get the shipping benefit, the fast shipping benefit you can't find elsewhere and you get the music benefit, you get the Prime Gaming benefit and you get the photos benefit and you get the Buy with Prime capability, use your Prime subscription on websites beyond just Amazon and some of the grocery benefits that we provide, and RxPass like we just launched to get a number of medications people take regularly for $5 a month unlimited, that is remarkable value that you just don't find elsewhere.
+     And we will continue to add things to Prime and continue to experiment with lots of different features and benefits.
+     But it's still early days.
+     And as we continue to make the service better and better and fully featured, we see people continuing to spend more at Amazon across our various businesses.
+     So we're optimistic about it.
+     Operator
+
+And our final question comes from Mark Mahaney with Evercore ISI.
+     Mark Mahaney
+
+Two questions.
+>>> Brian, just any color on why mid-teens is kind of a holdable growth rate for AWS over the next couple of quarters, given what looks like pretty clearly, continuing deterioration in enterprise demand?
+     And then, Andy, I wonder at a high level if you could just talk about how your priorities may have changed or the company's priorities may have changed over the last year or so as you've been the CEO.
+     And it looks like there's a bit of a peel back on devices, a peel back on physical stores, except for groceries and then maybe a little bit more of a lean in on health.
+     And I'm not quite sure what you're doing with entertainment content spend like that.
+     Maybe it's the same, maybe it's a little bit more.
+     But just at a high level, how would you say your priorities have changed or are different than the prior CEOs?
+     Brian Olsavsky
+
+So on the AWS growth rate, I'm not sure I can forecast for you with any level of certainty what is going to happen beyond this quarter.
+     You kind of -- this is a bit uncharted territories economically.
+-----
+8. [Sentence #1170, AMZN_Q4_2022] [UNCERTAIN]
+     We see a number of those pieces as well.
+     And we're the only ones that really break out our cloud numbers in a more specific way.
+     So it's always a little bit hard to answer your question about what we see.
+     But we, to our best estimations, when we look at the absolute dollar growth year-over-year, we still have significantly more absolute dollar growth than anybody else we see in this space.
+     And I think some of that's a function of the fact that we just have a lot more capability by a large amount, with stronger security and operational performance and a larger partner ecosystem.
+     So I think it's also useful to remember that 90% to 95% of the global IT spend remains on-premises.
+     And if you believe that, that equation is going to shift and flip, I don't think on-premises will ever go away, but I really do believe in the next 10 to 15 years that most of it will be in the cloud if we continue to have the best customer experience, which we have to work really hard at an event which we're working to do.
+>>> It means we have a lot of growth in front of us in the AWS business.
+     Operator
+
+And our next question comes from the line of Ron Josey with Citi.
+     Ronald Josey
+
+Maybe a bigger high-level question here just around Prime member engagement and just seeing third-party seller services growth accelerating in the quarter.
+     And I believe it was mentioned that customer is spending more on everyday essentials, which may be a relatively new use case.
+     Talk just a little bit more, maybe Andy and Brian, just around how engagement is evolving here for Prime members and really how this has grown wallet share over time and where this is going.
+     Brian Olsavsky
+
+Yes.
+     Thanks, Ron, for your question.
+     I would say that the Prime membership is -- remains strong and so has the dollars purchased per Prime member.
+-----
+9. [Sentence #296, AMZN_Q1_2022] [UNCERTAIN]
+     Operator
+
+Our final question comes from Jason Helfstein with Oppenheimer.
+     Jason Helfstein
+
+Thanks.
+     Two questions.
+     Just can you talk about advertising a bit?
+     Are you seeing supply chain disruption having any impact on advertising?
+     Just any comments there?
+     And then, second, I don't think AWS backlog was asked.
+>>> If there's any numbers you can share on AWs backlog growth this quarter versus last quarter.
+     Thanks.
+     Dave Fildes
+
+Yes.
+     Jason, I'll take the second one first, just on the backlog.
+     So, yes, I mean, we're continuing to see what the backlog is, right?
+     It's the increase of AWS customers making long-term commitments for AWS.
+     At the March period ended, we had $88.9 billion balance for that.
+     So, that's up about 68% year-over-year.
+-----
+10. [Sentence #406, AMZN_Q2_2022] [PLAN]
+     Again, a reminder that this year, our Prime Day sales event occurred on July 12th and 13th, and is incorporated into our third quarter guidance.
+     Prime Day occurred in Q2 in 2021.
+     For revenue, note that our guidance includes an estimated approximately 390 basis points of unfavorable impact from year-over-year change in foreign exchange rates.
+     The estimated FX impact to operating income is not significant.
+     Our third quarter operating income guidance range is zero to $3.5 billion.
+     This compares to Q2 operating income of $3.3 billion.
+     This third quarter guidance assumes, we see approximately $1.5 billion in quarter-over-quarter sequential cost improvement in our fulfillment network operations, which we expect will be largely offset by investments in AWS and additional digital content for Prime members.
+>>> For AWS, this quarter-over-quarter increases are primarily driven by higher infrastructure investments to support continued strong customer growth, including larger depreciation on a growing fixed asset base.
+     We also expect increased energy costs as we continue to see volatility in utility prices around the world and operating our AWS data centers.
+     Quarter-over-quarter increase in digital content primarily relates to new Prime Video content in Q3, including Thursday Night Football and The Lord of the Rings: The Rings of Power.
+     Thank you.
+     And now let's move on to your questions.
+     Question-and-Answer Session
+
+Operator
+
+At this time, we'll now open the call up for questions.
+     [Operator Instructions] Thank you.
+     Our first question comes from Brian Nowak with Morgan Stanley.
+-----
+11. [Sentence #727, AMZN_Q3_2022] [PLAN]
+     The Ukraine war and the energy crisis issues have really compounded in that geography.
+     But when I talk about enterprise customers in AWS, yes, we've been working with customers to lower their bills.
+     Just like all companies, they want to lower their spend when they're faced with uncertainty in the market.
+     I would say one that's real valuable points about cloud computing is that it's turning fixed cost into variable for many of our customers, and we help them save money either through alternative services or Graviton3 chips.
+     There's many ways that we have to help them lower their spending and still get great cost performance ratios.
+     So what we're really excited about the business, both in the long term and even in the short run, you noticed we've added $4.5 billion to the $16 billion base we had of revenue last Q3, so the business is growing in absolute dollars at a really good clip.
+     We do see some of the consumers are cutting their budgets and trying to save money in the short run.
+>>> I would say that although we had a 28% growth rate for the quarter for AWS, the back end of the quarter, we were more in the mid-20% growth rate.
+     So we've carried that forecast through to the fourth quarter.
+     We're not sure how it's going to play out, but that's generally our assumption.
+     We're excited about the re:Invent conference that's coming up in late November.
+     We expect to have over 40,000 people in Las Vegas and many more tuning in virtually.
+     So continue to drive value for customers with new products, new services and, lately also, additional ways for them to manage their budgets and optimize in what is shaping up as a tough economy.
+     Operator
+
+Thank you.
+     Our next question is from Doug Anmuth with JPMorgan.
+-----
+12. [Sentence #382, AMZN_Q2_2022] [PLAN]
+     AWS continues to grow at a fast pace, and we believe we are still in the early stages of enterprise and public sector adoption of the cloud.
+     We see great opportunity to continue to make investments on behalf of AWS customers.
+     We continue to invest thoughtfully in new infrastructure to meet capacity needs, while expanding AWS to new regions, developing new services and iterating quickly to enhance existing services.
+     Developers at organizations of all sizes, from governments and not-for-profits to start-ups and enterprises, continue to choose Amazon Web Services.
+     Companies like Delta Air Lines, Riot Games, British Telecom, and Jefferies' Investment Bank to name a few announced new agreements and service launches supported by AWS.
+     AWS operating income was $5.7 billion in Q2.
+     As a reminder, this includes a portion of our seasonal Q2 step-up in stock-based compensation expense.
+>>> AWS results include a greater mix of these costs, reflecting wage inflation in high demand areas, including engineers and other tech workers as well as increasing technology infrastructure investment to support long-term growth.
+     Now let's talk about capital investments.
+     As usual, we will discuss the combination of CapEx plus equipment finance leases.
+     In 2021, we incurred approximately $60 billion in capital investments.
+     About 40% of that is comprised of technology infrastructure, primarily supporting AWS as well as our worldwide stores business.
+     Another 30% of the $60 billion was fulfillment capacity and a little less than 25% was for transportation, remaining 5% was comprised of things like corporate space and physical stores.
+     For full-year 2022, we do expect to spend slightly more on capital investments than last year, but the proportion of capital spending shifts among our businesses.
+     We expect technology infrastructure spend to grow year-over-year, primarily to support the rapid growth in innovation we are seeing with AWS.
+-----
+13. [Sentence #757, AMZN_Q3_2022] [UNCERTAIN]
+     We think our model reacts quickly to customer demand.
+     This is more about the other side of the equation, the supply chain and having more in stock.
+     So what the issue there is that we generally have a favorable working capital impact from accounts payable that is more days than our inventory.
+     That's been flipping the last year, and we expect that to normalize as we move into 2023.
+     And then CapEx is a big driver.
+     We had, again, a doubling of the network, had very high CapEx the last two years.
+     You'll see that we've lowered CapEx year-over-year.
+>>> We probably cut about one-third of our budget from what we originally thought for 2022 while still focusing our capital dollars really on the AWS business and increasing customer demand or capacity for increasing customer demand in our stores business.
+     So we're working hard on all those dimensions.
+     And we expect, as we see a recovery in income generation, normalization of the inventory versus accounts payable cycle and efficiency in our CapEx spend, we intend to flip those numbers around.
+     Operator
+
+And our next question comes from the line of Mark Mahaney with Evercore.
+     Please proceed with your question.
+     Mark Mahaney
+
+Let me ask two profit questions.
+     AWS margins were a little lower than we would have thought.
+     Is that just a reflection of the full quarter impact of that stock-based compensation granted to those employees earlier in the year?
+-----
+14. [Sentence #1248, AMZN_Q4_2022] [UNCERTAIN]
+     Amazingly, people were very surprised we were expanding into tools.
+     That seemed far field for people, but it turned out not to be.
+     When we launch something like Buy with Prime, I think people see that as more predictable.
+     That process has also led us to less predictable investments.
+     And I remember, I had a front-row seat in the AWS experience, having worked with the team and led the team from the very start.
+     And I remember both externally and internally, there were a number of people who wondered why we were doing that.
+     It was so different from retail only.
+>>> But think about how different a company Amazon would be today if we hadn't invested in AWS.
+     And so that informs some of the other meaningful investments we're making beyond our stores, in retail and advertising and AWS businesses.
+     I think that while we've gone slower in some devices and things, we still -- when we look at the answers to those 4 questions, we are very enthusiastic about our investments in streaming entertainment devices, our low Earth orbit satellite and Kuiper, health care and a few other things.
+     And I think that do I think every one of our new investments will be successful?
+     History would say that, that would be a long shot.
+     However, it only takes one or two of them becoming the fourth pillar for Amazon for us to be a very different company over time.
+     So I think it's very worthwhile.
+     We're going to continue to invest.
+-----
+15. [Sentence #375, AMZN_Q2_2022] [PLAN]
+     First is the unfavorable comparison to very high holiday level utilization rates that we saw in the first half of 2021.
+     And second is the normal step down in volumes off of our Q4 peak that we saw in first half of 2022.
+     On the first point, we expect this challenging year-over-year comp will have ended in Q2.
+     On the second point, we expect fixed cost leverage to improve in the second half of the year as we continue to grow into our capacity.
+     We've also taken steps to slow future network capacity additions.
+     Let's turn to AWS.
+     We saw another strong quarter of innovation and customer engagement in AWS, where net sales were $19.7 billion in Q2, up 33% year-over-year, and now represented an annualized sales run rate of nearly $79 billion.
+>>> AWS continues to grow at a fast pace, and we believe we are still in the early stages of enterprise and public sector adoption of the cloud.
+     We see great opportunity to continue to make investments on behalf of AWS customers.
+     We continue to invest thoughtfully in new infrastructure to meet capacity needs, while expanding AWS to new regions, developing new services and iterating quickly to enhance existing services.
+     Developers at organizations of all sizes, from governments and not-for-profits to start-ups and enterprises, continue to choose Amazon Web Services.
+     Companies like Delta Air Lines, Riot Games, British Telecom, and Jefferies' Investment Bank to name a few announced new agreements and service launches supported by AWS.
+     AWS operating income was $5.7 billion in Q2.
+     As a reminder, this includes a portion of our seasonal Q2 step-up in stock-based compensation expense.
+     AWS results include a greater mix of these costs, reflecting wage inflation in high demand areas, including engineers and other tech workers as well as increasing technology infrastructure investment to support long-term growth.
+-----
+16. [Sentence #1118, AMZN_Q4_2022] [UNCERTAIN]
+     But if you look at countries like India and Brazil and the Middle East and Africa and Turkey, Mexico and Australia and a number of those types of countries, we like what we're seeing.
+     They take a certain amount of time.
+     There's a certain amount of fixed investment you have to make when you enter a new geography, and then you have to drive a certain amount of revenue to be able to cover that fixed investment.
+     But they're all on the right trajectory and following trajectories that roughly look like what we saw in North America and our established international geographies, and we think it's the right investment and believe we're going to have a large profitable international e-commerce business.
+     Operator
+
+And the next question comes from the line of Justin Post with Bank of America.
+     Justin Post
+
+Great.
+     Maybe one for Andy and then one for Brian.
+>>> AWS, if you look at the revenue growth of mid-teens, it implies it could be flattish and even down this quarter.
+     So maybe talk about what's driving that.
+     Is it workload changes?
+     Are there some clients that are shifting?
+     Anything on the market share you could comment on?
+     And then second, when do you think this could recover?
+     Like what's the time frame?
+     And would you expect margins to come back when revenues reaccelerate?
+-----
+17. [Sentence #437, AMZN_Q2_2022] [PLAN]
+     That will be opening up and effective in 2023 and beyond.
+     So there's always a pre-spend to keep the – again, the pipeline moving.
+     So when we make adjustments to the time horizon, the impact is not as great as you might expect in the year 2022.
+     Again, we have moved things out and capital is coming down in those areas as we just mentioned.
+     We'll just have to keep you posted as we go quarter-to-quarter on what our expectations are.
+     On the bridge to Q2 to Q3, so again, you have the – mentioned three items, ops improvement that we see of a $1.5 billion and offsetting that is increased costs in AWS, as we build out depreciation.
+     We also are adding – continuing to add people in that space; product engineers, salespeople, customer support.
+>>> Speaking more broadly, we know AWS is a huge opportunity to early days in the adoption curve for companies and governments.
+     And we invest with that - with that confidence in mind and customers have responded and we're going to keep investing there.
+     Your comment on discounting, we're not seeing some of the pressures that other people are seeing right now.
+     Our macroeconomic issues are principally on inflation and pretty transparent on that.
+     I think the new thing this quarter is additional pressure on the energy, electricity rates in our data centers because of the ramp up in natural gas prices, if you've seen that.
+     So that's probably the new information and then the other inflationary factors.
+     Well, some of them are coming down slightly.
+     They're still significantly a penalty year-over-year.
+-----
+18. [Sentence #376, AMZN_Q2_2022] [PLAN]
+     And second is the normal step down in volumes off of our Q4 peak that we saw in first half of 2022.
+     On the first point, we expect this challenging year-over-year comp will have ended in Q2.
+     On the second point, we expect fixed cost leverage to improve in the second half of the year as we continue to grow into our capacity.
+     We've also taken steps to slow future network capacity additions.
+     Let's turn to AWS.
+     We saw another strong quarter of innovation and customer engagement in AWS, where net sales were $19.7 billion in Q2, up 33% year-over-year, and now represented an annualized sales run rate of nearly $79 billion.
+     AWS continues to grow at a fast pace, and we believe we are still in the early stages of enterprise and public sector adoption of the cloud.
+>>> We see great opportunity to continue to make investments on behalf of AWS customers.
+     We continue to invest thoughtfully in new infrastructure to meet capacity needs, while expanding AWS to new regions, developing new services and iterating quickly to enhance existing services.
+     Developers at organizations of all sizes, from governments and not-for-profits to start-ups and enterprises, continue to choose Amazon Web Services.
+     Companies like Delta Air Lines, Riot Games, British Telecom, and Jefferies' Investment Bank to name a few announced new agreements and service launches supported by AWS.
+     AWS operating income was $5.7 billion in Q2.
+     As a reminder, this includes a portion of our seasonal Q2 step-up in stock-based compensation expense.
+     AWS results include a greater mix of these costs, reflecting wage inflation in high demand areas, including engineers and other tech workers as well as increasing technology infrastructure investment to support long-term growth.
+     Now let's talk about capital investments.
+-----
+19. [Sentence #301, AMZN_Q1_2022] [UNCERTAIN]
+     Just any comments there?
+     And then, second, I don't think AWS backlog was asked.
+     If there's any numbers you can share on AWs backlog growth this quarter versus last quarter.
+     Thanks.
+     Dave Fildes
+
+Yes.
+     Jason, I'll take the second one first, just on the backlog.
+     So, yes, I mean, we're continuing to see what the backlog is, right?
+>>> It's the increase of AWS customers making long-term commitments for AWS.
+     At the March period ended, we had $88.9 billion balance for that.
+     So, that's up about 68% year-over-year.
+     And the weighted average remaining kind of life term for those is 3.8 years.
+     Brian Olsavsky
+
+And on revenue -- excuse me, advertising revenue was up 25% year-over-year, and that's a strong run rate compared to the revenue growth rate.
+     So, we're still very happy and pleased with the way the advertising team is performing and how advertising has been valued by both, sellers and vendors and others who use it to reach our customer base at the point where they're considering purchases.
+     So, a strong quarter and continue to roll out new and new products for sellers to manage their advertising and increase the ability to analyze and calculate the payback on marketing investments with us.
+     Dave Fildes
+
+--- AMZN_Q2_2022 ---
+perator
+
+Thank you for standing by.
+-----
+20. [Sentence #374, AMZN_Q2_2022] [PLAN]
+     There are two main drivers when talking about fixed cost leverage.
+     First is the unfavorable comparison to very high holiday level utilization rates that we saw in the first half of 2021.
+     And second is the normal step down in volumes off of our Q4 peak that we saw in first half of 2022.
+     On the first point, we expect this challenging year-over-year comp will have ended in Q2.
+     On the second point, we expect fixed cost leverage to improve in the second half of the year as we continue to grow into our capacity.
+     We've also taken steps to slow future network capacity additions.
+     Let's turn to AWS.
+>>> We saw another strong quarter of innovation and customer engagement in AWS, where net sales were $19.7 billion in Q2, up 33% year-over-year, and now represented an annualized sales run rate of nearly $79 billion.
+     AWS continues to grow at a fast pace, and we believe we are still in the early stages of enterprise and public sector adoption of the cloud.
+     We see great opportunity to continue to make investments on behalf of AWS customers.
+     We continue to invest thoughtfully in new infrastructure to meet capacity needs, while expanding AWS to new regions, developing new services and iterating quickly to enhance existing services.
+     Developers at organizations of all sizes, from governments and not-for-profits to start-ups and enterprises, continue to choose Amazon Web Services.
+     Companies like Delta Air Lines, Riot Games, British Telecom, and Jefferies' Investment Bank to name a few announced new agreements and service launches supported by AWS.
+     AWS operating income was $5.7 billion in Q2.
+     As a reminder, this includes a portion of our seasonal Q2 step-up in stock-based compensation expense.
+-----
+21. [Sentence #71, AMZN_Q1_2022] [PLAN]
+     We have lowered our operations, capital expenditures for 2022 and are evaluating other ways to increase our fixed cost leverage.
+     We estimate that this overcapacity, coupled with the extraordinary leverage we saw in Q1 of last year, resulted in $2 billion of additional costs year-over-year in Q1.
+     We do expect the effects of these fixed cost leverage to persist for the next several quarters as we grow into this capacity.
+     When you combine the impacts of the externally driven costs and the internally controllable costs, you get approximately $6 billion in incremental costs for the quarter.
+     Approximately two-thirds of these costs are within our control.
+     And with demand normalizing, we remain focused on rightsizing our cost structure and driving out any cost inefficiencies.
+     Our guidance includes an expectation that we will incur approximately $4 billion of these incremental costs in Q2.
+>>> We saw another strong quarter of innovation and customer engagement in the AWS segment, where net sales were $18.4 billion in Q1, up 37% year-over-year and now represent an annualized sales run rate of nearly $74 billion.
+     Developers at organizations of all sizes from governments and not-for-profits to start-ups and enterprises continue to choose Amazon Web Services.
+     Companies like Telefonica, Verizon, Boeing, MongoDB, Amdocs, Bundesliga, Maple Leaf Sports & Entertainment, the NHL and Thread announced new agreements and service launches supported by AWS.
+     We also continue to build support infrastructure to best serve AWS' millions of customers.
+     We recently completed the launch of our first 16 local zones in the United States with 32 more to come across 26 countries.
+     Local zones extend AWS regions to place our services at the edge of the cloud near large population, industry and IT centers, expanding our infrastructure footprint and enabling customers to build with single-digit millisecond latency performance.
+     Last quarter, I provided some detail on our overall capital investments.
+     So, let me add to that with our current thinking.
+-----
+22. [Sentence #665, AMZN_Q3_2022] [PLAN]
+     We also saw good growth in our advertising offerings where sales grew 30% year-over-year, excluding the impact of foreign exchange as vendors and sellers have embraced our portfolio of products, which allow advertisers to build general awareness and/or drive sales of a specific product.
+     In AWS, net sales increased to $20.5 billion in Q3, up 28% year-over-year, excluding the impact of foreign exchange, and now representing an annualized sales run rate of $82 billion.
+     With the ongoing macroeconomic uncertainties, we've seen an uptick in AWS customers focused on controlling costs.
+     And we're proactively working to help customers cost optimize, just as we've done throughout AWS' history, especially in periods of economic uncertainty.
+     The breadth and depth of our service offerings enable us to help them do things like move storage to lower-priced tiers options and shift workloads to our Graviton chips.
+     Graviton3 processors delivered 40% better price performance than comparable x86-based instances.
+     And our teams across AWS continue to work relentlessly to expand that breadth and depth, including recent launches of new EC2 machine learning training instances in AWS IoT fleet-wise.
+>>> And we continue to expand the AWS infrastructure footprint to support customers with the launch of the AWS Middle East region in August and the recent announcement to launch AWS Asia Pacific region in Thailand.
+     Now, let's shift to operating income.
+     During the quarter, we reported $2.5 billion in operating income.
+     Turning first to our North America and international segments, during the quarter, we generated over $1 billion in operations cost improvements driven by higher leverage of our fixed cost base and continued productivity improvements in our fulfillment and transportation networks.
+     This represents a solid improvement in productivity quarter-over-quarter, though not quite as much as we had planned.
+     We are encouraged by the progress made during the quarter, but we recognize there's still a lot of opportunity to continue to improve productivity and drive cost efficiencies throughout our networks.
+     We have identified initiatives that the teams continue to work hard on, and we expect to see further improvement in the quarters ahead.
+     Another impact to operating income was the step-up in Prime Video content and marketing costs in Q3, primarily driven by the global premiere of the Rings of Power and the launch of the NFL Thursday Night Football package in the United States.
+-----
+23. [Sentence #1153, AMZN_Q4_2022] [PLAN]
+     So I'll let Andy add some color on kind of the general trends in AWS, but that's more what we're seeing at the customer level right now.
+     Andrew Jassy
+
+So I would just add -- I mean, I think Brian covered a bunch of it.
+     I think most enterprises right now are acting cautiously.
+     You see it with virtually every enterprise, and we're being very thoughtful about streamlining our costs as well.
+     And when you are being cautious, you look for ways that you can find -- you can spend less money.
+     And where companies can cost optimize or, in some cases, they may be used to doing analysis over 90 days of information and they say, "Well, can I get away with it for 2 weeks, doing 2 weeks' worth," it's not necessarily the best thing long term.
+     But a lot of companies will do that when they're in uncertain economic situation.
+>>> And the reality is that the way that we've built all our businesses, but AWS in this particular instance, is that we're going to help our customers find a way to spend less money.
+     We are not focused on trying to optimize in any one quarter or any one year, we're trying to build a set of relationships in business that outlast all of us.
+     And so if it's good for our customers to find a way to be more cost effective in an uncertain economy, our team is going to spend a lot of cycles doing that.
+     And it's one of the advantages that we've talked about since we launched AWS in 2006 of the cloud, which is that when it turns out you have a lot more demand than you anticipated, you can seamlessly scale up.
+     But if it turns out that you don't need as much demand as you had, you can give it back to us and stop paying for it.
+     And that elasticity is very unusual.
+     It's something you can't do on-premises, which is one of the many reasons why the cloud is and AWS are very effective for customers.
+     I think -- and I've spent a fair bit of time with the AWS team on this, and we look closely at what we see.
+-----
+24. [Sentence #772, AMZN_Q3_2022] [UNCERTAIN]
+     Is that the new normal for AWS margins?
+     And then international losses also were a little bit heavier than we thought, just talk about what drove those losses.
+     And is that also the new normal for that segment?
+     Thank you.
+     Brian Olsavsky
+
+Sure.
+     Let me start with AWS.
+     So we did see a deceleration or a drop in op margin sequentially quarter-over-quarter.
+>>> The broad disclaimer on AWS margins is that they will fluctuate over time as we balance investments versus renegotiating pricing with the long-term customer commitments, all as headwinds to the business, offset by increasing productivity and efficiencies in our data centers, which drive profitability.
+     So there's moving parts there.
+     I'd say what's happening lately is, yes, the stock-based comp.
+     We have seen inflation in our wages this year and particularly on our Czech employees is heavily concentrated in AWS.
+     So that's one element of it.
+     We're also seeing energy costs that are materially higher than they had in pre-pandemic, electricity and the impact of natural gas pricing.
+     So those prices have up more than 2x over the last couple of years and contribute to about 200 basis point degradation versus 2 years ago.
+     So we're fighting through some of that as well, which is a new thing for the AWS business.
+-----
+25. [Sentence #377, AMZN_Q2_2022] [PLAN]
+     On the first point, we expect this challenging year-over-year comp will have ended in Q2.
+     On the second point, we expect fixed cost leverage to improve in the second half of the year as we continue to grow into our capacity.
+     We've also taken steps to slow future network capacity additions.
+     Let's turn to AWS.
+     We saw another strong quarter of innovation and customer engagement in AWS, where net sales were $19.7 billion in Q2, up 33% year-over-year, and now represented an annualized sales run rate of nearly $79 billion.
+     AWS continues to grow at a fast pace, and we believe we are still in the early stages of enterprise and public sector adoption of the cloud.
+     We see great opportunity to continue to make investments on behalf of AWS customers.
+>>> We continue to invest thoughtfully in new infrastructure to meet capacity needs, while expanding AWS to new regions, developing new services and iterating quickly to enhance existing services.
+     Developers at organizations of all sizes, from governments and not-for-profits to start-ups and enterprises, continue to choose Amazon Web Services.
+     Companies like Delta Air Lines, Riot Games, British Telecom, and Jefferies' Investment Bank to name a few announced new agreements and service launches supported by AWS.
+     AWS operating income was $5.7 billion in Q2.
+     As a reminder, this includes a portion of our seasonal Q2 step-up in stock-based compensation expense.
+     AWS results include a greater mix of these costs, reflecting wage inflation in high demand areas, including engineers and other tech workers as well as increasing technology infrastructure investment to support long-term growth.
+     Now let's talk about capital investments.
+     As usual, we will discuss the combination of CapEx plus equipment finance leases.
+-----
+26. [Sentence #455, AMZN_Q2_2022] [UNCERTAIN]
+     So there's a certain amount of conservatism always built into this because we are in a very difficult macroeconomic state potentially.
+     Again, we're not seeing it hit our businesses directly.
+     In fact, we're seeing strong growth in sales through the quarter in Q2.
+     But we're cognizant that things could change quickly and we'll see and monitor and that's how we set our forward guidance.
+     Operator
+
+Our next question comes from Doug Anmuth with JPMorgan.
+     Please proceed with your question.
+     Douglas Anmuth
+
+Thanks for taking the questions.
+>>> Brian, I wanted to ask about AWS.
+     Some of your peers in the cloud space have talked about some slowdown in booking rates just as customers take longer to work through deal terms and duration.
+     So if you could comment on whether AWS is seeing similar dynamics?
+     And then also when you think about margins, the 35% for AWS in 1Q going to 29% in 2Q, what are some of the puts and takes that we should think about going forward just given decreasing server life benefits and tougher macro environment?
+     Thanks.
+     Brian Olsavsky
+
+Sure, Doug.
+     I'll start with second question.
+     So on margins in AWS, yes, as you mentioned that is dropping sequentially.
+-----
+27. [Sentence #188, AMZN_Q1_2022] [UNCERTAIN]
+     Thanks for taking my questions.
+     I have two.
+     First one, Brian, I want to ask you about one day, same day.
+     Now that you're getting inventory selection, SKU selection in some cases back to where it was pre-pandemic.
+     What are you seeing from a demand or an elasticity perspective as you get more inventory available for one day, same day?
+     Is it really leading to incremental sales based on your data?
+     And the second one, I want to ask about tech and content.
+>>> It came in a little higher despite AWS costs coming in lower.
+     Is there anything else we should sort of be thinking about in our modeling in tech and content, whether it's Kuiper or other items that are moving through that line item for the year?
+     Brian Olsavsky
+
+Let me start with your first question on one day and same day.
+     Yes, we're approaching the service levels that we had pre-pandemic, and that's a positive sign.
+     But this doesn't -- it doesn't turn on a dime, I think as a consumer, I noticed it myself, I see more things in stock.
+     And I -- it opens up the consideration set for things that I may have had to run to a store to get in a short period of time.
+     And that trust and -- as you see more and more of that, you trust it and you continue to order and you then go to Amazon first and say, okay, well, it's maybe my first stop before I even think about going to the store.
+     So, it's a -- it has to be built over time.
+-----
+28. [Sentence #74, AMZN_Q1_2022] [PLAN]
+     When you combine the impacts of the externally driven costs and the internally controllable costs, you get approximately $6 billion in incremental costs for the quarter.
+     Approximately two-thirds of these costs are within our control.
+     And with demand normalizing, we remain focused on rightsizing our cost structure and driving out any cost inefficiencies.
+     Our guidance includes an expectation that we will incur approximately $4 billion of these incremental costs in Q2.
+     We saw another strong quarter of innovation and customer engagement in the AWS segment, where net sales were $18.4 billion in Q1, up 37% year-over-year and now represent an annualized sales run rate of nearly $74 billion.
+     Developers at organizations of all sizes from governments and not-for-profits to start-ups and enterprises continue to choose Amazon Web Services.
+     Companies like Telefonica, Verizon, Boeing, MongoDB, Amdocs, Bundesliga, Maple Leaf Sports & Entertainment, the NHL and Thread announced new agreements and service launches supported by AWS.
+>>> We also continue to build support infrastructure to best serve AWS' millions of customers.
+     We recently completed the launch of our first 16 local zones in the United States with 32 more to come across 26 countries.
+     Local zones extend AWS regions to place our services at the edge of the cloud near large population, industry and IT centers, expanding our infrastructure footprint and enabling customers to build with single-digit millisecond latency performance.
+     Last quarter, I provided some detail on our overall capital investments.
+     So, let me add to that with our current thinking.
+     First, as a reminder, we look at the combination of CapEx plus finance leases.
+     Capital investments were $61 billion on the trailing 12-month period ended March 31.
+     About 40% of that went to infrastructure, primarily supporting AWS, but also supporting our sizable consumer business.
+-----
+29. [Sentence #659, AMZN_Q3_2022] [UNCERTAIN]
+     As a reminder, Prime Day occurred in the second quarter of 2021.
+     We also debut the two largest Prime Video releases ever.
+     The Lord of the Rings: The Rings of Power attracted more than 25 million global viewers on its first day.
+     And in the first two months since its launch, Rings of Power has driven more Prime sign-ups globally than any other Amazon Original.
+     NFL Thursday Night Football also premiered in September, averaging more than 15 million viewers during its first broadcast, and driving the three biggest hours of US Prime sign-ups in the history of Amazon.
+     Our next broadcast, the seventh of the 15-game schedule, kicks off in a few hours, with the Ravens visiting the Buccaneers.
+     We also saw good growth in our advertising offerings where sales grew 30% year-over-year, excluding the impact of foreign exchange as vendors and sellers have embraced our portfolio of products, which allow advertisers to build general awareness and/or drive sales of a specific product.
+>>> In AWS, net sales increased to $20.5 billion in Q3, up 28% year-over-year, excluding the impact of foreign exchange, and now representing an annualized sales run rate of $82 billion.
+     With the ongoing macroeconomic uncertainties, we've seen an uptick in AWS customers focused on controlling costs.
+     And we're proactively working to help customers cost optimize, just as we've done throughout AWS' history, especially in periods of economic uncertainty.
+     The breadth and depth of our service offerings enable us to help them do things like move storage to lower-priced tiers options and shift workloads to our Graviton chips.
+     Graviton3 processors delivered 40% better price performance than comparable x86-based instances.
+     And our teams across AWS continue to work relentlessly to expand that breadth and depth, including recent launches of new EC2 machine learning training instances in AWS IoT fleet-wise.
+     And we continue to expand the AWS infrastructure footprint to support customers with the launch of the AWS Middle East region in August and the recent announcement to launch AWS Asia Pacific region in Thailand.
+     Now, let's shift to operating income.
+-----
+30. [Sentence #674, AMZN_Q3_2022] [PLAN]
+     During the quarter, we reported $2.5 billion in operating income.
+     Turning first to our North America and international segments, during the quarter, we generated over $1 billion in operations cost improvements driven by higher leverage of our fixed cost base and continued productivity improvements in our fulfillment and transportation networks.
+     This represents a solid improvement in productivity quarter-over-quarter, though not quite as much as we had planned.
+     We are encouraged by the progress made during the quarter, but we recognize there's still a lot of opportunity to continue to improve productivity and drive cost efficiencies throughout our networks.
+     We have identified initiatives that the teams continue to work hard on, and we expect to see further improvement in the quarters ahead.
+     Another impact to operating income was the step-up in Prime Video content and marketing costs in Q3, primarily driven by the global premiere of the Rings of Power and the launch of the NFL Thursday Night Football package in the United States.
+     Our results were also negatively impacted by non-recurring charges related to the closure of certain businesses and products such as Amazon Care, Fabric.com and Amazon Explore.
+>>> We continue to ramp up our investments in AWS, adding product builders and sales and professional services headcount to help customers save money, invent more quickly in their businesses and transition to the cloud.
+     We're also continuing to invest in new infrastructure to meet capacity needs, expanding to new geographic regions, developing new services and iterating quickly to enhance existing services.
+     Overall stock-based compensation expense was $5.6 billion in Q3, up from $5.2 billion in the second quarter.
+     This increase was primarily driven by a reduction in the estimated forfeiture rate on certain unvested stock awards.
+     We reported overall net income of $2.9 billion in the third quarter.
+     While we primarily focus our comments on operating income, I'd point out that this net income includes a pretax valuation gain of $1.1 billion included in non-operating income from the common stock investment in Rivian Automotive.
+     As we've noted in recent quarters, the impact of this investment to our income statement is driven by quarter-to-quarter fluctuations in Rivian's stock price.
+     Now let's discuss capital investments, which is the combination of CapEx plus equipment finance leases.
+-----
+
+Total context windows: 30

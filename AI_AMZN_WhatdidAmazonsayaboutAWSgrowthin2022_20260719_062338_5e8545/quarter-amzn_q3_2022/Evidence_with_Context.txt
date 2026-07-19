@@ -1,0 +1,182 @@
+[AMZN_Q3_2022] What did Amazon say about AWS growth in 2022?
+
+1. [Sentence #70] [PLAN]
+     This increase was primarily driven by a reduction in the estimated forfeiture rate on certain unvested stock awards.
+     We reported overall net income of $2.9 billion in the third quarter.
+     While we primarily focus our comments on operating income, I'd point out that this net income includes a pretax valuation gain of $1.1 billion included in non-operating income from the common stock investment in Rivian Automotive.
+     As we've noted in recent quarters, the impact of this investment to our income statement is driven by quarter-to-quarter fluctuations in Rivian's stock price.
+     Now let's discuss capital investments, which is the combination of CapEx plus equipment finance leases.
+     For the full year 2022, we expect to incur approximately $60 billion in capital investments, which is broadly in line with what we spent in 2021.
+     This represents an estimated reduction in fulfillment and transportation capital investments of approximately $10 billion compared to last year, as we've continued to moderate our build expectations to better align with demand.
+>>> And this is offset by an approximately $10 billion year-over-year increase in technology infrastructure, primarily to support the rapid growth, innovation and continued expansion of our AWS footprint.
+     We also provided our fourth quarter financial guidance as part of our earnings release.
+     While we are encouraged by our progress across the business, macroeconomic environment remains challenging worldwide.
+     The continuing impacts of broad-scale inflation, heightened fuel prices and rising energy costs have impacted our sales growth as consumers assess their purchasing power and organizations of all sizes evaluate their technology and advertising spend.
+     As the third quarter progressed, we saw moderating sales growth across many of our businesses as well as the increased foreign currency headwinds, I mentioned earlier, and we expect these impacts to persist throughout the fourth quarter.
+     As we've done at similar times in our history, we're also taking actions to tighten our belt, including pausing hiring in certain businesses and winding down products and services where we believe our resources are better spent elsewhere.
+     We aim to strike the right balance between investing for our customers for the long-term, while driving operational efficiency improvements and accomplishing more with less.
+     When faced with an uncertain economy or some kind of discontinuous event, customers tend to double-down on companies that they believe have the best customer experience and that take care of them the best.
+-----
+2. [Sentence #113] [PLAN]
+     The Ukraine war and the energy crisis issues have really compounded in that geography.
+     But when I talk about enterprise customers in AWS, yes, we've been working with customers to lower their bills.
+     Just like all companies, they want to lower their spend when they're faced with uncertainty in the market.
+     I would say one that's real valuable points about cloud computing is that it's turning fixed cost into variable for many of our customers, and we help them save money either through alternative services or Graviton3 chips.
+     There's many ways that we have to help them lower their spending and still get great cost performance ratios.
+     So what we're really excited about the business, both in the long term and even in the short run, you noticed we've added $4.5 billion to the $16 billion base we had of revenue last Q3, so the business is growing in absolute dollars at a really good clip.
+     We do see some of the consumers are cutting their budgets and trying to save money in the short run.
+>>> I would say that although we had a 28% growth rate for the quarter for AWS, the back end of the quarter, we were more in the mid-20% growth rate.
+     So we've carried that forecast through to the fourth quarter.
+     We're not sure how it's going to play out, but that's generally our assumption.
+     We're excited about the re:Invent conference that's coming up in late November.
+     We expect to have over 40,000 people in Las Vegas and many more tuning in virtually.
+     So continue to drive value for customers with new products, new services and, lately also, additional ways for them to manage their budgets and optimize in what is shaping up as a tough economy.
+     Operator
+
+Thank you.
+     Our next question is from Doug Anmuth with JPMorgan.
+-----
+3. [Sentence #143] [UNCERTAIN]
+     We think our model reacts quickly to customer demand.
+     This is more about the other side of the equation, the supply chain and having more in stock.
+     So what the issue there is that we generally have a favorable working capital impact from accounts payable that is more days than our inventory.
+     That's been flipping the last year, and we expect that to normalize as we move into 2023.
+     And then CapEx is a big driver.
+     We had, again, a doubling of the network, had very high CapEx the last two years.
+     You'll see that we've lowered CapEx year-over-year.
+>>> We probably cut about one-third of our budget from what we originally thought for 2022 while still focusing our capital dollars really on the AWS business and increasing customer demand or capacity for increasing customer demand in our stores business.
+     So we're working hard on all those dimensions.
+     And we expect, as we see a recovery in income generation, normalization of the inventory versus accounts payable cycle and efficiency in our CapEx spend, we intend to flip those numbers around.
+     Operator
+
+And our next question comes from the line of Mark Mahaney with Evercore.
+     Please proceed with your question.
+     Mark Mahaney
+
+Let me ask two profit questions.
+     AWS margins were a little lower than we would have thought.
+     Is that just a reflection of the full quarter impact of that stock-based compensation granted to those employees earlier in the year?
+-----
+4. [Sentence #51] [PLAN]
+     We also saw good growth in our advertising offerings where sales grew 30% year-over-year, excluding the impact of foreign exchange as vendors and sellers have embraced our portfolio of products, which allow advertisers to build general awareness and/or drive sales of a specific product.
+     In AWS, net sales increased to $20.5 billion in Q3, up 28% year-over-year, excluding the impact of foreign exchange, and now representing an annualized sales run rate of $82 billion.
+     With the ongoing macroeconomic uncertainties, we've seen an uptick in AWS customers focused on controlling costs.
+     And we're proactively working to help customers cost optimize, just as we've done throughout AWS' history, especially in periods of economic uncertainty.
+     The breadth and depth of our service offerings enable us to help them do things like move storage to lower-priced tiers options and shift workloads to our Graviton chips.
+     Graviton3 processors delivered 40% better price performance than comparable x86-based instances.
+     And our teams across AWS continue to work relentlessly to expand that breadth and depth, including recent launches of new EC2 machine learning training instances in AWS IoT fleet-wise.
+>>> And we continue to expand the AWS infrastructure footprint to support customers with the launch of the AWS Middle East region in August and the recent announcement to launch AWS Asia Pacific region in Thailand.
+     Now, let's shift to operating income.
+     During the quarter, we reported $2.5 billion in operating income.
+     Turning first to our North America and international segments, during the quarter, we generated over $1 billion in operations cost improvements driven by higher leverage of our fixed cost base and continued productivity improvements in our fulfillment and transportation networks.
+     This represents a solid improvement in productivity quarter-over-quarter, though not quite as much as we had planned.
+     We are encouraged by the progress made during the quarter, but we recognize there's still a lot of opportunity to continue to improve productivity and drive cost efficiencies throughout our networks.
+     We have identified initiatives that the teams continue to work hard on, and we expect to see further improvement in the quarters ahead.
+     Another impact to operating income was the step-up in Prime Video content and marketing costs in Q3, primarily driven by the global premiere of the Rings of Power and the launch of the NFL Thursday Night Football package in the United States.
+-----
+5. [Sentence #158] [UNCERTAIN]
+     Is that the new normal for AWS margins?
+     And then international losses also were a little bit heavier than we thought, just talk about what drove those losses.
+     And is that also the new normal for that segment?
+     Thank you.
+     Brian Olsavsky
+
+Sure.
+     Let me start with AWS.
+     So we did see a deceleration or a drop in op margin sequentially quarter-over-quarter.
+>>> The broad disclaimer on AWS margins is that they will fluctuate over time as we balance investments versus renegotiating pricing with the long-term customer commitments, all as headwinds to the business, offset by increasing productivity and efficiencies in our data centers, which drive profitability.
+     So there's moving parts there.
+     I'd say what's happening lately is, yes, the stock-based comp.
+     We have seen inflation in our wages this year and particularly on our Czech employees is heavily concentrated in AWS.
+     So that's one element of it.
+     We're also seeing energy costs that are materially higher than they had in pre-pandemic, electricity and the impact of natural gas pricing.
+     So those prices have up more than 2x over the last couple of years and contribute to about 200 basis point degradation versus 2 years ago.
+     So we're fighting through some of that as well, which is a new thing for the AWS business.
+-----
+6. [Sentence #45] [UNCERTAIN]
+     As a reminder, Prime Day occurred in the second quarter of 2021.
+     We also debut the two largest Prime Video releases ever.
+     The Lord of the Rings: The Rings of Power attracted more than 25 million global viewers on its first day.
+     And in the first two months since its launch, Rings of Power has driven more Prime sign-ups globally than any other Amazon Original.
+     NFL Thursday Night Football also premiered in September, averaging more than 15 million viewers during its first broadcast, and driving the three biggest hours of US Prime sign-ups in the history of Amazon.
+     Our next broadcast, the seventh of the 15-game schedule, kicks off in a few hours, with the Ravens visiting the Buccaneers.
+     We also saw good growth in our advertising offerings where sales grew 30% year-over-year, excluding the impact of foreign exchange as vendors and sellers have embraced our portfolio of products, which allow advertisers to build general awareness and/or drive sales of a specific product.
+>>> In AWS, net sales increased to $20.5 billion in Q3, up 28% year-over-year, excluding the impact of foreign exchange, and now representing an annualized sales run rate of $82 billion.
+     With the ongoing macroeconomic uncertainties, we've seen an uptick in AWS customers focused on controlling costs.
+     And we're proactively working to help customers cost optimize, just as we've done throughout AWS' history, especially in periods of economic uncertainty.
+     The breadth and depth of our service offerings enable us to help them do things like move storage to lower-priced tiers options and shift workloads to our Graviton chips.
+     Graviton3 processors delivered 40% better price performance than comparable x86-based instances.
+     And our teams across AWS continue to work relentlessly to expand that breadth and depth, including recent launches of new EC2 machine learning training instances in AWS IoT fleet-wise.
+     And we continue to expand the AWS infrastructure footprint to support customers with the launch of the AWS Middle East region in August and the recent announcement to launch AWS Asia Pacific region in Thailand.
+     Now, let's shift to operating income.
+-----
+7. [Sentence #60] [PLAN]
+     During the quarter, we reported $2.5 billion in operating income.
+     Turning first to our North America and international segments, during the quarter, we generated over $1 billion in operations cost improvements driven by higher leverage of our fixed cost base and continued productivity improvements in our fulfillment and transportation networks.
+     This represents a solid improvement in productivity quarter-over-quarter, though not quite as much as we had planned.
+     We are encouraged by the progress made during the quarter, but we recognize there's still a lot of opportunity to continue to improve productivity and drive cost efficiencies throughout our networks.
+     We have identified initiatives that the teams continue to work hard on, and we expect to see further improvement in the quarters ahead.
+     Another impact to operating income was the step-up in Prime Video content and marketing costs in Q3, primarily driven by the global premiere of the Rings of Power and the launch of the NFL Thursday Night Football package in the United States.
+     Our results were also negatively impacted by non-recurring charges related to the closure of certain businesses and products such as Amazon Care, Fabric.com and Amazon Explore.
+>>> We continue to ramp up our investments in AWS, adding product builders and sales and professional services headcount to help customers save money, invent more quickly in their businesses and transition to the cloud.
+     We're also continuing to invest in new infrastructure to meet capacity needs, expanding to new geographic regions, developing new services and iterating quickly to enhance existing services.
+     Overall stock-based compensation expense was $5.6 billion in Q3, up from $5.2 billion in the second quarter.
+     This increase was primarily driven by a reduction in the estimated forfeiture rate on certain unvested stock awards.
+     We reported overall net income of $2.9 billion in the third quarter.
+     While we primarily focus our comments on operating income, I'd point out that this net income includes a pretax valuation gain of $1.1 billion included in non-operating income from the common stock investment in Rivian Automotive.
+     As we've noted in recent quarters, the impact of this investment to our income statement is driven by quarter-to-quarter fluctuations in Rivian's stock price.
+     Now let's discuss capital investments, which is the combination of CapEx plus equipment finance leases.
+-----
+8. [Sentence #165] [UNCERTAIN]
+     The broad disclaimer on AWS margins is that they will fluctuate over time as we balance investments versus renegotiating pricing with the long-term customer commitments, all as headwinds to the business, offset by increasing productivity and efficiencies in our data centers, which drive profitability.
+     So there's moving parts there.
+     I'd say what's happening lately is, yes, the stock-based comp.
+     We have seen inflation in our wages this year and particularly on our Czech employees is heavily concentrated in AWS.
+     So that's one element of it.
+     We're also seeing energy costs that are materially higher than they had in pre-pandemic, electricity and the impact of natural gas pricing.
+     So those prices have up more than 2x over the last couple of years and contribute to about 200 basis point degradation versus 2 years ago.
+>>> So we're fighting through some of that as well, which is a new thing for the AWS business.
+     But we'll continue to look for ways to optimize our operations to use less energy.
+     And as we scale, we'll outrun that growth trajectory.
+     On international, international is always a mix of profitability in more established countries of Europe and Japan, offset by emerging countries and investments in Prime benefits.
+     I think the biggest issue quarter-over-quarter, the increase in losses versus Q2 was tied to some additional operating costs in Europe.
+     We've seen higher fuel costs there, even more certainly in the United States.
+     And Prime Day always has lesser profitability because there's just a lot of deals.
+     And it's a bit of margin from Prime Day in both North America and international.
+-----
+9. [Sentence #47] [UNCERTAIN]
+     The Lord of the Rings: The Rings of Power attracted more than 25 million global viewers on its first day.
+     And in the first two months since its launch, Rings of Power has driven more Prime sign-ups globally than any other Amazon Original.
+     NFL Thursday Night Football also premiered in September, averaging more than 15 million viewers during its first broadcast, and driving the three biggest hours of US Prime sign-ups in the history of Amazon.
+     Our next broadcast, the seventh of the 15-game schedule, kicks off in a few hours, with the Ravens visiting the Buccaneers.
+     We also saw good growth in our advertising offerings where sales grew 30% year-over-year, excluding the impact of foreign exchange as vendors and sellers have embraced our portfolio of products, which allow advertisers to build general awareness and/or drive sales of a specific product.
+     In AWS, net sales increased to $20.5 billion in Q3, up 28% year-over-year, excluding the impact of foreign exchange, and now representing an annualized sales run rate of $82 billion.
+     With the ongoing macroeconomic uncertainties, we've seen an uptick in AWS customers focused on controlling costs.
+>>> And we're proactively working to help customers cost optimize, just as we've done throughout AWS' history, especially in periods of economic uncertainty.
+     The breadth and depth of our service offerings enable us to help them do things like move storage to lower-priced tiers options and shift workloads to our Graviton chips.
+     Graviton3 processors delivered 40% better price performance than comparable x86-based instances.
+     And our teams across AWS continue to work relentlessly to expand that breadth and depth, including recent launches of new EC2 machine learning training instances in AWS IoT fleet-wise.
+     And we continue to expand the AWS infrastructure footprint to support customers with the launch of the AWS Middle East region in August and the recent announcement to launch AWS Asia Pacific region in Thailand.
+     Now, let's shift to operating income.
+     During the quarter, we reported $2.5 billion in operating income.
+     Turning first to our North America and international segments, during the quarter, we generated over $1 billion in operations cost improvements driven by higher leverage of our fixed cost base and continued productivity improvements in our fulfillment and transportation networks.
+-----
+10. [Sentence #50] [PLAN]
+     Our next broadcast, the seventh of the 15-game schedule, kicks off in a few hours, with the Ravens visiting the Buccaneers.
+     We also saw good growth in our advertising offerings where sales grew 30% year-over-year, excluding the impact of foreign exchange as vendors and sellers have embraced our portfolio of products, which allow advertisers to build general awareness and/or drive sales of a specific product.
+     In AWS, net sales increased to $20.5 billion in Q3, up 28% year-over-year, excluding the impact of foreign exchange, and now representing an annualized sales run rate of $82 billion.
+     With the ongoing macroeconomic uncertainties, we've seen an uptick in AWS customers focused on controlling costs.
+     And we're proactively working to help customers cost optimize, just as we've done throughout AWS' history, especially in periods of economic uncertainty.
+     The breadth and depth of our service offerings enable us to help them do things like move storage to lower-priced tiers options and shift workloads to our Graviton chips.
+     Graviton3 processors delivered 40% better price performance than comparable x86-based instances.
+>>> And our teams across AWS continue to work relentlessly to expand that breadth and depth, including recent launches of new EC2 machine learning training instances in AWS IoT fleet-wise.
+     And we continue to expand the AWS infrastructure footprint to support customers with the launch of the AWS Middle East region in August and the recent announcement to launch AWS Asia Pacific region in Thailand.
+     Now, let's shift to operating income.
+     During the quarter, we reported $2.5 billion in operating income.
+     Turning first to our North America and international segments, during the quarter, we generated over $1 billion in operations cost improvements driven by higher leverage of our fixed cost base and continued productivity improvements in our fulfillment and transportation networks.
+     This represents a solid improvement in productivity quarter-over-quarter, though not quite as much as we had planned.
+     We are encouraged by the progress made during the quarter, but we recognize there's still a lot of opportunity to continue to improve productivity and drive cost efficiencies throughout our networks.
+     We have identified initiatives that the teams continue to work hard on, and we expect to see further improvement in the quarters ahead.
+-----
+
+Total context windows: 10

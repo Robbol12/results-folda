@@ -1,0 +1,206 @@
+[AMZN_Q1_2022] What did Amazon say about AWS growth in 2022?
+
+1. [Sentence #86] [PLAN]
+     First, as a reminder, we look at the combination of CapEx plus finance leases.
+     Capital investments were $61 billion on the trailing 12-month period ended March 31.
+     About 40% of that went to infrastructure, primarily supporting AWS, but also supporting our sizable consumer business.
+     About 30% is fulfillment capacity, primarily fulfillment center warehouses.
+     A little less than 25% is for transportation.
+     So, think of that as the middle and last-mile capacity related to customer shipments.
+     The remaining 5% or so is comprised of things like corporate space and physical stores.
+>>> For full year 2022, we do expect infrastructure spend to grow year-over-year, in large part, to support the rapid growth in innovation we're seeing within AWS.
+     We expect infrastructure should represent about half of our total capital investments in 2022.
+     For the consumer business, as I said earlier, we currently have some excess capacity in the network that we need to grow into.
+     So, we've brought down our build expectations.
+     Note again that many of the build decisions were made 18 to 24 months ago, so there are limitations on what we can adjust midyear.
+     That said, we expect fulfillment dollars spent on capital projects to be lower in 2022 versus the prior year.
+     We also expect transportation dollars spent on capital projects to be flat to slightly down.
+     Finally, I'll highlight a few additional items.
+-----
+2. [Sentence #296] [UNCERTAIN]
+     Operator
+
+Our final question comes from Jason Helfstein with Oppenheimer.
+     Jason Helfstein
+
+Thanks.
+     Two questions.
+     Just can you talk about advertising a bit?
+     Are you seeing supply chain disruption having any impact on advertising?
+     Just any comments there?
+     And then, second, I don't think AWS backlog was asked.
+>>> If there's any numbers you can share on AWs backlog growth this quarter versus last quarter.
+     Thanks.
+     Dave Fildes
+
+Yes.
+     Jason, I'll take the second one first, just on the backlog.
+     So, yes, I mean, we're continuing to see what the backlog is, right?
+     It's the increase of AWS customers making long-term commitments for AWS.
+     At the March period ended, we had $88.9 billion balance for that.
+     So, that's up about 68% year-over-year.
+-----
+3. [Sentence #301] [UNCERTAIN]
+     Just any comments there?
+     And then, second, I don't think AWS backlog was asked.
+     If there's any numbers you can share on AWs backlog growth this quarter versus last quarter.
+     Thanks.
+     Dave Fildes
+
+Yes.
+     Jason, I'll take the second one first, just on the backlog.
+     So, yes, I mean, we're continuing to see what the backlog is, right?
+>>> It's the increase of AWS customers making long-term commitments for AWS.
+     At the March period ended, we had $88.9 billion balance for that.
+     So, that's up about 68% year-over-year.
+     And the weighted average remaining kind of life term for those is 3.8 years.
+     Brian Olsavsky
+
+And on revenue -- excuse me, advertising revenue was up 25% year-over-year, and that's a strong run rate compared to the revenue growth rate.
+     So, we're still very happy and pleased with the way the advertising team is performing and how advertising has been valued by both, sellers and vendors and others who use it to reach our customer base at the point where they're considering purchases.
+     So, a strong quarter and continue to roll out new and new products for sellers to manage their advertising and increase the ability to analyze and calculate the payback on marketing investments with us.
+     Dave Fildes
+-----
+4. [Sentence #71] [PLAN]
+     We have lowered our operations, capital expenditures for 2022 and are evaluating other ways to increase our fixed cost leverage.
+     We estimate that this overcapacity, coupled with the extraordinary leverage we saw in Q1 of last year, resulted in $2 billion of additional costs year-over-year in Q1.
+     We do expect the effects of these fixed cost leverage to persist for the next several quarters as we grow into this capacity.
+     When you combine the impacts of the externally driven costs and the internally controllable costs, you get approximately $6 billion in incremental costs for the quarter.
+     Approximately two-thirds of these costs are within our control.
+     And with demand normalizing, we remain focused on rightsizing our cost structure and driving out any cost inefficiencies.
+     Our guidance includes an expectation that we will incur approximately $4 billion of these incremental costs in Q2.
+>>> We saw another strong quarter of innovation and customer engagement in the AWS segment, where net sales were $18.4 billion in Q1, up 37% year-over-year and now represent an annualized sales run rate of nearly $74 billion.
+     Developers at organizations of all sizes from governments and not-for-profits to start-ups and enterprises continue to choose Amazon Web Services.
+     Companies like Telefonica, Verizon, Boeing, MongoDB, Amdocs, Bundesliga, Maple Leaf Sports & Entertainment, the NHL and Thread announced new agreements and service launches supported by AWS.
+     We also continue to build support infrastructure to best serve AWS' millions of customers.
+     We recently completed the launch of our first 16 local zones in the United States with 32 more to come across 26 countries.
+     Local zones extend AWS regions to place our services at the edge of the cloud near large population, industry and IT centers, expanding our infrastructure footprint and enabling customers to build with single-digit millisecond latency performance.
+     Last quarter, I provided some detail on our overall capital investments.
+     So, let me add to that with our current thinking.
+-----
+5. [Sentence #188] [UNCERTAIN]
+     Thanks for taking my questions.
+     I have two.
+     First one, Brian, I want to ask you about one day, same day.
+     Now that you're getting inventory selection, SKU selection in some cases back to where it was pre-pandemic.
+     What are you seeing from a demand or an elasticity perspective as you get more inventory available for one day, same day?
+     Is it really leading to incremental sales based on your data?
+     And the second one, I want to ask about tech and content.
+>>> It came in a little higher despite AWS costs coming in lower.
+     Is there anything else we should sort of be thinking about in our modeling in tech and content, whether it's Kuiper or other items that are moving through that line item for the year?
+     Brian Olsavsky
+
+Let me start with your first question on one day and same day.
+     Yes, we're approaching the service levels that we had pre-pandemic, and that's a positive sign.
+     But this doesn't -- it doesn't turn on a dime, I think as a consumer, I noticed it myself, I see more things in stock.
+     And I -- it opens up the consideration set for things that I may have had to run to a store to get in a short period of time.
+     And that trust and -- as you see more and more of that, you trust it and you continue to order and you then go to Amazon first and say, okay, well, it's maybe my first stop before I even think about going to the store.
+     So, it's a -- it has to be built over time.
+-----
+6. [Sentence #74] [PLAN]
+     When you combine the impacts of the externally driven costs and the internally controllable costs, you get approximately $6 billion in incremental costs for the quarter.
+     Approximately two-thirds of these costs are within our control.
+     And with demand normalizing, we remain focused on rightsizing our cost structure and driving out any cost inefficiencies.
+     Our guidance includes an expectation that we will incur approximately $4 billion of these incremental costs in Q2.
+     We saw another strong quarter of innovation and customer engagement in the AWS segment, where net sales were $18.4 billion in Q1, up 37% year-over-year and now represent an annualized sales run rate of nearly $74 billion.
+     Developers at organizations of all sizes from governments and not-for-profits to start-ups and enterprises continue to choose Amazon Web Services.
+     Companies like Telefonica, Verizon, Boeing, MongoDB, Amdocs, Bundesliga, Maple Leaf Sports & Entertainment, the NHL and Thread announced new agreements and service launches supported by AWS.
+>>> We also continue to build support infrastructure to best serve AWS' millions of customers.
+     We recently completed the launch of our first 16 local zones in the United States with 32 more to come across 26 countries.
+     Local zones extend AWS regions to place our services at the edge of the cloud near large population, industry and IT centers, expanding our infrastructure footprint and enabling customers to build with single-digit millisecond latency performance.
+     Last quarter, I provided some detail on our overall capital investments.
+     So, let me add to that with our current thinking.
+     First, as a reminder, we look at the combination of CapEx plus finance leases.
+     Capital investments were $61 billion on the trailing 12-month period ended March 31.
+     About 40% of that went to infrastructure, primarily supporting AWS, but also supporting our sizable consumer business.
+-----
+7. [Sentence #81] [PLAN]
+     We also continue to build support infrastructure to best serve AWS' millions of customers.
+     We recently completed the launch of our first 16 local zones in the United States with 32 more to come across 26 countries.
+     Local zones extend AWS regions to place our services at the edge of the cloud near large population, industry and IT centers, expanding our infrastructure footprint and enabling customers to build with single-digit millisecond latency performance.
+     Last quarter, I provided some detail on our overall capital investments.
+     So, let me add to that with our current thinking.
+     First, as a reminder, we look at the combination of CapEx plus finance leases.
+     Capital investments were $61 billion on the trailing 12-month period ended March 31.
+>>> About 40% of that went to infrastructure, primarily supporting AWS, but also supporting our sizable consumer business.
+     About 30% is fulfillment capacity, primarily fulfillment center warehouses.
+     A little less than 25% is for transportation.
+     So, think of that as the middle and last-mile capacity related to customer shipments.
+     The remaining 5% or so is comprised of things like corporate space and physical stores.
+     For full year 2022, we do expect infrastructure spend to grow year-over-year, in large part, to support the rapid growth in innovation we're seeing within AWS.
+     We expect infrastructure should represent about half of our total capital investments in 2022.
+     For the consumer business, as I said earlier, we currently have some excess capacity in the network that we need to grow into.
+-----
+8. [Sentence #206] [NO EVIDENCE]
+     Dave Fildes
+
+On the second point, the technology and content.
+     Just as a reminder, components in there is you got the Amazon Tech and the AWS infrastructure, so everything from servers, network and equipment, data center-related depreciation, rent utilities, those types of things.
+     The AWS Tech employee costs and costs to support the dotcom website and a number of other technology initiatives that we're working on.
+     For Q1, it was up about 19% year-over-year, which was down a little bit, less than what you see for year-over-year growth throughout 2021.
+     That growth rate, though, does, of course, include an offset Q1 2022 related to a partial offset, I should say, related to the change in estimated useful lives for servers, which was a little under $1 billion of impact in the first quarter.
+     In terms of just the investment areas, I just reinforced it, it’s continued investment in the tech infrastructure.
+     One of the bigger pieces remains AWS, of course, there.
+>>> And then, just broadly speaking, inclusive of AWS, the headcount to support -- the build-out and support that the AWS team is doing as well as some consumer tech teams, Alexa and Echo devices and certain other areas there.
+     Operator
+
+Our next question comes from Doug Anmuth with JP Morgan.
+     Doug Anmuth
+
+Thanks for the question.
+     You talked about how you're no longer chasing physical or staffing capacity and, in fact, you're actually running at in excess at the moment.
+     So, hoping you could talk a little bit about how long you think it could take to regain some of the productivity and cost efficiencies in the fulfillment network.
+     Thank you.
+     Brian Olsavsky
+
+Sure thing.
+     Well, let me start with productivity.
+-----
+9. [Sentence #295] [UNCERTAIN]
+     But what we'll focus on is the customer experience, continue to get our delivery times to be better and increasing selection, which is better than pre-pandemic time period and you're making the customer experience great on a lot of dimensions.
+     Operator
+
+Our final question comes from Jason Helfstein with Oppenheimer.
+     Jason Helfstein
+
+Thanks.
+     Two questions.
+     Just can you talk about advertising a bit?
+     Are you seeing supply chain disruption having any impact on advertising?
+     Just any comments there?
+>>> And then, second, I don't think AWS backlog was asked.
+     If there's any numbers you can share on AWs backlog growth this quarter versus last quarter.
+     Thanks.
+     Dave Fildes
+
+Yes.
+     Jason, I'll take the second one first, just on the backlog.
+     So, yes, I mean, we're continuing to see what the backlog is, right?
+     It's the increase of AWS customers making long-term commitments for AWS.
+     At the March period ended, we had $88.9 billion balance for that.
+-----
+10. [Sentence #203] [UNCERTAIN]
+     It doesn't take years.
+     It takes hopefully, weeks and months.
+     But we're hopeful and expecting that that will add to good elasticity, the same elasticity is that we start to see prepandemic?
+     Dave Fildes
+
+On the second point, the technology and content.
+     Just as a reminder, components in there is you got the Amazon Tech and the AWS infrastructure, so everything from servers, network and equipment, data center-related depreciation, rent utilities, those types of things.
+     The AWS Tech employee costs and costs to support the dotcom website and a number of other technology initiatives that we're working on.
+     For Q1, it was up about 19% year-over-year, which was down a little bit, less than what you see for year-over-year growth throughout 2021.
+>>> That growth rate, though, does, of course, include an offset Q1 2022 related to a partial offset, I should say, related to the change in estimated useful lives for servers, which was a little under $1 billion of impact in the first quarter.
+     In terms of just the investment areas, I just reinforced it, it’s continued investment in the tech infrastructure.
+     One of the bigger pieces remains AWS, of course, there.
+     And then, just broadly speaking, inclusive of AWS, the headcount to support -- the build-out and support that the AWS team is doing as well as some consumer tech teams, Alexa and Echo devices and certain other areas there.
+     Operator
+
+Our next question comes from Doug Anmuth with JP Morgan.
+     Doug Anmuth
+
+Thanks for the question.
+     You talked about how you're no longer chasing physical or staffing capacity and, in fact, you're actually running at in excess at the moment.
+     So, hoping you could talk a little bit about how long you think it could take to regain some of the productivity and cost efficiencies in the fulfillment network.
+-----
+
+Total context windows: 10
