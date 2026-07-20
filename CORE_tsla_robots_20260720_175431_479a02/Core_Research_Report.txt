@@ -1,0 +1,110 @@
+[CORE RESEARCH] TSLA: robots
+
+Quarters searched: 8
+Filing sections searched: 174
+
+Over the observed periods, Tesla's focus on robots, particularly the Optimus humanoid robot, has been emphasized as a key product development priority. Initial guidance in late 2021 highlighted the first use of Optimus robots within Tesla factories for moving parts. By early 2022, management aimed for volume production of the robotaxi in 2024, signaling ambitious future plans. Actual commentary in Q1 2022 confirmed progress in robot-related manufacturing efficiencies, such as reducing the number of robots while increasing capacity, and reiterated the significance of the Optimus program. However, no further specific guidance or actual results were provided in subsequent quarters.
+
+Forecasting credibility: Medium
+There is only one guidance/actual pair related to robots, which was met according to the transcript in Q1 2022, supporting some credibility in management's forecasting. However, the lack of additional guidance/actual pairs or precise filing-sourced actuals limits a stronger confidence rating. The guidance about volume production in 2024 remains untested in the data provided.
+
+Trends:
+  - Increasing emphasis on Optimus robot development
+  - Ambitious volume production target for 2024
+  - Manufacturing efficiency improvements involving robots
+
+Recurring themes/risks:
+  - Uncertainty about timing of volume production
+  - High expectations for robot program magnitude
+  - Integration of robots in factory operations
+
+Key concerns:
+  - No precise filing-sourced actuals for robot production or deployment were provided, limiting verification of progress.
+  - The single guidance/actual pair is from a transcript rather than a formal filing, which may reduce reliability.
+  - No updates or revisions to guidance in later quarters create uncertainty about the trajectory.
+
+Conclusion:
+Tesla has positioned robots, especially the Optimus humanoid robot, as a strategic priority with plans for volume production by 2024. Management's single guidance/actual pair related to robots was met, indicating some forecasting reliability, but the absence of detailed, filing-based actuals and further guidance updates tempers confidence. The program's scale and integration into manufacturing processes are highlighted as significant, yet the lack of longitudinal data beyond early 2022 leaves the outlook somewhat uncertain. Continued monitoring of future filings and earnings commentary will be necessary to fully assess progress and credibility.
+
+--- By Reporting Period ---
+
+=== Q4 2021 ===
+Management said:
+Guidance given:
+  - So, the first use of the Optimus robots would be, at Tesla, like moving parts around the factory or something like that.
+Actual reported:
+  - [None] So, in terms of priority of products, I think actually the most important product development we're doing this year is actually the Optimus humanoid robot.
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Revenue: $53.82B | vs prior quarter: — | vs prior year: $10.74B (+401.0%)
+    - Cost of Revenue: $40.22B | vs prior quarter: — | vs prior year: $24.91B (+61.5%)
+    - Gross Profit: $13.61B | vs prior quarter: — | vs prior year: $2.07B (+558.6%)
+    - R&D Expense: $2.59B | vs prior quarter: — | vs prior year: $1.49B (+73.9%)
+    - SG&A Expense: $4.52B | vs prior quarter: — | vs prior year: $3.15B (+43.6%)
+    - Operating Income: $6.52B | vs prior quarter: — | vs prior year: $1.99B (+227.1%)
+    - Net Income: $5.52B | vs prior quarter: — | vs prior year: $270.0M (+1944.1%)
+    - Diluted EPS: $1.63 | vs prior quarter: — | vs prior year: $0.21 (+676.2%)
+
+=== Q1 2022 ===
+Management said:
+Guidance given:
+  - So, I think, we’ll aim to -- we do a product event for robotaxi next year and get into more detail, but we are aiming for volume production in 2024.
+Actual reported:
+  - [Met] Andrew Baglino But we also had a structural casting, about 30% less robots, we expect to almost double the capacity for body, for example, reducing the number of robots, but doubling our capacity in a lot of areas.
+  - [None] And then, there’s, of course, Optimus, which I was surprised that people did not realize the magnitude of the Optimus robot program.
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Revenue: $18.76B | vs prior quarter: — | vs prior year: $10.39B (+80.5%)
+    - Cost of Revenue: $13.30B | vs prior quarter: — | vs prior year: $8.17B (+62.7%)
+    - Gross Profit: $5.46B | vs prior quarter: — | vs prior year: $2.21B (+146.5%)
+    - R&D Expense: $865.0M | vs prior quarter: — | vs prior year: $666.0M (+29.9%)
+    - SG&A Expense: $992.0M | vs prior quarter: — | vs prior year: $1.06B (-6.1%)
+    - Operating Income: $3.60B | vs prior quarter: — | vs prior year: $594.0M (+506.6%)
+    - Net Income: $3.32B | vs prior quarter: — | vs prior year: $438.0M (+657.5%)
+    - Diluted EPS: $0.95 | vs prior quarter: — | vs prior year: $0.39 (+143.6%)
+
+=== Q2 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Revenue: $16.93B | vs prior quarter: $18.76B (-9.7%) | vs prior year: $11.96B (+41.6%)
+    - Cost of Revenue: $12.70B | vs prior quarter: $13.30B (-4.5%) | vs prior year: $9.07B (+40.0%)
+    - Gross Profit: $4.23B | vs prior quarter: $5.46B (-22.5%) | vs prior year: $2.88B (+46.8%)
+    - R&D Expense: $667.0M | vs prior quarter: $865.0M (-22.9%) | vs prior year: $576.0M (+15.8%)
+    - SG&A Expense: $961.0M | vs prior quarter: $992.0M (-3.1%) | vs prior year: $973.0M (-1.2%)
+    - Operating Income: $2.46B | vs prior quarter: $3.60B (-31.6%) | vs prior year: $1.31B (+87.8%)
+    - Net Income: $2.26B | vs prior quarter: $3.32B (-31.9%) | vs prior year: $1.14B (+97.8%)
+    - Diluted EPS: $0.65 | vs prior quarter: $0.95 (-31.6%) | vs prior year: $1.02 (-36.3%)
+
+=== Q3 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Revenue: $21.45B | vs prior quarter: $16.93B (+26.7%) | vs prior year: $13.76B (+55.9%)
+    - Cost of Revenue: $16.07B | vs prior quarter: $12.70B (+26.6%) | vs prior year: $10.10B (+59.2%)
+    - Gross Profit: $5.38B | vs prior quarter: $4.23B (+27.1%) | vs prior year: $3.66B (+47.0%)
+    - R&D Expense: $733.0M | vs prior quarter: $667.0M (+9.9%) | vs prior year: $611.0M (+20.0%)
+    - SG&A Expense: $961.0M | vs prior quarter: $961.0M (+0.0%) | vs prior year: $994.0M (-3.3%)
+    - Operating Income: $3.69B | vs prior quarter: $2.46B (+49.7%) | vs prior year: $2.00B (+84.0%)
+    - Net Income: $3.29B | vs prior quarter: $2.26B (+45.7%) | vs prior year: $1.62B (+103.5%)
+    - Diluted EPS: $0.95 | vs prior quarter: $0.65 (+46.2%) | vs prior year: $0.48 (+97.9%)
+
+=== Q4 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Revenue: $81.46B | vs prior quarter: — | vs prior year: $53.82B (+51.4%)
+    - Cost of Revenue: $60.61B | vs prior quarter: — | vs prior year: $40.22B (+50.7%)
+    - Gross Profit: $20.85B | vs prior quarter: — | vs prior year: $13.61B (+53.3%)
+    - R&D Expense: $3.08B | vs prior quarter: — | vs prior year: $2.59B (+18.6%)
+    - SG&A Expense: $3.95B | vs prior quarter: — | vs prior year: $4.52B (-12.6%)
+    - Operating Income: $13.66B | vs prior quarter: — | vs prior year: $6.52B (+109.4%)
+    - Net Income: $12.56B | vs prior quarter: — | vs prior year: $5.52B (+127.5%)
+    - Diluted EPS: $3.62 | vs prior quarter: — | vs prior year: $1.63 (+122.1%)
+
