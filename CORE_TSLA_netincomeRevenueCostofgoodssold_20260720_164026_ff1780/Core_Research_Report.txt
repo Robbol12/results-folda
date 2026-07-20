@@ -1,0 +1,427 @@
+[CORE RESEARCH - MULTIPLE TOPICS] TSLA: net income | Revenue | Cost of goods sold
+
+
+======================================================================
+TOPIC: net income
+======================================================================
+
+[CORE RESEARCH] TSLA: net income
+
+Quarters searched: 4
+Filing sections searched: 77
+
+Over the course of 2021, Tesla's net income showed a strong upward trajectory, with record production and deliveries contributing to significant increases in GAAP net income each quarter. The company surpassed $1 billion in net income for the first time in Q1 and Q2, and by year-end reported $5.52 billion in net income attributable to common stockholders. The filings consistently attribute these gains to improvements in net income excluding non-cash expenses and gains, as well as favorable changes in net operating assets and liabilities. Noncontrolling interests showed some variability but were a smaller component of the overall net income picture. Management highlighted the milestone of accumulated profitability becoming positive by the end of 2021.
+
+Forecasting credibility: None
+There were zero guidance versus actual pairs provided for net income, as management did not give explicit forward guidance on this metric. Therefore, it is not possible to assess forecasting credibility for net income based on the available evidence. Any commentary on net income was retrospective or celebratory rather than predictive.
+
+Trends:
+  - Strong sequential growth in net income
+  - Record production and deliveries driving profitability
+  - Increasing net income excluding non-cash items
+  - Fluctuations in noncontrolling interests
+  - Positive accumulated profitability by year-end
+
+Recurring themes/risks:
+  - Impact of non-cash expenses and gains on net income
+  - Variability in net operating assets and liabilities
+  - Currency fluctuations affecting net income
+  - Noncontrolling interests volatility
+
+Key concerns:
+  - No forward guidance on net income limits ability to judge forecasting accuracy or management credibility on this metric.
+  - Currency re-measurement gains/losses and non-cash items introduce variability that may complicate net income comparability across periods.
+
+Conclusion:
+Tesla's net income grew substantially throughout 2021, reaching $5.52 billion for the full year, driven by operational improvements and favorable changes in working capital. Despite the lack of forward guidance, the filings provide a clear and consistent picture of increasing profitability. The company achieved important milestones in profitability, reflecting strong business execution. However, the absence of guidance means forecasting credibility cannot be assessed, and fluctuations from currency effects and non-cash items should be monitored as potential sources of volatility.
+
+--- By Reporting Period ---
+
+=== Q1 2021 ===
+Management said:
+  - Tesla achieved record production, deliveries and surpassed $1 billion in non-GAAP net income for the first time.
+  - If we double click within net income, auto gross margin excluding credits improved sequentially and year-over-year.
+Guidance given:
+Actual reported:
+  - [None] [from 10-K/10-Q] Net income attributable to common stockholders $ 438 $ 16
+  - [None] [from 10-K/10-Q] Net income 464 68
+  - [None] [from 10-K/10-Q] Net income attributable to noncontrolling interests and redeemable noncontrolling interests in subsidiaries $ 26 $ 52 $ (26 ) -50%
+  - [None] Tesla achieved record production, deliveries and surpassed $1 billion in non-GAAP net income for the first time.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - During the three months ended March 31, 2021, our net income attributable to common stockholders was $438 million, representing a favorable change of $422 million over the three months ended March 31, 2020.
+    - Net income attributable to noncontrolling interests and redeemable noncontrolling interests decreased by $26 million, or 50%, in the three months ended March 31, 2021 as compared to the three months ended March 31, 2020.
+    - This increase was primarily due to the decrease in net operating assets and liabilities of $1.44 billion and the increase in net income excluding non-cash expenses and gains of $747 million, partially offset by $101 million of net gain on digital assets.
+  [Financial Statements]
+    - Revenue: $10.39B | vs prior quarter: — | vs prior year: $5.99B (+73.6%)
+    - Cost of Revenue: $8.17B | vs prior quarter: — | vs prior year: $4.75B (+72.0%)
+    - Gross Profit: $2.21B | vs prior quarter: — | vs prior year: $1.23B (+79.5%)
+    - R&D Expense: $666.0M | vs prior quarter: — | vs prior year: $324.0M (+105.6%)
+    - SG&A Expense: $1.06B | vs prior quarter: — | vs prior year: $627.0M (+68.4%)
+    - Operating Income: $594.0M | vs prior quarter: — | vs prior year: $283.0M (+109.9%)
+    - Net Income: $438.0M | vs prior quarter: — | vs prior year: $16.0M (+2637.5%)
+    - Diluted EPS: $0.39 | vs prior quarter: — | vs prior year: $0.02 (+1850.0%)
+    - 5 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+    - 11 Net Income per Share of Common Stock Attributable to Common Stockholders Basic net income per share of common stock attributable to common stockholders is calculated by dividing net income attributable to common stockholders by the weighted-average shares of common stock outstanding for the period.
+    - During the three months ended March 31, 2021 , we increased net income attributable to common stockholders by $ 5 million to arrive at the numerator used to calculate diluted net income per share, which represents the interest expense recognized on the convertible debt instruments that were subject to this change in methodology.
+    - This had the effect of increasing our basic and diluted net income per share of common stock attributable to common stockholders for the three months ended March 31, 2021 by $ 0.15 and $ 0.13 , respectively.
+    - The change in methodology to determine the denominator used in the calculation of diluted net income per share of common stock attributable to common stockholders contributed less than $ 0.01 of the increase by requiring the use of the if-converted method as discussed above.
+    - Following this adoption, we utilize the if-converted method for diluted net income per share calculation of our convertible debt instruments (see Recent Accounting Pronouncements section below for further details).
+    - The following table presents the reconciliation of basic to diluted weighted average shares used in computing net income per share of common stock attributable to common stockholders, as adjusted to give effect to the five-for-one stock split effected in the form of a stock dividend in August 2020 (the “Stock Split”) (in millions): Three Months Ended March 31, 2021 2020 Weighted average shares used in computing net income per share of common stock, basic 961 915 Add: Stock-based awards 97 46 Convertible senior notes (1) 21 30 Warrants 54 3 Weighted average shares used in computing net income per share of common stock, diluted 1,133 994 The following table presents the potentially dilutive shares that were excluded from the computation of diluted net income per share of common stock attributable to common stockholders, because their effect was anti-dilutive, as adjusted to give effect to the Stock Split (in millions): Three Months Ended March 31, 2021 2020 Stock-based awards 0 0 Convertible senior notes (1) 1 2 (1) Under the modified retrospective method of adoption of ASU 2020-06, the dilutive impact of convertible senior notes was calculated using the if-converted method for the three months ended March 31, 2021.
+    - Adjusted EBITDA is defined as net income (loss) attributable to common stockholders before interest expense, provision (benefit) for income taxes, depreciation and amortization and stock-based compensation.
+
+=== Q2 2021 ===
+Management said:
+  - We achieved record production, deliveries, and surpassed over $1 billion in GAAP net income for the first time in Tesla's history.
+Guidance given:
+Actual reported:
+  - [None] [from 10-K/10-Q] During the three and six months ended June 30, 2021, our net income attributable to common stockholders was $1.14 billion and $1.58 billion, respectively, representing favorable changes of $1.04 billion and $1.46 billion, respectively, over the same periods ended June 30, 2020.
+  - [None] [from 10-K/10-Q] Net income attributable to noncontrolling interests and redeemable noncontrolling interests in subsidiaries $ 36 $ 25 $ 11 44 %
+  - [None] We achieved record production, deliveries, and surpassed over $1 billion in GAAP net income for the first time in Tesla's history.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - During the three and six months ended June 30, 2021, our net income attributable to common stockholders was $1.14 billion and $1.58 billion, respectively, representing favorable changes of $1.04 billion and $1.46 billion, respectively, over the same periods ended June 30, 2020.
+    - Net income attributable to noncontrolling interests and redeemable noncontrolling interests increased by $11 million, or 44%, in the three months ended June 30, 2021 as compared to the three months ended June 30, 2020.
+    - Net income attributable to noncontrolling interests and redeemable noncontrolling interests decreased by $15 million, or 19%, in the six months ended June 30, 2021 as compared to the six months ended June 30, 2020.
+    - This increase was primarily due to the increase in net income excluding non-cash expenses and gains of $1.88 billion and the overall decrease in net operating assets and liabilities of $1.36 billion.
+  [Financial Statements]
+    - Revenue: $11.96B | vs prior quarter: $10.39B (+15.1%) | vs prior year: $6.04B (+98.1%)
+    - Cost of Revenue: $9.07B | vs prior quarter: $8.17B (+11.0%) | vs prior year: $4.77B (+90.3%)
+    - Gross Profit: $2.88B | vs prior quarter: $2.21B (+30.2%) | vs prior year: $1.27B (+127.6%)
+    - R&D Expense: $576.0M | vs prior quarter: $666.0M (-13.5%) | vs prior year: $279.0M (+106.5%)
+    - SG&A Expense: $973.0M | vs prior quarter: $1.06B (-7.9%) | vs prior year: $661.0M (+47.2%)
+    - Operating Income: $1.31B | vs prior quarter: $594.0M (+120.9%) | vs prior year: $327.0M (+301.2%)
+    - Net Income: $1.14B | vs prior quarter: $438.0M (+160.7%) | vs prior year: $104.0M (+998.1%)
+    - Diluted EPS: $1.02 | vs prior quarter: $0.39 (+161.5%) | vs prior year: $0.10 (+920.0%)
+    - 5 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+    - 12 Net Income per Share of Common Stock Attributable to Common Stockholders Basic net income per share of common stock attributable to common stockholders is calculated by dividing net income attributable to common stockholders by the weighted-average shares of common stock outstanding for the period.
+    - During the three and six months ended June 30, 2021 , we increased net income attributable to common stockholders by $ 2 million and $ 6 million, respectively, to arrive at the numerator used to calculate diluted net income per share, which represents the interest expense recognized on the convertible debt instruments that were subject to this change in methodology.
+    - This had the effect of increasing our basic and diluted net income per share of common stock attributable to common stockholders by $ 0.05 and $ 0.04 , respectively, for the three months ended June 30, 2021 and by $ 0.20 and $ 0.18 , respectively, for the six months ended June 30, 2021 .
+    - The change in methodology to determine the denominator used in the calculation of diluted net income per share of common stock attributable to common stockholders contributed less than $ 0.01 of the increase by requiring the use of the if-converted method as discussed above, for the three and six months ended June 30, 2021.
+    - Following this adoption, we utilize the if-converted method for diluted net income per share calculation of our convertible debt instruments (see Recent Accounting Pronouncements section below for further details).
+    - Adjusted EBITDA is defined as net income (loss) attributable to common stockholders before interest expense, provision (benefit) for income taxes, depreciation and amortization and stock-based compensation.
+
+=== Q3 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - During the three and nine months ended September 30, 2021, our net income attributable to common stockholders was $1.62 billion and $3.20 billion, respectively, representing increases of $1.29 billion and $2.75 billion, respectively, over the same periods ended September 30, 2020.
+    - Net income attributable to noncontrolling interests and redeemable noncontrolling interests decreased by $12 million, or 10%, in the nine months ended September 30, 2021 as compared to the nine months ended September 30, 2020.
+    - This increase was primarily due to the increase in net income excluding non-cash expenses and gains of $3.27 billion and the overall decrease in net operating assets and liabilities of $721 million.
+    - Our changes in net income attributable to noncontrolling interests and redeemable noncontrolling interests, which was related to activities in our financing fund arrangements, have been immaterial.
+  [Financial Statements]
+    - Revenue: $13.76B | vs prior quarter: $11.96B (+15.0%) | vs prior year: $8.77B (+56.8%)
+    - Cost of Revenue: $10.10B | vs prior quarter: $9.07B (+11.3%) | vs prior year: $6.71B (+50.5%)
+    - Gross Profit: $3.66B | vs prior quarter: $2.88B (+26.9%) | vs prior year: $2.06B (+77.4%)
+    - R&D Expense: $611.0M | vs prior quarter: $576.0M (+6.1%) | vs prior year: $366.0M (+66.9%)
+    - SG&A Expense: $994.0M | vs prior quarter: $973.0M (+2.2%) | vs prior year: $888.0M (+11.9%)
+    - Operating Income: $2.00B | vs prior quarter: $1.31B (+52.7%) | vs prior year: $809.0M (+147.7%)
+    - Net Income: $1.62B | vs prior quarter: $1.14B (+41.7%) | vs prior year: $331.0M (+388.8%)
+    - Diluted EPS: $0.48 | vs prior quarter: $1.02 (-52.9%) | vs prior year: $0.27 (+77.8%)
+    - 7 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+    - Net Income per Share of Common Stock Attributable to Common Stockholders Basic net income per share of common stock attributable to common stockholders is calculated by dividing net income attributable to common stockholders by the weighted-average shares of common stock outstanding for the period.
+    - During the three and nine months ended September 30, 2021 , we increased net income attributable to common stockholders by $ 1 million and $ 8 million, respectively, to arrive at the numerator used to calculate diluted net income per share, which represents the interest expense recognized on the convertible debt instruments that were subject to this change in methodology.
+    - This had the effect of increasing our basic and diluted net income per share of common stock attributable to common stockholders by $ 0.01 for the three months ended September 30, 2021 and by $ 0.21 and $ 0.19 , respectively, for the nine months ended September 30, 2021 .
+    - The change in methodology to determine the denominator used in the calculation of diluted net income per share of common stock attributable to common stockholders contributed less than $ 0.01 of the increase by requiring the use of the if-converted method as discussed above for the three and nine months ended September 30, 2021.
+    - Following this adoption, we utilize the if-converted method for diluted net income per share calculation of our convertible debt instruments (see Recent Accounting Pronouncements section below for further details).
+    - Adjusted EBITDA is defined as net income (loss) attributable to common stockholders before interest expense, provision (benefit) for income taxes, depreciation and amortization and stock-based compensation.
+
+=== Q4 2021 ===
+Management said:
+  - Lastly, thanks to $5.5 billion of GAAP net income in 2021, our accumulated profitability since the inception of the Company became positive, which I think makes us a real company at this point.
+Guidance given:
+Actual reported:
+  - [None] Lastly, thanks to $5.5 billion of GAAP net income in 2021, our accumulated profitability since the inception of the Company became positive, which I think makes us a real company at this point.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - In 2021, our net income attributable to common stockholders was $5.52 billion, representing a favorable change of $4.80 billion, compared to the prior year.
+    - This increase was primarily due to the increase in net income excluding non-cash expenses and gains of $5.22 billion and the overall decrease in net operating assets and liabilities of $334 million.
+  [Financial Statements]
+    - Revenue: $53.82B | vs prior quarter: — | vs prior year: $10.74B (+401.0%)
+    - Cost of Revenue: $40.22B | vs prior quarter: — | vs prior year: $24.91B (+61.5%)
+    - Gross Profit: $13.61B | vs prior quarter: — | vs prior year: $2.07B (+558.6%)
+    - R&D Expense: $2.59B | vs prior quarter: — | vs prior year: $1.49B (+73.9%)
+    - SG&A Expense: $4.52B | vs prior quarter: — | vs prior year: $3.15B (+43.6%)
+    - Operating Income: $6.52B | vs prior quarter: — | vs prior year: $1.99B (+227.1%)
+    - Net Income: $5.52B | vs prior quarter: — | vs prior year: $270.0M (+1944.1%)
+    - Diluted EPS: $1.63 | vs prior quarter: — | vs prior year: $0.21 (+676.2%)
+  [Footnotes]
+    - 2 real filing table(s) available (see the HTML report).
+
+
+======================================================================
+TOPIC: Revenue
+======================================================================
+
+[CORE RESEARCH] TSLA: Revenue
+
+Quarters searched: 4
+Filing sections searched: 77
+
+Over the reported periods from Q1 2021 through Q4 2021, there is no direct evidence of management providing forward guidance on revenue, nor are there actual revenue figures paired with guidance to assess forecasting accuracy. The commentary and filings do not include specific revenue forecasts or subsequent results that would allow for a comparison. As a result, the evolution of revenue guidance and its realization cannot be tracked or analyzed over time.
+
+Forecasting credibility: None
+No guidance-actual pairs for revenue were found in any of the periods, so it is not possible to assess management's forecasting credibility for this topic. Without explicit forward guidance and corresponding actual results, any judgment on forecasting accuracy would be speculative.
+
+Trends:
+  - No forward guidance provided
+  - No actual vs. guidance comparison
+  - Revenue figures not disclosed in guidance context
+
+Recurring themes/risks:
+  - Lack of revenue guidance
+  - Uncertainty in revenue forecasting
+  - Reliance on reported results without prior forecasts
+
+Key concerns:
+  - Absence of revenue guidance limits ability to evaluate management's forecasting skill or reliability on this key metric.
+
+Conclusion:
+Due to the absence of any forward revenue guidance paired with actual results, it is not possible to evaluate management's ability to forecast revenue. The company appears not to provide revenue guidance publicly, which is common for some firms. Therefore, revenue trends and forecasting credibility must be assessed solely based on reported results outside of guidance context.
+
+--- By Reporting Period ---
+
+=== Q1 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 7 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Revenue: $10.39B | vs prior quarter: — | vs prior year: $5.99B (+73.6%)
+    - Cost of Revenue: $8.17B | vs prior quarter: — | vs prior year: $4.75B (+72.0%)
+    - Gross Profit: $2.21B | vs prior quarter: — | vs prior year: $1.23B (+79.5%)
+    - R&D Expense: $666.0M | vs prior quarter: — | vs prior year: $324.0M (+105.6%)
+    - SG&A Expense: $1.06B | vs prior quarter: — | vs prior year: $627.0M (+68.4%)
+    - Operating Income: $594.0M | vs prior quarter: — | vs prior year: $283.0M (+109.9%)
+    - Net Income: $438.0M | vs prior quarter: — | vs prior year: $16.0M (+2637.5%)
+    - Diluted EPS: $0.39 | vs prior quarter: — | vs prior year: $0.02 (+1850.0%)
+    - 3 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
+=== Q2 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 7 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Revenue: $11.96B | vs prior quarter: $10.39B (+15.1%) | vs prior year: $6.04B (+98.1%)
+    - Cost of Revenue: $9.07B | vs prior quarter: $8.17B (+11.0%) | vs prior year: $4.77B (+90.3%)
+    - Gross Profit: $2.88B | vs prior quarter: $2.21B (+30.2%) | vs prior year: $1.27B (+127.6%)
+    - R&D Expense: $576.0M | vs prior quarter: $666.0M (-13.5%) | vs prior year: $279.0M (+106.5%)
+    - SG&A Expense: $973.0M | vs prior quarter: $1.06B (-7.9%) | vs prior year: $661.0M (+47.2%)
+    - Operating Income: $1.31B | vs prior quarter: $594.0M (+120.9%) | vs prior year: $327.0M (+301.2%)
+    - Net Income: $1.14B | vs prior quarter: $438.0M (+160.7%) | vs prior year: $104.0M (+998.1%)
+    - Diluted EPS: $1.02 | vs prior quarter: $0.39 (+161.5%) | vs prior year: $0.10 (+920.0%)
+    - 3 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
+=== Q3 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 7 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Revenue: $13.76B | vs prior quarter: $11.96B (+15.0%) | vs prior year: $8.77B (+56.8%)
+    - Cost of Revenue: $10.10B | vs prior quarter: $9.07B (+11.3%) | vs prior year: $6.71B (+50.5%)
+    - Gross Profit: $3.66B | vs prior quarter: $2.88B (+26.9%) | vs prior year: $2.06B (+77.4%)
+    - R&D Expense: $611.0M | vs prior quarter: $576.0M (+6.1%) | vs prior year: $366.0M (+66.9%)
+    - SG&A Expense: $994.0M | vs prior quarter: $973.0M (+2.2%) | vs prior year: $888.0M (+11.9%)
+    - Operating Income: $2.00B | vs prior quarter: $1.31B (+52.7%) | vs prior year: $809.0M (+147.7%)
+    - Net Income: $1.62B | vs prior quarter: $1.14B (+41.7%) | vs prior year: $331.0M (+388.8%)
+    - Diluted EPS: $0.48 | vs prior quarter: $1.02 (-52.9%) | vs prior year: $0.27 (+77.8%)
+    - 3 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
+=== Q4 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 7 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Revenue: $53.82B | vs prior quarter: — | vs prior year: $10.74B (+401.0%)
+    - Cost of Revenue: $40.22B | vs prior quarter: — | vs prior year: $24.91B (+61.5%)
+    - Gross Profit: $13.61B | vs prior quarter: — | vs prior year: $2.07B (+558.6%)
+    - R&D Expense: $2.59B | vs prior quarter: — | vs prior year: $1.49B (+73.9%)
+    - SG&A Expense: $4.52B | vs prior quarter: — | vs prior year: $3.15B (+43.6%)
+    - Operating Income: $6.52B | vs prior quarter: — | vs prior year: $1.99B (+227.1%)
+    - Net Income: $5.52B | vs prior quarter: — | vs prior year: $270.0M (+1944.1%)
+    - Diluted EPS: $1.63 | vs prior quarter: — | vs prior year: $0.21 (+676.2%)
+  [Footnotes]
+    - 7 real filing table(s) available (see the HTML report).
+
+
+======================================================================
+TOPIC: Cost of goods sold
+======================================================================
+
+[CORE RESEARCH] TSLA: Cost of goods sold
+
+Quarters searched: 4
+Filing sections searched: 77
+
+Over the 2021 reporting periods, cost of goods sold (COGS) showed consistent increases primarily driven by growth in automotive leasing revenue, used vehicle cost of revenue, and costs supporting non-warranty maintenance services and retail merchandise sales. Management highlighted cost reduction efforts and localized procurement as key to vehicle affordability, with specific mention of competitive pricing in China. Sales-type leasing revenue and associated costs became more significant as the leasing program scaled up through the year. Warranty expenses were consistently recorded as part of cost of revenues. Despite these detailed disclosures, management did not provide explicit forward guidance on COGS, focusing instead on qualitative commentary and per-vehicle cost metrics.
+
+Forecasting credibility: None
+No guidance versus actual pairs were provided for cost of goods sold, making it impossible to assess management's forecasting credibility for this topic. The available information consists solely of actual reported figures and qualitative commentary without forward-looking numerical guidance. Therefore, no credibility rating can be assigned based on the evidence.
+
+Trends:
+  - Increasing cost of automotive leasing revenue
+  - Rising used vehicle cost of revenue
+  - Growth in costs supporting non-warranty maintenance services
+  - Expansion of sales-type leasing revenue and costs
+  - Consistent recording of warranty expense within cost of revenues
+
+Recurring themes/risks:
+  - Cost reduction efforts and localized procurement
+  - Impact of increased vehicle volumes on COGS
+  - Introduction and scaling of sales-type leasing programs
+  - Warranty expenses as a component of COGS
+
+Key concerns:
+  - No forward guidance on cost of goods sold limits ability to evaluate forecasting accuracy or management's predictive capability for this key metric.
+  - The shift in cost recognition related to sales-type leasing programs introduces complexity in comparing period-over-period COGS.
+  - No accounting or reporting inconsistencies were noted, but the evolving nature of leasing revenue and associated costs requires careful interpretation.
+
+Conclusion:
+Cost of goods sold increased substantially throughout 2021, driven by higher volumes in automotive leasing, used vehicle sales, and service-related activities. Management emphasized cost reduction initiatives and localized manufacturing to maintain vehicle affordability, particularly in China. The introduction and growth of sales-type leasing programs added new components to COGS, reflected in increasing sales-type leasing costs reported each period. Warranty expenses consistently formed part of COGS, underscoring ongoing service-related cost pressures. However, the absence of forward guidance on COGS prevents an assessment of management's forecasting reliability for this metric, leaving investors reliant on actual reported figures and qualitative explanations.
+
+--- By Reporting Period ---
+
+=== Q1 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [None] [from 10-K/10-Q] Cost of automotive leasing revenue increased $38 million, or 31%, in the three months ended March 31, 2021 as compared to the three months ended March 31, 2020, primarily due to an increase in cumulative vehicles under our direct operating lease program and the introduction of direct sales-type leasing programs which we began offering in volume during the third quarter of 2020 where we recognize all cost of revenue associated with the sales-type lease upon delivery to the customer.
+  - [None] [from 10-K/10-Q] Cost of services and other revenue increased $314 million, or 48%, in the three months ended March 31, 2021 as compared to the three months ended March 31, 2020, primarily due to increases in used vehicle cost of revenue driven by an increase in trade-ins, costs to support our increase in non-warranty maintenance services revenue and costs of retail merchandise as our sales have increased.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Cost of services and other revenue increased $314 million, or 48%, in the three months ended March 31, 2021 as compared to the three months ended March 31, 2020, primarily due to increases in used vehicle cost of revenue driven by an increase in trade-ins, costs to support our increase in non-warranty maintenance services revenue and costs of retail merchandise as our sales have increased.
+    - Automotive—Demand and Sales Our cost reduction efforts and additional localized procurement and manufacturing are key to our vehicles’ affordability, and for example have allowed us to competitively price our vehicles in China.
+  [Financial Statements]
+    - Revenue: $10.39B | vs prior quarter: — | vs prior year: $5.99B (+73.6%)
+    - Cost of Revenue: $8.17B | vs prior quarter: — | vs prior year: $4.75B (+72.0%)
+    - Gross Profit: $2.21B | vs prior quarter: — | vs prior year: $1.23B (+79.5%)
+    - R&D Expense: $666.0M | vs prior quarter: — | vs prior year: $324.0M (+105.6%)
+    - SG&A Expense: $1.06B | vs prior quarter: — | vs prior year: $627.0M (+68.4%)
+    - Operating Income: $594.0M | vs prior quarter: — | vs prior year: $283.0M (+109.9%)
+    - Net Income: $438.0M | vs prior quarter: — | vs prior year: $16.0M (+2637.5%)
+    - Diluted EPS: $0.39 | vs prior quarter: — | vs prior year: $0.02 (+1850.0%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+    - Warranty expense is recorded as a component of Cost of revenues in the consolidated statements of operations.
+  [Risk Factors]
+    - Our guidance is based on certain assumptions such as those relating to anticipated production and sales volumes (which generally are not linear throughout a given period), average sales prices, supplier and commodity costs and planned cost reductions.
+
+=== Q2 2021 ===
+Management said:
+  - Your cost of goods sold per vehicle is already down to the mid $37,000 range in the quarter, it's down $5,000 year over year despite some of the inefficiencies that you talked about.
+Guidance given:
+Actual reported:
+  - [None] [from 10-K/10-Q] For the three and six months ended June 30, 2021, we recognized $ 55 million and $ 97 million, respectively, of sales-type leasing revenue and $ 36 million and $ 62 million, respectively, of sales-type leasing cost of revenue.
+  - [None] Your cost of goods sold per vehicle is already down to the mid $37,000 range in the quarter, it's down $5,000 year over year despite some of the inefficiencies that you talked about.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Automotive—Demand and Sales Our cost reduction efforts and additional localized procurement and manufacturing are key to our vehicles’ affordability, and for example have allowed us to competitively price our vehicles in China.
+  [Financial Statements]
+    - Revenue: $11.96B | vs prior quarter: $10.39B (+15.1%) | vs prior year: $6.04B (+98.1%)
+    - Cost of Revenue: $9.07B | vs prior quarter: $8.17B (+11.0%) | vs prior year: $4.77B (+90.3%)
+    - Gross Profit: $2.88B | vs prior quarter: $2.21B (+30.2%) | vs prior year: $1.27B (+127.6%)
+    - R&D Expense: $576.0M | vs prior quarter: $666.0M (-13.5%) | vs prior year: $279.0M (+106.5%)
+    - SG&A Expense: $973.0M | vs prior quarter: $1.06B (-7.9%) | vs prior year: $661.0M (+47.2%)
+    - Operating Income: $1.31B | vs prior quarter: $594.0M (+120.9%) | vs prior year: $327.0M (+301.2%)
+    - Net Income: $1.14B | vs prior quarter: $438.0M (+160.7%) | vs prior year: $104.0M (+998.1%)
+    - Diluted EPS: $1.02 | vs prior quarter: $0.39 (+161.5%) | vs prior year: $0.10 (+920.0%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+    - There was no material sales-type leasing revenue or associated cost of revenue recognized in the three and six months ended June 30, 2020 as we introduced this offering in volume during the third quarter of 2020.
+    - Warranty expense is recorded as a component of Cost of revenues in the consolidated statements of operations.
+  [Risk Factors]
+    - Our guidance is based on certain assumptions such as those relating to anticipated production and sales volumes (which generally are not linear throughout a given period), average sales prices, supplier and commodity costs and planned cost reductions.
+
+=== Q3 2021 ===
+Management said:
+  - So, when a product starts launching and then cost of goods sold starts to activate, depreciation starts to activate, there's a bit of a movement in the P&L as to where that cost resides.
+Guidance given:
+Actual reported:
+  - [None] [from 10-K/10-Q] For the three and nine months ended September 30, 2021, we recognized $ 59 million and $ 156 million, respectively, of sales-type leasing revenue and $ 35 million and $ 97 million, respectively, of sales-type leasing cost of revenue.
+  - [None] [from 10-K/10-Q] Cost of services and other revenue increased $266 million, or 41%, in the three months ended September 30, 2021 as compared to the three months ended September 30, 2020, primarily due to increases in costs to support our increase in non-warranty maintenance services revenue, used vehicle cost of revenue driven by increases in volume and values of trade-ins and costs of retail merchandise as our sales have increased.
+  - [None] [from 10-K/10-Q] Cost of services and other revenue increased $1.01 billion, or 54%, in the nine months ended September 30, 2021 as compared to the nine months ended September 30, 2020, primarily due to increases in used vehicle cost of revenue driven by increases in volume and values of trade-ins, costs to support our increase in non-warranty maintenance services revenue and costs of retail merchandise as our sales have increased.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Cost of services and other revenue increased $266 million, or 41%, in the three months ended September 30, 2021 as compared to the three months ended September 30, 2020, primarily due to increases in costs to support our increase in non-warranty maintenance services revenue, used vehicle cost of revenue driven by increases in volume and values of trade-ins and costs of retail merchandise as our sales have increased.
+    - Cost of services and other revenue increased $1.01 billion, or 54%, in the nine months ended September 30, 2021 as compared to the nine months ended September 30, 2020, primarily due to increases in used vehicle cost of revenue driven by increases in volume and values of trade-ins, costs to support our increase in non-warranty maintenance services revenue and costs of retail merchandise as our sales have increased.
+    - Automotive—Demand and Sales Our cost reduction efforts and additional localized procurement and manufacturing are key to our vehicles’ affordability, and for example, have allowed us to competitively price our vehicles in China.
+  [Financial Statements]
+    - Revenue: $13.76B | vs prior quarter: $11.96B (+15.0%) | vs prior year: $8.77B (+56.8%)
+    - Cost of Revenue: $10.10B | vs prior quarter: $9.07B (+11.3%) | vs prior year: $6.71B (+50.5%)
+    - Gross Profit: $3.66B | vs prior quarter: $2.88B (+26.9%) | vs prior year: $2.06B (+77.4%)
+    - R&D Expense: $611.0M | vs prior quarter: $576.0M (+6.1%) | vs prior year: $366.0M (+66.9%)
+    - SG&A Expense: $994.0M | vs prior quarter: $973.0M (+2.2%) | vs prior year: $888.0M (+11.9%)
+    - Operating Income: $2.00B | vs prior quarter: $1.31B (+52.7%) | vs prior year: $809.0M (+147.7%)
+    - Net Income: $1.62B | vs prior quarter: $1.14B (+41.7%) | vs prior year: $331.0M (+388.8%)
+    - Diluted EPS: $0.48 | vs prior quarter: $1.02 (-52.9%) | vs prior year: $0.27 (+77.8%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+    - For the three and nine months ended September 30, 2020 , we recognized $ 59 million and $ 63 million, respectively, of sales-typing leasing revenue and $ 41 million and $ 44 million, respectively, of sales-type leasing cost of revenue.
+    - Warranty expense is recorded as a component of Cost of revenues in the consolidated statements of operations.
+  [Risk Factors]
+    - Our guidance is based on certain assumptions such as those relating to anticipated production and sales volumes (which generally are not linear throughout a given period), average sales prices, supplier and commodity costs and planned cost reductions.
+    - Additionally, we may be unsuccessful in our continuous efforts to negotiate with existing suppliers to obtain cost reductions and avoid unfavorable changes to terms, source less expensive suppliers for certain parts and redesign certain parts to make them less expensive to produce, especially in light of the increases in materials pricing.
+
+=== Q4 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [None] [from 10-K/10-Q] For the years ended December 31, 2021 and 2020, we recognized $ 369 million and $ 120 million, respectively, of sales-type leasing revenue and $ 234 million and $ 87 million, respectively, of sales-type leasing cost of revenue.
+  - [None] [from 10-K/10-Q] Cost of automotive leasing revenue increased $415 million, or 74%, in the year ended December 31, 2021 as compared to the year ended December 31, 2020, primarily due to an increase in cumulative vehicles under our direct operating lease program and an increase in direct sales-type leasing cost of revenues from more sales in the current year.
+  - [None] [from 10-K/10-Q] Cost of services and other revenue increased $1.24 billion, or 46%, in the year ended December 31, 2021 as compared to the year ended December 31, 2020, primarily due to an increase in used vehicle cost of revenue driven by increases in volume and costs of non-Tesla used vehicles, costs to support our increase in non-warranty maintenance services revenue and costs of retail merchandise as our sales have increased.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Cost of services and other revenue increased $1.24 billion, or 46%, in the year ended December 31, 2021 as compared to the year ended December 31, 2020, primarily due to an increase in used vehicle cost of revenue driven by increases in volume and costs of non-Tesla used vehicles, costs to support our increase in non-warranty maintenance services revenue and costs of retail merchandise as our sales have increased.
+    - Automotive—Demand and Sales Our cost reduction efforts and additional localized procurement and manufacturing are key to our vehicles’ affordability, and for example, have allowed us to competitively price our vehicles in China.
+    - Warranty expense is recorded as a component of Cost of revenues in the consolidated statements of operations.
+  [Financial Statements]
+    - Revenue: $53.82B | vs prior quarter: — | vs prior year: $10.74B (+401.0%)
+    - Cost of Revenue: $40.22B | vs prior quarter: — | vs prior year: $24.91B (+61.5%)
+    - Gross Profit: $13.61B | vs prior quarter: — | vs prior year: $2.07B (+558.6%)
+    - R&D Expense: $2.59B | vs prior quarter: — | vs prior year: $1.49B (+73.9%)
+    - SG&A Expense: $4.52B | vs prior quarter: — | vs prior year: $3.15B (+43.6%)
+    - Operating Income: $6.52B | vs prior quarter: — | vs prior year: $1.99B (+227.1%)
+    - Net Income: $5.52B | vs prior quarter: — | vs prior year: $270.0M (+1944.1%)
+    - Diluted EPS: $1.63 | vs prior quarter: — | vs prior year: $0.21 (+676.2%)
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - Our guidance is based on certain assumptions such as those relating to anticipated production and sales volumes (which generally are not linear throughout a given period), average sales prices, supplier and commodity costs and planned cost reductions.
+    - Additionally, we may be unsuccessful in our continuous efforts to negotiate with existing suppliers to obtain cost reductions and avoid unfavorable changes to terms, source less expensive suppliers for certain parts and redesign certain parts to make them less expensive to produce, especially in light of the increases in materials pricing.
+
