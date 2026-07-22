@@ -1,0 +1,31 @@
+[AMZN_Q2_2021] What did Amazon say about AWS margins in Q1 and Q2 2021?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #105]  I guess sort of masked in the headline results is actually pretty solid performance in the higher-margin segments of the business, including third-party services, subscriptions, [white on yellow]AWS[/white on yellow] and advertising.
+2. [Sentence #129]  If you look at the last quarter, [white on yellow]AWS[/white on yellow] added more revenue quarter over quarter and year over year than any quarter in our history.
+3. [Sentence #279]  Was there anything around reopening that made second-quarter [white on yellow]AWS[/white on yellow] exceptionally strong and that we should kind of keep in mind going forward?
+4. [Sentence #280]  Or do we feel like this was kind of a normal quarter for kind of [white on yellow]AWS[/white on yellow] and this is kind of a good cadence for the business?
+5. [Sentence #298]  On [white on yellow]AWS[/white on yellow] growth, if you look at the run rate last year, we had 33% growth rate in Q1, and it dropped to 29%, 29% to 28% the last three quarters.
+6. [Sentence #300]  If you'll remember, we worked -- we actually worked very hard with our customers to help them lower their demand for [white on yellow]AWS[/white on yellow] services as best we could to match any new demand patterns.
+7. [Sentence #302]  Companies like Disney+, Netflix and others were very glad that [white on yellow]AWS[/white on yellow] was there to help them scale to meet volumes very quickly.
+8. [Sentence #310]  No one's really mentioned the CEO change, so I was wondering if -- he's not in the call but any change in direction, investment philosophies or any more integration of [white on yellow]AWS[/white on yellow] or anything that we should be aware of related to that change?
+9. [Sentence #311]  And then second, [white on yellow][white on yellow]AWS[/white on yellow] [white on yellow]margins[/white on yellow][/white on yellow], really strong revenues.
+10. [Sentence #317]  So again, at any point in time, there's a lot of cost pressures in the operating [white on yellow]margins[/white on yellow] of [white on yellow]AWS[/white on yellow].
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #298]  (Similarity: 1.018) On [white on yellow]AWS[/white on yellow] growth, if you look at the run rate last year, we had 33% growth rate in Q1, and it dropped to 29%, 29% to 28% the last three quarters.
+2. [Sentence #311]  (Similarity: 0.815) And then second, [white on yellow][white on yellow]AWS[/white on yellow] [white on yellow]margins[/white on yellow][/white on yellow], really strong revenues.
+3. [Sentence #317]  (Similarity: 0.689) So again, at any point in time, there's a lot of cost pressures in the operating [white on yellow]margins[/white on yellow] of [white on yellow]AWS[/white on yellow].
+4. [Sentence #129]  (Similarity: 0.670) If you look at the last quarter, [white on yellow]AWS[/white on yellow] added more revenue quarter over quarter and year over year than any quarter in our history.
+5. [Sentence #302]  (Similarity: 0.665) Companies like Disney+, Netflix and others were very glad that [white on yellow]AWS[/white on yellow] was there to help them scale to meet volumes very quickly.
+6. [Sentence #105]  (Similarity: 0.641) I guess sort of masked in the headline results is actually pretty solid performance in the higher-margin segments of the business, including third-party services, subscriptions, [white on yellow]AWS[/white on yellow] and advertising.
+7. [Sentence #279]  (Similarity: 0.635) Was there anything around reopening that made second-quarter [white on yellow]AWS[/white on yellow] exceptionally strong and that we should kind of keep in mind going forward?
+8. [Sentence #300]  (Similarity: 0.633) If you'll remember, we worked -- we actually worked very hard with our customers to help them lower their demand for [white on yellow]AWS[/white on yellow] services as best we could to match any new demand patterns.
+9. [Sentence #280]  (Similarity: 0.622) Or do we feel like this was kind of a normal quarter for kind of [white on yellow]AWS[/white on yellow] and this is kind of a good cadence for the business?
+10. [Sentence #310]  (Similarity: 0.620) No one's really mentioned the CEO change, so I was wondering if -- he's not in the call but any change in direction, investment philosophies or any more integration of [white on yellow]AWS[/white on yellow] or anything that we should be aware of related to that change?
+
+Total similarity-top evidence sentences: 10
+
+-----
