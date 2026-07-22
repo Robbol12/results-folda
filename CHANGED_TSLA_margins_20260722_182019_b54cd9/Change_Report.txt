@@ -1,0 +1,17 @@
+[WHAT CHANGED SINCE LAST QUARTER] TSLA: margins
+
+Quarters compared: TSLA_Q3_2025, TSLA_Q4_2025
+Change detected: True
+
+In the previous quarter, management expressed confidence that margins would not be sacrificed despite high demand, indicating a positive outlook without specific numbers. In the current quarter, management provided concrete margin figures, showing a sequential improvement in automotive margins from 15.4% to 17.9%, despite a 16% drop in deliveries, highlighting a stronger and more detailed margin performance.
+
+Key quotes:
+  - Do I think we'll sacrifice margins? I don't think so. I think the demand will be pretty nutty.
+  - Automotive margins, excluding credits, improved sequentially from 15.4% to 17.9%. Automotive gross profit was flat sequentially despite 16% lower deliveries, primarily due to regional mix as we had proportionately more deliveries in APAC and EMEA.
+
+--- Evidence (with surrounding context) ---
+1. [TSLA_Q3_2025] It's just aiming for a gentle ride the whole time. That's what Cyber Cap is. Do I think we'll sacrifice margins? I don't think so. I think the demand will be pretty nutty.
+
+2. [TSLA_Q4_2025] On the storage front, we hit yet another record in terms of deployments. I would like to thank our customers and Tesla, Inc. for continuing this momentum. On the automotive margins front, automotive margins, excluding credits, improved sequentially from 15.4% to 17.9%. Automotive gross profit was flat sequentially despite 16% lower deliveries, primarily due to regional mix as we had proportionately more deliveries in APAC and EMEA. As we look to 2026, with the progress that has been made with autonomy, our focus is on ramping production at all our factories.
+
+Total evidence entries: 2
