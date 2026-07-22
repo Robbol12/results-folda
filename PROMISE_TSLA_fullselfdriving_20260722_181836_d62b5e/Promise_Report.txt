@@ -1,0 +1,126 @@
+[PROMISE TRACKING] TSLA: full self driving
+
+VERDICT: Still Pending (confidence: high)
+
+From Q1 2019 through Q4 2021, Tesla management consistently discussed plans, pilots, and ongoing development of Full Self-Driving (FSD) technology without ever confirming full-scale delivery. Early statements in 2019 set ambitious goals such as 1 million robo taxis by 2020, but subsequent quarters reveal cautious optimism, incremental feature rollouts, and beta testing rather than full deployment. Despite progress and expanded beta programs, management repeatedly emphasized that FSD was not yet complete or fully functional, with safety and regulatory approval still outstanding as of the latest quarter.
+
+Key quotes:
+  - [TSLA_Q1_2019] [PLAN] "And in 2020, we expect to have 1 million robo taxis on the road with the hardware necessary for full self-driving."
+  - [TSLA_Q3_2019] [PLAN] "I do -- while it's going to be tight, it still does appear that we will be at least in limited -- in early access release of a feature-complete Full Self-Driving feature this year."
+  - [TSLA_Q4_2021] [UNCERTAIN] "And my personal guess is that we'll achieve Full Self-Driving this year, yes, with data safety level significantly greater than present."
+
+Quarters searched: TSLA_Q1_2019, TSLA_Q2_2019, TSLA_Q3_2019, TSLA_Q4_2019, TSLA_Q1_2020, TSLA_Q2_2020, TSLA_Q3_2020, TSLA_Q4_2020, TSLA_Q1_2021, TSLA_Q2_2021, TSLA_Q3_2021, TSLA_Q4_2021
+Quarters with mentions: TSLA_Q1_2019, TSLA_Q2_2019, TSLA_Q3_2019, TSLA_Q4_2019, TSLA_Q1_2020, TSLA_Q2_2020, TSLA_Q3_2020, TSLA_Q4_2020, TSLA_Q1_2021, TSLA_Q2_2021, TSLA_Q3_2021, TSLA_Q4_2021
+
+--- Evidence Timeline ---
+1. [TSLA_Q1_2019] [UNCERTAIN] We are the only company in the world producing our own vehicles and batteries as well as our own in-house chip for full self-driving.
+
+2. [TSLA_Q1_2019] [UNCERTAIN] On Monday, we hosted our first ever Autonomy Investor Day showcasing our new in-house design full self-driving computer and our AI-based software trained by more than 400,000 Tesla vehicles.
+
+3. [TSLA_Q1_2019] [UNCERTAIN] And I am very excited about the future for other products, especially for full self-driving, which will fundamentally transform transport as we know it.
+
+4. [TSLA_Q1_2019] [PLAN] And in 2020, we expect to have 1 million robo taxis on the road with the hardware necessary for full self-driving.
+
+5. [TSLA_Q1_2019] [UNCERTAIN] And then the third piece which applies to S and X, but also Model 3, we’re seeing an increased take rate on our full Self-Driving offering.
+
+6. [TSLA_Q2_2019] [UNCERTAIN] So, the revenue recognition on the full self-driving option is limited at first until those features roll out and also the demand for full self-driving package is limited because the features are mostly prospective instead of current.
+
+7. [TSLA_Q2_2019] [PLAN] But as those features roll out, I would expect the take rate for full self-driving to increase significantly as well as the recognition -- revenue recognition for full self-driving to obviously match the roll out of the product.
+
+8. [TSLA_Q2_2019] [PLAN] Elon Musk Yeah, we expect to be able to offer full self-driving actually everywhere except EU, because there's just some committee rules that were put in place years ago that needs to be changed.
+
+9. [TSLA_Q2_2019] [UNCERTAIN] Note that we continue to defer a significant portion of revenue associated with full self-driving, which will be recognized in future periods upon the release of additional features.
+
+10. [TSLA_Q2_2019] [UNCERTAIN] On the gross margin point, like the full self-driving is just – is an extremely important part of the margin calculation, and the features for full self-driving are – only a portion of them have rolled out.
+
+11. [TSLA_Q3_2019] [UNCERTAIN] There is skepticism regarding your comment that the full self-driving will be feature-complete by year-end, like resulting from confusion about feature-complete, what feature-complete means.
+
+12. [TSLA_Q3_2019] [UNCERTAIN] So, it's not for sure, but it appears to be on track for at least an early access release of a fully functional Full Self-Driving by the end of this year.
+
+13. [TSLA_Q3_2019] [UNCERTAIN] But then, the next step will be full self-driving with Smart Summon being kind of the beginning of that.
+
+14. [TSLA_Q3_2019] [PLAN] I do -- while it's going to be tight, it still does appear that we will be at least in limited -- in early access release of a feature-complete Full Self-Driving feature this year.
+
+15. [TSLA_Q3_2019] [PILOT] And this is really just the beginning as we collect more data and Autopilot and Full Self-Driving functionality get better.
+
+16. [TSLA_Q4_2019] [PILOT] And what isn't obvious regarding Autopilot and full self-driving is just how much work has been going into improving the foundational elements of autonomy.
+
+17. [TSLA_Q4_2019] [UNCERTAIN] And as we're close to full self-driving that is just going to become more and more compelling.
+
+18. [TSLA_Q4_2019] [UNCERTAIN] So, do people buy the full self-driving package or not and do that buy it worldwide or only in certain places.
+
+19. [TSLA_Q4_2019] [UNCERTAIN] And in conclusion when I think of what we have in front of us, the next couple of years, we've got Model Y, we've got Giga Berlin, Tesla Semi, Solarglass Roof, Cybertruck some very exciting improvements in battery technology for the full self-driving, we got the next-gen Roadster and probably in a bunch of other products we'll [indiscernible] too.
+
+20. [TSLA_Q4_2019] [UNCERTAIN] Elon Musk Well, I think it's – it probably will make sense to have like to enable car sharing in advance of the kind of sort of drive robo-taxi fleet because the car sharing can be done before full self-driving is approved by regulators.
+
+21. [TSLA_Q1_2020] [PLAN] Elon Musk I think we will offer Full Self-Driving as a subscription service, but it will be probably towards the end of this year.
+
+22. [TSLA_Q1_2020] [UNCERTAIN] Zachary Kirkhorn So there is a couple of things on the financials for Full Self-Driving.
+
+23. [TSLA_Q1_2020] [UNCERTAIN] And the last question from institutional investors, could you please update on progress stores development and commercialization of Full Self-Driving?
+
+24. [TSLA_Q1_2020] [PILOT] Regarding Autopilot, we released a new software update for traffic lights and stop signs to Early Access Users in March and to all U.S. customers with Full Self-Driving package just last week.
+
+25. [TSLA_Q1_2020] [PILOT] There's also a tremendous amount of untapped potential in the beat out there that could upgrade to turn on Autopilot -- basic Autopilot or Full Self-Driving.
+
+26. [TSLA_Q2_2020] [UNCERTAIN] And then for full self-driving, we launched traffic lights and stop signs and we continue to improve that to make them more robust.
+
+27. [TSLA_Q2_2020] [UNCERTAIN] So this is why I'm very confident about full self-driving functionality being complete by the end of this year.
+
+28. [TSLA_Q2_2020] [UNCERTAIN] And we're currently testing full self-driving software for intersections and city streets and narrow streets.
+
+29. [TSLA_Q2_2020] [UNCERTAIN] So, that architectural change, which has been underway for some time but has not really been rolled out to anyone in the production fleet, is what really matters for full self-driving.
+
+30. [TSLA_Q2_2020] [UNCERTAIN] So I personally tested the latest Alpha build of the full self-driving software when I drive my car.
+
+31. [TSLA_Q3_2020] [UNCERTAIN] Regarding the Full Self-Driving beta release.
+
+32. [TSLA_Q3_2020] [UNCERTAIN] And once you solve pass optical, you've solved self-driving.
+
+33. [TSLA_Q3_2020] [UNCERTAIN] So you have to sell past optical for to have a self-driving system that is generally a solution.
+
+34. [TSLA_Q4_2020] [UNCERTAIN] Then with regard to Full Self-Driving, we've made massive progress on Full Self-Driving.
+
+35. [TSLA_Q4_2020] [UNCERTAIN] But since we can achieve FSD, Full Self-Driving, with the current system, it would actually be a distraction right now if we were to introduce the Full Self-Driving, the Tesla FSD chip 2 because it would set us back quite a bit on software.
+
+36. [TSLA_Q4_2020] [UNCERTAIN] It is really just incredibly powerful computer and I am personally certain that you can create full self-driving with safe level 5 presence just using the Full Self-Driving version 1 computer.
+
+37. [TSLA_Q4_2020] [UNCERTAIN] And software is the critical path to Full Self-Driving.
+
+38. [TSLA_Q4_2020] [PILOT] And -- but I think, obviously, like we need to probably do a little bit more work to prove that Tesla Autopilot is capable of full self-driving, which is, I think, will become obvious later this year.
+
+39. [TSLA_Q1_2021] [UNCERTAIN] Then with regard to Full Self-Driving, Full Self-Driving beta continues to make great progress.
+
+40. [TSLA_Q1_2021] [UNCERTAIN] I think we are developing one of the strongest hardware and software AI teams in the world and so we appear to be able to do things with Self-Driving that others cannot.
+
+41. [TSLA_Q1_2021] [UNCERTAIN] So and if you look at the evolution of what technologies we have developed, we developed them in order to solve the problem of Self-Driving.
+
+42. [TSLA_Q2_2021] [UNCERTAIN] Really, Full Self-Driving is the main thing.
+
+43. [TSLA_Q2_2021] [UNCERTAIN] And we're making great progress on Full Self-Driving.
+
+44. [TSLA_Q2_2021] [UNCERTAIN] So I'm highly confident that the cars will be capable of Full Self-Driving.
+
+45. [TSLA_Q2_2021] [UNCERTAIN] Full Self-Driving computer and the cameras, I'm confident that they will be able to drive themselves with the safety levels substantially greater than that of the average person.
+
+46. [TSLA_Q2_2021] [UNCERTAIN] We need to make Full Self-Driving work in order for it to be a compelling value proposition.
+
+47. [TSLA_Q3_2021] [UNCERTAIN] When you are using full self-driving and you're going to the iterations, you can feel the progress.
+
+48. [TSLA_Q3_2021] [UNCERTAIN] As full self-driving matures, as take rates increase, if we are to raise pricing on that, there's considerable upside both on gross margins and operating margin as that comes to light, as the business starts to become more of a mix of a hardware-based Company and a software-based Company.
+
+49. [TSLA_Q3_2021] [UNCERTAIN] And we're excited to have expanded the full self-driving beta program to more customers.
+
+50. [TSLA_Q3_2021] [UNCERTAIN] The second thing that I'll note is that if you look at the pricing, the monthly pricing of FSD subscription, and then you compare that to the cost of rolling FSD option into your lease or you loan, on a monthly basis to note the economical way for a customer to enjoy the features of full self-driving is through purchasing it upfront and enrolling into their financing.
+
+51. [TSLA_Q4_2021] [NO EVIDENCE] Full Self-Driving.
+
+52. [TSLA_Q4_2021] [UNCERTAIN] And my personal guess is that we'll achieve Full Self-Driving this year, yes, with data safety level significantly greater than present.
+
+53. [TSLA_Q4_2021] [UNCERTAIN] As Full Self-Driving features get rolled out to more and more folks, I mean, for me, personally, I prefer to drive my car with the FSD data on.
+
+54. [TSLA_Q4_2021] [UNCERTAIN] So, over time, we think Full Self-Driving will become the most important source of profitability for Tesla.
+
+55. [TSLA_Q4_2021] [UNCERTAIN] I mean, it's apparent from the questions that the gravity of Full Self-Driving is not fully appreciated.
+
+Total timeline entries: 55 (55 after grouping repeats)
