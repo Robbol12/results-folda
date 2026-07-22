@@ -1,0 +1,43 @@
+[GUIDANCE VS ACTUAL] VST: capacity
+
+SUMMARY: Found 3 guidance point(s) for 'capacity': 2 met/exceeded, 0 missed, 1 unresolved.
+(confidence: medium)
+
+Quarters searched: VST_Q1_2019, VST_Q2_2019, VST_Q3_2019, VST_Q4_2019, VST_Q1_2020, VST_Q2_2020, VST_Q3_2020, VST_Q4_2020
+Quarters with mentions: VST_Q1_2019, VST_Q2_2019, VST_Q3_2019, VST_Q4_2019, VST_Q1_2020, VST_Q2_2020, VST_Q4_2020
+
+--- Guidance vs Actual Pairs ---
+1. Verdict: Met
+   Guidance [VST_Q2_2019]: This generation capacity is likely to act as a long-term supply and demand calibration feature in the market with the market reaction and calibration quicker and less volatile given the new build is forecast to come in lower megawatt increments via renewable development.
+   Actual [VST_Q4_2019]: Focusing on the fourth quarter, our 2019 results were, $55 million higher than the same period in 2018, driven by the additions of Crius and Ambit and higher gross margins in ERCOT generation, partially offset by lower capacity revenue in our PJM and New York, New England generation segments.
+   The guidance was qualitative about capacity acting as a calibration feature with lower increments via renewables, and the actual reported higher results driven by additions and higher margins, which does not contradict the guidance.
+
+2. Verdict: Met
+   Guidance [VST_Q3_2019]: And the scenarios that we evaluated included the addition of up to 50 gigawatts of new renewable assets, including approximately six gigawatts of battery storage with no sustained transmission capacity constraints, although we do expect there will be price differentials by zone.
+     Target: up to 50 gigawatts of new renewable assets, including ~6 gigawatts battery storage
+   Actual [VST_Q4_2019]: Focusing on the fourth quarter, our 2019 results were, $55 million higher than the same period in 2018, driven by the additions of Crius and Ambit and higher gross margins in ERCOT generation, partially offset by lower capacity revenue in our PJM and New York, New England generation segments.
+   The guidance mentioned potential additions of up to 50 gigawatts of renewables including battery storage, and the actual did not contradict this scenario, so the verdict is Met given no contrary evidence.
+
+3. Verdict: Unresolved
+   Guidance [VST_Q1_2019]: As you can see in the chart on Slide 8, which is based on the ERCOT Capacity Demand and Reserve report, or CDR, adjusted for the announced Gibbons Creek and Oklaunion retirements, reserve margins are forecast to remain very low through 2023, reaching levels that are less than half of the targeted reserve margin ERCOT recommends by 2023.
+     Target: reserve margins less than half of targeted reserve margin by 2023
+   No actual result found for this guidance's target period.
+
+Total pairs identified: 3
+
+--- Relevant Evidence Without a Clean Pair ---
+1. [VST_Q2_2019] In a market with over 180,000 megawatts of installed capacity, it takes a meaningful amount of incremental new supply or retirements to move the market in one direction or the other, as we show in the chart on the right side of the slide.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+2. [VST_Q2_2019] From 2014 to 2019, PJM has seen cumulative net additions of nearly 5,000 megawatts capacity while the average CCGT has still earned between approximately $9 to $13 per KW a month from energy and capacity revenues, a very stable revenue profile year over year on a relative basis.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+3. [VST_Q2_2019] As a result, the CDR consistently overestimates new build in the market, and many ERCOT experts have been reserved, if not skeptical, regarding the level of planned capacity in the CDR.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+4. [VST_Q2_2019] ERCOT itself regularly clarifies that historically, only some of the new capacity represented in the CDR actually gets built.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+5. [VST_Q2_2020] In addition, we increased the capacity of our Oakland project by more than 80%.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
