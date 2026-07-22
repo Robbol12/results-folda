@@ -1,0 +1,33 @@
+[TSLA_Q2_2022] What did Tesla say about battery cell costs in 2022?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #270]  How is the situation with regards to supply of semiconductors, [white on yellow]battery[/white on yellow] cells and other components?
+2. [Sentence #279]  We’ve grown [white on yellow]cell[/white on yellow] production significantly on a 12-month rolling basis and have long-term contracts with all our partners for key [white on yellow]battery[/white on yellow] metals.
+3. [Sentence #302]  And I’d love to understand where you stand on the technology and efficiency and energy density road map that you described at the [white on yellow]Battery[/white on yellow] Day.
+4. [Sentence #303]  So what I’m trying to understand is where do you stand on the architecture of the [white on yellow]battery[/white on yellow] [white on yellow]cell[/white on yellow] itself?
+5. [Sentence #328]  Elon Musk
+
+But I should also emphasize that it is not as though Tesla intends to displace our suppliers of [white on yellow]battery[/white on yellow] cells.
+6. [Sentence #329]  The Tesla [white on yellow]battery[/white on yellow] [white on yellow]cell[/white on yellow] production is in addition to what our suppliers can do.
+7. [Sentence #339]  Elon Musk
+
+People often ask me, if you often ask me, is some breakthrough needed in [white on yellow]battery[/white on yellow] technology for the world to transition to sustainability?
+
+Total transcript-order evidence sentences: 7
+
+--- Evidence by Similarity ---
+1. [Sentence #328]  (Similarity: 0.962) Elon Musk
+
+But I should also emphasize that it is not as though Tesla intends to displace our suppliers of [white on yellow]battery[/white on yellow] cells.
+2. [Sentence #329]  (Similarity: 0.827) The Tesla [white on yellow]battery[/white on yellow] [white on yellow]cell[/white on yellow] production is in addition to what our suppliers can do.
+3. [Sentence #270]  (Similarity: 0.711) How is the situation with regards to supply of semiconductors, [white on yellow]battery[/white on yellow] cells and other components?
+4. [Sentence #279]  (Similarity: 0.670) We’ve grown [white on yellow]cell[/white on yellow] production significantly on a 12-month rolling basis and have long-term contracts with all our partners for key [white on yellow]battery[/white on yellow] metals.
+5. [Sentence #303]  (Similarity: 0.638) So what I’m trying to understand is where do you stand on the architecture of the [white on yellow]battery[/white on yellow] [white on yellow]cell[/white on yellow] itself?
+6. [Sentence #302]  (Similarity: 0.613) And I’d love to understand where you stand on the technology and efficiency and energy density road map that you described at the [white on yellow]Battery[/white on yellow] Day.
+7. [Sentence #339]  (Similarity: 0.607) Elon Musk
+
+People often ask me, if you often ask me, is some breakthrough needed in [white on yellow]battery[/white on yellow] technology for the world to transition to sustainability?
+
+Total similarity-top evidence sentences: 7
+
+-----

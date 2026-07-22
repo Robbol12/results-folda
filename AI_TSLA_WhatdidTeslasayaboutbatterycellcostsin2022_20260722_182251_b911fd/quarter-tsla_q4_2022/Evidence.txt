@@ -1,0 +1,21 @@
+[TSLA_Q4_2022] What did Tesla say about battery cell costs in 2022?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #46]  And we've got an amazing plan for making the 4680 [white on yellow]cell[/white on yellow] low-cost and high energy density.
+2. [Sentence #64]  So as Elon mentioned, 2022 was a terrific year for Tesla.
+3. [Sentence #106]  The next investor question is, will Tesla be able to take full advantage of advanced manufacturing production credits for [white on yellow]battery[/white on yellow] cells packs?
+4. [Sentence #275]  And then lastly, on cost, do you think that we can tease out an interesting data point from on where [white on yellow]battery[/white on yellow] [white on yellow]costs[/white on yellow] are headed from this announcement that you just made last night?
+5. [Sentence #279]  I mean, the goals we've outlaid at [white on yellow]Battery[/white on yellow] Day on using the investment required to deploy [white on yellow]cell[/white on yellow] manufacturing, I mean, that's been a key focus of ours and the team is doing a good job hitting the marks on that focus.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #64]  (Similarity: 0.822) So as Elon mentioned, 2022 was a terrific year for Tesla.
+2. [Sentence #106]  (Similarity: 0.745) The next investor question is, will Tesla be able to take full advantage of advanced manufacturing production credits for [white on yellow]battery[/white on yellow] cells packs?
+3. [Sentence #275]  (Similarity: 0.689) And then lastly, on cost, do you think that we can tease out an interesting data point from on where [white on yellow]battery[/white on yellow] [white on yellow]costs[/white on yellow] are headed from this announcement that you just made last night?
+4. [Sentence #279]  (Similarity: 0.678) I mean, the goals we've outlaid at [white on yellow]Battery[/white on yellow] Day on using the investment required to deploy [white on yellow]cell[/white on yellow] manufacturing, I mean, that's been a key focus of ours and the team is doing a good job hitting the marks on that focus.
+5. [Sentence #46]  (Similarity: 0.630) And we've got an amazing plan for making the 4680 [white on yellow]cell[/white on yellow] low-cost and high energy density.
+
+Total similarity-top evidence sentences: 5
+
+-----

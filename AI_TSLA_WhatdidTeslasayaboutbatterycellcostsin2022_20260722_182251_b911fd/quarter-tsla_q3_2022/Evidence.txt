@@ -1,0 +1,27 @@
+[TSLA_Q3_2022] What did Tesla say about battery cell costs in 2022?
+
+--- Evidence in Transcript Order ---
+1. [Sentence #107]  The first shareholder question is, given the stringent [white on yellow]battery[/white on yellow] content and assembly requirements for consumer tax credit eligibility under the Inflation Reduction Act, can you speak to Tesla’s ability to meet those thresholds in each of 2023, 2024 and 2025 through your existing and planned supply chain?
+2. [Sentence #307]  But what we are seeing is practical improvements as we redesign the whole supply chain and all of the elements that go into [white on yellow]battery[/white on yellow] [white on yellow]cell[/white on yellow].
+3. [Sentence #399]  But in electric vehicles, things like [white on yellow]battery[/white on yellow]-grade lithium are still crazy expensive.
+4. [Sentence #454]  And then, question number two, on the kind of like innovation and cost reduction and efficiency improvements kind of path that you described at the [white on yellow]battery[/white on yellow] day, where are we today?
+5. [Sentence #472]  And I think -- we still feel confident that 4680 will be the most competitive [white on yellow]battery[/white on yellow] [white on yellow]cell[/white on yellow] in the world.
+6. [Sentence #480]  And for those who watched the YouTube videos, like our on-site cathode facilities coming together, I’m really excited about that, which is a part of the plan that we discussed on [white on yellow]Battery[/white on yellow] Day.
+7. [Sentence #484]  So, we’re making -- putting our money where our mouths are and all the various efforts that we discussed on [white on yellow]Battery[/white on yellow] Day.
+8. [Sentence #527]  But it’s worth bearing in mind like there are entire highly competitive companies that are very smart that all they do is make [white on yellow]battery[/white on yellow] cells.
+
+Total transcript-order evidence sentences: 8
+
+--- Evidence by Similarity ---
+1. [Sentence #107]  (Similarity: 0.795) The first shareholder question is, given the stringent [white on yellow]battery[/white on yellow] content and assembly requirements for consumer tax credit eligibility under the Inflation Reduction Act, can you speak to Tesla’s ability to meet those thresholds in each of 2023, 2024 and 2025 through your existing and planned supply chain?
+2. [Sentence #527]  (Similarity: 0.775) But it’s worth bearing in mind like there are entire highly competitive companies that are very smart that all they do is make [white on yellow]battery[/white on yellow] cells.
+3. [Sentence #472]  (Similarity: 0.762) And I think -- we still feel confident that 4680 will be the most competitive [white on yellow]battery[/white on yellow] [white on yellow]cell[/white on yellow] in the world.
+4. [Sentence #307]  (Similarity: 0.732) But what we are seeing is practical improvements as we redesign the whole supply chain and all of the elements that go into [white on yellow]battery[/white on yellow] [white on yellow]cell[/white on yellow].
+5. [Sentence #454]  (Similarity: 0.654) And then, question number two, on the kind of like innovation and cost reduction and efficiency improvements kind of path that you described at the [white on yellow]battery[/white on yellow] day, where are we today?
+6. [Sentence #399]  (Similarity: 0.651) But in electric vehicles, things like [white on yellow]battery[/white on yellow]-grade lithium are still crazy expensive.
+7. [Sentence #484]  (Similarity: 0.613) So, we’re making -- putting our money where our mouths are and all the various efforts that we discussed on [white on yellow]Battery[/white on yellow] Day.
+8. [Sentence #480]  (Similarity: 0.605) And for those who watched the YouTube videos, like our on-site cathode facilities coming together, I’m really excited about that, which is a part of the plan that we discussed on [white on yellow]Battery[/white on yellow] Day.
+
+Total similarity-top evidence sentences: 8
+
+-----
