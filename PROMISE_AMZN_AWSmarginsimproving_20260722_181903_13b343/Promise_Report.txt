@@ -1,0 +1,51 @@
+[PROMISE TRACKING] AMZN: AWS margins improving
+
+VERDICT: Still Pending (confidence: high)
+
+Throughout the quarters from Q1 2021 to Q4 2022, management consistently discussed AWS margins with an emphasis on cost pressures, fluctuations, and optimization efforts. While there were mentions of strong revenues and productivity improvements, margins were described as fluctuating and even dropping sequentially, with no clear statement that margins have sustainably improved. The Q4 2022 plan to continue optimization efforts suggests the margin improvement promise remains ongoing but not yet fulfilled.
+
+Key quotes:
+  - [AMZN_Q2_2022] "So on margins in AWS, yes, as you mentioned that is dropping sequentially."
+  - [AMZN_Q4_2022] "As we look ahead, we expect these optimization efforts will continue to be a headwind to AWS growth in at least the next couple of quarters."
+
+Quarters searched: AMZN_Q1_2021, AMZN_Q2_2021, AMZN_Q3_2021, AMZN_Q4_2021, AMZN_Q1_2022, AMZN_Q2_2022, AMZN_Q3_2022, AMZN_Q4_2022
+Quarters with mentions: AMZN_Q1_2021, AMZN_Q2_2021, AMZN_Q3_2021, AMZN_Q4_2021, AMZN_Q1_2022, AMZN_Q2_2022, AMZN_Q3_2022, AMZN_Q4_2022
+
+--- Evidence Timeline ---
+1. [AMZN_Q1_2021] [UNCERTAIN] And then second, AWS margins, really strong revenues.
+
+2. [AMZN_Q1_2021] [UNCERTAIN] So again, at any point in time, there's a lot of cost pressures in the operating margins of AWS.
+
+3. [AMZN_Q1_2021] [UNCERTAIN] I guess sort of masked in the headline results is actually pretty solid performance in the higher-margin segments of the business, including third-party services, subscriptions, AWS and advertising.
+
+4. [AMZN_Q2_2021] [UNCERTAIN] And then second, AWS margins, really strong revenues.
+
+5. [AMZN_Q2_2021] [UNCERTAIN] So again, at any point in time, there's a lot of cost pressures in the operating margins of AWS.
+
+6. [AMZN_Q2_2021] [UNCERTAIN] I guess sort of masked in the headline results is actually pretty solid performance in the higher-margin segments of the business, including third-party services, subscriptions, AWS and advertising.
+
+7. [AMZN_Q3_2021] [UNCERTAIN] And then can you just also talk a little bit about the drivers of AWS acceleration and how you think about the margin profile with more contribution from enterprise deals?
+
+8. [AMZN_Q4_2021] [UNCERTAIN] Although we're calling out an accounting change here, this really reflects a tremendous team effort by AWS to make our server and network equipment last longer.
+
+9. [AMZN_Q1_2022] [UNCERTAIN] It came in a little higher despite AWS costs coming in lower.
+
+10. [AMZN_Q2_2022] [UNCERTAIN] And then also when you think about margins, the 35% for AWS in 1Q going to 29% in 2Q, what are some of the puts and takes that we should think about going forward just given decreasing server life benefits and tougher macro environment?
+
+11. [AMZN_Q2_2022] [UNCERTAIN] So on margins in AWS, yes, as you mentioned that is dropping sequentially.
+
+12. [AMZN_Q2_2022] [UNCERTAIN] On the bridge to Q2 to Q3, so again, you have the – mentioned three items, ops improvement that we see of a $1.5 billion and offsetting that is increased costs in AWS, as we build out depreciation.
+
+13. [AMZN_Q3_2022] [UNCERTAIN] The broad disclaimer on AWS margins is that they will fluctuate over time as we balance investments versus renegotiating pricing with the long-term customer commitments, all as headwinds to the business, offset by increasing productivity and efficiencies in our data centers, which drive profitability.
+
+14. [AMZN_Q3_2022] [UNCERTAIN] AWS margins were a little lower than we would have thought.
+
+15. [AMZN_Q3_2022] [UNCERTAIN] Is that the new normal for AWS margins?
+
+16. [AMZN_Q3_2022] [UNCERTAIN] Brent Thill Brian, on AWS, I'm just curious when you talk about optimizing and efficiency, can you talk to what you're seeing from your customers why perhaps you're seeing such a big pullback in terms of near-term demand?
+
+17. [AMZN_Q4_2022] [PLAN] As we look ahead, we expect these optimization efforts will continue to be a headwind to AWS growth in at least the next couple of quarters.
+
+18. [AMZN_Q4_2022] [UNCERTAIN] And the reality is that the way that we've built all our businesses, but AWS in this particular instance, is that we're going to help our customers find a way to spend less money.
+
+Total timeline entries: 18 (18 after grouping repeats)
