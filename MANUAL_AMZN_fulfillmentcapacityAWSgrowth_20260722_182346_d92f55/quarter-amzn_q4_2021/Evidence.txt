@@ -1,0 +1,19 @@
+[AMZN_Q4_2021] fulfillment capacity; AWS growth
+
+--- Evidence in Transcript Order ---
+1. [Sentence #45]  Now, with more normal [white on yellow]fulfillment capacity[/white on yellow], our operating leverage decreases versus the comparable prior-year periods.
+2. [Sentence #48]  AWS delivered another strong quarter of growth, as enterprises and developers continued to look to AWS for critical, innovative cloud solutions.
+3. [Sentence #129]  The ability to double our [white on yellow]fulfillment capacity[/white on yellow] over that time period, including making major strides in our Amazon logistics, sets us up well for the future.
+4. [Sentence #163]  About just under 30% is [white on yellow]fulfillment capacity[/white on yellow], building warehouses -- warehouse only, not transportation.
+
+Total transcript-order evidence sentences: 4
+
+--- Evidence by Similarity ---
+1. [Sentence #48]  (Similarity: 0.946) AWS delivered another strong quarter of growth, as enterprises and developers continued to look to AWS for critical, innovative cloud solutions.
+2. [Sentence #163]  (Similarity: 0.754) About just under 30% is [white on yellow]fulfillment capacity[/white on yellow], building warehouses -- warehouse only, not transportation.
+3. [Sentence #45]  (Similarity: 0.697) Now, with more normal [white on yellow]fulfillment capacity[/white on yellow], our operating leverage decreases versus the comparable prior-year periods.
+4. [Sentence #129]  (Similarity: 0.621) The ability to double our [white on yellow]fulfillment capacity[/white on yellow] over that time period, including making major strides in our Amazon logistics, sets us up well for the future.
+
+Total similarity-top evidence sentences: 4
+
+-----

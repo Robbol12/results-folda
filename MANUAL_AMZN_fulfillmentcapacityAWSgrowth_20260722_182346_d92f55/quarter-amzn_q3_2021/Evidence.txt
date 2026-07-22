@@ -1,0 +1,29 @@
+[AMZN_Q3_2021] fulfillment capacity; AWS growth
+
+--- Evidence in Transcript Order ---
+1. [Sentence #22]  And AWS has seen a reacceleration of revenue growth as customers have expanded their commitment to the cloud and selected AWS as their cloud partner.
+2. [Sentence #39]  In Q3, labor became our primary capacity constrain, not storage space or [white on yellow]fulfillment capacity[/white on yellow].
+3. [Sentence #54]  As we are now back to having a more normal Q4 [white on yellow]fulfillment capacity[/white on yellow] and have even brought forward 2022 capacity into 2021, our operating leverage drops compared with last Q4.
+4. [Sentence #70]  First, we saw a continuation of strong usage and revenue growth in AWS, with revenues accelerating to 39% year over year in Q3, driven by a broad base of services and customers.
+5. [Sentence #89]  Maybe I'll ask about [white on yellow]fulfillment capacity[/white on yellow].
+6. [Sentence #95]  Brian Olsavsky -- Chief Financial Officer
+
+Justin, on your first question about whether we've -- the comparison of doubling the [white on yellow]fulfillment capacity[/white on yellow] to the unit growth, keep in mind also that our [white on yellow]fulfillment capacity[/white on yellow] also includes our transportation delivery capacity.
+7. [Sentence #121]  And then secondly, talk about the -- you've been spending -- so you've doubled this [white on yellow]fulfillment capacity[/white on yellow].
+
+Total transcript-order evidence sentences: 7
+
+--- Evidence by Similarity ---
+1. [Sentence #95]  (Similarity: 0.959) Brian Olsavsky -- Chief Financial Officer
+
+Justin, on your first question about whether we've -- the comparison of doubling the [white on yellow]fulfillment capacity[/white on yellow] to the unit growth, keep in mind also that our [white on yellow]fulfillment capacity[/white on yellow] also includes our transportation delivery capacity.
+2. [Sentence #70]  (Similarity: 0.906) First, we saw a continuation of strong usage and revenue growth in AWS, with revenues accelerating to 39% year over year in Q3, driven by a broad base of services and customers.
+3. [Sentence #54]  (Similarity: 0.762) As we are now back to having a more normal Q4 [white on yellow]fulfillment capacity[/white on yellow] and have even brought forward 2022 capacity into 2021, our operating leverage drops compared with last Q4.
+4. [Sentence #22]  (Similarity: 0.761) And AWS has seen a reacceleration of revenue growth as customers have expanded their commitment to the cloud and selected AWS as their cloud partner.
+5. [Sentence #121]  (Similarity: 0.730) And then secondly, talk about the -- you've been spending -- so you've doubled this [white on yellow]fulfillment capacity[/white on yellow].
+6. [Sentence #89]  (Similarity: 0.625) Maybe I'll ask about [white on yellow]fulfillment capacity[/white on yellow].
+7. [Sentence #39]  (Similarity: 0.609) In Q3, labor became our primary capacity constrain, not storage space or [white on yellow]fulfillment capacity[/white on yellow].
+
+Total similarity-top evidence sentences: 7
+
+-----

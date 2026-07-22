@@ -1,0 +1,15 @@
+[AMZN_Q2_2022] fulfillment capacity; AWS growth
+
+--- Evidence in Transcript Order ---
+1. [Sentence #80]  Another 30% of the $60 billion was [white on yellow]fulfillment capacity[/white on yellow] and a little less than 25% was for transportation, remaining 5% was comprised of things like corporate space and physical stores.
+2. [Sentence #99]  For AWS, this quarter-over-quarter increases are primarily driven by higher infrastructure investments to support continued strong customer growth, including larger depreciation on a growing fixed asset base.
+
+Total transcript-order evidence sentences: 2
+
+--- Evidence by Similarity ---
+1. [Sentence #80]  (Similarity: 0.790) Another 30% of the $60 billion was [white on yellow]fulfillment capacity[/white on yellow] and a little less than 25% was for transportation, remaining 5% was comprised of things like corporate space and physical stores.
+2. [Sentence #99]  (Similarity: 0.629) For AWS, this quarter-over-quarter increases are primarily driven by higher infrastructure investments to support continued strong customer growth, including larger depreciation on a growing fixed asset base.
+
+Total similarity-top evidence sentences: 2
+
+-----

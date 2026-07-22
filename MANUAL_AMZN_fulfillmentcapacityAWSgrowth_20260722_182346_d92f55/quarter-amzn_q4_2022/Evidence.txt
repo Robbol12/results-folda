@@ -1,0 +1,25 @@
+[AMZN_Q4_2022] fulfillment capacity; AWS growth
+
+--- Evidence in Transcript Order ---
+1. [Sentence #54]  As we look ahead, we expect these optimization efforts will continue to be a headwind to [white on yellow]AWS growth[/white on yellow] in at least the next couple of quarters.
+2. [Sentence #55]  So far in the first month of the year, AWS year-over-year revenue growth is in the mid-teens.
+3. [Sentence #258]  It means we have a lot of growth in front of us in the AWS business.
+4. [Sentence #287]  Brian, just any color on why mid-teens is kind of a holdable growth rate for AWS over the next couple of quarters, given what looks like pretty clearly, continuing deterioration in enterprise demand?
+5. [Sentence #293]  Brian Olsavsky
+
+So on the [white on yellow]AWS growth[/white on yellow] rate, I'm not sure I can forecast for you with any level of certainty what is going to happen beyond this quarter.
+
+Total transcript-order evidence sentences: 5
+
+--- Evidence by Similarity ---
+1. [Sentence #55]  (Similarity: 0.845) So far in the first month of the year, AWS year-over-year revenue growth is in the mid-teens.
+2. [Sentence #258]  (Similarity: 0.796) It means we have a lot of growth in front of us in the AWS business.
+3. [Sentence #287]  (Similarity: 0.628) Brian, just any color on why mid-teens is kind of a holdable growth rate for AWS over the next couple of quarters, given what looks like pretty clearly, continuing deterioration in enterprise demand?
+4. [Sentence #54]  (Similarity: 0.605) As we look ahead, we expect these optimization efforts will continue to be a headwind to [white on yellow]AWS growth[/white on yellow] in at least the next couple of quarters.
+5. [Sentence #293]  (Similarity: 0.604) Brian Olsavsky
+
+So on the [white on yellow]AWS growth[/white on yellow] rate, I'm not sure I can forecast for you with any level of certainty what is going to happen beyond this quarter.
+
+Total similarity-top evidence sentences: 5
+
+-----

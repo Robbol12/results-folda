@@ -1,0 +1,69 @@
+[Multi-Year Analysis] fulfillment capacity; AWS growth
+
+--- Evidence in Transcript Order ---
+1. [Sentence #22]  (AMZN_Q3_2021) And AWS has seen a reacceleration of revenue growth as customers have expanded their commitment to the cloud and selected AWS as their cloud partner.
+2. [Sentence #39]  (AMZN_Q3_2021) In Q3, labor became our primary capacity constrain, not storage space or [white on yellow]fulfillment capacity[/white on yellow].
+3. [Sentence #45]  (AMZN_Q4_2021) Now, with more normal [white on yellow]fulfillment capacity[/white on yellow], our operating leverage decreases versus the comparable prior-year periods.
+4. [Sentence #45]  (AMZN_Q3_2022) In AWS, net sales increased to $20.5 billion in Q3, up 28% year-over-year, excluding the impact of foreign exchange, and now representing an annualized sales run rate of $82 billion.
+5. [Sentence #48]  (AMZN_Q4_2021) AWS delivered another strong quarter of growth, as enterprises and developers continued to look to AWS for critical, innovative cloud solutions.
+6. [Sentence #54]  (AMZN_Q3_2021) As we are now back to having a more normal Q4 [white on yellow]fulfillment capacity[/white on yellow] and have even brought forward 2022 capacity into 2021, our operating leverage drops compared with last Q4.
+7. [Sentence #54]  (AMZN_Q4_2022) As we look ahead, we expect these optimization efforts will continue to be a headwind to [white on yellow]AWS growth[/white on yellow] in at least the next couple of quarters.
+8. [Sentence #55]  (AMZN_Q4_2022) So far in the first month of the year, AWS year-over-year revenue growth is in the mid-teens.
+9. [Sentence #70]  (AMZN_Q3_2021) First, we saw a continuation of strong usage and revenue growth in AWS, with revenues accelerating to 39% year over year in Q3, driven by a broad base of services and customers.
+10. [Sentence #80]  (AMZN_Q2_2022) Another 30% of the $60 billion was [white on yellow]fulfillment capacity[/white on yellow] and a little less than 25% was for transportation, remaining 5% was comprised of things like corporate space and physical stores.
+11. [Sentence #82]  (AMZN_Q1_2022) About 30% is [white on yellow]fulfillment capacity[/white on yellow], primarily fulfillment center warehouses.
+12. [Sentence #89]  (AMZN_Q3_2021) Maybe I'll ask about [white on yellow]fulfillment capacity[/white on yellow].
+13. [Sentence #95]  (AMZN_Q3_2021) Brian Olsavsky -- Chief Financial Officer
+
+Justin, on your first question about whether we've -- the comparison of doubling the [white on yellow]fulfillment capacity[/white on yellow] to the unit growth, keep in mind also that our [white on yellow]fulfillment capacity[/white on yellow] also includes our transportation delivery capacity.
+14. [Sentence #99]  (AMZN_Q2_2022) For AWS, this quarter-over-quarter increases are primarily driven by higher infrastructure investments to support continued strong customer growth, including larger depreciation on a growing fixed asset base.
+15. [Sentence #113]  (AMZN_Q3_2022) I would say that although we had a 28% growth rate for the quarter for AWS, the back end of the quarter, we were more in the mid-20% growth rate.
+16. [Sentence #121]  (AMZN_Q3_2021) And then secondly, talk about the -- you've been spending -- so you've doubled this [white on yellow]fulfillment capacity[/white on yellow].
+17. [Sentence #129]  (AMZN_Q4_2021) The ability to double our [white on yellow]fulfillment capacity[/white on yellow] over that time period, including making major strides in our Amazon logistics, sets us up well for the future.
+18. [Sentence #163]  (AMZN_Q4_2021) About just under 30% is [white on yellow]fulfillment capacity[/white on yellow], building warehouses -- warehouse only, not transportation.
+19. [Sentence #258]  (AMZN_Q4_2022) It means we have a lot of growth in front of us in the AWS business.
+20. [Sentence #287]  (AMZN_Q4_2022) Brian, just any color on why mid-teens is kind of a holdable growth rate for AWS over the next couple of quarters, given what looks like pretty clearly, continuing deterioration in enterprise demand?
+21. [Sentence #293]  (AMZN_Q4_2022) Brian Olsavsky
+
+So on the [white on yellow]AWS growth[/white on yellow] rate, I'm not sure I can forecast for you with any level of certainty what is going to happen beyond this quarter.
+22. [Sentence #296]  (AMZN_Q1_2022) If there's any numbers you can share on AWs backlog growth this quarter versus last quarter.
+23. [Sentence #298]  (AMZN_Q1_2021) On [white on yellow]AWS growth[/white on yellow], if you look at the run rate last year, we had 33% growth rate in Q1, and it dropped to 29%, 29% to 28% the last three quarters.
+24. [Sentence #298]  (AMZN_Q1_2021) On [white on yellow]AWS growth[/white on yellow], if you look at the run rate last year, we had 33% growth rate in Q1, and it dropped to 29%, 29% to 28% the last three quarters.
+25. [Sentence #301]  (AMZN_Q1_2022) It's the increase of AWS customers making long-term commitments for AWS.
+
+Total transcript-order evidence sentences: 25
+
+--- Evidence by Similarity ---
+1. [Sentence #95]  (AMZN_Q3_2021) (Similarity: 0.959) Brian Olsavsky -- Chief Financial Officer
+
+Justin, on your first question about whether we've -- the comparison of doubling the [white on yellow]fulfillment capacity[/white on yellow] to the unit growth, keep in mind also that our [white on yellow]fulfillment capacity[/white on yellow] also includes our transportation delivery capacity.
+2. [Sentence #48]  (AMZN_Q4_2021) (Similarity: 0.946) AWS delivered another strong quarter of growth, as enterprises and developers continued to look to AWS for critical, innovative cloud solutions.
+3. [Sentence #70]  (AMZN_Q3_2021) (Similarity: 0.906) First, we saw a continuation of strong usage and revenue growth in AWS, with revenues accelerating to 39% year over year in Q3, driven by a broad base of services and customers.
+4. [Sentence #82]  (AMZN_Q1_2022) (Similarity: 0.875) About 30% is [white on yellow]fulfillment capacity[/white on yellow], primarily fulfillment center warehouses.
+5. [Sentence #298]  (AMZN_Q1_2021) (Similarity: 0.865) On [white on yellow]AWS growth[/white on yellow], if you look at the run rate last year, we had 33% growth rate in Q1, and it dropped to 29%, 29% to 28% the last three quarters.
+6. [Sentence #298]  (AMZN_Q1_2021) (Similarity: 0.865) On [white on yellow]AWS growth[/white on yellow], if you look at the run rate last year, we had 33% growth rate in Q1, and it dropped to 29%, 29% to 28% the last three quarters.
+7. [Sentence #55]  (AMZN_Q4_2022) (Similarity: 0.845) So far in the first month of the year, AWS year-over-year revenue growth is in the mid-teens.
+8. [Sentence #258]  (AMZN_Q4_2022) (Similarity: 0.796) It means we have a lot of growth in front of us in the AWS business.
+9. [Sentence #80]  (AMZN_Q2_2022) (Similarity: 0.790) Another 30% of the $60 billion was [white on yellow]fulfillment capacity[/white on yellow] and a little less than 25% was for transportation, remaining 5% was comprised of things like corporate space and physical stores.
+10. [Sentence #54]  (AMZN_Q3_2021) (Similarity: 0.762) As we are now back to having a more normal Q4 [white on yellow]fulfillment capacity[/white on yellow] and have even brought forward 2022 capacity into 2021, our operating leverage drops compared with last Q4.
+11. [Sentence #22]  (AMZN_Q3_2021) (Similarity: 0.761) And AWS has seen a reacceleration of revenue growth as customers have expanded their commitment to the cloud and selected AWS as their cloud partner.
+12. [Sentence #163]  (AMZN_Q4_2021) (Similarity: 0.754) About just under 30% is [white on yellow]fulfillment capacity[/white on yellow], building warehouses -- warehouse only, not transportation.
+13. [Sentence #121]  (AMZN_Q3_2021) (Similarity: 0.730) And then secondly, talk about the -- you've been spending -- so you've doubled this [white on yellow]fulfillment capacity[/white on yellow].
+14. [Sentence #45]  (AMZN_Q4_2021) (Similarity: 0.697) Now, with more normal [white on yellow]fulfillment capacity[/white on yellow], our operating leverage decreases versus the comparable prior-year periods.
+15. [Sentence #113]  (AMZN_Q3_2022) (Similarity: 0.639) I would say that although we had a 28% growth rate for the quarter for AWS, the back end of the quarter, we were more in the mid-20% growth rate.
+16. [Sentence #99]  (AMZN_Q2_2022) (Similarity: 0.629) For AWS, this quarter-over-quarter increases are primarily driven by higher infrastructure investments to support continued strong customer growth, including larger depreciation on a growing fixed asset base.
+17. [Sentence #287]  (AMZN_Q4_2022) (Similarity: 0.628) Brian, just any color on why mid-teens is kind of a holdable growth rate for AWS over the next couple of quarters, given what looks like pretty clearly, continuing deterioration in enterprise demand?
+18. [Sentence #301]  (AMZN_Q1_2022) (Similarity: 0.627) It's the increase of AWS customers making long-term commitments for AWS.
+19. [Sentence #89]  (AMZN_Q3_2021) (Similarity: 0.625) Maybe I'll ask about [white on yellow]fulfillment capacity[/white on yellow].
+20. [Sentence #45]  (AMZN_Q3_2022) (Similarity: 0.623) In AWS, net sales increased to $20.5 billion in Q3, up 28% year-over-year, excluding the impact of foreign exchange, and now representing an annualized sales run rate of $82 billion.
+21. [Sentence #129]  (AMZN_Q4_2021) (Similarity: 0.621) The ability to double our [white on yellow]fulfillment capacity[/white on yellow] over that time period, including making major strides in our Amazon logistics, sets us up well for the future.
+22. [Sentence #296]  (AMZN_Q1_2022) (Similarity: 0.613) If there's any numbers you can share on AWs backlog growth this quarter versus last quarter.
+23. [Sentence #39]  (AMZN_Q3_2021) (Similarity: 0.609) In Q3, labor became our primary capacity constrain, not storage space or [white on yellow]fulfillment capacity[/white on yellow].
+24. [Sentence #54]  (AMZN_Q4_2022) (Similarity: 0.605) As we look ahead, we expect these optimization efforts will continue to be a headwind to [white on yellow]AWS growth[/white on yellow] in at least the next couple of quarters.
+25. [Sentence #293]  (AMZN_Q4_2022) (Similarity: 0.604) Brian Olsavsky
+
+So on the [white on yellow]AWS growth[/white on yellow] rate, I'm not sure I can forecast for you with any level of certainty what is going to happen beyond this quarter.
+
+Total similarity-top evidence sentences: 25
+
+-----
