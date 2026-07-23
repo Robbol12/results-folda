@@ -1,0 +1,69 @@
+[CORE RESEARCH] TSLA: battery
+
+Quarters searched: 4
+Filing sections searched: 77
+
+Over the course of 2021, Tesla's commentary on battery technology evolved from emphasizing the development and safety of new battery cells, particularly the 4680 cells and structural battery packs, to reporting progress in manufacturing and deployment. Early in the year, management highlighted the complexity and variety of battery chemistries and formats, likening it to having many 'flavors' of batteries. By Q3 and Q4, the focus shifted to completing structural battery testing and ramping up production capacity, with the 4680 cells becoming critical to meeting cell limitations and scaling gigawatt-hour production. The company began delivering vehicles equipped with these new battery technologies by the end of the year.
+
+Forecasting credibility: High
+Tesla's guidance and actual results related to battery development and deployment show a consistent pattern of meeting or exceeding expectations. The Q2 2021 actuals met the Q1 2021 guidance regarding the variety and improvements in battery technology. Similarly, the Q4 2021 actual delivery of vehicles with 4680 cells met the Q3 2021 guidance about structural battery pack progress. This consistency supports a high rating for forecasting credibility in this topic.
+
+Trends:
+  - Increasing focus on 4680 battery cells
+  - Progress from development to production and delivery
+  - Emphasis on structural battery pack integration
+  - Scaling battery manufacturing capacity
+
+Recurring themes/risks:
+  - Complexity of multiple battery chemistries and formats
+  - Cell production capacity as a limiting factor
+  - Safety and reliability testing of new battery designs
+
+Key concerns:
+  - No explicit quantitative guidance was provided, making precise assessment challenging
+  - Reliance on transcript-based actuals rather than filing-sourced figures limits granularity
+  - Potential risk in transitioning to new battery technology at scale
+
+Conclusion:
+Tesla's battery strategy in 2021 demonstrated a clear trajectory from research and development to manufacturing and deployment of advanced battery technologies, particularly the 4680 cells and structural battery packs. Management's guidance was generally met or exceeded, indicating credible forecasting in this area. The company acknowledged the complexity of battery formats and the importance of scaling cell production to meet demand. While detailed quantitative guidance was limited, the consistent delivery on stated goals suggests Tesla is effectively managing the risks associated with battery innovation and production scale-up.
+
+--- By Reporting Period ---
+
+=== Q1 2021 ===
+Management said:
+  - But if you have a battery, you can store the energy and provide the energy to the grid as needed.
+Guidance given:
+  - You have got to build the production capacity for the cells, for the battery cells, for solar cells.
+  - We did talk about yield also at Battery Day, which is one of the reasons why it’s useful to check in on that.
+Actual reported:
+  - [None] So it took quite a bit of development to ensure that the battery of the new S/X is safe.
+  - [None] In particular for R&D, this includes the structural battery pack and 4680 cells, investments in the new SNX, and our neural net and silicon investments.
+  - [None] We are also getting very heavy into 4680 development that Drew and team are working on and the associated structural battery pack that goes along with that.
+Filing disclosures (10-K/10-Q):
+
+=== Q2 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Met] So right now, we kind of have the Baskin Robbins of batteries situation, where there's so many formats and so many chemistries, that it's like we've got like 36 flavors of battery at this point.
+  - [Met] So right now, we kind of have the Baskin Robbins of batteries situation, where there's so many formats and so many chemistries, that it's like we've got like 36 flavors of battery at this point.
+  - [None] There are -- and we went through this on the battery cell day, really dozens of -- half a dozen major improvements and dozens of small improvements.
+Filing disclosures (10-K/10-Q):
+
+=== Q3 2021 ===
+Management said:
+Guidance given:
+  - Earlier next year, from a non-cell perspective, structural battery crash, range, and reliability testing are on track to be complete this quarter.
+Actual reported:
+  - [None] Additionally, we have made good progress on the in-house battery manufacturing program.
+Filing disclosures (10-K/10-Q):
+
+=== Q4 2021 ===
+Management said:
+  - And then probably, we transition into a cell limitation battery, total gigawatt-hours of cell limitation, which is when the 4680 will become very important.
+Guidance given:
+  - And then probably, we transition into a cell limitation battery, total gigawatt-hours of cell limitation, which is when the 4680 will become very important.
+Actual reported:
+  - [Met] So, in Texas, we're building the Model Ys with the structural battery pack and the 4680 cells, and we’ll start delivering after final certification of the vehicle, which should be fairly soon.
+Filing disclosures (10-K/10-Q):
+
