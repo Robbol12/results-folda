@@ -1,0 +1,202 @@
+[CORE RESEARCH] TSLA: robots
+
+Quarters searched: 8
+Filing sections searched: 174
+
+Over the observed periods, Tesla's commentary on robots, specifically the Optimus humanoid robot, evolved from initial mentions of limited factory use to ambitious plans for high-volume production and advanced capabilities. Early guidance in Q4 2021 focused on initial deployment within Tesla factories, while by Q1 2022, management aimed for volume production by 2024 and highlighted significant capacity improvements through reduced robot usage but increased efficiency. The Q4 2022 commentary emphasized leveraging Tesla's expertise in electric motors, power electronics, and AI to produce a highly capable humanoid robot at scale. However, actual reported results were sparse, with only one guidance/actual pair resolved positively in Q1 2022, indicating limited concrete progress disclosures.
+
+Forecasting credibility: Medium
+There is only one guidance/actual pair available, which was met according to the transcript in Q1 2022, lending some credibility to management's forecasting. However, the lack of multiple pairs and precise actual figures limits a stronger confidence rating. The guidance remains largely aspirational with few concrete results disclosed, suggesting cautious optimism but not full validation of forecasts.
+
+Trends:
+  - Increasing ambition for robot production volume
+  - Shift from limited factory use to broader applications
+  - Emphasis on leveraging Tesla's core technology strengths
+  - Sparse actual performance disclosures
+
+Recurring themes/risks:
+  - Reliance on advanced manufacturing capabilities
+  - Uncertainty in timing of volume production
+  - High expectations for robot AI and capabilities
+
+Key concerns:
+  - Lack of precise actual results or metrics beyond transcript commentary
+  - No accounting or reporting changes noted, but limited data hinders thorough assessment
+  - Potential risk in meeting ambitious volume production targets given sparse evidence
+
+Conclusion:
+Tesla's approach to robots, particularly the Optimus humanoid, has evolved from initial experimental use to ambitious plans for high-volume production and advanced capabilities. While management has provided optimistic guidance and highlighted strategic advantages, the limited actual results disclosed and only one confirmed guidance/actual pair restrict the ability to fully validate these claims. The medium forecasting credibility rating reflects some confidence in management's statements but also underscores the need for more concrete evidence. Overall, Tesla's robot program remains a promising but still developing area with significant execution risks.
+
+--- By Reporting Period ---
+
+=== Q4 2021 ===
+Management said:
+Guidance given:
+  - So, the first use of the Optimus robots would be, at Tesla, like moving parts around the factory or something like that.
+Actual reported:
+  - [None] So, in terms of priority of products, I think actually the most important product development we're doing this year is actually the Optimus humanoid robot.
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Revenue: $53.82B | vs prior quarter: — | vs prior year: $10.74B (+401.0%)
+    - Cost of Revenue: $40.22B | vs prior quarter: — | vs prior year: $24.91B (+61.5%)
+    - Gross Profit: $13.61B | vs prior quarter: — | vs prior year: $2.07B (+558.6%)
+    - R&D Expense: $2.59B | vs prior quarter: — | vs prior year: $1.49B (+73.9%)
+    - SG&A Expense: $4.52B | vs prior quarter: — | vs prior year: $3.15B (+43.6%)
+    - Operating Income: $6.52B | vs prior quarter: — | vs prior year: $1.99B (+227.1%)
+    - Net Income: $5.52B | vs prior quarter: — | vs prior year: $270.0M (+1944.1%)
+    - Diluted EPS: $1.63 | vs prior quarter: — | vs prior year: $0.21 (+676.2%)
+    - Operating Cash Flow: $11.50B | vs prior quarter: — | vs prior year: $5.94B (+93.5%)
+    - Investing Cash Flow: $-7.87B | vs prior quarter: — | vs prior year: $-3.13B (-151.2%)
+    - Financing Cash Flow: $-5.20B | vs prior quarter: — | vs prior year: $9.97B (-152.2%)
+    - Capital Expenditures: $6.48B | vs prior quarter: — | vs prior year: $3.16B (+105.3%)
+    - Free Cash Flow: $5.01B | vs prior quarter: — | vs prior year: $2.79B (+80.0%)
+    - D&A: $1.91B | vs prior quarter: — | vs prior year: $1.57B (+21.7%)
+    - Current Assets: $27.10B | vs prior quarter: — | vs prior year: $26.72B (+1.4%)
+    - Current Liabilities: $19.70B | vs prior quarter: — | vs prior year: $14.25B (+38.3%)
+    - Cash & Equivalents: $17.58B | vs prior quarter: — | vs prior year: $19.38B (-9.3%)
+    - Inventory: $5.76B | vs prior quarter: — | vs prior year: $4.10B (+40.4%)
+    - Accounts Receivable: $1.91B | vs prior quarter: — | vs prior year: $1.89B (+1.4%)
+    - Accounts Payable: $10.03B | vs prior quarter: — | vs prior year: $6.05B (+65.7%)
+    - Long-Term Debt: $4.25B | vs prior quarter: — | vs prior year: $8.46B (-49.7%)
+    - Short-Term Debt: $1.09B | vs prior quarter: — | vs prior year: $1.76B (-38.1%)
+    - Total Debt: $5.34B | vs prior quarter: — | vs prior year: $10.22B (-47.7%)
+    - Stockholders' Equity: $30.19B | vs prior quarter: — | vs prior year: $22.23B (+35.8%)
+    - Goodwill: $200.0M | vs prior quarter: — | vs prior year: $207.0M (-3.4%)
+    - PP&E: $18.88B | vs prior quarter: — | vs prior year: $12.75B (+48.1%)
+
+=== Q1 2022 ===
+Management said:
+Guidance given:
+  - Andrew Baglino But we also had a structural casting, about 30% less robots, we expect to almost double the capacity for body, for example, reducing the number of robots, but doubling our capacity in a lot of areas.
+  - So, I think, we’ll aim to -- we do a product event for robotaxi next year and get into more detail, but we are aiming for volume production in 2024.
+Actual reported:
+  - [Met] And then, there’s, of course, Optimus, which I was surprised that people did not realize the magnitude of the Optimus robot program.
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Revenue: $18.76B | vs prior quarter: — | vs prior year: $10.39B (+80.5%)
+    - Cost of Revenue: $13.30B | vs prior quarter: — | vs prior year: $8.17B (+62.7%)
+    - Gross Profit: $5.46B | vs prior quarter: — | vs prior year: $2.21B (+146.5%)
+    - R&D Expense: $865.0M | vs prior quarter: — | vs prior year: $666.0M (+29.9%)
+    - SG&A Expense: $992.0M | vs prior quarter: — | vs prior year: $1.06B (-6.1%)
+    - Operating Income: $3.60B | vs prior quarter: — | vs prior year: $594.0M (+506.6%)
+    - Net Income: $3.32B | vs prior quarter: — | vs prior year: $438.0M (+657.5%)
+    - Diluted EPS: $0.95 | vs prior quarter: — | vs prior year: $0.39 (+143.6%)
+    - Operating Cash Flow: $4.00B | vs prior quarter: — | vs prior year: $1.64B (+143.4%)
+    - Investing Cash Flow: $-2.17B | vs prior quarter: — | vs prior year: $-2.58B (+16.1%)
+    - Financing Cash Flow: $-1.91B | vs prior quarter: — | vs prior year: $-1.02B (-88.4%)
+    - Capital Expenditures: $1.77B | vs prior quarter: — | vs prior year: $1.35B (+31.1%)
+    - Free Cash Flow: $2.23B | vs prior quarter: — | vs prior year: $293.0M (+660.4%)
+    - D&A: $551.0M | vs prior quarter: — | vs prior year: $424.0M (+30.0%)
+    - Current Assets: $29.05B | vs prior quarter: — | vs prior year: $24.70B (+17.6%)
+    - Current Liabilities: $21.45B | vs prior quarter: — | vs prior year: $14.88B (+44.2%)
+    - Cash & Equivalents: $17.50B | vs prior quarter: — | vs prior year: $17.14B (+2.1%)
+    - Inventory: $6.69B | vs prior quarter: — | vs prior year: $4.13B (+61.9%)
+    - Accounts Receivable: $2.31B | vs prior quarter: — | vs prior year: $1.89B (+22.3%)
+    - Accounts Payable: $11.17B | vs prior quarter: — | vs prior year: $6.65B (+68.0%)
+    - Long-Term Debt: $2.25B | vs prior quarter: — | vs prior year: $8.02B (-71.9%)
+    - Short-Term Debt: $1.17B | vs prior quarter: — | vs prior year: $1.42B (-17.5%)
+    - Total Debt: $3.42B | vs prior quarter: — | vs prior year: $9.43B (-63.7%)
+    - Stockholders' Equity: $34.09B | vs prior quarter: — | vs prior year: $23.02B (+48.1%)
+    - Goodwill: $200.0M | vs prior quarter: — | vs prior year: $206.0M (-2.9%)
+    - PP&E: $20.03B | vs prior quarter: — | vs prior year: $13.87B (+44.4%)
+
+=== Q2 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Revenue: $16.93B | vs prior quarter: $18.76B (-9.7%) | vs prior year: $11.96B (+41.6%)
+    - Cost of Revenue: $12.70B | vs prior quarter: $13.30B (-4.5%) | vs prior year: $9.07B (+40.0%)
+    - Gross Profit: $4.23B | vs prior quarter: $5.46B (-22.5%) | vs prior year: $2.88B (+46.8%)
+    - R&D Expense: $667.0M | vs prior quarter: $865.0M (-22.9%) | vs prior year: $576.0M (+15.8%)
+    - SG&A Expense: $961.0M | vs prior quarter: $992.0M (-3.1%) | vs prior year: $973.0M (-1.2%)
+    - Operating Income: $2.46B | vs prior quarter: $3.60B (-31.6%) | vs prior year: $1.31B (+87.8%)
+    - Net Income: $2.26B | vs prior quarter: $3.32B (-31.9%) | vs prior year: $1.14B (+97.8%)
+    - Diluted EPS: $0.65 | vs prior quarter: $0.95 (-31.6%) | vs prior year: $1.02 (-36.3%)
+    - Operating Cash Flow: $2.35B | vs prior quarter: $4.00B (-41.2%) | vs prior year: $2.12B (+10.7%)
+    - Investing Cash Flow: $-884.0M | vs prior quarter: $-2.17B (+59.2%) | vs prior year: $-1.51B (+41.7%)
+    - Financing Cash Flow: $-406.0M | vs prior quarter: $-1.91B (+78.8%) | vs prior year: $-1.55B (+73.8%)
+    - Capital Expenditures: $1.73B | vs prior quarter: $1.77B (-2.1%) | vs prior year: $1.50B (+15.0%)
+    - Free Cash Flow: $621.0M | vs prior quarter: $2.23B (-72.1%) | vs prior year: $619.0M (+0.3%)
+    - D&A: $578.0M | vs prior quarter: $551.0M (+4.9%) | vs prior year: $461.0M (+25.4%)
+    - Current Assets: $31.22B | vs prior quarter: $29.05B (+7.5%) | vs prior year: $24.69B (+26.4%)
+    - Current Liabilities: $21.82B | vs prior quarter: $21.45B (+1.7%) | vs prior year: $16.37B (+33.3%)
+    - Cash & Equivalents: $18.32B | vs prior quarter: $17.50B (+4.7%) | vs prior year: $16.23B (+12.9%)
+    - Inventory: $8.11B | vs prior quarter: $6.69B (+21.2%) | vs prior year: $4.73B (+71.3%)
+    - Accounts Receivable: $2.08B | vs prior quarter: $2.31B (-10.0%) | vs prior year: $2.13B (-2.3%)
+    - Accounts Payable: $11.21B | vs prior quarter: $11.17B (+0.4%) | vs prior year: $7.56B (+48.3%)
+    - Long-Term Debt: $2.10B | vs prior quarter: $2.25B (-7.0%) | vs prior year: $6.88B (-69.5%)
+    - Short-Term Debt: $1.06B | vs prior quarter: $1.17B (-9.5%) | vs prior year: $1.08B (-2.3%)
+    - Total Debt: $3.15B | vs prior quarter: $3.42B (-7.9%) | vs prior year: $7.96B (-60.4%)
+    - Stockholders' Equity: $36.38B | vs prior quarter: $34.09B (+6.7%) | vs prior year: $24.80B (+46.7%)
+    - Goodwill: $196.0M | vs prior quarter: $200.0M (-2.0%) | vs prior year: $203.0M (-3.4%)
+    - PP&E: $21.09B | vs prior quarter: $20.03B (+5.3%) | vs prior year: $15.66B (+34.7%)
+
+=== Q3 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Revenue: $21.45B | vs prior quarter: $16.93B (+26.7%) | vs prior year: $13.76B (+55.9%)
+    - Cost of Revenue: $16.07B | vs prior quarter: $12.70B (+26.6%) | vs prior year: $10.10B (+59.2%)
+    - Gross Profit: $5.38B | vs prior quarter: $4.23B (+27.1%) | vs prior year: $3.66B (+47.0%)
+    - R&D Expense: $733.0M | vs prior quarter: $667.0M (+9.9%) | vs prior year: $611.0M (+20.0%)
+    - SG&A Expense: $961.0M | vs prior quarter: $961.0M (+0.0%) | vs prior year: $994.0M (-3.3%)
+    - Operating Income: $3.69B | vs prior quarter: $2.46B (+49.7%) | vs prior year: $2.00B (+84.0%)
+    - Net Income: $3.29B | vs prior quarter: $2.26B (+45.7%) | vs prior year: $1.62B (+103.5%)
+    - Diluted EPS: $0.95 | vs prior quarter: $0.65 (+46.2%) | vs prior year: $0.48 (+97.9%)
+    - Operating Cash Flow: $9.10B | vs prior quarter: $2.35B (+286.9%) | vs prior year: $4.79B (+90.0%)
+    - Investing Cash Flow: $-4.96B | vs prior quarter: $-884.0M (-460.9%) | vs prior year: $-4.44B (-11.7%)
+    - Financing Cash Flow: $-2.63B | vs prior quarter: $-406.0M (-546.8%) | vs prior year: $-2.40B (-9.6%)
+    - Capital Expenditures: $3.57B | vs prior quarter: $1.73B (+106.4%) | vs prior year: $3.17B (+12.7%)
+    - Free Cash Flow: $5.53B | vs prior quarter: $621.0M (+789.7%) | vs prior year: $1.62B (+240.8%)
+    - D&A: $620.0M | vs prior quarter: $578.0M (+7.3%) | vs prior year: $495.0M (+25.3%)
+    - Current Assets: $35.99B | vs prior quarter: $31.22B (+15.3%) | vs prior year: $25.00B (+43.9%)
+    - Current Liabilities: $24.61B | vs prior quarter: $21.82B (+12.8%) | vs prior year: $18.05B (+36.3%)
+    - Cash & Equivalents: $19.53B | vs prior quarter: $18.32B (+6.6%) | vs prior year: $16.07B (+21.6%)
+    - Inventory: $10.33B | vs prior quarter: $8.11B (+27.4%) | vs prior year: $5.20B (+98.6%)
+    - Accounts Receivable: $2.19B | vs prior quarter: $2.08B (+5.3%) | vs prior year: $1.96B (+11.7%)
+    - Accounts Payable: $13.90B | vs prior quarter: $11.21B (+23.9%) | vs prior year: $8.26B (+68.2%)
+    - Long-Term Debt: $1.42B | vs prior quarter: $2.10B (-32.3%) | vs prior year: $5.44B (-73.9%)
+    - Short-Term Debt: $979.0M | vs prior quarter: $1.06B (-7.4%) | vs prior year: $1.21B (-18.9%)
+    - Total Debt: $2.40B | vs prior quarter: $3.15B (-24.0%) | vs prior year: $6.65B (-63.9%)
+    - Stockholders' Equity: $39.85B | vs prior quarter: $36.38B (+9.6%) | vs prior year: $27.05B (+47.3%)
+    - Goodwill: $191.0M | vs prior quarter: $196.0M (-2.6%) | vs prior year: $201.0M (-5.0%)
+    - PP&E: $21.93B | vs prior quarter: $21.09B (+3.9%) | vs prior year: $17.30B (+26.8%)
+
+=== Q4 2022 ===
+Management said:
+Guidance given:
+  - There's also the long-term potential of Optimus where we're able to use our expertise in electric motors and power electronics, batteries and advanced manufacturing to be able to make a humanoid robot that is actually useful and can be made at high volume with exceptional capabilities, because of the -- or robot AI that, where we take the -- because the car is like a robot on four wheels and Optimus is a robot on legs.
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Revenue: $81.46B | vs prior quarter: — | vs prior year: $53.82B (+51.4%)
+    - Cost of Revenue: $60.61B | vs prior quarter: — | vs prior year: $40.22B (+50.7%)
+    - Gross Profit: $20.85B | vs prior quarter: — | vs prior year: $13.61B (+53.3%)
+    - R&D Expense: $3.08B | vs prior quarter: — | vs prior year: $2.59B (+18.6%)
+    - SG&A Expense: $3.95B | vs prior quarter: — | vs prior year: $4.52B (-12.6%)
+    - Operating Income: $13.66B | vs prior quarter: — | vs prior year: $6.52B (+109.4%)
+    - Net Income: $12.56B | vs prior quarter: — | vs prior year: $5.52B (+127.5%)
+    - Diluted EPS: $3.62 | vs prior quarter: — | vs prior year: $1.63 (+122.1%)
+    - Operating Cash Flow: $14.72B | vs prior quarter: — | vs prior year: $11.50B (+28.1%)
+    - Investing Cash Flow: $-11.97B | vs prior quarter: — | vs prior year: $-7.87B (-52.2%)
+    - Financing Cash Flow: $-3.53B | vs prior quarter: — | vs prior year: $-5.20B (+32.2%)
+    - Capital Expenditures: $7.16B | vs prior quarter: — | vs prior year: $6.48B (+10.4%)
+    - Free Cash Flow: $7.57B | vs prior quarter: — | vs prior year: $5.01B (+50.9%)
+    - D&A: $2.42B | vs prior quarter: — | vs prior year: $1.91B (+26.7%)
+    - Current Assets: $40.92B | vs prior quarter: — | vs prior year: $27.10B (+51.0%)
+    - Current Liabilities: $26.71B | vs prior quarter: — | vs prior year: $19.70B (+35.5%)
+    - Cash & Equivalents: $16.25B | vs prior quarter: — | vs prior year: $17.58B (-7.5%)
+    - Inventory: $12.84B | vs prior quarter: — | vs prior year: $5.76B (+123.0%)
+    - Accounts Receivable: $2.95B | vs prior quarter: — | vs prior year: $1.91B (+54.3%)
+    - Accounts Payable: $15.26B | vs prior quarter: — | vs prior year: $10.03B (+52.2%)
+    - Long-Term Debt: $1.03B | vs prior quarter: — | vs prior year: $4.25B (-75.8%)
+    - Short-Term Debt: $1.02B | vs prior quarter: — | vs prior year: $1.09B (-6.6%)
+    - Total Debt: $2.04B | vs prior quarter: — | vs prior year: $5.34B (-61.7%)
+    - Stockholders' Equity: $44.70B | vs prior quarter: — | vs prior year: $30.19B (+48.1%)
+    - Goodwill: $194.0M | vs prior quarter: — | vs prior year: $200.0M (-3.0%)
+    - PP&E: $23.55B | vs prior quarter: — | vs prior year: $18.88B (+24.7%)
+
