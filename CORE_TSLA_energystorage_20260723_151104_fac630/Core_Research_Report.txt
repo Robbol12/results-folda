@@ -1,0 +1,172 @@
+[CORE RESEARCH] TSLA: energy storage
+
+Quarters searched: 4
+Filing sections searched: 77
+
+Throughout 2021, Tesla emphasized the critical role of lithium-ion batteries, particularly iron phosphate cathode chemistry, in solving the energy storage challenge. Management consistently highlighted strong demand and ambitious growth targets for energy storage deployments, including Powerwall and Megapack products. Actual deployment figures increased steadily each quarter, from 0.445 GWh in Q1 to 3.99 GWh by year-end, though some discrepancies in reported figures suggest variability in milestone timing. Guidance evolved from targeting 100 GWh annualized cell supply to a long-term vision of a terawatt-hour per year energy business, with a clear transition toward iron-based stationary storage systems. Despite some variability in quarterly results, the overall trajectory showed growth and strategic shifts in chemistry and scale.
+
+Forecasting credibility: Medium
+Tesla provided two guidance/actual pairs with mixed outcomes: the Q2 2021 target to grow cell supply ahead of 50% year-on-year growth was not fully met as actual deployments were lower than implied, but the Q3 2021 deployment figure of 3.01 GWh met the prior guidance. The presence of both met and missed targets indicates moderate forecasting reliability. The use of filing-sourced actuals lends credibility to the assessment, though variability in deployment timing and milestone recognition introduces some uncertainty.
+
+Trends:
+  - Increasing energy storage deployments over 2021
+  - Shift toward iron phosphate cathode chemistry
+  - Ambitious long-term growth targets
+  - Quarterly variability in deployment milestones
+  - Integration of energy storage with solar and EV charging
+
+Recurring themes/risks:
+  - Cell supply bottlenecks impacting growth
+  - Timing variability of Megapack project milestones
+  - Transition from nickel to iron-based chemistries
+  - High demand for stationary storage products
+
+Key concerns:
+  - Discrepancies in deployment figures between quarters suggest timing and milestone recognition issues that complicate forecasting accuracy.
+  - The large difference between early 2021 reported deployments (445 GWh in Q1 filing) and subsequent quarterly figures (1.72 GWh in Q2, 3.01 GWh in Q3) indicates possible reporting inconsistencies or typographical errors in filings that require clarification.
+
+Conclusion:
+Tesla's energy storage business showed clear growth momentum throughout 2021, supported by management's strategic shift to iron phosphate cathode chemistry and ambitious capacity targets. While actual deployment figures increased steadily, some inconsistencies and timing variability in quarterly results highlight challenges in precise forecasting. Management's guidance was partially met, reflecting moderate credibility in their projections. The company's long-term vision of scaling to a terawatt-hour per year energy storage business aligns with its integrated approach combining solar, storage, and EV charging solutions. Overall, Tesla is positioned to expand its energy storage footprint, though supply chain and milestone timing risks remain key factors to monitor.
+
+--- By Reporting Period ---
+
+=== Q1 2021 ===
+Management said:
+  - Elon Musk There’s no question in my mind whatsoever that the energy storage problem can be solved with lithium-ion batteries, zero.
+  - However, stationary storage, the energy density is not as important because it’s just staying on the ground and so I think the vast majority of stationary storage will be iron-based lithium-ion cells with an iron phosphate cathode, technically.
+  - And so by having battery storage power with solar and wind, this gives the long-term solution to a stable energy future, and as I said, especially each both at the local level and at the utility level.
+  - No good form of power storage.
+  - In addition, it is important to have large battery storage at the utility level so that solar and wind, which are the main forms of renewable electricity can be -- that electricity can be stored because sometimes the wind doesn’t blow.
+  - But if you have a battery, you can store the energy and provide the energy to the grid as needed.
+  - There’s no power in storage.
+  - The first question is, proponents of alternative grid storage technologies claim that lithium ion is unsuited to long-term storage at scale due to vampire drain.
+Guidance given:
+Actual reported:
+  - [None] [from 10-K/10-Q] In 2021, we have deployed 445 GWh of energy storage products and 92 megawatts of solar energy systems through the first quarter.
+  - [None] [from 10-K/10-Q] Energy generation and storage segment Revenues $ 494 $ 293 Gross profit $ ( 101 ) $ 11
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - In 2021, we have deployed 445 GWh of energy storage products and 92 megawatts of solar energy systems through the first quarter.
+    - Energy Generation and Storage Segment Energy generation and storage revenue includes sales and leasing of solar energy generation and energy storage products, services related to such products and sales of solar energy systems incentives.
+    - We continue to increase the production of our energy storage products to meet high levels of demand.
+    - As these product lines grow, we will have to maintain adequate battery cell supply for our energy storage products and hire additional personnel, particularly skilled electricians to support the ramp of Solar Roof.
+    - We design, develop, manufacture, lease and sell high-performance fully electric vehicles, solar energy generation systems and energy storage products.
+    - Energy Generation and Storage Segment Cost of energy generation and storage revenue includes direct and indirect material and labor costs, warehouse rent, freight, warranty expense, other overhead costs and amortization of certain acquired intangible assets.
+  [Financial Statements]
+    - 3 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 3 real filing table(s) available (see the HTML report).
+    - We design, develop, manufacture and sell high-performance fully electric vehicles and design, manufacture, install and sell solar energy generation and energy storage products.
+    - Indemnification and Guaranteed Returns We are contractually obligated to compensate certain fund investors for any losses that they may suffer in certain limited circumstances resulting from reductions in investment tax credits claimed under U.S. federal laws for the installation of solar power facilities and energy storage systems that are charged from a co-sited solar power facility (“ITC”s).
+    - The energy generation and storage segment includes the design, manufacture, installation, sales, and leasing of solar energy generation and energy storage products and related services and sales of solar energy systems incentives.
+    - We have two operating and reportable segments: (i) automotive and (ii) energy generation and storage.
+  [Risk Factors]
+    - Likewise, as our solar energy systems and energy storage products generate and store electricity, they have the potential to fail or cause injury to people or property.
+    - Finally, as a manufacturer, installer and service provider with respect to solar generation and energy storage systems, and a supplier of electricity generated and stored by certain of the solar energy and energy storage systems we install for customers, we are impacted by federal, state and local regulations and policies concerning electricity pricing, the interconnection of electricity generation and storage equipment with the electrical grid and the sale of electricity generated by third party-owned systems.
+    - If regulations and policies that adversely impact the interconnection or use of our solar and energy storage systems are introduced, they could deter potential customers from purchasing our solar and energy storage products, threaten the economics of our existing contracts and cause us to cease solar and energy storage system sales and operations in the relevant jurisdictions, which may harm our business, financial condition and operating results.
+    - For example, our vehicles and energy storage products are designed with built-in data connectivity to accept and install periodic remote updates from us to improve or update their functionality.
+    - As part of our energy generation and storage system contracts, we may provide the customer with performance guarantees that guarantee that the underlying system will meet or exceed the minimum energy generation or other energy performance requirements specified in the contract.
+    - We also face competition in our energy generation and storage business from other manufacturers, developers, installers and service providers of competing energy systems, as well as from large utilities.
+
+=== Q2 2021 ===
+Management said:
+  - Andrew Baglino -- Senior Vice President, Powertrain and Energy Engineering Yeah, given concerns over cell's bottlenecking growth, our target is to grow the cell supply ahead of the 50% year-on-year growth targets of the vehicle business, and also enable increased energy storage deployments.
+  - And I think long term, possibly all -- there's a good chance that all stationery storage that is Powerwall and Megapack move to iron.
+  - We have a significant unmet demand in stationary storage.
+Guidance given:
+  - Andrew Baglino -- Senior Vice President, Powertrain and Energy Engineering Yeah, given concerns over cell's bottlenecking growth, our target is to grow the cell supply ahead of the 50% year-on-year growth targets of the vehicle business, and also enable increased energy storage deployments.
+  - Andrew Baglino -- Senior Vice President, Powertrain and Energy Engineering We'll have all the equipment installed to accomplish 100-gigawatt hours, and it's possible that by the end of the year, we will be at an annualized rate of 100-gigawatt hours by the end of the year.
+Actual reported:
+  - [None] [from 10-K/10-Q] In 2021, we have deployed 1.72 GWh of energy storage products and 177 megawatts of solar energy systems through the second quarter.
+  - [None] [from 10-K/10-Q] Energy generation and storage revenue increased by $431 million, or 116%, in the three months ended June 30, 2021 as compared to the three months ended June 30, 2020.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - In 2021, we have deployed 1.72 GWh of energy storage products and 177 megawatts of solar energy systems through the second quarter.
+    - Energy Generation and Storage Segment Energy generation and storage revenue includes sales and leasing of solar energy generation and energy storage products, services related to such products and sales of solar energy systems incentives.
+    - For Megapack, energy storage deployments can vary meaningfully quarter to quarter depending on the timing of specific project milestones.
+    - We continue to increase the production of our energy storage products to meet high levels of demand, but such production is also sensitive to global component constraints.
+    - We design, develop, manufacture, lease and sell high-performance fully electric vehicles, solar energy generation systems and energy storage products.
+    - As these product lines grow, we will have to maintain adequate battery cell supply for our energy storage products and hire additional personnel, particularly skilled electricians, to support the ramp of Solar Roof.
+  [Financial Statements]
+    - 3 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 3 real filing table(s) available (see the HTML report).
+    - We design, develop, manufacture and sell high-performance fully electric vehicles and design, manufacture, install and sell solar energy generation and energy storage products.
+    - Indemnification and Guaranteed Returns We are contractually obligated to compensate certain fund investors for any losses that they may suffer in certain limited circumstances resulting from reductions in investment tax credits claimed under U.S. federal laws for the installation of solar power facilities and energy storage systems that are charged from a co-sited solar power facility (“ITC”s).
+    - The energy generation and storage segment includes the design, manufacture, installation, sales, and leasing of solar energy generation and energy storage products and related services and sales of solar energy systems incentives.
+    - We have two operating and reportable segments: (i) automotive and (ii) energy generation and storage.
+  [Risk Factors]
+    - Likewise, as our solar energy systems and energy storage products generate and store electricity, they have the potential to fail or cause injury to people or property.
+    - Finally, as a manufacturer, installer and service provider with respect to solar generation and energy storage systems, and a supplier of electricity generated and stored by certain of the solar energy and energy storage systems we install for customers, we are impacted by federal, state and local regulations and policies concerning electricity pricing, the interconnection of electricity generation and storage equipment with the electrical grid and the sale of electricity generated by third party-owned systems.
+    - If regulations and policies that adversely impact the interconnection or use of our solar and energy storage systems are introduced, they could deter potential customers from purchasing our solar and energy storage products, threaten the economics of our existing contracts and cause us to cease solar and energy storage system sales and operations in the relevant jurisdictions, which may harm our business, financial condition and operating results.
+    - For example, our vehicles and energy storage products are designed with built-in data connectivity to accept and install periodic remote updates from us to improve or update their functionality.
+    - As part of our energy generation and storage system contracts, we may provide the customer with performance guarantees that guarantee that the underlying system will meet or exceed the minimum energy generation or other energy performance requirements specified in the contract.
+    - We also face competition in our energy generation and storage business from other manufacturers, developers, installers and service providers of competing energy systems, as well as from large utilities.
+
+=== Q3 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Met] [from 10-K/10-Q] In 2021, we have deployed 3.01 GWh of energy storage products and 260 megawatts of solar energy systems through the third quarter.
+  - [Missed] [from 10-K/10-Q] In 2021, we have deployed 3.01 GWh of energy storage products and 260 megawatts of solar energy systems through the third quarter.
+  - [None] [from 10-K/10-Q] Energy generation and storage revenue increased by $227 million, or 39%, in the three months ended September 30, 2021 as compared to the three months ended September 30, 2020.
+  - [None] [from 10-K/10-Q] Cost of energy generation and storage revenue increased by $990 million, or 83%, in the nine months ended September 30, 2021 as compared to the nine months ended September 30, 2020.
+  - [None] Similar dynamics are also playing out in our storage business as we are working to expand Powerwall and Megapack production as quickly as parts themselves allow us to do so.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - In 2021, we have deployed 3.01 GWh of energy storage products and 260 megawatts of solar energy systems through the third quarter.
+    - Energy Generation and Storage Segment Energy generation and storage revenue includes sales and leasing of solar energy generation and energy storage products, services related to such products and sales of solar energy systems incentives.
+    - For Megapack, energy storage deployments can vary meaningfully quarter to quarter depending on the timing of specific project milestones.
+    - Gross margin for energy generation and storage decreased from 4% to 0% in the three months ended September 30, 2021 as compared to the three months ended September 30, 2020, primarily due to a higher proportion of Solar Roof in our overall energy business, which operated at lower gross margins as a result of temporary manufacturing underutilization during product ramp, despite gross margin improvements compared to the prior period, partially offset by improved gross margins in our energy storage business.
+    - We design, develop, manufacture, lease and sell high-performance fully electric vehicles, solar energy generation systems and energy storage products.
+    - As these product lines grow, we will have to maintain adequate battery cell supply for our energy storage products and hire additional personnel, particularly skilled electricians, to support the ramp of Solar Roof.
+  [Financial Statements]
+    - 3 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 3 real filing table(s) available (see the HTML report).
+    - We design, develop, manufacture and sell high-performance fully electric vehicles and design, manufacture, install and sell solar energy generation and energy storage products.
+    - Indemnification and Guaranteed Returns We are contractually obligated to compensate certain fund investors for any losses that they may suffer in certain limited circumstances resulting from reductions in investment tax credits claimed under U.S. federal laws for the installation of solar power facilities and energy storage systems that are charged from a co-sited solar power facility (“ITC”s).
+    - The energy generation and storage segment includes the design, manufacture, installation, sales, and leasing of solar energy generation and energy storage products and related services and sales of solar energy systems incentives.
+    - We have two operating and reportable segments: (i) automotive and (ii) energy generation and storage.
+  [Risk Factors]
+    - Likewise, as our solar energy systems and energy storage products generate and store electricity, they have the potential to fail or cause injury to people or property.
+    - Finally, as a manufacturer, installer and service provider with respect to solar generation and energy storage systems, a supplier of electricity generated and stored by certain of the solar energy and energy storage systems we install for customers, and a provider of grid services through virtual power plant models, we are impacted by federal, state and local regulations and policies concerning electricity pricing, the interconnection of electricity generation and storage equipment with the electrical grid and the sale of electricity generated by third party-owned systems.
+    - If regulations and policies that adversely impact the interconnection or use of our solar and energy storage systems are introduced, they could deter potential customers from purchasing our solar and energy storage products and services, threaten the economics of our existing contracts and cause us to cease solar and energy storage system sales and services in the relevant jurisdictions, which may harm our business, financial condition and operating results.
+    - We also face competition in our energy generation and storage business from other manufacturers, developers, installers and service providers of competing energy technologies, as well as from large utilities.
+    - For example, our vehicles and energy storage products are designed with built-in data connectivity to accept and install periodic remote updates from us to improve or update their functionality.
+    - As part of our energy generation and storage system contracts, we may provide the customer with performance guarantees that guarantee that the underlying system will meet or exceed the minimum energy generation or other energy performance requirements specified in the contract.
+
+=== Q4 2021 ===
+Management said:
+  - Is it something that you guys are going to deploy in all cars, whatever the chemistry also in the Megapack, in all your energy storage business?
+  - I think it really becomes quite a compelling solution to the consumer where you integrate the electric vehicles charging, solar, energy storage, hot water, HVAC in a very tight compact package that also looks good.
+  - To be clear, we do think that old stationary storage, Powerwall and Megapack, will be -- will transition to an iron-based system, basically a non-nickel system.
+  - Elon, I guess, my question is around the Megapack or your energy business.
+Guidance given:
+  - To be clear, we do think that old stationary storage, Powerwall and Megapack, will be -- will transition to an iron-based system, basically a non-nickel system.
+  - So, you see that '22 is kind of the opening of that the energy business reaccelerating?
+  - So, we do see a very -- I mean, long-term probably terawatt-hour per year energy business.
+  - I mean, either way, I think our plans are pretty ambitious for Megapack this year and storage in general.
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - In 2021, we deployed 3.99 GWh of energy storage products and 345 megawatts of solar energy systems.
+    - Energy Generation and Storage Segment Energy generation and storage revenue includes sales and leasing of solar energy generation and energy storage products, services related to such products and sales of solar energy systems incentives.
+    - For Megapack, energy storage deployments can vary meaningfully quarter to quarter depending on the timing of specific project milestones.
+    - We design, develop, manufacture, lease and sell high-performance fully electric vehicles, solar energy generation systems and energy storage products.
+    - As these product lines grow, we will have to maintain adequate battery cell supply for our energy storage products and hire additional personnel, particularly skilled electricians, to support the ramp of Solar Roof.
+    - Energy Generation and Storage Segment Cost of energy generation and storage revenue includes direct and indirect material and labor costs, warehouse rent, freight, warranty expense, other overhead costs and amortization of certain acquired intangible assets.
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - Likewise, as our solar energy systems and energy storage products generate and store electricity, they have the potential to fail or cause injury to people or property.
+    - Finally, as a manufacturer, installer and service provider with respect to solar generation and energy storage systems, a supplier of electricity generated and stored by certain of the solar energy and energy storage systems we install for customers, and a provider of grid services through virtual power plant models, we are impacted by federal, state and local regulations and policies concerning electricity pricing, the interconnection of electricity generation and storage equipment with the electrical grid and the sale of electricity generated by third party-owned systems.
+    - If regulations and policies that adversely impact the interconnection or use of our solar and energy storage systems are introduced, they could deter potential customers from purchasing our solar and energy storage products and services, threaten the economics of our existing contracts and cause us to cease solar and energy storage system sales and services in the relevant jurisdictions, which may harm our business, financial condition and operating results.
+    - We also face competition in our energy generation and storage business from other manufacturers, developers, installers and service providers of competing energy technologies, as well as from large utilities.
+    - For example, our vehicles and energy storage products are designed with built-in data connectivity to accept and install periodic remote updates from us to improve or update their functionality.
+    - As part of our energy generation and storage system contracts, we may provide the customer with performance guarantees that guarantee that the underlying system will meet or exceed the minimum energy generation or other energy performance requirements specified in the contract.
+
