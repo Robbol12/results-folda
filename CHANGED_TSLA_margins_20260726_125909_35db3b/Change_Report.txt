@@ -1,0 +1,29 @@
+[WHAT CHANGED SINCE LAST QUARTER] TSLA: margins
+
+Quarters compared: TSLA_Q3_2025, TSLA_Q4_2025
+Change detected: True
+
+Management reported a significant improvement in automotive margins excluding credits, rising from 15.4% in Q3 to 17.9% in Q4, despite a 16% decline in deliveries. The Q4 commentary also introduced the transition to a subscription-based model for Full Self-Driving (FSD), which is expected to impact automotive margins negatively in the short term. Additionally, while energy storage margins remained strong with record deployments and gross profit in both quarters, Q4 emphasized record annual energy revenue growth and flagged margin and supply chain pressures for the year ahead.
+
+Key quotes:
+  - "Our automotive margins, excluding credits, increased marginally from 15% to 15.4%. This was attributed to improvements in material cost and better fixed cost absorption due to higher volumes."
+  - "The energy storage business continued to deliver with record deployments, gross profit, and margins."
+
+--- Evidence (with surrounding context) ---
+1. [TSLA_Q3_2025] Now covering a little bit on the financial side, automotive revenues increased 29% in line with the growth in deliveries. While regulatory credits declined sequentially, we entered into new contracts and continued delivery on previously entered contracts. Our automotive margins, excluding credits, increased marginally from 15% to 15.4%. This was attributed to improvements in material cost and better fixed cost absorption due to higher volumes. The energy storage business continued to deliver with record deployments, gross profit, and margins.
+
+2. [TSLA_Q3_2025] It's just aiming for a gentle ride the whole time. That's what Cyber Cap is. Do I think we'll sacrifice margins? I don't think so. I think the demand will be pretty nutty.
+
+3. [TSLA_Q3_2025] Vaibhav Taneja: Thanks, Travis. Q3 was a special quarter at multiple levels. We set new records not just for deliveries and deployments, but also around a range of financial metrics from total revenues, energy gross profit, energy margins to fresh free cash flow. This was the result of continued confidence of our customers in our products and the relentless efforts of the Tesla team. The strength in deliveries was attributed to strong performance across all regions.
+
+4. [TSLA_Q3_2025] Our automotive margins, excluding credits, increased marginally from 15% to 15.4%. This was attributed to improvements in material cost and better fixed cost absorption due to higher volumes. The energy storage business continued to deliver with record deployments, gross profit, and margins. As discussed before, this business has a bigger impact from tariffs, as measured by percentage of COGS since currently all sales procured are from China while we're still working on other alternatives. However, as the ramp of mega factory Shanghai is happening, this is helping us avoid tariffs.
+
+5. [TSLA_Q4_2025] On the storage front, we hit yet another record in terms of deployments. I would like to thank our customers and Tesla, Inc. for continuing this momentum. On the automotive margins front, automotive margins, excluding credits, improved sequentially from 15.4% to 17.9%. Automotive gross profit was flat sequentially despite 16% lower deliveries, primarily due to regional mix as we had proportionately more deliveries in APAC and EMEA. As we look to 2026, with the progress that has been made with autonomy, our focus is on ramping production at all our factories.
+
+6. [TSLA_Q4_2025] Of these, nearly 70% were upfront purchases. It is important to note that beginning this quarter, we are transitioning fully to a subscription-based model for FSD. Therefore, net additions to this figure will primarily be via subscription model and, in the short term, will impact automotive margins. On the energy front, we achieved yet another record in terms of gross profit for the quarter and ended the year with nearly $12.8 billion in revenue, a 26.6% year-over-year growth. This was the result of high deployments in all regions and continued strength in demand for both MegaPack and Powerwall.
+
+7. [TSLA_Q4_2025] Summary Tesla ( TSLA 0.87% ) delivered sequential improvement in automotive margins, record gross margins, and strong revenue growth in energy, while preparing for a transformative shift with higher future capital expenditures and the wind-down of legacy vehicle production. Management outlined aggressive expansion plans focusing on autonomous vehicle and robotics, massive investments in AI compute and factories, and a pivot to a subscription model for FSD, all supported by a robust backlog but tempered by margin and supply chain pressures articulated for the year ahead. CEO Musk announced the end of Model S and X production next quarter, reallocating Fremont capacity for Optimus robot manufacturing.
+
+8. [TSLA_Q4_2025] CEO Musk announced the end of Model S and X production next quarter, reallocating Fremont capacity for Optimus robot manufacturing. The CyberCab, a fully autonomous vehicle with no steering wheel or pedals, is scheduled for production start in April and is expected to become the highest-volume model longer-term. FSD adoption reached nearly 1.1 million paid customers, with a full transition to a subscription model expected to impact short-term automotive margins. Record quarterly and annual energy results were reported, with management forecasting continued growth but flagging risk of margin compression. AI chip and compute investments are set to increase further, and management signaled plans for domestic semiconductor manufacturing to address long-term supply risks.
+
+Total evidence entries: 8
