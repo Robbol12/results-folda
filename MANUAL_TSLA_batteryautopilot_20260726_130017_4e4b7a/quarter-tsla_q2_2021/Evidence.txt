@@ -1,0 +1,31 @@
+[TSLA_Q2_2021] battery; autopilot
+
+--- Evidence in Transcript Order ---
+1. [Sentence #72]  There are -- and we went through this on the [white on yellow]battery[/white on yellow] cell day, really dozens of -- half a dozen major improvements and dozens of small improvements.
+2. [Sentence #280]  And the nice thing about having that facility on a fast-track like we had it, and we talked about it at [white on yellow]battery[/white on yellow] day, was really de-risking the big factories here.
+3. [Sentence #384]  At scale, it will have billions of miles of travel to be able to show that it is the safety of the car with [white on yellow]autopilot[/white on yellow] on is 100% or 200% or more safer than the average human driver.
+4. [Sentence #385]  At that point, I think it would be unconscionable to not to allow [white on yellow]autopilot[/white on yellow] because the car just becomes way less safe.
+5. [Sentence #410]  Rod Lache -- Wolfe Research -- Analyst
+
+OK. And maybe just separately from this, can you just clarify what the status is of some of the advances in [white on yellow]battery[/white on yellow] manufacturing, things like dry cathode mixing that you talked about on [white on yellow]battery[/white on yellow] day?
+6. [Sentence #440]  But what about asking other [white on yellow]battery[/white on yellow] manufacturers to do 4680 cell with their own technology?
+7. [Sentence #448]  So right now, we kind of have the Baskin Robbins of batteries situation, where there's so many formats and so many chemistries, that it's like we've got like 36 flavors of [white on yellow]battery[/white on yellow] at this point.
+8. [Sentence #474]  As all transitions to a sustainable energy production, solar and wind are intermittent and by their nature really need [white on yellow]battery[/white on yellow] packs in order to provide a steady flow of electricity.
+
+Total transcript-order evidence sentences: 8
+
+--- Evidence by Similarity ---
+1. [Sentence #385]  (Similarity: 0.621) At that point, I think it would be unconscionable to not to allow [white on yellow]autopilot[/white on yellow] because the car just becomes way less safe.
+2. [Sentence #384]  (Similarity: 0.548) At scale, it will have billions of miles of travel to be able to show that it is the safety of the car with [white on yellow]autopilot[/white on yellow] on is 100% or 200% or more safer than the average human driver.
+3. [Sentence #448]  (Similarity: 0.522) So right now, we kind of have the Baskin Robbins of batteries situation, where there's so many formats and so many chemistries, that it's like we've got like 36 flavors of [white on yellow]battery[/white on yellow] at this point.
+4. [Sentence #72]  (Similarity: 0.500) There are -- and we went through this on the [white on yellow]battery[/white on yellow] cell day, really dozens of -- half a dozen major improvements and dozens of small improvements.
+5. [Sentence #410]  (Similarity: 0.492) Rod Lache -- Wolfe Research -- Analyst
+
+OK. And maybe just separately from this, can you just clarify what the status is of some of the advances in [white on yellow]battery[/white on yellow] manufacturing, things like dry cathode mixing that you talked about on [white on yellow]battery[/white on yellow] day?
+6. [Sentence #440]  (Similarity: 0.481) But what about asking other [white on yellow]battery[/white on yellow] manufacturers to do 4680 cell with their own technology?
+7. [Sentence #280]  (Similarity: 0.461) And the nice thing about having that facility on a fast-track like we had it, and we talked about it at [white on yellow]battery[/white on yellow] day, was really de-risking the big factories here.
+8. [Sentence #474]  (Similarity: 0.461) As all transitions to a sustainable energy production, solar and wind are intermittent and by their nature really need [white on yellow]battery[/white on yellow] packs in order to provide a steady flow of electricity.
+
+Total similarity-top evidence sentences: 8
+
+-----

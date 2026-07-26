@@ -1,0 +1,31 @@
+[TSLA_Q1_2021] battery; autopilot
+
+--- Evidence in Transcript Order ---
+1. [Sentence #60]  So it took quite a bit of development to ensure that the [white on yellow]battery[/white on yellow] of the new S/X is safe.
+2. [Sentence #104]  In particular for R&D, this includes the structural [white on yellow]battery[/white on yellow] pack and 4680 cells, investments in the new SNX, and our neural net and silicon investments.
+3. [Sentence #214]  But if you have a [white on yellow]battery[/white on yellow], you can store the energy and provide the energy to the grid as needed.
+4. [Sentence #221]  There must be solar plus [white on yellow]battery[/white on yellow].
+5. [Sentence #249]  And the fourth question from retail investors is, does Tesla have any proactive plans to tackle main stream media’s imminent massive and deceptive click bait headline campaigns on safety of [white on yellow]Autopilot[/white on yellow] or FSD, perhaps a specialty PR job of some sort?
+6. [Sentence #256]  I think, just with -- just going through the facts of what I mean, specifically, there were -- there was an article regarding a tragedy where there was a high speed accident in Tesla and it was really just extremely deceptive media practices where it was claimed to be [white on yellow]Autopilot[/white on yellow], which is completely false and those journalists should be ashamed of themselves.
+7. [Sentence #384]  I’d love to get actually based on what you presented on the [white on yellow]Battery[/white on yellow] Day.
+8. [Sentence #396]  And then we have already ordered most of the equipment for [white on yellow]battery[/white on yellow] production in Berlin and then much of it for Austin as well.
+9. [Sentence #407]  We did talk about yield also at [white on yellow]Battery[/white on yellow] Day, which is one of the reasons why it’s useful to check in on that.
+10. [Sentence #476]  We are also getting very heavy into 4680 development that Drew and team are working on and the associated structural [white on yellow]battery[/white on yellow] pack that goes along with that.
+
+Total transcript-order evidence sentences: 10
+
+--- Evidence by Similarity ---
+1. [Sentence #256]  (Similarity: 0.629) I think, just with -- just going through the facts of what I mean, specifically, there were -- there was an article regarding a tragedy where there was a high speed accident in Tesla and it was really just extremely deceptive media practices where it was claimed to be [white on yellow]Autopilot[/white on yellow], which is completely false and those journalists should be ashamed of themselves.
+2. [Sentence #249]  (Similarity: 0.506) And the fourth question from retail investors is, does Tesla have any proactive plans to tackle main stream media’s imminent massive and deceptive click bait headline campaigns on safety of [white on yellow]Autopilot[/white on yellow] or FSD, perhaps a specialty PR job of some sort?
+3. [Sentence #104]  (Similarity: 0.503) In particular for R&D, this includes the structural [white on yellow]battery[/white on yellow] pack and 4680 cells, investments in the new SNX, and our neural net and silicon investments.
+4. [Sentence #60]  (Similarity: 0.482) So it took quite a bit of development to ensure that the [white on yellow]battery[/white on yellow] of the new S/X is safe.
+5. [Sentence #221]  (Similarity: 0.455) There must be solar plus [white on yellow]battery[/white on yellow].
+6. [Sentence #384]  (Similarity: 0.451) I’d love to get actually based on what you presented on the [white on yellow]Battery[/white on yellow] Day.
+7. [Sentence #214]  (Similarity: 0.446) But if you have a [white on yellow]battery[/white on yellow], you can store the energy and provide the energy to the grid as needed.
+8. [Sentence #476]  (Similarity: 0.433) We are also getting very heavy into 4680 development that Drew and team are working on and the associated structural [white on yellow]battery[/white on yellow] pack that goes along with that.
+9. [Sentence #407]  (Similarity: 0.420) We did talk about yield also at [white on yellow]Battery[/white on yellow] Day, which is one of the reasons why it’s useful to check in on that.
+10. [Sentence #396]  (Similarity: 0.418) And then we have already ordered most of the equipment for [white on yellow]battery[/white on yellow] production in Berlin and then much of it for Austin as well.
+
+Total similarity-top evidence sentences: 10
+
+-----

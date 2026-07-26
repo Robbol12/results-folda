@@ -1,0 +1,23 @@
+[TSLA_Q3_2021] battery; autopilot
+
+--- Evidence in Transcript Order ---
+1. [Sentence #30]  Additionally, we have made good progress on the in-house [white on yellow]battery[/white on yellow] manufacturing program.
+2. [Sentence #58]  Earlier next year, from a non-cell perspective, structural [white on yellow]battery[/white on yellow] crash, range, and reliability testing are on track to be complete this quarter.
+3. [Sentence #131]  And doing so, we'll continue to be transparent to the public on how our technology is both developing from an [white on yellow]autopilot[/white on yellow] safety data, the latest of which we just shared in the shareholder update.
+4. [Sentence #179]  If you haven't experienced our latest iteration of [white on yellow]battery[/white on yellow] packs that can handle fast charge rates in combination with our 250-watt -- kilowatt charging stations, it's pretty incredible.
+5. [Sentence #186]  But it requires a combination of the 250-kilowatt charging in our latest iteration [white on yellow]battery[/white on yellow] packs.
+6. [Sentence #387]  You mentioned commodities arising, and when I look at a lot of the key raw materials in the [white on yellow]battery[/white on yellow], cobalt, nickel , lithium, all up 40%.
+
+Total transcript-order evidence sentences: 6
+
+--- Evidence by Similarity ---
+1. [Sentence #131]  (Similarity: 0.596) And doing so, we'll continue to be transparent to the public on how our technology is both developing from an [white on yellow]autopilot[/white on yellow] safety data, the latest of which we just shared in the shareholder update.
+2. [Sentence #58]  (Similarity: 0.556) Earlier next year, from a non-cell perspective, structural [white on yellow]battery[/white on yellow] crash, range, and reliability testing are on track to be complete this quarter.
+3. [Sentence #30]  (Similarity: 0.453) Additionally, we have made good progress on the in-house [white on yellow]battery[/white on yellow] manufacturing program.
+4. [Sentence #387]  (Similarity: 0.446) You mentioned commodities arising, and when I look at a lot of the key raw materials in the [white on yellow]battery[/white on yellow], cobalt, nickel , lithium, all up 40%.
+5. [Sentence #186]  (Similarity: 0.397) But it requires a combination of the 250-kilowatt charging in our latest iteration [white on yellow]battery[/white on yellow] packs.
+6. [Sentence #179]  (Similarity: 0.321) If you haven't experienced our latest iteration of [white on yellow]battery[/white on yellow] packs that can handle fast charge rates in combination with our 250-watt -- kilowatt charging stations, it's pretty incredible.
+
+Total similarity-top evidence sentences: 6
+
+-----
