@@ -1,0 +1,252 @@
+[CORE RESEARCH] TSLA: gross margin
+
+Quarters searched: 8
+Filing sections searched: 186
+
+Over the observed periods from Q1 2023 through Q4 2024, automotive gross margin showed a general declining trend from the low 20% range down to the high teens, with some sequential improvements noted in certain quarters. Management consistently highlighted challenges such as price cuts to improve vehicle affordability, warranty adjustments, deferred revenue impacts, and external factors like tariffs and incentives affecting margins. Energy generation and storage margins improved significantly over the same timeframe, partially offsetting automotive margin pressures. The company also noted improvements in services and other gross margins, though these were insufficient to reverse the overall automotive margin decline. Sequentially, some quarters showed stabilization or modest improvement, often linked to operational efficiencies or feature releases, but the year-over-year trend remained downward.
+
+Forecasting credibility: Low
+There were two guidance/actual pairs available, both indicating that management missed their gross margin expectations. For example, Q1 2023 guidance suggested mid-20% automotive gross margins or a 20% floor, but actuals were significantly lower at 21.1%. In Q2 2023, the actual automotive & services gross margin was 18.2%, missing expectations again. This pattern of misses undermines management's forecasting credibility on gross margin. No evidence of consistent met or exceeded guidance was found to support a higher rating.
+
+Trends:
+  - Declining automotive gross margin year-over-year
+  - Sequential margin improvements in select quarters
+  - Energy generation and storage margin improvement
+  - Services and other gross margin modest gains
+  - Impact of price cuts and warranty adjustments
+
+Recurring themes/risks:
+  - Price cuts to improve vehicle affordability
+  - Warranty adjustments on older vehicles
+  - Deferred revenue impacts from Autopilot feature transitions
+  - External factors like tariffs and local incentives
+  - Challenges in predicting automotive gross margin
+
+Key concerns:
+  - Significant year-over-year decline in automotive gross margin despite management's mid-20% guidance floor
+  - Repeated misses on gross margin guidance reduce confidence in forecasting accuracy
+  - Complexity and variability in margin drivers including one-time items and external factors complicate margin predictability
+
+Conclusion:
+Gross margin for the automotive segment has trended downward from around 21% in early 2023 to approximately 18.4% by the end of 2024, reflecting pressures from price cuts, warranty costs, and deferred revenue adjustments. While management aimed for mid-20% margins as a floor, actual results consistently fell short, indicating challenges in maintaining profitability at targeted levels. Energy generation and storage margins improved notably, partially offsetting automotive declines, but the overall automotive & services segment margin remained under pressure. Sequential improvements in some quarters suggest operational efficiencies and feature releases can positively impact margins, but the persistent year-over-year decline highlights ongoing margin compression risks. Management's guidance has not reliably predicted actual gross margin outcomes, reducing confidence in forward-looking margin forecasts.
+
+--- By Reporting Period ---
+
+=== Q1 2023 ===
+Management said:
+  - First, automotive gross margin and operating margin reduced sequentially.
+  - In particular, automotive gross margin was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve vehicle pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as increased deferred revenue for certain Autopilot features as we transition technologies.
+  - We generally look to mid-20% gross margins for any program that we launch.
+  - So, I think, I guess, a few months ago, even after major price cuts, you felt pretty strongly that 20% automotive gross margin was still probably a reasonable floor.
+  - Back on the automotive gross margins.
+  - The next question is, what do you anticipate 2023 automotive gross margins ex credits will be at the company's current pricing levels?
+  - But it's difficult to say what the margin will be.
+  - We are also making progress on storage profitability, generating our highest gross profit yet in the quarter.
+  - So if you took that to the extreme, it would seem that you'd be comfortable with a relatively low initial margin.
+Guidance given:
+  - We generally look to mid-20% gross margins for any program that we launch.
+  - So, I think, I guess, a few months ago, even after major price cuts, you felt pretty strongly that 20% automotive gross margin was still probably a reasonable floor.
+Actual reported:
+  - [None] [from 10-K/10-Q] Gross margin for total automotive decreased from 32.9% to 21.1% in the three months ended March 31, 2023 as compared to the three months ended March 31, 2022.
+  - [None] [from 10-K/10-Q] Gross margin for energy generation and storage improved from -11.7% to 11.0% in the three months ended March 31, 2023 as compared to the three months ended March 31, 2022.
+  - [None] In particular, automotive gross margin was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve vehicle pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as increased deferred revenue for certain Autopilot features as we transition technologies.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive & services and other segment decreased from 30.5% to 19.9% in the three months ended March 31, 2023 as compared to the three months ended March 31, 2022, primarily due to the automotive gross margin decrease discussed above, partially offset by an improvement in our services and other gross margin.
+    - Gross margin for total automotive decreased from 32.9% to 21.1% in the three months ended March 31, 2023 as compared to the three months ended March 31, 2022.
+    - Gross margin for energy generation and storage improved from -11.7% to 11.0% in the three months ended March 31, 2023 as compared to the three months ended March 31, 2022.
+    - Additionally, services and other was a higher percentage of the segment gross margin during the first quarter of 2023 as compared to the prior year.
+    - Additionally, there was a higher proportion of energy storage sales, which operated at a higher gross margin, within the segment.
+  [Financial Statements]
+    - Gross Profit: $4.51B | vs prior quarter: — | vs prior year: $5.46B (-17.4%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+    - As of March 31, 2023 and December 31, 2022 , the aggregate balances of our gross unrecognized tax benefits were $ 926 million and $ 870 million, respectively, of which $ 578 million and $ 572 million, respectively, would not give rise to changes in our effective tax rate since these tax benefits would increase a deferred tax asset that is currently fully offset by a valuation allowance.
+    - Operating Lease Vehicles The gross cost of operating lease vehicles as of March 31, 2023 and December 31, 2022 was $ 6.56 billion and $ 6.08 billion, respectively.
+    - In addition, the ASU amends the guidance on vintage disclosures to require entities to disclose current period gross write-offs by year of origination for financing receivables and net investments in leases within the scope of ASC 326-20.
+    - Given the uncertainty in timing and outcome of our tax examinations, an estimate of the range of the reasonably possible change in gross unrecognized tax benefits within twelve months cannot be made at this time.
+    - We have determined that the gross unrealized losses on our investments as of March 31, 2023 and December 31, 2022 were temporary in nature.
+    - For the three months ended March 31, 2023 and 2022, we did not recognize any material gross realized gains, losses or credit losses.
+
+=== Q2 2023 ===
+Management said:
+  - If we look specifically at our automotive business, our gross margin showed a modest reduction and remained healthy, despite action taken to further improve vehicle affordability early in the quarter.
+  - If I may, look, the short-term variances in gross margin and profitability really are minor relative to the long-term picture.
+  - With the emphasis of price cuts to drive volume growth eating into automotive gross margin, can investors expect to see automotive gross margin stabilize or even rise due to efficiencies outpacing the cuts?
+  - For our energy business, we improved margins and gross profit driven by cost reductions and deal economics, particularly with Megapack.
+Guidance given:
+Actual reported:
+  - [Missed] [from 10-K/10-Q] Gross margin for total automotive & services and other segment decreased from 25.7% to 18.2% in the three months ended June 30, 2023 as compared to the three months ended June 30, 2022.
+  - [Missed] [from 10-K/10-Q] Gross margin for total automotive & services and other segment decreased from 25.7% to 18.2% in the three months ended June 30, 2023 as compared to the three months ended June 30, 2022.
+  - [None] [from 10-K/10-Q] Gross margin for total automotive decreased from 27.9% to 19.2% in the three months ended June 30, 2023 as compared to the three months ended June 30, 2022.
+  - [None] [from 10-K/10-Q] Gross margin for total automotive decreased from 30.6% to 20.1% in the six months ended June 30, 2023 as compared to the six months ended June 30, 2022.
+  - [None] [from 10-K/10-Q] Gross margin for energy generation and storage improved from 11.2% to 18.4% in the three months ended June 30, 2023 as compared to the three months ended June 30, 2022.
+  - [None] [from 10-K/10-Q] Gross margin for energy generation and storage improved from 1.7% to 14.7% in the six months ended June 30, 2023 as compared to the six months ended June 30, 2022.
+  - [None] If we look specifically at our automotive business, our gross margin showed a modest reduction and remained healthy, despite action taken to further improve vehicle affordability early in the quarter.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive & services and other segment decreased from 28.3% to 19.0% in the six months ended June 30, 2023 as compared to the six months ended June 30, 2022, primarily due to the automotive gross margin decrease discussed above, partially offset by an improvement in our services and other gross margin.
+    - Gross margin for total automotive decreased from 27.9% to 19.2% in the three months ended June 30, 2023 as compared to the three months ended June 30, 2022.
+    - Gross margin for total automotive decreased from 30.6% to 20.1% in the six months ended June 30, 2023 as compared to the six months ended June 30, 2022.
+    - Gross margin for total automotive & services and other segment decreased from 25.7% to 18.2% in the three months ended June 30, 2023 as compared to the three months ended June 30, 2022.
+    - Gross margin for energy generation and storage improved from 1.7% to 14.7% in the six months ended June 30, 2023 as compared to the six months ended June 30, 2022.
+    - Gross margin for energy generation and storage improved from 11.2% to 18.4% in the three months ended June 30, 2023 as compared to the three months ended June 30, 2022.
+  [Financial Statements]
+    - Gross Profit: $4.53B | vs prior quarter: $4.51B (+0.5%) | vs prior year: $4.23B (+7.1%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+    - As of June 30, 2023 and December 31, 2022 , the aggregate balances of our gross unrecognized tax benefits were $ 1.01 billion and $ 870 million, respectively, of which $ 601 million and $ 572 million, respectively, would not give rise to changes in our effective tax rate since these tax benefits would increase a deferred tax asset that is currently fully offset by a valuation allowance.
+    - Operating Lease Vehicles The gross cost of operating lease vehicles as of June 30, 2023 and December 31, 2022 was $ 7.13 billion and $ 6.08 billion, respectively.
+    - In addition, the ASU amends the guidance on vintage disclosures to require entities to disclose current period gross write-offs by year of origination for financing receivables and net investments in leases within the scope of ASC 326-20.
+    - Given the uncertainty in timing and outcome of our tax examinations, an estimate of the range of the reasonably possible change in gross unrecognized tax benefits within twelve months cannot be made at this time.
+    - We have determined that the gross unrealized losses on our investments as of June 30, 2023 and December 31, 2022 were temporary in nature.
+    - For the three and six months ended June 30, 2023 and 2022, we did not recognize any material gross realized gains, losses or credit losses.
+
+=== Q3 2023 ===
+Management said:
+  - It’s about like your gross margin in the quarter.
+  - So, if you can give us the background on that and tell us how we should think about that gross margin going forward.
+  - Could you give us a sense of like in how the gross margin evolved sequentially, how much was the impact of idle cost?
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive & services and other segment decreased from 27.4% to 18.5% in the nine months ended September 30, 2023 as compared to the nine months ended September 30, 2022, primarily due to the automotive gross margin decrease discussed above while there was an improvement in our services and other gross margin.
+    - Gross margin for total automotive decreased from 29.6% to 19.7% in the nine months ended September 30, 2023 as compared to the nine months ended September 30, 2022.
+    - Gross margin for total automotive & services and other segment decreased from 26.0% to 17.4% in the three months ended September 30, 2023 as compared to the three months ended September 30, 2022.
+    - 31 Table of Contents Gross margin for total automotive decreased from 27.9% to 18.7% in the three months ended September 30, 2023 as compared to the three months ended September 30, 2022.
+    - Gross margin for energy generation and storage increased from 9.3% to 24.4% in the three months ended September 30, 2023 as compared to the three months ended September 30, 2022.
+    - Gross margin for energy generation and storage increased from 5.0% to 18.0% in the nine months ended September 30, 2023 as compared to the nine months ended September 30, 2022.
+  [Financial Statements]
+    - Gross Profit: $4.18B | vs prior quarter: $4.53B (-7.8%) | vs prior year: $5.38B (-22.4%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+    - As of September 30, 2023 and December 31, 2022, the aggregate balances of our gross unrecognized tax benefits were $ 1.04 billion and $ 870 million, respectively, of which $ 616 million and $ 572 million, respectively, would not give rise to changes in our effective tax rate since these tax benefits would increase a deferred tax asset that is currently fully offset by a valuation allowance.
+    - Operating Lease Vehicles The gross cost of operating lease vehicles as of September 30, 2023 and December 31, 2022 was $ 7.40 billion and $ 6.08 billion, respectively.
+    - In addition, the ASU amends the guidance on vintage disclosures to require entities to disclose current period gross write-offs by year of origination for financing receivables and net investments in leases within the scope of ASC 326-20.
+    - Given the uncertainty in timing and outcome of our tax examinations, an estimate of the range of the reasonably possible change in gross unrecognized tax benefits within twelve months cannot be made at this time.
+    - We have determined that the gross unrealized losses on our investments as of September 30, 2023 and December 31, 2022 were temporary in nature.
+    - For the three and nine months ended September 30, 2023 and 2022, we did not recognize any material gross realized gains, losses or credit losses.
+
+=== Q4 2023 ===
+Management said:
+  - As a result, our auto gross margin improved sequentially.
+  - That said, predicting auto gross margins is extremely challenging since there are many moving parts to this equation, some of which are out of our control like the change in tariffs or local incentives to name a few.
+  - The next question is, what is your expectation for automotive gross margin ex-regulatory credits for the full year?
+Guidance given:
+Actual reported:
+  - [None] As a result, our auto gross margin improved sequentially.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive decreased from 28.5% to 19.4% in the year ended December 31, 2023 as compared to the year ended December 31, 2022.
+    - Gross margin for total automotive & services and other segment decreased from 26.5% to 18.2% in the year ended December 31, 2023 as compared to the year ended December 31, 2022, primarily due to the automotive gross margin decrease discussed above.
+    - 40 Gross margin for energy generation and storage increased from 7.4% to 18.9% in the year ended December 31, 2023 as compared to the year ended December 31, 2022.
+    - The increase was driven by an improvement in our Megapack gross margin from lower average cost per MWh and a higher proportion of Megapack, which operated at a higher gross margin, within the segment as compared to the prior year periods.
+  [Financial Statements]
+    - Gross Profit: $17.66B | vs prior quarter: — | vs prior year: $20.85B (-15.3%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+    - The gross cost of operating lease vehicles as of December 31, 2023 and 2022 was $ 7.36 billion and $ 6.08 billion, respectively.
+    - In addition, the ASU amends the guidance on vintage disclosures to require entities to disclose current period gross write-offs by year of origination for financing receivables and net investments in leases within the scope of ASC 326-20.
+    - We have determined that the gross unrealized losses on our investments as of December 31, 2023 and 2022 were temporary in nature.
+    - For the years ended December 31, 2023 and 2022, we did not recognize any material gross realized gains, losses or credit losses.
+    - (2) As of December 31, 2023 and 2022, there were $ 740 million and $ 802 million, respectively, of gross solar energy systems under lease pass-through fund arrangements with accumulated depreciation of $ 157 million and $ 148 million, respectively.
+    - As of December 31, 2023 and 2022, we had cumulatively capitalized gross costs of $ 2.02 billion and $ 2.01 billion, respectively, on the consolidated balance sheets in relation to the production equipment under our Panasonic arrangement.
+    - Uncertain Tax Positions The changes to our gross unrecognized tax benefits were as follows (in millions): December 31, 2020 $ 380 Increases in balances related to prior year tax positions 117 Decreases in balances related to prior year tax positions ( 90 ) Increases in balances related to current year tax positions 124 December 31, 2021 531 Increases in balances related to prior year tax positions 136 Decreases in balances related to prior year tax positions ( 12 ) Increases in balances related to current year tax positions 222 Decreases in balances related to expiration of the statute of limitations ( 7 ) December 31, 2022 870 Increases in balances related to prior year tax positions 59 Decreases related to settlement with tax authorities ( 6 ) Increases in balances related to current year tax positions 255 Decreases in balances related to expiration of the statute of limitations ( 4 ) December 31, 2023 $ 1,174 We include interest and penalties related to unrecognized tax benefits in income tax expense.
+    - Given the uncertainty in timing and outcome of our tax examinations, an estimate of the range of the reasonably possible change in gross unrecognized tax benefits within twelve months cannot be made at this time.
+
+=== Q1 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [None] Auto margins declined from 18.9% to 18.5%.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive decreased from 21.1% to 18.5% in the three months ended March 31, 2024 as compared to the three months ended March 31, 2023.
+    - Gross margin for total automotive & services and other segment decreased from 19.9% to 16.7% in the three months ended March 31, 2024 as compared to the three months ended March 31, 2023, primarily due to the automotive gross margin decrease discussed above.
+    - Gross margin for energy generation and storage increased from 11.0% to 24.6% in the three months ended March 31, 2024 as compared to the three months ended March 31, 2023.
+  [Financial Statements]
+    - Gross Profit: $3.70B | vs prior quarter: — | vs prior year: $4.51B (-18.1%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+    - We have determined that the gross unrealized losses on our investments as of March 31, 2024 and December 31, 2023 were temporary in nature.
+    - For the three months ended March 31, 2024 and 2023, we did not recognize any material gross realized gains, losses or credit losses.
+    - Given the uncertainty in timing and outcome of our tax examinations, an estimate of the range of the reasonably possible change in gross unrecognized tax benefits within twelve months cannot be made at this time.
+
+=== Q2 2024 ===
+Management said:
+  - Moving on to the other parts of the business, service and other gross profits also improved sequentially from the improvement in service utilization and growth in our collision repair business.
+Guidance given:
+Actual reported:
+  - [None] On net, our auto margins remained flat sequentially.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive & services and other segment decreased from 19.0% to 16.9% in the six months ended June 30, 2024 as compared to the six months ended June 30, 2023, primarily due to the automotive gross margin decreases discussed above.
+    - Gross margin for total automotive decreased from 19.2% to 18.5% in the three months ended June 30, 2024 as compared to the three months ended June 30, 2023.
+    - Gross margin for total automotive decreased from 20.1% to 18.5% in the six months ended June 30, 2024 as compared to the six months ended June 30, 2023.
+    - 30 Table of Contents Gross margin for total automotive & services and other segment decreased from 18.2% to 17.1% in the three months ended June 30, 2024 as compared to the three months ended June 30, 2023.
+    - Gross margin for energy generation and storage increased from 18.4% to 24.6% in the three months ended June 30, 2024 as compared to the three months ended June 30, 2023.
+    - Gross margin for energy generation and storage increased from 14.7% to 24.6% in the six months ended June 30, 2024 as compared to the six months ended June 30, 2023.
+  [Financial Statements]
+    - Gross Profit: $4.58B | vs prior quarter: $3.70B (+23.9%) | vs prior year: $4.53B (+1.0%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+    - We have determined that the gross unrealized losses on our investments as of June 30, 2024 and December 31, 2023 were temporary in nature.
+    - For the three and six months ended June 30, 2024 and 2023, we did not recognize any material gross realized gains, losses or credit losses.
+    - Given the uncertainty in timing and outcome of our tax examinations, an estimate of the range of the reasonably possible change in gross unrecognized tax benefits within twelve months cannot be made at this time.
+
+=== Q3 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [None] Automotive margins improved quarter over quarter as a result of a feature release discussed before.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - The changes in gross margin are primarily due to the automotive gross margin factors discussed above.
+    - Gross margin for total automotive & services and other segment increased from 17.4% to 18.7% in the three months ended September 30, 2024 as compared to the three months ended September 30, 2023.
+    - Gross margin for total automotive & services and other segment decreased from 18.5% to 17.6% in the nine months ended September 30, 2024 as compared to the nine months ended September 30, 2023.
+    - 30 Table of Contents Gross margin for total automotive increased from 18.7% to 20.1% in the three months ended September 30, 2024 as compared to the three months ended September 30, 2023 primarily due to lower average combined cost per unit of our vehicles, an increase in FSD revenue and an increase in regulatory credits revenue, partially offset by lower average selling price on our vehicles, as discussed above.
+    - Gross margin for energy generation and storage increased from 24.4% to 30.5% in the three months ended September 30, 2024 as compared to the three months ended September 30, 2023.
+    - Gross margin for energy generation and storage increased from 18.0% to 26.6% in the nine months ended September 30, 2024 as compared to the nine months ended September 30, 2023.
+  [Financial Statements]
+    - Gross Profit: $5.00B | vs prior quarter: $4.58B (+9.2%) | vs prior year: $4.18B (+19.6%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+    - Given the uncertainty in timing and outcome of our tax examinations, an estimate of the range of the reasonably possible change in gross unrecognized tax benefits within twelve months cannot be made at this time.
+
+=== Q4 2024 ===
+Management said:
+  - Gross profit and margins in the service and other business was up year over year but declined sequentially.
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - The changes in gross margin are primarily due to the automotive gross margin factors discussed above.
+    - Gross margin for total automotive & services and other segment decreased from 18.2% to 16.9% in the year ended December 31, 2024 as compared to the year ended December 31, 2023.
+    - Gross margin for total automotive decreased from 19.4% to 18.4% in the year ended December 31, 2024 as compared to the year ended December 31, 2023 due to lower average selling price on our vehicles and Cybertruck ramp, partially offset by lower average combined cost per unit of our vehicles and increases in regulatory credit and FSD (Supervised) revenue, as discussed above.
+    - 39 Gross margin for energy generation and storage increased from 18.9% to 26.2% in the year ended December 31, 2024 as compared to the year ended December 31, 2023, primarily due to margin improvements for our energy storage products driven by cost reductions, including benefits from IRA manufacturing credits, and a higher proportion of our storage business, which operated at a higher gross margin, within the segment as compared to the prior periods.
+  [Financial Statements]
+    - Gross Profit: $17.45B | vs prior quarter: — | vs prior year: $17.66B (-1.2%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+    - The gross cost of operating lease vehicles as of December 31, 2024 and 2023 was $ 7.03 billion and $ 7.36 billion, respectively.
+    - The gross cost of solar energy systems as of December 31, 2024 and 2023 was $ 6.79 billion and $ 6.87 billion, respectively.
+    - Given the uncertainty in timing and outcome of our tax examinations, an estimate of the range of the reasonably possible change in gross unrecognized tax benefits within twelve months cannot be made at this time.
+    - The CODM uses gross profit to allocate operating and capital resources and assesses performance of each segment by comparing actual gross profit results to historical results and previously forecasted financial information.
+
