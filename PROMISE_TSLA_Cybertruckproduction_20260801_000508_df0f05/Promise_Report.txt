@@ -1,0 +1,54 @@
+[PROMISE TRACKING] TSLA: Cybertruck production
+
+VERDICT: Delayed (confidence: high)
+
+Throughout 2024, Tesla consistently discussed ramping Cybertruck production, with early 2024 quarters showing production at about 1K units per week and plans to ramp further. By Q2 2024, technical milestones were achieved, but full volume production was not yet realized. In Q3 2024, management expressed confidence in reaching volume production by 2026, indicating a delay from initial expectations. The Q4 2024 comments continued to emphasize ongoing ramp efforts and future production versions, confirming that full-scale production has not yet been achieved.
+
+Key quotes:
+  - "I do feel confident of Cybercab reaching volume production in '26, just starting production, reaching volume production in '26." [TSLA_Q3_2024]
+
+Quarters searched: TSLA_Q1_2024, TSLA_Q2_2024, TSLA_Q3_2024, TSLA_Q4_2024
+Quarters with mentions: TSLA_Q1_2024, TSLA_Q2_2024, TSLA_Q3_2024, TSLA_Q4_2024
+
+--- Evidence Timeline ---
+1. [TSLA_Q1_2024] [UNCERTAIN] 4680 production increased about 18% to 20% from Q4 reaching greater than 1K a week for Cybertruck, which is about 7 gigawatt hours per year as we posted on X.
+
+2. [TSLA_Q1_2024] [PLAN] We expect to stay ahead of the Cybertruck ramp with the cell production throughout Q2 as we ramp the third of four lines in Phase 1, while maintaining multiple weeks of cell inventory to make sure we're ahead of the ramp.
+
+3. [TSLA_Q1_2024] [UNCERTAIN] Cybertruck had 1K a week just a couple of weeks ago.
+
+4. [TSLA_Q1_2024] [NO EVIDENCE] Our Cybertrucks are crazy.
+
+5. [TSLA_Q1_2024] [UNCERTAIN] Excluding the impact of Cybertruck, the impact of pricing actions was largely offset by reductions in per unit costs and the recognition of revenue from Autopark feature for certain vehicles in the U.S. that previously did not have that functionality.
+
+6. [TSLA_Q2_2024] [SCALE ACHIEVED] We've built our first validation Cybertruck with dry cathode process made on our mass production equipment, which is a huge technical milestone and we're super proud of that.
+
+7. [TSLA_Q2_2024] [UNCERTAIN] Our third question is, the Cybertruck is an iconic product that wows everyone who sees it.
+
+8. [TSLA_Q2_2024] [UNCERTAIN] Additionally, as we get into the second half of the year, it is important to note that we are still ramping Cybertruck and Model 3 and are also getting impacted by varying amounts of tariffs on both raw materials and finished goods.
+
+9. [TSLA_Q2_2024] [UNCERTAIN] Cost per vehicle declined sequentially when we removed the impact of Cybertruck.
+
+10. [TSLA_Q2_2024] [UNCERTAIN] Lars Moravy Yes, 4680 production ramped strongly in Q2, delivering 51% more cells than Q1 while reducing COGS significantly.
+
+11. [TSLA_Q3_2024] [UNCERTAIN] We released FSD for Cybertruck and other features like actually Smart Summon, like Elon talked about, in North America, which contributed $326 million of revenues in the quarter.
+
+12. [TSLA_Q3_2024] [UNCERTAIN] So, with the new version 12.5, the release of full self-driving and Cybertruck, combining the code into a single stack so that the city driving and the engine and highway driving are one stack, which is a big improvement for the highway driving.
+
+13. [TSLA_Q3_2024] [UNCERTAIN] The Cybertruck looks, thankfully, abnormal.
+
+14. [TSLA_Q3_2024] [UNCERTAIN] A Cybertruck looks different, but Model Y and Model 3 are -- look, they're good-looking cars but look fairly normal.
+
+15. [TSLA_Q3_2024] [SCALE ACHIEVED] I do feel confident of Cybercab reaching volume production in '26, just starting production, reaching volume production in '26.
+
+16. [TSLA_Q4_2024] [UNCERTAIN] It really was the production Version 2 which I think launches sometime next year.
+
+17. [TSLA_Q4_2024] [UNCERTAIN] Prototypes are easy production is there for many years.
+
+18. [TSLA_Q4_2024] [UNCERTAIN] Both businesses continue to be supply constrained, and like Elon mentioned, we're trying to ramp up production with Megafactory Shanghai coming online this quarter onwards.
+
+19. [TSLA_Q4_2024] [UNCERTAIN] And then I said like, once we start -- once we're at a steady state of above 1 million units a year, I think the production -- I'm confident at 1 million units a year, that the production cost of Optimus will be less than $20,000.
+
+20. [TSLA_Q4_2024] [PLAN] While we feel confident in our team's abilities to ramp production quickly, note that it is an unprecedented change, and we are not aware of anybody else taking the best-selling car on the planet and updating all factories at the same time.
+
+Total timeline entries: 20 (20 after grouping repeats)
