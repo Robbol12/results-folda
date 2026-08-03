@@ -1,0 +1,13 @@
+{
+  "status": "pending",
+  "current_stage": "Queued for background finalization...",
+  "stages": [],
+  "support_pages_ready": false,
+  "ready_seconds": null,
+  "ready_stage_count": null,
+  "publish_complete": false,
+  "total_seconds": null,
+  "error": null,
+  "github_published": null,
+  "github_error": null
+}
