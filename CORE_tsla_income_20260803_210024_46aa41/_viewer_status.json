@@ -1,10 +1,19 @@
 {
-  "status": "pending",
-  "current_stage": "Waiting for client filing render...",
-  "stages": [],
-  "support_pages_ready": false,
-  "ready_seconds": null,
-  "ready_stage_count": null,
+  "status": "running",
+  "current_stage": "Publishing report...",
+  "stages": [
+    {
+      "stage": "Finishing filing pages...",
+      "seconds": 0.318
+    },
+    {
+      "stage": "Writing transcript viewer...",
+      "seconds": 13.278
+    }
+  ],
+  "support_pages_ready": true,
+  "ready_seconds": 13.596,
+  "ready_stage_count": 2,
   "publish_complete": false,
   "total_seconds": null,
   "error": null,
