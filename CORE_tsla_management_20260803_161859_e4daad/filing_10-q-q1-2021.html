@@ -1,0 +1,508 @@
+<!doctype html>
+<html data-theme-default="light">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="refresh" content="12">
+  <title>TSLA - 10-Q Q1 2021</title>
+  <style>
+:root { color-scheme: light; }
+html, body { background: #dfe1e6; margin: 0; padding: 0; }
+/* Themed scrollbar matching this page's own light theme - same real user report as
+   the main report's dark-theme scrollbar (research_workflows._CORE_REPORT_CSS). */
+* { scrollbar-color: #c7cdd6 #eef0f3; scrollbar-width: thin; }
+::-webkit-scrollbar { width: 12px; height: 12px; }
+::-webkit-scrollbar-track { background: #eef0f3; }
+::-webkit-scrollbar-thumb { background: #c7cdd6; border-radius: 6px; border: 2px solid #eef0f3; }
+::-webkit-scrollbar-thumb:hover { background: #0a5ba8; }
+.dl-fv-shell { font-family: Arial, Helvetica, sans-serif; min-height: 100vh; }
+.dl-fv-head { max-width: 1360px; margin: 0 auto; padding: 32px 20px 0 20px; }
+.dl-fv-head h1 { font-size: 1.2rem; font-weight: 700; margin: 0 0 6px 0; color: #111; }
+.dl-fv-note { color: #666; font-size: 0.8rem; line-height: 1.5; margin: 0 0 20px 0; }
+.dl-fv-cols { max-width: 1360px; margin: 0 auto; padding: 0 20px 60px 20px; display: flex; gap: 22px; align-items: flex-start; }
+.dl-fv-native { flex: 1; min-width: 0; background: #fff; border: 1px solid #ccced4; box-shadow: 0 2px 14px rgba(0, 0, 0, 0.12); padding: 40px 48px; overflow-x: auto; }
+/* Sidebar: a light "document viewer" panel (paper-toned, navy/blue accents), matching
+   the native filing pane's own light look next to it rather than standing apart as a
+   dark terminal - real user ask: the earlier black+amber Bloomberg-TERMINAL palette
+   read as a different product ("I don't like the Bloomberg color") from what was
+   actually wanted, a Bloomberg-DOCUMENT-VIEWER-style light reading pane. */
+/* Document-reader "boxes" layout - each sidebar section is its own bordered card,
+   rendered as a real <details>/<summary> (native collapse/expand, no JS needed) so
+   every section starts condensed and only the title bar shows until clicked open -
+   real user ask ("in the beginning they're all condensed, but you can open them
+   up"), since a sidebar with every section fully expanded got long fast on a wide
+   multi-quarter/multi-topic page. */
+.dl-fv-side { width: 360px; flex-shrink: 0; position: sticky; top: 20px; max-height: calc(100vh - 40px); overflow-y: auto; background: #f6f7f9; border: 1px solid #dde1e7; border-left: 3px solid #0a5ba8; padding: 14px 12px 6px 12px; box-shadow: 0 2px 14px rgba(0, 0, 0, 0.10); color: #2a2e39; font-variant-numeric: tabular-nums; }
+/* Opt-in toggle for the primary "What management said" hover-scroll (see
+   _HOVER_PREVIEW_JS) - off by default. */
+.dl-hover-scroll-toggle-label { display: flex; align-items: center; gap: 6px; font-size: 0.72rem; color: #5b6472; margin-bottom: 12px; cursor: pointer; user-select: none; }
+.dl-hover-scroll-toggle-label input { cursor: pointer; }
+/* Real user report: after expanding one section (e.g. Key Financial Statements),
+   couldn't easily tell where it ended and the next collapsed section (Equity
+   Research Analyst Questions) began - 12px of gap plus an identical white
+   background/border on every card wasn't enough separation once one card grew
+   tall. Wider gap + each card now reads as its own distinct floating tile
+   (subtle shadow) instead of a seamless stack of same-colored boxes. */
+.dl-fv-side-section { margin-bottom: 20px; background: #fff; border: 1px solid #dde1e7; border-radius: 6px; overflow: hidden; box-shadow: 0 1px 3px rgba(20, 30, 50, 0.08); }
+.dl-fv-side-section:last-child { margin-bottom: 8px; }
+.dl-fv-side-section summary { cursor: pointer; list-style: none; font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; color: #0a5ba8; padding: 9px 14px; background: #eef2f7; display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.dl-fv-side-section summary::-webkit-details-marker { display: none; }
+/* Icon-led section titles (_sidebar_icon/_sidebar_summary_html) - real user ask,
+   approved from a mockup: give each sidebar section a small leading icon instead
+   of plain text, same card shell otherwise. Icon inherits the summary's own text
+   color via currentColor, so it recolors for free with light/dark theme + the
+   per-topic multi-topic heading color override below. */
+.dl-fv-side-title { display: flex; align-items: center; gap: 8px; min-width: 0; }
+.dl-fv-side-icon { flex-shrink: 0; display: flex; }
+.dl-fv-side-icon svg { display: block; width: 14px; height: 14px; }
+/* Keyword sentences gets a teal accent (matches its own .dl-kwx-sentence link
+   color) instead of the shared blue every other section uses - real user
+   preference for this section over the old Company Keywords panel; a distinct
+   accent keeps it visually easy to find first in the sidebar. */
+.dl-fv-side-section-kwx summary { color: #0f766e; }
+.dl-fv-side-section-kwx[open] summary { border-bottom-color: #99e6d8; }
+.dl-fv-side-section-kwx summary::after { border-left-color: #0f766e; }
+/* A CSS-drawn triangle, not a Unicode glyph - a B8 escape here previously got
+   mangled (this CSS lives inside a Python string literal, and Python's OWN octal/hex
+   escape processing silently ate the backslash before the browser ever saw it -
+   confirmed via a real getComputedStyle(::after).content check showing garbage, not
+   a triangle). A border-triangle has no font-glyph-support or escaping risk at all. */
+.dl-fv-side-section summary::after {
+  content: ''; width: 0; height: 0; flex-shrink: 0;
+  border-top: 4px solid transparent; border-bottom: 4px solid transparent;
+  border-left: 5px solid #7a8a9a; transition: transform .15s ease;
+}
+.dl-fv-side-section[open] summary { border-bottom: 1px solid #dde1e7; }
+.dl-fv-side-section[open] summary::after { transform: rotate(90deg); }
+.dl-fv-side-section-body { padding: 12px 14px 14px 14px; }
+/* Multi-topic filing viewer (write_filing_viewer_report's extra_topic_bundles) - one
+   of these wraps each recognized sub-topic's own stack of boxed sections (What
+   management said / Key Financial Statements / MD&A / Footnotes / What was asked),
+   color-coded to match that topic's highlight marks in the filing text
+   (mark.dl-cited[data-topic-idx]). Single-topic pages (the overwhelmingly common
+   case) never render this wrapper at all - the boxed sections above are unwrapped. */
+.dl-fv-side-topic-group { margin-bottom: 16px; }
+.dl-fv-side-topic-group:last-of-type { margin-bottom: 8px; }
+.dl-fv-side-topic-heading { font-size: 0.92rem; font-weight: 700; margin: 0 0 10px 0; padding-bottom: 8px; border-bottom: 2px solid; color: #1c2430; }
+.dl-fv-side-group { margin-bottom: 12px; }
+.dl-fv-side-group:last-child { margin-bottom: 0; }
+.dl-fv-side-group h3 { font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: .03em; color: #0a5ba8; margin: 0 0 6px 0; }
+.dl-fv-side ul { margin: 0; padding-left: 16px; }
+.dl-fv-side li { font-size: 0.8rem; line-height: 1.5; color: #384152; margin-bottom: 9px; }
+.dl-fv-side li:last-child { margin-bottom: 0; }
+.dl-fv-side-empty-note { font-size: 0.76rem; color: #7a8699; font-style: italic; margin: 0 0 8px 0; }
+/* "What was asked" - real analyst Q&A exchanges (research_workflows.parse_qa_exchanges),
+   the answer linked to filing evidence the same way "What management said" is. */
+.dl-fv-side-qa { margin-bottom: 14px; padding-bottom: 12px; border-bottom: 1px solid #e5e8ed; }
+.dl-fv-side-qa:last-child { margin-bottom: 0; padding-bottom: 0; border-bottom: none; }
+/* Line-clamp with hover-to-expand - REVERSED back from a prior "no clamp at all"
+   decision (that decision's own real user complaint - "hard to read the actual
+   answer" - is still honored: the full text is always present in the DOM, this only
+   visually collapses it, nothing is ever cut off or hidden behind a click). Real
+   follow-up user ask: "make it shorter and remember to only expand if mouse is
+   hovering." max-height clamps to roughly 3 lines; :hover lifts the clamp with a
+   smooth transition; the ::after gradient signals there's more to see without a
+   separate "show more" control to click. */
+.dl-fv-side-qa-q, .dl-fv-side-qa-a { max-height: 4.5em; overflow: hidden; position: relative; transition: max-height 0.25s ease; }
+.dl-fv-side-qa-q:hover, .dl-fv-side-qa-a:hover { max-height: 800px; }
+.dl-fv-side-qa-q::after, .dl-fv-side-qa-a::after { content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 1.4em; background: linear-gradient(to bottom, rgba(255,255,255,0), #fff); pointer-events: none; transition: opacity 0.15s ease; }
+.dl-fv-side-qa-q:hover::after, .dl-fv-side-qa-a:hover::after { opacity: 0; }
+.dl-fv-side-qa-q { font-size: 0.78rem; line-height: 1.5; color: #0a5ba8; font-weight: 600; margin-bottom: 5px; }
+.dl-fv-side-qa-a { font-size: 0.8rem; line-height: 1.5; color: #384152; }
+/* Honest note when a transcript genuinely has no per-question attribution (real
+   TSLA data characteristic for some quarters, not a bug - see parse_qa_exchanges's
+   docstring) - real user report: "not seeing names on the questions asked." */
+.dl-fv-qa-anon { font-style: italic; font-weight: 400; color: #8a93a3; }
+/* "Previously asked" - the same firm/analyst's other questions elsewhere in the
+   requested range (firm_question_history) - real user ask: "track who is asking
+   the questions so we can see a timeline of previous questions." Absent entirely
+   for anonymous-question transcripts (TSLA-style) or a firm that only asked once. */
+.dl-fv-side-qa-history { margin-top: 8px; padding: 8px 10px; background: #f3f5f8; border-left: 2px solid #c7cfda; }
+.dl-fv-side-qa-history-label { font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: #6b7688; margin-bottom: 5px; }
+.dl-fv-side-qa-history ul { margin: 0; padding-left: 14px; }
+.dl-fv-side-qa-history li { font-size: 0.74rem; line-height: 1.5; color: #4b5563; margin-bottom: 4px; }
+.dl-fv-side-qa-history li:last-child { margin-bottom: 0; }
+.dl-fv-side-qa-history-period { color: #0a5ba8; font-weight: 600; }
+/* Real user ask (enthusiastic reaction): a per-Q&A "Summarize" button - real
+   click-triggered gpt-4.1-mini call (_QA_SUMMARIZE_JS -> /api/summarize-qa ->
+   research_workflows.summarize_qa_exchange), not run automatically for every
+   entry in a report. */
+.dl-qa-summarize-btn, .dl-qa-summarize-all-btn { margin-top: 6px; padding: 3px 10px; font-size: 0.7rem; font-weight: 600; color: #0a5ba8; background: #eef4fb; border: 1px solid #c7d9ee; border-radius: 4px; cursor: pointer; }
+.dl-qa-summarize-btn:hover, .dl-qa-summarize-all-btn:hover { background: #dfeaf9; }
+.dl-qa-summarize-btn:disabled, .dl-qa-summarize-all-btn:disabled { opacity: 0.6; cursor: default; }
+.dl-qa-summarize-all-btn { margin: 0 0 10px 0; display: inline-block; }
+.dl-qa-summary-result { margin-top: 6px; padding: 8px 10px; font-size: 0.76rem; line-height: 1.5; color: #1c2b3a; background: #f6f9fc; border-left: 2px solid #0a5ba8; white-space: pre-wrap; }
+.dl-qa-summary-result:empty { display: none; }
+.dl-qa-summary-result.dl-qa-summary-error { color: #a3311a; border-left-color: #a3311a; background: #fdf2ef; }
+/* Real user ask: after Summarize/Summarize all, the real question/answer text
+   shrinks down (still reachable via hover) instead of the summary just
+   tacking onto the bottom below the full original text. */
+.dl-qa-original { transition: max-height .25s ease, opacity .2s ease; }
+.dl-qa-summarized .dl-qa-original { max-height: 3em; overflow: hidden; opacity: 0.55; cursor: pointer; }
+.dl-qa-summarized .dl-qa-original:hover { max-height: 1000px; opacity: 1; }
+/* Real user concern: after a restored/persisted summary shows on top, it could
+   read as if it were the real verbatim quote instead of an AI-generated
+   condensation - this label removes the ambiguity. */
+.dl-qa-summary-badge { display: block; font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; opacity: 0.7; margin-bottom: 3px; }
+a.dl-fv-side-link { color: #0a5ba8; text-decoration: none; border-bottom: 1px solid transparent; }
+a.dl-fv-side-link:hover { border-bottom-color: #0a5ba8; }
+.dl-fv-trend { display: inline-block; margin-right: 5px; font-size: 0.65rem; color: #0a5ba8; }
+.dl-fv-trend.dl-trend-good { color: #16a34a; }
+.dl-fv-trend.dl-trend-bad { color: #dc2626; }
+mark.dl-cited { background: #fff3a3; padding: 0 1px; border-radius: 2px; }
+mark.dl-cited[data-concept] { cursor: help; box-shadow: inset 0 -2px 0 rgba(10, 91, 168, 0.55); }
+/* Multi-topic Core Research (research_workflows.build_filing_highlight_plan tags each
+   item with data-topic-idx) - every recognized sub-topic gets its own pale
+   highlighter tint so multiple topics ('gross margin', 'cogs', ...) are visually
+   distinguishable in the real filing text at a glance. Single-topic pages never set
+   data-topic-idx at all, so they're unaffected and keep the plain yellow above.
+   Real, confirmed bug this replaces: these 4 tints (yellow/pink/mint/light-blue)
+   didn't correspond by hue to research_workflows._TOPIC_SECTION_COLORS_LIGHT's own
+   5 heading colors (blue/amber/purple/green/pink) at all - topic 3's heading is
+   green but its mark was blue, topic 1's heading is amber but its mark was pink -
+   so a reader couldn't tell which highlighted passage belonged to which sidebar
+   heading by color, real user report: "make sure it follows the color of the thing
+   on the sidebar." Each pale tint below is now that SAME index's heading color,
+   just lightened - order/count matches _TOPIC_SECTION_COLORS_LIGHT exactly
+   (5 entries, not 4 - MAX_SPLIT_TOPICS is 5). */
+mark.dl-cited[data-topic-idx="0"] { background: #c9e0ff; }
+mark.dl-cited[data-topic-idx="1"] { background: #ffe0b3; }
+mark.dl-cited[data-topic-idx="2"] { background: #e3d1ff; }
+mark.dl-cited[data-topic-idx="3"] { background: #c3f0d8; }
+mark.dl-cited[data-topic-idx="4"] { background: #ffd1e3; }
+.dl-fv-nav-footer { margin-top: 4px; padding-top: 14px; border-top: 1px solid #dde1e7; position: sticky; bottom: 0; background: #f6f7f9; padding-bottom: 14px; }
+/* Was "a.dl-fv-nav-btn" (anchor-only) - real, pre-existing bug this touch also
+   fixes: several real <button class="dl-fv-nav-btn"> elements (#dl-tp-run "Search
+   now", #tv-compare-toggle) never actually matched this tag-scoped selector at
+   all, rendering as bare unstyled browser buttons. Untagged so both real element
+   types get the same look. */
+.dl-fv-nav-btn { display: block; width: 100%; text-align: center; font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: #0a5ba8; background: #fff; border: 1px solid #dde1e7; border-radius: 5px; padding: 9px 10px; text-decoration: none; margin-bottom: 8px; font-family: inherit; cursor: pointer; }
+.dl-fv-nav-btn:hover { border-color: #0a5ba8; background: #eef2f7; }
+.dl-fv-nav-btn:last-child { margin-bottom: 0; }
+.dl-fv-nav-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+.dl-fv-nav-btn.dl-fv-nav-btn-active { color: #fff; background: #0a5ba8; border-color: #0a5ba8; }
+.dl-fv-nav-quarters { display: flex; gap: 8px; }
+.dl-fv-nav-quarters a.dl-fv-nav-btn { flex: 1; margin-bottom: 0; }
+:target { scroll-margin-top: 20px; }
+.dl-fv-native *:target { background: #ffde59 !important; }
+/* Hover-to-preview (_HOVER_PREVIEW_JS) - real user ask: hovering a "What management
+   said" quote should scroll to show where it's said, then return the reader to
+   where they were once they stop hovering, instead of a click that navigates away
+   and leaves them to scroll back manually themselves. .dl-preview-flash reuses the
+   same highlight color as the real :target flash above for one consistent "here's
+   what you're looking at" visual language. scroll-margin-top matters here too -
+   without it the sticky search bar can cover the very top of a freshly-scrolled-to
+   passage. */
+.dl-preview-flash { background: #ffde59 !important; scroll-margin-top: 20px; }
+.dl-hover-tip { position: absolute; z-index: 1000; background: #1c1c1c; color: #fff; font-family: Arial, Helvetica, sans-serif; font-size: 0.78rem; line-height: 1.5; padding: 10px 12px; border-radius: 6px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3); max-width: 260px; pointer-events: none; }
+.dl-hover-tip strong { display: block; margin-bottom: 4px; font-size: 0.8rem; }
+
+/* Hover-to-reveal multiple real matches for a "What management said" quote
+   (_semantic_filing_matches) - real user ask: "hover over it... it'll open the four
+   different things... you can click them and it'll send you to them." Shared by both
+   the filing viewer (matches are OTHER passages in this SAME filing) and the
+   transcript viewer (matches are passages on that quarter's filing-viewer page) -
+   same trigger badge + tooltip markup either way, just a different href target.
+   .dl-quote-match-tip reuses .dl-hover-tip's box styling but overrides pointer-events
+   so the reader can actually move into it and click a link, unlike the read-only
+   financial-figure comparison tooltip above. */
+.dl-quote-match-trigger { display: inline-block; margin-left: 6px; font-size: 0.72rem; font-weight: 600; color: #0a66c2; cursor: help; white-space: nowrap; }
+/* position: fixed (viewport-relative), not the base .dl-hover-tip's absolute
+   (document-relative) - real bug this fixes: hovering one of this tooltip's own
+   related links triggers _HOVER_PREVIEW_JS's auto-scroll-to-preview, which moves
+   the document out from under an absolutely-positioned tooltip, taking the
+   tooltip (and its other related links the reader wanted to hover next) off
+   screen with it. Fixed positioning means the tooltip stays exactly where the
+   reader is looking regardless of how far the underlying page scrolls. */
+.dl-quote-match-tip { position: fixed; pointer-events: auto; max-width: 320px; }
+.dl-quote-match-tip ul { list-style: none; margin: 0; padding: 0; }
+.dl-quote-match-tip li { margin-top: 8px; }
+.dl-quote-match-tip li:first-child { margin-top: 0; }
+.dl-quote-match-tip a { color: #8ec4ff; text-decoration: none; }
+.dl-quote-match-tip a:hover { text-decoration: underline; }
+.dl-quote-match-tip .dl-quote-match-score { color: #9aa3b0; font-size: 0.72rem; }
+mark.dl-cited[id] { cursor: pointer; }
+tr.dl-table-hit td, tr.dl-table-hit th { background: #fff3a3 !important; }
+/* Real user ask: move the search control out of the page header and into the
+   sidebar itself, below the prev/next-quarter nav buttons, in its own visually
+   distinct box - the sidebar is already position:sticky, so living inside it
+   means the search control naturally stays reachable while scrolling the native
+   pane without needing its own separate sticky logic (an earlier, now-removed
+   version of this fix pinned .dl-fv-search to the viewport directly). */
+.dl-fv-search-box { margin-top: 14px; padding: 12px; background: #fff; border: 1px solid #dde1e7; border-radius: 6px; }
+.dl-fv-search-box-label { display: flex; align-items: center; gap: 8px; font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; color: #6b7688; margin: 0 0 8px 0; }
+.dl-fv-search { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.dl-fv-search input { flex: 1; min-width: 0; padding: 8px 12px; border: 1px solid #ccced4; border-radius: 6px; font-size: 0.85rem; font-family: inherit; }
+.dl-fv-search input:focus { outline: none; border-color: #0a5ba8; }
+.dl-fv-search button { padding: 7px 11px; border: 1px solid #ccced4; background: #fff; border-radius: 6px; cursor: pointer; font-size: 0.85rem; color: #333; }
+.dl-fv-search button:hover { background: #f0f5fa; }
+.dl-fv-search-counter { font-size: 0.78rem; color: #666; min-width: 52px; }
+/* "Explore financial statements" quick-topic picker (_topic_picker_html) - real
+   user ask, lives directly above the search box (same .dl-fv-search-box shell
+   for visual consistency, just extra content). */
+.dl-tp-group { border: 1px solid #e5e8ed; border-radius: 6px; margin-bottom: 6px; }
+.dl-tp-group summary { padding: 7px 10px; font-size: 0.8rem; font-weight: 600; color: #1c2430; cursor: pointer; }
+.dl-tp-group-body { padding: 2px 10px 8px 10px; display: flex; flex-direction: column; gap: 4px; }
+.dl-tp-item { font-size: 0.8rem; color: #333; display: flex; align-items: center; gap: 6px; cursor: pointer; }
+.dl-tp-item input { cursor: pointer; }
+.dl-tp-item.dl-tp-item-disabled { color: #aaa; cursor: not-allowed; }
+#dl-tp-custom { width: 100%; padding: 7px 10px; border: 1px solid #ccced4; border-radius: 6px; font-size: 0.8rem; font-family: inherit; box-sizing: border-box; }
+#dl-tp-custom:focus { outline: none; border-color: #0a5ba8; }
+.dl-tp-count { font-size: 0.74rem; color: #6b7688; margin: 6px 0 8px 0; }
+.dl-tp-count.dl-tp-count-full { color: #a3311a; font-weight: 600; }
+#dl-tp-run { width: 100%; text-align: center; }
+#dl-tp-run:disabled { opacity: 0.5; cursor: not-allowed; }
+.dl-tp-status { font-size: 0.78rem; color: #6b7688; margin-top: 8px; min-height: 1.2em; }
+.dl-tp-status.dl-tp-status-error { color: #a3311a; }
+/* Real loading bar (mirrors static/app.js's own progress-track/progress-fill,
+   re-themed for this light sidebar background instead of that page's dark shell)
+   - real user ask: "I want an actual loading bar... like we have on the when you
+   first run the core research... doesn't have to be very descriptive... but I
+   want it to be pretty accurate" - _TOPIC_PICKER_JS drives the fill width from
+   the SAME real progress_cb stage list app.js already uses for /api/core-
+   research, not a fake/cycling animation. */
+.dl-tp-progress-track { height: 4px; background: #e5e8ed; border-radius: 999px; overflow: hidden; margin: 8px 0; display: none; }
+.dl-tp-progress-track.dl-tp-progress-active { display: block; }
+.dl-tp-progress-fill { height: 100%; width: 4%; border-radius: 999px; background: linear-gradient(90deg, #0a66c2, #44c8ff); transition: width 0.7s cubic-bezier(0.16, 1, 0.3, 1); }
+span.dl-search-hit { background: #cfe8ff; padding: 0 1px; border-radius: 2px; }
+/* "Keyword sentences" (_keyword_sentence_explorer_html) - real user ask: turn each
+   auto-derived company keyword into a real, expandable list of its own most
+   relevant real sentences on THIS page (not every raw occurrence - a common word
+   can appear hundreds of times), so a reader can read the sentences behind a
+   keyword without manually stepping through the in-page search one hit at a time.
+   Outer shell reuses .dl-fv-side-section's own <details>/chevron - real user ask
+   was specifically "a drop down." Nested .dl-kwx-row is a second, per-keyword
+   <details> inside that. Replaces the earlier standalone "Company keywords" chip
+   panel entirely (real user preference - "I like keyword sentences way more than
+   company keywords"). */
+.dl-kwx-rows { display: flex; flex-direction: column; gap: 6px; }
+.dl-kwx-row { background: #f4f6f9; border: 1px solid #e3e6eb; border-radius: 6px; }
+.dl-kwx-row summary { display: flex; align-items: center; justify-content: space-between; padding: 8px 12px; cursor: pointer; list-style: none; font-size: 0.82rem; color: #1c2430; }
+.dl-kwx-row summary::-webkit-details-marker { display: none; }
+.dl-kwx-name { font-weight: 600; }
+.dl-kwx-count { font-size: 0.72rem; color: #6b7688; font-weight: 600; font-variant-numeric: tabular-nums; }
+.dl-kwx-sentences { padding: 0 12px 12px 12px; border-top: 1px solid #e3e6eb; }
+/* .dl-kwx-sentence is a real <a href="#dl-kwx-N-M"> (hover-scrolls to that exact
+   sentence in the native document, via the same .dl-hover-scroll-link mechanism
+   MD&A/Footnote links already use) - real user ask: "make each of them be a
+   hyperlink thing, but don't make it blue like the other stuff." Teal, not the
+   site's usual link blue (#0a5ba8/.dl-fv-side-link) or the red/green trend colors
+   or the #ffde59 hover-scroll flash, so it reads as its own distinct affordance. */
+a.dl-kwx-sentence, p.dl-kwx-sentence { display: block; font-size: 0.82rem; line-height: 1.5; margin: 10px 0 0 0; padding-left: 10px; border-left: 2px solid #99e6d8; }
+a.dl-kwx-sentence { color: #0f766e; text-decoration: none; cursor: pointer; }
+a.dl-kwx-sentence:hover { text-decoration: underline; border-left-color: #0f766e; }
+p.dl-kwx-sentence-plain { color: #33394a; cursor: default; }
+.dl-kwx-caption { font-size: 0.7rem; color: #9aa4b2; margin: 10px 0 0 0; font-style: italic; }
+/* .dl-kwx-anchor marks where a Keyword Sentence actually sits in the native
+   document, real id only (for the hover-scroll target + the .dl-preview-flash
+   this mechanism already applies on hover) - no persistent visual treatment by
+   default, so these don't compete with real topic-evidence highlights
+   (.dl-cited) already marked in this same document. dl-kwx-anchor-active
+   (_KEYWORD_SENTENCE_HIGHLIGHT_JS) is the one exception - real user ask: "if
+   cost is closed then dont have any [highlight] but when cost is open make it
+   highlight the ones that relate to it" - toggled on only while that keyword's
+   own .dl-kwx-row is expanded, in the same teal as the sidebar link itself. */
+mark.dl-kwx-anchor { background: none; color: inherit; }
+mark.dl-kwx-anchor.dl-kwx-anchor-active { background: #99e6d8; color: #04342c; }
+/* Draw panel (_draw_annotation_panel_html/_DRAW_ANNOTATION_JS) - real, repeated
+   user ask: freehand annotation over the real filing/transcript document, saved
+   to a real per-document PDF. #dl-draw-canvas is appended INSIDE .dl-fv-native
+   (which gets position:relative from the JS) sized to its full scrollWidth/
+   scrollHeight (not just the viewport) so strokes stay anchored to the real
+   content position regardless of scroll. pointer-events stays "none" until Draw
+   mode is on, so normal reading/clicking/scrolling is completely unaffected the
+   rest of the time. */
+#dl-draw-canvas { position: absolute; top: 0; left: 0; pointer-events: none; touch-action: none; z-index: 5; }
+#dl-draw-canvas.dl-draw-canvas-active { pointer-events: auto; cursor: crosshair; }
+.dl-draw-row { display: flex; gap: 8px; margin-bottom: 10px; }
+.dl-draw-row .dl-fv-nav-btn { margin-bottom: 0; }
+.dl-draw-swatches { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 10px; }
+.dl-draw-swatch { width: 22px; height: 22px; border-radius: 50%; border: 2px solid transparent; padding: 0; cursor: pointer; }
+.dl-draw-swatch.dl-draw-swatch-active { border-color: #1c2430; box-shadow: 0 0 0 1px #fff; }
+.dl-draw-hint { font-size: 0.72rem; color: #6b7688; margin: 0 0 10px 0; }
+.dl-draw-status { font-size: 0.72rem; color: #6b7688; min-height: 1em; }
+span.dl-search-hit.dl-search-hit-active { background: #ffb347; }
+.dl-toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); background: #1c1c1c; color: #fff; padding: 10px 18px; border-radius: 6px; font-family: Arial, Helvetica, sans-serif; font-size: 0.85rem; z-index: 2000; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3); }
+@media (max-width: 980px) {
+  .dl-fv-cols { flex-direction: column; }
+  .dl-fv-side { width: 100%; position: static; max-height: none; }
+  .dl-fv-native { padding: 24px; }
+}
+</style>
+  <style>
+.dl-theme-toggle { position: fixed; bottom: 20px; right: 20px; z-index: 3000; display: flex; gap: 2px; background: #1c1c1c; border-radius: 999px; padding: 4px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35); font-family: Arial, Helvetica, sans-serif; }
+.dl-theme-btn { border: none; background: transparent; color: #9aa4b2; font-size: 0.72rem; font-weight: 600; padding: 7px 14px; border-radius: 999px; cursor: pointer; line-height: 1; }
+.dl-theme-btn.dl-theme-btn-active { background: #44c8ff; color: #10131a; }
+.dl-theme-btn:hover:not(.dl-theme-btn-active) { color: #fff; }
+@media (max-width: 600px) { .dl-theme-toggle { bottom: 12px; right: 12px; } }
+</style>
+  <style>
+html[data-theme="dark"] { color-scheme: dark; background: #1b1e24; }
+html[data-theme="dark"] body { background: #1b1e24; }
+html[data-theme="dark"] * { scrollbar-color: #3a3f4a #1c1f26; }
+html[data-theme="dark"] ::-webkit-scrollbar-track { background: #1c1f26; }
+html[data-theme="dark"] ::-webkit-scrollbar-thumb { background: #3a3f4a; border-color: #1c1f26; }
+html[data-theme="dark"] ::-webkit-scrollbar-thumb:hover { background: #44c8ff; }
+html[data-theme="dark"] .dl-fv-head h1 { color: #fff; }
+html[data-theme="dark"] .dl-fv-note { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-native { background: #23272f; border: 1px solid #333844; box-shadow: 0 2px 14px rgba(0, 0, 0, 0.4); color: #dfe4ea; }
+html[data-theme="dark"] .dl-fv-side { background: #262a33; border: 1px solid #333844; border-left: 3px solid #44c8ff; color: #dfe4ea; }
+html[data-theme="dark"] .dl-hover-scroll-toggle-label { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-side-section { background: #2a2e39; border: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-side-section summary { color: #44c8ff; background: #2f333f; }
+html[data-theme="dark"] .dl-fv-side-section summary::after { border-left-color: #7a8699; }
+html[data-theme="dark"] .dl-fv-side-section[open] summary { border-bottom: 1px solid #333844; }
+/* Same rationale as the report's own topic-badge filter above: this heading's
+   color/border-color are inline styles from _TOPIC_SECTION_COLORS_LIGHT
+   (tuned for a light sidebar) - brighten instead of darken since going the
+   opposite direction (usable-on-light -> usable-on-dark). */
+html[data-theme="dark"] .dl-fv-side-topic-heading { filter: brightness(1.5) saturate(1.05); }
+html[data-theme="dark"] .dl-fv-side-group h3 { color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-side li { color: #cdd6e0; }
+html[data-theme="dark"] .dl-fv-side-empty-note { color: #7a8699; }
+html[data-theme="dark"] .dl-fv-side-qa { border-bottom: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-side-qa-q::after, html[data-theme="dark"] .dl-fv-side-qa-a::after { background: linear-gradient(to bottom, rgba(42,46,57,0), #2a2e39); }
+html[data-theme="dark"] .dl-fv-side-qa-q { color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-side-qa-a { color: #cdd6e0; }
+html[data-theme="dark"] .dl-fv-qa-anon { color: #7a8699; }
+html[data-theme="dark"] .dl-fv-side-qa-history { background: #262a33; border-left: 2px solid #3a3f4a; }
+html[data-theme="dark"] .dl-fv-side-qa-history-label { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-side-qa-history li { color: #cdd6e0; }
+html[data-theme="dark"] .dl-fv-side-qa-history-period { color: #44c8ff; }
+html[data-theme="dark"] .dl-qa-summarize-btn, html[data-theme="dark"] .dl-qa-summarize-all-btn { color: #44c8ff; background: #23272f; border: 1px solid #333844; }
+html[data-theme="dark"] .dl-qa-summarize-btn:hover, html[data-theme="dark"] .dl-qa-summarize-all-btn:hover { background: #2f333f; }
+html[data-theme="dark"] .dl-qa-summary-result { color: #dfe4ea; background: #23272f; border-left: 2px solid #44c8ff; }
+html[data-theme="dark"] .dl-qa-summary-result.dl-qa-summary-error { color: #f87171; border-left-color: #f87171; background: #2a2223; }
+html[data-theme="dark"] a.dl-fv-side-link { color: #44c8ff; }
+html[data-theme="dark"] a.dl-fv-side-link:hover { border-bottom-color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-trend { color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-trend.dl-trend-good { color: #4ade80; }
+html[data-theme="dark"] .dl-fv-trend.dl-trend-bad { color: #f87171; }
+html[data-theme="dark"] .dl-quote-match-trigger { color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-nav-footer { border-top: 1px solid #333844; background: #262a33; }
+html[data-theme="dark"] .dl-fv-nav-btn { color: #44c8ff; background: #23272f; border: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-nav-btn:hover { border-color: #44c8ff; background: #2f333f; }
+html[data-theme="dark"] .dl-fv-nav-btn.dl-fv-nav-btn-active { color: #1c2430; background: #44c8ff; border-color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-search-box { background: #2a2e39; border: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-search-box-label { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-search input { background: #1c1f26; color: #dfe4ea; border: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-search input:focus { border-color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-search button { background: #1c1f26; border: 1px solid #333844; color: #dfe4ea; }
+html[data-theme="dark"] .dl-fv-search button:hover { background: #2f333f; }
+html[data-theme="dark"] .dl-fv-search-counter { color: #9aa4b2; }
+html[data-theme="dark"] .dl-tp-group { border: 1px solid #333844; }
+html[data-theme="dark"] .dl-tp-group summary { color: #dfe4ea; }
+html[data-theme="dark"] .dl-tp-item { color: #cdd6e0; }
+html[data-theme="dark"] .dl-tp-item.dl-tp-item-disabled { color: #5a6270; }
+html[data-theme="dark"] #dl-tp-custom { background: #1c1f26; color: #dfe4ea; border: 1px solid #333844; }
+html[data-theme="dark"] #dl-tp-custom:focus { border-color: #44c8ff; }
+html[data-theme="dark"] .dl-tp-count { color: #9aa4b2; }
+html[data-theme="dark"] .dl-kwx-row { background: #23272f; border: 1px solid #333844; }
+html[data-theme="dark"] .dl-kwx-row summary { color: #dfe4ea; }
+html[data-theme="dark"] .dl-kwx-count { color: #9aa4b2; }
+html[data-theme="dark"] .dl-kwx-sentences { border-top: 1px solid #333844; }
+html[data-theme="dark"] a.dl-kwx-sentence, html[data-theme="dark"] p.dl-kwx-sentence { border-left: 2px solid #1f8a76; }
+html[data-theme="dark"] a.dl-kwx-sentence { color: #5eead4; }
+html[data-theme="dark"] a.dl-kwx-sentence:hover { border-left-color: #5eead4; }
+html[data-theme="dark"] p.dl-kwx-sentence-plain { color: #cdd6e0; }
+html[data-theme="dark"] .dl-kwx-caption { color: #7a8699; }
+html[data-theme="dark"] .dl-fv-side-section-kwx summary { color: #5eead4; }
+html[data-theme="dark"] .dl-fv-side-section-kwx[open] summary { border-bottom-color: #1f8a76; }
+html[data-theme="dark"] .dl-fv-side-section-kwx summary::after { border-left-color: #5eead4; }
+html[data-theme="dark"] mark.dl-kwx-anchor.dl-kwx-anchor-active { background: #1f8a76; color: #eafff9; }
+html[data-theme="dark"] .dl-draw-swatch.dl-draw-swatch-active { border-color: #dfe4ea; box-shadow: 0 0 0 1px #23272f; }
+html[data-theme="dark"] .dl-draw-hint { color: #9aa4b2; }
+html[data-theme="dark"] .dl-draw-status { color: #9aa4b2; }
+html[data-theme="dark"] .dl-tp-status { color: #9aa4b2; }
+html[data-theme="dark"] .dl-tp-progress-track { background: #333844; }
+/* Pale "highlighter" backgrounds (mark.dl-cited, :target flash, search hits,
+   the transcript-compare diff highlight) work fine unchanged in dark mode -
+   pale-on-dark reads as a bright highlight, if anything more legible than
+   pale-on-light. What does NOT work unchanged is their TEXT: none of these
+   set their own color, so without this override they'd inherit the ambient
+   dark-mode text color (#dfe4ea, light gray) and land pale-gray-on-pale-
+   yellow - a real, direct repeat of the earlier illegible-highlight bug had
+   this been skipped. Force dark text specifically inside these highlighted
+   spans; their (unchanged) pale backgrounds do the rest. */
+html[data-theme="dark"] mark.dl-cited,
+html[data-theme="dark"] mark.dl-cited[data-topic-idx="1"],
+html[data-theme="dark"] mark.dl-cited[data-topic-idx="2"],
+html[data-theme="dark"] mark.dl-cited[data-topic-idx="3"],
+html[data-theme="dark"] mark.dl-cited[data-topic-idx="4"],
+html[data-theme="dark"] .dl-fv-native *:target,
+html[data-theme="dark"] .dl-preview-flash,
+html[data-theme="dark"] span.dl-search-hit,
+html[data-theme="dark"] span.dl-search-hit.dl-search-hit-active,
+html[data-theme="dark"] .dl-diff-chg,
+html[data-theme="dark"] .dl-diff-para-chg,
+html[data-theme="dark"] tr.dl-table-hit td,
+html[data-theme="dark"] tr.dl-table-hit th { color: #1c2430; }
+html[data-theme="dark"] .dl-tv-speaker { color: #8ec4ff; }
+html[data-theme="dark"] .dl-fv-side-xref { color: #44c8ff; }
+html[data-theme="dark"] .tv-compare-panel-inner { background: #23272f; border: 1px solid #333844; box-shadow: 0 2px 14px rgba(0, 0, 0, 0.4); }
+html[data-theme="dark"] .tv-compare-panel-inner h3 { color: #fff; }
+html[data-theme="dark"] .tv-compare-controls select { background: #1c1f26; color: #dfe4ea; border: 1px solid #333844; }
+html[data-theme="dark"] .tv-compare-col { background: #2a2e39; border: 1px solid #333844; color: #dfe4ea; }
+html[data-theme="dark"] .tv-compare-col-heading { color: #44c8ff; background: #2a2e39; }
+</style>
+</head>
+<body>
+  <div class="dl-fv-shell">
+    <div class="dl-fv-head">
+      <h1>TSLA - 10-Q Q1 2021</h1>
+      <p class="dl-fv-note">TSLA support pages are still being rendered. The main report is ready now; this page will fill in automatically.</p>
+    </div>
+    <div class="dl-fv-cols">
+      <div class="dl-fv-native">
+        <div style="max-width:760px;margin:0 auto;padding:32px 0;">
+          <h2 style="margin-top:0;">Support page is still finishing</h2>
+          <p>This page auto-refreshes every 12 seconds while DocuLens finishes the heavier filing and transcript viewer work in the background.</p>
+          <p>You can keep reading the main report right away; this support page will appear here as soon as it is ready.</p>
+        </div>
+      </div>
+      <div class="dl-fv-side">
+        <details class="dl-fv-side-section" open>
+          <summary><span class="dl-fv-side-title">Status</span></summary>
+          <div class="dl-fv-side-section-body">
+            <p>Viewer rendering was moved off the blocking request path so the report can finish faster.</p>
+            <p>Refreshing manually is fine too.</p>
+          </div>
+        </details>
+        <div class="dl-fv-nav-footer">
+          <a class="dl-fv-nav-btn" href="Core_Research_Report.html">Back to report</a>
+          <button class="dl-fv-nav-btn" type="button" onclick="window.location.reload()">Refresh now</button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class='dl-theme-toggle' role='group' aria-label='Color theme'><button type='button' class='dl-theme-btn' data-theme-choice='dark'>Dark</button><button type='button' class='dl-theme-btn' data-theme-choice='light'>Light</button></div>
+  <script>
+(function() {
+  var KEY = 'dl-theme';
+  var root = document.documentElement;
+  var buttons = Array.prototype.slice.call(document.querySelectorAll('.dl-theme-btn'));
+  if (!buttons.length) return;
+
+  function applyTheme(theme) {
+    var effective = theme || root.getAttribute('data-theme-default');
+    if (theme) { root.setAttribute('data-theme', theme); } else { root.removeAttribute('data-theme'); }
+    buttons.forEach(function(b) {
+      b.classList.toggle('dl-theme-btn-active', b.getAttribute('data-theme-choice') === effective);
+    });
+  }
+
+  var saved = null;
+  try { saved = localStorage.getItem(KEY); } catch (e) {}
+  applyTheme(saved);
+
+  buttons.forEach(function(b) {
+    b.addEventListener('click', function() {
+      var choice = b.getAttribute('data-theme-choice');
+      try { localStorage.setItem(KEY, choice); } catch (e) {}
+      applyTheme(choice);
+    });
+  });
+})();
+</script>
+</body>
+</html>
