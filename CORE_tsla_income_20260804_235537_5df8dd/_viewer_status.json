@@ -1,0 +1,22 @@
+{
+  "status": "running",
+  "current_stage": "Publishing report...",
+  "stages": [
+    {
+      "stage": "Finishing filing pages...",
+      "seconds": 8.252
+    },
+    {
+      "stage": "Writing transcript viewer...",
+      "seconds": 17.946
+    }
+  ],
+  "support_pages_ready": true,
+  "ready_seconds": 26.198,
+  "ready_stage_count": 2,
+  "publish_complete": false,
+  "total_seconds": null,
+  "error": null,
+  "github_published": null,
+  "github_error": null
+}
