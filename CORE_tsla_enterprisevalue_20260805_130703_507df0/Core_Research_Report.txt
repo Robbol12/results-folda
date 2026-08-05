@@ -1,0 +1,351 @@
+[CORE RESEARCH] TSLA: enterprise value
+
+Quarters searched: 8
+Filing sections searched: 174
+
+Over the reported periods from Q1 2021 through Q4 2022, the company consistently disclosed the fair market value and carrying value of its digital assets, primarily bitcoin holdings, in its filings. The fair market value of these assets showed significant volatility, peaking around early 2021 and declining sharply by mid-2022. The company also highlighted the use of various estimates impacting asset valuations, including inventory and goodwill, and noted stock-based compensation accounting methods. Management did not provide explicit forward guidance on enterprise value or related metrics, focusing instead on qualitative commentary and asset valuations.
+
+Forecasting credibility: None
+No guidance versus actual pairs were provided for enterprise value, making it impossible to assess management's forecasting credibility on this topic. The disclosures focus on reported asset values and accounting estimates without forward-looking quantitative guidance. Therefore, no credibility rating can be assigned based on the available evidence.
+
+Trends:
+  - Volatile fair market value of digital assets
+  - Declining digital asset holdings value over time
+  - Consistent use of fair value accounting methods
+  - Emphasis on inventory and goodwill valuation estimates
+
+Recurring themes/risks:
+  - Impact of valuation estimates on asset carrying values
+  - Volatility in digital asset market values
+  - Accounting for stock-based compensation
+  - Potential impairment charges on digital assets
+
+Key concerns:
+  - No forward guidance or forecasts on enterprise value were provided, limiting transparency on management expectations.
+  - Significant fluctuations in digital asset fair market values introduce valuation risk and potential impairments.
+  - Reliance on multiple estimates for asset valuations may affect comparability and introduce subjectivity.
+
+Conclusion:
+The company's enterprise value is materially influenced by the fair market value of its digital asset holdings, which have experienced substantial volatility and decline from early 2021 through 2022. Management has not provided explicit forward guidance on enterprise value, and the disclosures emphasize accounting estimates and impairments related to these assets. Given the absence of guidance-actual comparisons, forecasting credibility on enterprise value cannot be assessed. Investors should consider the inherent valuation risks and the impact of accounting estimates when evaluating the company's enterprise value.
+
+--- By Reporting Period ---
+
+=== Q1 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [None] [from 10-K/10-Q] As of March 31, 2021, the carrying value of our bitcoin held was $ 1.33 billion, which reflects cumulative impairments of $ 27 million. The fair market value of bitcoin held as of March 31, 2021 was $ 2.48 billion .
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - The estimates used for, but not limited to, determining significant economic incentive for resale value guarantee arrangements, sales return reserves, the collectability of accounts receivable, inventory valuation, fair value of long-lived assets, goodwill, fair value of financial instruments, fair value and residual value of operating lease vehicles and solar energy systems subject to leases could be impacted.
+    - Net of such sales, the fair market value of our bitcoin holdings as of March 31, 2021 was $2.48 billion.
+    - Cost of energy generation and storage revenue also includes charges to write down the carrying value of our inventory when it exceeds its estimated net realizable value and to provide for obsolete and on-hand inventory in excess of forecasted demand.
+    - Cost of automotive sales revenues also includes adjustments to warranty expense and charges to write down the carrying value of our inventory when it exceeds its estimated net realizable value and to provide for obsolete and on-hand inventory in excess of forecasted demand.
+    - These increases were partially offset by the decreases in automotive leasing revenue associated with our resale value guarantee leasing programs accounted for as operating leases as those portfolios have declined.
+    - For example, in the first quarter of 2021, we recorded approximately $27 million of impairment losses resulting from changes to the carrying value of our bitcoin and gains of $128 million on certain sales of bitcoin by us.
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+    - Deferred revenue activity related to the access to our Supercharger network, internet connectivity, Full Self Driving (“FSD”) features and over-the-air software updates on automotive sales with and without resale value guarantee amounted to $ 2.00 billion and $ 1.93 billion as of March 31, 2021 and December 31, 2020, respectively.
+    - 9 Revenue Recognition Revenue by source The following table disaggregates our revenue by major source (in millions): Three Months Ended March 31, 2021 2020 Automotive sales without resale value guarantee $ 8,013 $ 4,367 Automotive sales with resale value guarantee 174 172 Automotive regulatory credits 518 354 Energy generation and storage sales 383 173 Services and other 893 560 Total revenues from sales and services 9,981 5,626 Automotive leasing 297 239 Energy generation and storage leasing 111 120 Total revenues $ 10,389 $ 5,985 Automotive Segment Automotive Sales Revenue Automotive Sales with and without Resale Value Guarantee We recognize revenue when control transfers upon delivery to customers in accordance with ASC 606 as a sale with a right of return when we do not believe the customer has a significant economic incentive to exercise the resale value guarantee provided to them at contract inception.
+    - Of the total deferred revenue on automotive sales with and without resale value guarantees as of March 31, 2021, we expect to recognize $ 1.21 billion of revenue in the next 12 months.
+    - Net investment in sales-type leases, which is the sum of the present value of the future contractual lease payments, is presented on the consolidated balance sheet as a component of Prepaid expenses and other current assets for the current portion and as Other assets for the long-term portion.
+    - If the then current carrying value of a digital asset exceeds the fair value so determined, an impairment loss has occurred with respect to those digital assets in the amount equal to the difference between their carrying values and the price determined.
+    - We have assessed the impact and are not aware of any specific events or circumstances that required an update to our estimates and assumptions or materially affected the carrying value of our assets or liabilities as of the date of issuance of this Quarterly Report on Form 10-Q.
+    - As of March 31, 2021, the carrying value of our bitcoin held was $ 1.33 billion, which reflects cumulative impairments of $ 27 million.
+    - The fair market value of bitcoin held as of March 31, 2021 was $ 2.48 billion .
+    - ASC 820 , Fair Value Measurements , states that fair value is an exit price, representing the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants.
+    - As such, fair value is a market-based measurement that should be determined based on assumptions that market participants would use in pricing an asset or a liability.
+    - The three-tiered fair value hierarchy, which prioritizes which inputs should be used in measuring fair value, is comprised of: (Level I) observable inputs such as quoted prices in active markets; (Level II) inputs other than quoted prices in active markets that are observable either directly or indirectly and (Level III) unobservable inputs for which there is little or no market data.
+    - The fair value hierarchy requires the use of observable market data when available in determining fair value.
+    - We write-down inventory for any excess or obsolete inventories or when we believe that the net realizable value of inventories is less than the carrying value.
+    - (2) Taxes payable includes value added tax, sales tax, property tax, use tax and income tax payables.
+    - As we now expect to settle a portion of the 2024 Notes in the second quarter of 2021, we reclassified $ 51 million of the carrying value of the 2024 Notes from debt and finance leases, net of current portion to current portion of debt and finance leases on our consolidated balance sheet as of March 31, 2021.
+    - The maximum potential future payments that we could have to make under this obligation would depend on the difference between the fair values of the solar energy systems sold or transferred to the funds as determined by us and the values that the IRS would determine as the fair value for the systems for purposes of claiming ITCs.
+    - Generally, such obligations would arise as a result of reductions to the value of the underlying solar energy systems as assessed by the U.S. Internal Revenue Service (the “IRS”) for purposes of claiming ITCs.
+    - If we are unwilling or unable to meet such target or obtain periodic project approvals, in accordance with the Chinese government’s standard terms for such arrangements, we would be required to revert the site to the local government and receive compensation for the remaining value of the land lease, buildings and fixtures.
+    - We also currently participate in one state’s incentive program that is based on either the fair market value or the tax basis of solar energy systems placed in service.
+    - Generally, our subsidiary has the option to acquire the fund investor’s interest in the fund for an amount based on the market value of the fund or the formula specified in the agreements.
+  [Risk Factors]
+    - Similarly, we have provided resale value guarantees to vehicle customers and partners for certain financing programs, under which such counterparties may sell their vehicles back to us at certain points in time at pre-determined amounts.
+    - If our guidance varies from actual results due to our assumptions not being met or the impact on our financial performance that could occur as a result of various risks and uncertainties, the market value of our common stock could decline significantly.
+    - We may be unable to effectively grow, or manage the compliance, residual value, financing and credit risks related to, our various financing programs.
+    - If we do not have fully offsetting revenues in these currencies and if the value of the U.S. dollar depreciates significantly against these currencies, our costs as measured in U.S. dollars as a percent of our revenues will correspondingly increase and our margins will suffer.
+
+=== Q2 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [None] [from 10-K/10-Q] As of June 30, 2021, the carrying value of our digital assets held was $ 1.31 billion, which reflects cumulative impairments of $ 50 million. The fair market value of such digital assets held as of June 30, 2021 was $ 1.47 billion .
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - The fair market value of our bitcoin holdings as of June 30, 2021 was $1.47 billion.
+    - The estimates used for, but not limited to, determining significant economic incentive for resale value guarantee arrangements, sales return reserves, the collectability of accounts receivable, inventory valuation, fair value of long-lived assets, goodwill, fair value of financial instruments, fair value and residual value of operating lease vehicles and solar energy systems subject to leases could be impacted.
+    - Cost of energy generation and storage revenue also includes charges to write down the carrying value of our inventory when it exceeds its estimated net realizable value and to provide for obsolete and on-hand inventory in excess of forecasted demand.
+    - Cost of automotive sales revenues also includes adjustments to warranty expense and charges to write down the carrying value of our inventory when it exceeds its estimated net realizable value and to provide for obsolete and on-hand inventory in excess of forecasted demand.
+    - Automotive leasing revenue includes the amortization of revenue for vehicles under direct operating lease agreements as well as those sold with resale value guarantees accounted for as operating leases under lease accounting.
+    - These increases were partially offset by the decreases in automotive leasing revenue associated with our resale value guarantee leasing programs accounted for as operating leases as those portfolios have declined.
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+    - Deferred revenue is related to the access to our Supercharger network, internet connectivity, Full Self Driving (“FSD”) features and over-the-air software updates on automotive sales with and without resale value guarantee, which amounted to $ 2.13 billion and $ 1.93 billion as of June 30, 2021 and December 31, 2020, respectively.
+    - We determine the fair value of our digital assets on a nonrecurring basis in accordance with ASC 820, Fair Value Measurement , based on quoted prices on the active exchange(s) that we have determined is the principal market for such assets (Level 1 inputs).
+    - Of the total deferred revenue on automotive sales with and without resale value guarantees as of June 30, 2021, we expect to recognize $ 1.32 billion of revenue in the next 12 months.
+    - Net investment in sales-type leases, which is the sum of the present value of the future contractual lease payments, is presented on the consolidated balance sheet as a component of Prepaid expenses and other current assets for the current portion and as Other assets for the long-term portion.
+    - If the then current carrying value of a digital asset exceeds the fair value so determined, an impairment loss has occurred with respect to those digital assets in the amount equal to the difference between their carrying values and the price determined.
+    - As of June 30, 2021, the carrying value of our digital assets held was $ 1.31 billion, which reflects cumulative impairments of $ 50 million.
+    - The fair market value of such digital assets held as of June 30, 2021 was $ 1.47 billion .
+    - ASC 820 , Fair Value Measurements , states that fair value is an exit price, representing the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants.
+    - As such, fair value is a market-based measurement that should be determined based on assumptions that market participants would use in pricing an asset or a liability.
+    - The three-tiered fair value hierarchy, which prioritizes which inputs should be used in measuring fair value, is comprised of: (Level I) observable inputs such as quoted prices in active markets; (Level II) inputs other than quoted prices in active markets that are observable either directly or indirectly and (Level III) unobservable inputs for which there is little or no market data.
+    - The fair value hierarchy requires the use of observable market data when available in determining fair value.
+    - We write-down inventory for any excess or obsolete inventories or when we believe that the net realizable value of inventories is less than the carrying value.
+    - (2) Taxes payable includes value added tax, sales tax, property tax, use tax and income tax payables.
+    - As we now expect to settle a portion of the 2024 Notes in the third quarter of 2021, we reclassified $ 7 million of the carrying value of the 2024 Notes from debt and finance leases, net of current portion to current portion of debt and finance leases on our consolidated balance sheet as of June 30, 2021.
+    - The maximum potential future payments that we could have to make under this obligation would depend on the difference between the fair values of the solar energy systems sold or transferred to the funds as determined by us and the values that the IRS would determine as the fair value for the systems for purposes of claiming ITCs.
+    - Generally, such obligations would arise as a result of reductions to the value of the underlying solar energy systems as assessed by the U.S. Internal Revenue Service (the “IRS”) for purposes of claiming ITCs.
+    - If we are unwilling or unable to meet such target or obtain periodic project approvals, in accordance with the Chinese government’s standard terms for such arrangements, we would be required to revert the site to the local government and receive compensation for the remaining value of the land lease, buildings and fixtures.
+    - We also currently participate in one state’s incentive program that is based on either the fair market value or the tax basis of solar energy systems placed in service.
+    - Generally, our subsidiary has the option to acquire the fund investor’s interest in the fund for an amount based on the market value of the fund or the formula specified in the agreements.
+  [Risk Factors]
+    - Similarly, we have provided resale value guarantees to vehicle customers and partners for certain financing programs, under which such counterparties may sell their vehicles back to us at certain points in time at pre-determined amounts.
+    - If our guidance varies from actual results due to our assumptions not being met or the impact on our financial performance that could occur as a result of various risks and uncertainties, the market value of our common stock could decline significantly.
+    - We may be unable to effectively grow, or manage the compliance, residual value, financing and credit risks related to, our various financing programs.
+    - If we do not have fully offsetting revenues in these currencies and if the value of the U.S. dollar depreciates significantly against these currencies, our costs as measured in U.S. dollars as a percent of our revenues will correspondingly increase and our margins will suffer.
+
+=== Q3 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - The fair market value of our bitcoin holdings as of September 30, 2021 was $1.83 billion.
+    - The estimates used for, but not limited to, determining significant economic incentive for resale value guarantee arrangements, sales return reserves, the collectability of accounts receivable, inventory valuation, fair value of long-lived assets, goodwill, fair value of financial instruments, fair value and residual value of operating lease vehicles and solar energy systems subject to leases could be impacted.
+    - Cost of energy generation and storage revenue also includes charges to write down the carrying value of our inventory when it exceeds its estimated net realizable value and to provide for obsolete and on-hand inventory in excess of forecasted demand.
+    - Cost of automotive sales revenues also includes adjustments to warranty expense and charges to write down the carrying value of our inventory when it exceeds its estimated net realizable value and to provide for obsolete and on-hand inventory in excess of forecasted demand.
+    - Automotive leasing revenue includes the amortization of revenue for vehicles under direct operating lease agreements as well as those sold with resale value guarantees accounted for as operating leases under lease accounting.
+    - These increases were partially offset by the decrease in automotive leasing revenue associated with our resale value guarantee leasing programs accounted for as operating leases as those portfolios have declined.
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+    - Deferred revenue is related to the access to our Supercharger network, internet connectivity, Full Self Driving (“FSD”) features and over-the-air software updates on automotive sales with and without resale value guarantee, which amounted to $ 2.22 billion and $ 1.93 billion as of September 30, 2021 and December 31, 2020, respectively.
+    - We determine the fair value of our digital assets on a nonrecurring basis in accordance with ASC 820, Fair Value Measurement , based on quoted prices on the active exchange(s) that we have determined is the principal market for such assets (Level 1 inputs).
+    - Of the total deferred revenue on automotive sales with and without resale value guarantees as of September 30, 2021, we expect to recognize $ 1.39 billion of revenue in the next 12 months.
+    - 11 Net investment in sales-type leases, which is the sum of the present value of the future contractual lease payments, is presented on the consolidated balance sheets as a component of prepaid expenses and other current assets for the current portion and as other non-current assets for the long-term portion.
+    - The fair market value of such digital assets held as of September 30, 2021 was $ 1.83 billion.
+    - As of September 30, 2021, the carrying value of our digital assets held was $ 1.26 billion , which reflects cumulative impairments of $ 101 million.
+    - ASC 820 , Fair Value Measurements , states that fair value is an exit price, representing the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants.
+    - As such, fair value is a market-based measurement that should be determined based on assumptions that market participants would use in pricing an asset or a liability.
+    - The three-tiered fair value hierarchy, which prioritizes which inputs should be used in measuring fair value, is comprised of: (Level I) observable inputs such as quoted prices in active markets; (Level II) inputs other than quoted prices in active markets that are observable either directly or indirectly and (Level III) unobservable inputs for which there is little or no market data.
+    - The fair value hierarchy requires the use of observable market data when available in determining fair value.
+    - We write-down inventory for any excess or obsolete inventories or when we believe that the net realizable value of inventories is less than the carrying value.
+    - (2) Taxes payable includes value added tax, sales tax, property tax, use tax and income tax payables.
+    - As we now expect to settle a portion of the 2024 Notes in the fourth quarter of 2021, we reclassified $ 6 million of the carrying value of the 2024 Notes from debt and finance leases, net of current portion to current portion of debt and finance leases on our consolidated balance sheet as of September 30, 2021.
+    - The maximum potential future payments that we could have to make under this obligation would depend on the difference between the fair values of the solar energy systems sold or transferred to the funds as determined by us and the values that the IRS would determine as the fair value for the systems for purposes of claiming ITCs.
+    - Generally, such obligations would arise as a result of reductions to the value of the underlying solar energy systems as assessed by the U.S. Internal Revenue Service (the “IRS”) for purposes of claiming ITCs.
+    - If we are unwilling or unable to meet such target or obtain periodic project approvals, in accordance with the Chinese government’s standard terms for such arrangements, we would be required to revert the site to the local government and receive compensation for the remaining value of the land lease, buildings and fixtures.
+    - We also currently participate in one state’s incentive program that is based on either the fair market value or the tax basis of solar energy systems placed in service.
+    - Generally, our subsidiary has the option to acquire the fund investor’s interest in the fund for an amount based on the market value of the fund or the formula specified in the agreements.
+  [Risk Factors]
+    - Similarly, we have provided resale value guarantees to vehicle customers and partners for certain financing programs, under which such counterparties may sell their vehicles back to us at certain points in time at pre-determined amounts.
+    - If our guidance 56 varies from actual results due to our assumptions not being met or the impact on our financial performance that could occur as a result of various risks and uncertainties, the market value of our common stock could decline significantly.
+    - 48 We may be unable to effectively grow, or manage the compliance, residual value, financing and credit risks related to, our various financing programs.
+    - If we do not have fully offsetting revenues in these currencies and if the value of the U.S. dollar depreciates significantly against these currencies, our costs as measured in U.S. dollars as a percent of our revenues will correspondingly increase and our margins will suffer.
+
+=== Q4 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - The fair market value of our bitcoin holdings as of December 31, 2021 was $1.99 billion.
+    - The estimates used for, but not limited to, determining significant economic incentive for resale value guarantee arrangements, sales return reserves, the collectability of accounts receivable, inventory valuation, fair value of long-lived assets, goodwill, fair value of financial instruments, fair value and residual value of operating lease vehicles and solar energy systems subject to leases could be impacted.
+    - Stock-Based Compensation We use the fair value method of accounting for our stock options and restricted stock units (“RSUs”) granted to employees and for our employee stock purchase plan (the “ESPP”) to measure the cost of employee services received in exchange for the stock-based awards.
+    - Revenue Recognition Automotive Sales without Resale Value Guarantee Automotive sales revenue includes revenues related to deliveries of new vehicles and pay-per-use charges, and specific other features and services that meet the definition of a performance obligation under ASC 606, including access to our Supercharger network, internet connectivity, FSD features and over-the-air software updates.
+    - 34 Inventory Valuation Inventories are stated at the lower of cost or net realizable value.
+    - Cost of energy generation and storage revenue also includes charges to write down the carrying value of our inventory when it exceeds its estimated net realizable value and to provide for obsolete and on-hand inventory in excess of forecasted demand.
+  [Footnotes]
+    - 10 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - Similarly, we have provided resale value guarantees to vehicle customers and partners for certain financing programs, under which such counterparties may sell their vehicles back to us at certain points in time at pre-determined amounts.
+    - If our guidance varies from actual results due to our assumptions not being met or the impact on our financial performance that could occur as a result of various risks and uncertainties, the market value of our common stock could decline significantly.
+    - We may be unable to effectively grow, or manage the compliance, residual value, financing and credit risks related to, our various financing programs.
+    - If we do not have fully offsetting revenues in these currencies and if the value of the U.S. dollar depreciates significantly against these currencies, our costs as measured in U.S. dollars as a percent of our revenues will correspondingly increase and our margins will suffer.
+
+=== Q1 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - The fair market value of such digital assets held as of March 31, 2022 was $1.96 billion.
+    - The estimates used for, but not limited to, determining significant economic incentive for resale value guarantee arrangements, sales return reserves, the collectability of accounts receivable, inventory valuation, warranties, fair value of long-lived assets, goodwill, fair value of financial instruments, fair value and residual value of operating lease vehicles and solar energy systems subject to leases could be impacted.
+    - Cost of energy generation and storage revenue also includes charges to write down the carrying value of our inventory when it exceeds its estimated net realizable value and to provide for obsolete and on-hand inventory in excess of forecasted demand.
+    - Cost of automotive sales revenues also includes adjustments to warranty expense and charges to write down the carrying value of our inventory when it exceeds its estimated net realizable value and to provide for obsolete and on-hand inventory in excess of forecasted demand.
+    - Automotive leasing revenue includes the amortization of revenue for vehicles under direct operating lease agreements as well as those sold with resale value guarantees accounted for as operating leases under lease accounting.
+    - For example, in the first quarter of 2021, we recorded approximately $27 million of impairment losses resulting from changes to the carrying value of our bitcoin and gains of $128 million on certain sales of bitcoin by us.
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+    - Tesla, Inc. C onsolidated Balance Sheets (in millions, except per share data) (unaudited) March 31, December 31, 2022 2021 Assets Current assets Cash and cash equivalents $ 17,505 $ 17,576 Short-term marketable securities 508 131 Accounts receivable, net 2,311 1,913 Inventory 6,691 5,757 Prepaid expenses and other current assets 2,035 1,723 Total current assets 29,050 27,100 Operating lease vehicles, net 4,745 4,511 Solar energy systems, net 5,686 5,765 Property, plant and equipment, net 20,027 18,884 Operating lease right-of-use assets 2,181 2,016 Digital assets, net 1,261 1,260 Intangible assets, net 254 257 Goodwill 200 200 Other non-current assets 2,634 2,138 Total assets $ 66,038 $ 62,131 Liabilities Current liabilities Accounts payable $ 11,171 $ 10,025 Accrued liabilities and other 5,906 5,719 Deferred revenue 1,594 1,447 Customer deposits 1,125 925 Current portion of debt and finance leases 1,659 1,589 Total current liabilities 21,455 19,705 Debt and finance leases, net of current portion 3,153 5,245 Deferred revenue, net of current portion 2,185 2,052 Other long-term liabilities 3,839 3,546 Total liabilities 30,632 30,548 Commitments and contingencies (Note 12) Redeemable noncontrolling interests in subsidiaries 459 568 Equity Stockholders’ equity Preferred stock; $ 0.001 par value; 100 shares authorized; no shares issued and outstanding — — Common stock; $ 0.001 par value; 2,000 shares authorized; 1,036 and 1,033 shares issued and outstanding as of March 31, 2022 and December 31, 2021, respectively 1 1 Additional paid-in capital 30,485 29,803 Accumulated other comprehensive (loss) income ( 50 ) 54 Retained earnings 3,649 331 Total stockholders’ equity 34,085 30,189 Noncontrolling interests in subsidiaries 862 826 Total liabilities and equity $ 66,038 $ 62,131 The accompanying notes are an integral part of these consolidated financial statements.
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+    - Deferred revenue is related to the access to our Full Self Driving (“FSD”) features, internet connectivity, Supercharger network and over-the-air software updates on automotive sales with and without resale value guarantee, which amounted to $ 2.56 billion and $ 2.38 billion as of March 31, 2022 and December 31, 2021, respectively.
+    - The total sales return reserve on vehicles sold with resale value guarantees was $ 190 million and $ 223 million as of March 31, 2022 and December 31, 2021, respectively, of which $ 80 million and $ 91 million was short-term, respectively.
+    - The estimates used for, but not limited to, determining significant economic incentive for resale value guarantee arrangements, sales return reserves, the collectability of accounts receivable, inventory valuation, warranties, fair value of long-lived assets, goodwill, fair value of financial instruments, fair value and residual value of operating lease vehicles and solar energy systems subject to leases could be impacted.
+    - 9 Revenue Recognition Revenue by source The following table disaggregates our revenue by major source (in millions): Three Months Ended March 31, 2022 2021 Automotive sales without resale value guarantee $ 15,325 $ 8,013 Automotive sales with resale value guarantee 189 174 Automotive regulatory credits 679 518 Energy generation and storage sales 503 383 Services and other 1,279 893 Total revenues from sales and services 17,975 9,981 Automotive leasing 668 297 Energy generation and storage leasing 113 111 Total revenues $ 18,756 $ 10,389 Automotive Segment Automotive Sales Revenue Automotive Sales with and without Resale Value Guarantee We recognize revenue when control transfers upon delivery to customers in accordance with ASC 606, Revenue from Contracts with Customers , as a sale with a right of return when we do not believe the customer has a significant economic incentive to exercise the resale value guarantee provided to them at contract inception.
+    - Of the total deferred revenue on automotive sales with and without resale value guarantees as of March 31, 2022, we expect to recognize $ 948 million of revenue in the next 12 months.
+    - Net investment in sales-type leases, which is the sum of the present value of the future contractual lease payments, is presented on the consolidated balance sheets as a component of Prepaid expenses and other current assets for the current portion and as Other non-current assets for the long-term portion.
+    - As of March 31, 2022 and December 31, 2021 , the carrying value of our digital assets held was $ 1.26 billion, which reflects cumulative impairments of $ 101 million, each period.
+    - The fair market value of such digital assets held as of March 31, 2022 was $ 1.96 billion.
+    - ASC 820 , Fair Value Measurements , states that fair value is an exit price, representing the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants.
+    - As such, fair value is a market-based measurement that should be determined based on assumptions that market participants would use in pricing an asset or a liability.
+    - The three-tiered fair value hierarchy, which prioritizes which inputs should be used in measuring fair value, is comprised of: (Level I) observable inputs such as quoted prices in active markets; (Level II) inputs other than quoted prices in active markets that are observable either directly or indirectly and (Level III) unobservable inputs for which there is little or no market data.
+    - The fair value hierarchy requires the use of observable market data when available in determining fair value.
+    - We write-down inventory for any excess or obsolete inventories or when we believe that the net realizable value of inventories is less than the carrying value.
+    - (2) Taxes payable includes value added tax, sales tax, property tax, use tax and income tax payables.
+    - JP Morgan now alleges that it is owed approximately $162 million as the value of additional shares that it claims should have been delivered as a result of the adjustment to the strike price in 2018.
+    - If we are unwilling or unable to meet such target or obtain periodic project approvals, in accordance with the Chinese government’s standard terms for such arrangements, we would be required to revert the site to the local government and receive compensation for the remaining value of the land lease, buildings and fixtures.
+    - We also currently participate in one state’s incentive program that is based on either the fair market value or the tax basis of solar energy systems placed in service.
+    - Generally, our subsidiary has the option to acquire the fund investor’s interest in the fund for an amount based on the market value of the fund or the formula specified in the agreements.
+  [Risk Factors]
+    - Similarly, we have provided resale value guarantees to vehicle customers and partners for certain financing programs, under which such counterparties may sell their vehicles back to us at certain points in time at pre-determined amounts.
+    - If our guidance varies from actual results due to our assumptions not being met or the impact on our financial performance that could occur as a result of various risks and uncertainties, the market value of our common stock could decline significantly.
+    - We may be unable to effectively grow, or manage the compliance, residual value, financing and credit risks related to, our various financing programs.
+    - If we do not have fully offsetting revenues in these currencies and if the value of the U.S. dollar depreciates significantly against these currencies, our costs as measured in U.S. dollars as a percent of our revenues will correspondingly increase and our margins will suffer.
+
+=== Q2 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - The fair market value of our remaining holdings of digital assets as of June 30, 2022 was $222 million.
+    - The estimates used for, but not limited to, determining significant economic incentive for resale value guarantee arrangements, sales return reserves, the collectability of accounts receivable, inventory valuation, warranties, fair value of long-lived assets, goodwill, fair value of financial instruments, fair value and residual value of operating lease vehicles and solar energy systems subject to leases could be impacted.
+    - Cost of energy generation and storage revenue also includes charges to write down the carrying value of our inventory when it exceeds its estimated net realizable value and to provide for obsolete and on-hand inventory in excess of forecasted demand.
+    - Cost of automotive sales revenues also includes adjustments to warranty expense and charges to write down the carrying value of our inventory when it exceeds its estimated net realizable value and to provide for obsolete and on-hand inventory in excess of forecasted demand.
+    - Automotive leasing revenue includes the amortization of revenue for vehicles under direct operating lease agreements as well as those sold with resale value guarantees accounted for as operating leases under lease accounting.
+    - We have assessed the impact and are not aware of any specific events or circumstances that required an update to our estimates and assumptions or materially affected the carrying value of our assets or liabilities as of the date of issuance of this Quarterly Report on Form 10-Q.
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+    - Tesla, Inc. C onsolidated Balance Sheets (in millions, except per share data) (unaudited) June 30, December 31, 2022 2021 Assets Current assets Cash and cash equivalents $ 18,324 $ 17,576 Short-term marketable securities 591 131 Accounts receivable, net 2,081 1,913 Inventory 8,108 5,757 Prepaid expenses and other current assets 2,118 1,723 Total current assets 31,222 27,100 Operating lease vehicles, net 4,782 4,511 Solar energy systems, net 5,624 5,765 Property, plant and equipment, net 21,093 18,884 Operating lease right-of-use assets 2,185 2,016 Digital assets, net 218 1,260 Intangible assets, net 241 257 Goodwill 196 200 Other non-current assets 2,952 2,138 Total assets $ 68,513 $ 62,131 Liabilities Current liabilities Accounts payable $ 11,212 $ 10,025 Accrued liabilities and other 6,037 5,719 Deferred revenue 1,858 1,447 Customer deposits 1,182 925 Current portion of debt and finance leases 1,532 1,589 Total current liabilities 21,821 19,705 Debt and finance leases, net of current portion 2,898 5,245 Deferred revenue, net of current portion 2,210 2,052 Other long-term liabilities 3,926 3,546 Total liabilities 30,855 30,548 Commitments and contingencies (Note 12) Redeemable noncontrolling interests in subsidiaries 421 568 Equity Stockholders’ equity Preferred stock; $ 0.001 par value; 100 shares authorized; no shares issued and outstanding — — Common stock; $ 0.001 par value; 2,000 shares authorized; 1,041 and 1,033 shares issued and outstanding as of June 30, 2022 and December 31, 2021, respectively 1 1 Additional paid-in capital 30,944 29,803 Accumulated other comprehensive (loss) income ( 477 ) 54 Retained earnings 5,908 331 Total stockholders’ equity 36,376 30,189 Noncontrolling interests in subsidiaries 861 826 Total liabilities and equity $ 68,513 $ 62,131 The accompanying notes are an integral part of these consolidated financial statements.
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+    - Deferred revenue is related to the access to our Full Self Driving (“FSD”) features, internet connectivity, Supercharger network and over-the-air software updates on automotive sales with and without resale value guarantee, which amounted to $ 2.66 billion and $ 2.38 billion as of June 30, 2022 and December 31, 2021, respectively.
+    - The total sales return reserve on vehicles sold with resale value guarantees was $ 130 million and $ 223 million as of June 30, 2022 and December 31, 2021, respectively, of which $ 56 million and $ 91 million was short-term, respectively.
+    - The estimates used for, but not limited to, determining significant economic incentive for resale value guarantee arrangements, sales return reserves, the collectability of accounts receivable, inventory valuation, warranties, fair value of long-lived assets, goodwill, fair value of financial instruments, fair value and residual value of operating lease vehicles and solar energy systems subject to leases could be impacted.
+    - Of the total deferred revenue on automotive sales with and without resale value guarantees as of June 30, 2022, we expect to recognize $ 1.02 billion of revenue in the next 12 months.
+    - Net investment in sales-type leases, which is the sum of the present value of the future contractual lease payments, is presented on the consolidated balance sheets as a component of Prepaid expenses and other current assets for the current portion and as Other non-current assets for the long-term portion.
+    - As of June 30, 2022 and December 31, 2021 , the carrying value of our digital assets held was $ 218 million and $ 1.26 billion, which reflects cumulative impairments of $ 169 million and $ 101 million, each period, respectively.
+    - The fair market value of such digital assets held as of June 30, 2022 was $ 222 million.
+    - ASC 820 , Fair Value Measurements , states that fair value is an exit price, representing the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants.
+    - As such, fair value is a market-based measurement that should be determined based on assumptions that market participants would use in pricing an asset or a liability.
+    - The three-tiered fair value hierarchy, which prioritizes which inputs should be used in measuring fair value, is comprised of: (Level I) observable inputs such as quoted prices in active markets; (Level II) inputs other than quoted prices in active markets that are observable either directly or indirectly and (Level III) unobservable inputs for which there is little or no market data.
+    - The fair value hierarchy requires the use of observable market data when available in determining fair value.
+    - We write-down inventory for any excess or obsolete inventories or when we believe that the net realizable value of inventories is less than the carrying value.
+    - (2) Taxes payable includes value added tax, sales tax, property tax, use tax and income tax payables.
+    - JP Morgan now alleges that it is owed approximately $162 million as the value of additional shares that it claims should have been delivered as a result of the adjustment to the strike price in 2018.
+    - If we are unwilling or unable to meet such target or obtain periodic project approvals, in accordance with the Chinese government’s standard terms for such arrangements, we would be required to revert the site to the local government and receive compensation for the remaining value of the land lease, buildings and fixtures.
+    - We also currently participate in one state’s incentive program that is based on either the fair market value or the tax basis of solar energy systems placed in service.
+    - Generally, our subsidiary has the option to acquire the fund investor’s interest in the fund for an amount based on the market value of the fund or the formula specified in the agreements.
+  [Risk Factors]
+    - Similarly, we have provided resale value guarantees to vehicle customers and partners for certain financing programs, under which such counterparties may sell their vehicles back to us at certain points in time at pre-determined amounts.
+    - If our guidance varies from actual results due to our assumptions not being met or the impact on our financial performance that could occur as a result of various risks and uncertainties, the market value of our common stock could decline significantly.
+    - We may be unable to effectively grow, or manage the compliance, residual value, financing and credit risks related to, our various financing programs.
+    - If we do not have fully offsetting revenues in these currencies and if the value of the U.S. dollar depreciates significantly against these currencies, our costs as measured in U.S. dollars as a percent of our revenues will correspondingly increase and our margins will suffer.
+
+=== Q3 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - The fair market value of our remaining holdings of digital assets as of September 30, 2022 was $226 million.
+    - The estimates used for, but not limited to, determining significant economic incentive for resale value guarantee arrangements, sales return reserves, the collectability of accounts receivable, inventory valuation, warranties, fair value of long-lived assets, goodwill, fair value of financial instruments, fair value and residual value of operating lease vehicles and solar energy systems subject to leases could be impacted.
+    - Cost of energy generation and storage revenue also includes charges to write down the carrying value of our inventory when it exceeds its estimated net realizable value and to provide for obsolete and on-hand inventory in excess of forecasted demand.
+    - Cost of automotive sales revenues also includes adjustments to warranty expense and charges to write down the carrying value of our inventory when it exceeds its estimated net realizable value and to provide for obsolete and on-hand inventory in excess of forecasted demand.
+    - We have assessed the impact and are not aware of any specific events or circumstances that required an update to our estimates and assumptions or materially affected the carrying value of our assets or liabilities as of the date of issuance of this Quarterly Report on Form 10-Q.
+    - For example, in the nine month period ended September 30, 2022, we recorded $170 million of impairment losses resulting from changes to the carrying value of our bitcoin and gains of $64 million on certain conversions of bitcoin into fiat currency by us.
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+    - Tesla, Inc. C onsolidated Balance Sheets (in millions, except per share data) (unaudited) September 30, December 31, 2022 2021 Assets Current assets Cash and cash equivalents $ 19,532 $ 17,576 Short-term marketable securities 1,575 131 Accounts receivable, net 2,192 1,913 Inventory 10,327 5,757 Prepaid expenses and other current assets 2,364 1,723 Total current assets 35,990 27,100 Operating lease vehicles, net 4,824 4,511 Solar energy systems, net 5,562 5,765 Property, plant and equipment, net 21,926 18,884 Operating lease right-of-use assets 2,251 2,016 Digital assets, net 218 1,260 Intangible assets, net 228 257 Goodwill 191 200 Other non-current assets 3,236 2,138 Total assets $ 74,426 $ 62,131 Liabilities Current liabilities Accounts payable $ 13,897 $ 10,025 Accrued liabilities and other 6,246 5,719 Deferred revenue 1,928 1,447 Customer deposits 1,083 925 Current portion of debt and finance leases 1,457 1,589 Total current liabilities 24,611 19,705 Debt and finance leases, net of current portion 2,096 5,245 Deferred revenue, net of current portion 2,265 2,052 Other long-term liabilities 4,330 3,546 Total liabilities 33,302 30,548 Commitments and contingencies (Note 12) Redeemable noncontrolling interests in subsidiaries 421 568 Equity Stockholders’ equity Preferred stock; $ 0.001 par value; 100 shares authorized; no shares issued and outstanding — — Common stock; $ 0.001 par value; 6,000 shares authorized; 3,158 and 3,100 shares issued and outstanding as of September 30, 2022 and December 31, 2021, respectively (1) 3 3 Additional paid-in capital 31,592 29,803 Accumulated other comprehensive (loss) income ( 942 ) 54 Retained earnings (1) 9,198 329 Total stockholders’ equity 39,851 30,189 Noncontrolling interests in subsidiaries 852 826 Total liabilities and equity $ 74,426 $ 62,131 (1) Prior period results have been adjusted to reflect the three -for-one stock split effected in the form of a stock dividend in August 2022 .
+    - Deferred revenue is related to the access to our Full Self Driving (“FSD”) features, internet connectivity, Supercharger network and over-the-air software updates on automotive sales with and without resale value guarantee, which amounted to $ 2.80 billion and $ 2.38 billion as of September 30, 2022 and December 31, 2021, respectively.
+    - The estimates used for, but not limited to, determining significant economic incentive for resale value guarantee arrangements, sales return reserves, the collectability of accounts receivable, inventory valuation, warranties, fair value of long-lived assets, goodwill, fair value of financial instruments, fair value and residual value of operating lease vehicles and solar energy systems subject to leases could be impacted.
+    - The total sales return reserve on vehicles sold with resale value guarantees was $ 105 million and $ 223 million as of September 30, 2022 and December 31, 2021, respectively, of which $ 48 million and $ 91 million was short-term, respectively.
+    - Of the total deferred revenue on automotive sales with and without resale value guarantees as of September 30, 2022, we expect to recognize $ 1.09 billion of revenue in the next 12 months.
+    - Net investment in sales-type leases, which is the sum of the present value of the future contractual lease payments, is presented on the consolidated balance sheets as a component of Prepaid expenses and other current assets for the current portion and as Other non-current assets for the long-term portion.
+    - As of September 30, 2022 and December 31, 2021 , the carrying value of our digital assets held was $ 218 million and $ 1.26 billion , which reflects cumulative impairments of $ 169 million and $ 101 million, each period, respectively.
+    - The fair market value of such digital assets held as of September 30, 2022 was $ 226 million.
+    - ASC 820 , Fair Value Measurements , states that fair value is an exit price, representing the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants.
+    - As such, fair value is a market-based measurement that should be determined based on assumptions that market participants would use in pricing an asset or a liability.
+    - The three-tiered fair value hierarchy, which prioritizes which inputs should be used in measuring fair value, is comprised of: (Level I) observable inputs such as quoted prices in active markets; (Level II) inputs other than quoted prices in active markets that are observable either directly or indirectly and (Level III) unobservable inputs for which there is little or no market data.
+    - The following table summarizes the fair value of our marketable securities by stated contractual maturities as of September 30, 2022 (in millions): Due in 1 year or less $ 943 Due in 1 year through 5 years 576 Due in 5 years through 10 years 56 Total $ 1,575 17 Interest Rate Swaps We had previously entered into fixed-for-floating interest rate swap agreements to swap variable interest payments on certain debt for fixed interest payments, as required by certain of our lenders.
+    - We write-down inventory for any excess or obsolete inventories or when we believe that the net realizable value of inventories is less than the carrying value.
+    - (2) Taxes payable includes value added tax, sales tax, property tax, use tax and income tax payables.
+    - JP Morgan now alleges that it is owed approximately $ 162 million as the value of additional shares that it claims should have been delivered as a result of the adjustment to the strike price in 2018.
+    - If we are unwilling or unable to meet such target or obtain periodic project approvals, in accordance with the Chinese government’s standard terms for such arrangements, we would be required to revert the site to the local government and receive compensation for the remaining value of the land lease, buildings and fixtures.
+    - We also currently participate in one state’s incentive program that is based on either the fair market value or the tax basis of solar energy systems placed in service.
+    - Generally, our subsidiary has the option to acquire the fund investor’s interest in the fund for an amount based on the market value of the fund or the formula specified in the agreements.
+  [Risk Factors]
+    - Similarly, we have provided resale value guarantees to vehicle customers and partners for certain financing programs, under which such counterparties may sell their vehicles back to us at certain points in time at pre-determined amounts.
+    - If our guidance varies from actual results due to our assumptions not being met or the impact on our financial performance that could occur as a result of various risks and uncertainties, the market value of our common stock could decline significantly.
+    - We may be unable to effectively grow, or manage the compliance, residual value, financing and credit risks related to, our various financing programs.
+    - If we do not have fully offsetting revenues in these currencies and if the value of the U.S. dollar depreciates significantly against these currencies, our costs as measured in U.S. dollars as a percent of our revenues will correspondingly increase and our margins will suffer.
+
+=== Q4 2022 ===
+Management said:
+  - But the -- as we get closer and closer to solving real-world AI, and we don't see anyone even close to us in achieving this, the value -- I think, you appreciate this and a few others do, but most don't know what I'm talking about.
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - The estimates used for, but not limited to, determining significant economic incentive for resale value guarantee arrangements, sales return reserves, the collectability of accounts and financing receivables, inventory valuation, warranties, fair value of long-lived assets, goodwill, fair value of financial instruments, fair value and residual value of operating lease vehicles and solar energy systems subject to leases could be impacted.
+    - Stock-Based Compensation We use the fair value method of accounting for our stock options and restricted stock units (“RSUs”) granted to employees and for our employee stock purchase plan (the “ESPP”) to measure the cost of employee services received in exchange for the stock-based awards.
+    - Inventory Valuation Inventories are stated at the lower of cost or net realizable value.
+    - We offer resale value guarantees or similar buy-back terms to certain international customers who purchase vehicles and who finance their vehicles through one of our specified commercial banking partners.
+    - Cost of energy generation and storage revenue also includes charges to write down the carrying value of our inventory when it exceeds its estimated net realizable value and to provide for obsolete and on-hand inventory in excess of forecasted demand.
+    - Cost of automotive sales revenues also includes adjustments to warranty expense and charges to write down the carrying value of our inventory when it exceeds its estimated net realizable value and to provide for obsolete and on-hand inventory in excess of forecasted demand.
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 9 real filing table(s) available (see the HTML report).
+    - 47 Tesla, Inc. Consolidated Balance Sheets (in millions, except per share data) December 31, December 31, 2022 2021 Assets Current assets Cash and cash equivalents $ 16,253 $ 17,576 Short-term investments 5,932 131 Accounts receivable, net 2,952 1,913 Inventory 12,839 5,757 Prepaid expenses and other current assets 2,941 1,723 Total current assets 40,917 27,100 Operating lease vehicles, net 5,035 4,511 Solar energy systems, net 5,489 5,765 Property, plant and equipment, net 23,548 18,884 Operating lease right-of-use assets 2,563 2,016 Digital assets, net 184 1,260 Intangible assets, net 215 257 Goodwill 194 200 Other non-current assets 4,193 2,138 Total assets $ 82,338 $ 62,131 Liabilities Current liabilities Accounts payable $ 15,255 $ 10,025 Accrued liabilities and other 7,142 5,719 Deferred revenue 1,747 1,447 Customer deposits 1,063 925 Current portion of debt and finance leases 1,502 1,589 Total current liabilities 26,709 19,705 Debt and finance leases, net of current portion 1,597 5,245 Deferred revenue, net of current portion 2,804 2,052 Other long-term liabilities 5,330 3,546 Total liabilities 36,440 30,548 Commitments and contingencies (Note 15) Redeemable noncontrolling interests in subsidiaries 409 568 Equity Stockholders’ equity Preferred stock; $ 0.001 par value; 100 shares authorized; no shares issued and outstanding — — Common stock; $ 0.001 par value; 6,000 shares authorized; 3,164 and 3,100 shares issued and outstanding as of December 31, 2022 and December 31, 2021, respectively (1) 3 3 Additional paid-in capital 32,177 29,803 Accumulated other comprehensive (loss) income ( 361 ) 54 Retained earnings (1) 12,885 329 Total stockholders’ equity 44,704 30,189 Noncontrolling interests in subsidiaries 785 826 Total liabilities and equity $ 82,338 $ 62,131 (1) Prior period results have been adjusted to reflect the three -for-one stock split effected in the form of a stock dividend in August 2022 .
+    - The estimates used for, but not limited to, determining significant economic incentive for resale value guarantee arrangements, sales return reserves, the collectability of accounts and finance receivables, inventory valuation, warranties, fair value of long-lived assets, goodwill, fair value of financial instruments, fair value and residual value of operating lease vehicles and solar energy systems subject to leases could be impacted.
+    - We determine the fair value of our digital assets on a nonrecurring basis in accordance with ASC 820, Fair Value Measurement (“ASC 820”), based on quoted prices on the active exchange(s) that we have determined is the principal market for such assets (Level I inputs).
+    - We recognize a bargain purchase gain within Other (expense) income, net, in the consolidated statement of operations if the net fair value of the identifiable assets acquired and the liabilities assumed is in excess of the fair value of the total purchase consideration and any noncontrolling interests.
+    - Inventory Valuation Inventories are stated at the lower of cost or net realizable value.
+    - 58 Stock-Based Compensation We use the fair value method of accounting for our stock options and RSUs granted to employees and for our ESPP to measure the cost of employee services received in exchange for the stock-based awards.
+    - As of December 31, 2022 and 2021, the carrying value of our digital assets held was $ 184 million and $ 1.26 billion , which reflects cumulative impairments of $ 204 million and $ 101 million, each period, respectively.
+    - The fair market value of such digital assets held as of December 31, 2022 and 2021 was $ 191 million and $ 1.99 billion, respectively.
+    - The net carrying value of our intangible assets decreased from $ 257 million as of December 31, 2021 to $ 215 million as of December 31, 2022 mainly from amortization.
+    - The following table summarizes the fair value of our investments by stated contractual maturities as of December 31, 2022 (in millions): Due in 1 year or less $ 5,135 Due in 1 year through 5 years 636 Due in 5 years through 10 years 161 Total $ 5,932 Disclosure of Fair Values Our financial instruments that are not re-measured at fair value include accounts receivable, financing receivables, accounts payable, accrued liabilities, customer deposits and debt.
+    - ASC 820 states that fair value is an exit price, representing the amount that would be received to sell an asset or paid to transfer a liability in an orderly transaction between market participants.
+    - As such, fair value is a market-based measurement that should be determined based on assumptions that market participants would use in pricing an asset or a liability.
+    - The three-tiered fair value hierarchy, which prioritizes which inputs should be used in measuring fair value, is comprised of: (Level I) observable inputs such as quoted prices in active markets; (Level II) inputs other than quoted prices in active markets that are observable either directly or indirectly and (Level III) unobservable inputs for which there is little or no market data.
+    - We write-down inventory for any excess or obsolete inventories or when we believe that the net realizable value of inventories is less than the carrying value.
+    - (2) Taxes payable includes value added tax, sales tax, property tax, use tax and income tax payables.
+    - As of December 31, 2022, solar assets pledged as collateral for Solar Asset and Loan-backed Notes had a carrying value of $ 69 million and are included within Solar energy systems, net, on the consolidated balance sheet.
+    - As of December 31, 2022, the if-converted value of the notes exceeds the outstanding principal amount by $ 186 million.
+    - Availability under the Credit Agreement is based on the value of such assets, as reduced by certain reserves.
+    - Net Investment in Sales-type Leases Net investment in sales-type leases, which is the sum of the present value of the future contractual lease payments, is presented on the consolidated balance sheets as a component of Prepaid expenses and other current assets for the current portion and as Other non-current assets for the long-term portion.
+    - All other lease assets and lease liabilities are recognized based on the present value of lease payments over the lease term at commencement date.
+    - We calculate the present value of future lease payments based on the index or rate at the lease commencement date for new leases.
+    - Because most of our leases do not provide an implicit rate of return, we used our incremental borrowing rate based on the information available at lease commencement date in determining the present value of lease payments.
+    - The aggregate intrinsic value of options exercised in the years ended December 31, 2022, 2021, and 2020 was $ 1.90 billion, $ 26.88 billion and $ 1.55 billion, respectively.
+    - The aggregate release date fair value of RSUs in the years ended December 31, 2022, 2021 and 2020 was $ 4.32 billion, $ 5.70 billion and $ 3.25 billion, respectively.
+    - During the year ended December 31, 2021, our CEO exercised all of the remaining vested options from the 2012 CEO Performance Award, which amounted to an intrinsic value of $ 23.45 billion.
+    - The purchase price would be 85 % of the lower of the fair market value on the first and last trading days of each six-month offering period.
+    - The fair value of RSUs with service or service and performance conditions is measured on the grant date based on the closing fair market value of our common stock.
+    - JP Morgan now alleges that it is owed approximately $ 162 million as the value of additional shares that it claims should have been delivered as a result of the adjustment to the strike price in 2018.
+    - If we are unwilling or unable to meet such target or obtain periodic project approvals, in accordance with the Chinese government’s standard terms for such arrangements, we would be required to revert the site to the local government and receive compensation for the remaining value of the land lease, buildings and fixtures.
+    - Generally, our subsidiary has the option to acquire the fund investor’s interest in the fund for an amount based on the market value of the fund or the formula specified in the agreements.
+  [Risk Factors]
+    - Similarly, we have provided resale value guarantees to vehicle customers and partners for certain financing programs, under which such counterparties may sell their vehicles back to us at certain points in time at pre-determined amounts.
+    - If our guidance varies from actual results, such as due to our assumptions not being met or the impact on our financial performance that could occur as a result of various risks and uncertainties, the market value of our common stock could decline significantly.
+    - We may be unable to effectively grow, or manage the compliance, residual value, financing and credit risks related to, our various financing programs.
+    - If we do not have fully offsetting revenues in these currencies and if the value of the U.S. dollar depreciates significantly against these currencies, our costs as measured in U.S. dollars as a percent of our revenues will correspondingly increase and our margins will suffer.
+
