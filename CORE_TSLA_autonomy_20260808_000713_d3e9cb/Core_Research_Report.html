@@ -1,0 +1,1105 @@
+<!doctype html>
+<html data-theme-default="dark"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Core Research: TSLA - autonomy</title>
+<style>
+/* Themed scrollbar - real user report: the browser's default (light gray) scrollbar
+   reads as visually mismatched against this page's own dark theme ("the slider...
+   doesn't match the color template"). scrollbar-color/-width cover Firefox;
+   ::-webkit-scrollbar covers Chrome/Edge/Safari. */
+* { scrollbar-color: #3a3f4a #1c1f26; scrollbar-width: thin; }
+::-webkit-scrollbar { width: 12px; height: 12px; }
+::-webkit-scrollbar-track { background: #1c1f26; }
+::-webkit-scrollbar-thumb { background: #3a3f4a; border-radius: 6px; border: 2px solid #1c1f26; }
+::-webkit-scrollbar-thumb:hover { background: #44c8ff; }
+body { background: #23272f; margin: 0; padding: 0; font-family: 'Segoe UI', Arial, sans-serif; color: #fff; }
+/* Widened from 1320px - real user report: on a wide monitor the report sat in a
+   narrow centered column with a large amount of unused space on both sides
+   ("page needs to expand the entire screen"), which also made every wide SEC
+   table cramp itself into far less room than was actually available. */
+.wrap { max-width: 1800px; margin: 0 auto; padding: 40px 48px 80px 48px; }
+h1 { font-size: 1.8rem; margin-bottom: 4px; }
+.meta { color: #9aa4b2; margin-bottom: 28px; }
+.card { background: #2a2e39; border-radius: 10px; padding: 24px 26px; margin-bottom: 20px; }
+.card h2 { margin-top: 0; font-size: 1.25rem; }
+.card h3 { font-size: 1.02rem; color: #cdd6e0; margin-bottom: 6px; }
+.card h4 { font-size: 0.95rem; color: #9aa4b2; margin: 14px 0 6px 0; text-transform: uppercase; letter-spacing: .03em; }
+
+/* Guidance/actual comparison picker - real user ask: pick any two quarters (e.g.
+   Q3 vs Q1, or vs. the same quarter last year) and see their "Guidance given"/
+   "Actual reported" sections side by side. Pure client-side (see _GUIDANCE_COMPARE_
+   JS) - clones the already-rendered .period-guidance-actual blocks (data-period-key
+   tagged in _render_core_period_html) for whichever two periods are picked, no new
+   backend data needed. */
+.compare-panel { background: #2a2e39; border-radius: 10px; padding: 18px 26px; margin-bottom: 24px; }
+.compare-controls { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.compare-label { font-size: 0.88rem; color: #9aa4b2; }
+.compare-controls select { background: #1c1f26; color: #dfe4ea; border: 1px solid #3a3f4a; border-radius: 6px; padding: 7px 10px; font-size: 0.85rem; font-family: inherit; }
+.compare-results { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 16px; }
+.compare-results:empty { margin-top: 0; }
+.compare-col { background: #23272f; border-radius: 8px; padding: 16px 18px; border: 1px solid #333844; }
+.compare-col-heading { margin: 0 0 10px 0; font-size: 1rem; color: #44c8ff; }
+.compare-col .period-guidance-actual h4 { font-size: 0.85rem; color: #9aa4b2; margin: 12px 0 6px 0; text-transform: uppercase; letter-spacing: .03em; }
+.compare-col .period-guidance-actual h4:first-child { margin-top: 0; }
+@media (max-width: 900px) { .compare-results { grid-template-columns: 1fr; } }
+.badge { display: inline-block; padding: 4px 12px; border-radius: 999px; font-weight: 600; font-size: 0.85rem; margin: 6px 0 14px 0; }
+ul { margin: 4px 0 14px 0; padding-left: 20px; }
+li { margin-bottom: 10px; line-height: 1.6; }
+.quote { color: #dfe4ea; }
+.quote-verdict { font-weight: 600; padding: 2px 9px; border-radius: 6px; font-size: 0.78rem; margin-right: 6px; display: inline-block; }
+.quote-resolves { color: #7a8699; font-size: 0.85rem; }
+/* Each Q&A exchange in its own visually distinct block, not a bare <li> - real user
+   report the old bare-<li> version read as "combined"/hard to tell entries apart. */
+.core-qa-item { margin-bottom: 20px; padding-bottom: 16px; border-bottom: 1px solid #333844; line-height: 1.6; }
+.core-qa-item:last-child { margin-bottom: 0; padding-bottom: 0; border-bottom: none; }
+/* Dark-theme variants of the shared .dl-qa-summarize-* classes - the sidebar's own
+   versions (research_workflows.py's filing-viewer CSS block) are tuned for a light
+   document background and would be nearly illegible here, same bug class as the
+   earlier yellow-topic-heading fix (_TOPIC_SECTION_COLORS_LIGHT): a light-theme
+   style reused unchanged on a dark page. Each page embeds its own <style> block, so
+   this only affects the main report, never the sidebar pages. */
+.dl-qa-summarize-btn, .dl-qa-summarize-all-btn { margin-top: 6px; padding: 3px 10px; font-size: 0.7rem; font-weight: 600; color: #44c8ff; background: #23272f; border: 1px solid #333844; border-radius: 4px; cursor: pointer; }
+.dl-qa-summarize-btn:hover, .dl-qa-summarize-all-btn:hover { background: #2a2e39; }
+.dl-qa-summarize-btn:disabled, .dl-qa-summarize-all-btn:disabled { opacity: 0.6; cursor: default; }
+.dl-qa-summarize-all-btn { margin-left: 10px; font-size: 0.65rem; vertical-align: middle; }
+.dl-qa-summary-result { margin-top: 6px; padding: 8px 10px; font-size: 0.8rem; line-height: 1.5; color: #dfe4ea; background: #23272f; border-left: 2px solid #44c8ff; white-space: pre-wrap; }
+.dl-qa-summary-result:empty { display: none; }
+.dl-qa-summary-result.dl-qa-summary-error { color: #f87171; border-left-color: #f87171; background: #2a2223; }
+/* Real user ask: after Summarize/Summarize all, the real question/answer text
+   shrinks down (still reachable via hover) instead of the summary just
+   tacking onto the bottom below the full original text. */
+.dl-qa-original { transition: max-height .25s ease, opacity .2s ease; }
+.dl-qa-summarized .dl-qa-original { max-height: 3em; overflow: hidden; opacity: 0.55; cursor: pointer; }
+.dl-qa-summarized .dl-qa-original:hover { max-height: 1000px; opacity: 1; }
+/* Real user concern: after a restored/persisted summary shows on top, it could
+   read as if it were the real verbatim quote instead of an AI-generated
+   condensation - this label removes the ambiguity. */
+.dl-qa-summary-badge { display: block; font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; opacity: 0.7; margin-bottom: 3px; }
+details { background: #262a33; border-radius: 8px; margin-bottom: 10px; padding: 4px 18px; }
+details[open] { background: #2a2e39; }
+summary { cursor: pointer; padding: 12px 0; font-weight: 600; font-size: 1.05rem; color: #fff; }
+summary::marker { color: #44c8ff; }
+.period-body { padding: 4px 0 16px 0; }
+.empty-note { color: #6b7480; font-style: italic; }
+.filing-category { font-size: 0.78rem; font-weight: 700; color: #44c8ff; text-transform: uppercase; letter-spacing: .04em; margin: 10px 0 2px 0; }
+/* Table redesign - real user ask ("modern, but tables look like... crammed") after
+   several rounds of small table fixes: the underlying problem was never any one
+   bug, it was 3px/6px cell padding and 0.82-0.92rem text with no row separation
+   beyond a hairline border - a wide, dense SEC table read as an illegible wall of
+   numbers regardless of what content was in it. Real fix is roomier padding, real
+   zebra striping (a wide multi-column table is far easier to track a row across
+   with alternating tint), a hover state, and a proper rounded card container -
+   matching the same modern-card language (.card's own 10px radius) already used
+   for everything else on this page, rather than tables being the one element that
+   still looked like plain HTML. */
+.fin-table-wrap { overflow-x: auto; margin: 10px 0 20px 0; -webkit-overflow-scrolling: touch; border: 1px solid #333844; border-radius: 10px; }
+.fin-table { width: 100%; min-width: 480px; border-collapse: separate; border-spacing: 0; font-size: 0.9rem; }
+/* Row height trimmed twice now (12px->8px->6px vertical) after real user reports
+   in both directions - first "crammed" (the 3px/6px original), then "too tall"
+   once roomier padding overcorrected. 6px is deliberately still well above that
+   original 3px floor - narrow enough to read as condensed, not back to illegible. */
+.fin-table th { text-align: left; color: #9aa4b2; font-weight: 600; padding: 6px 12px; background: #2f333f; font-size: 0.75rem; text-transform: uppercase; letter-spacing: .04em; white-space: nowrap; }
+.fin-table td { padding: 6px 12px; border-top: 1px solid #2f333d; color: #dfe4ea; white-space: nowrap; }
+.fin-table tr:nth-child(even) td { background: rgba(255, 255, 255, 0.025); }
+.fin-table tr:hover td { background: rgba(68, 200, 255, 0.06); }
+.fin-table td:first-child { color: #cdd6e0; font-weight: 500; }
+.fin-table td:not(:first-child) { text-align: right; font-variant-numeric: tabular-nums; }
+.fin-table tr.fin-row-highlighted td { background: rgba(68, 200, 255, 0.1); }
+.fin-table tr.fin-row-highlighted td:first-child { color: #44c8ff; }
+mark.fin-term { background: rgba(68, 200, 255, 0.18); color: #dfe4ea; border-bottom: 1px solid rgba(68, 200, 255, 0.55); border-radius: 2px; padding: 0 2px; }
+a { color: #44c8ff; }
+.source-link { font-size: 0.72rem; color: #7a8699; text-decoration: none; border: 1px solid #3a3f4a; border-radius: 4px; padding: 1px 6px; margin-left: 6px; white-space: nowrap; }
+.source-link:hover { color: #44c8ff; border-color: #44c8ff; }
+
+/* Per-period "View Transcript"/"View 10-K/10-Q" buttons - real user ask for a
+   clear, prominent way to jump to a quarter's own source documents from the
+   report, distinct from the small inline .source-link badges scattered on
+   individual citations. Same pill-button look as the job-results screen's own
+   "View the real filing" row (static/style.css .filing-link-btn) for visual
+   consistency across the app. */
+.period-source-buttons { display: flex; gap: 8px; margin: 0 0 16px 0; }
+.period-source-btn { display: inline-block; color: #44c8ff; background: transparent; border: 1px solid #3a3f4a; border-radius: 999px; padding: 5px 14px; font-size: 0.82rem; text-decoration: none; transition: border-color 0.15s ease, box-shadow 0.15s ease; }
+.period-source-btn:hover { border-color: #44c8ff; box-shadow: 0 4px 14px -6px rgba(68, 200, 255, 0.4); }
+
+/* Real <table> markup straight from the filing (filing_diff.extract_tables_by_section)
+   - presentation attrs were stripped, so this is the only styling these tables get.
+   Real user ask, after several rounds of small table fixes still not landing: give
+   these the same modern-card treatment as .fin-table above and everything else on
+   this page, rather than staying deliberately plain/dense - roomier padding, zebra
+   striping, a real card container, not a hairline-bordered wall of numbers. */
+.real-tables { margin: 8px 0 14px 0; }
+/* Collapsed rows stay compact (this is a LIST of tables to scan/pick from, not
+   content itself) - real user report after the roomier-padding redesign above:
+   the collapsed summary rows themselves got "thick as fuck" with "so much white
+   space between all of them." Only the EXPANDED table content (.real-table-scroll
+   below) keeps the roomier reading padding - that's the part that was actually
+   hard to read; the collapsed list of table names was never the complaint. */
+.real-table-item { border: 1px solid #333844; border-radius: 8px; padding: 0; margin-bottom: 6px; overflow: hidden; background: #262a33; }
+.real-table-item summary { cursor: pointer; padding: 7px 14px; font-size: 0.82rem; color: #9aa4b2; }
+.real-table-item[open] summary { color: #dfe4ea; border-bottom: 1px solid #333844; }
+.real-table-badge { display: inline-block; font-size: 0.66rem; font-weight: 700; text-transform: uppercase; letter-spacing: .03em; color: #44c8ff; background: rgba(68, 200, 255, 0.14); border-radius: 4px; padding: 3px 8px; margin-right: 8px; }
+/* Matches .fin-table's own values exactly (font-size, padding, header/first-column/
+   numeric-column treatment) - real user ask: "make the extra charts look identical
+   to the income statement charts, same format, same size, same everything" after
+   this earlier redesign left the two tables sharing only the broad card/zebra/hover
+   language but not the actual type scale or column alignment. Real SEC filing
+   tables mostly don't use semantic <th> for their header row(s) (everything is
+   <td>), so the uppercase header treatment below won't always visibly apply the
+   way it does on .fin-table's own synthetic 3-column header - an unavoidable gap
+   from these being real, structurally arbitrary filed tables rather than a fixed
+   schema this app controls, not something a CSS-only pass can fully close. */
+.real-table-scroll { overflow-x: auto; padding: 4px 4px 4px 4px; }
+.real-table-scroll table { border-collapse: separate; border-spacing: 0; font-size: 0.9rem; color: #dfe4ea; font-variant-numeric: tabular-nums; width: 100%; }
+.real-table-scroll th { text-align: left; color: #9aa4b2; font-weight: 600; padding: 6px 12px; background: #2f333f; font-size: 0.75rem; text-transform: uppercase; letter-spacing: .04em; white-space: nowrap; border-top: 1px solid #2f333d; }
+.real-table-scroll td { padding: 6px 12px; border-top: 1px solid #2f333d; white-space: nowrap; }
+/* Real SEC filing tables routinely pad a row/column out with genuinely empty <td>
+   spacer cells (print-layout gutters, no real content) - a real user report
+   ("make it more condensed... so much space in between") traced partly to these:
+   each one still got the same real padding as a content cell, so a whole "spacer"
+   row (every <td> in it empty) rendered as a full-height blank row, and a single
+   empty gutter column added its own padding-width of dead space to every real
+   row. Collapsing them removes that padding entirely rather than just visually
+   thinning it. Cells containing only &nbsp; (not literally :empty - they still
+   have a nested element) aren't caught by this and remain a known, real gap. */
+.real-table-scroll td:empty, .real-table-scroll th:empty { display: none; }
+/* The real cause of rows still looking bloated despite the padding above already
+   being tight: real SEC filing HTML wraps almost every cell's text in its own
+   <p><span>...</span></p> (confirmed via direct inspection: <td><p><span>Automotive
+   sales</span></p></td>), and this file never reset the browser's OWN default <p>
+   margin (~1em top+bottom) - that default margin, not the 6px/12px padding this
+   file actually controls, was the real source of a real, confirmed ~62px row
+   height where the padding+text alone should produce roughly 28px. Real user
+   report, after already tightening padding once: "so much space in each row...
+   how many times do i have to ask." */
+.real-table-scroll td p, .real-table-scroll th p { margin: 0; }
+.real-table-scroll tr:first-child td, .real-table-scroll tr:first-child th { border-top: none; }
+.real-table-scroll tr:nth-child(even) td { background: rgba(255, 255, 255, 0.025); }
+.real-table-scroll tr:hover td { background: rgba(68, 200, 255, 0.06); }
+.real-table-scroll td:first-child { color: #cdd6e0; font-weight: 500; }
+.real-table-scroll td:not(:first-child) { text-align: right; }
+/* Real per-row highlighting for embedded filing tables (filing_diff.
+   highlight_relevant_table_rows_html) - blue accent, matching this report's own
+   theme, not the filing viewer's yellow :target/table-hit color - real user ask:
+   "highlight it in a color that kinda matches the color theme." */
+.real-table-scroll tr.core-table-hit td { background: rgba(68, 200, 255, 0.16) !important; }
+.real-table-scroll tr.core-table-hit td:first-child { color: #44c8ff; }
+
+/* "Why the numbers moved" (idea #7, "Metric Explanation") - real quotes already
+   gathered for this period, paired with whichever Key Financial Statements row
+   they actually mention and that genuinely moved (has a real trend arrow). */
+.dl-explain-wrap { margin: 4px 0 20px 0; }
+.dl-explain-title { font-size: 0.78rem; font-weight: 700; color: #9aa4b2; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 8px; }
+.dl-explain-row { margin-bottom: 12px; padding: 10px 14px; background: #262a33; border-left: 3px solid #333844; border-radius: 0 6px 6px 0; }
+.dl-explain-row:last-child { margin-bottom: 0; }
+.dl-explain-metric { font-size: 0.85rem; font-weight: 600; color: #dfe4ea; margin-bottom: 6px; }
+.dl-explain-quotes { list-style: none; margin: 0; padding: 0; }
+.dl-explain-quotes li { font-size: 0.82rem; font-style: italic; color: #9aa4b2; margin-bottom: 4px; line-height: 1.5; }
+.dl-explain-quotes li:last-child { margin-bottom: 0; }
+
+/* Credibility timeline - one dot per period, color-coded by _period_credibility_status,
+   sitting above the Longitudinal Summary card so the per-quarter breakdown is visible
+   before reading the single overall badge. */
+.dl-cred-timeline-wrap { margin: 0 0 20px 0; }
+.dl-cred-timeline-title { font-size: 0.78rem; font-weight: 700; color: #9aa4b2; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 8px; }
+.dl-cred-timeline { display: flex; flex-wrap: wrap; align-items: center; gap: 4px; background: #2a2e39; border-radius: 10px; padding: 14px 16px; }
+.dl-cred-dot { display: flex; flex-direction: column; align-items: center; gap: 5px; text-decoration: none; padding: 4px 10px; border-radius: 6px; }
+.dl-cred-dot:hover { background: #333846; }
+.dl-cred-dot-marker { width: 11px; height: 11px; border-radius: 50%; display: inline-block; }
+.dl-cred-dot-label { font-size: 0.72rem; color: #9aa4b2; white-space: nowrap; }
+.dl-cred-legend { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 10px; font-size: 0.74rem; color: #7a8699; }
+.dl-cred-legend-item { display: flex; align-items: center; gap: 6px; }
+
+/* Revenue/gross-margin sparkline - real SEC XBRL data, sits beside the credibility
+   prose inside the Longitudinal Summary card. */
+.dl-summary-top { display: flex; gap: 24px; align-items: flex-start; flex-wrap: wrap; }
+.dl-summary-prose { flex: 1; min-width: 260px; }
+.dl-spark-wrap { min-width: 240px; }
+.dl-spark-title { font-size: 0.78rem; font-weight: 700; color: #9aa4b2; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 8px; }
+.dl-spark-legend { display: flex; flex-direction: column; gap: 4px; margin-top: 6px; font-size: 0.76rem; color: #cdd6e0; font-variant-numeric: tabular-nums; }
+.dl-spark-legend-item { display: flex; align-items: center; gap: 6px; }
+.dl-spark-swatch { width: 8px; height: 8px; border-radius: 50%; display: inline-block; flex-shrink: 0; }
+.dl-spark-range { font-size: 0.72rem; color: #7a8699; margin-top: 4px; }
+
+/* Quote Frequency Over Time (idea #10) - a plain bar chart of how much real
+   evidence (commentary + Q&A + filing excerpts) was gathered per period,
+   reusing .dl-fv-trend's own accent blue for visual consistency with the
+   trend arrows below. Fixed-height flex row, bars scaled by percentage of the
+   tallest bar so the chart works at any evidence-volume scale. */
+.dl-freq-wrap { margin: 0 0 20px 0; background: #2a2e39; border-radius: 10px; padding: 16px 20px; }
+.dl-freq-title { font-size: 0.78rem; font-weight: 700; color: #9aa4b2; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 12px; }
+.dl-freq-chart { display: flex; align-items: flex-end; gap: 10px; height: 90px; }
+.dl-freq-bar-col { display: flex; flex-direction: column; align-items: center; justify-content: flex-end; flex: 1; height: 100%; text-decoration: none; color: inherit; cursor: pointer; }
+.dl-freq-bar { width: 100%; max-width: 34px; min-height: 3px; background: #44c8ff; border-radius: 3px 3px 0 0; transition: background 0.15s ease; }
+.dl-freq-bar-col:hover .dl-freq-bar { background: #7fdcff; }
+.dl-freq-bar-count { font-size: 0.72rem; color: #cdd6e0; margin-top: 4px; font-variant-numeric: tabular-nums; }
+.dl-freq-bar-label { font-size: 0.68rem; color: #7a8699; margin-top: 2px; white-space: nowrap; }
+
+/* Automatic Company Memory - conservative recurring-theme inventory. */
+.dl-memory-wrap { margin: 0 0 24px 0; background: #2a2e39; border-radius: 10px; padding: 16px 20px; }
+.dl-memory-title { font-size: .9rem; font-weight: 700; color: #dfe4ea; margin-bottom: 4px; }
+.dl-memory-note { font-size: .74rem; color: #7a8699; margin: 0 0 12px 0; }
+.dl-memory-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 8px; }
+.dl-memory-item { background: #23272f; border: 1px solid #333844; border-radius: 8px; padding: 10px 12px; }
+.dl-memory-item summary { padding: 0; font-size: .88rem; color: #dfe4ea; }
+.dl-memory-meta { display: flex; flex-wrap: wrap; gap: 6px; margin: 7px 0; font-size: .7rem; color: #9aa4b2; }
+.dl-memory-badge { border-radius: 999px; padding: 2px 7px; border: 1px solid #3a3f4a; }
+.dl-memory-badge.current { color: #4ade80; border-color: #15803d; }
+.dl-memory-badge.fading { color: #facc15; border-color: #b45309; }
+.dl-memory-badge.historical { color: #9aa4b2; }
+.dl-memory-quotes { margin: 8px 0 0; padding-left: 18px; color: #9aa4b2; font-size: .78rem; line-height: 1.45; }
+.dl-memory-quotes li { margin-bottom: 6px; }
+.dl-memory-quotes a { color: #44c8ff; }
+.dl-memory-empty { margin: 8px 0 0; color: #cbd5e1; font-size: .82rem; }
+.dl-memory-source-missing { color: #f59e0b; font-size: .7rem; }
+
+/* Evidence Graph (idea #1) - a tree of real per-quarter evidence (one
+   representative quote + real financial-concept trend arrows), CSS-drawn
+   connector lines rather than a Unicode/font-glyph tree (same reasoning as
+   the filing-viewer sidebar's own CSS-drawn triangle: no escaping/glyph-
+   support risk). Reuses .dl-fv-trend for the arrows (that class otherwise
+   only exists in the light-themed sidebar CSS - this file's own dark-theme
+   copy, right below, is what makes it legible here). */
+.dl-evg-wrap { margin: 0 0 24px 0; }
+.dl-evg-title { font-size: 0.78rem; font-weight: 700; color: #9aa4b2; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 10px; }
+.dl-evg-root { list-style: none; margin: 0; padding: 0; }
+.dl-evg-branch { position: relative; margin: 0 0 16px 0; padding-left: 20px; border-left: 2px solid #333844; }
+.dl-evg-branch:last-child { border-left-color: transparent; }
+.dl-evg-branch::before { content: ''; position: absolute; left: -2px; top: 11px; width: 16px; height: 2px; background: #333844; }
+.dl-evg-period { display: inline-block; font-weight: 700; font-size: 0.95rem; color: #44c8ff; text-decoration: none; margin-bottom: 6px; }
+.dl-evg-period:hover { text-decoration: underline; }
+.dl-evg-leaves { list-style: none; margin: 0; padding: 0; }
+.dl-evg-leaf { font-size: 0.85rem; color: #cdd6e0; margin-bottom: 5px; line-height: 1.5; }
+.dl-evg-quote { font-style: italic; color: #9aa4b2; }
+.dl-evg-fy { opacity: 0.75; }
+.dl-fv-trend { display: inline-block; margin-right: 5px; font-size: 0.65rem; color: #44c8ff; }
+.dl-fv-trend.dl-trend-good { color: #4ade80; }
+.dl-fv-trend.dl-trend-bad { color: #f87171; }
+
+/* Search Inside Charts inflection callout (idea #14) - a one-line "here's
+   exactly when the trend turned" statement plus its real supporting quote,
+   sitting right below the sparkline it's analyzing the same metric from. */
+.dl-inflect-wrap { margin: 14px 0 0 0; padding: 12px 16px; background: #23272f; border-left: 3px solid #44c8ff; border-radius: 0 8px 8px 0; }
+.dl-inflect-title { font-size: 0.9rem; font-weight: 600; color: #dfe4ea; }
+.dl-inflect-title a { color: #44c8ff; }
+.dl-inflect-quote { margin: 6px 0 0 0; font-size: 0.85rem; font-style: italic; color: #9aa4b2; }
+
+/* Executive Tracker (idea #6) - real per-speaker mention counts, ranked
+   highest first, one row per real named speaker. Real user ask: the whole
+   panel should be a dropdown that starts CLOSED (not just each word row) -
+   .dl-exec-wrap is a real <details> element (no `open` attribute = collapsed
+   by default) with .dl-exec-title as its <summary>; when multiple topic
+   sections each render their own tracker, each is its own independent
+   <details>, so each starts closed and opens independently. */
+.dl-exec-wrap { margin: 24px 0 0 0; }
+.dl-exec-title { font-size: 0.78rem; font-weight: 700; color: #9aa4b2; text-transform: uppercase; letter-spacing: .04em; margin-bottom: 10px; }
+.dl-exec-body { padding-top: 2px; }
+.dl-exec-themes-label { font-size: 0.72rem; color: #7a8699; margin-bottom: 8px; }
+.dl-exec-edit-list { display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 8px; }
+.dl-exec-edit-chip { display: inline-flex; align-items: center; gap: 4px; padding: 4px 6px 4px 10px; border-radius: 999px; background: #1c1f26; border: 1px solid #333844; font-size: 0.75rem; color: #dfe4ea; }
+.dl-exec-chip-remove { border: none; background: none; color: #7a8699; cursor: pointer; font-size: 0.9rem; line-height: 1; padding: 2px 4px; }
+.dl-exec-chip-remove:hover { color: #ff6b6b; }
+.dl-exec-edit-controls { display: flex; gap: 6px; margin-bottom: 10px; }
+.dl-exec-add-input { flex: 1; min-width: 0; max-width: 220px; padding: 5px 8px; font-size: 0.78rem; border-radius: 4px; border: 1px solid #333844; background: #1c1f26; color: #dfe4ea; }
+.dl-exec-add-btn, .dl-exec-recompute-btn { padding: 5px 12px; font-size: 0.75rem; font-weight: 600; color: #44c8ff; background: #23272f; border: 1px solid #333844; border-radius: 4px; cursor: pointer; }
+.dl-exec-add-btn:hover, .dl-exec-recompute-btn:hover { background: #2a2e39; }
+.dl-exec-recompute-btn:disabled { opacity: 0.6; cursor: default; }
+.dl-exec-status { font-size: 0.75rem; color: #9aa4b2; min-height: 1.2em; margin-bottom: 6px; }
+.dl-exec-rows { display: flex; flex-direction: column; gap: 6px; }
+.dl-exec-row { background: #2a2e39; border-radius: 6px; }
+.dl-exec-row summary { display: flex; align-items: center; justify-content: space-between; padding: 9px 14px; cursor: pointer; list-style: none; font-weight: 400; font-size: 1rem; color: inherit; }
+.dl-exec-row summary::-webkit-details-marker { display: none; }
+.dl-exec-name { font-size: 0.88rem; font-weight: 600; color: #dfe4ea; }
+.dl-exec-count { font-size: 0.8rem; color: #44c8ff; font-variant-numeric: tabular-nums; }
+.dl-exec-breakdown { display: flex; flex-wrap: wrap; gap: 6px; padding: 0 14px 12px 14px; }
+.dl-exec-word { display: inline-flex; align-items: center; gap: 4px; padding: 3px 8px; border-radius: 999px; background: #1c1f26; font-size: 0.72rem; color: #cdd6e0; }
+.dl-exec-word-count { color: #44c8ff; font-weight: 600; font-variant-numeric: tabular-nums; }
+
+/* Multi-topic report (write_multi_topic_core_research_report) - one bordered,
+   color-tagged section per recognized sub-topic (split_topics), a small jump nav at
+   the top linking to each. Colors come from _TOPIC_SECTION_COLORS, indexed the same
+   way as the filing viewer's mark.dl-cited[data-topic-idx] palette, so a topic reads
+   as the same concept in both places. */
+.dl-topic-nav { display: flex; flex-wrap: wrap; gap: 16px; margin: 0 0 24px 0; padding: 12px 16px; background: #2a2e39; border-radius: 10px; }
+.dl-topic-nav-link { font-weight: 600; font-size: 0.88rem; text-decoration: none; }
+.dl-topic-nav-link:hover { text-decoration: underline; }
+/* Real per-theme colors (data-topic-idx, set server-side, same mechanism as the
+   filing viewer's mark.dl-cited[data-topic-idx] palette) instead of a single
+   dark-palette inline color plus a generic brightness/saturate filter for light
+   mode - real user report: the raw dark-palette neon cyan/yellow filtered down
+   still read as "funny"/mismatched on a white background. These base rules ARE
+   the dark-theme values (this report is dark-by-default); the light override
+   below swaps in _TOPIC_SECTION_COLORS_LIGHT's actual light-safe hues instead of
+   a filtered guess. */
+.dl-topic-nav-link[data-topic-idx="0"] { color: #44c8ff; }
+.dl-topic-nav-link[data-topic-idx="1"] { color: #facc15; }
+.dl-topic-nav-link[data-topic-idx="2"] { color: #c084fc; }
+.dl-topic-nav-link[data-topic-idx="3"] { color: #4ade80; }
+.dl-topic-nav-link[data-topic-idx="4"] { color: #f472b6; }
+.dl-topic-section { border-left: 3px solid; border-radius: 4px; padding: 4px 0 4px 20px; margin-bottom: 32px; }
+.dl-topic-badge { display: inline-block; padding: 3px 11px; border-radius: 999px; font-weight: 600; font-size: 0.76rem; margin-bottom: 10px; }
+.dl-topic-dropped-note { font-size: 0.82rem; color: #facc15; background: rgba(250, 204, 21, 0.1); border: 1px solid rgba(250, 204, 21, 0.3); border-radius: 8px; padding: 10px 14px; margin: 0 0 20px 0; }
+</style>
+<style>
+.dl-theme-toggle { position: fixed; bottom: 20px; right: 20px; z-index: 3000; display: flex; gap: 2px; background: #1c1c1c; border-radius: 999px; padding: 4px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35); font-family: Arial, Helvetica, sans-serif; }
+.dl-theme-btn { border: none; background: transparent; color: #9aa4b2; font-size: 0.72rem; font-weight: 600; padding: 7px 14px; border-radius: 999px; cursor: pointer; line-height: 1; }
+.dl-theme-btn.dl-theme-btn-active { background: #44c8ff; color: #10131a; }
+.dl-theme-btn:hover:not(.dl-theme-btn-active) { color: #fff; }
+@media (max-width: 600px) { .dl-theme-toggle { bottom: 12px; right: 12px; } }
+</style>
+<style>
+.dl-narrative-wrap { margin: 0 0 24px 0; }
+.dl-narrative-btn { background: #2a2e39; color: #44c8ff; border: 1px solid #333844; border-radius: 6px; padding: 8px 16px; font-size: 0.85rem; font-weight: 600; cursor: pointer; font-family: inherit; }
+.dl-narrative-btn:hover { background: #333844; }
+.dl-narrative-btn:disabled { opacity: 0.6; cursor: default; }
+.dl-narrative-status { font-size: 0.8rem; color: #9aa4b2; margin-top: 8px; min-height: 1.2em; }
+.dl-narrative-result { margin-top: 14px; max-width: 520px; }
+.dl-narrative-era-row { display: flex; align-items: baseline; gap: 10px; }
+.dl-narrative-era-period { font-size: 0.72rem; color: #7a8699; min-width: 68px; flex-shrink: 0; font-variant-numeric: tabular-nums; }
+.dl-narrative-era-label { font-weight: 700; font-size: 0.95rem; color: #dfe4ea; }
+.dl-narrative-era-quote { margin: 4px 0 10px 78px; font-size: 0.8rem; font-style: italic; color: #9aa4b2; line-height: 1.5; }
+.dl-narrative-arrow { padding-left: 68px; color: #44c8ff; margin: 2px 0; }
+</style>
+<style>
+html[data-theme="light"] { color-scheme: light; }
+html[data-theme="light"] * { scrollbar-color: #c7cdd6 #eef0f3; }
+html[data-theme="light"] ::-webkit-scrollbar-track { background: #eef0f3; }
+html[data-theme="light"] ::-webkit-scrollbar-thumb { background: #c7cdd6; border-color: #eef0f3; }
+html[data-theme="light"] ::-webkit-scrollbar-thumb:hover { background: #0a66c2; }
+html[data-theme="light"] body { background: #f3f5f8; color: #1c2430; }
+html[data-theme="light"] .meta { color: #6b7688; }
+html[data-theme="light"] .card { background: #fff; border: 1px solid #dde1e7; }
+html[data-theme="light"] .card h3 { color: #1c2430; }
+html[data-theme="light"] .card h4 { color: #6b7688; }
+html[data-theme="light"] .compare-panel { background: #fff; border: 1px solid #dde1e7; }
+html[data-theme="light"] .compare-label { color: #6b7688; }
+html[data-theme="light"] .compare-controls select { background: #fff; color: #1c2430; border: 1px solid #ccced4; }
+html[data-theme="light"] .compare-col { background: #f6f7f9; border: 1px solid #dde1e7; }
+html[data-theme="light"] .compare-col-heading { color: #0a66c2; }
+html[data-theme="light"] .compare-col .period-guidance-actual h4 { color: #6b7688; }
+html[data-theme="light"] .quote { color: #1c2430; }
+html[data-theme="light"] .quote-resolves { color: #6b7688; }
+html[data-theme="light"] .core-qa-item { border-bottom: 1px solid #dde1e7; }
+html[data-theme="light"] .dl-qa-summarize-btn, html[data-theme="light"] .dl-qa-summarize-all-btn { color: #0a5ba8; background: #eef4fb; border: 1px solid #c7d9ee; }
+html[data-theme="light"] .dl-qa-summarize-btn:hover, html[data-theme="light"] .dl-qa-summarize-all-btn:hover { background: #dfeaf9; }
+html[data-theme="light"] .dl-qa-summary-result { color: #1c2b3a; background: #f6f9fc; border-left: 2px solid #0a5ba8; }
+html[data-theme="light"] .dl-qa-summary-result.dl-qa-summary-error { color: #a3311a; border-left-color: #a3311a; background: #fdf2ef; }
+html[data-theme="light"] details { background: #fff; border: 1px solid #dde1e7; }
+html[data-theme="light"] details[open] { background: #f9fafb; }
+html[data-theme="light"] summary { color: #1c2430; }
+html[data-theme="light"] summary::marker { color: #0a66c2; }
+html[data-theme="light"] .empty-note { color: #7a8699; }
+html[data-theme="light"] .filing-category { color: #0a66c2; }
+html[data-theme="light"] .fin-table-wrap { border: 1px solid #dde1e7; }
+html[data-theme="light"] .fin-table th { color: #6b7688; background: #eef2f7; }
+html[data-theme="light"] .fin-table td { border-top: 1px solid #e5e8ed; color: #1c2430; }
+html[data-theme="light"] .fin-table tr:nth-child(even) td { background: rgba(10, 30, 60, 0.025); }
+html[data-theme="light"] .fin-table td:first-child { color: #1c2430; }
+html[data-theme="light"] .fin-table tr.fin-row-highlighted td:first-child { color: #0a66c2; }
+html[data-theme="light"] mark.fin-term { color: #1c2430; }
+html[data-theme="light"] a { color: #0a66c2; }
+html[data-theme="light"] .source-link { color: #6b7688; border: 1px solid #ccced4; }
+html[data-theme="light"] .source-link:hover { color: #0a66c2; border-color: #0a66c2; }
+html[data-theme="light"] .period-source-btn { color: #0a66c2; border: 1px solid #ccced4; }
+html[data-theme="light"] .period-source-btn:hover { border-color: #0a66c2; box-shadow: 0 4px 14px -6px rgba(10, 102, 194, 0.3); }
+html[data-theme="light"] .real-table-item { border: 1px solid #dde1e7; background: #fff; }
+html[data-theme="light"] .real-table-item summary { color: #6b7688; }
+html[data-theme="light"] .real-table-item[open] summary { color: #1c2430; border-bottom: 1px solid #dde1e7; }
+html[data-theme="light"] .real-table-badge { color: #0a66c2; }
+html[data-theme="light"] .real-table-scroll table { color: #1c2430; }
+html[data-theme="light"] .real-table-scroll th { color: #6b7688; background: #eef2f7; border-top: 1px solid #e5e8ed; }
+html[data-theme="light"] .real-table-scroll td { border-top: 1px solid #e5e8ed; }
+html[data-theme="light"] .real-table-scroll tr:nth-child(even) td { background: rgba(10, 30, 60, 0.025); }
+html[data-theme="light"] .real-table-scroll td:first-child { color: #1c2430; }
+html[data-theme="light"] .dl-explain-title { color: #6b7688; }
+html[data-theme="light"] .dl-explain-row { background: #f6f7f9; border-left: 3px solid #dde1e7; }
+html[data-theme="light"] .dl-explain-metric { color: #1c2430; }
+html[data-theme="light"] .dl-explain-quotes li { color: #6b7688; }
+html[data-theme="light"] .real-table-scroll tr.core-table-hit td:first-child { color: #0a66c2; }
+html[data-theme="light"] .dl-cred-timeline { background: #fff; border: 1px solid #dde1e7; }
+html[data-theme="light"] .dl-cred-dot:hover { background: #eef2f7; }
+html[data-theme="light"] .dl-cred-dot-label { color: #6b7688; }
+html[data-theme="light"] .dl-cred-legend { color: #6b7688; }
+html[data-theme="light"] .dl-spark-title { color: #6b7688; }
+html[data-theme="light"] .dl-spark-legend { color: #1c2430; }
+html[data-theme="light"] .dl-spark-range { color: #6b7688; }
+html[data-theme="light"] .dl-freq-wrap { background: #fff; border: 1px solid #dde1e7; }
+html[data-theme="light"] .dl-freq-title { color: #6b7688; }
+html[data-theme="light"] .dl-freq-bar { background: #0a66c2; }
+html[data-theme="light"] .dl-freq-bar-col:hover .dl-freq-bar { background: #3d8fdb; }
+html[data-theme="light"] .dl-freq-bar-count { color: #1c2430; }
+html[data-theme="light"] .dl-freq-bar-label { color: #6b7688; }
+html[data-theme="light"] .dl-memory-wrap { background: #fff; border: 1px solid #dde1e7; }
+html[data-theme="light"] .dl-memory-title { color: #1c2430; }
+html[data-theme="light"] .dl-memory-note, html[data-theme="light"] .dl-memory-meta,
+html[data-theme="light"] .dl-memory-quotes { color: #6b7688; }
+html[data-theme="light"] .dl-memory-item { background: #f9fafb; border-color: #dde1e7; }
+html[data-theme="light"] .dl-memory-item summary { color: #1c2430; }
+html[data-theme="light"] .dl-memory-quotes a { color: #0a66c2; }
+html[data-theme="light"] .dl-memory-empty { color: #6b7688; }
+html[data-theme="light"] .dl-memory-source-missing { color: #a15c00; }
+html[data-theme="light"] .dl-evg-title { color: #6b7688; }
+html[data-theme="light"] .dl-evg-branch { border-left: 2px solid #dde1e7; }
+html[data-theme="light"] .dl-evg-branch::before { background: #dde1e7; }
+html[data-theme="light"] .dl-evg-period { color: #0a66c2; }
+html[data-theme="light"] .dl-evg-leaf { color: #1c2430; }
+html[data-theme="light"] .dl-evg-quote { color: #6b7688; }
+html[data-theme="light"] .dl-fv-trend { color: #0a66c2; }
+html[data-theme="light"] .dl-fv-trend.dl-trend-good { color: #16a34a; }
+html[data-theme="light"] .dl-fv-trend.dl-trend-bad { color: #dc2626; }
+html[data-theme="light"] .dl-inflect-wrap { background: #f6f7f9; border-left: 3px solid #0a66c2; }
+html[data-theme="light"] .dl-inflect-title { color: #1c2430; }
+html[data-theme="light"] .dl-inflect-title a { color: #0a66c2; }
+html[data-theme="light"] .dl-inflect-quote { color: #6b7688; }
+html[data-theme="light"] .dl-exec-title { color: #6b7688; }
+html[data-theme="light"] .dl-exec-themes-label { color: #6b7688; }
+html[data-theme="light"] .dl-exec-edit-chip { background: #f4f6f9; border: 1px solid #ccced4; color: #1c2430; }
+html[data-theme="light"] .dl-exec-chip-remove { color: #6b7688; }
+html[data-theme="light"] .dl-exec-add-input { background: #fff; border: 1px solid #ccced4; color: #1c2430; }
+html[data-theme="light"] .dl-exec-add-btn, html[data-theme="light"] .dl-exec-recompute-btn { color: #0a5ba8; background: #eef4fb; border: 1px solid #c7d9ee; }
+html[data-theme="light"] .dl-exec-add-btn:hover, html[data-theme="light"] .dl-exec-recompute-btn:hover { background: #dfeaf9; }
+html[data-theme="light"] .dl-exec-status { color: #6b7688; }
+html[data-theme="light"] .dl-exec-row { background: #f6f7f9; }
+html[data-theme="light"] .dl-exec-name { color: #1c2430; }
+html[data-theme="light"] .dl-exec-count { color: #0a66c2; }
+html[data-theme="light"] .dl-exec-word { background: #e9eef5; color: #1c2430; }
+html[data-theme="light"] .dl-exec-word-count { color: #0a66c2; }
+html[data-theme="light"] .dl-narrative-btn { background: #eef4fb; color: #0a5ba8; border: 1px solid #c7d9ee; }
+html[data-theme="light"] .dl-narrative-btn:hover { background: #dfeaf9; }
+html[data-theme="light"] .dl-narrative-status { color: #6b7688; }
+html[data-theme="light"] .dl-narrative-era-period { color: #6b7688; }
+html[data-theme="light"] .dl-narrative-era-label { color: #1c2430; }
+html[data-theme="light"] .dl-narrative-era-quote { color: #6b7688; }
+html[data-theme="light"] .dl-narrative-arrow { color: #0a66c2; }
+html[data-theme="light"] .dl-topic-nav { background: #fff; border: 1px solid #dde1e7; }
+html[data-theme="light"] .dl-topic-dropped-note { color: #b45309; background: rgba(180, 83, 9, 0.08); border: 1px solid rgba(180, 83, 9, 0.3); }
+/* Real _TOPIC_SECTION_COLORS_LIGHT hues (not a filtered dark-palette guess) -
+   real user report: the dark-palette neon cyan/yellow topic-nav links, even
+   pushed through the brightness/saturate filter below, still read as "funny"/
+   mismatched on a white background. These override the dark-theme base rules
+   above (same data-topic-idx selectors, same mechanism the filing viewer's own
+   mark.dl-cited[data-topic-idx] light/dark pair already uses). */
+html[data-theme="light"] .dl-topic-nav-link[data-topic-idx="0"] { color: #0a66c2; }
+html[data-theme="light"] .dl-topic-nav-link[data-topic-idx="1"] { color: #b45309; }
+html[data-theme="light"] .dl-topic-nav-link[data-topic-idx="2"] { color: #7c3aed; }
+html[data-theme="light"] .dl-topic-nav-link[data-topic-idx="3"] { color: #15803d; }
+html[data-theme="light"] .dl-topic-nav-link[data-topic-idx="4"] { color: #be185d; }
+/* Verdict/rating/topic badges (.quote-verdict, .badge, .dl-topic-badge) and the
+   topic SECTION accent (.dl-topic-section, its left border only - not the nav
+   link above anymore, see the real per-index colors just above) are colored via
+   inline styles computed server-side from a palette tuned for the dark theme
+   (_VERDICT_COLORS/_CREDIBILITY_COLORS/_TOPIC_SECTION_COLORS - pale cyan/amber/
+   purple/green text on a same-hue translucent tint, via _soft_badge_style).
+   Recomputing a full parallel light-mode color system for every dynamically-
+   chosen badge color was out of scope for this pass. Instead this filter
+   uniformly darkens+saturates the rendered pixels of those elements (text,
+   tinted background, and border all shift together, since filter operates on
+   the final pixels, not individual CSS properties) so pale-on-white doesn't
+   repeat the same illegibility bug the topic headings had earlier - confirmed
+   real risk, not a hypothetical: _soft_badge_style's 13%-alpha tinted
+   background is close to invisible against white, same failure mode. */
+html[data-theme="light"] .badge,
+html[data-theme="light"] .quote-verdict,
+html[data-theme="light"] .dl-topic-badge,
+html[data-theme="light"] .dl-topic-section { filter: brightness(0.72) saturate(1.2); }
+</style>
+</head>
+<body><div class="wrap">
+<div class='dl-narrative-wrap'><button type='button' class='dl-narrative-btn' data-ticker='TSLA' data-start-year='2021' data-end-year='2022'>Show narrative timeline</button><div class='dl-narrative-status' id='dl-narrative-status'></div><div class='dl-narrative-result' id='dl-narrative-result'></div></div>
+
+<div class="compare-panel">
+  <div class="compare-controls">
+    <span class="compare-label">Compare guidance/actual across quarters:</span>
+    <select id="compare-select-a" aria-label="First quarter to compare"><option value="">Quarter A…</option></select>
+    <select id="compare-select-b" aria-label="Second quarter to compare"><option value="">Quarter B…</option></select>
+  </div>
+  <div class="compare-results" id="compare-results"></div>
+</div>
+
+<h1>TSLA: autonomy</h1>
+<div class="meta">8 quarter(s) searched &middot; 174 filing section(s) searched &middot; 5 period(s) with evidence</div>
+
+<div class="dl-cred-timeline-wrap"><div class="dl-cred-timeline-title">Credibility timeline</div><div class="dl-cred-timeline"><a class="dl-cred-dot" href="#period-2021-2" title="Q2 2021: guidance given, not yet resolved"><span class="dl-cred-dot-marker" style="background:#facc15;"></span><span class="dl-cred-dot-label">Q2 2021</span></a><a class="dl-cred-dot" href="#period-2021-4" title="Q4 2021: guidance given, not yet resolved"><span class="dl-cred-dot-marker" style="background:#facc15;"></span><span class="dl-cred-dot-label">Q4 2021</span></a><a class="dl-cred-dot" href="#period-2022-1" title="Q1 2022: guidance given, not yet resolved"><span class="dl-cred-dot-marker" style="background:#facc15;"></span><span class="dl-cred-dot-label">Q1 2022</span></a><a class="dl-cred-dot" href="#period-2022-3" title="Q3 2022: guidance given, not yet resolved"><span class="dl-cred-dot-marker" style="background:#facc15;"></span><span class="dl-cred-dot-label">Q3 2022</span></a><a class="dl-cred-dot" href="#period-2022-4" title="Q4 2022: guidance given, not yet resolved"><span class="dl-cred-dot-marker" style="background:#facc15;"></span><span class="dl-cred-dot-label">Q4 2022</span></a></div><div class="dl-cred-legend"><span class="dl-cred-legend-item"><span class="dl-cred-dot-marker" style="background:#4ade80;"></span>guidance met/exceeded</span><span class="dl-cred-legend-item"><span class="dl-cred-dot-marker" style="background:#f87171;"></span>guidance missed</span><span class="dl-cred-legend-item"><span class="dl-cred-dot-marker" style="background:#facc15;"></span>guidance given, not yet resolved</span><span class="dl-cred-legend-item"><span class="dl-cred-dot-marker" style="background:#5a6270;"></span>no forecast data this quarter</span></div></div>
+<div class="dl-freq-wrap"><div class="dl-freq-title">Mention frequency</div><div class="dl-freq-chart"><a class="dl-freq-bar-col" href="#period-2021-2" title="Q2 2021: 3 mention(s)"><div class="dl-freq-bar" style="height:100%;"></div><div class="dl-freq-bar-count">3</div><div class="dl-freq-bar-label">Q2 2021</div></a><a class="dl-freq-bar-col" href="#period-2021-4" title="Q4 2021: 1 mention(s)"><div class="dl-freq-bar" style="height:33%;"></div><div class="dl-freq-bar-count">1</div><div class="dl-freq-bar-label">Q4 2021</div></a><a class="dl-freq-bar-col" href="#period-2022-1" title="Q1 2022: 2 mention(s)"><div class="dl-freq-bar" style="height:67%;"></div><div class="dl-freq-bar-count">2</div><div class="dl-freq-bar-label">Q1 2022</div></a><a class="dl-freq-bar-col" href="#period-2022-3" title="Q3 2022: 2 mention(s)"><div class="dl-freq-bar" style="height:67%;"></div><div class="dl-freq-bar-count">2</div><div class="dl-freq-bar-label">Q3 2022</div></a><a class="dl-freq-bar-col" href="#period-2022-4" title="Q4 2022: 1 mention(s)"><div class="dl-freq-bar" style="height:33%;"></div><div class="dl-freq-bar-count">1</div><div class="dl-freq-bar-label">Q4 2022</div></a></div></div>
+<section class="dl-memory-wrap"><div class="dl-memory-title">Automatic management memory</div><p class="dl-memory-note">Prepared remarks across TSLA_Q1_2021 through TSLA_Q4_2022 (8 available period(s)). First and last observed mean first and last observed in the available transcript coverage, not the company&#x27;s true historical first or last mention.</p><div class="dl-memory-grid"><details class="dl-memory-item"><summary>gaap</summary><div class="dl-memory-meta"><span class="dl-memory-badge current">Up To Date</span><span class="dl-memory-badge">First: TSLA_Q1_2021</span><span class="dl-memory-badge">Last: TSLA_Q4_2022</span><span class="dl-memory-badge">8 quarters</span><span class="dl-memory-badge">Confidence: high</span></div><ul class="dl-memory-quotes"><li><strong>TSLA_Q1_2021</strong> · Elon Musk: <a href="transcript_tsla-q1-2021.html#dl-mm-gaap-tsla-q1-2021">Tesla achieved record production, deliveries and surpassed $1 billion in non-GAAP net income for the first time.</a></li><li><strong>TSLA_Q4_2022</strong> · Zachary Kirkhorn: <a href="transcript_tsla-q4-2022.html#dl-mm-gaap-tsla-q4-2022">Additionally, we continued to make progress on overhead efficiencies as non-GAAP OpEx as a percentage of revenue improved further.</a></li></ul></details><details class="dl-memory-item"><summary>model</summary><div class="dl-memory-meta"><span class="dl-memory-badge current">Up To Date</span><span class="dl-memory-badge">First: TSLA_Q1_2021</span><span class="dl-memory-badge">Last: TSLA_Q4_2022</span><span class="dl-memory-badge">6 quarters</span><span class="dl-memory-badge">Confidence: high</span></div><ul class="dl-memory-quotes"><li><strong>TSLA_Q1_2021</strong> · Elon Musk: <a href="transcript_tsla-q1-2021.html#dl-mm-model-tsla-q1-2021">So Model 3 became the best-selling mid-sized premier sedan in the world.</a></li><li><strong>TSLA_Q4_2022</strong> · Elon Musk: <a href="transcript_tsla-q4-2022.html#dl-mm-model-tsla-q4-2022">And we&#x27;ve actually raised the Model Y price a little bit in response to that.</a></li></ul></details><details class="dl-memory-item"><summary>billion</summary><div class="dl-memory-meta"><span class="dl-memory-badge current">Up To Date</span><span class="dl-memory-badge">First: TSLA_Q1_2021</span><span class="dl-memory-badge">Last: TSLA_Q4_2022</span><span class="dl-memory-badge">6 quarters</span><span class="dl-memory-badge">Confidence: high</span></div><ul class="dl-memory-quotes"><li><strong>TSLA_Q1_2021</strong> · Elon Musk: <a href="transcript_tsla-q1-2021.html#dl-mm-billion-tsla-q1-2021">Tesla achieved record production, deliveries and surpassed $1 billion in non-GAAP net income for the first time.</a></li><li><strong>TSLA_Q4_2022</strong> · Elon Musk: <a href="transcript_tsla-q4-2022.html#dl-mm-billion-tsla-q4-2022">While doing so, we generated $12.5 billion in net income and $7.5 billion in free cash flow.</a></li></ul></details><details class="dl-memory-item"><summary>profitability</summary><div class="dl-memory-meta"><span class="dl-memory-badge fading">Fading</span><span class="dl-memory-badge">First: TSLA_Q2_2021</span><span class="dl-memory-badge">Last: TSLA_Q3_2022</span><span class="dl-memory-badge">5 quarters</span><span class="dl-memory-badge">Confidence: high</span></div><ul class="dl-memory-quotes"><li><strong>TSLA_Q2_2021</strong> · Zachary Kirkhorn: <a href="transcript_tsla-q2-2021.html#dl-mm-profitability-tsla-q2-2021">Additionally, it&#x27;s encouraging to see the progress made on profitability within our energy and services and other businesses.</a></li><li><strong>TSLA_Q3_2022</strong> · Zachary Kirkhorn: <a href="transcript_tsla-q3-2022.html#dl-mm-profitability-tsla-q3-2022">On automotive profitability, our GAAP operating margin was 17.2% with automotive gross margin at 27.9%.</a></li></ul></details><details class="dl-memory-item"><summary>average</summary><div class="dl-memory-meta"><span class="dl-memory-badge current">Up To Date</span><span class="dl-memory-badge">First: TSLA_Q1_2021</span><span class="dl-memory-badge">Last: TSLA_Q4_2022</span><span class="dl-memory-badge">4 quarters</span><span class="dl-memory-badge">Confidence: high</span></div><ul class="dl-memory-quotes"><li><strong>TSLA_Q1_2021</strong> · Elon Musk: <a href="transcript_tsla-q1-2021.html#dl-mm-average-tsla-q1-2021">There’s no question in my mind that with a pure vision solution, we can make a car that is dramatically safer than the average person.</a></li><li><strong>TSLA_Q4_2022</strong> · Elon Musk: <a href="transcript_tsla-q4-2022.html#dl-mm-average-tsla-q4-2022">And so these price changes really make a difference for the average consumer.</a></li></ul></details><details class="dl-memory-item"><summary>premium</summary><div class="dl-memory-meta"><span class="dl-memory-badge current">Up To Date</span><span class="dl-memory-badge">First: TSLA_Q1_2021</span><span class="dl-memory-badge">Last: TSLA_Q4_2022</span><span class="dl-memory-badge">3 quarters</span><span class="dl-memory-badge">Confidence: high</span></div><ul class="dl-memory-quotes"><li><strong>TSLA_Q1_2021</strong> · Elon Musk: <a href="transcript_tsla-q1-2021.html#dl-mm-premium-tsla-q1-2021">The BMW 3 Series was for the longest time best-selling premium sedan.</a></li><li><strong>TSLA_Q4_2022</strong> · Zachary Kirkhorn: <a href="transcript_tsla-q4-2022.html#dl-mm-premium-tsla-q4-2022">Third, our vehicle mix over the last year has moved more heavily towards Model Y, which carries a slight cost premium to Model 3.</a></li></ul></details><details class="dl-memory-item"><summary>major</summary><div class="dl-memory-meta"><span class="dl-memory-badge historical">Historical</span><span class="dl-memory-badge">First: TSLA_Q2_2021</span><span class="dl-memory-badge">Last: TSLA_Q3_2021</span><span class="dl-memory-badge">2 quarters</span><span class="dl-memory-badge">Confidence: medium</span></div><ul class="dl-memory-quotes"><li><strong>TSLA_Q2_2021</strong> · Elon Musk: <a href="transcript_tsla-q2-2021.html#dl-mm-major-tsla-q2-2021">There are -- and we went through this on the battery cell day, really dozens of -- half a dozen major improvements and dozens of small improvements.</a></li><li><strong>TSLA_Q3_2021</strong> · Lars Moravy: <a href="transcript_tsla-q3-2021.html#dl-mm-major-tsla-q3-2021">As we&#x27;ve said publicly, we&#x27;ll eventually expand the vehicle line up to get to larger volumes, and we believe that we will need to be in all major segments across small and mid-size, large sedans, SUVs, and trucks to do so.</a></li></ul></details></div></section>
+
+<div class="card">
+<h2>Longitudinal Summary</h2>
+<div class="dl-summary-top">
+<div class="dl-summary-prose">
+<p>Over the examined periods, management consistently expressed strong confidence in the advancement of autonomy, highlighting milestones such as the anticipated achievement of Level 4 autonomy and the introduction of FSD Beta as a key consumer testing platform. However, no specific quantitative guidance or forecasted metrics were provided, and no actual performance data was disclosed to validate these statements. The commentary remained qualitative and aspirational, focusing on the vision and potential safety benefits of autonomy rather than measurable progress or timelines.</p>
+<div class="badge" style="background:#9aa4b222; color:#9aa4b2; border:1px solid #9aa4b266;">Forecasting Credibility: None</div>
+<p>There are zero guidance-to-actual pairs available for autonomy, preventing any assessment of forecasting accuracy or credibility. Management has not provided explicit forward guidance with corresponding actual results that would allow for evaluation of their forecasting reliability on this topic. Therefore, no credibility rating can be assigned based on the evidence.</p>
+</div>
+<div class="dl-spark-wrap">
+<div class="dl-spark-title">Revenue &amp; gross margin trend</div>
+<svg viewBox="0 0 240 64" width="240" height="64" role="img" aria-label="Revenue from $10.39B to $21.45B, gross margin from 21.3% to 25.1%, Q1 2021 through Q3 2022">
+<polyline points="4.0,60.0 50.4,52.1 96.8,43.0 143.2,17.7 189.6,26.9 236.0,4.0" fill="none" stroke="#44c8ff" stroke-width="2"/>
+<polyline points="4.0,60.0 50.4,39.9 96.8,22.0 143.2,4.0 189.6,33.5 236.0,32.9" fill="none" stroke="#facc15" stroke-width="2"/>
+</svg>
+<div class="dl-spark-legend">
+<span class="dl-spark-legend-item"><span class="dl-spark-swatch" style="background:#44c8ff;"></span>Revenue ($10.39B &rarr; $21.45B)</span>
+<span class="dl-spark-legend-item"><span class="dl-spark-swatch" style="background:#facc15;"></span>Gross margin (21.3% &rarr; 25.1%)</span>
+</div>
+<div class="dl-spark-range">Q1 2021 &ndash; Q3 2022</div>
+</div>
+</div>
+<div class="dl-inflect-wrap"><div class="dl-inflect-title">&#9650; Gross Profit turned up in <a href="#period-2022-3">Q3 2022</a></div><p class="dl-inflect-quote">&ldquo;Elon Musk We’ll achieve full self-driving full autonomy -- I look at that occurring is 100%.&rdquo;</p></div>
+<h3>Trends</h3><ul><li>Increasing confidence in autonomy safety</li><li>Focus on Level 4 and full self-driving autonomy</li><li>Introduction and emphasis on FSD Beta testing</li></ul>
+<h3>Recurring Themes / Risks</h3><ul><li>Reliance on AI-powered autonomy</li><li>Uncertainty in achieving full autonomy timelines</li><li>Consumer testing as a milestone</li></ul>
+<h3>Key Concerns</h3><ul><li>Lack of quantitative guidance or measurable milestones limits ability to track progress</li><li>No actual performance data disclosed to confirm management&#x27;s optimistic statements</li><li>Potential risk of overpromising without concrete delivery metrics</li></ul>
+<h2>Conclusion</h2>
+<p>Management&#x27;s commentary on autonomy is aspirational and visionary but lacks the quantitative guidance and actual results necessary to assess progress or forecasting credibility. The absence of guidance-actual pairs means that investors cannot verify whether management&#x27;s optimistic statements about achieving Level 4 or full self-driving autonomy are on track. While the introduction of FSD Beta is noted as a significant milestone, it remains an unresolved indicator without concrete performance data. Consequently, autonomy remains a promising but unverified area in the company&#x27;s disclosures.</p>
+<div class="dl-evg-wrap"><div class="dl-evg-title">Evidence graph</div><div class="dl-summary-top"><div class="dl-summary-prose"><ul class="dl-evg-root"><li class="dl-evg-branch"><a class="dl-evg-period" href="#period-2021-2">Q2 2021</a><ul class="dl-evg-leaves"><li class="dl-evg-leaf dl-evg-quote">&ldquo;Autonomy will become so safe that it will be unsafe to manually operate the car relatively speaking.&rdquo;</li></ul></li><li class="dl-evg-branch"><a class="dl-evg-period" href="#period-2021-4">Q4 2021</a><ul class="dl-evg-leaves"><li class="dl-evg-leaf dl-evg-quote">&ldquo;And the last question from investors is Elon mentioned Level 4 autonomy could be achieved this year.&rdquo;</li></ul></li><li class="dl-evg-branch"><a class="dl-evg-period" href="#period-2022-1">Q1 2022</a><ul class="dl-evg-leaves"><li class="dl-evg-leaf dl-evg-quote">&ldquo;That’s highly optimized for autonomy, meaning it would not have steering wheel or pedals.&rdquo;</li></ul></li><li class="dl-evg-branch"><a class="dl-evg-period" href="#period-2022-3">Q3 2022</a><ul class="dl-evg-leaves"><li class="dl-evg-leaf dl-evg-quote">&ldquo;Elon Musk We’ll achieve full self-driving full autonomy -- I look at that occurring is 100%.&rdquo;</li></ul></li><li class="dl-evg-branch"><a class="dl-evg-period" href="#period-2022-4">Q4 2022</a><ul class="dl-evg-leaves"><li class="dl-evg-leaf dl-evg-quote">&ldquo;This is a huge milestone for autonomy as FSD Beta is the only way any consumer can actually test the latest AI-powered autonomy.&rdquo;</li></ul></li></ul></div></div></div>
+<details class="dl-evidence-coverage">
+<summary>Evidence Coverage — 97.4% complete (147/151)</summary>
+<p class="meta">Evidence Coverage is a deterministic source/evidence inventory, not an objective truth score.</p>
+<table><thead><tr><th>Claim</th><th>Period</th><th>Status</th><th>Evidence</th><th>Sources</th><th>Confidence</th><th>Warnings</th><th>Links</th></tr></thead>
+<tbody><tr><td>Autonomy will become so safe that it will be unsafe to manually operate the car relatively speaking.</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>Earnings transcript</td><td>high</td><td></td><td><a href="transcript_tsla-q2-2021.html" target="_blank" rel="noopener">source</a></td></tr><tr><td>Revenue: 11958000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Cost of Revenue: 9074000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Gross Profit: 2884000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>R&amp;D Expense: 576000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>SG&amp;A Expense: 973000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Operating Income: 1312000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Net Income: 1142000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Diluted EPS: 1.02</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Operating Cash Flow: 2124000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Investing Cash Flow: -1515000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Financing Cash Flow: -1549000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Capital Expenditures: 1505000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>D&amp;A: 461000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Current Assets: 24693000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Current Liabilities: 16371000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Cash &amp; Equivalents: 16229000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Inventory: 4733000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Accounts Receivable: 2129000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Accounts Payable: 7558000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Long-Term Debt: 6878000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Short-Term Debt: 1082000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Stockholders&#x27; Equity: 24804000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Goodwill: 203000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>PP&amp;E: 15665000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Total Debt: 7960000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Free Cash Flow: 619000000</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>-- Elon said 4680 cells aren&#x27;t reliable enough for vehicles. Is this referring to cycle life, degradation, or something else? Please update us on the progress of 4680s and what sti</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>Earnings transcript</td><td>high</td><td></td><td>—</td></tr><tr><td>Really, this is not -- we&#x27;ll definitely make the 4680 reliable enough for vehicles, and we, I think, are at the point where, in limited volume, it is reliable enough for vehicles. </td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>Earnings transcript</td><td>high</td><td></td><td>—</td></tr><tr><td>Thanks so much guys. Can you speak to the attached rates for FSD so far and where you&#x27;re targeting in terms of the subscription levels?</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>Earnings transcript</td><td>high</td><td></td><td>—</td></tr><tr><td>Yeah, it&#x27;s not worth commenting on right now. It&#x27;s not meaningful. We really need Full Self-Driving at least the beta to be widely available so anyone who wants it can get it. Othe</td><td>Q2 2021</td><td><span class="badge">complete</span></td><td>1</td><td>Earnings transcript</td><td>high</td><td></td><td>—</td></tr><tr><td>And the last question from investors is Elon mentioned Level 4 autonomy could be achieved this year.</td><td>Q4 2021</td><td><span class="badge">weak</span></td><td>1</td><td>Earnings transcript</td><td>low</td><td>Evidence requires caution or period/source validation.</td><td><a href="transcript_tsla-q4-2021.html" target="_blank" rel="noopener">source</a></td></tr><tr><td>Full Self-Driving.</td><td>Q4 2021</td><td><span class="badge">weak</span></td><td>1</td><td>Earnings transcript</td><td>low</td><td>Evidence requires caution or period/source validation.</td><td><a href="transcript_tsla-q4-2021.html" target="_blank" rel="noopener">source</a></td></tr><tr><td>Revenue: 53823000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Cost of Revenue: 40217000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Gross Profit: 13606000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>R&amp;D Expense: 2593000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>SG&amp;A Expense: 4517000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Operating Income: 6523000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Net Income: 5519000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Diluted EPS: 4.9</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Operating Cash Flow: 11497000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Investing Cash Flow: -7868000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Financing Cash Flow: -5203000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Capital Expenditures: 6482000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>D&amp;A: 1910000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Current Assets: 27100000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Current Liabilities: 19705000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Cash &amp; Equivalents: 17576000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Inventory: 5757000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Accounts Receivable: 1913000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Accounts Payable: 10025000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Long-Term Debt: 4254000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Short-Term Debt: 1088000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Stockholders&#x27; Equity: 30189000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Goodwill: 200000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>PP&amp;E: 18884000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Total Debt: 5342000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Free Cash Flow: 5015000000</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>how much of Tesla&#x27;s margin improvement is from, number one, economies of scale; number two, production design -- production line design efficiencies; number three, reduced transpor</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>Earnings transcript</td><td>high</td><td></td><td>—</td></tr><tr><td>Yes. Basically -- yes, there&#x27;s basically four major factors if we look over the last year to the margin improvement in the Company. And they&#x27;re in no particular order here but thes</td><td>Q4 2021</td><td><span class="badge">complete</span></td><td>1</td><td>Earnings transcript</td><td>high</td><td></td><td>—</td></tr><tr><td>That’s highly optimized for autonomy, meaning it would not have steering wheel or pedals.</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>Earnings transcript</td><td>high</td><td></td><td><a href="transcript_tsla-q1-2022.html" target="_blank" rel="noopener">source</a></td></tr><tr><td>Revenue: 18756000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Cost of Revenue: 13296000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Gross Profit: 5460000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>R&amp;D Expense: 865000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>SG&amp;A Expense: 992000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Operating Income: 3603000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Net Income: 3318000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Diluted EPS: 2.86</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Operating Cash Flow: 3995000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Investing Cash Flow: -2167000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Financing Cash Flow: -1914000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Capital Expenditures: 1767000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>D&amp;A: 551000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Current Assets: 29050000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Current Liabilities: 21455000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Cash &amp; Equivalents: 17505000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Inventory: 6691000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Accounts Receivable: 2311000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Accounts Payable: 11171000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Long-Term Debt: 2253000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Short-Term Debt: 1168000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Stockholders&#x27; Equity: 34085000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Goodwill: 200000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>PP&amp;E: 20027000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Total Debt: 3421000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Free Cash Flow: 2228000000</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Hi. Good evening. Thank you for taking the questions. First, maybe you can just talk through or address what some of the drivers of cost improvement were in the quarter. Was it jus</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>Earnings transcript</td><td>high</td><td></td><td>—</td></tr><tr><td>Sure. I mean, at a high level, cars produced in Shanghai do carry a lower cost structure than cars produced in Fremont. And so, as our mix of cars shift towards Shanghai, the avera</td><td>Q1 2022</td><td><span class="badge">complete</span></td><td>1</td><td>Earnings transcript</td><td>high</td><td></td><td>—</td></tr><tr><td>Elon Musk We’ll achieve full self-driving full autonomy -- I look at that occurring is 100%.</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>Earnings transcript</td><td>high</td><td></td><td><a href="transcript_tsla-q3-2022.html" target="_blank" rel="noopener">source</a></td></tr><tr><td>Revenue: 21454000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Cost of Revenue: 16072000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Gross Profit: 5382000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>R&amp;D Expense: 733000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>SG&amp;A Expense: 961000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Operating Income: 3688000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Net Income: 3292000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Diluted EPS: 0.95</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Operating Cash Flow: 9095000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Investing Cash Flow: -4958000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Financing Cash Flow: -2626000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Capital Expenditures: 3570000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>D&amp;A: 620000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Current Assets: 35990000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Current Liabilities: 24611000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Cash &amp; Equivalents: 19532000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Inventory: 10327000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Accounts Receivable: 2192000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Accounts Payable: 13897000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Long-Term Debt: 1418000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Short-Term Debt: 979000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Stockholders&#x27; Equity: 39851000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Goodwill: 191000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>PP&amp;E: 21926000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Total Debt: 2397000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Free Cash Flow: 5525000000</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>I just wanted to follow up on the 4680 cells and where we are seeing them deployed today. So, are those in the Semis that are being delivered on December 1st? Are we seeing them in</td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>Earnings transcript</td><td>high</td><td></td><td>—</td></tr><tr><td>Okay. The Semi doesn’t use 4680s. Yes. We are making Model Ys. Some of the Model Ys coming out of Giga Texas are 4680. And I think, Drew, the car you drive around is 4680 Model Y? </td><td>Q3 2022</td><td><span class="badge">complete</span></td><td>1</td><td>Earnings transcript</td><td>high</td><td></td><td>—</td></tr><tr><td>This is a huge milestone for autonomy as FSD Beta is the only way any consumer can actually test the latest AI-powered autonomy.</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>Earnings transcript</td><td>high</td><td></td><td><a href="transcript_tsla-q4-2022.html" target="_blank" rel="noopener">source</a></td></tr><tr><td>Revenue: 81462000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Cost of Revenue: 60609000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Gross Profit: 20853000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>R&amp;D Expense: 3075000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>SG&amp;A Expense: 3946000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Operating Income: 13656000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Net Income: 12556000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Diluted EPS: 3.62</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Operating Cash Flow: 14724000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Investing Cash Flow: -11973000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Financing Cash Flow: -3527000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Capital Expenditures: 7158000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>D&amp;A: 2420000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Current Assets: 40917000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Current Liabilities: 26709000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Cash &amp; Equivalents: 16253000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Inventory: 12839000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Accounts Receivable: 2952000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Accounts Payable: 15255000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Long-Term Debt: 1029000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Short-Term Debt: 1016000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Stockholders&#x27; Equity: 44704000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Goodwill: 194000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>PP&amp;E: 23548000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Total Debt: 2045000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Free Cash Flow: 7566000000</td><td>Q4 2022</td><td><span class="badge">complete</span></td><td>1</td><td>SEC XBRL</td><td>high</td><td></td><td>—</td></tr><tr><td>Autonomy will become so safe that it will be unsafe to manually operate the car relatively speaking. | This is a huge milestone for autonomy as FSD Beta is the only way any consume</td><td>TSLA_Q2_2021</td><td><span class="badge">complete</span></td><td>1</td><td>Earnings transcript</td><td>high</td><td></td><td><a href="transcript_tsla-q2-2021.html" target="_blank" rel="noopener">source</a></td></tr><tr><td>That’s highly optimized for autonomy, meaning it would not have steering wheel or pedals. | This is a huge milestone for autonomy as FSD Beta is the only way any consumer can actua</td><td>TSLA_Q1_2022</td><td><span class="badge">complete</span></td><td>1</td><td>Earnings transcript</td><td>high</td><td></td><td><a href="transcript_tsla-q1-2022.html" target="_blank" rel="noopener">source</a></td></tr><tr><td>Elon Musk We’ll achieve full self-driving full autonomy -- I look at that occurring is 100%. | This is a huge milestone for autonomy as FSD Beta is the only way any consumer can ac</td><td>TSLA_Q3_2022</td><td><span class="badge">complete</span></td><td>1</td><td>Earnings transcript</td><td>high</td><td></td><td><a href="transcript_tsla-q3-2022.html" target="_blank" rel="noopener">source</a></td></tr><tr><td>And the last question from investors is Elon mentioned Level 4 autonomy could be achieved this year.</td><td>TSLA_Q4_2021</td><td><span class="badge">unresolved</span></td><td>1</td><td>Earnings transcript</td><td>low</td><td>Outcome or matching evidence was not found.</td><td><a href="transcript_tsla-q4-2021.html" target="_blank" rel="noopener">source</a></td></tr><tr><td>conclusion</td><td></td><td><span class="badge">derived</span></td><td>0</td><td>LLM synthesis</td><td>low</td><td></td><td>—</td></tr></tbody></table>
+</details>
+<details class='dl-exec-wrap' data-ticker='TSLA' data-start-year='2021' data-end-year='2022'><summary class="dl-exec-title">Executive tracker</summary><div class="dl-exec-body"><div class="dl-exec-themes-label">Tracking (edit words, then Recompute):</div><div class="dl-exec-edit-list"><span class="dl-exec-edit-chip" data-word="average">average <button type='button' class='dl-exec-chip-remove' aria-label='Remove'>&times;</button></span><span class="dl-exec-edit-chip" data-word="billion">billion <button type='button' class='dl-exec-chip-remove' aria-label='Remove'>&times;</button></span><span class="dl-exec-edit-chip" data-word="comparison">comparison <button type='button' class='dl-exec-chip-remove' aria-label='Remove'>&times;</button></span><span class="dl-exec-edit-chip" data-word="gaap">gaap <button type='button' class='dl-exec-chip-remove' aria-label='Remove'>&times;</button></span><span class="dl-exec-edit-chip" data-word="interior">interior <button type='button' class='dl-exec-chip-remove' aria-label='Remove'>&times;</button></span><span class="dl-exec-edit-chip" data-word="major">major <button type='button' class='dl-exec-chip-remove' aria-label='Remove'>&times;</button></span><span class="dl-exec-edit-chip" data-word="model">model <button type='button' class='dl-exec-chip-remove' aria-label='Remove'>&times;</button></span><span class="dl-exec-edit-chip" data-word="premium">premium <button type='button' class='dl-exec-chip-remove' aria-label='Remove'>&times;</button></span><span class="dl-exec-edit-chip" data-word="profitability">profitability <button type='button' class='dl-exec-chip-remove' aria-label='Remove'>&times;</button></span><span class="dl-exec-edit-chip" data-word="tesla">tesla <button type='button' class='dl-exec-chip-remove' aria-label='Remove'>&times;</button></span><span class="dl-exec-edit-chip" data-word="trending">trending <button type='button' class='dl-exec-chip-remove' aria-label='Remove'>&times;</button></span></div><div class="dl-exec-edit-controls"><input type='text' class='dl-exec-add-input' placeholder='Add a word…'><button type='button' class='dl-exec-add-btn'>Add</button><button type='button' class='dl-exec-recompute-btn'>Recompute</button></div><div class="dl-exec-status"></div><div class="dl-exec-rows"><details class="dl-exec-row"><summary><span class="dl-exec-name">tesla</span><span class="dl-exec-count">238 mentions</span></summary><div class="dl-exec-breakdown"><span class="dl-exec-word">Elon Musk <span class="dl-exec-word-count">123</span></span><span class="dl-exec-word">Martin Viecha <span class="dl-exec-word-count">49</span></span><span class="dl-exec-word">Zachary Kirkhorn <span class="dl-exec-word-count">41</span></span><span class="dl-exec-word">Mark Delaney <span class="dl-exec-word-count">7</span></span><span class="dl-exec-word">Andrew Baglino <span class="dl-exec-word-count">4</span></span><span class="dl-exec-word">Pierre Ferragu <span class="dl-exec-word-count">3</span></span><span class="dl-exec-word">Operator <span class="dl-exec-word-count">2</span></span><span class="dl-exec-word">Rod Lache <span class="dl-exec-word-count">2</span></span><span class="dl-exec-word">George Gianarikas <span class="dl-exec-word-count">2</span></span><span class="dl-exec-word">Lars Moravy <span class="dl-exec-word-count">1</span></span><span class="dl-exec-word">Brian Johnson <span class="dl-exec-word-count">1</span></span><span class="dl-exec-word">Alex Potter <span class="dl-exec-word-count">1</span></span><span class="dl-exec-word">Toni Sacconaghi <span class="dl-exec-word-count">1</span></span><span class="dl-exec-word">Adam Jonas <span class="dl-exec-word-count">1</span></span></div></details><details class="dl-exec-row"><summary><span class="dl-exec-name">model</span><span class="dl-exec-count">119 mentions</span></summary><div class="dl-exec-breakdown"><span class="dl-exec-word">Zachary Kirkhorn <span class="dl-exec-word-count">46</span></span><span class="dl-exec-word">Elon Musk <span class="dl-exec-word-count">40</span></span><span class="dl-exec-word">Martin Viecha <span class="dl-exec-word-count">11</span></span><span class="dl-exec-word">Lars Moravy <span class="dl-exec-word-count">9</span></span><span class="dl-exec-word">Andrew Baglino <span class="dl-exec-word-count">5</span></span><span class="dl-exec-word">Rod Lache <span class="dl-exec-word-count">2</span></span><span class="dl-exec-word">Pierre Ferragu <span class="dl-exec-word-count">2</span></span><span class="dl-exec-word">Toni Sacconaghi <span class="dl-exec-word-count">2</span></span><span class="dl-exec-word">Dan Levy <span class="dl-exec-word-count">1</span></span><span class="dl-exec-word">Joseph Spak <span class="dl-exec-word-count">1</span></span></div></details><details class="dl-exec-row"><summary><span class="dl-exec-name">billion</span><span class="dl-exec-count">34 mentions</span></summary><div class="dl-exec-breakdown"><span class="dl-exec-word">Elon Musk <span class="dl-exec-word-count">21</span></span><span class="dl-exec-word">Zachary Kirkhorn <span class="dl-exec-word-count">9</span></span><span class="dl-exec-word">Pierre Ferragu <span class="dl-exec-word-count">2</span></span><span class="dl-exec-word">Adam Jonas <span class="dl-exec-word-count">2</span></span></div></details><details class="dl-exec-row"><summary><span class="dl-exec-name">average</span><span class="dl-exec-count">27 mentions</span></summary><div class="dl-exec-breakdown"><span class="dl-exec-word">Elon Musk <span class="dl-exec-word-count">14</span></span><span class="dl-exec-word">Zachary Kirkhorn <span class="dl-exec-word-count">9</span></span><span class="dl-exec-word">Martin Viecha <span class="dl-exec-word-count">2</span></span><span class="dl-exec-word">Andrew Baglino <span class="dl-exec-word-count">1</span></span><span class="dl-exec-word">Mark Delaney <span class="dl-exec-word-count">1</span></span></div></details><details class="dl-exec-row"><summary><span class="dl-exec-name">profitability</span><span class="dl-exec-count">19 mentions</span></summary><div class="dl-exec-breakdown"><span class="dl-exec-word">Zachary Kirkhorn <span class="dl-exec-word-count">12</span></span><span class="dl-exec-word">Elon Musk <span class="dl-exec-word-count">4</span></span><span class="dl-exec-word">Martin Viecha <span class="dl-exec-word-count">1</span></span><span class="dl-exec-word">Alex Potter <span class="dl-exec-word-count">1</span></span><span class="dl-exec-word">Mark Delaney <span class="dl-exec-word-count">1</span></span></div></details><details class="dl-exec-row"><summary><span class="dl-exec-name">major</span><span class="dl-exec-count">13 mentions</span></summary><div class="dl-exec-breakdown"><span class="dl-exec-word">Elon Musk <span class="dl-exec-word-count">4</span></span><span class="dl-exec-word">Andrew Baglino <span class="dl-exec-word-count">4</span></span><span class="dl-exec-word">Zachary Kirkhorn <span class="dl-exec-word-count">2</span></span><span class="dl-exec-word">Martin Viecha <span class="dl-exec-word-count">1</span></span><span class="dl-exec-word">Lars Moravy <span class="dl-exec-word-count">1</span></span><span class="dl-exec-word">William Stein <span class="dl-exec-word-count">1</span></span></div></details><details class="dl-exec-row"><summary><span class="dl-exec-name">gaap</span><span class="dl-exec-count">10 mentions</span></summary><div class="dl-exec-breakdown"><span class="dl-exec-word">Zachary Kirkhorn <span class="dl-exec-word-count">6</span></span><span class="dl-exec-word">Elon Musk <span class="dl-exec-word-count">4</span></span></div></details><details class="dl-exec-row"><summary><span class="dl-exec-name">premium</span><span class="dl-exec-count">8 mentions</span></summary><div class="dl-exec-breakdown"><span class="dl-exec-word">Zachary Kirkhorn <span class="dl-exec-word-count">6</span></span><span class="dl-exec-word">Elon Musk <span class="dl-exec-word-count">1</span></span><span class="dl-exec-word">Pierre Ferragu <span class="dl-exec-word-count">1</span></span></div></details><details class="dl-exec-row"><summary><span class="dl-exec-name">trending</span><span class="dl-exec-count">6 mentions</span></summary><div class="dl-exec-breakdown"><span class="dl-exec-word">Elon Musk <span class="dl-exec-word-count">2</span></span><span class="dl-exec-word">Zachary Kirkhorn <span class="dl-exec-word-count">2</span></span><span class="dl-exec-word">Lars Moravy <span class="dl-exec-word-count">1</span></span><span class="dl-exec-word">Andrew Baglino <span class="dl-exec-word-count">1</span></span></div></details><details class="dl-exec-row"><summary><span class="dl-exec-name">comparison</span><span class="dl-exec-count">4 mentions</span></summary><div class="dl-exec-breakdown"><span class="dl-exec-word">Elon Musk <span class="dl-exec-word-count">3</span></span><span class="dl-exec-word">Dan Levy <span class="dl-exec-word-count">1</span></span></div></details><details class="dl-exec-row"><summary><span class="dl-exec-name">interior</span><span class="dl-exec-count">2 mentions</span></summary><div class="dl-exec-breakdown"><span class="dl-exec-word">Martin Viecha <span class="dl-exec-word-count">1</span></span><span class="dl-exec-word">Elon Musk <span class="dl-exec-word-count">1</span></span></div></details></div></div></details>
+</div>
+
+<h2>By Reporting Period</h2>
+<details id="period-2021-2"><summary>Q2 2021</summary><div class="period-body"><div class="period-source-buttons"><a class="period-source-btn" href="transcript_tsla-q2-2021.html" target="_blank" rel="noopener">View Transcript</a><a class="period-source-btn" href="filing_10-q-q2-2021.html" target="_blank" rel="noopener">View 10-K/10-Q</a></div><h4>What management said</h4><ul><li><span class="quote">"Autonomy will become so safe that it will be unsafe to manually operate the car relatively speaking."</span></li></ul><div class="period-guidance-actual" data-period-key="2021-2" data-period-label="Q2 2021"><h4>Guidance given</h4><ul><li><span class="quote">"Autonomy will become so safe that it will be unsafe to manually operate the car relatively speaking."</span></li></ul><h4>Actual reported</h4><p class="empty-note">No actual results identified this period.</p></div><h4>Filing disclosures (10-K/10-Q)</h4><p class="empty-note">No 10-K/10-Q disclosures this period.</p><h4>What was asked<button type='button' class='dl-qa-summarize-all-btn'>Summarize all</button></h4><div class="core-qa-group"><div class="core-qa-item"><div class='dl-qa-original'><span class="quote-resolves">Q:</span> <span class="quote">-- Elon said 4680 cells aren&#x27;t reliable enough for vehicles. Is this referring to cycle life, degradation, or something else? Please update us on the progress of 4680s and what still needs to be done to make them reliable enough for vehicles.</span><br><span class="quote-resolves">A:</span> <span class="quote">Really, this is not -- we&#x27;ll definitely make the 4680 reliable enough for vehicles, and we, I think, are at the point where, in limited volume, it is reliable enough for vehicles. Again, going back to limited production is easy, prototype production is easy but high-volume production is hard. There are a number of challenges in transitioning from sort of small-scale production to a large volume production. And not to get too much into the weeds of things, but right now, we have a challenge with basically what&#x27;s called calendaring, or basically squashing the cathode material to a particular height.
+
+So it just goes through these rollers and gets squashed like pizza dough, basically, but very hard pizza dough. And it&#x27;s causing -- it&#x27;s denting the calendar rolls. This is not something that happened when the calendar rolls were smaller, but it is happening when the calendar rolls were bigger. So it&#x27;s just like -- we were like, OK, we weren&#x27;t expecting that. Yeah. It&#x27;s not like a science problem, it&#x27;s an engineering problem. Yeah. It&#x27;s not a question of if. It&#x27;s a question of when. Yeah. And the team is 100% focused on resolving these limiting processes as quickly as possible. Exactly. On the reliability side, as Elon mentioned, we have successfully validated performance and the lifetime durability of the 4680 cells produced in Kato, and we&#x27;re continuing ongoing verification of that reliability. We&#x27;re actually accruing over one million equivalent miles on our cells that we produce every month. In our testing activities, the focus on that is very clear. We want high-quality cells for all of our customers.
+
+And yeah, we&#x27;re just focused on the unlucky limiting steps in the facility. And with the engineers focused on those few steps remaining, we&#x27;re going to break through as fast as possible. Meantime, we have a massive amount of equipment on order and arriving, for the high-volume cell production in Austin and Berlin. But obviously, given what we&#x27;ve learned with the pilot plant, which is in Fremont, which is really quite a big plant by most standards, we will have to modify a bunch of that equipment. So it won&#x27;t be able to start immediately. But it seems like -- Andrew, correct me if I&#x27;m wrong, but we think, most likely, we will hit an annualized rate of 100-gigawatt hours a year, sometime next year. We&#x27;ll have all the equipment installed to accomplish 100-gigawatt hours, and it&#x27;s possible that by the end of the year, we will be at an annualized rate of 100-gigawatt hours by the end of the year. Yeah, I mean my guess is more likely than not, above 50% of reaching 100-gigawatt hours a year by the end of next year on the annualized rate, something like that. Yup. It could shift by a little bit, but as Drew mentioned, nothing fundamental, just a lot of work. Yeah. And even to the large roller question, Elon, right. Like on the anode side, the large rollers work great, no concerns. And so we&#x27;re just learning as we go.
+
+And the nice thing about having that facility on a fast-track like we had it, and we talked about it at battery day, was really de-risking the big factories here. And, yes, we&#x27;ve done and we&#x27;ve learned a lot. And with each successive iteration, the ramp-up and the equipment installation will be faster and more safe. All right, thank you very much. And the last question from retail is from Emmett. Can Elon do an interview with one of our YouTube channels once or twice a year? I would nominate David Lee on Investing or Rob Maurer&#x27;s Tesla Daily channels as first possible candidates. Yeah, I guess I&#x27;ll do an interview. I mean, just bear in mind, like if I&#x27;m doing interviews tonight, I can&#x27;t do actual other work. Only so much time in the day. But yeah, I&#x27;ll do it once.
+
+I won&#x27;t do it annually, but I&#x27;ll do it once. I think also, I&#x27;d like -- this is the last time I&#x27;ll do earnings calls, but this is the -- I will no longer speak, default, during earnings calls. So obviously I&#x27;ll have to do the annual shareholder meeting, but I think going forward, I will most likely not be on earnings calls unless there&#x27;s something really important that I need to say. OK. Thank you. And let&#x27;s go to institutional questions. The first one, and we covered a lot of these already.
+
+Can you please update us on timelines for the start-up production of Berlin and Austin, Model Y, Cybertruck and the Semi? Do you expect the ramp of Cybertruck to be as difficult as it is a new process? I think Cybertruck ramp will be difficult because it&#x27;s such new architecture. I mean it&#x27;s going to be a great product. It might, I think be our best product ever. But there&#x27;s a lot of fundamentally new design ideas in the Cybertruck.
+
+Nobody&#x27;s ever really made a car like this before, a vehicle like this before. So there will probably be challenges because there&#x27;s so much unexplored territory. Thank you. I think question two and question three, we can skip given we have already addressed it. I&#x27;ll go to question four. In five years&#x27; time, how much faster or better could you be at manufacturing capacity expansion using current pace? And what are the biggest issues you need to solve to get to that rate? Well, like I said, I think we might be the fastest growing company in history for any launched manufactured item. Those who have not actually been involved in manufacturing ramp-up just have no idea how painful and difficult it is. It&#x27;s like you got to eat a lot of glass. And for our manufacturing ramp, it&#x27;s hard. Yeah, I mean, I think if you look at the expansion we&#x27;ve done in Shanghai, that factory was built in less than a year and ramped in five to six months to full volume. It took longer than that. Took longer than that, about a year. And when you consider cut and paste, we&#x27;ve repeated that in Fremont and whatever. But now with Berlin and Austin, we have new factories and new designs. And so there&#x27;s always challenges as you said, Elon, with new designs and ramping that. But I think having teams in three locations or three continents, will definitely expand our ability and our capacity to grow more lines, rather than just having the one factory in Fremont that we had a year and a half ago. Yeah, I mean, for Shanghai, it&#x27;s an incredible team built the factory in nine months, but it took longer than -- longer than building the factory. It took longer than that to actually reach volume production -- a high volume production. So it took about a year. And when you put a factory in a new geography, in order for that factory to be efficient, you have to localize the supply chain.
+
+So there&#x27;s no such thing as cut and paste. It does not exist. And it would obviously be insane to do vehicle production in Europe and send vast numbers of parts from North America.  That would be -- that would make the producing in Europe, for example, just crazy. You got to look like the supply chains have efficiency and then you&#x27;re moving as fast as your least lucky, least good supplier.
+
+Yeah. Some of these supply chains go like three or four layers deep. Frankly, I feel at times that we are inheriting all force majeure of Earth. So if anything goes wrong anywhere on Earth, something happens to mess up the supply chain.
+
+Yeah. I think the human capital growth, though, of having factories here, Berlin, Shanghai, Fremont, does a lot to, maybe not exponentially grow, but well, hopefully -- We are exponentially growing. Hopefully maintain that exponential growth. Yeah. It&#x27;s also -- it takes a while to hire old people and train old people to operate a factory. A factory is like a giant cybernetic collective. And you can&#x27;t just hire 10,000 people and have them work instantly.
+
+It&#x27;s not possible. I really encourage more people to get involved in manufacturing. I think, especially in the U.S., this has just not been an area where all that many smart people have gone into. I think U.S.
+
+has an over-allocation of talent in finance and law. It&#x27;s both a criticism and a compliment. I&#x27;m not saying we shouldn&#x27;t have people in finance and law. I&#x27;m just saying if there might be -- maybe we have too many smart people in those arenas. Manufacturing is fun. Yeah, manufacturing is great. It&#x27;s a very interesting problem to solve.  And obviously, you can&#x27;t have stock unless someone makes it. That&#x27;s how you get stock. Yeah. OK. Thank you very much. And let&#x27;s go to the last investor question. Does Tesla plan to offer more services beyond FSD or high-speed connectivity as part of its subscription bundle going forward? What areas in particular present an opportunity? Yeah, we don&#x27;t have a lot of ideas on this to be frank. Really, Full Self-Driving is the main thing. Things are obviously headed toward fully autonomous electric vehicle future. And I think Tesla is well-positioned and in fact is the leader objectively in both of those arenas, electrification and autonomy.
+
+It&#x27;s always tempting to try to find analogies, but with other companies, or whatever.  But really, the value of fully electric autonomous fleet is generally gigantic, boggles the mind really. So that will be one of the most valuable things that&#x27;s ever done in the history of civilization. Thank you very much. And now let&#x27;s go back to analyst Q&amp;A, please.
+
+Questions &amp; Answers:</span></div><button type='button' class='dl-qa-summarize-btn' data-question="-- Elon said 4680 cells aren&#x27;t reliable enough for vehicles. Is this referring to cycle life, degradation, or something else? Please update us on the progress of 4680s and what still needs to be done to make them reliable enough for vehicles." data-answer="Really, this is not -- we&#x27;ll definitely make the 4680 reliable enough for vehicles, and we, I think, are at the point where, in limited volume, it is reliable enough for vehicles. Again, going back to limited production is easy, prototype production is easy but high-volume production is hard. There are a number of challenges in transitioning from sort of small-scale production to a large volume production. And not to get too much into the weeds of things, but right now, we have a challenge with basically what&#x27;s called calendaring, or basically squashing the cathode material to a particular height.
+
+So it just goes through these rollers and gets squashed like pizza dough, basically, but very hard pizza dough. And it&#x27;s causing -- it&#x27;s denting the calendar rolls. This is not something that happened when the calendar rolls were smaller, but it is happening when the calendar rolls were bigger. So it&#x27;s just like -- we were like, OK, we weren&#x27;t expecting that. Yeah. It&#x27;s not like a science problem, it&#x27;s an engineering problem. Yeah. It&#x27;s not a question of if. It&#x27;s a question of when. Yeah. And the team is 100% focused on resolving these limiting processes as quickly as possible. Exactly. On the reliability side, as Elon mentioned, we have successfully validated performance and the lifetime durability of the 4680 cells produced in Kato, and we&#x27;re continuing ongoing verification of that reliability. We&#x27;re actually accruing over one million equivalent miles on our cells that we produce every month. In our testing activities, the focus on that is very clear. We want high-quality cells for all of our customers.
+
+And yeah, we&#x27;re just focused on the unlucky limiting steps in the facility. And with the engineers focused on those few steps remaining, we&#x27;re going to break through as fast as possible. Meantime, we have a massive amount of equipment on order and arriving, for the high-volume cell production in Austin and Berlin. But obviously, given what we&#x27;ve learned with the pilot plant, which is in Fremont, which is really quite a big plant by most standards, we will have to modify a bunch of that equipment. So it won&#x27;t be able to start immediately. But it seems like -- Andrew, correct me if I&#x27;m wrong, but we think, most likely, we will hit an annualized rate of 100-gigawatt hours a year, sometime next year. We&#x27;ll have all the equipment installed to accomplish 100-gigawatt hours, and it&#x27;s possible that by the end of the year, we will be at an annualized rate of 100-gigawatt hours by the end of the year. Yeah, I mean my guess is more likely than not, above 50% of reaching 100-gigawatt hours a year by the end of next year on the annualized rate, something like that. Yup. It could shift by a little bit, but as Drew mentioned, nothing fundamental, just a lot of work. Yeah. And even to the large roller question, Elon, right. Like on the anode side, the large rollers work great, no concerns. And so we&#x27;re just learning as we go.
+
+And the nice thing about having that facility on a fast-track like we had it, and we talked about it at battery day, was really de-risking the big factories here. And, yes, we&#x27;ve done and we&#x27;ve learned a lot. And with each successive iteration, the ramp-up and the equipment installation will be faster and more safe. All right, thank you very much. And the last question from retail is from Emmett. Can Elon do an interview with one of our YouTube channels once or twice a year? I would nominate David Lee on Investing or Rob Maurer&#x27;s Tesla Daily channels as first possible candidates. Yeah, I guess I&#x27;ll do an interview. I mean, just bear in mind, like if I&#x27;m doing interviews tonight, I can&#x27;t do actual other work. Only so much time in the day. But yeah, I&#x27;ll do it once.
+
+I won&#x27;t do it annually, but I&#x27;ll do it once. I think also, I&#x27;d like -- this is the last time I&#x27;ll do earnings calls, but this is the -- I will no longer speak, default, during earnings calls. So obviously I&#x27;ll have to do the annual shareholder meeting, but I think going forward, I will most likely not be on earnings calls unless there&#x27;s something really important that I need to say. OK. Thank you. And let&#x27;s go to institutional questions. The first one, and we covered a lot of these already.
+
+Can you please update us on timelines for the start-up production of Berlin and Austin, Model Y, Cybertruck and the Semi? Do you expect the ramp of Cybertruck to be as difficult as it is a new process? I think Cybertruck ramp will be difficult because it&#x27;s such new architecture. I mean it&#x27;s going to be a great product. It might, I think be our best product ever. But there&#x27;s a lot of fundamentally new design ideas in the Cybertruck.
+
+Nobody&#x27;s ever really made a car like this before, a vehicle like this before. So there will probably be challenges because there&#x27;s so much unexplored territory. Thank you. I think question two and question three, we can skip given we have already addressed it. I&#x27;ll go to question four. In five years&#x27; time, how much faster or better could you be at manufacturing capacity expansion using current pace? And what are the biggest issues you need to solve to get to that rate? Well, like I said, I think we might be the fastest growing company in history for any launched manufactured item. Those who have not actually been involved in manufacturing ramp-up just have no idea how painful and difficult it is. It&#x27;s like you got to eat a lot of glass. And for our manufacturing ramp, it&#x27;s hard. Yeah, I mean, I think if you look at the expansion we&#x27;ve done in Shanghai, that factory was built in less than a year and ramped in five to six months to full volume. It took longer than that. Took longer than that, about a year. And when you consider cut and paste, we&#x27;ve repeated that in Fremont and whatever. But now with Berlin and Austin, we have new factories and new designs. And so there&#x27;s always challenges as you said, Elon, with new designs and ramping that. But I think having teams in three locations or three continents, will definitely expand our ability and our capacity to grow more lines, rather than just having the one factory in Fremont that we had a year and a half ago. Yeah, I mean, for Shanghai, it&#x27;s an incredible team built the factory in nine months, but it took longer than -- longer than building the factory. It took longer than that to actually reach volume production -- a high volume production. So it took about a year. And when you put a factory in a new geography, in order for that factory to be efficient, you have to localize the supply chain.
+
+So there&#x27;s no such thing as cut and paste. It does not exist. And it would obviously be insane to do vehicle production in Europe and send vast numbers of parts from North America.  That would be -- that would make the producing in Europe, for example, just crazy. You got to look like the supply chains have efficiency and then you&#x27;re moving as fast as your least lucky, least good supplier.
+
+Yeah. Some of these supply chains go like three or four layers deep. Frankly, I feel at times that we are inheriting all force majeure of Earth. So if anything goes wrong anywhere on Earth, something happens to mess up the supply chain.
+
+Yeah. I think the human capital growth, though, of having factories here, Berlin, Shanghai, Fremont, does a lot to, maybe not exponentially grow, but well, hopefully -- We are exponentially growing. Hopefully maintain that exponential growth. Yeah. It&#x27;s also -- it takes a while to hire old people and train old people to operate a factory. A factory is like a giant cybernetic collective. And you can&#x27;t just hire 10,000 people and have them work instantly.
+
+It&#x27;s not possible. I really encourage more people to get involved in manufacturing. I think, especially in the U.S., this has just not been an area where all that many smart people have gone into. I think U.S.
+
+has an over-allocation of talent in finance and law. It&#x27;s both a criticism and a compliment. I&#x27;m not saying we shouldn&#x27;t have people in finance and law. I&#x27;m just saying if there might be -- maybe we have too many smart people in those arenas. Manufacturing is fun. Yeah, manufacturing is great. It&#x27;s a very interesting problem to solve.  And obviously, you can&#x27;t have stock unless someone makes it. That&#x27;s how you get stock. Yeah. OK. Thank you very much. And let&#x27;s go to the last investor question. Does Tesla plan to offer more services beyond FSD or high-speed connectivity as part of its subscription bundle going forward? What areas in particular present an opportunity? Yeah, we don&#x27;t have a lot of ideas on this to be frank. Really, Full Self-Driving is the main thing. Things are obviously headed toward fully autonomous electric vehicle future. And I think Tesla is well-positioned and in fact is the leader objectively in both of those arenas, electrification and autonomy.
+
+It&#x27;s always tempting to try to find analogies, but with other companies, or whatever.  But really, the value of fully electric autonomous fleet is generally gigantic, boggles the mind really. So that will be one of the most valuable things that&#x27;s ever done in the history of civilization. Thank you very much. And now let&#x27;s go back to analyst Q&amp;A, please.
+
+Questions &amp; Answers:">Summarize</button><div class='dl-qa-summary-result'></div></div><div class="core-qa-item"><div class='dl-qa-original'><span class="quote-resolves">Q &mdash; Colin Rusch — Oppenheimer:</span> <span class="quote">Thanks so much guys. Can you speak to the attached rates for FSD so far and where you&#x27;re targeting in terms of the subscription levels?</span><br><span class="quote-resolves">A:</span> <span class="quote">Yeah, it&#x27;s not worth commenting on right now. It&#x27;s not meaningful. We really need Full Self-Driving at least the beta to be widely available so anyone who wants it can get it. Otherwise, it&#x27;ll be pointless to read anything into where things are right now.
+
+So, yes. And then just the follow-up there is about the kin to the regulatory environment, keeping up with the technology. Are you seeing meaningful evolution in terms of the regulators really understanding the technology and beginning to set some standards here sometime in the near term? At least in the U.S., we don&#x27;t see regulation as the fundamental limiter. We&#x27;ve obviously got to make it work and then demonstrate that the reliability is significantly in excess of the average human driver for it to be allowed -- for you to be able to use it without paying attention to the road. But I think we have a massive fleet. So it will be, I think, straightforward to make the arguments on statistical grounds, just based on the number of interventions, especially in events that would result in a crash.
+
+At scale, it will have billions of miles of travel to be able to show that it is the safety of the car with autopilot on is 100% or 200% or more safer than the average human driver. At that point, I think it would be unconscionable to not to allow autopilot because the car just becomes way less safe. It would be sort of like shake the elevator analogy. Back in the day, we used to have elevator operators with a big switch that -- they operate the elevator and move between floors.
+
+But they get tired or maybe drunk or something or distracted and every now and again, somebody would be kind of sheared in half between floors. That&#x27;s kind of the situation we have with cars. Autonomy will become so safe that it will be unsafe to manually operate the car relatively speaking. And today obviously we just get an elevator where we press the button for which floor we want, and it just takes us there safely.
+
+And it would be quite alarming if those elevators were operated by a person with a giant switch. That&#x27;s how it would be with cars. Thank you. Let&#x27;s go to the next question, please.</span></div><button type='button' class='dl-qa-summarize-btn' data-question="Thanks so much guys. Can you speak to the attached rates for FSD so far and where you&#x27;re targeting in terms of the subscription levels?" data-answer="Yeah, it&#x27;s not worth commenting on right now. It&#x27;s not meaningful. We really need Full Self-Driving at least the beta to be widely available so anyone who wants it can get it. Otherwise, it&#x27;ll be pointless to read anything into where things are right now.
+
+So, yes. And then just the follow-up there is about the kin to the regulatory environment, keeping up with the technology. Are you seeing meaningful evolution in terms of the regulators really understanding the technology and beginning to set some standards here sometime in the near term? At least in the U.S., we don&#x27;t see regulation as the fundamental limiter. We&#x27;ve obviously got to make it work and then demonstrate that the reliability is significantly in excess of the average human driver for it to be allowed -- for you to be able to use it without paying attention to the road. But I think we have a massive fleet. So it will be, I think, straightforward to make the arguments on statistical grounds, just based on the number of interventions, especially in events that would result in a crash.
+
+At scale, it will have billions of miles of travel to be able to show that it is the safety of the car with autopilot on is 100% or 200% or more safer than the average human driver. At that point, I think it would be unconscionable to not to allow autopilot because the car just becomes way less safe. It would be sort of like shake the elevator analogy. Back in the day, we used to have elevator operators with a big switch that -- they operate the elevator and move between floors.
+
+But they get tired or maybe drunk or something or distracted and every now and again, somebody would be kind of sheared in half between floors. That&#x27;s kind of the situation we have with cars. Autonomy will become so safe that it will be unsafe to manually operate the car relatively speaking. And today obviously we just get an elevator where we press the button for which floor we want, and it just takes us there safely.
+
+And it would be quite alarming if those elevators were operated by a person with a giant switch. That&#x27;s how it would be with cars. Thank you. Let&#x27;s go to the next question, please.">Summarize</button><div class='dl-qa-summary-result'></div></div></div></div></details><details id="period-2021-4"><summary>Q4 2021</summary><div class="period-body"><div class="period-source-buttons"><a class="period-source-btn" href="transcript_tsla-q4-2021.html" target="_blank" rel="noopener">View Transcript</a><a class="period-source-btn" href="filing_10-k-fy2021.html" target="_blank" rel="noopener">View 10-K/10-Q</a></div><h4>What management said</h4><p class="empty-note">No high-confidence mentions this period - showing weaker, lower-confidence matches instead:</p><ul><li><span class="quote">"And the last question from investors is Elon mentioned Level 4 autonomy could be achieved this year."</span></li><li><span class="quote">"Full Self-Driving."</span></li></ul><div class="period-guidance-actual" data-period-key="2021-4" data-period-label="Q4 2021"><h4>Guidance given</h4><ul><li><span class="quote-resolves">(value: Level 4 autonomy) </span><span class="quote">"And the last question from investors is Elon mentioned Level 4 autonomy could be achieved this year."</span></li></ul><h4>Actual reported</h4><p class="empty-note">No actual results identified this period.</p></div><h4>Filing disclosures (10-K/10-Q)</h4><p class="empty-note">No 10-K/10-Q disclosures this period.</p><h4>What was asked<button type='button' class='dl-qa-summarize-all-btn'>Summarize all</button></h4><div class="core-qa-group"><div class="core-qa-item"><div class='dl-qa-original'><span class="quote-resolves">Q:</span> <span class="quote">how much of Tesla&#x27;s margin improvement is from, number one, economies of scale; number two, production design -- production line design efficiencies; number three, reduced transportation costs from multiple plant locations; and number four, pricing versus cost inflation; or number five, other sources? And how much further could margins improve and why?</span><br><span class="quote-resolves">A:</span> <span class="quote">Yes. Basically -- yes, there&#x27;s basically four major factors if we look over the last year to the margin improvement in the Company. And they&#x27;re in no particular order here but these are the big ones. So, our mix of Model Y is increasing as we&#x27;ve ramped that to higher capacity in Fremont and also in Shanghai. And the reason that matters is the Model Y is a vehicle that carries a higher profit than the Model 3. And so that is helpful on our margins. And then, as we increase the volume on that program with labor efficiencies, fixed cost amortization, they improve and the costs go down as well.
+
+The second one here is localization in Shanghai has been a huge help for margins for the Company. And the obvious things around logistics and duties is a big part of it, but we&#x27;ve also -- that factory had a different line design, more efficient from the start, and we&#x27;ve been pushing the boundaries on the volume there. So, that has been helpful.
+
+If you recall at the beginning of the year, we also were in a transition to the new version of the Model S and Model X. And so, as that has ramped over the course of the year, that has been helpful. And then, we&#x27;ve also done various price increases in certain markets on certain models, which has helped there. So, that&#x27;s generally the story at a high level.
+
+As we look over the next a quarter or two, as I mentioned in my opening remarks in the last call as well, we have ramp inefficiencies from the launch of Austin and Berlin. We also have pressures coming from inflation, supply chain, raw materials, et cetera. And so, where that nets out is hard to say in the immediate term. And we obviously, as a company, are going to be driving to increase margins as much as we can. But I just want to be realistic that we&#x27;re launching two factories simultaneously here and it unavoidably will add cost to the business as we do that.
+
+And as we look further out, and Elon mentioned this in his opening remarks as well, the software portion of the business, I think, is the one to really pay attention to. As Full Self-Driving features get rolled out to more and more folks, I mean, for me, personally, I prefer to drive my car with the FSD data on. And I think as more and more people experience that, take rates there, and then as we work towards the robotaxi space, there&#x27;s actually quite a bit of upside on margins from a software perspective. Yes. I think basically everything pales in comparison to the value of robotaxi or personal driving. I mean, it&#x27;s just -- I mean, that just tends to warm everything. You just go from having an asset that is -- has a utility of perhaps 12 hours a week per passenger car to maybe around 50 or 60 hours a week to a 5x increase in the utility of the asset. The cost didn&#x27;t change. Yes. So, that&#x27;s where just things just we had -- just kind of where’s your mind. Thank you. And the last question from investors is Elon mentioned Level 4 autonomy could be achieved this year. Is it based off initial FSD beta rollout experience or is Level 4 ability predicated on Dojo being completed online? As mentioned earlier, Dojo is not required for Full Self-Driving. It should have a positive effect on the cost of training networks. It&#x27;s not just a question like, does it get to Full Self-Driving but really kind of like the March of Nines of reliability, is it 99.999% reliable or 99.999999% reliable. This is -- it gets nutty.
+
+So, obviously we want to get to close to perfection as possible. So frankly, being safe than a human is a low standard, not a high standard. People are very, very lossy, often distracted, tired, texting. Anyway, it&#x27;s remarkable that we don&#x27;t have more accidents. So, it&#x27;s -- yes. So actually being better than a human, I think, is relatively very forward, frankly, how do you be 1,000% better or 10,000% better. Yes. That&#x27;s what gets much harder.
+
+But I think anyone who&#x27;s been in the FSD beta program, I mean, if they were just to plot the progress of the beta interventions per mile, it&#x27;s obviously trending to a very small number of interventions per mile and pace of improvement is fast. And there are several profound improvements to the FSD stack that are coming in the next few months. So, yes. I would be shocked if we do not achieve Full Self-Driving safer than human this year. I would be shocked.</span></div><button type='button' class='dl-qa-summarize-btn' data-question="how much of Tesla&#x27;s margin improvement is from, number one, economies of scale; number two, production design -- production line design efficiencies; number three, reduced transportation costs from multiple plant locations; and number four, pricing versus cost inflation; or number five, other sources? And how much further could margins improve and why?" data-answer="Yes. Basically -- yes, there&#x27;s basically four major factors if we look over the last year to the margin improvement in the Company. And they&#x27;re in no particular order here but these are the big ones. So, our mix of Model Y is increasing as we&#x27;ve ramped that to higher capacity in Fremont and also in Shanghai. And the reason that matters is the Model Y is a vehicle that carries a higher profit than the Model 3. And so that is helpful on our margins. And then, as we increase the volume on that program with labor efficiencies, fixed cost amortization, they improve and the costs go down as well.
+
+The second one here is localization in Shanghai has been a huge help for margins for the Company. And the obvious things around logistics and duties is a big part of it, but we&#x27;ve also -- that factory had a different line design, more efficient from the start, and we&#x27;ve been pushing the boundaries on the volume there. So, that has been helpful.
+
+If you recall at the beginning of the year, we also were in a transition to the new version of the Model S and Model X. And so, as that has ramped over the course of the year, that has been helpful. And then, we&#x27;ve also done various price increases in certain markets on certain models, which has helped there. So, that&#x27;s generally the story at a high level.
+
+As we look over the next a quarter or two, as I mentioned in my opening remarks in the last call as well, we have ramp inefficiencies from the launch of Austin and Berlin. We also have pressures coming from inflation, supply chain, raw materials, et cetera. And so, where that nets out is hard to say in the immediate term. And we obviously, as a company, are going to be driving to increase margins as much as we can. But I just want to be realistic that we&#x27;re launching two factories simultaneously here and it unavoidably will add cost to the business as we do that.
+
+And as we look further out, and Elon mentioned this in his opening remarks as well, the software portion of the business, I think, is the one to really pay attention to. As Full Self-Driving features get rolled out to more and more folks, I mean, for me, personally, I prefer to drive my car with the FSD data on. And I think as more and more people experience that, take rates there, and then as we work towards the robotaxi space, there&#x27;s actually quite a bit of upside on margins from a software perspective. Yes. I think basically everything pales in comparison to the value of robotaxi or personal driving. I mean, it&#x27;s just -- I mean, that just tends to warm everything. You just go from having an asset that is -- has a utility of perhaps 12 hours a week per passenger car to maybe around 50 or 60 hours a week to a 5x increase in the utility of the asset. The cost didn&#x27;t change. Yes. So, that&#x27;s where just things just we had -- just kind of where’s your mind. Thank you. And the last question from investors is Elon mentioned Level 4 autonomy could be achieved this year. Is it based off initial FSD beta rollout experience or is Level 4 ability predicated on Dojo being completed online? As mentioned earlier, Dojo is not required for Full Self-Driving. It should have a positive effect on the cost of training networks. It&#x27;s not just a question like, does it get to Full Self-Driving but really kind of like the March of Nines of reliability, is it 99.999% reliable or 99.999999% reliable. This is -- it gets nutty.
+
+So, obviously we want to get to close to perfection as possible. So frankly, being safe than a human is a low standard, not a high standard. People are very, very lossy, often distracted, tired, texting. Anyway, it&#x27;s remarkable that we don&#x27;t have more accidents. So, it&#x27;s -- yes. So actually being better than a human, I think, is relatively very forward, frankly, how do you be 1,000% better or 10,000% better. Yes. That&#x27;s what gets much harder.
+
+But I think anyone who&#x27;s been in the FSD beta program, I mean, if they were just to plot the progress of the beta interventions per mile, it&#x27;s obviously trending to a very small number of interventions per mile and pace of improvement is fast. And there are several profound improvements to the FSD stack that are coming in the next few months. So, yes. I would be shocked if we do not achieve Full Self-Driving safer than human this year. I would be shocked.">Summarize</button><div class='dl-qa-summary-result'></div></div></div></div></details><details id="period-2022-1"><summary>Q1 2022</summary><div class="period-body"><div class="period-source-buttons"><a class="period-source-btn" href="transcript_tsla-q1-2022.html" target="_blank" rel="noopener">View Transcript</a><a class="period-source-btn" href="filing_10-q-q1-2022.html" target="_blank" rel="noopener">View 10-K/10-Q</a></div><h4>What management said</h4><ul><li><span class="quote">"That’s highly optimized for autonomy, meaning it would not have steering wheel or pedals."</span></li></ul><div class="period-guidance-actual" data-period-key="2022-1" data-period-label="Q1 2022"><h4>Guidance given</h4><ul><li><span class="quote">"That’s highly optimized for autonomy, meaning it would not have steering wheel or pedals."</span></li></ul><h4>Actual reported</h4><p class="empty-note">No actual results identified this period.</p></div><h4>Filing disclosures (10-K/10-Q)</h4><p class="empty-note">No 10-K/10-Q disclosures this period.</p><h4>What was asked<button type='button' class='dl-qa-summarize-all-btn'>Summarize all</button></h4><div class="core-qa-group"><div class="core-qa-item"><div class='dl-qa-original'><span class="quote-resolves">Q &mdash; Dan Levy — CSFB:</span> <span class="quote">Hi. Good evening. Thank you for taking the questions. First, maybe you can just talk through or address what some of the drivers of cost improvement were in the quarter. Was it just further improvements within Shanghai or in Fremont? Anything around sort of ongoing kaizen that you’ve talked about in the past? Maybe you could just talk through what you benefited from in the first quarter.</span><br><span class="quote-resolves">A:</span> <span class="quote">Sure. I mean, at a high level, cars produced in Shanghai do carry a lower <mark class="fin-term">cost structure</mark> than cars produced in Fremont. And so, as our mix of cars shift towards Shanghai, the average cost is positively impacted by that. We’re also seeing some progress in manufacturing efficiencies in Fremont, particularly on the S and X side as volume increases improves there. Expedites has been a huge story for the company. Q4, we had massive amounts of expedites. Q1 was still quite large, but we did make progress on bringing that down some. Special mention goes to the Fremont manufacturing team and our associates there because we’re achieving record output at Fremont. Yes. The Fremont team is doing a tremendous job. Really absolutely from the back [ph] quarters. Yes. It’s hard to underweight. Like you should -- the expedite situation with the crazy logistics that occurred with COVID. Yes. And to Elon’s point, the Fremont team and also the Shanghai team has been extremely dynamic with the unpredictable nature of our part arrivals, and our supply chain team, in particular, production planning portion of supply chain. We often get very little notice when there’s part shortage is coming, and it’s kind of a scramble couple of days before that part is supposed to arrive to figure out how to get it here. And so, the amount of Herculean effort that goes in to produce a quarter like Q1 and even the quarters before that is absolutely immense. There’s a saying in the military, it’s like amateurs talk about tactics, professionals talk about logistics when it comes to war. Yes. So, there were some inherent cost improvements, as I mentioned, but there’s also offsets that we’ve talked about previously on raw materials, commodities. Outbound logistics continues to remain a challenge despite a ton of efforts to increase capacity there and bring those costs down. Second question, one of the initial goals of Model 3 way back when was to have an EV that was affordable for a wide portion of the market. And we know prices are much higher now just given the supply constraints. Prices are higher for all other automakers. We know that there’s inflation that you’re battling through, and some of that needs to be passed through the price of the vehicles. And you’re going to be supply-constrained for the foreseeable future. So, it’s one of the points. But given the goal long term of making EVs more widely available to the masses over time, how do you look at the progression of prices over time? We absolutely want to make EVs as affordable as possible. It’s been very difficult with the -- I mean, I think, inflation is at like a 40 or 50-year high. And I think the official numbers actually understate the true magnitude of inflation, so. And that inflation appears to be likely to continue for at least the remainder of this year is what -- when we’re talking to suppliers, suppliers are under severe cost pressure. So, yes, and in some cases, we’re seeing suppliers request 20% to 30% cost increases for parts from last year to the end of this year. So, it’s -- there’s a lot of cost pressure there.
+
+That’s why we raised our prices because we -- when things are on -- with respect to inflation, you know it’s high, then -- and we’ve got orders that go out a year or more in some cases, then we have to anticipate those cost increases. But I think, especially with the robotaxi and autonomy, I think we will end up providing consumers with, by far, the lowest cost per mile of transport that they’ve ever experienced. Yes. I mean with robotaxi, like maybe 5 to 10 times cost per mile. It’s really quite substantial. And therefore, accessible to everybody. Yes. I mean, looking at some of our projections, it would appear that a robotaxi ride will cost less than a bus ticket, a subsidized bus ticket or subsidized subway ticket. Thank you very much. Let’s go to the next question from Rod Lache from Wolfe Research. Hi, everybody. I’m trying to just parse out your comments about the inflation and constrained supply and battery feedstocks and the initiatives that you are working on internally to secure these materials. It sounds like you’re optimistic about Tesla’s ability to solve this for Tesla. Do you -- but do you see this as a constraint on EV adoption more broadly? Yes, absolutely. But what’s sort of keeping our costs down, at least in the short term, is that we have long-term contracts with suppliers, but those long-term contracts will obviously run out and then the year we’ll start to see potentially significant cost increases. But the macro is sort of looking at the world as a whole and saying, okay, what does it take for earth to transition to sustainable energy faster? It’s fundamentally -- the fundamental limiting factor is the output of cell -- basically, cell output -- at what rate can lithium ion cells increase the gigawatt hours per year? That is the fundamental limiting factor.
+
+So, in order -- and that will move as fast as the slowest, least lucky element of the whole supply chain. Currently, we see that as being a challenge with lithium. And it’s not that -- to be clear, it’s not that there’s a shortage of lithium ore in the world. Lithium is present almost everywhere. It’s a very common element. However, you still need to take up the ore -- take up basically sludge or whatever the clay with the lithium and then you need to go through a whole series of refinement steps. And that’s a lot of industrial equipment that’s needed to refine lithium ore to lithium that can be used as lithium hydroxide or lithium carbonate in the battery cell.
+
+So, we think we’re going to need to help the industry on this front, but the -- I mean, the industry is very fast. And I certainly encourage entrepreneurs out there who are looking for opportunities to get into the lithium business. The lithium margins right now are practically software margins. I mean, if the -- I think it’s something -- I think there’s a -- I mean, -- correct me if I’m wrong, but I think we’re seeing cases where the spot lithium price is 10 times higher than the cost of extraction. So, like we’re talking 19% margins here. Can some -- can more people please get into the lithium business? It’s -- do you like minting money? Well, the lithium business is for you. Interesting. So, I guess, we’ll stay tuned to see what happens from that. My second question is it’s impressive to see just a modest increase in <mark class="fin-term">cost per vehicle</mark> -- <mark class="fin-term">cost of goods sold</mark> per vehicle, given what we’ve seen in terms of commodities actually. And from here, you have a lot of savings opportunities with 4680 cells and the cell manufacturing changes, the anode chemistry, structural packs, giga castings. Are you suggesting that even those may not be sufficient to offset the inflation that you’re seeing and that you’re going to need additional pricing as well in addition to those specific initiatives that you’ve called out? We hope we don’t need to increase the pricing further. The current pricing is anticipating what we think is the probable growth in costs. And if those growth -- if that growth in cost does not materialize, we actually may slightly reduce prices. So, should we currently anticipate making significant price increases. But obviously, we don’t control the macroeconomic environment. If governments keep printing vast amounts of money and if there’s -- if there are not significant increases in lithium extraction and refinement and other raw materials, such that everyone is competing for a limited amount of raw materials, then obviously, that will drive prices to high levels. So, if you have a crystal ball that can tell us what the future is going to be like, we’ll adjust accordingly. But, the current prices are what we -- the current prices are for a vehicle delivered in the future, like 6 to 12 months from now. So, this is our best guess. But I think if you zoom out, right, like as you said, our mission is to accelerate the transition to sustainable energy. So, we are working with our existing suppliers and others to figure out how to grow all of these raw materials as quickly as possible to not slow down the transition. Yes. And whether that means we have to get directly involved in some cases or not comes down to the counterparty and their willingness to expand at the rate we think they should be able to expand. And that’s similar to what we’ve done with everything else, like we built a Gigafactory in Reno because it needed to be done. And so, like we will do what needs to be done to not slow down the transition. And affordability is a goal because it’s unaffordable. It’s going to retard the growth of what is inherently a good thing that we can’t have that as an outcome.</span></div><button type='button' class='dl-qa-summarize-btn' data-question="Hi. Good evening. Thank you for taking the questions. First, maybe you can just talk through or address what some of the drivers of cost improvement were in the quarter. Was it just further improvements within Shanghai or in Fremont? Anything around sort of ongoing kaizen that you’ve talked about in the past? Maybe you could just talk through what you benefited from in the first quarter." data-answer="Sure. I mean, at a high level, cars produced in Shanghai do carry a lower cost structure than cars produced in Fremont. And so, as our mix of cars shift towards Shanghai, the average cost is positively impacted by that. We’re also seeing some progress in manufacturing efficiencies in Fremont, particularly on the S and X side as volume increases improves there. Expedites has been a huge story for the company. Q4, we had massive amounts of expedites. Q1 was still quite large, but we did make progress on bringing that down some. Special mention goes to the Fremont manufacturing team and our associates there because we’re achieving record output at Fremont. Yes. The Fremont team is doing a tremendous job. Really absolutely from the back [ph] quarters. Yes. It’s hard to underweight. Like you should -- the expedite situation with the crazy logistics that occurred with COVID. Yes. And to Elon’s point, the Fremont team and also the Shanghai team has been extremely dynamic with the unpredictable nature of our part arrivals, and our supply chain team, in particular, production planning portion of supply chain. We often get very little notice when there’s part shortage is coming, and it’s kind of a scramble couple of days before that part is supposed to arrive to figure out how to get it here. And so, the amount of Herculean effort that goes in to produce a quarter like Q1 and even the quarters before that is absolutely immense. There’s a saying in the military, it’s like amateurs talk about tactics, professionals talk about logistics when it comes to war. Yes. So, there were some inherent cost improvements, as I mentioned, but there’s also offsets that we’ve talked about previously on raw materials, commodities. Outbound logistics continues to remain a challenge despite a ton of efforts to increase capacity there and bring those costs down. Second question, one of the initial goals of Model 3 way back when was to have an EV that was affordable for a wide portion of the market. And we know prices are much higher now just given the supply constraints. Prices are higher for all other automakers. We know that there’s inflation that you’re battling through, and some of that needs to be passed through the price of the vehicles. And you’re going to be supply-constrained for the foreseeable future. So, it’s one of the points. But given the goal long term of making EVs more widely available to the masses over time, how do you look at the progression of prices over time? We absolutely want to make EVs as affordable as possible. It’s been very difficult with the -- I mean, I think, inflation is at like a 40 or 50-year high. And I think the official numbers actually understate the true magnitude of inflation, so. And that inflation appears to be likely to continue for at least the remainder of this year is what -- when we’re talking to suppliers, suppliers are under severe cost pressure. So, yes, and in some cases, we’re seeing suppliers request 20% to 30% cost increases for parts from last year to the end of this year. So, it’s -- there’s a lot of cost pressure there.
+
+That’s why we raised our prices because we -- when things are on -- with respect to inflation, you know it’s high, then -- and we’ve got orders that go out a year or more in some cases, then we have to anticipate those cost increases. But I think, especially with the robotaxi and autonomy, I think we will end up providing consumers with, by far, the lowest cost per mile of transport that they’ve ever experienced. Yes. I mean with robotaxi, like maybe 5 to 10 times cost per mile. It’s really quite substantial. And therefore, accessible to everybody. Yes. I mean, looking at some of our projections, it would appear that a robotaxi ride will cost less than a bus ticket, a subsidized bus ticket or subsidized subway ticket. Thank you very much. Let’s go to the next question from Rod Lache from Wolfe Research. Hi, everybody. I’m trying to just parse out your comments about the inflation and constrained supply and battery feedstocks and the initiatives that you are working on internally to secure these materials. It sounds like you’re optimistic about Tesla’s ability to solve this for Tesla. Do you -- but do you see this as a constraint on EV adoption more broadly? Yes, absolutely. But what’s sort of keeping our costs down, at least in the short term, is that we have long-term contracts with suppliers, but those long-term contracts will obviously run out and then the year we’ll start to see potentially significant cost increases. But the macro is sort of looking at the world as a whole and saying, okay, what does it take for earth to transition to sustainable energy faster? It’s fundamentally -- the fundamental limiting factor is the output of cell -- basically, cell output -- at what rate can lithium ion cells increase the gigawatt hours per year? That is the fundamental limiting factor.
+
+So, in order -- and that will move as fast as the slowest, least lucky element of the whole supply chain. Currently, we see that as being a challenge with lithium. And it’s not that -- to be clear, it’s not that there’s a shortage of lithium ore in the world. Lithium is present almost everywhere. It’s a very common element. However, you still need to take up the ore -- take up basically sludge or whatever the clay with the lithium and then you need to go through a whole series of refinement steps. And that’s a lot of industrial equipment that’s needed to refine lithium ore to lithium that can be used as lithium hydroxide or lithium carbonate in the battery cell.
+
+So, we think we’re going to need to help the industry on this front, but the -- I mean, the industry is very fast. And I certainly encourage entrepreneurs out there who are looking for opportunities to get into the lithium business. The lithium margins right now are practically software margins. I mean, if the -- I think it’s something -- I think there’s a -- I mean, -- correct me if I’m wrong, but I think we’re seeing cases where the spot lithium price is 10 times higher than the cost of extraction. So, like we’re talking 19% margins here. Can some -- can more people please get into the lithium business? It’s -- do you like minting money? Well, the lithium business is for you. Interesting. So, I guess, we’ll stay tuned to see what happens from that. My second question is it’s impressive to see just a modest increase in cost per vehicle -- cost of goods sold per vehicle, given what we’ve seen in terms of commodities actually. And from here, you have a lot of savings opportunities with 4680 cells and the cell manufacturing changes, the anode chemistry, structural packs, giga castings. Are you suggesting that even those may not be sufficient to offset the inflation that you’re seeing and that you’re going to need additional pricing as well in addition to those specific initiatives that you’ve called out? We hope we don’t need to increase the pricing further. The current pricing is anticipating what we think is the probable growth in costs. And if those growth -- if that growth in cost does not materialize, we actually may slightly reduce prices. So, should we currently anticipate making significant price increases. But obviously, we don’t control the macroeconomic environment. If governments keep printing vast amounts of money and if there’s -- if there are not significant increases in lithium extraction and refinement and other raw materials, such that everyone is competing for a limited amount of raw materials, then obviously, that will drive prices to high levels. So, if you have a crystal ball that can tell us what the future is going to be like, we’ll adjust accordingly. But, the current prices are what we -- the current prices are for a vehicle delivered in the future, like 6 to 12 months from now. So, this is our best guess. But I think if you zoom out, right, like as you said, our mission is to accelerate the transition to sustainable energy. So, we are working with our existing suppliers and others to figure out how to grow all of these raw materials as quickly as possible to not slow down the transition. Yes. And whether that means we have to get directly involved in some cases or not comes down to the counterparty and their willingness to expand at the rate we think they should be able to expand. And that’s similar to what we’ve done with everything else, like we built a Gigafactory in Reno because it needed to be done. And so, like we will do what needs to be done to not slow down the transition. And affordability is a goal because it’s unaffordable. It’s going to retard the growth of what is inherently a good thing that we can’t have that as an outcome.">Summarize</button><div class='dl-qa-summary-result'></div></div></div></div></details><details id="period-2022-3"><summary>Q3 2022</summary><div class="period-body"><div class="period-source-buttons"><a class="period-source-btn" href="transcript_tsla-q3-2022.html" target="_blank" rel="noopener">View Transcript</a><a class="period-source-btn" href="filing_10-q-q3-2022.html" target="_blank" rel="noopener">View 10-K/10-Q</a></div><h4>What management said</h4><ul><li><span class="quote">"Elon Musk We’ll achieve full self-driving full autonomy -- I look at that occurring is 100%."</span></li></ul><div class="period-guidance-actual" data-period-key="2022-3" data-period-label="Q3 2022"><h4>Guidance given</h4><ul><li><span class="quote-resolves">(value: full self-driving full autonomy) </span><span class="quote">"Elon Musk We’ll achieve full self-driving full autonomy -- I look at that occurring is 100%."</span></li></ul><h4>Actual reported</h4><p class="empty-note">No actual results identified this period.</p></div><h4>Filing disclosures (10-K/10-Q)</h4><p class="empty-note">No 10-K/10-Q disclosures this period.</p><h4>What was asked<button type='button' class='dl-qa-summarize-all-btn'>Summarize all</button></h4><div class="core-qa-group"><div class="core-qa-item"><div class='dl-qa-original'><span class="quote-resolves">Q &mdash; Toni Sacconaghi — Bernstein:</span> <span class="quote">I just wanted to follow up on the 4680 cells and where we are seeing them deployed today. So, are those in the Semis that are being delivered on December 1st? Are we seeing them in Model Ys that are being produced out of Austin? And is -- do you anticipate 4680 being a gating factor for Cybertruck ramp later this year? And how do you balance the need for 4680 across Semi, Cybertruck and potentially Model Y in 2023? And I have a follow-up, please.</span><br><span class="quote-resolves">A:</span> <span class="quote">Okay. The Semi doesn’t use 4680s. Yes. We are making Model Ys. Some of the Model Ys coming out of Giga Texas are 4680. And I think, Drew, the car you drive around is 4680 Model Y? Yes. 10,000 miles. 10,000 miles. Pretty good. No problems yet. Yes. Structural pack. Structural pack. Yes. And yes, I mean -- and our output 4680 is growing exponentially. But it’s worth bearing in mind like there are entire highly competitive companies that are very smart that all they do is make battery cells. This is simply one segment of Tesla. So, it’s not a total... No, there aren’t -- there are challenges still ahead that we have not yet surpassed. No doubt. We don’t anticipate this being anything -- like Cybertruck or anything else. Okay. Thank you. And the last question comes from William Stein from Truist. I guess, I’ll go at one that I asked last time, Elon, which is your expectation for the likelihood of commercial success in each of the three major AI endeavors. FSD, sort of as imagined without a driver, the training computer and, of course, Optimus. We’ll achieve full self-driving full autonomy -- I look at that occurring is 100%. And I think we’ll -- we’re almost there. And then, of course, we’ve got to prove it to regulators and get the regulatory approvals, which is outside of our control. But anyone who’s driving full self-driving cars -- has full self-driving Beta in the car, you can see the rate of improvement. You can just experience for yourself that we are, in fact, getting there. In fact, we almost are there. And so, we’re probably -- achieving that 100%.
+
+The Optimus, probably of that being a successful product, I think, it’s also extremely high given enough time, 100%.
+
+Dojo, just maybe more of a question around Dojo, like can we be competitive with NVIDIA GPUs even as NVIDIA continues to rapidly evolve their GPUs. So the jury is out on Dojo. Dojo team, they can outperform NVIDIA for Neuralink training. The jury’s out. We will probably know -- I don’t know, next year, if that’s true or not. But we think we’ll probably -- we think it’s -- this is -- the architecture of Dojo is the right architecture to win. Yes. It depends on how well we execute in that architecture. Thank you very much. I think, unfortunately, it’s all the time that we have today. So, thank you so much for your great questions, and look forward to talking to you in about three months from now. Thank you, and have a good day.</span></div><button type='button' class='dl-qa-summarize-btn' data-question="I just wanted to follow up on the 4680 cells and where we are seeing them deployed today. So, are those in the Semis that are being delivered on December 1st? Are we seeing them in Model Ys that are being produced out of Austin? And is -- do you anticipate 4680 being a gating factor for Cybertruck ramp later this year? And how do you balance the need for 4680 across Semi, Cybertruck and potentially Model Y in 2023? And I have a follow-up, please." data-answer="Okay. The Semi doesn’t use 4680s. Yes. We are making Model Ys. Some of the Model Ys coming out of Giga Texas are 4680. And I think, Drew, the car you drive around is 4680 Model Y? Yes. 10,000 miles. 10,000 miles. Pretty good. No problems yet. Yes. Structural pack. Structural pack. Yes. And yes, I mean -- and our output 4680 is growing exponentially. But it’s worth bearing in mind like there are entire highly competitive companies that are very smart that all they do is make battery cells. This is simply one segment of Tesla. So, it’s not a total... No, there aren’t -- there are challenges still ahead that we have not yet surpassed. No doubt. We don’t anticipate this being anything -- like Cybertruck or anything else. Okay. Thank you. And the last question comes from William Stein from Truist. I guess, I’ll go at one that I asked last time, Elon, which is your expectation for the likelihood of commercial success in each of the three major AI endeavors. FSD, sort of as imagined without a driver, the training computer and, of course, Optimus. We’ll achieve full self-driving full autonomy -- I look at that occurring is 100%. And I think we’ll -- we’re almost there. And then, of course, we’ve got to prove it to regulators and get the regulatory approvals, which is outside of our control. But anyone who’s driving full self-driving cars -- has full self-driving Beta in the car, you can see the rate of improvement. You can just experience for yourself that we are, in fact, getting there. In fact, we almost are there. And so, we’re probably -- achieving that 100%.
+
+The Optimus, probably of that being a successful product, I think, it’s also extremely high given enough time, 100%.
+
+Dojo, just maybe more of a question around Dojo, like can we be competitive with NVIDIA GPUs even as NVIDIA continues to rapidly evolve their GPUs. So the jury is out on Dojo. Dojo team, they can outperform NVIDIA for Neuralink training. The jury’s out. We will probably know -- I don’t know, next year, if that’s true or not. But we think we’ll probably -- we think it’s -- this is -- the architecture of Dojo is the right architecture to win. Yes. It depends on how well we execute in that architecture. Thank you very much. I think, unfortunately, it’s all the time that we have today. So, thank you so much for your great questions, and look forward to talking to you in about three months from now. Thank you, and have a good day.">Summarize</button><div class='dl-qa-summary-result'></div></div></div></div></details><details open id="period-2022-4"><summary>Q4 2022</summary><div class="period-body"><div class="period-source-buttons"><a class="period-source-btn" href="transcript_tsla-q4-2022.html" target="_blank" rel="noopener">View Transcript</a><a class="period-source-btn" href="filing_10-k-fy2022.html" target="_blank" rel="noopener">View 10-K/10-Q</a></div><h4>What management said</h4><ul><li><span class="quote">"This is a huge milestone for autonomy as FSD Beta is the only way any consumer can actually test the latest AI-powered autonomy."</span></li></ul><div class="period-guidance-actual" data-period-key="2022-4" data-period-label="Q4 2022"><h4>Guidance given</h4><p class="empty-note">No forward guidance identified this period.</p><h4>Actual reported</h4><ul><li><span class="quote-verdict" style="background:#9aa4b222; color:#9aa4b2; border:1px solid #9aa4b266;">Unresolved</span><span class="quote-resolves">resolves TSLA_Q2_2021 guidance </span><span class="quote">"This is a huge milestone for autonomy as FSD Beta is the only way any consumer can actually test the latest AI-powered autonomy."</span></li><li><span class="quote-verdict" style="background:#9aa4b222; color:#9aa4b2; border:1px solid #9aa4b266;">Unresolved</span><span class="quote-resolves">resolves TSLA_Q1_2022 guidance </span><span class="quote">"This is a huge milestone for autonomy as FSD Beta is the only way any consumer can actually test the latest AI-powered autonomy."</span></li><li><span class="quote-verdict" style="background:#9aa4b222; color:#9aa4b2; border:1px solid #9aa4b266;">Unresolved</span><span class="quote-resolves">resolves TSLA_Q3_2022 guidance </span><span class="quote">"This is a huge milestone for autonomy as FSD Beta is the only way any consumer can actually test the latest AI-powered autonomy."</span></li></ul></div><h4>Filing disclosures (10-K/10-Q)</h4><p class="empty-note">No 10-K/10-Q disclosures this period.</p></div></details>
+
+</div>
+<div class='dl-theme-toggle' role='group' aria-label='Color theme'><button type='button' class='dl-theme-btn' data-theme-choice='dark'>Dark</button><button type='button' class='dl-theme-btn' data-theme-choice='light'>Light</button></div>
+<script>
+(function() {
+  var blocks = document.querySelectorAll('.period-guidance-actual');
+  if (!blocks.length) return;
+  var selA = document.getElementById('compare-select-a');
+  var selB = document.getElementById('compare-select-b');
+  var results = document.getElementById('compare-results');
+  if (!selA || !selB || !results) return;
+
+  var seen = {};
+  blocks.forEach(function(b) {
+    var key = b.getAttribute('data-period-key');
+    if (seen[key]) return;
+    seen[key] = true;
+    var label = b.getAttribute('data-period-label');
+    [selA, selB].forEach(function(sel) {
+      var opt = document.createElement('option');
+      opt.value = key;
+      opt.textContent = label;
+      sel.appendChild(opt);
+    });
+  });
+
+  function render() {
+    var keyA = selA.value, keyB = selB.value;
+    results.innerHTML = '';
+    if (!keyA || !keyB) return;
+    [keyA, keyB].forEach(function(key) {
+      var block = document.querySelector('.period-guidance-actual[data-period-key="' + key + '"]');
+      if (!block) return;
+      var col = document.createElement('div');
+      col.className = 'compare-col';
+      var heading = document.createElement('h4');
+      heading.className = 'compare-col-heading';
+      heading.textContent = block.getAttribute('data-period-label');
+      col.appendChild(heading);
+      col.appendChild(block.cloneNode(true));
+      results.appendChild(col);
+    });
+  }
+  selA.addEventListener('change', render);
+  selB.addEventListener('change', render);
+})();
+</script>
+<script>
+(function() {
+  // Cross-page persistence (real user ask: "make sure that data processes
+  // over" - summarizing a question on the main report should show it as
+  // already-summarized on the transcript/filing viewer for that SAME question,
+  // and vice versa). All three pages are same-origin (localhost) and
+  // independently render the identical real question+answer text for a given
+  // quarter's exchange, so a hash of that real text is a stable cross-page key
+  // - no new backend storage needed.
+  function hashText(s) {
+    var h = 0;
+    for (var i = 0; i < s.length; i++) { h = (h * 31 + s.charCodeAt(i)) | 0; }
+    return (h >>> 0).toString(36);
+  }
+  function qaStorageKey(question, answer) {
+    return 'dl-qa-summary:' + hashText(question + '||' + answer);
+  }
+
+  function escapeHtml(s) {
+    var d = document.createElement('div');
+    d.textContent = s;
+    return d.innerHTML;
+  }
+
+  // Real user ask: once summarized, show the summary ON TOP and shrink the
+  // real question/answer text down (still reachable - hover expands it back)
+  // instead of the summary just tacking onto the bottom below the full
+  // original text. qaContainer/qaResultEl look the result up by CONTAINER,
+  // not btn.nextElementSibling - real reason: applySummarizedState physically
+  // moves the result div earlier in the DOM (right before .dl-qa-original),
+  // which would otherwise silently break nextElementSibling on every later
+  // call (e.g. a "Summarize again" click) once a summary has already been
+  // shown once.
+  function qaContainer(btn) {
+    return btn.closest('.dl-fv-side-qa, .core-qa-item');
+  }
+
+  function qaResultEl(btn) {
+    var item = qaContainer(btn);
+    return item ? item.querySelector('.dl-qa-summary-result') : btn.nextElementSibling;
+  }
+
+  function applySummarizedState(btn, result) {
+    var item = qaContainer(btn);
+    var original = item && item.querySelector('.dl-qa-original');
+    if (item && original && result.parentElement === item) {
+      item.insertBefore(result, original);
+    }
+    if (item) item.classList.add('dl-qa-summarized');
+  }
+
+  function restoreSummary(btn) {
+    var result = qaResultEl(btn);
+    if (!result || !result.classList.contains('dl-qa-summary-result')) return;
+    var saved;
+    try {
+      saved = localStorage.getItem(qaStorageKey(btn.getAttribute('data-question'), btn.getAttribute('data-answer')));
+    } catch (e) { saved = null; }
+    if (saved) {
+      // Real user confusion this fixes: after applySummarizedState collapses
+      // the original text, a restored (cross-page-persisted, real prior
+      // click - never auto-triggered, see summarizeOne/restoreSummary's own
+      // callers) summary could read as if it were the real verbatim quote.
+      // A visible "AI summary" label removes that ambiguity.
+      result.innerHTML = '<span class="dl-qa-summary-badge">AI summary</span>' + escapeHtml(saved);
+      result.classList.remove('dl-qa-summary-error');
+      btn.textContent = 'Summarize again';
+      applySummarizedState(btn, result);
+    }
+  }
+
+  function summarizeOne(btn) {
+    var result = qaResultEl(btn);
+    if (!result || !result.classList.contains('dl-qa-summary-result')) return Promise.resolve();
+    var question = btn.getAttribute('data-question');
+    var answer = btn.getAttribute('data-answer');
+    btn.disabled = true;
+    btn.textContent = 'Summarizing…';
+    result.classList.remove('dl-qa-summary-error');
+    return fetch('/api/summarize-qa', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ question: question, answer: answer }),
+    })
+      .then(function(resp) {
+        if (!resp.ok) return resp.json().then(function(d) { throw new Error(d.detail || 'Request failed'); });
+        return resp.json();
+      })
+      .then(function(data) {
+        result.innerHTML = '<span class="dl-qa-summary-badge">AI summary</span>' + escapeHtml(data.summary);
+        btn.textContent = 'Summarize again';
+        btn.disabled = false;
+        applySummarizedState(btn, result);
+        try { localStorage.setItem(qaStorageKey(question, answer), data.summary); } catch (e) {}
+      })
+      .catch(function(err) {
+        result.textContent = 'Could not summarize: ' + err.message;
+        result.classList.add('dl-qa-summary-error');
+        btn.textContent = 'Summarize';
+        btn.disabled = false;
+        throw err;
+      });
+  }
+
+  // "Summarize all" scopes to whichever Q&A group contains it: the sidebar
+  // viewers wrap their whole Q&A section in .dl-fv-side-section-body; the main
+  // report has no such wrapper around just the Q&A blocks, so there the button
+  // lives in the "What was asked" <h4> and its scope is that heading's very
+  // next sibling (the .core-qa-group div rendered right after it).
+  function summarizeAllScope(btn) {
+    var body = btn.closest('.dl-fv-side-section-body');
+    if (body) return body;
+    var h4 = btn.closest('h4');
+    if (h4 && h4.nextElementSibling) return h4.nextElementSibling;
+    return null;
+  }
+
+  document.addEventListener('click', function(e) {
+    var allBtn = e.target.closest && e.target.closest('.dl-qa-summarize-all-btn');
+    if (allBtn) {
+      var scope = summarizeAllScope(allBtn);
+      if (!scope) return;
+      var buttons = Array.prototype.slice.call(scope.querySelectorAll('.dl-qa-summarize-btn'))
+        .filter(function(b) { return !b.disabled && b.textContent === 'Summarize'; });
+      if (!buttons.length) return;
+      allBtn.disabled = true;
+      var original = allBtn.textContent;
+      allBtn.textContent = 'Summarizing all…';
+      var i = 0;
+      // Sequential, not Promise.all - one LLM call in flight at a time (real
+      // cost-consciousness convention: avoid bursting concurrent calls a
+      // reader didn't explicitly ask for one-by-one).
+      function next() {
+        if (i >= buttons.length) {
+          allBtn.disabled = false;
+          allBtn.textContent = original;
+          return;
+        }
+        summarizeOne(buttons[i++]).then(next, next);
+      }
+      next();
+      return;
+    }
+    var btn = e.target.closest && e.target.closest('.dl-qa-summarize-btn');
+    if (!btn) return;
+    summarizeOne(btn);
+  });
+
+  Array.prototype.slice.call(document.querySelectorAll('.dl-qa-summarize-btn')).forEach(restoreSummary);
+})();
+</script>
+<script>
+(function() {
+  var btn = document.querySelector('.dl-narrative-btn');
+  if (!btn) return;
+  var status = document.getElementById('dl-narrative-status');
+  var resultEl = document.getElementById('dl-narrative-result');
+
+  function escapeHtml(s) {
+    var d = document.createElement('div');
+    d.textContent = s;
+    return d.innerHTML;
+  }
+
+  btn.addEventListener('click', function() {
+    btn.disabled = true;
+    status.textContent = 'Synthesizing whole-company narrative timeline…';
+    resultEl.innerHTML = '';
+    fetch('/api/narrative-timeline', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        ticker: btn.getAttribute('data-ticker'),
+        start_year: parseInt(btn.getAttribute('data-start-year'), 10),
+        end_year: parseInt(btn.getAttribute('data-end-year'), 10),
+      }),
+    })
+      .then(function(resp) {
+        if (!resp.ok) return resp.json().then(function(d) {
+          throw new Error((d.detail && d.detail.message) || d.detail || 'Request failed');
+        });
+        return resp.json();
+      })
+      .then(function(data) {
+        var timeline = data.timeline || [];
+        if (!timeline.length) {
+          status.textContent = 'Could not identify a narrative timeline from the available transcripts.';
+          btn.disabled = false;
+          return;
+        }
+        status.textContent = '';
+        var out = '';
+        timeline.forEach(function(entry, i) {
+          if (i > 0) out += '<div class="dl-narrative-arrow">&#8595;</div>';
+          out += '<div class="dl-narrative-era-row">'
+            + '<span class="dl-narrative-era-period">' + escapeHtml(entry.period_label || '') + '</span>'
+            + '<span class="dl-narrative-era-label">' + escapeHtml(entry.era || '') + '</span></div>';
+          if (entry.quote) {
+            out += '<div class="dl-narrative-era-quote">“' + escapeHtml(entry.quote) + '”</div>';
+          }
+        });
+        resultEl.innerHTML = out;
+        btn.textContent = 'Refresh narrative timeline';
+        btn.disabled = false;
+      })
+      .catch(function(err) {
+        status.textContent = 'Could not build narrative timeline: ' + err.message;
+        btn.disabled = false;
+      });
+  });
+})();
+</script>
+<script>
+(function() {
+  function escapeHtml(s) {
+    var d = document.createElement('div');
+    d.textContent = s;
+    return d.innerHTML;
+  }
+
+  function currentWords(wrap) {
+    return Array.prototype.slice.call(wrap.querySelectorAll('.dl-exec-edit-chip'))
+      .map(function(c) { return c.getAttribute('data-word'); });
+  }
+
+  function addChip(wrap, word) {
+    word = (word || '').trim().toLowerCase();
+    if (!word || currentWords(wrap).indexOf(word) !== -1) return;
+    var list = wrap.querySelector('.dl-exec-edit-list');
+    if (!list) return;
+    var chip = document.createElement('span');
+    chip.className = 'dl-exec-edit-chip';
+    chip.setAttribute('data-word', word);
+    chip.textContent = word + ' ';
+    var rm = document.createElement('button');
+    rm.type = 'button';
+    rm.className = 'dl-exec-chip-remove';
+    rm.setAttribute('aria-label', 'Remove');
+    rm.textContent = '\u00d7';
+    chip.appendChild(rm);
+    list.appendChild(chip);
+  }
+
+  // Real user correction: rank rows by WORD ("how many times each word was
+  // said... look at important words said a lot"), not by person - mirrors
+  // the Python-side _invert_exec_breakdown_by_word so the initial server-
+  // rendered rows and a post-Recompute re-render show the exact same shape.
+  // breakdown here is still {speaker: {word: count}} (the endpoint's own
+  // real per-speaker count data, unchanged) - inverted client-side only for
+  // display.
+  function invertByWord(breakdown) {
+    var byWord = {};
+    Object.keys(breakdown).forEach(function(speaker) {
+      var words = breakdown[speaker];
+      Object.keys(words).forEach(function(word) {
+        if (!byWord[word]) byWord[word] = {};
+        byWord[word][speaker] = (byWord[word][speaker] || 0) + words[word];
+      });
+    });
+    return byWord;
+  }
+
+  function renderRows(rowsEl, breakdown) {
+    var byWord = invertByWord(breakdown);
+    var ranked = Object.keys(byWord).map(function(word) {
+      var speakers = byWord[word];
+      var total = Object.keys(speakers).reduce(function(sum, s) { return sum + speakers[s]; }, 0);
+      return { word: word, total: total, speakers: speakers };
+    }).sort(function(a, b) { return b.total - a.total; });
+    if (!ranked.length) {
+      rowsEl.innerHTML = '';
+      return false;
+    }
+    rowsEl.innerHTML = ranked.map(function(r) {
+      var speakerSpans = Object.keys(r.speakers).sort(function(a, b) { return r.speakers[b] - r.speakers[a]; })
+        .map(function(s) {
+          return '<span class="dl-exec-word">' + escapeHtml(s)
+            + ' <span class="dl-exec-word-count">' + r.speakers[s] + '</span></span>';
+        }).join('');
+      return '<details class="dl-exec-row"><summary><span class="dl-exec-name">' + escapeHtml(r.word)
+        + '</span><span class="dl-exec-count">' + r.total + ' mention' + (r.total !== 1 ? 's' : '')
+        + '</span></summary><div class="dl-exec-breakdown">' + speakerSpans + '</div></details>';
+    }).join('');
+    return true;
+  }
+
+  function recompute(wrap) {
+    var words = currentWords(wrap);
+    var status = wrap.querySelector('.dl-exec-status');
+    var rowsEl = wrap.querySelector('.dl-exec-rows');
+    var btn = wrap.querySelector('.dl-exec-recompute-btn');
+    if (!words.length) { status.textContent = 'Add at least one word first.'; return; }
+    btn.disabled = true;
+    status.textContent = 'Recomputing…';
+    fetch('/api/executive-tracker-words', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        ticker: wrap.getAttribute('data-ticker'),
+        start_year: parseInt(wrap.getAttribute('data-start-year'), 10),
+        end_year: parseInt(wrap.getAttribute('data-end-year'), 10),
+        words: words,
+      }),
+    })
+      .then(function(resp) {
+        if (!resp.ok) return resp.json().then(function(d) { throw new Error(d.detail || 'Request failed'); });
+        return resp.json();
+      })
+      .then(function(data) {
+        var hasRows = renderRows(rowsEl, data.breakdown || {});
+        status.textContent = hasRows ? '' : 'No mentions found for these words.';
+        btn.disabled = false;
+      })
+      .catch(function(err) {
+        status.textContent = 'Could not recompute: ' + err.message;
+        btn.disabled = false;
+      });
+  }
+
+  document.addEventListener('click', function(e) {
+    var rm = e.target.closest && e.target.closest('.dl-exec-chip-remove');
+    if (rm) {
+      var chip = rm.closest('.dl-exec-edit-chip');
+      if (chip) chip.remove();
+      return;
+    }
+    var addBtn = e.target.closest && e.target.closest('.dl-exec-add-btn');
+    if (addBtn) {
+      var wrap = addBtn.closest('.dl-exec-wrap');
+      var input = wrap && wrap.querySelector('.dl-exec-add-input');
+      if (input) {
+        (input.value || '').split(',').forEach(function(w) { addChip(wrap, w); });
+        input.value = '';
+      }
+      return;
+    }
+    var recomputeBtn = e.target.closest && e.target.closest('.dl-exec-recompute-btn');
+    if (recomputeBtn) {
+      var w2 = recomputeBtn.closest('.dl-exec-wrap');
+      if (w2) recompute(w2);
+    }
+  });
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key !== 'Enter') return;
+    var input = e.target.closest && e.target.closest('.dl-exec-add-input');
+    if (!input) return;
+    e.preventDefault();
+    var wrap = input.closest('.dl-exec-wrap');
+    var addBtn = wrap && wrap.querySelector('.dl-exec-add-btn');
+    if (addBtn) addBtn.click();
+  });
+})();
+</script>
+<script>
+(function() {
+  var KEY = 'dl-theme';
+  var root = document.documentElement;
+  var buttons = Array.prototype.slice.call(document.querySelectorAll('.dl-theme-btn'));
+  if (!buttons.length) return;
+
+  function applyTheme(theme) {
+    var effective = theme || root.getAttribute('data-theme-default');
+    if (theme) { root.setAttribute('data-theme', theme); } else { root.removeAttribute('data-theme'); }
+    buttons.forEach(function(b) {
+      b.classList.toggle('dl-theme-btn-active', b.getAttribute('data-theme-choice') === effective);
+    });
+  }
+
+  var saved = null;
+  try { saved = localStorage.getItem(KEY); } catch (e) {}
+  applyTheme(saved);
+
+  buttons.forEach(function(b) {
+    b.addEventListener('click', function() {
+      var choice = b.getAttribute('data-theme-choice');
+      try { localStorage.setItem(KEY, choice); } catch (e) {}
+      applyTheme(choice);
+    });
+  });
+})();
+</script>
+</body></html>
