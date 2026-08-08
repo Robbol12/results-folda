@@ -1,0 +1,20 @@
+[MANAGEMENT MEMORY] TSLA
+
+Coverage: TSLA_Q4_2017 through TSLA_Q4_2025 (29 available periods)
+First and last observed mean first and last observed in the available transcript coverage, not the company's true historical first or last mention.
+
+- autonomy: up to date | first TSLA_Q1_2019 | last TSLA_Q4_2025 | 16 periods | high confidence
+  TSLA_Q1_2019: On Monday, we hosted our first ever Autonomy Investor Day showcasing our new in-house design full self-driving computer and our AI-based software trained by more than 400,000 Tesla vehicles.
+  TSLA_Q4_2025: As we increase vehicle autonomy and begin to produce Optimus robots at scale, we are making very big investments.
+- autopilot: fading | first TSLA_Q1_2019 | last TSLA_Q3_2025 | 16 periods | high confidence
+  TSLA_Q1_2019: The second question is, is Tesla considering and creating an insurance program in order to further simplify the ownership experience and to more accurately take into account safety of driving in Autopilot?
+  TSLA_Q3_2025: Autopilot actually dramatically improves the safety here.
+- logistic: historical | first TSLA_Q1_2019 | last TSLA_Q4_2024 | 14 periods | high confidence
+  TSLA_Q1_2019: This rapid increase in overseas volume strained our logistics operation and resulted in over half of our global deliveries occurring in the final 10 days of Q1.
+  TSLA_Q4_2024: So, when you consider, OK, there's more people leaving truck driving as a profession than entering it, well, we're going to have a real logistics problem as time goes by.
+- prototypes: up to date | first TSLA_Q1_2019 | last TSLA_Q4_2025 | 10 periods | high confidence
+  TSLA_Q1_2019: The prototypes are working amazingly well.
+  TSLA_Q4_2025: We've actually shown pictures of this and in fact have shown prototypes.
+- robo: up to date | first TSLA_Q1_2019 | last TSLA_Q4_2025 | 3 periods | high confidence
+  TSLA_Q1_2019: And in 2020, we expect to have 1 million robo taxis on the road with the hardware necessary for full self-driving.
+  TSLA_Q4_2025: Because that implies that the CyberCab, which is a dedicated two-seater dedicated robo taxi, is a little confusing with the terms robo taxi and CyberCab.
