@@ -1,0 +1,50 @@
+[PROMISE TRACKING] TSLA: revenue
+
+VERDICT: Still Pending (confidence: medium)
+
+Management consistently discussed the potential and growth of various revenue streams related to automotive and energy storage from Q1 through Q4 2023, highlighting record revenues and increasing contributions from services and energy storage. However, there is no clear statement confirming full realization or scaling of the 'massive' long-term lifetime revenue per vehicle initially planned in Q1. The evidence shows growth and record revenues but remains uncertain about the full delivery of the long-term revenue promise.
+
+Key quotes:
+  - Rod Lache Just to elaborate on that point though, the revenue, the long-term lifetime revenue that you're targeting from each vehicle is massive.
+  - This business is growing as a percentage of the businesses of the company's revenue and reached its highest level yet in Q1, driven by an increasing rate of deliveries for our Megapack products.
+  - Our energy storage business had another record year with deployments more than doubling and revenues increasing by more than 50%.
+
+Quarters searched: TSLA_Q1_2023, TSLA_Q2_2023, TSLA_Q3_2023, TSLA_Q4_2023
+Quarters with mentions: TSLA_Q1_2023, TSLA_Q2_2023, TSLA_Q3_2023, TSLA_Q4_2023
+
+--- Evidence Timeline ---
+1. [TSLA_Q1_2023] [PLAN] Rod Lache Just to elaborate on that point though, the revenue, the long-term lifetime revenue that you're targeting from each vehicle is massive.
+
+2. [TSLA_Q1_2023] [UNCERTAIN] So its possible automotive revenue may be higher, but gigawatt hours I think will be probably higher with stationary storage.
+
+3. [TSLA_Q1_2023] [UNCERTAIN] Andrew Baglino And service and charging and insurance and all of these other ongoing revenue streams that other companies don't have.
+
+4. [TSLA_Q1_2023] [UNCERTAIN] And whereas if you have say a dealer network that is reliant upon services revenue, then you arguably have a misalignment of incentives where they're making money on service.
+
+5. [TSLA_Q1_2023] [UNCERTAIN] This business is growing as a percentage of the businesses of the company's revenue and reached its highest level yet in Q1, driven by an increasing rate of deliveries for our Megapack products.
+
+6. [TSLA_Q1_2023] [MENTION] In particular, automotive gross margin was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve vehicle pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as increased deferred revenue for certain Autopilot features as we transition technologies.
+
+7. [TSLA_Q1_2023] [MENTION] Relative to total revenues of the company, it's still fairly small.
+
+8. [TSLA_Q1_2023] [MENTION] I just wanted to first just follow-up on your comments in your letter about leveraging your cost position as others struggle with unit economics and also taking into account the lifetime revenue, actually in a way that most other automakers will never see just given your service network and supercharging and other attributes.
+
+9. [TSLA_Q2_2023] [UNCERTAIN] In Q2 we achieved record vehicle production and deliveries, and record revenue of about $25 billion in a single quarter.
+
+10. [TSLA_Q2_2023] [UNCERTAIN] As a reminder, storage volumes are typically volatile sequentially based on the types of projects and their specific revenue recognition milestones.
+
+11. [TSLA_Q2_2023] [MENTION] Autobidder does have software margins and is an enabler for hardware sales, but it’s a relatively small contributor to revenues, given how much deployment growth on the Megapack hardware side is occurring.
+
+12. [TSLA_Q2_2023] [MENTION] It’s important to remember that these large projects – these large capital projects have lifetimes of 20 years of recurring revenues on an annualized basis relative to upfront CapEx are small.
+
+13. [TSLA_Q3_2023] [UNCERTAIN] And we are tracking, I believe at this point for Model Y to be the best selling car on earth, but not just in revenue, but in unit volume.
+
+14. [TSLA_Q4_2023] [UNCERTAIN] In terms of 2023 financials, we ended the year with over $96 billion of revenue and generated $4.4 billion of free cash flow to end the year with over $29 billion of cash and investments on hand.
+
+15. [TSLA_Q4_2023] [UNCERTAIN] Note that the sales under this program are recognized as upfront revenue and reported within automotive sales.
+
+16. [TSLA_Q4_2023] [MENTION] Our energy storage business had another record year with deployments more than doubling and revenues increasing by more than 50%.
+
+17. [TSLA_Q4_2023] [MENTION] As we expected the fleet-based revenues from supercharging, used cars, and services continue to increase.
+
+Total timeline entries: 17 (17 after grouping repeats)
