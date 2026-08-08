@@ -1,0 +1,816 @@
+[
+  {
+    "promise_id": "de82da787f96763c",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q1_2023",
+    "target_period": null,
+    "promise_text": "Rod Lache Just to elaborate on that point though, the revenue, the long-term lifetime revenue that you're targeting from each vehicle is massive.",
+    "promise_type": "plan",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "plan",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "Rod Lache Just to elaborate on that point though, the revenue, the long-term lifetime revenue that you're targeting from each vehicle is massive."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2023"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "ee89734c15424666",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q1_2023",
+    "target_period": null,
+    "promise_text": "Relative to total revenues of the company, it's still fairly small.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "Relative to total revenues of the company, it's still fairly small."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2023"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "67527d9010228e7c",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q1_2023",
+    "target_period": null,
+    "promise_text": "So its possible automotive revenue may be higher, but gigawatt hours I think will be probably higher with stationary storage.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "So its possible automotive revenue may be higher, but gigawatt hours I think will be probably higher with stationary storage."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2023"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "5a2eb28a2e0c3785",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q1_2023",
+    "target_period": null,
+    "promise_text": "Andrew Baglino And service and charging and insurance and all of these other ongoing revenue streams that other companies don't have.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "Andrew Baglino And service and charging and insurance and all of these other ongoing revenue streams that other companies don't have."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2023"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "c9571f855286f761",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q1_2023",
+    "target_period": null,
+    "promise_text": "And whereas if you have say a dealer network that is reliant upon services revenue, then you arguably have a misalignment of incentives where they're making money on service.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "And whereas if you have say a dealer network that is reliant upon services revenue, then you arguably have a misalignment of incentives where they're making money on service."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2023"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "f55d6b060c4d2ffc",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q1_2023",
+    "target_period": null,
+    "promise_text": "In particular, automotive gross margin was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve vehicle pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as increased deferred revenue for certain Autopilot features as we transition technologies.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "In particular, automotive gross margin was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve vehicle pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as increased deferred revenue for certain Autopilot features as we transition technologies."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2023"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "4dfd5f258a094940",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q1_2023",
+    "target_period": null,
+    "promise_text": "This business is growing as a percentage of the businesses of the company's revenue and reached its highest level yet in Q1, driven by an increasing rate of deliveries for our Megapack products.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "This business is growing as a percentage of the businesses of the company's revenue and reached its highest level yet in Q1, driven by an increasing rate of deliveries for our Megapack products."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2023"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "5e8475358225052f",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q1_2023",
+    "target_period": null,
+    "promise_text": "I just wanted to first just follow-up on your comments in your letter about leveraging your cost position as others struggle with unit economics and also taking into account the lifetime revenue, actually in a way that most other automakers will never see just given your service network and supercharging and other attributes.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "I just wanted to first just follow-up on your comments in your letter about leveraging your cost position as others struggle with unit economics and also taking into account the lifetime revenue, actually in a way that most other automakers will never see just given your service network and supercharging and other attributes."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2023"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "49c71052b2ea77ee",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q2_2023",
+    "target_period": null,
+    "promise_text": "In Q2 we achieved record vehicle production and deliveries, and record revenue of about $25 billion in a single quarter.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "In Q2 we achieved record vehicle production and deliveries, and record revenue of about $25 billion in a single quarter."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2023"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "57d86ccf2a52ed38",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q2_2023",
+    "target_period": null,
+    "promise_text": "It’s important to remember that these large projects – these large capital projects have lifetimes of 20 years of recurring revenues on an annualized basis relative to upfront CapEx are small.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "It’s important to remember that these large projects – these large capital projects have lifetimes of 20 years of recurring revenues on an annualized basis relative to upfront CapEx are small."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2023"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "628517a623208e75",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q2_2023",
+    "target_period": null,
+    "promise_text": "Autobidder does have software margins and is an enabler for hardware sales, but it’s a relatively small contributor to revenues, given how much deployment growth on the Megapack hardware side is occurring.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "Autobidder does have software margins and is an enabler for hardware sales, but it’s a relatively small contributor to revenues, given how much deployment growth on the Megapack hardware side is occurring."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2023"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "a7c086e37df53a36",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q2_2023",
+    "target_period": null,
+    "promise_text": "As a reminder, storage volumes are typically volatile sequentially based on the types of projects and their specific revenue recognition milestones.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "As a reminder, storage volumes are typically volatile sequentially based on the types of projects and their specific revenue recognition milestones."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2023"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "8223e3274bbe3d9a",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q3_2023",
+    "target_period": null,
+    "promise_text": "And we are tracking, I believe at this point for Model Y to be the best selling car on earth, but not just in revenue, but in unit volume.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "And we are tracking, I believe at this point for Model Y to be the best selling car on earth, but not just in revenue, but in unit volume."
+    ],
+    "source_labels": [
+      "TSLA_Q3_2023"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "e1d23f8399f84eda",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q4_2023",
+    "target_period": null,
+    "promise_text": "In terms of 2023 financials, we ended the year with over $96 billion of revenue and generated $4.4 billion of free cash flow to end the year with over $29 billion of cash and investments on hand.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "In terms of 2023 financials, we ended the year with over $96 billion of revenue and generated $4.4 billion of free cash flow to end the year with over $29 billion of cash and investments on hand."
+    ],
+    "source_labels": [
+      "TSLA_Q4_2023"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "014b7b100a380d89",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q4_2023",
+    "target_period": null,
+    "promise_text": "As we expected the fleet-based revenues from supercharging, used cars, and services continue to increase.",
+    "promise_type": "plan",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "plan",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "As we expected the fleet-based revenues from supercharging, used cars, and services continue to increase."
+    ],
+    "source_labels": [
+      "TSLA_Q4_2023"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "af5560e25b2c2010",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q4_2023",
+    "target_period": null,
+    "promise_text": "Note that the sales under this program are recognized as upfront revenue and reported within automotive sales.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "Note that the sales under this program are recognized as upfront revenue and reported within automotive sales."
+    ],
+    "source_labels": [
+      "TSLA_Q4_2023"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "963a57829bd579d2",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q4_2023",
+    "target_period": null,
+    "promise_text": "Our energy storage business had another record year with deployments more than doubling and revenues increasing by more than 50%.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "Our energy storage business had another record year with deployments more than doubling and revenues increasing by more than 50%."
+    ],
+    "source_labels": [
+      "TSLA_Q4_2023"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "6311788130f73057",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q1_2024",
+    "target_period": null,
+    "promise_text": "We did see a seasonal decline in revenues quarter-over-quarter and those were primarily because of seasonality, uncertain macroeconomic environment, and the other reasons, which Elon had mentioned earlier.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "We did see a seasonal decline in revenues quarter-over-quarter and those were primarily because of seasonality, uncertain macroeconomic environment, and the other reasons, which Elon had mentioned earlier."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "32fbbd0f4fd0b9a8",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q1_2024",
+    "target_period": null,
+    "promise_text": "We've also witnessed that as other OEMs are pulling back on their investments in EV, there is increasing appetite for credits, and that means a steady stream of revenue for us.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "We've also witnessed that as other OEMs are pulling back on their investments in EV, there is increasing appetite for credits, and that means a steady stream of revenue for us."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "e8830541aecd52ce",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q1_2024",
+    "target_period": null,
+    "promise_text": "In fact, if we exclude Cybertruck and Fremont Model 3 ramp costs, the revenue from Autopark, auto margins improved slightly.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "In fact, if we exclude Cybertruck and Fremont Model 3 ramp costs, the revenue from Autopark, auto margins improved slightly."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "378ee0ea07cb6379",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q1_2024",
+    "target_period": null,
+    "promise_text": "And I'm wondering, given the rationalizing of your vehicle manufacturing plans that you're talking about now, if there's an opportunity to maybe convert the 4680 cells and maybe sell those to other automakers and really generate an additional revenue stream.",
+    "promise_type": "plan",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "plan",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "And I'm wondering, given the rationalizing of your vehicle manufacturing plans that you're talking about now, if there's an opportunity to maybe convert the 4680 cells and maybe sell those to other automakers and really generate an additional revenue stream."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2024"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "c617cba58f3b5f8b",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q1_2024",
+    "target_period": null,
+    "promise_text": "Excluding the impact of Cybertruck, the impact of pricing actions was largely offset by reductions in per unit costs and the recognition of revenue from Autopark feature for certain vehicles in the U.S. that previously did not have that functionality.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "Excluding the impact of Cybertruck, the impact of pricing actions was largely offset by reductions in per unit costs and the recognition of revenue from Autopark feature for certain vehicles in the U.S. that previously did not have that functionality."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "9c98622a99c1be8f",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q2_2024",
+    "target_period": null,
+    "promise_text": "These programs had an impact on revenue per unit in the quarter.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "These programs had an impact on revenue per unit in the quarter."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "a82ab8d9ab0eebf3",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q2_2024",
+    "target_period": null,
+    "promise_text": "We had a record quarter on regulatory credits, revenues, and as well.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "We had a record quarter on regulatory credits, revenues, and as well."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "9349dedcf70ddded",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q2_2024",
+    "target_period": null,
+    "promise_text": "So I, correct me if I'm sort of misunderstanding this, but if you had a cooperative agreement of some kind with another OEM, then presumably it would take you several years before you'd be able to recognize licensing revenue from that agreement.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "So I, correct me if I'm sort of misunderstanding this, but if you had a cooperative agreement of some kind with another OEM, then presumably it would take you several years before you'd be able to recognize licensing revenue from that agreement."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "24c1ecec5e68d3db",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q2_2024",
+    "target_period": null,
+    "promise_text": "Despite many challenges the Tesla team did a great job executing and we did achieve record quarterly revenues.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "Despite many challenges the Tesla team did a great job executing and we did achieve record quarterly revenues."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2024"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "050a5ed31533d4e1",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q2_2024",
+    "target_period": null,
+    "promise_text": "Energy storage deployments more than doubled with contribution not just from Megapack, but also Powerwall, resulting in record revenues and profit for the energy business.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "Energy storage deployments more than doubled with contribution not just from Megapack, but also Powerwall, resulting in record revenues and profit for the energy business."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2024"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "e3c87b4116c7ca91",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q2_2024",
+    "target_period": null,
+    "promise_text": "It can be used by the fleet some of the time, and then Tesla would take -- would share on the revenue with the customer.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "It can be used by the fleet some of the time, and then Tesla would take -- would share on the revenue with the customer."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2024"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "a00fa6995f933b4d",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q3_2024",
+    "target_period": null,
+    "promise_text": "Our automotive revenues grew both quarter on quarter and year on year.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "Our automotive revenues grew both quarter on quarter and year on year."
+    ],
+    "source_labels": [
+      "TSLA_Q3_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "73a02a7eda4f84dc",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q3_2024",
+    "target_period": null,
+    "promise_text": "These fee-based revenues will continue to grow as the overall fleet size increases.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "These fee-based revenues will continue to grow as the overall fleet size increases."
+    ],
+    "source_labels": [
+      "TSLA_Q3_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "9e2aeb2b6c4f7d6c",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q3_2024",
+    "target_period": null,
+    "promise_text": "We continue to see elevated levels of regulatory credit sales with over $2 billion of revenues so far this year.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "We continue to see elevated levels of regulatory credit sales with over $2 billion of revenues so far this year."
+    ],
+    "source_labels": [
+      "TSLA_Q3_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "95b8da235d1be97a",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q3_2024",
+    "target_period": null,
+    "promise_text": "We released FSD for Cybertruck and other features like actually Smart Summon, like Elon talked about, in North America, which contributed $326 million of revenues in the quarter.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "We released FSD for Cybertruck and other features like actually Smart Summon, like Elon talked about, in North America, which contributed $326 million of revenues in the quarter."
+    ],
+    "source_labels": [
+      "TSLA_Q3_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "e43d93cafe4e5026",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q3_2024",
+    "target_period": null,
+    "promise_text": "As a reminder, we are providing these incentives primarily using third-party banks and financial institutions and recognize the cost of these incentives as an upfront reduction to revenue.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "As a reminder, we are providing these incentives primarily using third-party banks and financial institutions and recognize the cost of these incentives as an upfront reduction to revenue."
+    ],
+    "source_labels": [
+      "TSLA_Q3_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "72784a1933dd2d81",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q4_2024",
+    "target_period": null,
+    "promise_text": "But it's one of those things where I think long-term, Optimus has the potential to be north of $10 trillion in revenue, like it's really bananas.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "But it's one of those things where I think long-term, Optimus has the potential to be north of $10 trillion in revenue, like it's really bananas."
+    ],
+    "source_labels": [
+      "TSLA_Q4_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "02f015bba25fd21c",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q4_2024",
+    "target_period": null,
+    "promise_text": "So, at that point, when we're at scale, it will meaningfully contribute to Tesla's revenue.",
+    "promise_type": "status_update",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "scale achieved",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "So, at that point, when we're at scale, it will meaningfully contribute to Tesla's revenue."
+    ],
+    "source_labels": [
+      "TSLA_Q4_2024"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "4e8b6c773e663e34",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q4_2024",
+    "target_period": null,
+    "promise_text": "With regard to Optimus, obviously, I'm making these revenue predictions that sound absolutely insane, I realize that.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "With regard to Optimus, obviously, I'm making these revenue predictions that sound absolutely insane, I realize that."
+    ],
+    "source_labels": [
+      "TSLA_Q4_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "e3c44acd72316c58",
+    "ticker": "TSLA",
+    "topic": "revenue",
+    "original_quarter": "TSLA_Q4_2024",
+    "target_period": null,
+    "promise_text": "On the automotive margin front, we saw a quarter-over-quarter decline primarily due to lower ASPs than due to the recognition of FSD-related revenue in Q3 from feature releases.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "On the automotive margin front, we saw a quarter-over-quarter decline primarily due to lower ASPs than due to the recognition of FSD-related revenue in Q3 from feature releases."
+    ],
+    "source_labels": [
+      "TSLA_Q4_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  }
+]
