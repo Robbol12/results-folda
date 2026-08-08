@@ -1,0 +1,346 @@
+[GUIDANCE VS ACTUAL] TSLA: company-wide anchor year 2021
+
+Coverage window: [2020, 2022]
+Coverage state: partial coverage; some evidence was too ambiguous or unavailable to compare
+Summary: {"guidance_count": 32, "resolved_pair_count": 4, "unresolved_count": 27, "verdict_counts": {"Met": 1, "Revised Before Outcome": 4, "Unresolved": 27}, "category_counts": {"other assessable company-level guidance": 2, "financial": 6, "capacity or infrastructure": 3, "operating": 16, "product or milestone": 5}, "coverage_state": "partial coverage; some evidence was too ambiguous or unavailable to compare"}
+
+--- Comparisons ---
+1. Unresolved · Local Sourcing Percentage · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2020] And I mean, the proportion of local sourcing has literally been rising at like 5% to 10% a month, from 40 -- it was like 40% at the beginning this year, something like that, it will be like 80% by the end of this year, maybe more.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+2. Unresolved · Regulatory credit revenue · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2020] I do expect regulatory credit revenue to double in 2020 relative to 2019, and it will continue for some period of time, but eventually, the stream of regulatory credits will reduce.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+3. Unresolved · Regulatory credit revenue · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2020] Regulatory credit revenue increased sequentially to $428 million.
+   Target: FY2020
+   Actual [FY2020] There was also an increase of $986 million from additional sales of regulatory credits to $1.58 billion in the year ended December 31, 2020.
+   Explanation: explicit target-period evidence
+
+4. Unresolved · Capital expenditure · prior-year guidance resolved in anchor year
+   Guidance [TSLA_Q3_2020] As were previous investments in Model 3 Shanghai and Model Y in Fremont, we're expecting these programs to have already fully paid for their respective investments by the end of this year.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: No defensible actual was found for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+5. Unresolved · Capacity · prior-year guidance resolved in anchor year
+   Guidance [TSLA_Q3_2020] Megapack is going to be a large growth segment for the business and deployments will continue to expand rapidly as the product reaches full capacity.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: No defensible actual was found for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+6. Revised Before Outcome · Production · prior-year guidance resolved in anchor year
+   Guidance [TSLA_Q3_2020] The internal cell production will help us ramp in '22, but we're not dependent on it for '21.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+7. Unresolved · Product / strategic milestone · outside anchor-year cohorts
+   Guidance [TSLA_Q3_2020] We have more demand than supply through 2021 and we continue to ramp the product to match unprecedented demand across the globe through 2023 and beyond.
+   Target: FY2023
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+8. Unresolved · Deliveries · outside anchor-year cohorts
+   Guidance [TSLA_Q3_2020] We're also aiming to achieve our original 2020 guidance of 500,000 deliveries despite the operational interruptions earlier in the year.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+9. Unresolved · Operating margin · prior-year guidance resolved in anchor year
+   Guidance [TSLA_Q4_2020] As we look forward, 2021 may be our most meaningful step forward yet, as we see the benefits of long-standing investments in capacity and technology.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: No defensible actual was found for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+10. Unresolved · Production · outside anchor-year cohorts
+   Guidance [TSLA_Q4_2020] But we are installing capacity for -- in 2022 for 200 gigawatt hours a year and we think probably we should be able to achieve 30% of targeted design capacity in 2022.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+11. Unresolved · Deliveries · prior-year guidance resolved in anchor year
+   Guidance [TSLA_Q4_2020] If we get lucky, we'll be able to do a few deliveries towards the end of this year, but I expect volume production to be in 2022.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: No defensible actual was found for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+12. Unresolved · Production volume · prior-year guidance resolved in anchor year
+   Guidance [TSLA_Q4_2020] Specifically for Q1, our volumes will have the benefit of early Model Y ramp in Shanghai, However, S and X production will be low due to the transition to the newly architected products.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: No defensible actual was found for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+13. Unresolved · Production volume · prior-year guidance resolved in anchor year
+   Guidance [TSLA_Q4_2020] We continue to expect a long-term volume CAGR of 50%, of which we may materially exceed this in 2021.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: No defensible actual was found for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+14. Unresolved · Revenue · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2021] And overall, as we look at OpEx as a percentage of revenue over the course of the year, we do expect to see a substantial drop from 2020 to 2021 as the volumes in the latter part of the year pick up.
+   Target: FY2021
+   Actual [FY2021] Although an operational milestone is deemed achieved in the last quarter of the relevant annualized period, it may be certified only after the financial statements supporting its achievement have been filed with our Forms 10-Q and/or 10-K. Total Annualized Revenue Annualized Adjusted EBITDA Milestone (in billions) Achievement Status Milestone (in billions) Achievement Status $ 20.0 Achieved $ 1.5 Achieved $ 35.0 Achieved $ 3.0 Achieved $ 55.0 Probable $ 4.5 Achieved $ 75.0 - $ 6.0 Achieved $ 100.0 - $ 8.0 Achieved (1) $ 125.0 - $ 10.0 Probable $ 150.0 - $ 12.0 Probable $ 175.0 - $ 14.0 - (1) Achieved in the third quarter of 2021 and expected to be certified following the filing of this Quarterly Report on Form 10-Q.
+   Explanation: explicit target-period evidence
+
+15. Unresolved · Capacity · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2021] And specific to that, we are on track to more than double the supplier capacity over the next 13.
+   Target: Q1 FY2021
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+16. Unresolved · Product / strategic milestone · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2021] And then as we get towards the end of the year, our story will pivot towards the launch and ramp of our newest factories in Austin and Berlin.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+17. Unresolved · Revenue growth · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2021] As we look forward, our plans remain unchanged for long-term growth of 50% annually and we believe we are on track to exceed that this year as we guided to last quarter.
+   Target: FY2021
+   Actual [FY2021] Services and other revenue increased $464 million, or 95%, in the three months ended June 30, 2021 as compared to the three months ended June 30, 2020.
+   Explanation: relative current-year language
+
+18. Unresolved · Production · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2021] As we think about Q2 and Q3, these quarters should largely be driven by execution on SNX, as we have discussed, continued ramp of Model Y in Shanghai and the associated cost reductions of these programs, and we expect profitability and cash generation to evolve over the course of the year in line with those improvements.
+   Target: Q2 FY2021
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+19. Unresolved · Production · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2021] Global demand remains meaningfully higher than production levels, and so we are driving as fast as we can to increase our production rates.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+20. Met · Production · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q1_2021] Now at the same time, we are actually trying to have our cell supply partners ramp up their supply as much as possible.
+   Target: FY2022
+   Actual [FY2022] There were also idle capacity charges of $306 million primarily related to the temporary suspension of production at Gigafactory Shanghai as well as the ramping up of production in Gigafactory Texas and our proprietary battery cells manufacturing during the year ended December 31, 2022.
+   Explanation: The reported direction is consistent with the guidance.
+
+21. Unresolved · Production · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q2_2021] I think we have a chance of hitting an annualized rate of a million units of Powerwall next year, maybe toward on the order of 20,000 a week.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: No defensible actual was found for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+22. Unresolved · Production volume · outside anchor-year cohorts
+   Guidance [TSLA_Q3_2021] And based upon everything that we know in the factory where the bottlenecks are, what the potential is, we’re targeting to increase that another 50%.
+   Target: Q3 FY2021
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+23. Unresolved · Annual Growth Rate · outside anchor-year cohorts
+   Guidance [TSLA_Q3_2021] As we look forward, we're clearly quite a bit ahead of the pacing required to achieve our target annual growth rate of 50% this year.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+24. Unresolved · Production · outside anchor-year cohorts
+   Guidance [TSLA_Q3_2021] Q4 production will depend heavily on availability of parts, but we are driving for continued growth.
+   Target: Q4 FY2021
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+25. Revised Before Outcome · Production volume · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q3_2021] We're going to grow as quickly as is feasibly possible with an eye towards a 50% annual growth rate.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+26. Revised Before Outcome · Production volume · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q4_2021] And last year was difficult to predict and hopefully, this year will be smooth sailing, but I'm not sure what you do for an encore to 2021, 2020.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+27. Revised Before Outcome · Product / strategic milestone · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q4_2021] As Elon mentioned as well, from what we're seeing, the pace of growth in 2022 will again be determined by supply chain and logistics, which is quite difficult for us to forecast.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+28. Unresolved · Deliveries · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q4_2021] Capacity expansion will continue through maximizing output of each factory and building new factories and new locations in the future.
+   Target: Q1 FY2022
+   Actual [None] Unavailable
+   Explanation: No defensible actual was found for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+29. Unresolved · Capacity · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q4_2021] Capacity expansion will continue through maximizing output of each factory and building new factories and new locations in the future.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: No defensible actual was found for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+30. Unresolved · Product / strategic milestone · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q4_2021] Despite these constraints, it's important to begin the ramp of Austin and Berlin to ensure that we are prepared once limitations ease, enabling us to increase total output more quickly in the future.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: No defensible actual was found for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+31. Unresolved · Product / strategic milestone · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q4_2021] This will result in higher fixed and semi-variable costs in the near term, in addition to the usual inefficiencies as we ramp a new factory.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: No defensible actual was found for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+32. Unresolved · Production volume · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q4_2021] We continue to drive for vehicle volume growth at or above 50%, as Elon mentioned, and our plans show that this is actually achievable with just our Fremont and Shanghai factories.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: No defensible actual was found for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+--- Unpaired actuals ---
+[10-Q Q1 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 15 – Segment Reporting and Information about Geographic Areas] 38 Automotive sales revenue increased $1.38 billion, or 39% , in the three months ended March 31, 2020 as compared to the three months ended March 31, 2019 , primarily due to an increase of 21,174 Model 3 and Model Y cash deliveries from additional production capacity at Gigafactory Shanghai and the commencement of Model Y deliveries in the first quarter of 2020.
+[10-Q Q1 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 15 – Segment Reporting and Information about Geographic Areas] The increase s in automotive sales revenue were partially offset by a decrease in the average selling price of our Model 3 cash deliveries primarily due to Gigafactory Shanghai producing only Standard Range Plus Model 3 in the first quarter of 2020.
+[10-Q Q1 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 15 – Segment Reporting and Information about Geographic Areas] The increase was primarily due to an increase in cumulative vehicles under our direct vehicle leasing program, partially due to the introduction of Model 3 direct leasing in the second quarter of 2019, partially offset by a decrease in cumulative vehicles under our resale value guarantee leasing programs which are accounted for as operating leases.
+[10-Q Q1 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 15 – Segment Reporting and Information about Geographic Areas] Services and other revenue increased $67 million, or 14%, in the three months ended March 31, 2020 as compared to the three months ended March 31, 2019.
+[10-Q Q1 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 15 – Segment Reporting and Information about Geographic Areas] 40 Cost of automotive sales revenue increased $843 m illion, or 30% , in the three months ended March 31, 2020 as compared to the three months ended March 31, 2019 , primarily due to an increase of 21,174 Model 3 and Model Y cash deliverie s .
+[10-Q Q1 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 15 – Segment Reporting and Information about Geographic Areas] Cost of automotive leasing revenue increased $5 million, or 4%, in the year ended March 31, 2020 compared to the year ended March 31, 2019.
+[10-Q Q1 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 15 – Segment Reporting and Information about Geographic Areas] Gross margin for total automotive increased from 20% to 26% in the three months ended March 31, 2020 as compared to the three months ended March 31, 2019, primarily due an increase of $139 million in sales of regulatory credits and an improvement of Model 3 gross margin primarily from lower freight and duty costs from local production in China and additional manufacturing efficiencies in the production of Model 3 in our Fremont Factory .
+[TSLA_Q1_2020] Even with all the challenges, we achieved a 20% automotive gross margin, excluding regulatory credits while ramping two major products.
+[10-Q Q1 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 15 – Segment Reporting and Information about Geographic Areas] Gross margin for total automotive & services and other segment increased from 13% to 21% in the three months ended March 31, 2020 as compared to the three months ended March 31, 2019, primarily due to the automotive gross margin impacts discussed above and improved services and other gross margin from increased operational efficiencies.
+[10-Q Q2 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 15 – Segment Reporting and Information about Geographic Areas] These decreases were partially offset by an increase of $317 million from additional sales of regulatory credits to $428 million in the three months ended June 30, 2020 and an increase of 3,691 Model 3 and Model Y cash deliveries despite production limitations as a result of temporary suspension of production at the Fremont Factory during the first half of 2020.
+[10-Q Q2 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 15 – Segment Reporting and Information about Geographic Areas] We were able to increase deliveries year over year from additional Model 3 production capacity at Gigafactory Shanghai.
+[10-Q Q2 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 15 – Segment Reporting and Information about Geographic Areas] Automotive sales revenue increased $1.13 billion, or 13%, in the six months ended June 30, 2020 as compared to the six months ended June 30, 2019 , primarily due to an increase of 24,865 Model 3 and Model Y cash deliveries despite production limitations as a result of temporary suspension of production at the Fremont Factory during the first half of 2020.
+[10-Q Q2 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 11 – Equity Incentive Plans] The achievement status of the operational milestones as of June 30, 2020 was as follows: Total Annualized Revenue Annualized Adjusted EBITDA Milestone (in billions) Achievement Status Milestone (in billions) Achievement Status $ 20.0 Achieved and certified $ 1.5 Achieved $ 35.0 Probable $ 3.0 Achieved $ 55.0 - $ 4.5 Probable $ 75.0 - $ 6.0 - $ 100.0 - $ 8.0 - $ 125.0 - $ 10.0 - $ 150.0 - $ 12.0 - $ 175.0 - $ 14.0 - Stock-based compensation expense associated with each tranche under the 2018 CEO Performance Award is recognized over the longer of (i) the expected achievement period for the operational milestone for such tranche and (ii) the expected achievement period for the related market capitalization milestone determined on the grant date, beginning at the point in time when the relevant operational milestone is considered probable of being met.
+[TSLA_Q4_2020] So -- and full year, we achieved free cash flow of nearly $2.8 billion after spending more than $3 billion on building new factories and other expenditures.
+[10-K FY2020 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] 40 2020 compared to 2019 Automotive sales revenue increased $6.23 billion, or 31%, in the year ended December 31, 2020 as compared to the year ended December 31, 2019, primarily due to an increase of 129,268 Model 3 and Model Y cash deliveries despite production limitations as a result of temporary suspension of production at the Fremont Factory and Gigafactory Nevada during the first half of 2020.
+[10-K FY2020 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Automotive leasing revenue increased $183 million, or 21%, in the year ended December 31, 2020 as compared to the year ended December 31, 2019 , primarily due to an increase in cumulative vehicles under our direct operating lease program and the introduction of direct sales-type leasing programs which we began offering in volume during the third quarter of 2020 where we recognize all revenue associated with the sales-type lease upon delivery to the customer.
+[10-K FY2020 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] 2020 compared to 2019 Energy generation and storage revenue increased by $463 million, or 30%, in the year ended December 31, 2020 as compared to the year ended December 31, 2019, primarily due to increases in deployments of Megapack, solar cash and loan jobs and Powerwall, partially offset by a decrease in deployments of Powerpack and reduced average selling prices on our solar cash and loan jobs as a result of our low cost solar strategy.
+[10-K FY2020 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Gross margin for total automotive increased from 21% to 26% in the year ended December 31, 2020 as compared to the year ended December 31, 2019 , primarily due to an improvement of Model 3 gross margin primarily from lower material, manufacturing, freight and duty costs from localized procurement and manufacturing in China, partially offset by a decrease in the average selling price of Model 3 due to a higher proportion of Model 3 Standard Range variants in our sales mix compared to the prior year.
+[10-Q Q1 2021 — ITEM 1. FINANCIAL STATEMENTS — Consolidated Financial Statements] 7 Tesla, Inc. C onsolidated Statements of Cash Flows (in millions) (unaudited) Three Months Ended March 31, 2021 2020 Cash Flows from Operating Activities Net income $ 464 $ 68 Adjustments to reconcile net income to net cash provided by (used in) operating activities: Depreciation, amortization and impairment 621 553 Stock-based compensation 614 211 Inventory and purchase commitments write-downs 49 45 Foreign currency transaction net (gain) loss ( 2 ) 19 Non-cash interest and other operating activities 8 111 Digital assets gain, net ( 101 ) — Changes in operating assets and liabilities: Accounts receivable ( 24 ) ( 14 ) Inventory ( 106 ) ( 981 ) Operating lease vehicles ( 426 ) ( 197 ) Prepaid expenses and other current assets ( 143 ) ( 154 ) Other non-current assets ( 168 ) 40 Accounts payable and accrued liabilities 672 ( 265 ) Deferred revenue 162 53 Customer deposits ( 2 ) 88 Other long-term liabilities 23 ( 17 ) Net cash provided by (used in) operating activities 1,641 ( 440 ) Cash Flows from Investing Activities Purchases of property and equipment excluding finance leases, net of sales ( 1,348 ) ( 455 ) Purchases of solar energy systems, net of sales ( 12 ) ( 26 ) Purchases of digital assets ( 1,500 ) — Proceeds from sales of digital assets 272 — Receipt of government grants 6 1 Net cash used in investing activities ( 2,582 ) ( 480 ) Cash Flows from Financing Activities Proceeds from issuances of common stock in public offerings, net of issuance costs — 2,309 Proceeds from issuances of convertible and other debt 2,983 2,802 Repayments of convertible and other debt ( 4,038 ) ( 2,318 ) Collateralized lease repayments ( 6 ) ( 97 ) Proceeds from exercises of stock options and other stock issuances 183 160 Principal payments on finance leases ( 101 ) ( 100 ) Debt issuance costs ( 5 ) — Proceeds from investments by noncontrolling interests in subsidiaries — 19 Distributions paid to noncontrolling interests in subsidiaries ( 32 ) ( 67 ) Net cash (used in) provided by financing activities ( 1,016 ) 2,708 Effect of exchange rate changes on cash and cash equivalents and restricted cash ( 221 ) ( 24 ) Net (decrease) increase in cash and cash equivalents and restricted cash ( 2,178 ) 1,764 Cash and cash equivalents and restricted cash, beginning of period 19,901 6,783 Cash and cash equivalents and restricted cash, end of period $ 17,723 $ 8,547 Supplemental Non-Cash Investing and Financing Activities Acquisitions of property and equipment included in liabilities $ 1,061 $ 415 Leased assets obtained in exchange for finance lease liabilities $ 64 $ 32 Leased assets obtained in exchange for operating lease liabilities $ 179 $ 60 The accompanying notes are an integral part of these consolidated financial statements.
+[10-Q Q1 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Services and other revenue increased $333 million, or 59%, in the three months ended March 31, 2021 as compared to the three months ended March 31, 2020, primarily due to increases in used vehicle revenue driven by an increase in trade-ins, non-warranty maintenance services revenue as our fleet continues to grow and retail merchandise revenue.
+[10-Q Q1 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Energy generation and storage revenue increased by $201 million, or 69%, in the three months ended March 31, 2021 as compared to the three months ended March 31, 2020, primarily due to increases in deployments of solar cash and loan jobs, Powerwall and Megapack, partially offset by reduced average selling prices on our solar cash and loan jobs as a result of our low cost solar strategy introduced mid-2020.
+[10-Q Q1 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] There were increases from improvements of Model Y and Model 3 gross margins primarily from lower material, manufacturing, freight and duty costs from localized procurement and manufacturing in China and reductions in Model Y average costs per unit as compared to the prior period due to temporary under-utilization of manufacturing capacity at lower production volumes during our production ramp in the first half of 2020.
+[10-Q Q1 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] These increases were partially offset by a decrease in the combined average selling price of Model 3 and Model Y due to a higher proportion of Standard Range variants in our sales mix compared to the prior period.
+[TSLA_Q1_2021] First, we successfully launched and began the ramp of Model Y in Shanghai, achieving positive gross margin in the first quarter of production and receiving a great reception from the market.
+[TSLA_Q1_2021] This was driven by Solar Roof-related ramp costs and winter seasonality in the lease BPA business.
+[10-Q Q2 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Automotive sales revenue increased $8.78 billion, or 90%, in the six months ended June 30, 2021 as compared to the six months ended June 30, 2020, primarily due to an increase of 203,736 Model 3 and Model Y cash deliveries year over year from production ramping at both Gigafactory Shanghai and the Fremont Factory.
+[10-Q Q2 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] The increases in automotive sales revenue were partially offset by a decrease from 15,912 fewer Model S and Model X cash deliveries in the six months ended June 30, 2021 compared to the prior period as we started delivering the new Model S as well as reductions in the average selling price of Model Y due to the regional sales mix compared to the prior period.
+[10-Q Q2 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Energy generation and storage revenue increased by $431 million, or 116%, in the three months ended June 30, 2021 as compared to the three months ended June 30, 2020.
+[10-Q Q2 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] 36 Cost of automotive sales revenue increased $3.41 billion, or 92%, in the three months ended June 30, 2021 as compared to the three months ended June 30, 2020, primarily due to an increase of 107,272 Model 3 and Model Y cash deliveries and higher outbound freight and duties in China as Model 3 vehicles manufactured in Gigafactory Shanghai were exported to other regions offset by a decrease in combined average Model 3 and Model Y costs per unit due to lower material, manufacturing, inbound freight and duty costs from localized procurement and manufacturing in China.
+[TSLA_Q2_2021] Additionally, opex as a percentage of revenue has declined, and in particular SG&A, representing the work we've done to become more efficient as we scale the company, while still making the required R&D investments to support our future.
+[TSLA_Q2_2021] In particular, auto gross profit and margin, excluding credits, increased substantially.
+[TSLA_Q2_2021] This volume increase was made possible by a steady decrease in ASPs of more than 10%, driven by a road map to increase affordability and shifting mix toward our more affordable vehicles.
+[10-Q Q3 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Energy generation and storage revenue increased by $227 million, or 39%, in the three months ended September 30, 2021 as compared to the three months ended September 30, 2020.
+[10-Q Q3 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Energy generation and storage revenue increased by $859 million, or 69%, in the nine months ended September 30, 2021 as compared to the nine months ended September 30, 2020.
+[10-Q Q3 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Cost of automotive sales revenue increased $2.79 billion, or 52%, in the three months ended September 30, 2021 as compared to the three months ended September 30, 2020, primarily due to an increase of 101,183 Model 3 and Model Y cash deliveries, partially offset by a decrease in combined average Model 3 and Model Y costs per unit due to changes in regional production mix, as Gigafactory Shanghai has ramped in capacity, despite a higher proportion of Model Y compared to the prior period.
+[10-Q Q3 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] These increases were partially offset by a decrease of 21,767 Model S and Model X cash deliveries at higher costs per unit due to temporary under-utilization of manufacturing capacity at lower production volumes during our current production ramp of the new version of Model S. Additionally, there was a decrease in combined average Model 3 and Model Y costs per unit due to changes in regional production mix, as Gigafactory Shanghai has ramped in capacity, despite a higher proportion of Model Y compared to the prior period and lower material, manufacturing, inbound freight and duty costs from localized procurement and manufacturing in China.
+[10-Q Q3 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] 35 Cost of automotive leasing revenue increased $167 million, or 40%, in the nine months ended September 30, 2021 as compared to the nine months ended September 30, 2020, primarily due to increases in cumulative vehicles and purchase options exercised under our direct operating lease program compared to the prior period and the introduction of direct sales-type leasing programs which we began offering in volume during the third quarter of 2020 where we recognize all cost of revenue associated with the sales-type lease upon delivery to the customer.
+[10-Q Q3 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Cost of services and other revenue increased $1.01 billion, or 54%, in the nine months ended September 30, 2021 as compared to the nine months ended September 30, 2020, primarily due to increases in used vehicle cost of revenue driven by increases in volume and values of trade-ins, costs to support our increase in non-warranty maintenance services revenue and costs of retail merchandise as our sales have increased.
+[TSLA_Q3_2021] We were also able to achieve an annualized production run rate of over 1 million cars towards the end of the quarter.
+[TSLA_Q3_2021] This benefit primarily comes from higher volumes, particularly out of the Shanghai factory, increased mix of the Model Y as we -- and we have made good progress increasing Model S volumes.
+[TSLA_Q3_2021] As a result of the great progress on margins, volume, and appropriate management of overhead costs, we were able to achieve an operating margin of just under 15%, exceeding the long-term guidance we've laid out previously.
+[TSLA_Q4_2021] For Q4 specifically, automotive gross margin, excluding credits, increased to 29.2%, which is our highest yet.
+[10-K FY2021 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] 2021 compared to 2020 Automotive sales revenue increased $19.52 billion, or 79%, in the year ended December 31, 2021 as compared to the year ended December 31, 2020, primarily due to an increase of 433,815 Model 3 and Model Y cash deliveries year over year from production ramping at both Gigafactory Shanghai and the Fremont Factory at a slightly higher combined average selling price from a higher proportion of Model Y sales offset by regional sales mix.
+[10-K FY2021 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] The increases in automotive sales revenue were partially offset by a decrease of 28,819 Model S and Model X cash deliveries at a higher combined average selling price as deliveries of the new versions of Model S and Model X only began ramping in the second and fourth quarters of 2021, respectively.
+[10-K FY2021 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Automotive leasing revenue increased $590 million, or 56%, in the year ended December 31, 2021 as compared to the year ended December 31, 2020, primarily due to an increase in cumulative vehicles under our direct operating lease program and an increase in direct sales-type leasing revenue as we have a full year of sales in 2021 since we began offering the program during the third quarter of 2020 .
+[10-K FY2021 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Automotive leasing revenue increased $590 million, or 56%, in the year ended December 31, 2021 as compared to the year ended December 31, 2020, primarily due to an increase in cumulative vehicles under our direct operating lease program and an increase in direct sales-type leasing revenue as we have a full year of sales in 2021 since we began offering the program during the third quarter of 2020 .
+[10-K FY2021 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Services and other revenue increased $1.50 billion, or 65%, in the year ended December 31, 2021 as compared to the year ended December 31, 2020, primarily due to an increase in used vehicle revenue driven by increases in volume and average selling prices of used vehicles, non-warranty maintenance services revenue as our fleet continues to grow and retail merchandise revenue.
+[10-K FY2021 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] 37 2021 compared to 2020 Energy generation and storage revenue increased by $795 million, or 40%, in the year ended December 31, 2021 as compared to the year ended December 31, 2020, primarily due to an increase in deployments of Megapack, solar cash and loan jobs, Powerwall and Solar Roof, partially offset by a decrease in Powerpack deployments as we phase out the product following the introduction of Megapack .
+[10-Q Q1 2022 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Cost of automotive sales revenue increased $4.46 billion, or 69%, in the three months ended March 31, 2022 as compared to the three months ended March 31, 2021, primarily due to an increase of 111,915 Model 3 and Model Y cash deliveries, and an increase of 10,305 Model S and Model X cash deliveries year over year.
+[10-Q Q1 2022 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Cost of services and other revenue increased $324 million, or 34%, in the three months ended March 31, 2022 as compared to the three months ended March 31, 2021, primarily due to an increase in costs to support our increase in non-warranty maintenance services revenue, an increase in costs of retail merchandise and insurance services as our sales have increased and an increase in used vehicle cost of revenue driven by increases in volume and costs of non-Tesla used vehicles.
+[10-Q Q1 2022 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Gross margin for total automotive increased from 26.5% in the three months ended March 31, 2021 to 32.9% in the three months ended March 31, 2022.
+[10-Q Q1 2022 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Gross margin for energy generation and storage increased from -20.4% in the three months ended March 31, 2021 to -11.7% in the three months ended March 31, 2022, primarily due to higher deployments of Powerwall which operated at a higher gross margin as well as an improvement in Solar Roof gross margin due to reductions in average costs per unit.
+[TSLA_Q2_2022] On GAAP automotive gross margin, it declined sequentially to 27.9%.
+[TSLA_Q2_2022] So, just as a Q2 recap, Q2 was a unique quarter for Tesla due to a prolonged shutdown of our Shanghai factory.
+[TSLA_Q4_2022] On a full year basis: revenue increased over 50%, operating income doubled, free cash flows increased over 50%, and our margins remained industry-leading.
+[10-K FY2022 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] 2022 compared to 2021 Automotive sales revenue increased $23.09 billion, or 52%, in the year ended December 31, 2022 as compared to the year ended December 31, 2021, primarily due to an increase of 347,024 Model 3 and Model Y deliveries, and an increase of 38,183 Model S and Model X deliveries year over year.
+[10-K FY2022 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Automotive regulatory credits revenue increased $311 million, or 21%, in the year ended December 31, 2022 as compared to the year ended December 31, 2021, primarily due to changes in regulation which entitled us to additional consideration of $288 million in revenue in the first quarter of 2022 for credits sold previously, in the absence of which we had only an immaterial increase in automotive regulatory credits revenue.
+[10-K FY2022 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Automotive leasing revenue increased $834 million, or 51%, in the year ended December 31, 2022 as compared to the year ended December 31, 2021.
+[10-K FY2022 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Services and other revenue increased $2.29 billion, or 60%, in the year ended December 31, 2022 as compared to the year ended December 31, 2021.
+[10-K FY2022 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] 2022 compared to 2021 Energy generation and storage revenue increased $1.12 billion, or 40%, in the year ended December 31, 2022 as compared to the year ended December 31, 2021, primarily due to an increase in energy storage deployments of Megapack, Powerwall and higher average selling price of Megapack, as well as on solar cash and loan deployments driven by price increases in 2022.
+[10-K FY2022 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] 38 2022 compared to 2021 Cost of automotive sales revenue increased $17.18 billion, or 53%, in the year ended December 31, 2022 as compared to the year ended December 31, 2021, in line with the growth in revenue year over year, as discussed above.
+[10-K FY2022 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] We had also incurred costs related to the ramp up of production in Gigafactory Berlin-Brandenburg during the year ended December 31, 2022.
+[XBRL Revenue Q1 FY2020] SEC XBRL Revenue for Q1 FY2020: 5985000000 USD
+[XBRL Gross Profit Q1 FY2020] SEC XBRL Gross Profit for Q1 FY2020: 1234000000 USD
+[XBRL Operating Income Q1 FY2020] SEC XBRL Operating Income for Q1 FY2020: 283000000 USD
+[XBRL Net Income Q1 FY2020] SEC XBRL Net Income for Q1 FY2020: 16000000 USD
+[XBRL Diluted EPS Q1 FY2020] SEC XBRL Diluted EPS for Q1 FY2020: 0.08 USD/share
+[XBRL Operating Cash Flow Q1 FY2020] SEC XBRL Operating Cash Flow for Q1 FY2020: -440000000 USD
+[XBRL Capital Expenditures Q1 FY2020] SEC XBRL Capital Expenditures for Q1 FY2020: 455000000 USD
+[XBRL Revenue Q2 FY2020] SEC XBRL Revenue for Q2 FY2020: 6036000000 USD
+[XBRL Gross Profit Q2 FY2020] SEC XBRL Gross Profit for Q2 FY2020: 1267000000 USD
+[XBRL Operating Income Q2 FY2020] SEC XBRL Operating Income for Q2 FY2020: 327000000 USD
+[XBRL Net Income Q2 FY2020] SEC XBRL Net Income for Q2 FY2020: 104000000 USD
+[XBRL Diluted EPS Q2 FY2020] SEC XBRL Diluted EPS for Q2 FY2020: 0.5 USD/share
+[XBRL Operating Cash Flow Q2 FY2020] SEC XBRL Operating Cash Flow for Q2 FY2020: 964000000 USD
+[XBRL Capital Expenditures Q2 FY2020] SEC XBRL Capital Expenditures for Q2 FY2020: 546000000 USD
+[XBRL Revenue Q3 FY2020] SEC XBRL Revenue for Q3 FY2020: 8771000000 USD
+[XBRL Gross Profit Q3 FY2020] SEC XBRL Gross Profit for Q3 FY2020: 2063000000 USD
+[XBRL Operating Income Q3 FY2020] SEC XBRL Operating Income for Q3 FY2020: 809000000 USD
+[XBRL Net Income Q3 FY2020] SEC XBRL Net Income for Q3 FY2020: 331000000 USD
+[XBRL Diluted EPS Q3 FY2020] SEC XBRL Diluted EPS for Q3 FY2020: 0.27 USD/share
+[XBRL Operating Cash Flow Q3 FY2020] SEC XBRL Operating Cash Flow for Q3 FY2020: 1960000000 USD
+[XBRL Capital Expenditures Q3 FY2020] SEC XBRL Capital Expenditures for Q3 FY2020: 1460000000 USD
+[XBRL Revenue FY2020] SEC XBRL Revenue for FY2020: 10744000000 USD
+[XBRL Gross Profit FY2020] SEC XBRL Gross Profit for FY2020: 2066000000 USD
+[XBRL Operating Income FY2020] SEC XBRL Operating Income for FY2020: 1994000000 USD
+[XBRL Net Income FY2020] SEC XBRL Net Income for FY2020: 270000000 USD
+[XBRL Diluted EPS FY2020] SEC XBRL Diluted EPS for FY2020: 0.64 USD/share
+[XBRL Operating Cash Flow FY2020] SEC XBRL Operating Cash Flow for FY2020: 5943000000 USD
+[XBRL Capital Expenditures FY2020] SEC XBRL Capital Expenditures for FY2020: 3157000000 USD
+[XBRL Revenue Q1 FY2021] SEC XBRL Revenue for Q1 FY2021: 10389000000 USD
+[XBRL Gross Profit Q1 FY2021] SEC XBRL Gross Profit for Q1 FY2021: 2215000000 USD
+[XBRL Operating Income Q1 FY2021] SEC XBRL Operating Income for Q1 FY2021: 594000000 USD
+[XBRL Net Income Q1 FY2021] SEC XBRL Net Income for Q1 FY2021: 438000000 USD
+[XBRL Diluted EPS Q1 FY2021] SEC XBRL Diluted EPS for Q1 FY2021: 0.39 USD/share
+[XBRL Operating Cash Flow Q1 FY2021] SEC XBRL Operating Cash Flow for Q1 FY2021: 1641000000 USD
+[XBRL Capital Expenditures Q1 FY2021] SEC XBRL Capital Expenditures for Q1 FY2021: 1348000000 USD
+[XBRL Revenue Q2 FY2021] SEC XBRL Revenue for Q2 FY2021: 11958000000 USD
+[XBRL Gross Profit Q2 FY2021] SEC XBRL Gross Profit for Q2 FY2021: 2884000000 USD
+[XBRL Operating Income Q2 FY2021] SEC XBRL Operating Income for Q2 FY2021: 1312000000 USD
+[XBRL Net Income Q2 FY2021] SEC XBRL Net Income for Q2 FY2021: 1142000000 USD
+[XBRL Diluted EPS Q2 FY2021] SEC XBRL Diluted EPS for Q2 FY2021: 1.02 USD/share
+[XBRL Operating Cash Flow Q2 FY2021] SEC XBRL Operating Cash Flow for Q2 FY2021: 2124000000 USD
+[XBRL Capital Expenditures Q2 FY2021] SEC XBRL Capital Expenditures for Q2 FY2021: 1505000000 USD
+[XBRL Revenue Q3 FY2021] SEC XBRL Revenue for Q3 FY2021: 13757000000 USD
+[XBRL Gross Profit Q3 FY2021] SEC XBRL Gross Profit for Q3 FY2021: 3660000000 USD
+[XBRL Operating Income Q3 FY2021] SEC XBRL Operating Income for Q3 FY2021: 2004000000 USD
+[XBRL Net Income Q3 FY2021] SEC XBRL Net Income for Q3 FY2021: 1618000000 USD
+[XBRL Diluted EPS Q3 FY2021] SEC XBRL Diluted EPS for Q3 FY2021: 1.44 USD/share
+[XBRL Operating Cash Flow Q3 FY2021] SEC XBRL Operating Cash Flow for Q3 FY2021: 4788000000 USD
+[XBRL Capital Expenditures Q3 FY2021] SEC XBRL Capital Expenditures for Q3 FY2021: 3167000000 USD
+[XBRL Revenue FY2021] SEC XBRL Revenue for FY2021: 53823000000 USD
+[XBRL Gross Profit FY2021] SEC XBRL Gross Profit for FY2021: 13606000000 USD
+[XBRL Operating Income FY2021] SEC XBRL Operating Income for FY2021: 6523000000 USD
+[XBRL Net Income FY2021] SEC XBRL Net Income for FY2021: 5519000000 USD
+[XBRL Diluted EPS FY2021] SEC XBRL Diluted EPS for FY2021: 4.9 USD/share
+[XBRL Operating Cash Flow FY2021] SEC XBRL Operating Cash Flow for FY2021: 11497000000 USD
+[XBRL Capital Expenditures FY2021] SEC XBRL Capital Expenditures for FY2021: 6482000000 USD
+[XBRL Revenue Q1 FY2022] SEC XBRL Revenue for Q1 FY2022: 18756000000 USD
+[XBRL Gross Profit Q1 FY2022] SEC XBRL Gross Profit for Q1 FY2022: 5460000000 USD
+[XBRL Operating Income Q1 FY2022] SEC XBRL Operating Income for Q1 FY2022: 3603000000 USD
+[XBRL Net Income Q1 FY2022] SEC XBRL Net Income for Q1 FY2022: 3318000000 USD
+[XBRL Diluted EPS Q1 FY2022] SEC XBRL Diluted EPS for Q1 FY2022: 2.86 USD/share
+[XBRL Operating Cash Flow Q1 FY2022] SEC XBRL Operating Cash Flow for Q1 FY2022: 3995000000 USD
+[XBRL Capital Expenditures Q1 FY2022] SEC XBRL Capital Expenditures for Q1 FY2022: 1767000000 USD
+[XBRL Revenue Q2 FY2022] SEC XBRL Revenue for Q2 FY2022: 16934000000 USD
+[XBRL Gross Profit Q2 FY2022] SEC XBRL Gross Profit for Q2 FY2022: 4234000000 USD
+[XBRL Operating Income Q2 FY2022] SEC XBRL Operating Income for Q2 FY2022: 2464000000 USD
+[XBRL Net Income Q2 FY2022] SEC XBRL Net Income for Q2 FY2022: 2259000000 USD
+[XBRL Diluted EPS Q2 FY2022] SEC XBRL Diluted EPS for Q2 FY2022: 1.95 USD/share
+[XBRL Operating Cash Flow Q2 FY2022] SEC XBRL Operating Cash Flow for Q2 FY2022: 2351000000 USD
+[XBRL Capital Expenditures Q2 FY2022] SEC XBRL Capital Expenditures for Q2 FY2022: 1730000000 USD
+[XBRL Revenue Q3 FY2022] SEC XBRL Revenue for Q3 FY2022: 21454000000 USD
+[XBRL Gross Profit Q3 FY2022] SEC XBRL Gross Profit for Q3 FY2022: 5382000000 USD
+[XBRL Operating Income Q3 FY2022] SEC XBRL Operating Income for Q3 FY2022: 3688000000 USD
+[XBRL Net Income Q3 FY2022] SEC XBRL Net Income for Q3 FY2022: 3292000000 USD
+[XBRL Diluted EPS Q3 FY2022] SEC XBRL Diluted EPS for Q3 FY2022: 0.95 USD/share
+[XBRL Operating Cash Flow Q3 FY2022] SEC XBRL Operating Cash Flow for Q3 FY2022: 9095000000 USD
+[XBRL Capital Expenditures Q3 FY2022] SEC XBRL Capital Expenditures for Q3 FY2022: 3570000000 USD
+[XBRL Revenue FY2022] SEC XBRL Revenue for FY2022: 81462000000 USD
+[XBRL Gross Profit FY2022] SEC XBRL Gross Profit for FY2022: 20853000000 USD
+[XBRL Operating Income FY2022] SEC XBRL Operating Income for FY2022: 13656000000 USD
+[XBRL Net Income FY2022] SEC XBRL Net Income for FY2022: 12556000000 USD
+[XBRL Diluted EPS FY2022] SEC XBRL Diluted EPS for FY2022: 3.62 USD/share
+[XBRL Operating Cash Flow FY2022] SEC XBRL Operating Cash Flow for FY2022: 14724000000 USD
+[XBRL Capital Expenditures FY2022] SEC XBRL Capital Expenditures for FY2022: 7158000000 USD
