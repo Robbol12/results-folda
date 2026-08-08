@@ -1,0 +1,50 @@
+[
+  {
+    "ticker": null,
+    "metric": "income",
+    "point_type": "actual",
+    "quarter": "TSLA_Q1_2021",
+    "target_period": "Q1 2021",
+    "text": "Tesla achieved record production, deliveries and surpassed $1 billion in non-GAAP net income for the first time.",
+    "value": "$1 billion",
+    "source_type": "transcript",
+    "source_label": "TSLA_Q1_2021",
+    "is_analyst_question": false
+  },
+  {
+    "ticker": null,
+    "metric": "income",
+    "point_type": "actual",
+    "quarter": "TSLA_Q2_2021",
+    "target_period": "Q2 2021",
+    "text": "We achieved record production, deliveries, and surpassed over $1 billion in GAAP net income for the first time in Tesla's history.",
+    "value": "over $1 billion",
+    "source_type": "transcript",
+    "source_label": "TSLA_Q2_2021",
+    "is_analyst_question": false
+  },
+  {
+    "ticker": null,
+    "metric": "income",
+    "point_type": "actual",
+    "quarter": "TSLA_Q4_2021",
+    "target_period": "FY 2021",
+    "text": "Lastly, thanks to $5.5 billion of GAAP net income in 2021, our accumulated profitability since the inception of the Company became positive, which I think makes us a real company at this point.",
+    "value": "$5.5 billion",
+    "source_type": "transcript",
+    "source_label": "TSLA_Q4_2021",
+    "is_analyst_question": false
+  },
+  {
+    "ticker": null,
+    "metric": "income",
+    "point_type": "actual",
+    "quarter": "TSLA_Q4_2022",
+    "target_period": "FY 2022",
+    "text": "While doing so, we generated $12.5 billion in net income and $7.5 billion in free cash flow.",
+    "value": "$12.5 billion",
+    "source_type": "transcript",
+    "source_label": "TSLA_Q4_2022",
+    "is_analyst_question": false
+  }
+]

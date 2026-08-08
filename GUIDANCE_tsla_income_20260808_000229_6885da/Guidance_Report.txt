@@ -1,0 +1,25 @@
+[GUIDANCE VS ACTUAL] TSLA: income
+
+SUMMARY: Found 0 guidance point(s) for 'income': 0 met/exceeded, 0 missed, 0 unresolved.
+(confidence: low)
+
+Quarters searched: TSLA_Q1_2021, TSLA_Q2_2021, TSLA_Q3_2021, TSLA_Q4_2021, TSLA_Q1_2022, TSLA_Q2_2022, TSLA_Q3_2022, TSLA_Q4_2022
+Quarters with mentions: TSLA_Q1_2021, TSLA_Q2_2021, TSLA_Q4_2021, TSLA_Q2_2022, TSLA_Q3_2022, TSLA_Q4_2022
+
+--- Guidance vs Actual Pairs ---
+No guidance/actual pairs identified.
+Total pairs identified: 0
+
+--- Relevant Evidence Without a Clean Pair ---
+1. [TSLA_Q1_2021] Tesla achieved record production, deliveries and surpassed $1 billion in non-GAAP net income for the first time.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+2. [TSLA_Q2_2021] We achieved record production, deliveries, and surpassed over $1 billion in GAAP net income for the first time in Tesla's history.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+3. [TSLA_Q4_2021] Lastly, thanks to $5.5 billion of GAAP net income in 2021, our accumulated profitability since the inception of the Company became positive, which I think makes us a real company at this point.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+
+4. [TSLA_Q4_2022] While doing so, we generated $12.5 billion in net income and $7.5 billion in free cash flow.
+   Actual data point genuinely about this metric, but doesn't resolve any guidance found.
+

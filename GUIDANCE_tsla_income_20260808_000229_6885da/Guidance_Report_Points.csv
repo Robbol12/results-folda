@@ -1,0 +1,5 @@
+ticker,metric,point_type,quarter,target_period,text,value,source_type,source_label,is_analyst_question
+,income,actual,TSLA_Q1_2021,Q1 2021,"Tesla achieved record production, deliveries and surpassed $1 billion in non-GAAP net income for the first time.",$1 billion,transcript,TSLA_Q1_2021,False
+,income,actual,TSLA_Q2_2021,Q2 2021,"We achieved record production, deliveries, and surpassed over $1 billion in GAAP net income for the first time in Tesla's history.",over $1 billion,transcript,TSLA_Q2_2021,False
+,income,actual,TSLA_Q4_2021,FY 2021,"Lastly, thanks to $5.5 billion of GAAP net income in 2021, our accumulated profitability since the inception of the Company became positive, which I think makes us a real company at this point.",$5.5 billion,transcript,TSLA_Q4_2021,False
+,income,actual,TSLA_Q4_2022,FY 2022,"While doing so, we generated $12.5 billion in net income and $7.5 billion in free cash flow.",$12.5 billion,transcript,TSLA_Q4_2022,False
