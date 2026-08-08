@@ -1,0 +1,303 @@
+[GUIDANCE VS ACTUAL] TSLA: company-wide anchor year 2023
+
+Coverage window: [2022, 2024]
+Coverage state: partial coverage; some evidence was too ambiguous or unavailable to compare
+Summary: {"guidance_count": 29, "resolved_pair_count": 2, "unresolved_count": 29, "verdict_counts": {"Unresolved": 29}, "category_counts": {"operating": 19, "financial": 5, "product or milestone": 3, "other assessable company-level guidance": 1, "capacity or infrastructure": 1}, "coverage_state": "partial coverage; some evidence was too ambiguous or unavailable to compare"}
+
+--- Comparisons ---
+1. Unresolved · Production · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2022] 4680 output is not a risk to achieving 1.5 million vehicles produced this year, but it would become a risk next year if we do not solve volume production by early 2023, but we’re highly confident of doing so.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+2. Unresolved · Production · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2022] But -- if things go according to plan, we will be in volume production with 4680 sometime perhaps towards the end of the third quarter and certainly in the fourth quarter.
+   Target: Q3 FY2022
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+3. Unresolved · Production · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2022] So, I think, we’ll aim to -- we do a product event for robotaxi next year and get into more detail, but we are aiming for volume production in 2024.
+   Target: FY2024
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+4. Unresolved · Production · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2022] So, that means the most likely vehicle production in Q2 will be similar to Q1, maybe slightly lower, but it’s also possible we may pull a rabbit out of the hat and be slightly higher.
+   Target: Q2 FY2022
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+5. Unresolved · Revenue growth · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2022] We continue to drive towards further strengthening of our financials in the second half of the year and believe our 50% or above growth rate remains achievable for the year.
+   Target: FY2022
+   Actual [FY2022] On a full year basis: revenue increased over 50%, operating income doubled, free cash flows increased over 50%, and our margins remained industry-leading.
+   Explanation: explicit target-period evidence
+
+6. Unresolved · Product / strategic milestone · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2022] A couple of things to keep in mind as we progress, Austin and Berlin ramp inefficiencies will continue to weigh on our margins for the balance of the year.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+7. Unresolved · Deliveries · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2022] And finally, despite losing more builds in Q3 than expected, we are still pushing to reach 50% growth this year.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+8. Unresolved · Production · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2022] But right now, as Elon mentioned, we are leveraging supplier cells, which we have in sufficient quantity to ramp Texas and Berlin.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+9. Unresolved · Product / strategic milestone · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2022] However, the impact should reduce as we increase ramp.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+10. Unresolved · Production · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2022] Our target for Texas is to begin production this quarter and aim for Texas to be capable of exceeding Kato weekly output before the end of this year.
+   Target: Q2 FY2022
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+11. Unresolved · Production · outside anchor-year cohorts
+   Guidance [TSLA_Q3_2022] As we look ahead, our plans show that we’re on track for the 50% annual growth in production this year, although we are tracking supply chain risks which are beyond our control.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+12. Unresolved · Revenue growth · outside anchor-year cohorts
+   Guidance [TSLA_Q3_2022] But as I said earlier, we are extremely confident of the great Q4, and we anticipate continuing to grow our vehicle production, sales deliveries by -- on average 50% a year as far into the future as we can see.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+13. Unresolved · Deliveries · outside anchor-year cohorts
+   Guidance [TSLA_Q3_2022] On the delivery side, we do expect to be just under 50% growth due to an increase in the cars in transit at the end of the year, as noted, just above.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+14. Unresolved · Production · outside anchor-year cohorts
+   Guidance [TSLA_Q3_2022] So, we expect to see significant -- we’re tentatively aiming for 50,000 units in 2024 for Tesla Semi in North America.
+   Target: FY2024
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+15. Unresolved · Deliveries · outside anchor-year cohorts
+   Guidance [TSLA_Q3_2022] This means that, again, you should expect a gap between production and deliveries in Q4, and those cars in transit will be delivered shortly to their customers upon arrival to their destination in Q1.
+   Target: Q4 FY2022
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+16. Unresolved · Revenue growth · prior-year guidance resolved in anchor year
+   Guidance [TSLA_Q3_2022] We -- to the best of our knowledge, we believe that Tesla will continue to grow deliveries and revenue production at a 50% or greater compound annual growth rate.
+   Target: FY2023
+   Actual [None] Unavailable
+   Explanation: No defensible actual was found for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+17. Unresolved · Powertrain Cost Reduction · prior-year guidance resolved in anchor year
+   Guidance [TSLA_Q4_2022] And that will actually add up to a pretty significant cost reduction on the powertrain side over the course of 2023.
+   Target: FY2023
+   Actual [None] Unavailable
+   Explanation: No defensible actual was found for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+18. Unresolved · Production · prior-year guidance resolved in anchor year
+   Guidance [TSLA_Q4_2022] Really, our 2023 goal as a 4680 team is to deliver a cost-effective ramp of 4680s well ahead of Cybertruck.
+   Target: FY2023
+   Actual [None] Unavailable
+   Explanation: No defensible actual was found for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+19. Unresolved · Gross margin · prior-year guidance resolved in anchor year
+   Guidance [TSLA_Q4_2022] So based upon these metrics here, we believe that we'll be above both of the metrics that are stated in the question, so 20% automotive gross margin, excluding leases and rent credits and then $47,000 ASP across all models.
+   Target: FY2023
+   Actual [None] Unavailable
+   Explanation: No defensible actual was found for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+20. Unresolved · Product / strategic milestone · prior-year guidance resolved in anchor year
+   Guidance [TSLA_Q4_2022] The Austin and Berlin ramp inefficiencies in 4680 will make a substantial amount of progress on that over the course of the year, and that's within Tesla's control.
+   Target: FY2023
+   Actual [None] Unavailable
+   Explanation: No defensible actual was found for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+21. Unresolved · Production · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q1_2023] And going forward for the rest of the year, the priority, one, is yielding cost for the 4680 program as we steadily ramp production ahead of Cybertruck next year.
+   Target: Q1 FY2024
+   Actual [None] Unavailable
+   Explanation: No defensible actual was found for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+22. Unresolved · Deliveries · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2023] It's a great product, and we're completing the installation of the volume production line at Giga Texas, and we're anticipating having delivery event, a great delivery event probably in Q3.
+   Target: Q3 FY2023
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+23. Unresolved · Production · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2023] On cathode production, we are 50% equipment and 75% utilities installed at our new cathode building in Austin, with our goal to begin dry and wet commissioning this quarter and next quarter with a target to produce first material before the end of the year.
+   Target: Q2 FY2023
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+24. Unresolved · Production · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2023] Although, we expect that Q3 production will be a little bit down because we’ve got summer shutdowns to -- for a lot of factory upgrades.
+   Target: Q3 FY2023
+   Actual [Q3 FY2023] This was necessary to allow for further factory improvements and production rate increases.
+   Explanation: explicit target-period evidence
+
+25. Unresolved · Deliveries · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2023] We continue to target 1.8 million vehicle deliveries this year.
+   Target: FY2023
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+26. Unresolved · Cybertruck Cash Flow Timing · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q3_2023] It’s a great product, but financially it will take, I don’t know, a year to 18 months before it is a significant positive cash flow contributor.
+   Target: Q3 FY2024
+   Actual [None] Unavailable
+   Explanation: No defensible actual was found for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+27. Unresolved · Production · outside anchor-year cohorts
+   Guidance [TSLA_Q3_2023] This quarter we convert to building a 100% Cybertruck cells to simplify and focus the factory as we ramp all four lines in Phase 1 over the next three quarters.
+   Target: Q4 FY2023
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+28. Unresolved · Capacity · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q4_2023] Lathrop continues to ramp through 2024 with the operation of a second final assembly line to double capacity from 20 gigawatt to 40 gigawatt hours by the end of the year.
+   Target: FY2024
+   Actual [None] Unavailable
+   Explanation: No defensible actual was found for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+29. Unresolved · Production volume · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q4_2023] The first one began with the global expansion of Model 3 and Y, and we believe the next one will be initiated with the next generation platform.
+   Target: FY2024
+   Actual [None] Unavailable
+   Explanation: No defensible actual was found for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+--- Unpaired actuals ---
+[TSLA_Q2_2022] We achieved an important milestone of 1,000 cars a week in June.
+[TSLA_Q2_2022] In Q2, at Kato, we fully automated [indiscernible] for the drying of electrode tool there, unlocking major increases in production and improvements in yields.
+[TSLA_Q2_2022] Q2 was our largest increase yet over the last handful of quarters on inflation and commodity-related increases to our cars.
+[TSLA_Q2_2022] On GAAP automotive gross margin, it declined sequentially to 27.9%.
+[TSLA_Q3_2022] As our factories ramp, we’re looking forward to a record-breaking Q4.
+[TSLA_Q3_2022] On the production ramp, Giga Berlin achieved another milestone of 2,000 cars made in a week with very good quality and is ramping rapidly.
+[TSLA_Q4_2022] On a full year basis: revenue increased over 50%, operating income doubled, free cash flows increased over 50%, and our margins remained industry-leading.
+[TSLA_Q4_2022] For Q4 specifically, sequential and annual margin was impacted by ASP reductions, as we are managing through COVID impacts in China, uncertainty around the consumer tax credit in the U.S., and a rising interest rate environment.
+[TSLA_Q1_2023] Texas production increased 50% quarter-over-quarter through yields increased 12% and [Indiscernible] peak rate increased by 20% and through yields improved by 20%.
+[TSLA_Q1_2023] In particular, automotive gross margin was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve vehicle pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as increased deferred revenue for certain Autopilot features as we transition technologies.
+[10-Q Q1 2023 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Results of Operations Revenues Three Months Ended March 31, Change (Dollars in millions) 2023 2022 $ % Automotive sales $ 18,878 $ 15,514 $ 3,364 22 % Automotive regulatory credits 521 679 (158 ) (23 )% Automotive leasing 564 668 (104 ) (16 )% Total automotive revenues 19,963 16,861 3,102 18 % Services and other 1,837 1,279 558 44 % Total automotive & services and other segment revenue 21,800 18,140 3,660 20 % Energy generation and storage segment revenue 1,529 616 913 148 % Total revenues $ 23,329 $ 18,756 $ 4,573 24 % 25 Automotive & Services and Other Segment Automotive sales revenue increased $3.36 billion, or 22%, in the three months ended March 31, 2023 as compared to the three months ended March 31, 2022, primarily due to an increase of 108,378 combined Model 3 and Model Y deliveries year over year despite a negative impact from the United States dollar strengthening against other foreign currencies in the three months ended March 31, 2023 as compared to the prior period.
+[10-Q Q1 2023 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Cost of Revenues and Gross Margin Three Months Ended March 31, Change (Dollars in millions) 2023 2022 $ % Cost of revenues Automotive sales $ 15,422 $ 10,914 $ 4,508 41 % Automotive leasing 333 408 (75 ) (18 )% Total automotive cost of revenues 15,755 11,322 4,433 39 % Services and other 1,702 1,286 416 32 % Total automotive & services and other segment cost of revenues 17,457 12,608 4,849 38 % Energy generation and storage segment 1,361 688 673 98 % Total cost of revenues $ 18,818 $ 13,296 $ 5,522 42 % Gross profit total automotive $ 4,208 $ 5,539 Gross margin total automotive 21.1 % 32.9 % Gross profit total automotive & services and other segment $ 4,343 $ 5,532 Gross margin total automotive & services and other segment 19.9 % 30.5 % Gross profit energy generation and storage segment $ 168 $ (72 ) Gross margin energy generation and storage segment 11.0 % (11.7 )% Total gross profit $ 4,511 $ 5,460 Total gross margin 19.3 % 29.1 % 26 Automotive & Services and Other Segment Cost of automotive sales revenue increased $4.51 billion, or 41%, in the three months ended March 31, 2023 as compared to the three months ended March 31, 2022, in line with the growth in deliveries year over year, as discussed above.
+[10-Q Q1 2023 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Cost of services and other revenue increased $416 million, or 32%, in the three months ended March 31, 2023 as compared to the three months ended March 31, 2022.
+[10-Q Q1 2023 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Energy Generation and Storage Segment Cost of energy generation and storage revenue increased $673 million, or 98%, in the three months ended March 31, 2023 as compared to the three months ended March 31, 2022, primarily due to increase in deployments of Megapack, increase in solar cash and loan deployments at a higher average cost due to increased component costs, as well as increase in deployments of Powerwall.
+[10-Q Q1 2023 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Gross margin for energy generation and storage improved from -11.7% to 11.0% in the three months ended March 31, 2023 as compared to the three months ended March 31, 2022.
+[10-Q Q1 2023 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] This was driven by a $84 million increase in facilities-related expenses and a $49 million increase in employee and labor costs primarily from increased headcount, including professional services.
+[TSLA_Q2_2023] In Q2 we achieved record vehicle production and deliveries, and record revenue of about $25 billion in a single quarter.
+[TSLA_Q3_2023] 4680 cell production in Texas increased 40% quarter-over-quarter.
+[TSLA_Q3_2023] With the increased volume and yield improvements, cell costs consistently improved month-over-month within the quarter, although we have a lot more work to do to achieve our steady state goals.
+[TSLA_Q4_2023] We achieved record production and deliveries of over 1.8 million vehicles in line with our official guidance.
+[TSLA_Q4_2023] First, I just want to allay any concerns regarding 4680 limiting the Cybertruck ramp, because I've seen some people commenting about that.
+[TSLA_Q4_2023] To date, 4680 production is ahead of the ramp with actually weeks of finished cell inventory.
+[TSLA_Q4_2023] And just regarding what the team was able to do in Q4, Texas successfully swapped line one from the Model Y design of the cell to the Cybertruck design of the cell, which was the 10% cell energy increase I've mentioned before.
+[TSLA_Q1_2024] Despite these challenges, the Tesla team did a great job executing in a tough environment and energy storage deployments, the Megapack in particular, reached an all-time high in Q1, leading to record profitability for the energy business, and that looks likely to continue to increase in the quarters and years ahead.
+[10-Q Q1 2024 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] We continue to ramp production and build and optimize our manufacturing capacity, expand our operations while focusing on further cost reductions and operational efficiencies to enable increased deliveries and deployments of our products, and invest in research and development to accelerate our AI, software, and fleet-based profits for further revenue growth.
+[10-Q Q1 2024 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Additionally, there was a decrease of approximately 27,000 combined Model 3 and Model Y cash deliveries partially due to the early phase of the production ramp of the updated Model 3 at our Fremont factory and factory shutdowns resulting from shipping diversions caused by the Red Sea conflict and an arson attack at Gigafactory Berlin-Brandenburg.
+[10-Q Q1 2024 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] The decreases were partially offset by an increase of approximately 7,000 deliveries of other models as we ramped our production of Cybertruck.
+[10-Q Q1 2024 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Services and other revenue increased $451 million, or 25%, in the three months ended March 31, 2024 as compared to the three months ended March 31, 2023.
+[10-Q Q1 2024 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Energy Generation and Storage Segment Energy generation and storage revenue increased $106 million, or 7%, in the three months ended March 31, 2024 as compared to the three months ended March 31, 2023.
+[10-Q Q1 2024 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Gross margin for energy generation and storage increased from 11.0% to 24.6% in the three months ended March 31, 2024 as compared to the three months ended March 31, 2023.
+[10-Q Q2 2024 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Additionally, there was a decrease of approximately 13,000 combined Model 3 and Model Y cash deliveries partially due to the early phase of the production ramp of the updated Model 3 at our Fremont factory.
+[10-Q Q2 2024 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] The decreases were partially offset by an increase of approximately 11,000 deliveries of other models, including Model S, Model X and Cybertruck, primarily due to our production ramp of Cybertruck.
+[10-Q Q2 2024 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Automotive regulatory credits revenue increased $608 million, or 216%, in the three months ended June 30, 2024 as compared to the three months ended June 30, 2023.
+[10-Q Q2 2024 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Energy Generation and Storage Segment Energy generation and storage revenue increased $1.51 billion, or 100%, in the three months ended June 30, 2024 as compared to the three months ended June 30, 2023.
+[10-Q Q3 2024 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] 28 Table of Contents Results of Operations Revenues Three Months Ended September 30, Change Nine Months Ended September 30, Change (Dollars in millions) 2024 2023 $ % 2024 2023 $ % Automotive sales $ 18,831 $ 18,582 $ 249 1 % $ 53,821 $ 57,879 $ (4,058) (7) % Automotive regulatory credits 739 554 185 33 % 2,071 1,357 714 53 % Automotive leasing 446 489 (43) (9) % 1,380 1,620 (240) (15) % Total automotive revenues 20,016 19,625 391 2 % 57,272 60,856 (3,584) (6) % Services and other 2,790 2,166 624 29 % 7,686 6,153 1,533 25 % Total automotive & services and other segment revenue 22,806 21,791 1,015 5 % 64,958 67,009 (2,051) (3) % Energy generation and storage segment revenue 2,376 1,559 817 52 % 7,025 4,597 2,428 53 % Total revenues $ 25,182 $ 23,350 $ 1,832 8 % $ 71,983 $ 71,606 $ 377 1 % Automotive & Services and Other Segment Automotive sales revenue increased $249 million, or 1%, in the three months ended September 30, 2024 as compared to the three months ended September 30, 2023, due to an increase of approximately 23,000 combined Model 3 and Model Y cash deliveries and an increase of 8,000 deliveries of other models primarily due to our production ramp of Cybertruck.
+[10-Q Q3 2024 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Services and other revenue increased $624 million, or 29%, in the three months ended September 30, 2024 as compared to the three months ended September 30, 2023.
+[10-Q Q3 2024 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Energy Generation and Storage Segment Energy generation and storage revenue increased $817 million, or 52%, in the three months ended September 30, 2024 as compared to the three months ended September 30, 2023.
+[XBRL Revenue Q1 FY2022] SEC XBRL Revenue for Q1 FY2022: 18756000000 USD
+[XBRL Gross Profit Q1 FY2022] SEC XBRL Gross Profit for Q1 FY2022: 5460000000 USD
+[XBRL Operating Income Q1 FY2022] SEC XBRL Operating Income for Q1 FY2022: 3603000000 USD
+[XBRL Net Income Q1 FY2022] SEC XBRL Net Income for Q1 FY2022: 3318000000 USD
+[XBRL Diluted EPS Q1 FY2022] SEC XBRL Diluted EPS for Q1 FY2022: 2.86 USD/share
+[XBRL Operating Cash Flow Q1 FY2022] SEC XBRL Operating Cash Flow for Q1 FY2022: 3995000000 USD
+[XBRL Capital Expenditures Q1 FY2022] SEC XBRL Capital Expenditures for Q1 FY2022: 1767000000 USD
+[XBRL Revenue Q2 FY2022] SEC XBRL Revenue for Q2 FY2022: 16934000000 USD
+[XBRL Gross Profit Q2 FY2022] SEC XBRL Gross Profit for Q2 FY2022: 4234000000 USD
+[XBRL Operating Income Q2 FY2022] SEC XBRL Operating Income for Q2 FY2022: 2464000000 USD
+[XBRL Net Income Q2 FY2022] SEC XBRL Net Income for Q2 FY2022: 2259000000 USD
+[XBRL Diluted EPS Q2 FY2022] SEC XBRL Diluted EPS for Q2 FY2022: 1.95 USD/share
+[XBRL Operating Cash Flow Q2 FY2022] SEC XBRL Operating Cash Flow for Q2 FY2022: 2351000000 USD
+[XBRL Capital Expenditures Q2 FY2022] SEC XBRL Capital Expenditures for Q2 FY2022: 1730000000 USD
+[XBRL Revenue Q3 FY2022] SEC XBRL Revenue for Q3 FY2022: 21454000000 USD
+[XBRL Gross Profit Q3 FY2022] SEC XBRL Gross Profit for Q3 FY2022: 5382000000 USD
+[XBRL Operating Income Q3 FY2022] SEC XBRL Operating Income for Q3 FY2022: 3688000000 USD
+[XBRL Net Income Q3 FY2022] SEC XBRL Net Income for Q3 FY2022: 3292000000 USD
+[XBRL Diluted EPS Q3 FY2022] SEC XBRL Diluted EPS for Q3 FY2022: 0.95 USD/share
+[XBRL Operating Cash Flow Q3 FY2022] SEC XBRL Operating Cash Flow for Q3 FY2022: 9095000000 USD
+[XBRL Capital Expenditures Q3 FY2022] SEC XBRL Capital Expenditures for Q3 FY2022: 3570000000 USD
+[XBRL Revenue FY2022] SEC XBRL Revenue for FY2022: 81462000000 USD
+[XBRL Gross Profit FY2022] SEC XBRL Gross Profit for FY2022: 20853000000 USD
+[XBRL Operating Income FY2022] SEC XBRL Operating Income for FY2022: 13656000000 USD
+[XBRL Net Income FY2022] SEC XBRL Net Income for FY2022: 12556000000 USD
+[XBRL Diluted EPS FY2022] SEC XBRL Diluted EPS for FY2022: 3.62 USD/share
+[XBRL Operating Cash Flow FY2022] SEC XBRL Operating Cash Flow for FY2022: 14724000000 USD
+[XBRL Capital Expenditures FY2022] SEC XBRL Capital Expenditures for FY2022: 7158000000 USD
+[XBRL Revenue Q1 FY2023] SEC XBRL Revenue for Q1 FY2023: 23329000000 USD
+[XBRL Gross Profit Q1 FY2023] SEC XBRL Gross Profit for Q1 FY2023: 4511000000 USD
+[XBRL Operating Income Q1 FY2023] SEC XBRL Operating Income for Q1 FY2023: 2664000000 USD
+[XBRL Net Income Q1 FY2023] SEC XBRL Net Income for Q1 FY2023: 2513000000 USD
+[XBRL Diluted EPS Q1 FY2023] SEC XBRL Diluted EPS for Q1 FY2023: 0.73 USD/share
+[XBRL Operating Cash Flow Q1 FY2023] SEC XBRL Operating Cash Flow for Q1 FY2023: 2513000000 USD
+[XBRL Capital Expenditures Q1 FY2023] SEC XBRL Capital Expenditures for Q1 FY2023: 2072000000 USD
+[XBRL Revenue Q2 FY2023] SEC XBRL Revenue for Q2 FY2023: 24927000000 USD
+[XBRL Gross Profit Q2 FY2023] SEC XBRL Gross Profit for Q2 FY2023: 4533000000 USD
+[XBRL Operating Income Q2 FY2023] SEC XBRL Operating Income for Q2 FY2023: 2399000000 USD
+[XBRL Net Income Q2 FY2023] SEC XBRL Net Income for Q2 FY2023: 2703000000 USD
+[XBRL Diluted EPS Q2 FY2023] SEC XBRL Diluted EPS for Q2 FY2023: 0.78 USD/share
+[XBRL Operating Cash Flow Q2 FY2023] SEC XBRL Operating Cash Flow for Q2 FY2023: 3065000000 USD
+[XBRL Capital Expenditures Q2 FY2023] SEC XBRL Capital Expenditures for Q2 FY2023: 2060000000 USD
+[XBRL Revenue Q3 FY2023] SEC XBRL Revenue for Q3 FY2023: 23350000000 USD
+[XBRL Gross Profit Q3 FY2023] SEC XBRL Gross Profit for Q3 FY2023: 4178000000 USD
+[XBRL Operating Income Q3 FY2023] SEC XBRL Operating Income for Q3 FY2023: 1764000000 USD
+[XBRL Net Income Q3 FY2023] SEC XBRL Net Income for Q3 FY2023: 1853000000 USD
+[XBRL Diluted EPS Q3 FY2023] SEC XBRL Diluted EPS for Q3 FY2023: 0.53 USD/share
+[XBRL Operating Cash Flow Q3 FY2023] SEC XBRL Operating Cash Flow for Q3 FY2023: 5821000000 USD
+[XBRL Capital Expenditures Q3 FY2023] SEC XBRL Capital Expenditures for Q3 FY2023: 4532000000 USD
+[XBRL Revenue FY2023] SEC XBRL Revenue for FY2023: 96773000000 USD
+[XBRL Gross Profit FY2023] SEC XBRL Gross Profit for FY2023: 17660000000 USD
+[XBRL Operating Income FY2023] SEC XBRL Operating Income for FY2023: 8891000000 USD
+[XBRL Net Income FY2023] SEC XBRL Net Income for FY2023: 14997000000 USD
+[XBRL Diluted EPS FY2023] SEC XBRL Diluted EPS for FY2023: 4.3 USD/share
+[XBRL Operating Cash Flow FY2023] SEC XBRL Operating Cash Flow for FY2023: 13256000000 USD
+[XBRL Capital Expenditures FY2023] SEC XBRL Capital Expenditures for FY2023: 8898000000 USD
+[XBRL Revenue Q1 FY2024] SEC XBRL Revenue for Q1 FY2024: 21301000000 USD
+[XBRL Gross Profit Q1 FY2024] SEC XBRL Gross Profit for Q1 FY2024: 3696000000 USD
+[XBRL Operating Income Q1 FY2024] SEC XBRL Operating Income for Q1 FY2024: 1171000000 USD
+[XBRL Net Income Q1 FY2024] SEC XBRL Net Income for Q1 FY2024: 1129000000 USD
+[XBRL Diluted EPS Q1 FY2024] SEC XBRL Diluted EPS for Q1 FY2024: 0.34 USD/share
+[XBRL Operating Cash Flow Q1 FY2024] SEC XBRL Operating Cash Flow for Q1 FY2024: 242000000 USD
+[XBRL Capital Expenditures Q1 FY2024] SEC XBRL Capital Expenditures for Q1 FY2024: 2773000000 USD
+[XBRL Revenue Q2 FY2024] SEC XBRL Revenue for Q2 FY2024: 25500000000 USD
+[XBRL Gross Profit Q2 FY2024] SEC XBRL Gross Profit for Q2 FY2024: 4578000000 USD
+[XBRL Operating Income Q2 FY2024] SEC XBRL Operating Income for Q2 FY2024: 1605000000 USD
+[XBRL Net Income Q2 FY2024] SEC XBRL Net Income for Q2 FY2024: 1478000000 USD
+[XBRL Diluted EPS Q2 FY2024] SEC XBRL Diluted EPS for Q2 FY2024: 0.42 USD/share
+[XBRL Operating Cash Flow Q2 FY2024] SEC XBRL Operating Cash Flow for Q2 FY2024: 3612000000 USD
+[XBRL Capital Expenditures Q2 FY2024] SEC XBRL Capital Expenditures for Q2 FY2024: 2276000000 USD
+[XBRL Revenue Q3 FY2024] SEC XBRL Revenue for Q3 FY2024: 25182000000 USD
+[XBRL Gross Profit Q3 FY2024] SEC XBRL Gross Profit for Q3 FY2024: 4997000000 USD
+[XBRL Operating Income Q3 FY2024] SEC XBRL Operating Income for Q3 FY2024: 2717000000 USD
+[XBRL Net Income Q3 FY2024] SEC XBRL Net Income for Q3 FY2024: 2167000000 USD
+[XBRL Diluted EPS Q3 FY2024] SEC XBRL Diluted EPS for Q3 FY2024: 0.62 USD/share
+[XBRL Operating Cash Flow Q3 FY2024] SEC XBRL Operating Cash Flow for Q3 FY2024: 6497000000 USD
+[XBRL Capital Expenditures Q3 FY2024] SEC XBRL Capital Expenditures for Q3 FY2024: 6286000000 USD
+[XBRL Revenue FY2024] SEC XBRL Revenue for FY2024: 97690000000 USD
+[XBRL Gross Profit FY2024] SEC XBRL Gross Profit for FY2024: 17450000000 USD
+[XBRL Operating Income FY2024] SEC XBRL Operating Income for FY2024: 7076000000 USD
+[XBRL Net Income FY2024] SEC XBRL Net Income for FY2024: 7091000000 USD
+[XBRL Diluted EPS FY2024] SEC XBRL Diluted EPS for FY2024: 2.04 USD/share
+[XBRL Operating Cash Flow FY2024] SEC XBRL Operating Cash Flow for FY2024: 14923000000 USD
+[XBRL Capital Expenditures FY2024] SEC XBRL Capital Expenditures for FY2024: 11339000000 USD
