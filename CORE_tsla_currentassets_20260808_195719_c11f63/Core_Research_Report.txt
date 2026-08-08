@@ -1,0 +1,402 @@
+[CORE RESEARCH] TSLA: current assets
+
+Quarters searched: 8
+Filing sections searched: 174
+
+Over the periods from Q1 2021 through Q4 2022, the company's current assets showed fluctuations primarily influenced by changes in cash and cash equivalents, accounts receivable, and inventory levels. There was a consistent pattern of increasing inventory to support production ramp-ups at various factories, partially offset by increases in accounts payable and accrued liabilities. Digital asset purchases and sales were a notable factor affecting cash flows but did not directly alter current assets classification. The company also recorded a full valuation allowance on net U.S. deferred tax assets by the end of 2021 and maintained it through 2022, indicating expectations of non-realization. Overall, current assets movements reflected operational scaling and strategic asset management rather than explicit forward guidance or forecasting.
+
+Forecasting credibility: None
+No guidance versus actual pairs were provided for current assets, which is typical for mechanical or accounting line items that are not subject to forward-looking management forecasts. Therefore, it is not possible to assess management's forecasting credibility on current assets based on the available data. Any commentary or observed trends cannot substitute for direct guidance-actual comparisons in forming a credibility judgment.
+
+Trends:
+  - Increasing inventory levels over time
+  - Rising accounts payable and accrued liabilities
+  - Stable or fluctuating cash and cash equivalents
+  - Full valuation allowance on deferred tax assets from 2021 onward
+  - Significant digital asset transactions impacting cash flows
+
+Recurring themes/risks:
+  - Production ramp-up driving inventory increases
+  - Accounts payable growth offsetting asset increases
+  - Digital asset investments and related cash flow volatility
+  - Deferred tax asset valuation uncertainty
+
+Key concerns:
+  - The full valuation allowance on U.S. deferred tax assets suggests management expects these assets will not be realized, which could impact future liquidity or tax planning.
+  - Significant digital asset purchases and sales create cash flow variability but do not clearly affect current assets classification, potentially complicating liquidity assessments.
+  - No forward guidance on current assets limits transparency and forecasting reliability for this balance sheet component.
+
+Conclusion:
+Current assets have generally increased due to inventory buildup supporting factory production ramp-ups, partially offset by increases in accounts payable and accrued liabilities. Cash and cash equivalents have fluctuated but remained a significant component of current assets. The company’s digital asset transactions have influenced cash flows but are not directly reflected in current assets. The full valuation allowance on deferred tax assets indicates caution regarding asset realizability. Without forward guidance, management’s ability to forecast current assets cannot be evaluated, but the reported figures suggest current assets are managed in line with operational scaling and liquidity needs.
+
+Evidence Coverage: 98.9% complete; 550/556 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [None] [from 10-K/10-Q] Total current assets 24,705 26,717
+  - [None] [from 10-K/10-Q] Cash and cash equivalents $ 17,141 $ 19,384
+  - [None] [from 10-K/10-Q] Accounts receivable, net 1,890 1,886
+  - [None] [from 10-K/10-Q] Inventory 4,132 4,101
+  - [None] [from 10-K/10-Q] Prepaid expenses and other current assets 1,542 1,346
+  - [None] [from 10-K/10-Q] Restricted cash included in prepaid expenses and other current assets 305 238
+  - [None] [from 10-K/10-Q] The aggregate carrying values of the VIEs’ assets and liabilities, after elimination of any intercompany transactions and balances, in the consolidated balance sheets were as follows (in millions): March 31, December 31, 2021 2020 Assets Current assets Cash and cash equivalents $ 78 $ 87 Accounts receivable, net 35 28 Prepaid expenses and other current assets 124 105 Total current assets 237 220
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - The decrease in our net operating assets and liabilities was partially offset by a larger increase in operating lease vehicles as Model Y direct leasing was introduced in the third quarter of 2020 and an increase in other non-current assets in the three months ended March 31, 2021 as compared to a decrease in the same period in 2020.
+    - Additionally, net cash activities related to digital assets were $1.23 billion in the three months ended March 31, 2021 from purchases of digital assets for $1.50 billion and proceeds from sales of digital assets of $272 million.
+    - The decrease in our net operating assets and liabilities was mainly driven by an increase in accounts payable and accrued liabilities in the three months ended March 31, 2021 as compared to a decrease in the three months ended March 31, 2020 from ramp up in production at Gigafactory Shanghai and the Fremont Factory and a smaller increase in inventory from buildup of finished goods from limited capacity to deliver or install our products at the end of the first quarter of 2020.
+    - This increase was primarily due to the decrease in net operating assets and liabilities of $1.44 billion and the increase in net income excluding non-cash expenses and gains of $747 million, partially offset by $101 million of net gain on digital assets.
+    - Accordingly, we believe that our current sources of funds will provide us with adequate liquidity during the 12-month period following March 31, 2021, including to pay down near-term debt obligations, as well as in the long-term.
+    - We have assessed the impact and are not aware of any specific events or circumstances that required an update to our estimates and assumptions or materially affected the carrying value of our assets or liabilities as of the date of issuance of this Quarterly Report on Form 10-Q.
+  [Financial Statements]
+    - Current Assets: $24.70B | vs prior quarter: — | vs prior year: $14.89B (+65.9%)
+    - 2 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 3 real filing table(s) available (see the HTML report).
+    - We currently account for all digital assets held as a result of these transactions as indefinite-lived intangible assets in accordance with ASC 350, Intangibles—Goodwill and Other .
+    - Net investment in sales-type leases, which is the sum of the present value of the future contractual lease payments, is presented on the consolidated balance sheet as a component of Prepaid expenses and other current assets for the current portion and as Other assets for the long-term portion.
+    - We record restricted cash as other assets in the consolidated balance sheets and determine current or non-current classification based on the expected duration of the restriction.
+    - Accordingly, our interest rate swaps are recorded at fair value on the consolidated balance sheets within Other non-current assets or Other long-term liabilities, with any changes in their fair values recognized as Other income (expense), net, in the consolidated statements of operations and with any cash flows recognized as operating activities in the consolidated statements of cash flows.
+    - Our interest rate swaps were classified within Level II of the fair value hierarchy because they were valued using alternative pricing sources or models that utilized market observable inputs, including current and forward interest rates.
+    - As the terms of the arrangement convey a finance lease under ASC 842, Leases, we account for their production equipment as leased assets when production commences.
+    - Completed assets are transferred to their respective asset classes, and depreciation begins when an asset is ready for its intended use.
+    - Interest on outstanding debt is capitalized during periods of significant capital asset construction and amortized over the useful lives of the related assets.
+    - Depreciation on Panasonic production equipment is computed using the units-of-production method whereby capitalized costs are amortized over the total estimated productive life of the respective assets.
+    - As we now expect to settle a portion of the 2024 Notes in the second quarter of 2021, we reclassified $ 51 million of the carrying value of the 2024 Notes from debt and finance leases, net of current portion to current portion of debt and finance leases on our consolidated balance sheet as of March 31, 2021.
+    - Non-recourse debt refers to debt that is recourse to only assets of our subsidiaries.
+    - Recourse debt refers to debt that is recourse to our general assets.
+    - Securities Litigation Relating to Production of Model 3 Vehicles On October 10, 2017, a purported stockholder class action was filed in the U.S. District Court for the Northern District of California against Tesla, two of its current officers and a former officer.
+    - Litigation Related to Directors’ Compensation On June 17, 2020, a purported Tesla stockholder filed a derivative action in the Delaware Court of Chancery, purportedly on behalf of Tesla, against certain of Tesla’s current and former directors regarding compensation awards granted to Tesla’s directors, other than Elon Musk, between 2017 and 2020.
+    - The current dates for the trial are from July 12 to July 23, 2021, subject to change based on any further safety measures implemented by the Court.
+    - None of the assets of the funds had been pledged as collateral for their obligations.
+    - In particular, our wholly owned subsidiaries and fund investors have formed and contributed cash and assets into various financing funds and entered into related agreements.
+  [Risk Factors]
+    - In January 2021, we updated our investment policy to provide us with more flexibility to further diversify and maximize returns on our cash that is not required to maintain adequate operating liquidity, allowing us to invest a portion of such cash in certain alternative reserve assets including digital assets, gold bullion, gold exchange-traded funds and other assets as specified in the future.
+    - 49 The prices of digital assets have been in the past and may continue to be highly volatile, including as a result of various associated risks and uncertainties.
+    - Moreover, digital assets are currently considered indefinite-lived intangible assets under applicable accounting rules, meaning that any decrease in their fair values below our carrying values for such assets at any time subsequent to their acquisition will require us to recognize impairment charges, whereas we may make no upward revisions for any market price increases until a sale, which may adversely affect our operating results in any period in which such impairment occurs.
+    - Finally, as intangible assets without centralized issuers or governing bodies, digital assets have been, and may in the future be, subject to security breaches, cyberattacks or other malicious activities, as well as human errors or computer malfunctions that may result in the loss or destruction of private keys needed to access such assets.
+    - For example, the prevalence of such assets is a relatively recent trend, and their long-term adoption by investors, consumers and businesses is unpredictable.
+    - Finally, the extent to which securities laws or other regulations apply or may apply in the future to such assets is unclear and may change in the future.
+
+=== Q2 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - Additionally, net cash activities related to digital assets were $1.23 billion in the six months ended June 30, 2021 from purchases of digital assets for $1.50 billion and proceeds from sales of digital assets of $272 million.
+    - The decrease in our net operating assets and liabilities was mainly driven by an increase in accounts payable and accrued liabilities in the six months ended June 30, 2021 as compared to a decrease in the six months ended June 30, 2020 from ramp up in production at Gigafactory Shanghai and the Fremont Factory.
+    - Accordingly, we believe that our current sources of funds will provide us with adequate liquidity during the 12-month period following June 30, 2021, including to pay down near-term debt obligations, as well as in the long-term.
+    - The decrease in our net operating assets and liabilities was partially offset by a larger increase in operating lease vehicles as Model Y direct leasing was introduced in the third quarter of 2020.
+    - This increase was primarily due to the increase in net income excluding non-cash expenses and gains of $1.88 billion and the overall decrease in net operating assets and liabilities of $1.36 billion.
+    - We have assessed the impact and are not aware of any specific events or circumstances that required an update to our estimates and assumptions or materially affected the carrying value of our assets or liabilities as of the date of issuance of this Quarterly Report on Form 10-Q.
+  [Financial Statements]
+    - Current Assets: $24.69B | vs prior quarter: $24.70B (-0.0%) | vs prior year: $15.34B (+61.0%)
+    - 2 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 3 real filing table(s) available (see the HTML report).
+    - We account for such non-cash consideration at the time we enter into transactions with our customers in accordance with the non-cash consideration guidance included in the Accounting Standards Codification (“ASC”) 606, Revenue from Contracts with Customers , based on the then current quoted market prices of the digital assets.
+    - We currently account for all digital assets held as a result of these transactions as indefinite-lived intangible assets in accordance with ASC 350, Intangibles—Goodwill and Other .
+    - Net investment in sales-type leases, which is the sum of the present value of the future contractual lease payments, is presented on the consolidated balance sheet as a component of Prepaid expenses and other current assets for the current portion and as Other assets for the long-term portion.
+    - During the three and six months ended June 30, 2021, we recorded $ 23 million and $ 50 million, respectively, of impairment losses on such digital assets.
+    - As of June 30, 2021, the carrying value of our digital assets held was $ 1.31 billion, which reflects cumulative impairments of $ 50 million.
+    - The fair market value of such digital assets held as of June 30, 2021 was $ 1.47 billion .
+    - Accordingly, our interest rate swaps are recorded at fair value on the consolidated balance sheets within Other non-current assets or Other long-term liabilities, with any changes in their fair values recognized as Other income (expense), net, in the consolidated statements of operations and with any cash flows recognized as operating activities in the consolidated statements of cash flows.
+    - Our interest rate swaps were classified within Level II of the fair value hierarchy because they were valued using alternative pricing sources or models that utilized market observable inputs, including current and forward interest rates.
+    - As the terms of the arrangement convey a finance lease under ASC 842, Leases, we account for their production equipment as leased assets when production commences.
+    - Completed assets are transferred to their respective asset classes, and depreciation begins when an asset is ready for its intended use.
+    - Interest on outstanding debt is capitalized during periods of significant capital asset construction and amortized over the useful lives of the related assets.
+    - Depreciation on Panasonic production equipment is computed using the units-of-production method whereby capitalized costs are amortized over the total estimated productive life of the respective assets.
+    - As we now expect to settle a portion of the 2024 Notes in the third quarter of 2021, we reclassified $ 7 million of the carrying value of the 2024 Notes from debt and finance leases, net of current portion to current portion of debt and finance leases on our consolidated balance sheet as of June 30, 2021.
+    - Non-recourse debt refers to debt that is recourse to only assets of our subsidiaries.
+    - Recourse debt refers to debt that is recourse to our general assets.
+    - Securities Litigation Relating to Production of Model 3 Vehicles On October 10, 2017, a purported stockholder class action was filed in the U.S. District Court for the Northern District of California against Tesla, two of its current officers and a former officer.
+    - Litigation Related to Directors’ Compensation On June 17, 2020, a purported Tesla stockholder filed a derivative action in the Delaware Court of Chancery, purportedly on behalf of Tesla, against certain of Tesla’s current and former directors regarding compensation awards granted to Tesla’s directors, other than Elon Musk, between 2017 and 2020.
+    - None of the assets of the funds had been pledged as collateral for their obligations.
+    - In particular, our wholly owned subsidiaries and fund investors have formed and contributed cash and assets into various financing funds and entered into related agreements.
+  [Risk Factors]
+    - In January 2021, we updated our investment policy to provide us with more flexibility to further diversify and maximize returns on our cash that is not required to maintain adequate operating liquidity, allowing us to invest a portion of such cash in certain alternative reserve assets including digital assets, gold bullion, gold exchange-traded funds and other assets as specified in the future.
+    - 53 We hold and may acquire digital assets that may be subject to volatile market prices, impairment and unique risks of loss.
+    - Moreover, digital assets are currently considered indefinite-lived intangible assets under applicable accounting rules, meaning that any decrease in their fair values below our carrying values for such assets at any time subsequent to their acquisition will require us to recognize impairment charges, whereas we may make no upward revisions for any market price increases until a sale, which may adversely affect our operating results in any period in which such impairment occurs.
+    - Finally, as intangible assets without centralized issuers or governing bodies, digital assets have been, and may in the future be, subject to security breaches, cyberattacks or other malicious activities, as well as human errors or computer malfunctions that may result in the loss or destruction of private keys needed to access such assets.
+    - For example, the prevalence of such assets is a relatively recent trend, and their long-term adoption by investors, consumers and businesses is unpredictable.
+    - Finally, the extent to which securities laws or other regulations apply or may apply in the future to such assets is unclear and may change in the future.
+
+=== Q3 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - The decrease in our net operating assets and liabilities was partially offset by a larger increase in operating lease vehicles as Model Y direct leasing was introduced in the third quarter of 2020 and a larger increase in other non-current assets.
+    - Additionally, net cash activities related to digital assets were $1.23 billion in the nine months ended September 30, 2021 from purchases of digital assets for $1.50 billion and proceeds from sales of digital assets of $272 million.
+    - The decrease in our net operating assets and liabilities was mainly driven by a larger increase in accounts payable and accrued liabilities in the nine months ended September 30, 2021 as compared to the nine months ended September 30, 2020 from ramp up in production at Gigafactory Shanghai and the Fremont Factory and a larger increase in deferred revenue from higher vehicle deliveries.
+    - Accordingly, we believe that our current sources of funds will provide us with adequate liquidity during the 12-month period following September 30, 2021, including to pay down near-term debt obligations, as well as in the long-term.
+    - This increase was primarily due to the increase in net income excluding non-cash expenses and gains of $3.27 billion and the overall decrease in net operating assets and liabilities of $721 million.
+    - We have assessed the impact and are not aware of any specific events or circumstances that required an update to our estimates and assumptions or materially affected the carrying value of our assets or liabilities as of the date of issuance of this Quarterly Report on Form 10-Q.
+  [Financial Statements]
+    - Current Assets: $25.00B | vs prior quarter: $24.69B (+1.3%) | vs prior year: $21.74B (+15.0%)
+    - 2 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 3 real filing table(s) available (see the HTML report).
+    - As of September 30, 2021 and December 31, 2020, we had $ 384 million and $ 46 million of long-term government rebates receivables in Other non-current assets on our consolidated balance sheets.
+    - 11 Net investment in sales-type leases, which is the sum of the present value of the future contractual lease payments, is presented on the consolidated balance sheets as a component of prepaid expenses and other current assets for the current portion and as other non-current assets for the long-term portion.
+    - We account for such non-cash consideration at the time we enter into transactions with our customers in accordance with the non-cash consideration guidance included in the Accounting Standards Codification (“ASC”) 606, Revenue from Contracts with Customers , based on the then current quoted market prices of the digital assets.
+    - During the three and nine months ended September 30, 2021 , we recorded $ 51 million and $ 101 million, respectively, of impairment losses on such digital assets.
+    - As of September 30, 2021, the carrying value of our digital assets held was $ 1.26 billion , which reflects cumulative impairments of $ 101 million.
+    - The fair market value of such digital assets held as of September 30, 2021 was $ 1.83 billion.
+    - Accordingly, our interest rate swaps are recorded at fair value on the consolidated balance sheets within Other non-current assets or Other long-term liabilities, with any changes in their fair values recognized as Other income (expense), net, in the consolidated statements of operations and with any cash flows recognized as operating activities in the consolidated statements of cash flows.
+    - Our interest rate swaps were classified within Level II of the fair value hierarchy because they were valued using alternative pricing sources or models that utilized market observable inputs, including current and forward interest rates.
+    - As the terms of the arrangement convey a finance lease under ASC 842, Leases , we account for their production equipment as leased assets when production commences.
+    - Completed assets are transferred to their respective asset classes, and depreciation begins when an asset is ready for its intended use.
+    - Interest on outstanding debt is capitalized during periods of significant capital asset construction and amortized over the useful lives of the related assets.
+    - Depreciation on Panasonic production equipment is computed using the units-of-production method whereby capitalized costs are amortized over the total estimated productive life of the respective assets.
+    - As we now expect to settle a portion of the 2024 Notes in the fourth quarter of 2021, we reclassified $ 6 million of the carrying value of the 2024 Notes from debt and finance leases, net of current portion to current portion of debt and finance leases on our consolidated balance sheet as of September 30, 2021.
+    - Non-recourse debt refers to debt that is recourse to only assets of our subsidiaries.
+    - Recourse debt refers to debt that is recourse to our general assets.
+    - Litigation Related to Directors’ Compensation On June 17, 2020, a purported Tesla stockholder filed a derivative action in the Delaware Court of Chancery, purportedly on behalf of Tesla, against certain of Tesla’s current and former directors regarding compensation awards granted to Tesla’s directors, other than Elon Musk, between 2017 and 2020.
+    - The aggregate carrying values of the VIEs’ assets and liabilities, after elimination of any intercompany transactions and balances, in the consolidated balance sheets were as follows (in millions): September 30, December 31, 2021 2020 Assets Current assets Cash and cash equivalents $ 100 $ 87 Accounts receivable, net 44 28 Prepaid expenses and other current assets 144 105 Total current assets 288 220 Solar energy systems, net 4,605 4,749 Other non-current assets 204 182 Total assets $ 5,097 $ 5,151 Liabilities Current liabilities Accrued liabilities and other $ 72 $ 63 Deferred revenue 11 11 Customer deposits — 14 Current portion of debt and finance leases 1,057 797 Total current liabilities 1,140 885 Deferred revenue, net of current portion 166 168 Debt and finance leases, net of current portion 2,286 1,346 Other long-term liabilities 15 19 Total liabilities $ 3,607 $ 2,418 28
+    - None of the assets of the funds had been pledged as collateral for their obligations.
+    - In particular, our wholly owned subsidiaries and fund investors have formed and contributed cash and assets into various financing funds and entered into related agreements.
+  [Risk Factors]
+    - In January 2021, we updated our investment policy to provide us with more flexibility to further diversify and maximize returns on our cash that is not required to maintain adequate operating liquidity, allowing us to invest a portion of such cash in certain alternative reserve assets including digital assets, gold bullion, gold exchange-traded funds and other assets as specified in the future.
+    - Moreover, digital assets are currently considered indefinite-lived intangible assets under applicable accounting rules, meaning that any decrease in their fair values below our carrying values for such assets at any time subsequent to their acquisition will require us to recognize impairment charges, whereas we may make no upward revisions for any market price increases until a sale, which may adversely affect our operating results in any period in which such impairment occurs.
+    - Finally, as intangible assets without centralized issuers or governing bodies, digital assets have been, and may in the future be, subject to security breaches, cyberattacks or other malicious activities, as well as human errors or computer malfunctions that may result in the loss or destruction of private keys needed to access such assets.
+    - For example, the prevalence of such assets is a relatively recent trend, and their long-term adoption by investors, consumers and businesses is unpredictable.
+    - Finally, the extent to which securities laws or other regulations apply or may apply in the future to such assets is unclear and may change in the future.
+    - The prices of digital assets have been in the past and may continue to be highly volatile, including as a result of various associated risks and uncertainties.
+
+=== Q4 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - As of December 31, 2021, we had recorded a full valuation allowance on our net U.S. deferred tax assets because we expect that it is more likely than not that our U.S. deferred tax assets will not be realized.
+    - Additionally, net cash outflows related to digital assets were $1.23 billion in the year ended December 31, 2021 from purchases of digital assets for $1.50 billion offset by proceeds from sales of digital assets of $272 million.
+    - The decrease in our net operating assets and liabilities was mainly driven by a larger increase of accounts payable and accrued liabilities in the year ended December 31, 2021 as compared to the prior year from ramp up in production at Gigafactory Shanghai and the Fremont Factory.
+    - Accordingly, we believe that our current sources of funds will provide us with adequate liquidity during the 12-month period following December 31, 2021, as well as in the long-term.
+    - We have assessed the impact and are not aware of any specific events or circumstances that required an update to our estimates and assumptions or materially affected the carrying value of our assets or liabilities as of the date of issuance of this Annual Report on Form 10-K.
+    - This increase was primarily due to the increase in net income excluding non-cash expenses and gains of $5.22 billion and the overall decrease in net operating assets and liabilities of $334 million.
+  [Financial Statements]
+    - Current Assets: $27.10B | vs prior quarter: — | vs prior year: $26.72B (+1.4%)
+  [Footnotes]
+    - 3 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - In January 2021, we updated our investment policy to provide us with more flexibility to further diversify and maximize returns on our cash that is not required to maintain adequate operating liquidity, allowing us to invest a portion of such cash in certain alternative reserve assets including digital assets, gold bullion, gold exchange-traded funds and other assets as specified in the future.
+    - 22 The prices of digital assets have been in the past and may continue to be highly volatile, including as a result of various associated risks and uncertainties.
+    - Any reductions or terminations of such incentives may harm our business, prospects, financial condition and operating results by making our products less competitive for customers, 24 increasing our cost of capital and adversely impacting our ability to attract investment partners and to form new financing funds for our solar and energy storage assets.
+    - Moreover, digital assets are currently considered indefinite-lived intangible assets under applicable accounting rules, meaning that any decrease in their fair values below our carrying values for such assets at any time subsequent to their acquisition will require us to recognize impairment charges, whereas we may make no upward revisions for any market price increases until a sale, which may adversely affect our operating results in any period in which such impairment occurs.
+    - Finally, as intangible assets without centralized issuers or governing bodies, digital assets have been, and may in the future be, subject to security breaches, cyberattacks or other malicious activities, as well as human errors or computer malfunctions that may result in the loss or destruction of private keys needed to access such assets.
+    - For example, the prevalence of such assets is a relatively recent trend, and their long-term adoption by investors, consumers and businesses is unpredictable.
+
+=== Q1 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - The increase in our net operating assets and liabilities was mainly driven by a larger increase of inventory in the three months ended March 31, 2022 as compared to the three months ended March 31, 2021 to support the ramp up in production at our factories and a larger increase in other non-current assets.
+    - In the first quarter of 2021, we invested an aggregate $1.50 billion in digital assets.
+    - The fair market value of such digital assets held as of March 31, 2022 was $1.96 billion.
+    - Additionally, net cash outflows related to digital assets were $1.23 billion in the three months ended March 31, 2021 from purchases of digital assets of $1.50 billion offset by proceeds from sales of digital assets of $272 million.
+    - Accordingly, we believe that our current sources of funds will provide us with adequate liquidity during the 12-month period following March 31, 2022, as well as in the long-term.
+    - See Note 3, Digital Assets, Net , to the consolidated financial statements included elsewhere in this Quarterly Report on Form 10-Q for further details.
+  [Financial Statements]
+    - Current Assets: $29.05B | vs prior quarter: — | vs prior year: $24.70B (+17.6%)
+    - 2 real filing table(s) available (see the HTML report).
+    - Tesla, Inc. C onsolidated Balance Sheets (in millions, except per share data) (unaudited) March 31, December 31, 2022 2021 Assets Current assets Cash and cash equivalents $ 17,505 $ 17,576 Short-term marketable securities 508 131 Accounts receivable, net 2,311 1,913 Inventory 6,691 5,757 Prepaid expenses and other current assets 2,035 1,723 Total current assets 29,050 27,100 Operating lease vehicles, net 4,745 4,511 Solar energy systems, net 5,686 5,765 Property, plant and equipment, net 20,027 18,884 Operating lease right-of-use assets 2,181 2,016 Digital assets, net 1,261 1,260 Intangible assets, net 254 257 Goodwill 200 200 Other non-current assets 2,634 2,138 Total assets $ 66,038 $ 62,131 Liabilities Current liabilities Accounts payable $ 11,171 $ 10,025 Accrued liabilities and other 5,906 5,719 Deferred revenue 1,594 1,447 Customer deposits 1,125 925 Current portion of debt and finance leases 1,659 1,589 Total current liabilities 21,455 19,705 Debt and finance leases, net of current portion 3,153 5,245 Deferred revenue, net of current portion 2,185 2,052 Other long-term liabilities 3,839 3,546 Total liabilities 30,632 30,548 Commitments and contingencies (Note 12) Redeemable noncontrolling interests in subsidiaries 459 568 Equity Stockholders’ equity Preferred stock; $ 0.001 par value; 100 shares authorized; no shares issued and outstanding — — Common stock; $ 0.001 par value; 2,000 shares authorized; 1,036 and 1,033 shares issued and outstanding as of March 31, 2022 and December 31, 2021, respectively 1 1 Additional paid-in capital 30,485 29,803 Accumulated other comprehensive (loss) income ( 50 ) 54 Retained earnings 3,649 331 Total stockholders’ equity 34,085 30,189 Noncontrolling interests in subsidiaries 862 826 Total liabilities and equity $ 66,038 $ 62,131 The accompanying notes are an integral part of these consolidated financial statements.
+  [Footnotes]
+    - 3 real filing table(s) available (see the HTML report).
+    - As of March 31, 2022 and December 31, 2021 , we had $ 703 million and $ 627 million, respectively, of long-term government rebates receivable in Other non-current assets on our consolidated balance sheets.
+    - Net investment in sales-type leases, which is the sum of the present value of the future contractual lease payments, is presented on the consolidated balance sheets as a component of Prepaid expenses and other current assets for the current portion and as Other non-current assets for the long-term portion.
+    - We record restricted cash as other assets in the consolidated balance sheets and determine current or non-current classification based on the expected duration of the restriction.
+    - 2021-08, Accounting for Contract Assets and Contract Liabilities from Contracts with Customers (Topic 805).
+    - During the three months ended March 31, 2022 and 2021, the impairment losses we recorded on such digital assets were immaterial and $ 27 million, respectively.
+    - As of March 31, 2022 and December 31, 2021 , the carrying value of our digital assets held was $ 1.26 billion, which reflects cumulative impairments of $ 101 million, each period.
+    - The fair market value of such digital assets held as of March 31, 2022 was $ 1.96 billion.
+    - During the three months ended March 31, 2022 and 2021, we purchased and/or received an immaterial amount and $ 1.50 billion, respectively, of digital assets.
+    - Accordingly, our interest rate swaps were recorded at fair value on the consolidated balance sheets within Other non-current assets or Other long-term liabilities, with any changes in their fair values recognized as Other income, net, in the consolidated statements of operations and with any cash flows recognized as operating activities in the consolidated statements of cash flows.
+    - Our interest rate swaps were classified within Level II of the fair value hierarchy because they were valued using alternative pricing sources or models that utilized market observable inputs, including current and forward interest rates.
+    - As the terms of the arrangement convey a finance lease under ASC 842, Leases , we account for their production equipment as leased assets when production commences.
+    - Completed assets are transferred to their respective asset classes and depreciation begins when an asset is ready for its intended use.
+    - Interest on outstanding debt is capitalized during periods of significant capital asset construction and amortized over the useful lives of the related assets.
+    - Depreciation on Panasonic production equipment is computed using the units-of-production method whereby capitalized costs are amortized over the total estimated productive life of the respective assets.
+    - Non-recourse debt refers to debt that is recourse to only assets of our subsidiaries.
+    - Recourse debt refers to debt that is recourse to our general assets.
+    - Litigation Related to Directors’ Compensation On June 17, 2020, a purported Tesla stockholder filed a derivative action in the Delaware Court of Chancery, purportedly on behalf of Tesla, against certain of Tesla’s current and former directors regarding compensation awards granted to Tesla’s directors, other than Elon Musk, between 2017 and 2020.
+    - We expect to meet the capital expenditure and tax revenue requirements based on our current level of spend and sales.
+    - The aggregate carrying values of the VIEs’ assets and liabilities, after elimination of any intercompany transactions and balances, in the consolidated balance sheets were as follows (in millions): March 31, December 31, 2022 2021 Assets Current assets Cash and cash equivalents $ 61 $ 79 Accounts receivable, net 32 22 Prepaid expenses and other current assets 172 152 Total current assets 265 253 Solar energy systems, net 3,965 4,108 Other non-current assets 341 265 Total assets $ 4,571 $ 4,626 Liabilities Current liabilities Accrued liabilities and other $ 63 $ 74 Deferred revenue 10 10 Current portion of debt and finance leases 1,153 1,031 Total current liabilities 1,226 1,115 Deferred revenue, net of current portion 144 153 Debt and finance leases, net of current portion 1,727 2,093 Other long-term liabilities 12 11 Total liabilities $ 3,109 $ 3,372 26
+    - None of the assets of the funds had been pledged as collateral for their obligations.
+    - In particular, our wholly owned subsidiaries and fund investors have formed and contributed cash and assets into various financing funds and entered into related agreements.
+  [Risk Factors]
+    - In January 2021, we updated our investment policy to provide us with more flexibility to further diversify and maximize returns on our cash that is not required to maintain adequate operating liquidity, allowing us to invest a portion of such cash in certain alternative reserve assets including digital assets, gold bullion, gold exchange-traded funds and other assets as specified in the future.
+    - We may need or want to raise additional funds through the issuance of equity, equity-related or debt securities or through obtaining credit from financial institutions to fund, together with our principal sources of liquidity, the costs of developing and manufacturing our current or future products, to pay any significant unplanned or accelerated expenses or 48 for new significant strategic investments, or to refinance our significant consolidated indebtedness, even if not required to do so by the terms of such indebtedness.
+    - 46 Further, the implementation, maintenance, segregation and improvement of these systems require significant management time, support and cost, and there are inherent risks associated with developing, improving and expanding our core systems as well as implementing new systems and updating current systems, including disruptions to the related areas of business operation.
+    - Moreover, digital assets are currently considered indefinite-lived intangible assets under applicable accounting rules, meaning that any decrease in their fair values below our carrying values for such assets at any time subsequent to their acquisition will require us to recognize impairment charges, whereas we may make no upward revisions for any market price increases until a sale, which may adversely affect our operating results in any period in which such impairment occurs.
+    - Finally, as intangible assets without centralized issuers or governing bodies, digital assets have been, and may in the future be, subject to security breaches, cyberattacks or other malicious activities, as well as human errors or computer malfunctions that may result in the loss or destruction of private keys needed to access such assets.
+    - For example, the prevalence of such assets is a relatively recent trend, and their long-term adoption by investors, consumers and businesses is unpredictable.
+
+=== Q2 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - The increase in our net operating assets and liabilities was mainly driven by a larger increase of inventory in the six months ended June 30, 2022 as compared to the six months ended June 30, 2021 to support the ramp up in production at our factories and a larger increase in other non-current assets.
+    - The fair market value of our remaining holdings of digital assets as of June 30, 2022 was $222 million.
+    - In the first quarter of 2021, we invested an aggregate $1.50 billion in digital assets.
+    - Additionally, net cash inflows related to digital assets were $936 million in the six months ended June 30, 2022 from sales of digital assets.
+    - During the six months ended June 30, 2021, we realized gains of $128 million in connection with converting our holdings of digital assets into fiat currency.
+  [Financial Statements]
+    - Current Assets: $31.22B | vs prior quarter: $29.05B (+7.5%) | vs prior year: $24.69B (+26.4%)
+    - 2 real filing table(s) available (see the HTML report).
+    - Tesla, Inc. C onsolidated Balance Sheets (in millions, except per share data) (unaudited) June 30, December 31, 2022 2021 Assets Current assets Cash and cash equivalents $ 18,324 $ 17,576 Short-term marketable securities 591 131 Accounts receivable, net 2,081 1,913 Inventory 8,108 5,757 Prepaid expenses and other current assets 2,118 1,723 Total current assets 31,222 27,100 Operating lease vehicles, net 4,782 4,511 Solar energy systems, net 5,624 5,765 Property, plant and equipment, net 21,093 18,884 Operating lease right-of-use assets 2,185 2,016 Digital assets, net 218 1,260 Intangible assets, net 241 257 Goodwill 196 200 Other non-current assets 2,952 2,138 Total assets $ 68,513 $ 62,131 Liabilities Current liabilities Accounts payable $ 11,212 $ 10,025 Accrued liabilities and other 6,037 5,719 Deferred revenue 1,858 1,447 Customer deposits 1,182 925 Current portion of debt and finance leases 1,532 1,589 Total current liabilities 21,821 19,705 Debt and finance leases, net of current portion 2,898 5,245 Deferred revenue, net of current portion 2,210 2,052 Other long-term liabilities 3,926 3,546 Total liabilities 30,855 30,548 Commitments and contingencies (Note 12) Redeemable noncontrolling interests in subsidiaries 421 568 Equity Stockholders’ equity Preferred stock; $ 0.001 par value; 100 shares authorized; no shares issued and outstanding — — Common stock; $ 0.001 par value; 2,000 shares authorized; 1,041 and 1,033 shares issued and outstanding as of June 30, 2022 and December 31, 2021, respectively 1 1 Additional paid-in capital 30,944 29,803 Accumulated other comprehensive (loss) income ( 477 ) 54 Retained earnings 5,908 331 Total stockholders’ equity 36,376 30,189 Noncontrolling interests in subsidiaries 861 826 Total liabilities and equity $ 68,513 $ 62,131 The accompanying notes are an integral part of these consolidated financial statements.
+  [Footnotes]
+    - 3 real filing table(s) available (see the HTML report).
+    - We have recorded net financing receivables of $ 238 million which are presented on the consolidated balance sheets as a component of Accounts receivable, net, for the current portion and as Other non-current assets for the long-term portion, as of June 30, 2022.
+    - We have recorded net financing receivables of $ 320 million which are presented on the consolidated balance sheets as a component of Accounts receivable, net, for the current portion and as Other non-current assets for the long-term portion, as of June 30, 2022.
+    - As of June 30, 2022 and December 31, 2021 , we had $ 759 million and $ 627 million, respectively, of long-term government rebates receivable in Other non-current assets on our consolidated balance sheets.
+    - Net investment in sales-type leases, which is the sum of the present value of the future contractual lease payments, is presented on the consolidated balance sheets as a component of Prepaid expenses and other current assets for the current portion and as Other non-current assets for the long-term portion.
+    - During the three and six months ended June 30, 2021 , we recorded $ 23 million and $ 50 million, respectively, of impairment losses on such digital assets.
+    - During the three and six months ended June 30, 2022 , we recorded impairment loss of $ 170 million as well as realized gains of $ 64 million in connection with converting our holdings of digital assets into fiat currency.
+    - As of June 30, 2022 and December 31, 2021 , the carrying value of our digital assets held was $ 218 million and $ 1.26 billion, which reflects cumulative impairments of $ 169 million and $ 101 million, each period, respectively.
+    - The fair market value of such digital assets held as of June 30, 2022 was $ 222 million.
+    - During the six months ended June 30, 2022 and 2021 , we purchased and/or received an immaterial amount and $ 1.50 billion, respectively, of digital assets.
+    - During the six months ended June 30, 2021, we realized gains of $ 128 million in connection with converting our holdings of digital assets into fiat currency.
+    - Accordingly, our interest rate swaps were recorded at fair value on the consolidated balance sheets within Other non-current assets or Other long-term liabilities, with any changes in their fair values recognized as Other income, net, in the consolidated statements of operations and with any cash flows recognized as operating activities in the consolidated statements of cash flows.
+    - Our interest rate swaps were classified within Level II of the fair value hierarchy because they were valued using alternative pricing sources or models that utilized market observable inputs, including current and forward interest rates.
+    - As the terms of the arrangement convey a finance lease under ASC 842, Leases , we account for their production equipment as leased assets when production commences.
+    - Completed assets are transferred to their respective asset classes and depreciation begins when an asset is ready for its intended use.
+    - Interest on outstanding debt is capitalized during periods of significant capital asset construction and amortized over the useful lives of the related assets.
+    - Depreciation on Panasonic production equipment is computed using the units-of-production method whereby capitalized costs are amortized over the total estimated productive life of the respective assets.
+    - Non-recourse debt refers to debt that is recourse to only assets of our subsidiaries.
+    - Recourse debt refers to debt that is recourse to our general assets.
+    - On June 16, 2022, two Tesla stockholders filed separate derivative actions in the U.S. District Court for the Western District of Texas, purportedly on behalf of Tesla, against certain of Tesla’s current and former directors.
+    - Litigation Related to Directors’ Compensation On June 17, 2020, a purported Tesla stockholder filed a derivative action in the Delaware Court of Chancery, purportedly on behalf of Tesla, against certain of Tesla’s current and former directors regarding compensation awards granted to Tesla’s directors, other than Elon Musk, between 2017 and 2020.
+    - We expect to meet the capital expenditure and tax revenue requirements based on our current level of spend and sales.
+    - 27 The aggregate carrying values of the VIEs’ assets and liabilities, after elimination of any intercompany transactions and balances, in the consolidated balance sheets were as follows (in millions): June 30, December 31, 2022 2021 Assets Current assets Cash and cash equivalents $ 65 $ 79 Accounts receivable, net 45 22 Prepaid expenses and other current assets 301 152 Total current assets 411 253 Solar energy systems, net 3,924 4,108 Other non-current assets 388 265 Total assets $ 4,723 $ 4,626 Liabilities Current liabilities Accrued liabilities and other $ 66 $ 74 Deferred revenue 10 10 Current portion of debt and finance leases 1,045 1,031 Total current liabilities 1,121 1,115 Deferred revenue, net of current portion 143 153 Debt and finance leases, net of current portion 1,592 2,093 Other long-term liabilities 11 11 Total liabilities $ 2,867 $ 3,372
+    - None of the assets of the funds had been pledged as collateral for their obligations.
+    - In particular, our wholly owned subsidiaries and fund investors have formed and contributed cash and assets into various financing funds and entered into related agreements.
+  [Risk Factors]
+    - In January 2021, we updated our investment policy to provide us with more flexibility to further diversify and maximize returns on our cash that is not required to maintain adequate operating liquidity, allowing us to invest a portion of such cash in certain alternative reserve assets including digital assets, gold bullion, gold exchange-traded funds and other assets as specified in the future.
+    - 52 The prices of digital assets have been in the past and may continue to be highly volatile, including as a result of various associated risks and uncertainties.
+    - Moreover, digital assets are currently considered indefinite-lived intangible assets under applicable accounting rules, meaning that any decrease in their fair values below our carrying values for such assets at any time subsequent to their acquisition will require us to recognize impairment charges, whereas we may make no upward revisions for any market price increases until a sale, which may adversely affect our operating results in any period in which such impairment occurs.
+    - Finally, as intangible assets without centralized issuers or governing bodies, digital assets have been, and may in the future be, subject to security breaches, cyberattacks or other malicious activities, as well as human errors or computer malfunctions that may result in the loss or destruction of private keys needed to access such assets.
+    - For example, the prevalence of such assets is a relatively recent trend, and their long-term adoption by investors, consumers and businesses is unpredictable.
+    - Finally, the extent to which securities laws or other regulations apply or may apply in the future to such assets is unclear and may change in the future.
+
+=== Q3 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - The increase in our net operating assets and liabilities was mainly driven by a larger increase of inventory in the nine months ended September 30, 2022 as compared to the nine months ended September 30, 2021, partially offset by a larger increase of accounts payable and accrued liabilities, to support the ramp up in production at our factories and a larger increase in other non-current assets.
+    - The fair market value of our remaining holdings of digital assets as of September 30, 2022 was $226 million.
+    - During the nine months ended September 30, 2022 and 2021, we realized gains of $64 million and $128 million, respectively, in connection with converting our holdings of digital assets into fiat currency.
+    - Additionally, net cash inflows related to sales of digital assets were $936 million in the nine months ended September 30, 2022.
+    - Accordingly, we believe that our current sources of funds will provide us with adequate liquidity during the 12-month period following September 30, 2022, as well as in the long-term.
+  [Financial Statements]
+    - Current Assets: $35.99B | vs prior quarter: $31.22B (+15.3%) | vs prior year: $25.00B (+43.9%)
+    - 2 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 3 real filing table(s) available (see the HTML report).
+    - Tesla, Inc. C onsolidated Balance Sheets (in millions, except per share data) (unaudited) September 30, December 31, 2022 2021 Assets Current assets Cash and cash equivalents $ 19,532 $ 17,576 Short-term marketable securities 1,575 131 Accounts receivable, net 2,192 1,913 Inventory 10,327 5,757 Prepaid expenses and other current assets 2,364 1,723 Total current assets 35,990 27,100 Operating lease vehicles, net 4,824 4,511 Solar energy systems, net 5,562 5,765 Property, plant and equipment, net 21,926 18,884 Operating lease right-of-use assets 2,251 2,016 Digital assets, net 218 1,260 Intangible assets, net 228 257 Goodwill 191 200 Other non-current assets 3,236 2,138 Total assets $ 74,426 $ 62,131 Liabilities Current liabilities Accounts payable $ 13,897 $ 10,025 Accrued liabilities and other 6,246 5,719 Deferred revenue 1,928 1,447 Customer deposits 1,083 925 Current portion of debt and finance leases 1,457 1,589 Total current liabilities 24,611 19,705 Debt and finance leases, net of current portion 2,096 5,245 Deferred revenue, net of current portion 2,265 2,052 Other long-term liabilities 4,330 3,546 Total liabilities 33,302 30,548 Commitments and contingencies (Note 12) Redeemable noncontrolling interests in subsidiaries 421 568 Equity Stockholders’ equity Preferred stock; $ 0.001 par value; 100 shares authorized; no shares issued and outstanding — — Common stock; $ 0.001 par value; 6,000 shares authorized; 3,158 and 3,100 shares issued and outstanding as of September 30, 2022 and December 31, 2021, respectively (1) 3 3 Additional paid-in capital 31,592 29,803 Accumulated other comprehensive (loss) income ( 942 ) 54 Retained earnings (1) 9,198 329 Total stockholders’ equity 39,851 30,189 Noncontrolling interests in subsidiaries 852 826 Total liabilities and equity $ 74,426 $ 62,131 (1) Prior period results have been adjusted to reflect the three -for-one stock split effected in the form of a stock dividend in August 2022 .
+    - We have recorded net financing receivables on the consolidated balance sheets, of which $ 18 million is recorded within Accounts receivable, net, for the current portion and $ 307 million is recorded within Other non-current assets for the long-term portion, as of September 30, 2022.
+    - We have recorded net financing receivables on the consolidated balance sheets, of which $ 76 million is recorded within Accounts receivable, net, for the current portion and $ 398 million is recorded within Other non-current assets for the long-term portion, as of September 30, 2022.
+    - As of September 30, 2022 and December 31, 2021 , we had $ 671 million and $ 627 million, respectively, of long-term government rebates receivable in Other non-current assets on our consolidated balance sheets.
+    - Net investment in sales-type leases, which is the sum of the present value of the future contractual lease payments, is presented on the consolidated balance sheets as a component of Prepaid expenses and other current assets for the current portion and as Other non-current assets for the long-term portion.
+    - During the nine months ended September 30, 2022, we recorded $ 170 million of impairment losses on such digital assets, and $ 51 million and $ 101 million during the three and nine months ended September 30, 2021, respectively.
+    - As of September 30, 2022 and December 31, 2021 , the carrying value of our digital assets held was $ 218 million and $ 1.26 billion , which reflects cumulative impairments of $ 169 million and $ 101 million, each period, respectively.
+    - The fair market value of such digital assets held as of September 30, 2022 was $ 226 million.
+    - During the nine months ended September 30, 2022 and 2021, we purchased and/or received an immaterial amount and $ 1.50 billion, respectively, of digital assets.
+    - During the nine months ended September 30, 2022 and 2021, we realized gains of $ 64 million and $ 128 million, respectively, in connection with converting our holdings of digital assets into fiat currency.
+    - Accordingly, our interest rate swaps were recorded at fair value on the consolidated balance sheets within Other non-current assets or Other long-term liabilities, with any changes in their fair values recognized as Other (expense) income, net, in the consolidated statements of operations and with any cash flows recognized as operating activities in the consolidated statements of cash flows.
+    - Our interest rate swaps were classified within Level II of the fair value hierarchy because they were valued using alternative pricing sources or models that utilized market observable inputs, including current and forward interest rates.
+    - As the terms of the arrangement convey a finance lease under ASC 842, Leases , we account for their production equipment as leased assets when production commences.
+    - Completed assets are transferred to their respective asset classes and depreciation begins when an asset is ready for its intended use.
+    - Interest on outstanding debt is capitalized during periods of significant capital asset construction and amortized over the useful lives of the related assets.
+    - Depreciation on Panasonic production equipment is computed using the units-of-production method whereby capitalized costs are amortized over the total estimated productive life of the respective assets.
+    - Non-recourse debt refers to debt that is recourse to only assets of our subsidiaries.
+    - Recourse debt refers to debt that is recourse to our general assets.
+    - On June 16, 2022, two Tesla stockholders filed separate derivative actions in the U.S. District Court for the Western District of Texas, purportedly on behalf of Tesla, against certain of Tesla’s current and former directors.
+    - Litigation Related to Directors’ Compensation On June 17, 2020, a purported Tesla stockholder filed a derivative action in the Delaware Court of Chancery, purportedly on behalf of Tesla, against certain of Tesla’s current and former directors regarding compensation awards granted to Tesla’s directors, other than Elon Musk, between 2017 and 2020.
+    - We expect to meet the capital expenditure and tax revenue requirements based on our current level of spend and sales.
+    - 27 The aggregate carrying values of the VIEs’ assets and liabilities, after elimination of any intercompany transactions and balances, in the consolidated balance sheets were as follows (in millions): September 30, December 31, 2022 2021 Assets Current assets Cash and cash equivalents $ 69 $ 79 Accounts receivable, net 38 22 Prepaid expenses and other current assets 409 152 Total current assets 516 253 Solar energy systems, net 3,882 4,108 Other non-current assets 401 265 Total assets $ 4,799 $ 4,626 Liabilities Current liabilities Accrued liabilities and other $ 73 $ 74 Deferred revenue 9 10 Current portion of debt and finance leases 976 1,031 Total current liabilities 1,058 1,115 Deferred revenue, net of current portion 142 153 Debt and finance leases, net of current portion 1,341 2,093 Other long-term liabilities 8 11 Total liabilities $ 2,549 $ 3,372
+    - None of the assets of the funds had been pledged as collateral for their obligations.
+    - In particular, our wholly owned subsidiaries and fund investors have formed and contributed cash and assets into various financing funds and entered into related agreements.
+  [Risk Factors]
+    - In January 2021, we updated our investment policy to provide us with more flexibility to further diversify and maximize returns on our cash that is not required to maintain adequate operating liquidity, allowing us to invest a portion of such cash in certain alternative reserve assets including digital assets, gold bullion, gold exchange-traded funds and other assets as specified in the future.
+    - Moreover, digital assets are currently considered indefinite-lived intangible assets under applicable accounting rules, meaning that any decrease in their fair values below our carrying values for such assets at any time subsequent to their acquisition will require us to recognize impairment charges, whereas we may make no upward revisions for any market price increases until a sale, which may adversely affect our operating results in any period in which such impairment occurs.
+    - Finally, as intangible assets without centralized issuers or governing bodies, digital assets have been, and may in the future be, subject to security breaches, cyberattacks or other malicious activities, as well as human errors or computer malfunctions that may result in the loss or destruction of private keys needed to access such assets.
+    - For example, the prevalence of such assets is a relatively recent trend, and their long-term adoption by investors, consumers and businesses is unpredictable.
+    - Finally, the extent to which securities laws or other regulations apply or may apply in the future to such assets is unclear and may change in the future.
+    - The prices of digital assets have been in the past and may continue to be highly volatile, including as a result of various associated risks and uncertainties.
+
+=== Q4 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - The increase in our net operating assets and liabilities was mainly driven by a larger increase of inventory in the year ended December 31, 2022 as compared to the year ended December 31, 2021, partially offset by a larger increase of accounts payable and accrued liabilities, to support the ramp up in production at our factories and larger increases in other non-current assets and prepaid expenses and other current assets.
+    - As of December 31, 2022, we had recorded a full valuation allowance on our net U.S. deferred tax assets because we expect that it is more likely than not that our U.S. deferred tax assets will not be realized.
+    - Additionally, cash inflows related to sales of digital assets were $936 million in the year ended December 31, 2022, and net cash outflows related to digital assets were $1.23 billion in the year ended December 31, 2021 from purchases of digital assets for $1.50 billion offset by proceeds from sales of digital assets of $272 million.
+    - During the years ended December 31, 2022 and 2021, we also realized gains of $64 million and $128 million, respectively, in connection with converting our holdings of digital assets into fiat currency.
+    - Accordingly, we believe that our current sources of funds will provide us with adequate liquidity during the 12-month period following December 31, 2022, as well as in the long-term.
+  [Financial Statements]
+    - Current Assets: $40.92B | vs prior quarter: — | vs prior year: $27.10B (+51.0%)
+    - 2 real filing table(s) available (see the HTML report).
+    - A company’s internal control over financial reporting includes those policies and procedures that (i) pertain to the maintenance of records that, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the company; (ii) provide reasonable assurance that transactions are recorded as necessary to permit preparation of financial statements in accordance with generally accepted accounting principles, and that receipts and expenditures of the company are being made only in accordance with authorizations of management and directors of the company; and (iii) provide reasonable assurance regarding prevention or timely detection of unauthorized acquisition, use, or disposition of the company’s assets that could have a material effect on the financial statements.
+  [Footnotes]
+    - 3 real filing table(s) available (see the HTML report).
+    - 47 Tesla, Inc. Consolidated Balance Sheets (in millions, except per share data) December 31, December 31, 2022 2021 Assets Current assets Cash and cash equivalents $ 16,253 $ 17,576 Short-term investments 5,932 131 Accounts receivable, net 2,952 1,913 Inventory 12,839 5,757 Prepaid expenses and other current assets 2,941 1,723 Total current assets 40,917 27,100 Operating lease vehicles, net 5,035 4,511 Solar energy systems, net 5,489 5,765 Property, plant and equipment, net 23,548 18,884 Operating lease right-of-use assets 2,563 2,016 Digital assets, net 184 1,260 Intangible assets, net 215 257 Goodwill 194 200 Other non-current assets 4,193 2,138 Total assets $ 82,338 $ 62,131 Liabilities Current liabilities Accounts payable $ 15,255 $ 10,025 Accrued liabilities and other 7,142 5,719 Deferred revenue 1,747 1,447 Customer deposits 1,063 925 Current portion of debt and finance leases 1,502 1,589 Total current liabilities 26,709 19,705 Debt and finance leases, net of current portion 1,597 5,245 Deferred revenue, net of current portion 2,804 2,052 Other long-term liabilities 5,330 3,546 Total liabilities 36,440 30,548 Commitments and contingencies (Note 15) Redeemable noncontrolling interests in subsidiaries 409 568 Equity Stockholders’ equity Preferred stock; $ 0.001 par value; 100 shares authorized; no shares issued and outstanding — — Common stock; $ 0.001 par value; 6,000 shares authorized; 3,164 and 3,100 shares issued and outstanding as of December 31, 2022 and December 31, 2021, respectively (1) 3 3 Additional paid-in capital 32,177 29,803 Accumulated other comprehensive (loss) income ( 361 ) 54 Retained earnings (1) 12,885 329 Total stockholders’ equity 44,704 30,189 Noncontrolling interests in subsidiaries 785 826 Total liabilities and equity $ 82,338 $ 62,131 (1) Prior period results have been adjusted to reflect the three -for-one stock split effected in the form of a stock dividend in August 2022 .
+    - Critical Audit Matters The critical audit matter communicated below is a matter arising from the current period audit of the consolidated financial statements that was communicated or required to be communicated to the audit committee and that (i) relates to accounts or disclosures that are material to the consolidated financial statements and (ii) involved our especially challenging, subjective, or complex judgments.
+    - We have recorded net financing receivables on the consolidated balance sheets, of which $ 24 million is recorded within Accounts receivable, net, for the current portion and $ 387 million is recorded within Other non-current assets for the long-term portion, as of December 31, 2022.
+    - We have recorded net financing receivables on the consolidated balance sheets, of which $ 128 million is recorded within Accounts receivable, net, for the current portion and $ 665 million is recorded within Other non-current assets for the long-term portion, as of December 31, 2022.
+    - As of December 31, 2022 and December 31, 2021 , we had $ 753 million and $ 627 million, respectively, of long-term government rebates receivable in Other non-current assets in our consolidated balance sheets.
+    - 62 Digital Assets, Net We currently account for all digital assets held as indefinite-lived intangible assets in accordance with ASC 350, Intangibles—Goodwill and Other .
+    - During the years ended December 31, 2022 and 2021 , we recorded $ 204 million and $ 101 million of impairment losses on such digital assets, respectively.
+    - As of December 31, 2022 and 2021, the carrying value of our digital assets held was $ 184 million and $ 1.26 billion , which reflects cumulative impairments of $ 204 million and $ 101 million, each period, respectively.
+    - The fair market value of such digital assets held as of December 31, 2022 and 2021 was $ 191 million and $ 1.99 billion, respectively.
+    - During the years ended December 31, 2022 and 2021, we purchased and/or received an immaterial amount and $ 1.50 billion, respectively, of digital assets.
+    - During the years ended December 31, 2022 and 2021 , we realized gains of $ 64 million and $ 128 million, respectively, in connection with converting our holdings of digital assets into fiat currency.
+    - The net carrying value of our intangible assets decreased from $ 257 million as of December 31, 2021 to $ 215 million as of December 31, 2022 mainly from amortization.
+    - Our interest rate swaps were classified within Level II of the fair value hierarchy because they were valued using alternative pricing sources or models that utilized market observable inputs, including current and forward interest rates.
+    - As the terms of the arrangement convey a finance lease under ASC 842, we account for their production equipment as leased assets when production commences.
+    - Completed assets are transferred to their respective asset classes and depreciation begins when an asset is ready for its intended use.
+    - Interest on outstanding debt is capitalized during periods of significant capital asset construction and amortized over the useful lives of the related assets.
+    - Depreciation on Panasonic production equipment is computed using the units-of-production method whereby capitalized costs are amortized over the total estimated productive life of the respective assets.
+    - Pledged Assets As of December 31, 2022 and 2021, we had pledged or restricted $ 2.02 billion and $ 5.25 billion of our assets (consisting principally of restricted cash, receivables, inventory, solar energy systems, operating lease vehicles, property and equipment and equity interests in certain SPEs) as collateral for our outstanding debt.
+    - As of December 31, 2022, solar assets pledged as collateral for Solar Asset and Loan-backed Notes had a carrying value of $ 69 million and are included within Solar energy systems, net, on the consolidated balance sheet.
+    - 73 Automotive Asset-backed Notes From time to time, we transfer receivables or beneficial interests related to certain leased vehicles into special purpose entities (“SPEs”) and issue Automotive Asset-backed Notes, backed by these automotive assets to investors.
+    - Early conversion of notes which are scheduled to settle in the following quarter are classified as current in our consolidated balance sheets.
+    - The cash flows generated by these automotive assets are used to service the principal and interest payments on the Automotive Asset-backed Notes and satisfy the SPEs’ expenses, and any remaining cash is distributed to the owners of the SPEs.
+    - Net Investment in Sales-type Leases Net investment in sales-type leases, which is the sum of the present value of the future contractual lease payments, is presented on the consolidated balance sheets as a component of Prepaid expenses and other current assets for the current portion and as Other non-current assets for the long-term portion.
+    - All other lease assets and lease liabilities are recognized based on the present value of lease payments over the lease term at commencement date.
+    - Amortization of finance lease assets is recognized over the lease term as cost of revenues or operating expenses depending on the nature of the leased asset.
+    - We have $ 532 million of deferred tax assets in foreign jurisdictions, which management believes are more-likely-than-not to be realized given the expectation of future earnings in these jurisdictions.
+    - Release of all, or a portion, of the valuation allowance would result in the recognition of certain deferred tax assets and a decrease to income tax expense for the period the release is recorded.
+    - After evaluating all available evidence, we intend to continue maintaining a full valuation allowance on our U.S. deferred tax assets until there is sufficient evidence to support the reversal of all or some portion of these allowances.
+    - Given the improvement in our operating results and depending on the amount of stock-based compensation tax deductions available in the future, we may release the valuation allowance associated with the U.S. deferred tax assets in the next few years.
+    - On June 16, 2022, two Tesla stockholders filed separate derivative actions in the U.S. District Court for the Western District of Texas, purportedly on behalf of Tesla, against certain of Tesla’s current and former directors.
+    - 84 Litigation Related to Directors’ Compensation On June 17, 2020, a purported Tesla stockholder filed a derivative action in the Delaware Court of Chancery, purportedly on behalf of Tesla, against certain of Tesla’s current and former directors regarding compensation awards granted to Tesla’s directors, other than Elon Musk, between 2017 and 2020.
+    - We expect to meet the capital expenditure and tax revenue requirements based on our current level of spend and sales.
+    - The aggregate carrying values of the VIEs’ assets and liabilities, after elimination of any intercompany transactions and balances, in the consolidated balance sheets were as follows (in millions): December 31, December 31, 2022 2021 Assets Current assets Cash and cash equivalents $ 68 $ 87 Accounts receivable, net 22 24 Prepaid expenses and other current assets 274 152 Total current assets 364 263 Solar energy systems, net 4,060 4,515 Other non-current assets 404 276 Total assets $ 4,828 $ 5,054 Liabilities Current liabilities Accrued liabilities and other $ 69 $ 74 Deferred revenue 10 11 Current portion of debt and finance leases 1,013 1,031 Total current liabilities 1,092 1,116 Deferred revenue, net of current portion 149 161 Debt and finance leases, net of current portion 971 2,093 Other long-term liabilities 3 11 Total liabilities $ 2,215 $ 3,381
+    - Certain assets of the funds have been pledged as collateral for their obligations.
+    - In particular, our wholly owned subsidiaries and fund investors have formed and contributed cash and assets into various financing funds and entered into related agreements.
+    - During the years ended December 31, 2022 and 2021 , we recorded $ 204 million and $ 101 million, respectively, of impairment losses on digital assets.
+    - During the years ended December 31, 2022 and 2021 , we also realized gains of $ 64 million and $ 128 million, respectively, in connection with converting our holdings of digital assets into fiat currency.
+  [Risk Factors]
+    - We may need or want to raise additional funds through the issuance of equity, equity-related or debt securities or through obtaining credit from financial institutions to fund, together with our principal sources of liquidity, the costs of developing and manufacturing our current or future products, to pay any significant unplanned or accelerated expenses or for new significant strategic investments, or to refinance our significant consolidated indebtedness, even if not required to do so by the terms of such indebtedness.
+    - If a significant number of our customers default, we may incur substantial credit losses and/or impairment charges with respect to the underlying assets.
+    - Any reductions or terminations of such incentives may harm our business, prospects, financial condition and operating results by making our products less competitive for customers, increasing our cost of capital and adversely impacting our ability to attract investment partners and to form new financing funds for our solar and energy storage assets.
+    - Our current and future warranty reserves may be insufficient to cover future warranty claims.
+    - Any delay or other complication in ramping the production of our current products or the development, manufacture, launch and production ramp of our future products, features and services, or in doing so cost-effectively and with high quality, may harm our brand, business, prospects, financial condition and operating results.
+    - If we are unable to generate such cash flow, we may be required to adopt one or more alternatives, such as reducing or delaying investments or capital expenditures, selling assets, refinancing or obtaining additional equity capital on terms that may be onerous or highly dilutive.
+
