@@ -1,0 +1,577 @@
+[GUIDANCE VS ACTUAL] TSLA: company-wide anchor year 2020
+
+Coverage window: [2019, 2021]
+Coverage state: covered for the loaded source corpus; some items have closed non-binary evidence classifications
+Summary: {"guidance_count": 61, "resolved_pair_count": 11, "closed_verdict_count": 61, "not_verifiable_count": 57, "unresolved_count": 0, "verdict_counts": {"Missed": 2, "Not Verifiable After Exhaustive Search": 57, "Superseded": 2}, "category_counts": {"operating": 23, "other assessable company-level guidance": 12, "financial": 16, "product or milestone": 4, "capacity or infrastructure": 6}, "coverage_state": "covered for the loaded source corpus; some items have closed non-binary evidence classifications"}
+
+--- Comparisons ---
+1. Not Verifiable After Exhaustive Search · Deliveries · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2019] I will also note that we are tracking in April to the largest amount of deliveries from month 1 in the history of the company.
+   Target: FY2019
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+2. Not Verifiable After Exhaustive Search · Deliveries · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2019] Pierre Ferragu And my follow-up was really on Q2 like with 90,000 to 100,000 units you are getting back to fairly nice volumes and I am surprised you don’t – you just still expect a loss.
+   Target: Q2 FY2019
+   Actual [Q2 FY2019] And as we noted in our Q2 production and delivery release, our order backlog increased over the course of Q2.
+   Explanation: explicit target-period evidence
+
+3. Not Verifiable After Exhaustive Search · Production · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2019] So just for the pervasive expectations, we will exit Q2 at a higher production rate than we did in Q1 on S and X and then return back to a more normal volume in Q3.
+   Target: Q2 FY2019
+   Actual [Q2 FY2019] We had the regional service heads of U.S. at the factory last week, and it was incredibly helpful, just a closed loop on with service and production and with the software team.
+   Explanation: explicit target-period evidence
+
+4. Not Verifiable After Exhaustive Search · Powerwall Powerpack Growth · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2019] So, we expect that Powerwall and Powerpack to see a very significant percentage growth this year maybe on the order of 300% or some quite high number.
+   Target: FY2019
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+5. Not Verifiable After Exhaustive Search · Profitability timing · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2019] The teams are working extremely hard and making terrific progress on improving the cost efficiency of the business without sacrificing growth and that in combination with the efficiencies from unwinding the wave, is where we feel we will be comfortable returning to a place of profitability in Q3 once all of those pieces are in place.
+   Target: Q3 FY2019
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+6. Not Verifiable After Exhaustive Search · Gross margin · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2019] And so, overall in that our expectation is that the Model 3 gross margin will continue to grow.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+7. Not Verifiable After Exhaustive Search · Revenue · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2019] But as those features roll out, I would expect the take rate for full self-driving to increase significantly as well as the recognition -- revenue recognition for full self-driving to obviously match the roll out of the product.
+   Target: FY2019
+   Actual [FY2019] Under the terms of the arrangement, we are required to meet a cumulative capital expenditure target and an annual tax revenue target starting at the end of 2023, which we believe will be attainable even if our actual vehicle production at Gigafactory Shanghai were far lower than the volumes we are forecasting.
+   Explanation: explicit target-period evidence
+
+8. Not Verifiable After Exhaustive Search · Production · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2019] By the end of this year, we will -- we expect to be producing Model 3s in volume out of Gigafactory Shanghai.
+   Target: Q4 FY2019
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+9. Not Verifiable After Exhaustive Search · Profitability timing · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2019] From a profitability standpoint, we expect to be probably around breakeven this quarter and profitable next quarter, so that's -- I feel pretty confident about that.
+   Target: Q3 FY2019
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+10. Not Verifiable After Exhaustive Search · Deliveries · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2019] From a profitability standpoint, we expect to be probably around breakeven this quarter and profitable next quarter, so that's -- I feel pretty confident about that.
+   Target: FY2019
+   Actual [FY2019] The increase was partially offset by a decrease of 30,487 Model S and Model X cash deliveries.
+   Explanation: explicit target-period evidence
+
+11. Not Verifiable After Exhaustive Search · Gross margin · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2019] Long term, like, in terms of vernacular that 30% gross margin is I think quite likely.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+12. Not Verifiable After Exhaustive Search · Production · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2019] Model Y will be in production, addressing the most popular vehicle segment.
+   Target: FY2019
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+13. Not Verifiable After Exhaustive Search · Production · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2019] Since Model Y has high component overlap with Model 3, it should be -- we expect it to be a lot easier to ramp.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+14. Not Verifiable After Exhaustive Search · Deliveries · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2019] So just, I think, really great work by the Tesla team to achieve that outcome, and we expect growth to continue in the future at -- for several years to come at 50% to 100% level.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+15. Not Verifiable After Exhaustive Search · Free cash flow · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2019] So, it’s a very important milestone, and I think we believe Tesla has – is now at the point of being self-funding, and we expect to be cash flow -- free cash flow positive in future quarters with the possible temporary exceptions around the launch and ramp of new product.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+16. Not Verifiable After Exhaustive Search · Stores / locations · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2019] Then in terms of increasing service resources, initially we're opening service centers as fast as we can and have already opened to 25 new service locations this quarter and that will increase -- the rate of service center opening will increase dramatically through the course of this year as well as more Mobile Service.
+   Target: FY2019
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+17. Not Verifiable After Exhaustive Search · Revenue growth · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2019] We seem to get the features done, make sure they are great, roll them out, and recognize revenue and increase the take rate on full self-driving.
+   Target: FY2019
+   Actual [Q4 FY2019] Elon Musk You know, we're not quite sure what's going to happen with, but it is true that Model X, the introduction of Model X actually increased Model S sales because you would come in, look at the Model X and they like said okay, I'd prefer the Sedan and we're worried that X sales would of course S sales drop there -- actually could increase.
+   Explanation: explicit target-period evidence
+
+18. Not Verifiable After Exhaustive Search · Gigafactory Shanghai Template · outside anchor-year cohorts
+   Guidance [TSLA_Q3_2019] And Gigafactory Shanghai will become a template for future growth.
+   Target: FY2019
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+19. Not Verifiable After Exhaustive Search · Production · outside anchor-year cohorts
+   Guidance [TSLA_Q3_2019] Elon Musk Yeah, we're in trial production of Model 3, basically sending cars through the system, and we're ramping rapidly.
+   Target: Q3 FY2019
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+20. Not Verifiable After Exhaustive Search · Product / strategic milestone · prior-year guidance resolved in anchor year
+   Guidance [TSLA_Q3_2019] Regarding Model Y, we're also ahead of schedule on Model Y preparations in Fremont, and we've moved the launch timeline from full 2020 to summer 2020.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+21. Not Verifiable After Exhaustive Search · Product / strategic milestone · outside anchor-year cohorts
+   Guidance [TSLA_Q3_2019] The amount of that is hard to forecast, given that it's a different type of factory design than we did here in Fremont.
+   Target: Q4 FY2019
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+22. Not Verifiable After Exhaustive Search · Model Y Asp · outside anchor-year cohorts
+   Guidance [TSLA_Q3_2019] The part that we've worked very hard on is controlling the cost of Model Y, and our steady state forecast for that program puts the cost at roughly equivalent to Model 3.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+23. Not Verifiable After Exhaustive Search · Model Y Cost · outside anchor-year cohorts
+   Guidance [TSLA_Q3_2019] The part that we've worked very hard on is controlling the cost of Model Y, and our steady state forecast for that program puts the cost at roughly equivalent to Model 3.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+24. Not Verifiable After Exhaustive Search · Gross margin · prior-year guidance resolved in anchor year
+   Guidance [TSLA_Q4_2019] And so and I've said this on previous earnings calls, I think it's fair to expect margin coming out of the Shanghai facility to match the same margin for the vehicle in Fremont.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+25. Not Verifiable After Exhaustive Search · Production · prior-year guidance resolved in anchor year
+   Guidance [TSLA_Q4_2019] At our Fremont factory we're producing at a rate roughly the same as the NUMMI factory did in its record year of 2006 and obviously we expect to exceed that significantly this year.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+26. Missed · Production · prior-year guidance resolved in anchor year
+   Guidance [TSLA_Q4_2019] At this point, we're expecting a 1 to 1.5 week delay in the ramp of Shanghai built Model 3 due to a government required factory shutdown.
+   Target: Q1 FY2020
+   Actual [Q1 FY2020] Automotive—Production We have experienced early success with the production ramp of Model Y at the Fremont Factory, and we were able to manufacture more vehicles in less than a full quarter of production than either in the first six months of Model 3 production at Fremont or in the first quarter of Model 3 production at Gigafactory Shanghai.
+   Explanation: The actual is outside the stated range.
+
+27. Not Verifiable After Exhaustive Search · Operating expenses · prior-year guidance resolved in anchor year
+   Guidance [TSLA_Q4_2019] But I think we're at a point now where OpEx will start to tick up at least if you look annually from 2019 to 2020 to support our international footprint and then the growth of the company.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+28. Missed · Production Deliveries · prior-year guidance resolved in anchor year
+   Guidance [TSLA_Q4_2019] This year for the Shanghai built Model 3, we expect to achieve run rate production and delivery rates.
+   Target: FY2020
+   Actual [Q4 FY2020] It's -- unfortunately, there were a few years there where we had to devote the whole company to Model 3 production and building.
+   Explanation: The actual is below the stated point target.
+
+29. Not Verifiable After Exhaustive Search · Capital expenditure · prior-year guidance resolved in anchor year
+   Guidance [TSLA_Q4_2019] We are also seeing strong order rates for the locally-built Model 3 and remain focused on continuing the production ramp and managing costs.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+30. Not Verifiable After Exhaustive Search · Gross margin · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2020] And we feel confident that that's will still be a vehicle that delivers a good gross margin.
+   Target: Q1 FY2020
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+31. Not Verifiable After Exhaustive Search · Price · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2020] And we're actually excited to announce on this call that we will be reducing the price of the standard range Model 3 basically tomorrow, China time.
+   Target: Q1 FY2020
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+32. Not Verifiable After Exhaustive Search · Production · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q1_2020] And we're really looking forward to being in sometime next year, a truly global manufacturer with major factories in North America, China and Europe and a capacity of well over 1 million units a year.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+33. Not Verifiable After Exhaustive Search · Driving Range Miles · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2020] As soon as the EPA reopens for testing, we will redo the test, and we're actually confident that we will achieve a 400-mile-or-greater range with the Model S. But to be clear, the Model S, for the past two months -- the true range of the Model S for the past two months has been 400 miles.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+34. Not Verifiable After Exhaustive Search · Marginal Cost · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2020] But for a five-seater Model Y, we expect marginal costs of that car to be comparable to the Model 3 once we have reached say, 10,000 or 20,000 units or something like that and…[Technical Difficulty].
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+35. Not Verifiable After Exhaustive Search · Capacity · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2020] Model Y in Shanghai and Berlin are proceeding as planned and we're making progress on improving capacity for Model Y in Fremont and Model 3 in Shanghai.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+36. Not Verifiable After Exhaustive Search · Production volume · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2020] So fixed cost absorption from higher production volumes, which are occurring in Q2 and will occur through the rest of the year were not fully localized on the supply chain yet.
+   Target: Q1 FY2020
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+37. Not Verifiable After Exhaustive Search · Capacity · outside anchor-year cohorts
+   Guidance [TSLA_Q1_2020] We're confident this product will be our best-selling product ever.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+38. Not Verifiable After Exhaustive Search · Local Sourcing Percentage China · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2020] And I mean, the proportion of local sourcing has literally been rising at like 5% to 10% a month, from 40 -- it was like 40% at the beginning this year, something like that, it will be like 80% by the end of this year, maybe more.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+39. Not Verifiable After Exhaustive Search · Model Y Cost Structure Convergence · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2020] And as we said before, the Model Y cost structure and Model 3 cost structure will converge.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+40. Not Verifiable After Exhaustive Search · Production · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2020] But we expect California to do Model S and X for worldwide consumption and 3 and Y for the western half of North America.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+41. Not Verifiable After Exhaustive Search · Regulatory credit revenue · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2020] I do expect regulatory credit revenue to double in 2020 relative to 2019, and it will continue for some period of time, but eventually, the stream of regulatory credits will reduce.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+42. Not Verifiable After Exhaustive Search · Product / strategic milestone · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2020] I mean, people turn their lights on and off, power plants turn on and off, factories ramp up and down and batteries are great to solve those problems.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+43. Not Verifiable After Exhaustive Search · Revenue growth · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q2_2020] Now we have more sales coming up in next year, as Elon just pointed out.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+44. Not Verifiable After Exhaustive Search · Regulatory credit revenue · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2020] Services and other margin improved yet again, marking the fifth sequential quarter of improvement.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+45. Superseded · Production · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q2_2020] So we'll start production next year, as we announced it before.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+46. Not Verifiable After Exhaustive Search · Passenger Vehicle Range · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2020] So, I think people will really come to expect that as some number close to 300 miles as normal.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+47. Not Verifiable After Exhaustive Search · Capacity · outside anchor-year cohorts
+   Guidance [TSLA_Q2_2020] The factory is still not running at full capacity yet as it continues to ramp.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+48. Not Verifiable After Exhaustive Search · Production · outside anchor-year cohorts
+   Guidance [TSLA_Q3_2020] And you're going to increase capacity in Shanghai, open Berlin.
+   Target: FY2020
+   Actual [FY2020] These increases were partially offset by idle capacity charges of $213 million as a result of a temporary suspension of production at the Fremont Factory and Gigafactory Nevada during the first half of 2020.
+   Explanation: explicit target-period evidence
+
+49. Not Verifiable After Exhaustive Search · Capital expenditure · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q3_2020] As were previous investments in Model 3 Shanghai and Model Y in Fremont, we're expecting these programs to have already fully paid for their respective investments by the end of this year.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+50. Not Verifiable After Exhaustive Search · Deliveries · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q3_2020] I would say there's probably a lot of deliveries in 2022, and some deliveries towards the end of next year, if things go well.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+51. Not Verifiable After Exhaustive Search · Deliveries · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q3_2020] If it goes well, we'll be able to do some Cybertruck deliveries towards the end of next -- towards the end of next year, yes.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+52. Not Verifiable After Exhaustive Search · Capacity · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q3_2020] Megapack is going to be a large growth segment for the business and deployments will continue to expand rapidly as the product reaches full capacity.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+53. Not Verifiable After Exhaustive Search · Capacity · outside anchor-year cohorts
+   Guidance [TSLA_Q3_2020] We have a very large backlog of PowerWall orders and we continue to invest to increase capacity to fulfill customer orders.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+54. Not Verifiable After Exhaustive Search · Product / strategic milestone · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q3_2020] We have more demand than supply through 2021 and we continue to ramp the product to match unprecedented demand across the globe through 2023 and beyond.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+55. Not Verifiable After Exhaustive Search · Deliveries · outside anchor-year cohorts
+   Guidance [TSLA_Q3_2020] We're also aiming to achieve our original 2020 guidance of 500,000 deliveries despite the operational interruptions earlier in the year.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+56. Superseded · Production · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q4_2020] As we increase production rates, volumes will skew towards the second half of the year, and ramp inefficiencies will be a part of this year's story and are necessary to achieve our long-term goals.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+57. Not Verifiable After Exhaustive Search · Capacity · outside anchor-year cohorts
+   Guidance [TSLA_Q4_2020] But we are installing capacity for -- in 2022 for 200 gigawatt hours a year and we think probably we should be able to achieve 30% of targeted design capacity in 2022.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+58. Not Verifiable After Exhaustive Search · Service Center Openings · outside anchor-year cohorts
+   Guidance [TSLA_Q4_2020] In North America, we opened 11 centers in December, and we have plans to open 46 in the first half of this year.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+59. Not Verifiable After Exhaustive Search · Production · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q4_2020] Our material supply chain is established and the team is on track for full production ramp this year.
+   Target: FY2021
+   Actual [Q4 FY2021] We continue to drive for vehicle volume growth at or above 50%, as Elon mentioned, and our plans show that this is actually achievable with just our Fremont and Shanghai factories.
+   Explanation: A candidate actual was found, but deterministic comparability checks rejected it: The guidance and actual do not have comparable numeric units.
+
+60. Not Verifiable After Exhaustive Search · Production volume · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q4_2020] We continue to expect a long-term volume CAGR of 50%, of which we may materially exceed this in 2021.
+   Target: FY2021
+   Actual [Q4 FY2021] We continue to drive for vehicle volume growth at or above 50%, as Elon mentioned, and our plans show that this is actually achievable with just our Fremont and Shanghai factories.
+   Explanation: A candidate actual was found, but deterministic comparability checks rejected it: The guidance and actual do not have comparable numeric units.
+
+61. Not Verifiable After Exhaustive Search · Revenue · anchor-year guidance resolved in following year
+   Guidance [TSLA_Q4_2020] We will continue to invest heavily in supercharging and service capacity while driving reductions on cost, including OpEx as a percentage of revenue.
+   Target: FY2021
+   Actual [FY2021] Additionally, there was $340 million of additional payroll tax due to our CEO's option exercises from the 2012 CEO Performance Award, a $319 million increase in office, information technology, facilities-related expenses, sales and marketing activities and other costs and an increase of $145 million in stock-based compensation expense, of which $72 million was attributable to the 2018 CEO Performance Award.
+   Explanation: A candidate actual was found, but deterministic comparability checks rejected it: The evidence is qualitative but does not establish a comparable outcome.
+
+--- Unpaired actuals (showing 32 of 602; full ledger is in JSON/CSV) ---
+[10-Q Q2 2019 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Automotive sales revenue increased $2.05 billion, or 66%, in the three months ended June 30, 2019 as compared to three months ended June 30, 2018, primarily due to an increase of 54,863 Model 3 deliveries from our significant production ramp in the second half of 2018, delivered at slightly lower average selling prices year-over-year from deliveries of Model 3 Standard Range and Standard Range Plus.
+[10-Q Q2 2019 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Additionally, there was an increase of $57.2 million in sales of regulatory credits to $111.2 million in the three months ended June 30, 2019 compared to $54.0 million in the same period in the prior year.
+[10-Q Q2 2019 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] 41 Automotive sales revenue increased $3.00 billion , or 53% , in the six months ended June 30, 2019 as compared to the six months ended June 30, 2018 , primarily due to an increase of 97,609 Model 3 deliveries from our significant production ramp in the second half of 2018, delivered at average selling prices that remained relatively consistent year-over-year.
+[10-Q Q2 2019 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Automotive leasing revenue increased $10.2 million, or 2%, in the six months ended June 30, 2019 as compared to the six months ended June 30, 2018.
+[10-Q Q2 2019 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Services and other revenue increased $334.9 million, or 124%, in the three months ended June 30, 2019 as compared to the three months ended June 30, 2018.
+[10-Q Q2 2019 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Cost of automotive sales revenue increased $1.72 billion, or 68% , in the three months ended June 30, 2019 as compared to the three months ended June 30, 2018, primarily due to an increase of 54,863 Model 3 deliveries from our significant production ramp in the second half of 2018.
+[10-Q Q2 2019 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] If customers elect to exercise the buyback options, we expect to be able to subsequently resell the returned vehicles, which resulted in a reduction of automotive cost of sales of $49.6 million for the three months ended June 30, 2019.
+[10-Q Q2 2019 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] The decrease was partially offset by improvement of Model 3 margins compared to the prior period as we achieved significant manufacturing efficiencies in the production of Model 3 in the second half of 2018 and first half of 2019.
+[10-Q Q2 2019 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] The decrease was primarily due to a $145.4 million decrease in employee and labor related expenses from decreased headcount, partially offset by a $47.0 million increase in stock-based compensation expense related to the 2018 CEO Performance Award and stock awards granted for new hires and refresher employee stock grants.
+[10-Q Q3 2019 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] 42 Automotive sales revenue decreased $746 million , or 13% , in the three months ended September 30, 2019 as compared to the three months ended September 30, 2018 , primarily due to a decrease of 10,255 Model S and Model X cash deliveries , partially offset by an increase of 17,1 40 Model 3 cash deliveries from production scaling .
+[10-Q Q3 2019 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Automotive sales revenue increased $2.25 billion, or 19%, in the nine months ended September 30, 2019 as compared to the nine months ended September 30, 2018, primarily due to an increase of 114,749 Model 3 cash deliveries from production scaling, partially offset by a decrease of 22,924 Model S and Model X cash deliveries .
+[10-Q Q3 2019 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Additionally, there was an increase of $137 million in sales of regulatory credits to $461 million in the nine months ended September 30, 2019 compared to $324 million in the same period in the prior year.
+[10-Q Q3 2019 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] There was an increase in cumulative vehicles under our direct vehicle leasing program, partially due to the introduction of Model 3 leasing in the second quarter of 2019, and an increase in the number of vehicles under leasing programs where our counterparty has elected to retained ownership of the vehicle during or at the end of the guarantee or lease period when compared to the three months ended September 30, 2018.
+[10-Q Q3 2019 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Automotive leasing revenue increased $10 million, or 2%, in the nine months ended September 30, 2019 as compared to the nine months ended September 30, 2018.
+[10-Q Q3 2019 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Services and other revenue increased $222 million, or 68%, in the three months ended September 30, 2019 as compared to the three months ended September 30, 2018.
+[10-Q Q3 2019 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] The increases in the three and nine months ended September, 2019 compared to the same periods in the prior year were primarily due to increases in used vehicle sales from increased volumes of trade-in vehicles, partially offset by lower average selling prices for traded-in Tesla vehicles due to price adjustments we made to our vehicle offerings during the first half of 2019.
+[10-Q Q3 2019 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Energy generation and storage revenue increased by $3 million, or 1%, in the three months ended September 30, 2019 as compared to the three months ended September 30, 2018.
+[10-Q Q3 2019 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Cost of automotive sales revenue decreased $392 million, or 9%, in the three months ended September 30, 2019 as compared to the three months ended September 30, 2018, primarily due to a decrease of 10,255 Model S and Model X cash deliveries, lower average Model 3 costs per unit compared to the prior period primarily due to improvement of manufacturing efficiencies, and reductions of materials costs, including commercial negotiations with suppliers in the three months ended September 30, 2019.
+[10-K FY2019 — ITEM 1. BUSINESS] Gigafactory Shanghai In December 2019, we commenced production of Model 3 vehicles at Gigafactory Shanghai, which we have established in order to increase the affordability of our vehicles for customers in local markets by reducing transportation and manufacturing costs and eliminating certain tariffs on vehicles imported into China from the U.S. At Gigafactory Shanghai, we have installed annual production capacity for 150,000 Model 3 vehicles that we believe we will eventually be able to push to actual rates of production in excess of such number , subject to local production of battery packs, which we began ramping there later than other processes.
+[TSLA_Q4_2019] Now this is thanks to a great effort of our engineering team and we managed to achieve by far the highest energy efficiency of any electric SUV ever produced at 4.1 miles per kilowatt hour, which means Model Y four wheeler drive got EPA rating of 315 miles and this improvement is reflected on the configurator as of today.
+[TSLA_Q4_2019] Now this is thanks to a great effort of our engineering team and we managed to achieve by far the highest energy efficiency of any electric SUV ever produced at 4.1 miles per kilowatt hour, which means Model Y four wheeler drive got EPA rating of 315 miles and this improvement is reflected on the configurator as of today.
+[10-K FY2019 — ITEM 3. LEGAL PROCEEDINGS] 49 201 9 Compared to 201 8 Automotive sales revenue increased $2.32 billion, or 13%, in the year ended December 31, 2019 as compared to the year ended December 31, 2018, primarily due to an increase of 137,969 Model 3 cash deliveries from production scaling and an increase of $175 million in sales of regulatory credits to $594 million.
+[10-K FY2019 — ITEM 3. LEGAL PROCEEDINGS] The increase was primarily due to an increase in used vehicle sales from an increased volume of trade-in vehicles, partially offset by lower average selling prices for traded-in Tesla vehicles due to price adjustments we made to our vehicle offerings in 2019.
+[10-K FY2019 — ITEM 3. LEGAL PROCEEDINGS] 51 201 9 Compared to 201 8 Cost of automotive sales revenue increased $2.25 billion, or 16%, in the year ended December 31, 2019 as compared to the year ended December 31, 2018, primarily due to an increase of 137,969 Model 3 cash deliveries and higher average Model S and Model X costs per unit compared to the prior year due to the discontinuation of lower end trims in 2019.
+[10-K FY2019 — ITEM 3. LEGAL PROCEEDINGS] Automotive During 2019, we achieved annual vehicle delivery and production records of 367,656 and 365,232 total vehicles, respectively.
+[10-Q Q1 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 15 – Segment Reporting and Information about Geographic Areas] 38 Automotive sales revenue increased $1.38 billion, or 39% , in the three months ended March 31, 2020 as compared to the three months ended March 31, 2019 , primarily due to an increase of 21,174 Model 3 and Model Y cash deliveries from additional production capacity at Gigafactory Shanghai and the commencement of Model Y deliveries in the first quarter of 2020.
+[10-Q Q1 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 15 – Segment Reporting and Information about Geographic Areas] The increase s in automotive sales revenue were partially offset by a decrease in the average selling price of our Model 3 cash deliveries primarily due to Gigafactory Shanghai producing only Standard Range Plus Model 3 in the first quarter of 2020.
+[10-Q Q1 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 15 – Segment Reporting and Information about Geographic Areas] The increase was primarily due to an increase in cumulative vehicles under our direct vehicle leasing program, partially due to the introduction of Model 3 direct leasing in the second quarter of 2019, partially offset by a decrease in cumulative vehicles under our resale value guarantee leasing programs which are accounted for as operating leases.
+[10-Q Q1 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 15 – Segment Reporting and Information about Geographic Areas] 40 Cost of automotive sales revenue increased $843 m illion, or 30% , in the three months ended March 31, 2020 as compared to the three months ended March 31, 2019 , primarily due to an increase of 21,174 Model 3 and Model Y cash deliverie s .
+[10-Q Q1 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 15 – Segment Reporting and Information about Geographic Areas] The increase in cost of automotive sales revenue was partially offset by a decrease in average Model 3 costs per unit due to Gigafactory Shanghai producing only Standard Range Plus Model 3 in the first quarter of 2020 , lower freight and duty costs from local production in China , and additional manufacturing efficiencies in the production of Model 3 in our Fremont Factory .
+[10-Q Q1 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 5 – Inventory] Finished goods inventory increased from December 31, 2019 to March 31, 2020 due to limited capacity to deliver or install our products at the end of the first quarter in 2020.
+[TSLA_Q1_2020] Even with all the challenges, we achieved a 20% automotive gross margin, excluding regulatory credits while ramping two major products.
+
+--- Source inventory ---
+[transcript] TSLA_Q1_2019
+[filing] 10-Q Q1 2019 — ITEM 1. FINANCIAL STATEMENTS — Note 17 – Restructuring and Other
+[filing] 10-Q Q1 2019 — ITEM 1. FINANCIAL STATEMENTS — Note 11 – Leases
+[filing] 10-Q Q1 2019 — ITEM 1. FINANCIAL STATEMENTS — Note 2 – Summary of Significant Accounting Policies
+[filing] 10-Q Q1 2019 — ITEM 1. FINANCIAL STATEMENTS — Note 12 – Equity Incentive Plans
+[filing] 10-Q Q1 2019 — ITEM 1. FINANCIAL STATEMENTS — Note 5 – Inventory
+[filing] 10-Q Q1 2019 — ITEM 1. FINANCIAL STATEMENTS — Note 8 – Other Long-Term Liabilities
+[filing] 10-Q Q1 2019 — ITEM 1. LEGAL PROCEEDINGS
+[xbrl] XBRL Revenue Q1 FY2019
+[xbrl] XBRL Gross Profit Q1 FY2019
+[xbrl] XBRL Operating Income Q1 FY2019
+[xbrl] XBRL Net Income Q1 FY2019
+[xbrl] XBRL Diluted EPS Q1 FY2019
+[xbrl] XBRL Operating Cash Flow Q1 FY2019
+[xbrl] XBRL Capital Expenditures Q1 FY2019
+[xbrl] XBRL Gross margin Q1 FY2019
+[xbrl] XBRL Operating margin Q1 FY2019
+[transcript] TSLA_Q2_2019
+[filing] 10-Q Q2 2019 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[xbrl] XBRL Revenue Q2 FY2019
+[xbrl] XBRL Gross Profit Q2 FY2019
+[xbrl] XBRL Operating Income Q2 FY2019
+[xbrl] XBRL Net Income Q2 FY2019
+[xbrl] XBRL Diluted EPS Q2 FY2019
+[xbrl] XBRL Operating Cash Flow Q2 FY2019
+[xbrl] XBRL Capital Expenditures Q2 FY2019
+[xbrl] XBRL Gross margin Q2 FY2019
+[xbrl] XBRL Operating margin Q2 FY2019
+[transcript] TSLA_Q3_2019
+[filing] 10-Q Q3 2019 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q3 2019 — ITEM 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q3 2019 — ITEM 1. FINANCIAL STATEMENTS — Note 12 – Leases
+[filing] 10-Q Q3 2019 — ITEM 1. FINANCIAL STATEMENTS — Note 13 – Equity Incentive Plans
+[filing] 10-Q Q3 2019 — ITEM 1. FINANCIAL STATEMENTS — Note 2 – Summary of Significant Accounting Policies
+[filing] 10-Q Q3 2019 — ITEM 1. FINANCIAL STATEMENTS — Note 3 – Business Combinations
+[filing] 10-Q Q3 2019 — ITEM 1. FINANCIAL STATEMENTS — Note 9 – Other Long-Term Liabilities
+[filing] 10-Q Q3 2019 — ITEM 1A. RISK FACTORS
+[xbrl] XBRL Revenue Q3 FY2019
+[xbrl] XBRL Gross Profit Q3 FY2019
+[xbrl] XBRL Operating Income Q3 FY2019
+[xbrl] XBRL Net Income Q3 FY2019
+[xbrl] XBRL Diluted EPS Q3 FY2019
+[xbrl] XBRL Operating Cash Flow Q3 FY2019
+[xbrl] XBRL Capital Expenditures Q3 FY2019
+[xbrl] XBRL Gross margin Q3 FY2019
+[xbrl] XBRL Operating margin Q3 FY2019
+[transcript] TSLA_Q4_2019
+[filing] 10-K FY2019 — ITEM 1. BUSINESS
+[filing] 10-K FY2019 — ITEM 3. LEGAL PROCEEDINGS
+[filing] 10-K FY2019 — ITEM 1A. RISK FACTORS
+[filing] 10-K FY2019 — ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+[xbrl] XBRL Revenue FY2019
+[xbrl] XBRL Gross Profit FY2019
+[xbrl] XBRL Operating Income FY2019
+[xbrl] XBRL Net Income FY2019
+[xbrl] XBRL Diluted EPS FY2019
+[xbrl] XBRL Operating Cash Flow FY2019
+[xbrl] XBRL Capital Expenditures FY2019
+[xbrl] XBRL Gross margin FY2019
+[xbrl] XBRL Operating margin FY2019
+[filing] 10-Q Q1 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 15 – Segment Reporting and Information about Geographic Areas
+[transcript] TSLA_Q1_2020
+[filing] 10-Q Q1 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 5 – Inventory
+[filing] 10-Q Q1 2020 — ITEM 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q1 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 11 – Equity Incentive Plans
+[filing] 10-Q Q1 2020 — ITEM 1. LEGAL PROCEEDINGS
+[xbrl] XBRL Revenue Q1 FY2020
+[xbrl] XBRL Gross Profit Q1 FY2020
+[xbrl] XBRL Operating Income Q1 FY2020
+[xbrl] XBRL Net Income Q1 FY2020
+[xbrl] XBRL Diluted EPS Q1 FY2020
+[xbrl] XBRL Operating Cash Flow Q1 FY2020
+[xbrl] XBRL Capital Expenditures Q1 FY2020
+[xbrl] XBRL Gross margin Q1 FY2020
+[xbrl] XBRL Operating margin Q1 FY2020
+[transcript] TSLA_Q2_2020
+[filing] 10-Q Q2 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 15 – Segment Reporting and Information about Geographic Areas
+[filing] 10-Q Q2 2020 — ITEM 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q2 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 11 – Equity Incentive Plans
+[xbrl] XBRL Revenue Q2 FY2020
+[xbrl] XBRL Gross Profit Q2 FY2020
+[xbrl] XBRL Operating Income Q2 FY2020
+[xbrl] XBRL Net Income Q2 FY2020
+[xbrl] XBRL Diluted EPS Q2 FY2020
+[xbrl] XBRL Operating Cash Flow Q2 FY2020
+[xbrl] XBRL Capital Expenditures Q2 FY2020
+[xbrl] XBRL Gross margin Q2 FY2020
+[xbrl] XBRL Operating margin Q2 FY2020
+[transcript] TSLA_Q3_2020
+[filing] 10-Q Q3 2020 — ITEM 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q3 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 11 – Equity Incentive Plans
+[filing] 10-Q Q3 2020 — ITEM 1. FINANCIAL STATEMENTS — Note 15 – Segment Reporting and Information about Geographic Areas
+[xbrl] XBRL Revenue Q3 FY2020
+[xbrl] XBRL Gross Profit Q3 FY2020
+[xbrl] XBRL Operating Income Q3 FY2020
+[xbrl] XBRL Net Income Q3 FY2020
+[xbrl] XBRL Diluted EPS Q3 FY2020
+[xbrl] XBRL Operating Cash Flow Q3 FY2020
+[xbrl] XBRL Capital Expenditures Q3 FY2020
+[xbrl] XBRL Gross margin Q3 FY2020
+[xbrl] XBRL Operating margin Q3 FY2020
+[transcript] TSLA_Q4_2020
+[filing] 10-K FY2020 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-K FY2020 — ITEM 8. FINANCIAL STATEME
+[filing] 10-K FY2020 — ITEM 1. BUSINESS
+[xbrl] XBRL Revenue FY2020
+[xbrl] XBRL Gross Profit FY2020
+[xbrl] XBRL Operating Income FY2020
+[xbrl] XBRL Net Income FY2020
+[xbrl] XBRL Diluted EPS FY2020
+[xbrl] XBRL Operating Cash Flow FY2020
+[xbrl] XBRL Capital Expenditures FY2020
+[xbrl] XBRL Gross margin FY2020
+[xbrl] XBRL Operating margin FY2020
+[filing] 10-Q Q1 2021 — ITEM 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q1 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q1 2021 — ITEM 1. FINANCIAL STATEMENTS — Note 2 – Summary of Significant Accounting Policies
+[filing] 10-Q Q1 2021 — ITEM 1. FINANCIAL STATEMENTS — Note 11 – Equity Incentive Plans
+[filing] 10-Q Q1 2021 — ITEM 1. FINANCIAL STATEMENTS — Note 12 – Commitments and Contingencies
+[transcript] TSLA_Q1_2021
+[xbrl] XBRL Revenue Q1 FY2021
+[xbrl] XBRL Gross Profit Q1 FY2021
+[xbrl] XBRL Operating Income Q1 FY2021
+[xbrl] XBRL Net Income Q1 FY2021
+[xbrl] XBRL Diluted EPS Q1 FY2021
+[xbrl] XBRL Operating Cash Flow Q1 FY2021
+[xbrl] XBRL Capital Expenditures Q1 FY2021
+[xbrl] XBRL Gross margin Q1 FY2021
+[xbrl] XBRL Operating margin Q1 FY2021
+[transcript] TSLA_Q2_2021
+[filing] 10-Q Q2 2021 — ITEM 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q2 2021 — ITEM 1. FINANCIAL STATEMENTS — Note 11 – Equity Incentive Plans
+[filing] 10-Q Q2 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[xbrl] XBRL Revenue Q2 FY2021
+[xbrl] XBRL Gross Profit Q2 FY2021
+[xbrl] XBRL Operating Income Q2 FY2021
+[xbrl] XBRL Net Income Q2 FY2021
+[xbrl] XBRL Diluted EPS Q2 FY2021
+[xbrl] XBRL Operating Cash Flow Q2 FY2021
+[xbrl] XBRL Capital Expenditures Q2 FY2021
+[xbrl] XBRL Gross margin Q2 FY2021
+[xbrl] XBRL Operating margin Q2 FY2021
+[filing] 10-Q Q3 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[transcript] TSLA_Q3_2021
+[filing] 10-Q Q3 2021 — ITEM 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q3 2021 — ITEM 1. FINANCIAL STATEMENTS — Note 11 – Equity Incentive Plans
+[filing] 10-Q Q3 2021 — ITEM 1A. RISK FACTORS
+[xbrl] XBRL Revenue Q3 FY2021
+[xbrl] XBRL Gross Profit Q3 FY2021
+[xbrl] XBRL Operating Income Q3 FY2021
+[xbrl] XBRL Net Income Q3 FY2021
+[xbrl] XBRL Diluted EPS Q3 FY2021
+[xbrl] XBRL Operating Cash Flow Q3 FY2021
+[xbrl] XBRL Capital Expenditures Q3 FY2021
+[xbrl] XBRL Gross margin Q3 FY2021
+[xbrl] XBRL Operating margin Q3 FY2021
+[transcript] TSLA_Q4_2021
+[filing] 10-K FY2021 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-K FY2021 — ITEM 1. BUSINESS
+[filing] 10-K FY2021 — ITEM 8. FINANCIAL STATEME
+[xbrl] XBRL Revenue FY2021
+[xbrl] XBRL Gross Profit FY2021
+[xbrl] XBRL Operating Income FY2021
+[xbrl] XBRL Net Income FY2021
+[xbrl] XBRL Diluted EPS FY2021
+[xbrl] XBRL Operating Cash Flow FY2021
+[xbrl] XBRL Capital Expenditures FY2021
+[xbrl] XBRL Gross margin FY2021
+[xbrl] XBRL Operating margin FY2021
