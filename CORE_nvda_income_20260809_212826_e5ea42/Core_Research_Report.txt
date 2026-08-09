@@ -1,0 +1,276 @@
+[CORE RESEARCH] NVDA: income
+
+Quarters searched: 6
+Filing sections searched: 169
+
+Over the reported periods from Q2 2021 through Q4 2022, the company consistently disclosed net income figures and components such as income from operations, income tax expense or benefit, and interest income. Net income fluctuated, with reported amounts such as $1.91 billion in Q2 2021, $2.46 billion in Q4 2021, and $1.62 billion in Q2 2022. Income tax expense showed variability, including periods of income tax benefits in 2023 filings. Interest income was generally modest and tied to cash and marketable securities. The disclosures were primarily from filings, providing reliable actual results, but no forward guidance on income was provided by management in earnings calls or filings.
+
+Forecasting credibility: None
+No guidance versus actual pairs were found for income, indicating management does not provide forward guidance on this topic. Therefore, it is not possible to assess forecasting credibility for income. Any commentary or results alone do not suffice to rate forecasting accuracy without explicit guidance-actual comparisons.
+
+Trends:
+  - Net income fluctuating over quarters
+  - Income tax expense shifting to occasional benefits
+  - Interest income remaining low and stable
+  - Other income generally not significant
+
+Recurring themes/risks:
+  - Variability in income tax expense and benefits
+  - Dependence on operating income for net income changes
+  - Limited significance of other income components
+
+Key concerns:
+  - No forward guidance on income limits ability to evaluate management's forecasting skill on this key metric
+  - Income tax expense shows variability including benefits, which may reflect tax planning or timing differences
+  - No accounting or reporting inconsistencies noted across filings for income components
+
+Conclusion:
+Income as reported in filings shows variability quarter to quarter, influenced by operating income and income tax expense fluctuations. Management does not provide forward guidance on income, so forecasting credibility cannot be assessed. The reported net income figures are reliable as they come from SEC filings, but the lack of guidance means investors cannot gauge management's ability to predict income outcomes. Income tax expense variability and occasional benefits are notable but appear consistently reported without accounting changes. Overall, income is a reported outcome rather than a forecasted metric for this company.
+
+Evidence Coverage: 97.4% complete; 370/380 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q2 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [None] [from 10-K/10-Q] Income from operations 1,956 976
+  - [None] [from 10-K/10-Q] Income tax expense 132 64
+  - [None] [from 10-K/10-Q] Interest income 6 31
+  - [None] [from 10-K/10-Q] Income before income tax 2,044 981
+  - [None] [from 10-K/10-Q] Income tax expense of $ 132 million and $ 64 million for the first quarter of fiscal years 2022 and 2021, respectively.
+  - [None] [from 10-K/10-Q] Income tax expense as a percentage of income before income tax was 6.5 % and 6.6 % for the first quarter of fiscal years 2022 and 2021, respectively.
+  - [None] [from 10-K/10-Q] Income from operations was $1.96 billion, up 100% from a year earlier and up 30% sequentially. Net income was $1.91 billion.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - Net income was $1.91 billion.
+    - Other, net, was an income of $135 million during the first quarter of fiscal year 2022 and not significant during the first quarter 28 of fiscal year 2021.
+    - Other Income (Expense), Net Interest income consists of interest earned on cash, cash equivalents and marketable securities.
+    - Interest income was $6 million and $31 million during the first quarter of fiscal years 2022 and 2021, respectively.
+    - The income tax expense as a percentage of income before income tax was 6.5% and 6.6% for the first quarter of fiscal years 2022 and 2021, respectively.
+    - Income Taxes We recognized an income tax expense of $132 million and $64 million for the first quarter of fiscal years 2022 and 2021, respectively.
+  [Financial Statements]
+    - 5 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+    - On an ongoing basis, we evaluate our estimates, including those related to revenue recognition, cash equivalents and marketable securities, accounts receivable, inventories, income taxes, goodwill, stock-based compensation, litigation, investigation and settlement costs, restructuring and other charges, and other contingencies.
+    - Supplemental Unaudited Pro Forma Information The following unaudited pro forma financial information summarizes the combined results of operations for NVIDIA and Mellanox as if the companies were combined as of the beginning of fiscal year 2020: Pro Forma Three Months Ended April 26, 2020 (In millions) Revenue $ 3,509 Net income $ 918 The unaudited pro forma information includes adjustments related to amortization of acquired intangible assets, adjustments to stock-based compensation expense, fair value of acquired inventory, and transaction costs.
+    - (2) Calculated as net income divided by diluted weighted average shares.
+    - The income tax expense as a percentage of income before income tax was 6.5 % and 6.6 % for the first quarter of fiscal years 2022 and 2021, respectively.
+    - We recognized an income tax expense of $ 132 million and $ 64 million for the first quarter of fiscal years 2022 and 2021, respectively.
+    - Our effective tax rates for the first quarter of fiscal years 2022 and 2021 were lower than the U.S. federal statutory rate of 21% due to income earned in jurisdictions that are subject to taxes lower than the U.S. federal statutory tax rate, the benefit of the U.S. federal research tax credit, and tax benefits related to stock-based compensation.
+    - Due to the public market trading of the issuer, an unrealized gain on the investment of $ 124 million was recorded in other income (expense), net in the first quarter of fiscal year 2022.
+    - (2) Investment in private non-affiliated entities is recorded at fair value on a non-recurring basis only if an impairment or observable price adjustment occurs in the period with changes in fair value recorded through net income.
+    - May 2, January 31, 2021 2021 Other Long-Term Liabilities: (In millions) Income tax payable (1) $ 864 $ 836 Deferred income tax 234 241 Deferred revenue (2) 173 163 Licenses payable 59 56 Employee benefits 34 33 Other 50 46 Total other long-term liabilities $ 1,414 $ 1,375 (1) As of May 2, 2021, income tax payable represents the long-term portion of the one-time transition tax payable of $ 284 million, unrecognized tax benefits of $ 374 million, related interest and penalties of $ 48 million, and other foreign long-term tax payable of $ 158 million.
+    - Due to the public market trading of the issuer, an unrealized gain on the investment of $ 124 million was recorded in other income (expense), net in the first quarter of fiscal year 2022.
+    - Gains or losses on the contracts are recorded in accumulated other comprehensive income or loss and reclassified to operating expense when the related operating expenses are recognized in earnings or ineffectiveness should occur.
+    - Therefore, the change in fair value of these contracts is recorded in other income or expense and offsets the change in fair value of the hedged foreign currency denominated monetary assets and liabilities, which is also recorded in other income or expense.
+    - The expected realized gains and losses deferred into accumulated other comprehensive income or loss related to foreign currency forward contracts within the next 12 months was not significant.
+    - During the first quarter of fiscal years 2022 and 2021, the impact of derivative financial instruments designated for hedge accounting treatment on other comprehensive income or loss was not significant and all such instruments were determined to be highly effective.
+    - (2) Calculated as net income divided by diluted weighted average shares.
+
+=== Q3 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [None] [from 10-K/10-Q] Income from operations 2,444 651 4,400 1,627
+  - [None] The year-on-year increase primarily reflects higher operating income, particularly offset by prepayment for long-term supply agreement.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - Net income was $2.37 billion.
+    - Other, net, was an income of $4 million and $138 million during the second quarter and first half of fiscal year 2022, respectively, and not significant during the second quarter and first half of fiscal year 2021.
+    - Other Income (Expense), Net Interest income consists of interest earned on cash, cash equivalents and marketable securities.
+    - Interest income was $6 million and $13 million during the second quarter of fiscal years 2022 and 2021, respectively, and $13 million and $44 million during the first half of fiscal years 2022 and 2021, respectively.
+    - The income tax expense as a percentage of income before income tax was 0.9% and 3.4% for the second quarter and first half of fiscal year 2022, respectively, and 3.3% for the first half of fiscal year 2021.
+    - Income Taxes We recognized an income tax expense of $20 million and $153 million for the second quarter and first half of fiscal year 2022, respectively, and an income tax benefit of $13 million and an income tax expense of $52 million for the second quarter and first half of fiscal year 2021, respectively.
+  [Financial Statements]
+    - Operating Income: $1.40B | vs prior quarter: — | vs prior year: $927.0M (+50.8%)
+    - Net Income: $1.34B | vs prior quarter: — | vs prior year: $899.0M (+48.6%)
+    - 6 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 7 real filing table(s) available (see the HTML report).
+    - On an ongoing basis, we evaluate our estimates, including those related to revenue recognition, cash equivalents and marketable securities, accounts receivable, inventories, income taxes, goodwill, stock-based compensation, litigation, investigation and settlement costs, restructuring and other charges, and other contingencies.
+    - (2) Calculated as net income divided by diluted weighted average shares.
+    - The income tax expense as a percentage of income before income tax was 0.9 % and 3.4 % for the second quarter and first half of fiscal year 2022, respectively, and 3.3 % for the first half of fiscal year 2021.
+    - The income tax benefit as a percentage of income before income tax was 2.0 % for the second quarter of fiscal year 2021.
+    - We recognized an income tax expense of $ 20 million and $ 153 million for the second quarter and first half of fiscal year 2022, respectively, and an income tax benefit of $ 13 million and an income tax expense of $ 52 million for the second quarter and first half of fiscal year 2021, respectively.
+    - Our effective tax rate for the first half of fiscal year 2021 was lower than the U.S. federal statutory rate of 21% due to income earned in jurisdictions that is subject to taxes lower than the U.S. federal statutory tax rate, tax benefits related to stock-based compensation, and the benefit of the U.S. federal research tax credit.
+    - Our effective tax rate for the first half of fiscal year 2022 was lower than the U.S. federal statutory rate of 21% due to the discrete benefit of the Domestication, tax benefits related to the foreign-derived intangible income deduction, income 13 NVIDIA CORPORATION AND SUBSIDIARIES NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) (Unaudited) earned in jurisdictions that is subject to taxes lower than the U.S. federal statutory tax rate, and tax benefits related to the U.S. federal research tax credit and stock-based compensation.
+    - An unrealized loss on the investment of $ 6 million was recorded in other income (expense), net in the second quarter of fiscal year 2022 and an unrealized gain of $ 118 million was recorded in other income (expense), net in the first half of fiscal year 2022.
+    - (2) Investment in private non-affiliated entities is recorded at fair value on a non-recurring basis only if an impairment or observable price adjustment occurs in the period with changes in fair value recorded through net income.
+    - August 1, January 31, 2021 2021 Other Long-Term Liabilities: (In millions) Income tax payable (1) $ 897 $ 836 Deferred income tax 229 241 Deferred revenue (2) 189 163 Employee benefits 37 33 Licenses payable 33 56 Other 11 46 Total other long-term liabilities $ 1,396 $ 1,375 (1) As of August 1, 2021, income tax payable represents the long-term portion of the one-time transition tax payable of $ 251 million, unrecognized tax benefits of $ 435 million, related interest and penalties of $ 52 million, and other foreign long-term tax payable of $ 159 million.
+    - Gains or losses on the contracts are recorded in accumulated other comprehensive income or loss and reclassified to operating expense when the related operating expenses are recognized in earnings or ineffectiveness should occur.
+    - Therefore, the change in fair value of these contracts is recorded in other income or expense and offsets the change in fair value of the hedged foreign currency denominated monetary assets and liabilities, which is also recorded in other income or expense.
+    - The expected realized gains and losses deferred into accumulated other comprehensive income or loss related to foreign currency forward contracts within the next 12 months was not significant.
+    - During the first half of fiscal years 2022 and 2021, the impact of derivative financial instruments designated for hedge accounting treatment on other comprehensive income or loss was not significant and all such instruments were determined to be highly effective.
+
+=== Q4 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - Net income was $2.46 billion.
+    - Other, net, was an income of $22 million and $160 million during the third quarter and first nine months of fiscal year 2022, respectively, and not significant during the third quarter and first nine months of fiscal year 2021.
+    - Interest income was $7 million for both the third quarters of fiscal years 2022 and 2021, and $20 million and $50 million during the first nine months of fiscal years 2022 and 2021, respectively.
+    - Other Income (Expense), Net Interest income consists of interest earned on cash, cash equivalents and marketable securities.
+    - The income tax expense as a percentage of income before income tax was 6.6% and 4.6% for the third quarter and first nine months of fiscal year 2022, respectively, and 0.9% and 2.2% for the third quarter and first nine months of fiscal year 2021, respectively.
+    - Income Taxes We recognized an income tax expense of $174 million and $327 million for the third quarter and first nine months of fiscal year 2022, respectively, and an income tax expense of $12 million and $64 million for the third quarter and first nine months of fiscal year 2021, respectively.
+    - Net income and net income per diluted share for fiscal year 2021 were $4.33 billion and $6.90, up 55% and 53%, respectively, from a year earlier.
+    - Other Income (Expense), Net Interest income consists of interest earned on cash, cash equivalents and marketable securities.
+    - Interest income was $57 million and $178 million in fiscal years 2021 and 2020, respectively.
+    - Income from operations for fiscal year 2021 was $4.53 billion, up 59% from a year earlier.
+    - Income Taxes We recognized income tax expense of $77 million and $174 million for fiscal years 2021 and 2020, respectively.
+  [Financial Statements]
+    - Operating Income: $4.53B | vs prior quarter: — | vs prior year: $2.85B (+59.2%)
+    - Net Income: $4.33B | vs prior quarter: — | vs prior year: $950.0M (+356.0%)
+    - 6 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 7 real filing table(s) available (see the HTML report).
+    - On an ongoing basis, we evaluate our estimates, including those related to revenue recognition, cash equivalents and marketable securities, accounts receivable, inventories, income taxes, goodwill, stock-based compensation, litigation, investigation and settlement costs, restructuring and other charges, and other contingencies.
+    - (2) Calculated as net income divided by diluted weighted average shares.
+    - The income tax expense as a percentage of income before income tax was 6.6 % and 4.6 % for the third quarter and first nine months of fiscal year 2022, respectively, and 0.9 % and 2.2 % for the third quarter and first nine months of fiscal year 2021, respectively.
+    - We recognized an income tax expense of $ 174 million and $ 327 million for the third quarter and first nine months of fiscal year 2022, respectively, and an income tax expense of $ 12 million and $ 64 million for the third quarter and first nine months of fiscal year 2021, respectively.
+    - Our effective tax rate for the first nine months of fiscal year 2022 was lower than the U.S. federal statutory rate of 21% due to tax benefits from the foreign-derived intangible income deduction, income earned in jurisdictions that are subject to taxes lower than the U.S. federal statutory tax rate, the discrete benefit of the Domestication, and tax benefits related to stock-based compensation and the U.S. federal research tax credit.
+    - Our effective tax rate for the first nine months of fiscal year 2021 was lower than the U.S. federal statutory rate of 21% due to income earned in jurisdictions that are subject to taxes lower than the U.S. federal statutory tax rate, the benefit of the U.S. federal research tax credit, and tax benefits related to stock-based compensation.
+    - October 31, January 31, 2021 2021 Other Long-Term Liabilities: (In millions) Income tax payable (1) $ 1,051 $ 836 Deferred income tax 225 241 Deferred revenue (2) 191 163 Employee benefits 38 33 Licenses payable 21 56 Other 9 46 Total other long-term liabilities $ 1,535 $ 1,375 (1) As of October 31, 2021, income tax payable represents the long-term portion of the one-time transition tax payable of $ 251 million, unrecognized tax benefits of $ 578 million, related interest and penalties of $ 60 million, and other foreign long-term tax payable of $ 162 million.
+    - Gains or losses on the contracts are recorded in accumulated other comprehensive income or loss and reclassified to operating expense when the related operating expenses are recognized in earnings or ineffectiveness should occur.
+    - Therefore, the change in fair value of these contracts is recorded in other income or expense and offsets the change in fair value of the hedged foreign currency denominated monetary assets and liabilities, which is also recorded in other income or expense.
+    - The expected realized gains and losses deferred into accumulated other comprehensive income or loss related to foreign currency forward contracts within the next 12 months was not significant.
+    - During the first nine months of fiscal years 2022 and 2021, the impact of derivative financial instruments designated for hedge accounting treatment on other comprehensive income or loss was not significant.
+  [Risk Factors]
+    - As a multinational corporation, we are subject to income taxes as well as non-income based taxes, such as payroll, sales, use, value-added, net worth, property and goods and services taxes, in both the United States and various foreign jurisdictions.
+    - Any changes in our effective tax rate may reduce our net income.
+    - Significant judgment is required in determining our worldwide provision for income taxes and other tax liabilities.
+    - Our future effective tax rate may also be affected by such factors as changes in our business or statutory rates, changes in jurisdictions in which our profits are determined to be earned and taxed, changes in available tax credits, the resolution of issues arising from tax audits, changes in United States generally accepted accounting principles, adjustments to income taxes upon finalization of tax returns, increases in expenses not deductible for tax purposes, changes in the valuation of our deferred tax assets and liabilities and in deferred tax valuation allowances, changing interpretation of existing laws or regulations, the impact of accounting for stock-based compensation and the recognition of excess tax benefits and tax deficiencies within the income tax provision in the period in which they occur, the impact of accounting for business combinations, shifts in the amount of earnings in the United States compared with other regions in the world and overall levels of income before tax, changes in the domestic or international organization of our business and structure, as well as the expiration of statute of limitations and settlements of audits.
+    - Although we believe our tax estimates are reasonable, tax authorities may disagree with certain positions we have taken, and any adverse outcome of such a review or audit could increase our worldwide effective tax rate, increase the amount of non-income taxes imposed on our business, and harm our financial position, results of operations, and cash flows.
+    - As a multinational corporation, we are subject to income taxes as well as non-income based taxes, such as payroll, sales, use, value-added, net worth, property and goods and services taxes, in both the United States and various foreign jurisdictions.
+    - Any changes in our effective tax rate may reduce our net income.
+    - Significant judgment is required in determining our worldwide provision for income taxes and other tax liabilities.
+    - Our future effective tax rate may be affected by such factors as changes in tax laws, changes in our business or statutory rates, changes in jurisdictions in which our profits are determined to be earned and taxed, changes in available tax credits, the resolution of issues arising from tax audits, changes in United States generally accepted accounting principles, adjustments to income taxes upon finalization of tax returns, increases in expenses not deductible for tax purposes, changes in the valuation of our deferred tax assets and liabilities and in deferred tax valuation allowances, changing interpretation of existing laws or regulations, the impact of accounting for stock-based compensation and the recognition of excess tax benefits and tax deficiencies within the income tax provision in the period in which they occur, the impact of accounting for business combinations, shifts in the amount of earnings in the United States compared with other regions in the world and overall levels of income before tax, changes in the domestic or international organization of our business and structure, as well as the expiration of statute of limitations and settlements of audits.
+    - Although we believe our tax estimates are reasonable, tax authorities may 24 Table of Contents disagree with certain positions we have taken, and any adverse outcome of such a review or audit could increase our worldwide effective tax rate, increase the amount of non-income taxes imposed on our business, and harm our financial position, results of operations, and cash flows.
+
+=== Q2 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - Net income was a $1.62 billion.
+    - 26 Other Income (Expense), Net Interest income consists of interest earned on cash, cash equivalents and marketable securities.
+    - Interest income was $18 million and $6 million for the first quarter of fiscal years 2023 and 2022, respectively.
+    - The income tax expense as a percentage of income before income tax was 10.3% and 6.5% for the first quarter of fiscal years 2023 and 2022, respectively.
+    - Income Taxes We recognized an income tax expense of $187 million and $132 million for the first quarter of fiscal years 2023 and 2022, respectively.
+    - Net income per diluted share was $0.64, down 16% from a year ago and down 46% sequentially.
+  [Financial Statements]
+    - Operating Income: $2.44B | vs prior quarter: $1.96B (+24.9%) | vs prior year: —
+    - Net Income: $2.37B | vs prior quarter: $1.91B (+24.2%) | vs prior year: —
+    - 5 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+    - (2) Calculated as net income divided by diluted weighted average shares.
+    - The income tax expense as a percentage of income before income tax was 10.3 % and 6.5 % for the first quarter of fiscal years 2023 and 2022, respectively.
+    - We recognized an income tax expense of $ 187 million and $ 132 million for the first quarter of fiscal years 2023 and 2022, respectively.
+    - Our effective tax rate for the first quarter of fiscal year 2022 was lower than the U.S. federal statutory rate of 21% due to income earned in jurisdictions that are subject to taxes lower than the U.S. federal statutory tax rate and tax benefits related to stock-based compensation and the U.S. federal research tax credit.
+    - The increase in our effective tax rate was primarily due to an increase in the amount of earnings subject to U.S. tax, the Arm acquisition termination cost recorded in the first quarter of fiscal year 2023 which did not result in any material tax benefit, and a decreased impact of tax benefit from the U.S. federal research tax credit, partially offset by the increased benefits from the foreign-derived intangible income deduction and stock-based compensation.
+    - Our effective tax rate for the first quarter of fiscal year 2023 was lower than the U.S. federal statutory rate of 21% due to tax benefits from the foreign-derived intangible income deduction, stock-based compensation and the U.S. federal research tax credit.
+    - As of January 30, 2022, income tax payable represents the long-term portion of the one-time transition tax payable of $ 251 million, unrecognized tax benefits of $ 670 million, and related interest and penalties of $ 59 million.
+    - 14 NVIDIA CORPORATION AND SUBSIDIARIES NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) (Unaudited) May 1, January 30, 2022 2022 Other Long-Term Liabilities: (In millions) Income tax payable (1) $ 1,051 $ 980 Deferred income tax 257 245 Deferred revenue (2) 203 202 Other 120 126 Total other long-term liabilities $ 1,631 $ 1,553 (1) As of May 1, 2022, income tax payable represents the long-term portion of the one-time transition tax payable of $ 251 million, unrecognized tax benefits of $ 733 million, and related interest and penalties of $ 67 million.
+    - Gains or losses on the contracts are recorded in accumulated other comprehensive income or loss and reclassified to operating expense when the related operating expenses are recognized in earnings or ineffectiveness should occur.
+    - Therefore, the change in fair value of these contracts is recorded in other income or expense and offsets the change in fair value of the hedged foreign currency denominated monetary assets and liabilities, which is also recorded in other income or expense.
+    - The expected realized gains and losses deferred into accumulated other comprehensive income or loss related to foreign currency forward contracts within the next twelve months was not significant.
+    - During the first quarter of fiscal years 2023 and 2022, the impact of derivative financial instruments designated for hedge accounting treatment on other comprehensive income or loss was not significant.
+  [Risk Factors]
+    - As a multinational corporation, we are subject to income taxes as well as non-income based taxes, such as payroll, sales, use, value-added, net worth, property and goods and services taxes, in both the United States and various foreign jurisdictions.
+    - Any changes in our effective tax rate may impact net income.
+    - Significant judgment is required in determining our worldwide provision for income taxes and other tax liabilities.
+    - Our future effective tax rate may also be affected by such factors as changes in our business or statutory rates, changes in jurisdictions in which our profits are determined to be earned and taxed, changes in available tax credits, the resolution of issues arising from tax audits, changes in United States generally accepted accounting principles, adjustments to income taxes upon finalization of tax returns, increases in expenses not deductible for tax purposes, changes in the valuation of our deferred tax assets and liabilities and in deferred tax valuation allowances, changing interpretation of existing laws or regulations, the impact of accounting for stock-based compensation and volatility in our stock price affecting the recognition of excess tax benefits and tax deficiencies within the income tax provision in the period in which they occur, the impact of accounting for business combinations, shifts in the amount of earnings in the United States compared with other regions in the world and overall levels of income before tax, changes in the domestic or international organization of our business and structure, as well as the expiration of statute of limitations and settlements of audits.
+    - Although we believe our tax estimates are reasonable, tax authorities may disagree with certain positions we have taken, and any adverse outcome of such a review or audit could increase our worldwide effective tax rate, increase the amount of non-income taxes imposed on our business, and harm our financial position, results of operations, and cash flows.
+
+=== Q3 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 4 real filing table(s) available (see the HTML report).
+    - Income tax as a percentage of income before income tax was a benefit of 38.0% for the second quarter of fiscal year 2023, and an expense of 0.3% for the first half of fiscal year 2023, and an expense of 0.9% and 3.4% for the second quarter and first half of fiscal year 2022, respectively.
+    - 30 Income Taxes We recognized an income tax benefit of $181 million and an income tax expense of $6 million for the second quarter and first half of fiscal year 2023, respectively, and an income tax expense of $20 million and $153 million for the second quarter and first half of fiscal year 2022, respectively.
+    - 27 Results of Operations The following table sets forth, for the periods indicated, certain items in our Condensed Consolidated Statements of Income expressed as a percentage of revenue.
+    - The increase in interest income was primarily due to higher interest rates earned on our investments.
+  [Financial Statements]
+    - Operating Income: $2.67B | vs prior quarter: $2.44B (+9.3%) | vs prior year: $1.40B (+91.1%)
+    - Net Income: $2.46B | vs prior quarter: $2.37B (+3.8%) | vs prior year: $1.34B (+84.4%)
+    - 6 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+    - (2) Calculated as net income divided by diluted weighted average shares.
+    - Income tax as a percentage of income before income tax was a benefit of 38.0 % for the second quarter of fiscal year 2023, and an expense of 0.3 % for the first half of fiscal year 2023 and an expense of 0.9 % and 3.4 % for the second quarter and first half of fiscal year 2022, respectively.
+    - We recognized an income tax benefit of $ 181 million and an income tax expense of $ 6 million for the second quarter and first half of fiscal year 2023, respectively, and an income tax expense of $ 20 million and $ 153 million for the second quarter and first half of fiscal year 2022, respectively.
+    - Our effective tax rate for the first half of fiscal year 2022 was lower than the U.S. federal statutory rate of 21% due to the discrete benefit of the Domestication, tax benefits related to the foreign-derived intangible income deduction, income earned in jurisdictions that are subject to taxes lower than the U.S. federal statutory tax rate, and tax benefits related to the U.S. federal research tax credit and stock-based compensation.
+    - Our effective tax rate for the first half of fiscal year 2023 was lower than the U.S. federal statutory rate of 21% due to tax benefits from the foreign-derived intangible income deduction, stock-based compensation and the U.S. federal research tax credit.
+    - The decrease in our effective tax rate for the second quarter and first half of fiscal year 2023 as compared to the same periods of fiscal year 2022 was primarily due to the increased tax benefit of stock-based compensation, the foreign-derived intangible income deduction, and the U.S. federal research tax credit, relative to a reduction in expected profitability.
+    - An unrealized loss of $ 6 million on an investment in a publicly-traded equity security was recorded in other income (expense), net in the second quarter of fiscal year 2022 and an unrealized gain of $ 118 million was recorded in other income (expense), net in the first half of fiscal year 2022.
+    - As of January 30, 2022, income tax payable represents the long-term portion of the one-time transition tax payable of $ 251 million, unrecognized tax benefits of $ 670 million, and related interest and penalties of $ 59 million.
+    - July 31, January 30, 2022 2022 Other Long-Term Liabilities: (In millions) Income tax payable (1) $ 1,022 $ 980 Deferred income tax 252 245 Deferred revenue (2) 201 202 Other 134 126 Total other long-term liabilities $ 1,609 $ 1,553 (1) As of July 31, 2022, income tax payable represents the long-term portion of the one-time transition tax payable of $ 188 million, unrecognized tax benefits of $ 762 million, and related interest and penalties of $ 72 million.
+    - Gains or losses on the contracts are recorded in accumulated other comprehensive income or loss and reclassified to operating expense when the related operating expenses are recognized in earnings or ineffectiveness should occur.
+    - Therefore, the change in fair value of these contracts is recorded in other income or expense and offsets the change in fair value of the hedged foreign currency denominated monetary assets and liabilities, which is also recorded in other income or expense.
+    - The expected realized gains and losses deferred into accumulated other comprehensive income or loss related to foreign currency forward contracts within the next twelve months was not significant.
+    - During the first half of fiscal years 2023 and 2022, the impact of derivative financial instruments designated for hedge accounting treatment on other comprehensive income or loss was not significant.
+  [Risk Factors]
+    - As a multinational corporation, we are subject to income taxes as well as non-income-based taxes, such as payroll, sales, use, value-added, net worth, property and goods and services taxes, in both the United States and various foreign jurisdictions.
+    - Any changes in our effective tax rate may impact net income.
+    - Significant judgment is required in determining our worldwide provision for income taxes and other tax liabilities.
+    - Our future effective tax rate may also be affected by such factors as changes in our business or statutory rates, changes in jurisdictions in which our profits are determined to be earned and taxed, changes in available tax credits and deductions, the resolution of issues arising from tax audits, changes in United States generally accepted accounting principles, adjustments to income taxes upon finalization of tax returns, increases in expenses not deductible for tax purposes, changes in the valuation of our deferred tax assets and liabilities and in deferred tax valuation allowances, changing interpretation of existing laws or regulations, the impact of accounting for stock-based compensation and volatility in our stock price affecting the recognition of excess tax benefits and tax deficiencies within the income tax provision in the period in which they occur, the impact of accounting for business combinations, shifts in the amount of earnings in the United States compared with other regions in the world and overall levels of income before tax, changes in the domestic or international organization of our business and structure, as well as the expiration of statute of limitations and settlements of audits.
+    - Although we believe our tax estimates are reasonable, tax authorities may disagree with certain positions we have taken, and any adverse outcome of such a review or audit could increase our worldwide effective tax rate, increase the amount of non-income taxes imposed on our business, and harm our financial position, results of operations, and cash flows.
+    - Further, changes in United States federal, and state or international tax laws applicable to multinational corporations or other fundamental law changes, including changes to existing tax rules and regulations under the current U.S. administration and Congress, such as resulting from the recently enacted Inflation Reduction Act, parts of which are effective for us in fiscal year 2023, and as a result of recommendations from intergovernmental economic organizations such as the Organization for Economic Cooperation and Development, may materially impact our tax expense, the amount of non-income tax imposed on our business, and cash flows.
+
+=== Q4 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 4 real filing table(s) available (see the HTML report).
+    - Income tax as a percentage of income before income tax was a benefit of 10.9% and 2.1% for the third quarter and first nine months of fiscal year 2023, respectively, and an expense of 6.6% and 4.6% for the third quarter and first nine months of fiscal year 2022, respectively.
+    - Income Taxes We recognized an income tax benefit of $67 million and $61 million for the third quarter and first nine months of fiscal year 2023, respectively, and an income tax expense of $174 million and $327 million for the third quarter and first nine months of fiscal year 2022, respectively.
+    - 28 Results of Operations The following table sets forth, for the periods indicated, certain items in our Condensed Consolidated Statements of Income expressed as a percentage of revenue.
+    - The increase in interest income was primarily due to higher interest rates earned on our investments.
+    - Net income and net income per diluted share were $9.75 billion and $3.85, up 125% and 123%, respectively, from a year ago.
+    - Other Income (Expense), Net Interest income consists of interest earned on cash, cash equivalents and marketable securities.
+    - Other, net, was an income of $107 million during fiscal year 2022 and not significant during fiscal year 2021.
+    - Interest income was $29 million and $57 million in fiscal years 2022 and 2021, respectively.
+    - Income Taxes We recognized income tax expense of $189 million and $77 million for fiscal years 2022 and 2021, respectively.
+    - Income from operations was $10.04 billion, up 122% from a year ago.
+  [Financial Statements]
+    - Operating Income: $10.04B | vs prior quarter: — | vs prior year: $4.53B (+121.6%)
+    - Net Income: $9.75B | vs prior quarter: — | vs prior year: $4.33B (+125.1%)
+    - 6 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+    - (2) Calculated as net income divided by diluted weighted average shares.
+    - Income tax as a percentage of income before income tax was a benefit of 10.9 % and 2.1 % for the third quarter and first nine months of fiscal year 2023, respectively, and an expense of 6.6 % and 4.6 % for the third quarter and first nine months of fiscal year 2022, respectively.
+    - We recognized an income tax benefit of $ 67 million and $ 61 million for the third quarter and first nine months of fiscal year 2023, respectively, and an income tax expense of $ 174 million and $ 327 million for the third quarter and first nine months of fiscal year 2022, respectively.
+    - Our effective tax rate for the first nine months of fiscal year 2022 was lower than the U.S. federal statutory rate of 21% due to tax benefits from the foreign-derived intangible income deduction, income earned in jurisdictions that are subject to taxes lower than the U.S. federal statutory tax rate, the discrete benefit of the Domestication, and tax benefits related to stock-based compensation and the U.S. federal research tax credit.
+    - Our effective tax rate for the first nine months of fiscal year 2023 was lower than the U.S. federal statutory rate of 21% due to tax benefits from the foreign-derived intangible income deduction, stock-based compensation and the U.S. federal research tax credit.
+    - The decrease in our effective tax rate for the third quarter and first nine months of fiscal year 2023 as compared to the same periods of fiscal year 2022 was primarily due to the increased tax benefit of the foreign-derived intangible income deduction, stock-based compensation, and the U.S. federal research tax credit, relative to a lower expected profitability.
+    - Unrealized gains of $ 8 million and $ 126 million from an investment in a publicly-traded equity security were recorded in other income (expense), net, in the third quarter and first nine months of fiscal year 2022, respectively.
+    - As of January 30, 2022, income tax payable represents the long-term portion of the one-time transition tax payable of $ 251 million, unrecognized tax benefits of $ 670 million, and related interest and penalties of $ 59 million.
+    - October 30, January 30, 2022 2022 Other Long-Term Liabilities: (In millions) Income tax payable (1) $ 1,057 $ 980 Deferred income tax 246 245 Deferred revenue (2) 213 202 Other 269 126 Total other long-term liabilities $ 1,785 $ 1,553 (1) As of October 30, 2022, income tax payable represents the long-term portion of the one-time transition tax payable of $ 188 million, unrecognized tax benefits of $ 789 million, and related interest and penalties of $ 80 million.
+    - Gains or losses on the contracts are recorded in accumulated other comprehensive income or loss and reclassified to operating expense when the related operating expenses are recognized in earnings or ineffectiveness should occur.
+    - Therefore, the change in fair value of these contracts is recorded in other income or expense and offsets the change in fair value of the hedged foreign currency denominated monetary assets and liabilities, which is also recorded in other income or expense.
+    - The expected realized gains and losses deferred into accumulated other comprehensive income or loss related to foreign currency forward contracts within the next twelve months was not significant.
+    - During the first nine months of fiscal years 2023 and 2022, the impact of derivative financial instruments designated for hedge accounting treatment on other comprehensive income or loss was not significant.
+  [Risk Factors]
+    - As a multinational corporation, we are subject to income taxes as well as non-income-based taxes, such as payroll, sales, use, value-added, net worth, property and goods and services taxes, in both the United States and various foreign jurisdictions.
+    - Any changes in our effective tax rate may reduce our net income.
+    - Furthermore, recent proposals to increase the U.S. corporate income tax rate or impose a minimum tax on financial statement income, increase U.S. taxation of international business operations and impose a global minimum tax, could result in increased marginal corporate tax rates.
+    - Significant judgment is required in determining our worldwide provision for income taxes and other tax liabilities.
+    - Our future effective tax rate may also be affected by changes in our business or statutory rates, changes in jurisdictions in which our profits are determined to be earned and taxed, changes in available tax credits, the resolution of issues arising from tax audits, changes in United States generally accepted accounting principles, adjustments to income taxes upon finalization of tax returns, increases in expenses not deductible for tax purposes, changes in the valuation of our deferred tax assets and liabilities and in deferred tax valuation allowances, changing interpretation of existing laws or regulations, the impact of accounting for stock-based compensation and the recognition of excess tax benefits and tax deficiencies within the income tax provision in the period in which they occur, the impact of accounting for business combinations, shifts in the amount of earnings in the United States compared with other regions in the world and overall levels of income before tax, changes in the domestic or international organization of our business and structure, as well as the expiration of statute of limitations and settlements of audits.
+    - Although we believe our tax estimates are reasonable, tax authorities may disagree with certain positions we have taken, and any adverse outcome of such a review or audit could increase our worldwide effective tax rate, increase the amount of non-income taxes imposed on our business, and harm our financial position, results of operations, and cash flows.
+
