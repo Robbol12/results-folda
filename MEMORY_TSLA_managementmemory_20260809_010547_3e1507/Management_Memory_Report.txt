@@ -1,0 +1,28 @@
+[MANAGEMENT MEMORY] TSLA
+
+Coverage: TSLA_Q4_2017 through TSLA_Q4_2025 (29 available periods)
+First and last observed mean first and last observed in the available transcript coverage, not the company's true historical first or last mention.
+
+- autonomy: accelerating | first TSLA_Q1_2019 | last TSLA_Q4_2025 | 15 periods | high confidence | attention delta 129.0% | wording reframed
+  Forward-looking language: 2 sentence(s) across 2 period(s)
+  Investor pressure: 4 question(s), 37 answer(s); latest focus shared
+  TSLA_Q1_2019: On Monday, we hosted our first ever Autonomy Investor Day showcasing our new in-house design full self-driving computer and our AI-based software trained by more than 400,000 Tesla vehicles.
+  TSLA_Q4_2025: As we increase vehicle autonomy and begin to produce Optimus robots at scale, we are making very big investments.
+- logistic: historical | first TSLA_Q1_2019 | last TSLA_Q2_2024 | 13 periods | high confidence | attention delta None% | wording reframed
+  Investor pressure: 0 question(s), 18 answer(s); latest focus quiet
+  TSLA_Q1_2019: This rapid increase in overseas volume strained our logistics operation and resulted in over half of our global deliveries occurring in the final 10 days of Q1.
+  TSLA_Q2_2024: Recognition of storage gigawatt hours is dependent on a variety of factors, including logistics timing as we send units from a single factory to markets across the world, customer readiness and in case of EPC projects on construction activities.
+- autopilot: historical | first TSLA_Q3_2019 | last TSLA_Q2_2025 | 12 periods | high confidence | attention delta None% | wording reframed
+  Forward-looking language: 1 sentence(s) across 1 period(s)
+  Investor pressure: 3 question(s), 15 answer(s); latest focus quiet
+  TSLA_Q3_2019: So, this really illustrates the value of having a massive fleet, because it allows us to collect these corner cases and learn from them, and use street learning and become rapidly better just as Navigator and Autopilot did on the freeway.
+  TSLA_Q2_2025: It does create an odd safety issue where people will disengage Autopilot, then do something like change the radio or look at their phone, drive with their knee, and then reengage Autopilot, which is less safe than simply keeping Autopilot on.
+- prototypes: stable | first TSLA_Q4_2019 | last TSLA_Q4_2025 | 7 periods | high confidence | attention delta None% | wording reframed
+  Investor pressure: 3 question(s), 7 answer(s); latest focus shared
+  TSLA_Q4_2019: Regarding Model Y, it was only 10 months ago that we revealed a Model Y prototype.
+  TSLA_Q4_2025: We've actually shown pictures of this and in fact have shown prototypes.
+- robo: stable | first TSLA_Q1_2019 | last TSLA_Q4_2025 | 3 periods | high confidence | attention delta None% | wording reframed
+  Forward-looking language: 1 sentence(s) across 1 period(s)
+  Investor pressure: 2 question(s), 1 answer(s); latest focus shared
+  TSLA_Q1_2019: And in 2020, we expect to have 1 million robo taxis on the road with the hardware necessary for full self-driving.
+  TSLA_Q4_2025: Because that implies that the CyberCab, which is a dedicated two-seater dedicated robo taxi, is a little confusing with the terms robo taxi and CyberCab.
