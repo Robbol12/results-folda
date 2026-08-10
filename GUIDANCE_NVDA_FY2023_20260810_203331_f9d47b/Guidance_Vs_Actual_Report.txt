@@ -1,0 +1,282 @@
+[GUIDANCE VS ACTUAL] NVDA: company-wide anchor year 2023
+
+Coverage window: [2022, 2024]
+Coverage state: partial coverage for the loaded source corpus; expected transcript periods are missing
+Summary: {"guidance_count": 15, "resolved_pair_count": 3, "active_guidance_count": 0, "active_resolved_pair_count": 0, "out_of_cohort_count": 15, "closed_verdict_count": 15, "not_verifiable_count": 9, "coverage_incomplete_count": 0, "unresolved_count": 0, "verdict_counts": {"Missed": 2, "Not Verifiable After Exhaustive Search": 9, "Superseded": 4}, "category_counts": {"financial": 15}, "coverage_state": "partial coverage for the loaded source corpus; expected transcript periods are missing"}
+
+--- Active cohort comparisons ---
+--- Explicit targets outside the anchor-year cohorts (appendix) ---
+1. Superseded · Operating expenses · outside anchor-year cohorts
+   Guidance [NVDA_Q1_2022] GAAP and non-GAAP operating expenses are expected to be approximately $17.6 billion and $1.26 billion,
+   Target: Q2 FY2022
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+2. Superseded · Revenue · outside anchor-year cohorts
+   Guidance [NVDA_Q1_2022] Now to look at our outlook for Q2, revenue is expected to be $6.3 billion, plus or minus 2%.
+   Target: Q2 FY2022
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+3. Not Verifiable After Exhaustive Search · Operating expenses · outside anchor-year cohorts
+   Guidance [NVDA_Q2_2022] GAAP and non-GAAP operating expenses are expected to be approximately $1.96 billion and $1.37
+   Target: Q2 FY2022
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+4. Not Verifiable After Exhaustive Search · Revenue · outside anchor-year cohorts
+   Guidance [NVDA_Q2_2022] Revenue is expected to be $6.8 billion, plus or minus 2%.
+   Target: Q2 FY2022
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+5. Not Verifiable After Exhaustive Search · Operating expenses · outside anchor-year cohorts
+   Guidance [NVDA_Q4_2022] GAAP operating expenses are expected to be $3.55 billion, including the Arm write-off of $1.36 billion.
+   Target: Q4 FY2022
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+6. Missed · Operating expenses · outside anchor-year cohorts
+   Guidance [NVDA_Q4_2022] Non-GAAP operating expenses are expected to be $1.6 billion.
+   Target: FY2022
+   Actual [FY2022] 36 Table of Contents Operating Expenses Year Ended January 30, 2022 January 31, 2021 $ Change % Change ($ in millions) Research and development expenses $ 5,268 $ 3,924 $ 1,344 34 % % of net revenue 19.6 % 23.5 % Sales, general and administrative expenses 2,166 1,940 226 12 % % of net revenue 8.0 % 11.6 % Total operating expenses $ 7,434 $ 5,864 $ 1,570 27 % Research and Development Research and development expenses increased by 34% in fiscal year 2022 compared to fiscal year 2021, primarily driven by stock-based compensation, compensation-related costs associated with employee growth and higher infrastructure costs.
+   Explanation: The actual is below the stated point target.
+
+7. Not Verifiable After Exhaustive Search · Revenue · outside anchor-year cohorts
+   Guidance [NVDA_Q4_2022] Revenue is expected to be $8.1 billion, plus or minus 2%.
+   Target: Q4 FY2022
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+8. Not Verifiable After Exhaustive Search · Operating expenses · outside anchor-year cohorts
+   Guidance [NVDA_Q2_2023] Non-GAAP operating expenses are expected to be approximately $1.82 billion.
+   Target: Q2 FY2023
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+9. Missed · Operating expenses · outside anchor-year cohorts
+   Guidance [NVDA_Q2_2023] Our full year non-GAAP opex is expected to grow over 30%.
+   Target: FY2023
+   Actual [Q4 FY2023] Operating Expenses Three Months Ended Nine Months Ended October 29, 2023 October 30, 2022 $ Change % Change October 29, 2023 October 30, 2022 $ Change % Change ($ in millions) Research and development expenses $ 2,294 $ 1,945 $ 349 18 % $ 6,210 $ 5,387 $ 823 15 % % of net revenue 12.7 % 32.8 % 16.0 % 25.7 % Sales, general and administrative expenses 689 631 58 9 % 1,942 1,815 127 7 % % of net revenue 3.8 % 10.6 % 5.0 % 8.7 % Acquisition termination cost — — — — % — 1,353 (1,353) (100) % % of net revenue — % — % — % 6.5 % Total operating expenses $ 2,983 $ 2,576 $ 407 16 % $ 8,152 $ 8,555 $ (403) (5) % % of net revenue 16.5 % 43.4 % 21.0 % 40.9 % The increases in research and development expenses and sales, general and administrative expenses for the third quarter and first nine months of fiscal year 2024 were primarily driven by compensation and benefits, including stock-based compensation, reflecting employee growth and compensation increases.
+   Explanation: The actual is below the stated lower threshold.
+
+10. Not Verifiable After Exhaustive Search · Revenue · outside anchor-year cohorts
+   Guidance [NVDA_Q2_2023] Revenue is expected to be $5.9 billion, plus or minus 2%.
+   Target: Q2 FY2023
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+11. Superseded · Operating expenses · outside anchor-year cohorts
+   Guidance [NVDA_Q3_2023] GAAP operating expenses are expected to be approximately $2.56 billion.
+   Target: Q4 FY2023
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+12. Superseded · Revenue · outside anchor-year cohorts
+   Guidance [NVDA_Q3_2023] Revenue is expected to be $6 billion, plus or minus 2%.
+   Target: Q4 FY2023
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+13. Not Verifiable After Exhaustive Search · Revenue · outside anchor-year cohorts
+   Guidance [NVDA_Q3_2023] We expect our data center revenue
+   Target: Q4 FY2023
+   Actual [Q4 FY2023] total data center sequential revenue decline was driven by lower sales in China, which was largely in line with our
+   Explanation: A candidate actual was found, but deterministic comparability checks rejected it: The evidence is qualitative but does not establish a comparable outcome.
+
+14. Not Verifiable After Exhaustive Search · Operating expenses · outside anchor-year cohorts
+   Guidance [NVDA_Q4_2023] Non-GAAP operating expenses are expected to be approximately $1.78 billion.
+   Target: Q4 FY2023
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+15. Not Verifiable After Exhaustive Search · Revenue · outside anchor-year cohorts
+   Guidance [NVDA_Q4_2023] Revenue is expected to be $6.5 billion, plus or minus 2%.
+   Target: Q4 FY2023
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+--- Unpaired actuals (showing 32 of 600; full ledger is in JSON/CSV) ---
+[NVDA_Q1_2022] revenue was $155 million in Q1, reported as part of the OEM and other category.
+[NVDA_Q2_2022] Q2 revenue was a record $519 million, up 40% sequentially and up 156%
+[NVDA_Q2_2022] Our Q2 revenue was $152 million, down 1% sequentially and up 3% year-on-year.
+[NVDA_Q2_2022] Revenue of $2.4 billion, grew 16% sequentially and 35% from the year ago quarter -- the
+[NVDA_Q2_2022] Q2 was another strong quarter with revenue of $6.5 billion and year-on-year growth of 68%.
+[NVDA_Q2_2022] Starting with Gaming, revenue was $3.1 billion, was up 11% sequentially and up 85% from a year earlier.
+[NVDA_Q4_2022] Q4 revenue was $643 million was up 11%
+[NVDA_Q4_2022] sequentially and up 109% from a year ago.
+[NVDA_Q4_2022] Q4 revenue was $125 million, declined 7% sequentially and 14% from the year-ago quarter.
+[NVDA_Q4_2022] of $566 million was up 6%.
+[NVDA_Q4_2022] Record revenue of $3.3 billion grew 11% sequentially and 71% from a
+[NVDA_Q4_2022] Fiscal year revenue of $10.6 billion was up 58%.
+[NVDA_Q4_2022] We had an excellent quarter with revenue up 53% year on year to $7.6 billion.
+[NVDA_Q4_2022] record $26.9 billion, up 61%, compounding the prior year's growth of 53%.
+[10-Q Q4 2022 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] 26 Third Quarter of Fiscal Year 2023 Summary Three Months Ended October 30, 2022 July 31, 2022 October 31, 2021 Quarter-over-Quarter Change Year-over-Year Change ($ in millions, except per share data) Revenue $ 5,931 $ 6,704 $ 7,103 (12) % (17) % Gross margin 53.6 % 43.5 % 65.2 % 10.1 pts (11.6) pts Operating expenses $ 2,576 $ 2,416 $ 1,960 7 % 31 % Income from operations $ 601 $ 499 $ 2,671 20 % (77) % Net income $ 680 $ 656 $ 2,464 4 % (72) % Net income per diluted share $ 0.27 $ 0.26 $ 0.97 4 % (72) % We specialize in markets where our computing platforms can provide tremendous acceleration for applications.
+[10-Q Q4 2022 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Revenue for the third quarter of fiscal year 2023 was $5.93 billion, down 17% from a year ago and down 12% sequentially.
+[10-Q Q4 2022 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] The year-on-year decrease was driven by lower GPU sales for both desktops and laptops; the sequential decline was primarily driven by lower GPU sales for laptops.
+[10-Q Q4 2022 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] This may have contributed to increased aftermarket sales of our GPUs in certain markets, potentially impacting demand for some of our products, particularly in the low-end.
+[10-Q Q4 2022 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] The sequential decline was driven by lower Jetson and notebook OEM sales.
+[10-K FY2022 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Fiscal Year 2022 Summary Year Ended January 30, 2022 January 31, 2021 Change ($ in millions, except per share data) Revenue $ 26,914 $ 16,675 Up 61% Gross margin 64.9 % 62.3 % Up 260 bps Operating expenses $ 7,434 $ 5,864 Up 27% Income from operations $ 10,041 $ 4,532 Up 122% Net income $ 9,752 $ 4,332 Up 125% Net income per diluted share $ 3.85 $ 1.73 Up 123% We specialize in markets where our computing platforms can provide tremendous acceleration for applications.
+[10-K FY2022 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Revenue for fiscal year 2022 was $26.91 billion, up 61% from a year ago.
+[10-K FY2022 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Professional Visualization revenue was up 100% from a year ago driven by the ramp of NVIDIA Ampere architecture products and strong demand for workstations as enterprises support hybrid work environments, as well as growth in workloads such as 3D design, AI and rendering.
+[10-Q Q2 2023 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] 24 First Quarter of Fiscal Year 2024 Summary Three Months Ended April 30, 2023 January 29, 2023 May 1, 2022 Quarter-over-Quarter Change Year-over-Year Change ($ in millions, except per share data) Revenue $ 7,192 $ 6,051 $ 8,288 19 % (13) % Gross margin 64.6 % 63.3 % 65.5 % 1.3 pts (0.9) pts Operating expenses $ 2,508 $ 2,576 $ 3,563 (3) % (30) % Income from operations $ 2,140 $ 1,257 $ 1,868 70 % 15 % Net income $ 2,043 $ 1,414 $ 1,618 44 % 26 % Net income per diluted share $ 0.82 $ 0.57 $ 0.64 44 % 28 % We specialize in markets where our computing platforms can provide tremendous acceleration for applications.
+[10-Q Q2 2023 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Revenue for the first quarter of fiscal year 2024 was $7.19 billion, down 13% from a year ago and up 19% sequentially.
+[10-Q Q2 2023 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Gaming revenue for the first quarter of fiscal year 2024 was $2.24 billion, down 38% from a year ago.
+[10-Q Q2 2023 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Professional Visualization revenue for the first quarter of fiscal year 2024 was $295 million, down 53% from a year ago, on lower sell-in to partners to help reduce channel inventory levels.
+[10-Q Q2 2023 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Automotive revenue for the first quarter of fiscal year 2024 was $296 million, up 114% from a year ago on growth in sales of self-driving platforms and AI cockpit solutions.
+[NVDA_Q4_2023] Gaming revenue of $1.83 billion was up 16% sequentially and down 46% from a year ago.
+[NVDA_Q4_2023] Revenue of $226 million was up 13% sequentially and down 65% from a year ago.
+[NVDA_Q4_2023] Revenue was a record $294
+[NVDA_Q1_2024] This quarter, we started shipping DGX H100, our Hopper generation AI
+[NVDA_Q1_2024] BlueField-3 DPUs and Spectrum-4 ethernet switching offers the highest available ethernet network performance.
+
+--- Source inventory ---
+[transcript] NVDA_Q1_2022
+[xbrl] XBRL Revenue Q1 FY2022
+[xbrl] XBRL Gross Profit Q1 FY2022
+[xbrl] XBRL Operating Income Q1 FY2022
+[xbrl] XBRL Net Income Q1 FY2022
+[xbrl] XBRL Diluted EPS Q1 FY2022
+[xbrl] XBRL Operating Cash Flow Q1 FY2022
+[xbrl] XBRL Gross margin Q1 FY2022
+[xbrl] XBRL Operating margin Q1 FY2022
+[transcript] NVDA_Q2_2022
+[filing] 10-Q Q2 2022 — ITEM 1A. RISK FACTORS
+[filing] 10-Q Q2 2022 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q2 2022 — ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+[filing] 10-Q Q2 2022 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 14 - Shareholders’ Equity
+[xbrl] XBRL Revenue Q2 FY2022
+[xbrl] XBRL Gross Profit Q2 FY2022
+[xbrl] XBRL Operating Income Q2 FY2022
+[xbrl] XBRL Net Income Q2 FY2022
+[xbrl] XBRL Diluted EPS Q2 FY2022
+[xbrl] XBRL Operating Cash Flow Q2 FY2022
+[xbrl] XBRL Gross margin Q2 FY2022
+[xbrl] XBRL Operating margin Q2 FY2022
+[filing] 10-Q Q3 2022 — ITEM 1A. RISK FACTORS
+[filing] 10-Q Q3 2022 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q3 2022 — ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+[xbrl] XBRL Revenue Q3 FY2022
+[xbrl] XBRL Gross Profit Q3 FY2022
+[xbrl] XBRL Operating Income Q3 FY2022
+[xbrl] XBRL Net Income Q3 FY2022
+[xbrl] XBRL Diluted EPS Q3 FY2022
+[xbrl] XBRL Operating Cash Flow Q3 FY2022
+[xbrl] XBRL Gross margin Q3 FY2022
+[xbrl] XBRL Operating margin Q3 FY2022
+[transcript] NVDA_Q4_2022
+[filing] 10-Q Q4 2022 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q4 2022 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 13 - Commitments and Contingencies
+[filing] 10-Q Q4 2022 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 15 - Segment Information
+[filing] 10-Q Q4 2022 — ITEM 1A. RISK FACTORS
+[filing] 10-Q Q4 2022 — ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+[filing] 10-K FY2022 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-K FY2022 — ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+[filing] 10-K FY2022 — ITEM 1A. RISK FACTORS
+[filing] 10-K FY2022 — ITEM 5. MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+[xbrl] XBRL Revenue FY2022
+[xbrl] XBRL Gross Profit FY2022
+[xbrl] XBRL Operating Income FY2022
+[xbrl] XBRL Net Income FY2022
+[xbrl] XBRL Diluted EPS FY2022
+[xbrl] XBRL Operating Cash Flow FY2022
+[xbrl] XBRL Gross margin FY2022
+[xbrl] XBRL Operating margin FY2022
+[xbrl] XBRL Revenue Q1 FY2023
+[xbrl] XBRL Gross Profit Q1 FY2023
+[xbrl] XBRL Operating Income Q1 FY2023
+[xbrl] XBRL Net Income Q1 FY2023
+[xbrl] XBRL Diluted EPS Q1 FY2023
+[xbrl] XBRL Operating Cash Flow Q1 FY2023
+[xbrl] XBRL Gross margin Q1 FY2023
+[xbrl] XBRL Operating margin Q1 FY2023
+[transcript] NVDA_Q2_2023
+[filing] 10-Q Q2 2023 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q2 2023 — ITEM 1A. RISK FACTORS
+[filing] 10-Q Q2 2023 — ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+[xbrl] XBRL Revenue Q2 FY2023
+[xbrl] XBRL Gross Profit Q2 FY2023
+[xbrl] XBRL Operating Income Q2 FY2023
+[xbrl] XBRL Net Income Q2 FY2023
+[xbrl] XBRL Diluted EPS Q2 FY2023
+[xbrl] XBRL Operating Cash Flow Q2 FY2023
+[xbrl] XBRL Gross margin Q2 FY2023
+[xbrl] XBRL Operating margin Q2 FY2023
+[transcript] NVDA_Q3_2023
+[filing] 10-Q Q3 2023 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 15 - Segment Information
+[filing] 10-Q Q3 2023 — ITEM 1A. RISK FACTORS
+[filing] 10-Q Q3 2023 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[xbrl] XBRL Revenue Q3 FY2023
+[xbrl] XBRL Gross Profit Q3 FY2023
+[xbrl] XBRL Operating Income Q3 FY2023
+[xbrl] XBRL Net Income Q3 FY2023
+[xbrl] XBRL Diluted EPS Q3 FY2023
+[xbrl] XBRL Operating Cash Flow Q3 FY2023
+[xbrl] XBRL Gross margin Q3 FY2023
+[xbrl] XBRL Operating margin Q3 FY2023
+[filing] 10-Q Q4 2023 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[transcript] NVDA_Q4_2023
+[filing] 10-Q Q4 2023 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 15 - Segment Information
+[filing] 10-Q Q4 2023 — ITEM 1A. RISK FACTORS
+[filing] 10-K FY2023 — ITEM 1. BUSINESS
+[filing] 10-K FY2023 — ITEM 15. EXHIBIT AND FINANCIAL STATEMENT SCHEDULES
+[filing] 10-K FY2023 — ITEM 1A. RISK FACTORS
+[filing] 10-K FY2023 — ITEM 5. MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+[filing] 10-K FY2023 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[xbrl] XBRL Revenue FY2023
+[xbrl] XBRL Gross Profit FY2023
+[xbrl] XBRL Operating Income FY2023
+[xbrl] XBRL Net Income FY2023
+[xbrl] XBRL Diluted EPS FY2023
+[xbrl] XBRL Operating Cash Flow FY2023
+[xbrl] XBRL Gross margin FY2023
+[xbrl] XBRL Operating margin FY2023
+[transcript] NVDA_Q1_2024
+[xbrl] XBRL Revenue Q1 FY2024
+[xbrl] XBRL Gross Profit Q1 FY2024
+[xbrl] XBRL Operating Income Q1 FY2024
+[xbrl] XBRL Net Income Q1 FY2024
+[xbrl] XBRL Diluted EPS Q1 FY2024
+[xbrl] XBRL Operating Cash Flow Q1 FY2024
+[xbrl] XBRL Gross margin Q1 FY2024
+[xbrl] XBRL Operating margin Q1 FY2024
+[transcript] NVDA_Q2_2024
+[filing] 10-Q Q2 2024 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+[filing] 10-Q Q2 2024 — Item 1. Financial Statements (Unaudited) — Note 14 - Segment Information
+[filing] 10-Q Q2 2024 — Item 1. Financial Statements (Unaudited) — Note 15 - Subsequent Events
+[filing] 10-Q Q2 2024 — Item 1A. Risk Factors
+[xbrl] XBRL Revenue Q2 FY2024
+[xbrl] XBRL Gross Profit Q2 FY2024
+[xbrl] XBRL Operating Income Q2 FY2024
+[xbrl] XBRL Net Income Q2 FY2024
+[xbrl] XBRL Diluted EPS Q2 FY2024
+[xbrl] XBRL Operating Cash Flow Q2 FY2024
+[xbrl] XBRL Gross margin Q2 FY2024
+[xbrl] XBRL Operating margin Q2 FY2024
+[transcript] NVDA_Q3_2024
+[filing] 10-Q Q3 2024 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+[filing] 10-Q Q3 2024 — Item 1. Financial Statements (Unaudited) — Note 14 - Segment Information
+[filing] 10-Q Q3 2024 — Item 1A. Risk Factors
+[xbrl] XBRL Revenue Q3 FY2024
+[xbrl] XBRL Gross Profit Q3 FY2024
+[xbrl] XBRL Operating Income Q3 FY2024
+[xbrl] XBRL Net Income Q3 FY2024
+[xbrl] XBRL Diluted EPS Q3 FY2024
+[xbrl] XBRL Operating Cash Flow Q3 FY2024
+[xbrl] XBRL Gross margin Q3 FY2024
+[xbrl] XBRL Operating margin Q3 FY2024
+[filing] 10-Q Q4 2024 — Item 1. Financial Statements (Unaudited) — Note 14 - Segment Information
+[filing] 10-Q Q4 2024 — Item 1A. Risk Factors
+[filing] 10-Q Q4 2024 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+[filing] 10-K FY2024 — Item 1. Business
+[filing] 10-K FY2024 — Item 15. Exhibit and Financial Statement Schedules
+[filing] 10-K FY2024 — Item 1A. Risk Factors
+[filing] 10-K FY2024 — Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+[xbrl] XBRL Revenue FY2024
+[xbrl] XBRL Gross Profit FY2024
+[xbrl] XBRL Operating Income FY2024
+[xbrl] XBRL Net Income FY2024
+[xbrl] XBRL Diluted EPS FY2024
+[xbrl] XBRL Operating Cash Flow FY2024
+[xbrl] XBRL Gross margin FY2024
+[xbrl] XBRL Operating margin FY2024
