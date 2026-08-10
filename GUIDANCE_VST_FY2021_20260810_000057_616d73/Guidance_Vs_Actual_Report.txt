@@ -1,0 +1,465 @@
+[GUIDANCE VS ACTUAL] VST: company-wide anchor year 2021
+
+Coverage window: [2020, 2022]
+Coverage state: covered for the loaded source corpus; some items have closed non-binary evidence classifications
+Summary: {"guidance_count": 46, "resolved_pair_count": 4, "closed_verdict_count": 46, "not_verifiable_count": 37, "unresolved_count": 0, "verdict_counts": {"Met": 1, "Not Verifiable After Exhaustive Search": 37, "Superseded": 8}, "category_counts": {"financial": 39, "other assessable company-level guidance": 6, "capacity or infrastructure": 1}, "coverage_state": "covered for the loaded source corpus; some items have closed non-binary evidence classifications"}
+
+--- Comparisons ---
+1. Not Verifiable After Exhaustive Search · Adjusted Ebitda · outside anchor-year cohorts
+   Guidance [VST_Q1_2020] As we turn now to Slide 11, you can see all of the variables we just discussed accounted for in our 2020 guidance walk forward table.
+   Target: FY2020
+   Actual [FY2020] Net income increased by $175 million to $309 million and Adjusted EBITDA increased by $176 million to $983 million in the year ended December 31, 2020 compared to the year ended December 31, 2019.
+   Explanation: explicit target-period evidence
+
+2. Not Verifiable After Exhaustive Search · Free cash flow · outside anchor-year cohorts
+   Guidance [VST_Q1_2020] As we turn now to Slide 11, you can see all of the variables we just discussed accounted for in our 2020 guidance walk forward table.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+3. Superseded · Adjusted Ebitda · prior-year guidance resolved in anchor year
+   Guidance [VST_Q1_2020] Importantly, this means that even in our most punitive modeled case, we still expect we will be able to deliver approximately $3.1 billion or more of adjusted EBITDA from our ongoing operations in 2021.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+4. Not Verifiable After Exhaustive Search · Bad Debt Expense · outside anchor-year cohorts
+   Guidance [VST_Q1_2020] In total, we had a strong first quarter, and we are tracking strong for the full year with the expectation that our 2020 ongoing operations adjusted EBITDA will be well within the range of the $3.285 billion to $3.585 billion, which is yet another example of the resiliency of the integrated model.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+5. Not Verifiable After Exhaustive Search · Volume Impact · outside anchor-year cohorts
+   Guidance [VST_Q1_2020] In total, we had a strong first quarter, and we are tracking strong for the full year with the expectation that our 2020 ongoing operations adjusted EBITDA will be well within the range of the $3.285 billion to $3.585 billion, which is yet another example of the resiliency of the integrated model.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+6. Superseded · Adjusted Ebitda · prior-year guidance resolved in anchor year
+   Guidance [VST_Q1_2020] Just looking at forward curves as of March 31, 2020, which already reflected a level of uncertainty around COVID-19 impact, which suggests 2021 ongoing operations adjusted EBITDA would be approximately $200 million to $250 million lower than our 2020 guidance midpoint or about a 6% to 7% reduction.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+7. Not Verifiable After Exhaustive Search · Hedge Ratio · prior-year guidance resolved in anchor year
+   Guidance [VST_Q1_2020] Prior to COVID-19, our fundamental point of view suggested 2021 ongoing operations adjusted EBITDA could track in line with or potentially higher than 2020 expected results.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+8. Not Verifiable After Exhaustive Search · Adjusted Ebitda Retail Segment · outside anchor-year cohorts
+   Guidance [VST_Q1_2020] This forecasted retail variance is comprised of an expected $10 million benefit from lower costs and an accelerated capture of synergies from our Ambit and Crius acquisitions, offset by $70 million of expected headwinds related to COVID-19.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+9. Not Verifiable After Exhaustive Search · Free cash flow · outside anchor-year cohorts
+   Guidance [VST_Q1_2020] We are also reaffirming our ongoing operations adjusted free cash flow before growth guidance range of $2.16 billion to $2.46 billion.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+10. Not Verifiable After Exhaustive Search · Adjusted Ebitda Generation Segment · outside anchor-year cohorts
+   Guidance [VST_Q1_2020] We expect this positive variance in our generation segment to be potentially offset by a $60 million negative variance in our retail segment as compared to our initial guidance forecast.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+11. Superseded · Free cash flow · prior-year guidance resolved in anchor year
+   Guidance [VST_Q1_2020] With an expected 65% to 70% free cash flow conversion ratio, this would translate to more than $2 billion of adjusted free cash flow before growth, meaning that even in a recession created by an extremely low probability pandemic tail event, we expect to maintain very strong liquidity.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+12. Not Verifiable After Exhaustive Search · Free cash flow · outside anchor-year cohorts
+   Guidance [VST_Q2_2020] As a result of this strong performance through the first half of the year, we are reaffirming our 2020 guidance ranges for both ongoing operations adjusted EBITDA and ongoing operations adjusted free cash flow before growth, as set forth on slide six.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+13. Not Verifiable After Exhaustive Search · Revenue · outside anchor-year cohorts
+   Guidance [VST_Q2_2020] In addition, our teams continue to drive savings and revenue enhancements through the ongoing execution of our operations performance improvement initiative, which we expect will deliver an incremental $100 million of adjusted EBITDA in 2020, reaching an annual run rate of nearly $700 million by year-end.
+   Target: FY2020
+   Actual [FY2020] Increased unemployment of residential customers and decreased demand for products and services by commercial and industrial customers resulting from an economic downturn could lead to declines in the demand for energy and an increase in the number of uncollectible customer balances, which would negatively impact our overall sales and cash flows.
+   Explanation: explicit target-period evidence
+
+14. Superseded · Adjusted Ebitda · prior-year guidance resolved in anchor year
+   Guidance [VST_Q2_2020] This strong recovery in demand, particularly in ERCOT, is a positive data point for our 2021 outlook, bringing us to slide eight.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+15. Not Verifiable After Exhaustive Search · Forward Price Summer Peak · prior-year guidance resolved in anchor year
+   Guidance [VST_Q2_2020] Vistra's fundamental point of view continues to suggest that our 2021 ongoing operations adjusted EBITDA could track in line with or potentially slightly lower than the 2020 guidance midpoint.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+16. Not Verifiable After Exhaustive Search · Dividend Per Share · outside anchor-year cohorts
+   Guidance [VST_Q3_2020] As it relates to the dividend, it is our intention to increase our dividend by approximately 8% in 2021, at the high end of our expected 6% to 8% annual growth rate.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+17. Not Verifiable After Exhaustive Search · Cash Return To Stakeholders · outside anchor-year cohorts
+   Guidance [VST_Q3_2020] As we approach our long-term leverage target of 2.5 times net-debt-to-EBITDA, we also believe we are on track to achieve investment-grade credit ratings next year.
+   Target: FY2025
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+18. Not Verifiable After Exhaustive Search · Leverage Ratio Target · prior-year guidance resolved in anchor year
+   Guidance [VST_Q3_2020] As we approach our long-term leverage target of 2.5 times net-debt-to-EBITDA, we also believe we are on track to achieve investment-grade credit ratings next year.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+19. Not Verifiable After Exhaustive Search · Adjusted Ebitda Share · outside anchor-year cohorts
+   Guidance [VST_Q3_2020] By 2040, we estimate at least 70% to 80% of our adjusted EBITDA will come from our carbon-free operations, including retail, nuclear, renewable and energy storage.
+   Target: FY2040
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+20. Not Verifiable After Exhaustive Search · Covid Impact Adjusted Ebitda · outside anchor-year cohorts
+   Guidance [VST_Q3_2020] In May, we estimated that COVID-19 could potentially be a negative driver of our 2020 adjusted EBITDA of approximately $70 million due to anticipated higher bad debt expense and the anticipated impact of lower volumes on our financial results.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+21. Not Verifiable After Exhaustive Search · Adjusted Ebitda Share · outside anchor-year cohorts
+   Guidance [VST_Q3_2020] In fact, by 2030, we project that more than half of our adjusted EBITDA will be derived from our carbon-free operations, with 90% of our adjusted EBITDA coming from our Retail business and low to zero-carbon generating assets.
+   Target: FY2030
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+22. Superseded · Free cash flow · prior-year guidance resolved in anchor year
+   Guidance [VST_Q3_2020] In furtherance of our commitment to maintaining a strong balance sheet, our capital allocation plan for 2021 and '22 calls for incremental debt reduction of approximately $550 million over the 2-year period, while the bulk of our free cash flow of more than $2 billion is expected to be returned to our shareholders through dividends and share repurchases.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+23. Not Verifiable After Exhaustive Search · Share Repurchases · prior-year guidance resolved in anchor year
+   Guidance [VST_Q3_2020] Our recently announced $1.5 billion share repurchase program begins on January 1 of next year and replaces any repurchase authority that remains outstanding under our existing programs as of the end of this year.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+24. Met · Product / strategic milestone · prior-year guidance resolved in anchor year
+   Guidance [VST_Q3_2020] The last component of our 2021 and 2022 capital allocation plan is to grow our business through investments that have attractive return profiles and support our continued retail growth or expansion into zero-carbon resources.
+   Target: FY2021
+   Actual [FY2021] Additionally, the increased demand for construction of renewables projects, such as ESSs and solar projects, and other labor market and supply chain constraints have resulted, and may continue to result, in limited availability of qualified specialists, contractors, and necessary services or materials, leading to delays in and higher costs for the development and construction of our current and future planned projects.
+   Explanation: The reported direction is consistent with the guidance.
+
+25. Superseded · Free cash flow · prior-year guidance resolved in anchor year
+   Guidance [VST_Q3_2020] Today, we are also reaffirming our 2021 guidance ranges for both ongoing operations adjusted EBITDA and ongoing operations adjusted free cash flow before growth, which we initiated during our virtual Investor event in September.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+26. Not Verifiable After Exhaustive Search · Free cash flow · outside anchor-year cohorts
+   Guidance [VST_Q3_2020] We believe we can grow our EBITDA over the next decade, even while retiring the majority of our existing coal portfolio, by investing only a modest fraction of our free cash flow back into the business.
+   Target: FY2030
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+27. Not Verifiable After Exhaustive Search · Free cash flow · outside anchor-year cohorts
+   Guidance [VST_Q3_2020] Year-to-date, Vistra is tracking soundly above this recently raised adjusted EBITDA guidance midpoint and as we have mentioned before, it will be the fifth year in a row that we have exceeded the midpoint of our guidance, not exactly the kind of performance associated with a stock with a free cash flow yield in the 20s.
+   Target: FY2020
+   Actual [FY2020] $3.77 billion of EBITDA and almost $2.6 billion in free cash flow before growth, almost a 70% conversion ratio.
+   Explanation: explicit target-period evidence
+
+28. Not Verifiable After Exhaustive Search · Dividend · outside anchor-year cohorts
+   Guidance [VST_Q2_2021] All of this to say we continue to believe this business will have significant capital to allocate in the years ahead which takes me to Slide 11.
+   Target: Q3 FY2021
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+29. Not Verifiable After Exhaustive Search · Free cash flow · outside anchor-year cohorts
+   Guidance [VST_Q2_2021] As a result, we are reaffirming our 2021 guidance ranges for both Ongoing Operations adjusted EBITDA and Ongoing Operations adjusted free cash flow before growth as set forth on Slide 6.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+30. Not Verifiable After Exhaustive Search · Adjusted Ebitda · anchor-year guidance resolved in following year
+   Guidance [VST_Q2_2021] In fact, without the impact of Uri, we expect we would have been reaffirming our pre-yearly guidance today, which had an adjusted EBITDA from ongoing operations midpoint of $3.275 billion.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+31. Superseded · Free cash flow · anchor-year guidance resolved in following year
+   Guidance [VST_Q2_2021] In fact, without the impact of Uri, we expect we would have been reaffirming our pre-yearly guidance today, which had an adjusted EBITDA from ongoing operations midpoint of $3.275 billion.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+32. Superseded · Free cash flow · anchor-year guidance resolved in following year
+   Guidance [VST_Q2_2021] Next year, excluding the impact from Uri bill credit, we believe we have the ability to deliver adjusted EBITDA from ongoing operations in the $3.4 billion range with 60% to 70% conversion to free cash flow before growth.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+33. Not Verifiable After Exhaustive Search · Adjusted Ebitda · outside anchor-year cohorts
+   Guidance [VST_Q2_2021] We will continue to pursue the full $500 million, but only to the extent we do not jeopardize the future risk profile and/or earnings of the company.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+34. Not Verifiable After Exhaustive Search · Free cash flow · outside anchor-year cohorts
+   Guidance [VST_Q2_2021] We will continue to pursue the full $500 million, but only to the extent we do not jeopardize the future risk profile and/or earnings of the company.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+35. Not Verifiable After Exhaustive Search · Dividend Growth Potential · outside anchor-year cohorts
+   Guidance [VST_Q3_2021] And our current share price, these share repurchases, and dividend programs are projected to result in an annual average cash yield on the stock of an attractive 15%, as always, we are also committed to a strong balance sheet, we expect we will retire another approximately $1.5 billion of corporate level debt by the end of next year and up to $3 billion by 2026 with projections of debt to EBITDA in the mid to high twos during this timeframe for the Vistra base business.
+   Target: FY2026
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+36. Not Verifiable After Exhaustive Search · Net Debt To Adjusted Ebitda · outside anchor-year cohorts
+   Guidance [VST_Q3_2021] As outlined on slide 15, we believe our current leverage in the range of approximately 3 to 3.5 times net debt to adjusted EBITDA is a leverage level that will afford us the same level of financial strength, we believe we will be able to maintain our leverage in this range in the near term and reach the mid to high twos over the next 5 years.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+37. Not Verifiable After Exhaustive Search · Adjusted Ebitda · outside anchor-year cohorts
+   Guidance [VST_Q3_2021] As shown on the slide, the securitization and self-help materially offset the more than $2 billion loss from Yuri such as the retail bill credits, we will discuss later, as you likely recall internal and 3rd-party analysis has shown that Vistra is Yuri loss was driven predominantly by the uncontrollable failure of the Texas intrastate gas system.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+38. Not Verifiable After Exhaustive Search · Free cash flow · outside anchor-year cohorts
+   Guidance [VST_Q3_2021] As shown on the slide, the securitization and self-help materially offset the more than $2 billion loss from Yuri such as the retail bill credits, we will discuss later, as you likely recall internal and 3rd-party analysis has shown that Vistra is Yuri loss was driven predominantly by the uncontrollable failure of the Texas intrastate gas system.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+39. Not Verifiable After Exhaustive Search · Share Repurchase Program · anchor-year guidance resolved in following year
+   Guidance [VST_Q3_2021] As we set forth on the next slide, our long-term capital allocation plan reflects these strategic priorities, Vistra's long-term capital allocation plan reflects an anticipated return of capital of at least $7.5 billion to its common stockholders through year-end 2026 while simultaneously reducing our corporate level leverage and accelerating our Vistra's zero growth pipeline.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+40. Not Verifiable After Exhaustive Search · Capacity · outside anchor-year cohorts
+   Guidance [VST_Q3_2021] Importantly, we expect we will be able to execute on this capital allocation plan by growing our Vistra's zero renewable and battery storage portfolio to a more than five gigawatt business generating approximately $450 to $500 million of adjusted EBITDA annually by year-end 2026.
+   Target: FY2026
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+41. Not Verifiable After Exhaustive Search · Vistra Zero Adjusted Ebitda · outside anchor-year cohorts
+   Guidance [VST_Q3_2021] Importantly, we expect we will be able to execute on this capital allocation plan by growing our Vistra's zero renewable and battery storage portfolio to a more than five gigawatt business generating approximately $450 to $500 million of adjusted EBITDA annually by year-end 2026.
+   Target: FY2026
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+42. Not Verifiable After Exhaustive Search · Capital Investment · outside anchor-year cohorts
+   Guidance [VST_Q3_2021] So I wanted to focus on Vistra Zero and the updated guidance here and you mentioned your prepared remarks, it's fairly capital-light from your perspective as you mentioned $5 billion of total capital needed, but only $500 million in net capital from Vistra, and that of project debt, other financing cash flow, etc.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+43. Not Verifiable After Exhaustive Search · Free cash flow · anchor-year guidance resolved in following year
+   Guidance [VST_Q3_2021] So turning to slide 7, Vistra is initiating its 2022 guidance today forecasting Ongoing Operations Adjusted EBITDA in the range of $2.81 billion -$3.31 billion with ongoing operations, adjusted free cash flow before growth in the range of $2.07 to $2.57 billion.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+44. Not Verifiable After Exhaustive Search · Return Of Capital · outside anchor-year cohorts
+   Guidance [VST_Q3_2021] Specifically, as we announced in October, our Board recently approved a $2 billion share repurchase program, which we expect to fully execute by year-end 2022.
+   Target: FY2026
+   Actual [None] Unavailable
+   Explanation: explicit target-period evidence
+
+45. Not Verifiable After Exhaustive Search · Net Debt To Adjusted Ebitda · outside anchor-year cohorts
+   Guidance [VST_Q3_2021] We also believe that we would still be a candidate for investment-grade credit ratings in the future as our corporate leverage drops below 3 times and any project financing will relate to a lower risk contracted part of the business.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+46. Not Verifiable After Exhaustive Search · Annual Dividend Allocation · anchor-year guidance resolved in following year
+   Guidance [VST_Q3_2021] We are also reinforcing our commitment to paying a meaningful and growing dividend rather than identifying a target annual growth rate for our dividend, management expects that it will subject to Board approval at the appropriate time allocate $300 million per year toward its common dividend.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+--- Unpaired actuals (showing 32 of 639; full ledger is in JSON/CSV) ---
+[VST_Q1_2020] Turning now to Slide 15.
+[10-Q Q1 2020 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Net income increased by $80 million to $95 million and Adjusted EBITDA increased by $54 million to $311 million in the three months ended March 31, 2020 compared to the three months ended March 31, 2019.
+[10-Q Q1 2020 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Net income increased by $80 million to $95 million and Adjusted EBITDA increased by $54 million to $311 million in the three months ended March 31, 2020 compared to the three months ended March 31, 2019.
+[VST_Q2_2020] As shown on slide 12, Vistra delivered another strong quarter, with adjusted EBITDA from ongoing operations of $929 million, which was $212 million higher than the same period in 2019.
+[VST_Q2_2020] Year-to-date, Vistra's ongoing operations adjusted EBITDA is $1.779 billion or $238 million higher than our comparable 2019 results.
+[VST_Q2_2020] As of July 31, we have paid down nearly $750 million of debt in 2020, including the redemption of the entire $500 million principal amount of our 5.875% senior unsecured notes due 2023 as well as redemption of the entire $166 million principal amount of our 8.125% senior unsecured notes due 2026.
+[VST_Q2_2020] As of July 31, we have paid down nearly $750 million of debt in 2020, including the redemption of the entire $500 million principal amount of our 5.875% senior unsecured notes due 2023 as well as redemption of the entire $166 million principal amount of our 8.125% senior unsecured notes due 2026.
+[VST_Q2_2020] Vistra's second quarter 2020 financial results benefited from both portfolio positioning executed in anticipation of COVID-19 as well as from higher hedged energy margin realized in ERCOT and PJM.
+[10-Q Q2 2020 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] 59 Table of Contents Net income increased by $814 million to $229 million and Adjusted EBITDA increased by $108 million to $401 million in the three months ended June 30, 2020 compared to the three months ended June 30, 2019.
+[10-Q Q2 2020 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] 59 Table of Contents Net income increased by $814 million to $229 million and Adjusted EBITDA increased by $108 million to $401 million in the three months ended June 30, 2020 compared to the three months ended June 30, 2019.
+[VST_Q3_2020] Ongoing operations delivered adjusted EBITDA of $1,185 million, which was $108 million higher than the same period in 2019, with our Retail segment down $53 million, and our generation segments up a collective $161 million.
+[VST_Q3_2020] Year-to-date, Vistra's ongoing operations adjusted EBITDA is $2,964 million or $346 million higher than our comparable 2019 results.
+[VST_Q3_2020] In the third quarter, Vistra delivered adjusted EBITDA from ongoing operations of $1,185 million, which is 10% above third quarter 2019 results despite operating through a pandemic in 2020.
+[VST_Q3_2020] In addition, our three legacy retail brands once again organically grew residential customer counts in Texas during the quarter.
+[10-Q Q3 2020 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Net income increased by $430 million to $433 million and Adjusted EBITDA increased by $109 million to $572 million in the nine months ended September 30, 2020 compared to the nine months ended September 30, 2019.
+[10-Q Q3 2020 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Net income increased by $430 million to $433 million and Adjusted EBITDA increased by $109 million to $572 million in the nine months ended September 30, 2020 compared to the nine months ended September 30, 2019.
+[VST_Q4_2020] The $197 million favorability in our collective generation segments was driven by higher margins in our Texas East and Sunset segments, including the higher period-over-period benefits from our OPI initiatives, partially offset by lower capacity revenues.
+[VST_Q4_2020] In addition to these strong financial results, our retail business grew its residential customer count in Texas year-over-year, reflecting strong performance by our legacy brands, while our generation business once again executed with commercial availability of over 95%.
+[VST_Q4_2020] On the liquidity side, as of year end 2020, Vistra had total available liquidity of approximately $2.4 billion, which was primarily comprised of cash and availability under its revolving credit facility.
+[VST_Q4_2020] We ended up at a 70% capacity factor for coal during the week.
+[10-K FY2020 — Item 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES] (a) Our financial statements and financial statement schedules are incorporated under Part II, Item 8 of this annual report on Form 10-K. (b) SCHEDULE I - CONDENSED FINANCIAL INFORMATION OF REGISTRANT VISTRA CORP. (PARENT) SCHEDULE I - CONDENSED FINANCIAL INFORMATION OF REGISTRANT CONDENSED STATEMENTS OF OPERATIONS (Millions of Dollars) Year Ended December 31, 2020 2019 2018 Depreciation and amortization $ ( 15 ) $ ( 7 ) $ — Selling, general and administrative expenses ( 72 ) ( 62 ) ( 266 ) Operating loss ( 87 ) ( 69 ) ( 266 ) Other income 5 12 9 Interest expense and related charges ( 7 ) ( 88 ) ( 257 ) Impacts of Tax Receivable Agreement 5 ( 37 ) ( 79 ) Loss before income tax benefit ( 84 ) ( 182 ) ( 593 ) Income tax benefit 25 42 282 Equity in earnings of subsidiaries, net of tax 695 1,068 257 Net income (loss) $ 636 $ 928 $ ( 54 ) See Notes to the Condensed Financial Statements.
+[10-K FY2020 — Item 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Net income increased by $175 million to $309 million and Adjusted EBITDA increased by $176 million to $983 million in the year ended December 31, 2020 compared to the year ended December 31, 2019.
+[10-Q Q1 2021 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Three Months Ended March 31, 2021 Compared to 2020 Lower margins driven by Winter Storm Uri $ (489) Other driven by higher SG&A and bad debt expense (21) Change in Adjusted EBITDA $ (510) Favorable impact of higher unrealized net gains on hedging activities 904 Future bill credits and other costs related to Winter Storm Uri (432) Increase in depreciation and amortization expenses 27 Lower transition and merger and other expenses 4 Change in net income (loss) $ (7) 53 Table of Contents Generation — Three Months Ended March 31, 2021 Compared to Three Months Ended March 31, 2020 Three Months Ended March 31, Texas East West Sunset 2021 2020 2021 2020 2021 2020 2021 2020 Operating revenues: Electricity sales $ 700 $ 260 $ 335 $ 195 $ 85 $ 74 $ 245 $ 181 Capacity revenue from ISO/RTO — — (4) 3 — — 39 42 Sales to affiliates 924 398 428 482 1 1 99 72 Rolloff of unrealized net gains (losses) representing positions settled in the current period (26) (41) 55 74 (5) (10) (52) (75) Unrealized net gains (losses) on hedging activities 158 175 (7) (72) (48) 17 (13) 132 Unrealized net gains (losses) on hedging activities with affiliates (673) 69 (83) 52 — — (34) (2) Other revenues — — — — — — (5) (4) Operating revenues 1,083 861 724 734 33 82 279 346 Fuel, purchased power costs and delivery fees: Fuel for generation facilities and purchased power costs (1,672) (212) (459) (358) (48) (46) (192) (125) Fuel for generation facilities and purchased power costs from affiliates — 2 — (3) — — (1) 1 Unrealized (gains) losses from hedging activities 19 (22) 15 (16) — (19) 7 (16) Ancillary and other costs (1,665) (35) (10) (10) — — (1) (2) Fuel, purchased power costs and delivery fees (3,318) (267) (454) (387) (48) (65) (187) (142) Net income (loss) $ (2,518) $ 273 $ 1 $ 65 $ (31) $ 4 $ (43) $ (25) Adjusted EBITDA $ (1,352) $ 223 $ 220 $ 238 $ 24 $ 21 $ 82 $ 63 Production volumes (GWh): Natural gas facilities 6,847 8,861 13,878 13,148 1,262 1,526 Lignite and coal facilities 5,892 5,479 8,533 5,778 Nuclear facilities 5,210 5,224 Solar/Battery facilities 96 79 Capacity factors: CCGT facilities 38.5 % 51.0 % 59.6 % 56.2 % 57.3 % 69.3 % Lignite and coal facilities 70.9 % 65.9 % 54.4 % 36.8 % Nuclear facilities 104.9 % 105.1 % Weather - percent of normal (a): Cooling degree days 59.7 % 160.9 % — % — % 37.6 % 59.8 % — % — % Heating degree days 121.7 % 78.0 % 96.4 % 83.6 % 110.3 % 96.0 % 94.7 % 84.0 % ____________ (a) Reflects cooling degree days or heating degree days for the region based on Weather Services International (WSI) data.
+[10-Q Q1 2021 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] The change was primarily driven by: • $1.0 billion in cash received from the issuance of term loans under the Term Loan A Facility in March 2021; • $500 million in cash received from the sale of a portion of the PJM capacity that cleared for Planning Years 2021-2022 in March 2021; • net borrowings of $425 million under the accounts receivable financing facilities in 2021; • net borrowings of $300 million under the Revolving Credit Facility in 2021; • repayment of $100 million of term loans under the Vistra Operations Credit Facility in March 2020; and • redemption of $81 million principal amount of outstanding of 8.000% senior notes in January 2020; partially offset by: • net borrowings of $350 million under the Revolving Credit Facility in 2020; and • $175 million in cash paid for share repurchases in 2021.
+[10-Q Q1 2021 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] The $49 million decrease in available liquidity for the three months ended March 31, 2021 was primarily driven by cash used in operations, $192 million of capital expenditures (including LTSA prepayments, nuclear fuel and development and growth expenditures), $175 million in cash paid for share repurchases and $74 million in dividends paid to stockholders, partially offset by $1.0 billion in cash received from the issuance of term loans under the Term Loan A Facility, $500 million in cash received from the sale of a portion of the PJM capacity that cleared for Planning Years 2021-2022, $425 million in net cash borrowings under the accounts receivable financing facilities, $300 million in net cash borrowings under the Revolving Credit Facility.
+[VST_Q2_2021] Excluding the second quarter impacts from winter storm Uri related to bill credits and higher fuel costs, this delivered adjusted EBITDA from ongoing operations of $909 million, comparable to its very strong second quarter 2020 financial results.
+[VST_Q2_2021] As shown on Slide 10, Vistra delivered strong financial results during the quarter, with adjusted EBITDA from Ongoing Operations of $825 million.
+[VST_Q2_2021] Excluding the Uri related bill credits in fuel cost adjustments, Vistra's adjusted EBITDA from Ongoing Operations was $909 million.
+[VST_Q2_2021] The collective Generation segment ended the quarter with $213 million lower than second quarter 2020, driven primarily by lower realized prices in Texas after an exceptionally strong 2020 and lower capacity revenues.
+[10-Q Q2 2021 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements] Both impairment losses were as a result of a significant decrease in the estimated useful life of the facilities, reflecting a decrease in the economic forecast of the facility and the inability to secure capacity revenues for the plant in the latest PJM capacity auction held in May 2021 for Zimmer.
+[10-Q Q2 2021 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Net income increased by $1.581 billion to $1.810 billion and Adjusted EBITDA increased by $109 million to $510 million in the three months ended June 30, 2021 compared to the three months ended June 30, 2020.
+[10-Q Q2 2021 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Net income increased by $1.581 billion to $1.810 billion and Adjusted EBITDA increased by $109 million to $510 million in the three months ended June 30, 2021 compared to the three months ended June 30, 2020.
+
+--- Source inventory ---
+[transcript] VST_Q1_2020
+[filing] 10-Q Q1 2020 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q1 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q1 2020 — Item 1A. RISK FACTORS
+[filing] 10-Q Q1 2020 — Item 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+[filing] 10-Q Q1 2020 — Item 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+[filing] 10-Q Q1 2020 — Item 4. CONTROLS AND PROCEDURES
+[xbrl] XBRL Revenue Q1 FY2020
+[xbrl] XBRL Operating Income Q1 FY2020
+[xbrl] XBRL Net Income Q1 FY2020
+[xbrl] XBRL Diluted EPS Q1 FY2020
+[xbrl] XBRL Operating Cash Flow Q1 FY2020
+[xbrl] XBRL Capital Expenditures Q1 FY2020
+[xbrl] XBRL Operating margin Q1 FY2020
+[transcript] VST_Q2_2020
+[filing] 10-Q Q2 2020 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q2 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q2 2020 — Item 1A. RISK FACTORS
+[filing] 10-Q Q2 2020 — Item 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+[filing] 10-Q Q2 2020 — Item 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+[xbrl] XBRL Revenue Q2 FY2020
+[xbrl] XBRL Operating Income Q2 FY2020
+[xbrl] XBRL Net Income Q2 FY2020
+[xbrl] XBRL Diluted EPS Q2 FY2020
+[xbrl] XBRL Operating Cash Flow Q2 FY2020
+[xbrl] XBRL Capital Expenditures Q2 FY2020
+[xbrl] XBRL Operating margin Q2 FY2020
+[transcript] VST_Q3_2020
+[filing] 10-Q Q3 2020 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q3 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q3 2020 — Item 1A. RISK FACTORS
+[filing] 10-Q Q3 2020 — Item 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+[xbrl] XBRL Revenue Q3 FY2020
+[xbrl] XBRL Operating Income Q3 FY2020
+[xbrl] XBRL Net Income Q3 FY2020
+[xbrl] XBRL Diluted EPS Q3 FY2020
+[xbrl] XBRL Operating Cash Flow Q3 FY2020
+[xbrl] XBRL Capital Expenditures Q3 FY2020
+[xbrl] XBRL Operating margin Q3 FY2020
+[transcript] VST_Q4_2020
+[filing] 10-K FY2020 — Item 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-K FY2020 — Item 1A. RISK FACTORS
+[filing] 10-K FY2020 — Item 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+[filing] 10-K FY2020 — Item 5. MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+[filing] 10-K FY2020 — Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+[filing] 10-K FY2020 — Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA — Consolidated Financial Statements
+[xbrl] XBRL Revenue FY2020
+[xbrl] XBRL Operating Income FY2020
+[xbrl] XBRL Net Income FY2020
+[xbrl] XBRL Diluted EPS FY2020
+[xbrl] XBRL Operating Cash Flow FY2020
+[xbrl] XBRL Capital Expenditures FY2020
+[xbrl] XBRL Operating margin FY2020
+[filing] 10-Q Q1 2021 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q1 2021 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q1 2021 — Item 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+[filing] 10-Q Q1 2021 — Item 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+[xbrl] XBRL Revenue Q1 FY2021
+[xbrl] XBRL Operating Income Q1 FY2021
+[xbrl] XBRL Net Income Q1 FY2021
+[xbrl] XBRL Diluted EPS Q1 FY2021
+[xbrl] XBRL Operating Cash Flow Q1 FY2021
+[xbrl] XBRL Capital Expenditures Q1 FY2021
+[xbrl] XBRL Operating margin Q1 FY2021
+[transcript] VST_Q2_2021
+[filing] 10-Q Q2 2021 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q2 2021 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q2 2021 — Item 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+[filing] 10-Q Q2 2021 — Item 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+[xbrl] XBRL Revenue Q2 FY2021
+[xbrl] XBRL Operating Income Q2 FY2021
+[xbrl] XBRL Net Income Q2 FY2021
+[xbrl] XBRL Diluted EPS Q2 FY2021
+[xbrl] XBRL Operating Cash Flow Q2 FY2021
+[xbrl] XBRL Capital Expenditures Q2 FY2021
+[xbrl] XBRL Operating margin Q2 FY2021
+[transcript] VST_Q3_2021
+[filing] 10-Q Q3 2021 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q3 2021 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q3 2021 — Item 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+[filing] 10-Q Q3 2021 — Item 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+[xbrl] XBRL Revenue Q3 FY2021
+[xbrl] XBRL Operating Income Q3 FY2021
+[xbrl] XBRL Net Income Q3 FY2021
+[xbrl] XBRL Diluted EPS Q3 FY2021
+[xbrl] XBRL Operating Cash Flow Q3 FY2021
+[xbrl] XBRL Capital Expenditures Q3 FY2021
+[xbrl] XBRL Operating margin Q3 FY2021
+[filing] 10-K FY2021 — Item 1A. RISK FACTORS
+[filing] 10-K FY2021 — Item 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-K FY2021 — Item 1. BUSINESS
+[filing] 10-K FY2021 — Item 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+[filing] 10-K FY2021 — Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+[filing] 10-K FY2021 — Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA — Consolidated Financial Statements
+[xbrl] XBRL Revenue FY2021
+[xbrl] XBRL Operating Income FY2021
+[xbrl] XBRL Net Income FY2021
+[xbrl] XBRL Diluted EPS FY2021
+[xbrl] XBRL Operating Cash Flow FY2021
+[xbrl] XBRL Capital Expenditures FY2021
+[xbrl] XBRL Operating margin FY2021
+[filing] 10-Q Q1 2022 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q1 2022 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q1 2022 — Item 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+[filing] 10-Q Q1 2022 — Item 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+[xbrl] XBRL Revenue Q1 FY2022
+[xbrl] XBRL Operating Income Q1 FY2022
+[xbrl] XBRL Net Income Q1 FY2022
+[xbrl] XBRL Diluted EPS Q1 FY2022
+[xbrl] XBRL Operating Cash Flow Q1 FY2022
+[xbrl] XBRL Capital Expenditures Q1 FY2022
+[xbrl] XBRL Operating margin Q1 FY2022
+[filing] 10-Q Q2 2022 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q2 2022 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q2 2022 — Item 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+[filing] 10-Q Q2 2022 — Item 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+[xbrl] XBRL Revenue Q2 FY2022
+[xbrl] XBRL Operating Income Q2 FY2022
+[xbrl] XBRL Net Income Q2 FY2022
+[xbrl] XBRL Diluted EPS Q2 FY2022
+[xbrl] XBRL Operating Cash Flow Q2 FY2022
+[xbrl] XBRL Capital Expenditures Q2 FY2022
+[xbrl] XBRL Operating margin Q2 FY2022
+[filing] 10-Q Q3 2022 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q3 2022 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q3 2022 — Item 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+[filing] 10-Q Q3 2022 — Item 3. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+[xbrl] XBRL Revenue Q3 FY2022
+[xbrl] XBRL Operating Income Q3 FY2022
+[xbrl] XBRL Net Income Q3 FY2022
+[xbrl] XBRL Diluted EPS Q3 FY2022
+[xbrl] XBRL Operating Cash Flow Q3 FY2022
+[xbrl] XBRL Capital Expenditures Q3 FY2022
+[xbrl] XBRL Operating margin Q3 FY2022
+[filing] 10-K FY2022 — Item 1. BUSINESS
+[filing] 10-K FY2022 — Item 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+[filing] 10-K FY2022 — Item 1A. RISK FACTORS
+[filing] 10-K FY2022 — Item 1A. Risk Factors – Regulatory and Legislative Risks
+[filing] 10-K FY2022 — Item 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+[filing] 10-K FY2022 — Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA — Consolidated Financial Statements
+[xbrl] XBRL Revenue FY2022
+[xbrl] XBRL Operating Income FY2022
+[xbrl] XBRL Net Income FY2022
+[xbrl] XBRL Diluted EPS FY2022
+[xbrl] XBRL Operating Cash Flow FY2022
+[xbrl] XBRL Capital Expenditures FY2022
+[xbrl] XBRL Operating margin FY2022
