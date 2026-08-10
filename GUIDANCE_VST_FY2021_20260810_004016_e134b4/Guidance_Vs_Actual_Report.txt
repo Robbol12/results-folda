@@ -1,0 +1,357 @@
+[GUIDANCE VS ACTUAL] VST: company-wide anchor year 2021
+
+Coverage window: [2020, 2022]
+Coverage state: covered for the loaded source corpus; some items have closed non-binary evidence classifications
+Summary: {"guidance_count": 30, "resolved_pair_count": 7, "active_guidance_count": 13, "active_resolved_pair_count": 3, "out_of_cohort_count": 17, "closed_verdict_count": 30, "not_verifiable_count": 20, "unresolved_count": 0, "verdict_counts": {"Exceeded": 1, "Met": 1, "Missed": 1, "Not Verifiable After Exhaustive Search": 20, "Superseded": 7}, "category_counts": {"financial": 30}, "coverage_state": "covered for the loaded source corpus; some items have closed non-binary evidence classifications"}
+
+--- Active cohort comparisons ---
+1. Not Verifiable After Exhaustive Search · Hedge ratio · prior-year guidance resolved in anchor year
+   Guidance [VST_Q1_2020] As of April 30, we are now 57% hedged in ERCOT and approximately 60% to 70% hedged in all other markets, which helps to limit the range of outcomes we expect to see next year.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+2. Superseded · Adjusted EBITDA · prior-year guidance resolved in anchor year
+   Guidance [VST_Q1_2020] Importantly, this means that even in our most punitive modeled case, we still expect we will be able to deliver approximately $3.1 billion or more of adjusted EBITDA from our ongoing operations in 2021.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+3. Superseded · Adjusted EBITDA · prior-year guidance resolved in anchor year
+   Guidance [VST_Q1_2020] Just looking at forward curves as of March 31, 2020, which already reflected a level of uncertainty around COVID-19 impact, which suggests 2021 ongoing operations adjusted EBITDA would be approximately $200 million to $250 million lower than our 2020 guidance midpoint or about a 6% to 7% reduction.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+4. Not Verifiable After Exhaustive Search · Forward price / curve · prior-year guidance resolved in anchor year
+   Guidance [VST_Q2_2020] Even though forward curves for the summer 2021 peak have recently followed the lows of approximately $80 per megawatt hour, we do not believe this is where the 2021 forward curve will ultimately settle as we have seen this pattern play out in each of the past three years.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+5. Superseded · Adjusted EBITDA · prior-year guidance resolved in anchor year
+   Guidance [VST_Q2_2020] Vistra's fundamental point of view continues to suggest that our 2021 ongoing operations adjusted EBITDA could track in line with or potentially slightly lower than the 2020 guidance midpoint.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+6. Not Verifiable After Exhaustive Search · Net debt to adjusted EBITDA · prior-year guidance resolved in anchor year
+   Guidance [VST_Q3_2020] As we approach our long-term leverage target of 2.5 times net-debt-to-EBITDA, we also believe we are on track to achieve investment-grade credit ratings next year.
+   Target: FY2021
+   Actual [FY2021] As of February 23, we've repurchased approximately 5.9 million shares at an average price of $21.15.
+   Explanation: A candidate actual was found, but deterministic comparability checks rejected it: The guidance used approximate language without a defensible tolerance.
+
+7. Not Verifiable After Exhaustive Search · Adjusted EBITDA · prior-year guidance resolved in anchor year
+   Guidance [VST_Q3_2020] In 2018 and 2019, our retail EBITDA averaged approximately $825 million and we are currently on track to exceed our recently raised 2020 guidance midpoint of $955 million, with our 2021 adjusted EBITDA projected at nearly $1 billion.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+8. Not Verifiable After Exhaustive Search · Dividend · prior-year guidance resolved in anchor year
+   Guidance [VST_Q3_2020] In furtherance of our commitment to maintaining a strong balance sheet, our capital allocation plan for 2021 and '22 calls for incremental debt reduction of approximately $550 million over the 2-year period, while the bulk of our free cash flow of more than $2 billion is expected to be returned to our shareholders through dividends and share repurchases.
+   Target: FY2021
+   Actual [FY2021] Our debt could have negative consequences for our financial condition including: • increasing our vulnerability to general economic and industry conditions; • requiring a significant portion of our cash flows from operations to be dedicated to the payment of principal and interest on our indebtedness, therefore reducing our ability to pay dividends to holders of our common stock or to fund our operations, capital expenditures and future business opportunities; • limiting our ability to enter into long-term power sales or fuel purchases which require credit support; • limiting our ability to fund operations or future acquisitions; • restricting our ability to make distributions or pay dividends with respect to our capital stock and the ability of our subsidiaries to make distributions to us, in light of restricted payment and other financial covenants in our credit facilities and other financing agreements; • inhibiting the growth of our stock price; • exposing us to the risk of increased interest rates because certain of our borrowings, including borrowings under the Vistra Operations Credit Facilities, are at variable rates of interest; • limiting our ability to obtain additional financing for working capital including collateral postings, capital expenditures, debt service requirements, acquisitions and general corporate or other purposes; and • limiting our ability to adjust to changing market conditions and placing us at a competitive disadvantage compared to our competitors who may have less debt.
+   Explanation: A candidate actual was found, but deterministic comparability checks rejected it: The evidence is qualitative but does not establish a comparable outcome.
+
+9. Superseded · Adjusted free cash flow · prior-year guidance resolved in anchor year
+   Guidance [VST_Q3_2020] Today, we are also reaffirming our 2021 guidance ranges for both ongoing operations adjusted EBITDA and ongoing operations adjusted free cash flow before growth, which we initiated during our virtual Investor event in September.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+10. Superseded · Adjusted EBITDA · anchor-year guidance resolved in following year
+   Guidance [VST_Q2_2021] In fact, with our long-term view that we will be able to generate $3 billion or more of adjusted EBITDA, with 60% to 70% conversion of free cash flow on an annual basis, we could repurchase our entire market cap in roughly five years, if we were to allocate all of this capital to share buybacks.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+11. Not Verifiable After Exhaustive Search · Adjusted EBITDA · anchor-year guidance resolved in following year
+   Guidance [VST_Q3_2021] And our current share price, these share repurchases, and dividend programs are projected to result in an annual average cash yield on the stock of an attractive 15%, as always, we are also committed to a strong balance sheet, we expect we will retire another approximately $1.5 billion of corporate level debt by the end of next year and up to $3 billion by 2026 with projections of debt to EBITDA in the mid to high twos during this timeframe for the Vistra base business.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+12. Missed · Capital investment · anchor-year guidance resolved in following year
+   Guidance [VST_Q3_2021] As we set forth on the next slide, our long-term capital allocation plan reflects these strategic priorities, Vistra's long-term capital allocation plan reflects an anticipated return of capital of at least $7.5 billion to its common stockholders through year-end 2026 while simultaneously reducing our corporate level leverage and accelerating our Vistra's zero growth pipeline.
+   Target: FY2022
+   Actual [Q4 FY2022] SEC XBRL Capital Expenditures for FY2022: 1301000000 USD
+   Explanation: The actual is below the stated point target.
+
+13. Not Verifiable After Exhaustive Search · Adjusted free cash flow · anchor-year guidance resolved in following year
+   Guidance [VST_Q3_2021] So turning to slide 7, Vistra is initiating its 2022 guidance today forecasting Ongoing Operations Adjusted EBITDA in the range of $2.81 billion -$3.31 billion with ongoing operations, adjusted free cash flow before growth in the range of $2.07 to $2.57 billion.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+--- Explicit targets outside the anchor-year cohorts (appendix) ---
+1. Superseded · Adjusted EBITDA · outside anchor-year cohorts
+   Guidance [VST_Q1_2020] In total, we had a strong first quarter, and we are tracking strong for the full year with the expectation that our 2020 ongoing operations adjusted EBITDA will be well within the range of the $3.285 billion to $3.585 billion, which is yet another example of the resiliency of the integrated model.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+2. Not Verifiable After Exhaustive Search · Capacity · outside anchor-year cohorts
+   Guidance [VST_Q1_2020] Next, we similarly expect our retail segment will be negatively impacted by lower volumes, including lower recovery of fixed capacity costs on our Midwest and Northeast large business portfolio, and lower margins driven by reduced consumption across our business customer classes.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+3. Not Verifiable After Exhaustive Search · Adjusted EBITDA · outside anchor-year cohorts
+   Guidance [VST_Q1_2020] Second, our retail business derives approximately 90% of its adjusted EBITDA from the residential and mass business customer classes, and we expect residential load will increase in 2020, mitigating the expected negative impact of lower business volumes.
+   Target: FY2020
+   Actual [Q4 FY2020] Our retail business was exceptional getting close to almost $1 billion of EBITDA.
+   Explanation: A candidate actual was found, but deterministic comparability checks rejected it: The evidence is qualitative but does not establish a comparable outcome.
+
+4. Not Verifiable After Exhaustive Search · Bad debt expense · outside anchor-year cohorts
+   Guidance [VST_Q1_2020] Specifically, we are anticipating higher bad debt expense in 2020 as a result of COVID-19 driven financial distress among some of our customers.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+5. Not Verifiable After Exhaustive Search · Hedge ratio · outside anchor-year cohorts
+   Guidance [VST_Q1_2020] Specifically, we expect our generation segment to be up approximately $60 million with some potential for upside as compared to our initial guidance forecast as a result of the opportunistic hedging and generation dispatch activities we executed in the first quarter, which I just discussed, as well as lower fuel expense, partially offset by the potential for lower power prices driven by covenant.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+6. Superseded · Adjusted free cash flow · outside anchor-year cohorts
+   Guidance [VST_Q2_2020] As a result of this strong performance through the first half of the year, we are reaffirming our 2020 guidance ranges for both ongoing operations adjusted EBITDA and ongoing operations adjusted free cash flow before growth, as set forth on slide six.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+7. Met · Dividend · outside anchor-year cohorts
+   Guidance [VST_Q3_2020] As it relates to the dividend, it is our intention to increase our dividend by approximately 8% in 2021, at the high end of our expected 6% to 8% annual growth rate.
+   Target: FY2022
+   Actual [FY2022] Our debt could have negative consequences for our financial condition including: • increasing our vulnerability to general economic and industry conditions; • requiring a significant portion of our cash flows from operations to be dedicated to the payment of principal and interest on our indebtedness, therefore reducing our ability to pay dividends to holders of our common stock or to fund our operations, capital expenditures and future business opportunities; • limiting our ability to enter into long-term power sales or fuel purchases which require credit support; • limiting our ability to fund operations or future acquisitions; • limiting our ability to repurchase shares under the share repurchase program; • restricting our ability to make distributions or pay dividends with respect to our capital stock and the ability of our subsidiaries to make distributions to us, in light of restricted payment and other financial covenants in our credit facilities and other financing agreements; • inhibiting the growth of our stock price; • exposing us to the risk of increased interest rates because certain of our borrowings, including borrowings under the Vistra Operations Credit Facilities, are at variable rates of interest, only a portion of which are hedged; • limiting our ability to obtain additional financing for working capital including collateral postings, capital expenditures, debt service requirements, acquisitions and general corporate or other purposes; and • limiting our ability to adjust to changing market conditions and placing us at a competitive disadvantage compared to our competitors who may have less debt.
+   Explanation: The reported direction is consistent with the guidance.
+
+8. Not Verifiable After Exhaustive Search · Adjusted free cash flow · outside anchor-year cohorts
+   Guidance [VST_Q3_2020] Importantly, our financial guidance implies an adjusted EBITDA to adjusted free cash flow before growth conversion ratio of approximately 69% for the year, which supports our recently announced capital allocation plan and the anticipated significant return of capital to our financial stakeholders.
+   Target: FY2020
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+9. Not Verifiable After Exhaustive Search · Adjusted EBITDA · outside anchor-year cohorts
+   Guidance [VST_Q3_2020] In May, we estimated that COVID-19 could potentially be a negative driver of our 2020 adjusted EBITDA of approximately $70 million due to anticipated higher bad debt expense and the anticipated impact of lower volumes on our financial results.
+   Target: FY2020
+   Actual [FY2020] Net income increased by $175 million to $309 million and Adjusted EBITDA increased by $176 million to $983 million in the year ended December 31, 2020 compared to the year ended December 31, 2019.
+   Explanation: A candidate actual was found, but deterministic comparability checks rejected it: The guidance and actual do not have comparable numeric units.
+
+10. Not Verifiable After Exhaustive Search · Adjusted EBITDA · outside anchor-year cohorts
+   Guidance [VST_Q3_2020] In fact, by 2030, we project that more than half of our adjusted EBITDA will be derived from our carbon-free operations, with 90% of our adjusted EBITDA coming from our Retail business and low to zero-carbon generating assets.
+   Target: FY2030
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+11. Not Verifiable After Exhaustive Search · Dividend · outside anchor-year cohorts
+   Guidance [VST_Q3_2020] We expect the majority of our free cash flow will be returned to our financial stakeholders, primarily through dividends and share repurchases.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+12. Not Verifiable After Exhaustive Search · Adjusted free cash flow · outside anchor-year cohorts
+   Guidance [VST_Q2_2021] As a result, we are reaffirming our 2021 guidance ranges for both Ongoing Operations adjusted EBITDA and Ongoing Operations adjusted free cash flow before growth as set forth on Slide 6.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+13. Not Verifiable After Exhaustive Search · Adjusted EBITDA · outside anchor-year cohorts
+   Guidance [VST_Q2_2021] In fact, without the impact of Uri, we expect we would have been reaffirming our pre-yearly guidance today, which had an adjusted EBITDA from ongoing operations midpoint of $3.275 billion.
+   Target: FY2021
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+14. Exceeded · Capital investment · outside anchor-year cohorts
+   Guidance [VST_Q2_2021] Steve, we had in our Investor Day, we had talked about a capital allocation plan that would put over $600 million into '21.
+   Target: FY2021
+   Actual [Q4 FY2021] SEC XBRL Capital Expenditures for FY2021: 1033000000 USD
+   Explanation: The actual is above the stated lower threshold.
+
+15. Not Verifiable After Exhaustive Search · Adjusted EBITDA · outside anchor-year cohorts
+   Guidance [VST_Q3_2021] Importantly, we expect we will be able to execute on this capital allocation plan by growing our Vistra's zero renewable and battery storage portfolio to a more than five gigawatt business generating approximately $450 to $500 million of adjusted EBITDA annually by year-end 2026.
+   Target: FY2026
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+16. Not Verifiable After Exhaustive Search · Dividend · outside anchor-year cohorts
+   Guidance [VST_Q3_2021] We are also reinforcing our commitment to paying a meaningful and growing dividend rather than identifying a target annual growth rate for our dividend, management expects that it will subject to Board approval at the appropriate time allocate $300 million per year toward its common dividend.
+   Target: FY2026
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+17. Not Verifiable After Exhaustive Search · Share repurchases · outside anchor-year cohorts
+   Guidance [VST_Q3_2021] We then expect we will allocate approximately $1 billion per year toward share repurchases from 2023 through 2026 for a total of $6 billion in 5 years.
+   Target: FY2023
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+--- Unpaired actuals (showing 32 of 414; full ledger is in JSON/CSV) ---
+[VST_Q1_2020] Vistra delivered first-quarter 2020 adjusted EBITDA from ongoing operations of $850 million, results that exceeded management expectations for the quarter.
+[VST_Q4_2020] $3.77 billion of EBITDA and almost $2.6 billion in free cash flow before growth, almost a 70% conversion ratio.
+[VST_Q4_2020] We can close with Slide 17.
+[VST_Q4_2020] On the liquidity side, as of year end 2020, Vistra had total available liquidity of approximately $2.4 billion, which was primarily comprised of cash and availability under its revolving credit facility.
+[10-Q Q1 2021 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements] As of March 31, 2021, approximately $ 1.325 billion was available for additional repurchases under the Share Repurchase Program.
+[10-Q Q1 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements] VISTRA ENERGY CORP. CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited) (Millions of Dollars, Except Per Share Amounts) Three Months Ended March 31, 2020 2019 Operating revenues (Note 5) $ 2,858 $ 2,923 Fuel, purchased power costs and delivery fees ( 1,333 ) ( 1,461 ) Operating costs ( 379 ) ( 385 ) Depreciation and amortization ( 419 ) ( 405 ) Selling, general and administrative expenses ( 252 ) ( 182 ) Impairment of long-lived assets (Note 18) ( 84 ) — Operating income 391 490 Other income (Note 18) 7 25 Other deductions (Note 18) ( 31 ) ( 2 ) Interest expense and related charges (Note 18) ( 300 ) ( 222 ) Impacts of Tax Receivable Agreement (Note 8) ( 8 ) 3 Equity in earnings of unconsolidated investment 3 7 Income before income taxes 62 301 Income tax expense (Note 7) ( 17 ) ( 77 ) Net income $ 45 $ 224 Net loss attributable to noncontrolling interest 11 1 Net income attributable to Vistra Energy $ 56 $ 225 Weighted average shares of common stock outstanding: Basic 487,944,564 502,367,299 Diluted 490,638,626 509,139,988 Net income per weighted average share of common stock outstanding: Basic $ 0.11 $ 0.45 Diluted $ 0.11 $ 0.44 See Notes to the Condensed Consolidated Financial Statements.
+[10-Q Q1 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements] Three Months Ended March 31, 2019 Retail ERCOT PJM NY/NE MISO Asset Closure CAISO/Eliminations Consolidated Revenue from contracts with customers: Retail energy charge in ERCOT $ 1,025 $ — $ — $ — $ — $ — $ — $ 1,025 Retail energy charge in Northeast/Midwest 348 — — — — — — 348 Wholesale generation revenue from ISO/RTO — 247 221 195 72 67 73 875 Capacity revenue from ISO/RTO — — 67 80 10 3 — 160 Revenue from other wholesale contracts — 44 72 7 15 1 3 142 Total revenue from contracts with customers 1,373 291 360 282 97 71 76 2,550 Other revenues: Intangible amortization ( 9 ) — — ( 2 ) ( 5 ) — 1 ( 15 ) Hedging and other revenues (a) 22 158 91 49 13 14 41 388 Affiliate sales — 505 254 15 64 — ( 838 ) — Total other revenues 13 663 345 62 72 14 ( 796 ) 373 Total revenues $ 1,386 $ 954 $ 705 $ 344 $ 169 $ 85 $ ( 720 ) $ 2,923 ____________ (a) Includes $ 158 million of unrealized net gains from mark-to-market valuations of commodity positions.
+[10-Q Q1 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements] We also recorded a $ 32 million impairment to a capacity contract which was linked in part to the Joppa/EEI facility and therefore determined to have a significant decrease in estimated useful life.
+[10-Q Q1 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements] Allowance for Uncollectible Accounts Receivable Three Months Ended March 31, 2020 2019 Allowance for uncollectible accounts receivable at beginning of period (a) $ 42 $ 19 Increase for bad debt expense 26 15 Decrease for account write-offs ( 28 ) ( 15 ) Allowance for uncollectible accounts receivable at end of period $ 40 $ 19 ____________ (a) Includes a $ 6 million increase recorded due to the adoption of ASU 2016-13, Financial Instruments—Credit Losses (see Note 1).
+[10-Q Q1 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements] Income and expense, including gains and losses associated with the trust fund assets and the decommissioning liability are offset by a corresponding change in a regulatory asset/liability (currently a regulatory asset reported in other noncurrent assets) that will ultimately be settled through changes in Oncor's delivery fees rates.
+[10-Q Q1 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements] Three Months Ended March 31, 2020 2019 Proceeds from sales of securities $ 75 $ 78 Investments in securities $ ( 80 ) $ ( 83 ) 39 Table of Contents Property, Plant and Equipment March 31, 2020 December 31, 2019 Power generation and structures $ 15,285 $ 15,205 Land 623 622 Office and other equipment 169 164 Total 16,077 15,991 Less accumulated depreciation ( 2,862 ) ( 2,553 ) Net of accumulated depreciation 13,215 13,438 Finance lease right-of-use assets 58 59 Nuclear fuel (net of accumulated amortization of $ 236 million and $ 216 million) 200 197 Construction work in progress 345 220 Property, plant and equipment — net $ 13,818 $ 13,914 Depreciation expenses totaled $ 328 million and $ 335 million for three months ended March 31, 2020 and 2019, respectively .
+[10-Q Q1 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements] Since the costs to ultimately decommission that plant are recoverable through the regulatory rate making process as part of Oncor's delivery fees, a corresponding regulatory asset has been recorded to our condensed consolidated balance sheet of $ 42 million in other noncurrent assets.
+[10-Q Q1 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements] • Acquired retail customer relationship was valued based on discounted cash flow analysis of acquired customers and estimated attrition rates (Level 3).
+[10-Q Q1 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements] The Merger was intended to qualify as a tax-free reorganization under the Internal Revenue Code, as amended, so that none of Vistra Energy, Dynegy or any of the Dynegy stockholders would recognize any gain or loss in the transaction, except that Dynegy stockholders could recognize a gain or loss with respect to cash received in lieu of fractional shares of Vistra Energy's common stock.
+[10-Q Q1 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements] In April 2020, the project received necessary approvals from EBCE and from Pacific Gas and Electric Company (PG&E), and the contract was amended to increase the capacity of the planned development to a 36.25 MW battery ESS.
+[10-Q Q1 2020 — Item 1A. RISK FACTORS] However, COVID-19 or another pandemic could have material and adverse effects on our results of operations, financial condition and cash flows due to, among other factors, a protracted slowdown of broad sectors of the economy, changes in demand or supply for commodities, significant changes in legislation or regulatory policy to address the pandemic (including moratoriums or conditions or disconnections and limits or restrictions or late fees), reduced demand for electricity (particularly from commercial and industrial customers), increased late or uncollectible customer payments, and the inability of the Company's contractors, suppliers, and other business partners to fulfill their contractual obligations.
+[10-Q Q1 2020 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Three Months Ended March 31, 2020 Compared to 2019 Higher margin due to the addition of Crius acquired in July 2019 and Ambit acquired in November 2019 $ 101 Other driven by higher SG&A expense and bad debt expense (47) Change in Adjusted EBITDA $ 54 Change in depreciation and amortization expenses driven by Crius/Ambit intangibles (21) Favorable impact of lower unrealized net losses on hedging activities 43 Lower transition and merger and other expenses 4 Change in net income $ 80 51 Table of Contents Generation — Three Months Ended March 31, 2020 Compared to Three Months Ended March 31, 2019 Three Months Ended March 31, ERCOT PJM NY/NE MISO 2020 2019 2020 2019 2020 2019 2020 2019 Operating revenues: Electricity sales $ 265 $ 359 $ 229 $ 325 $ 72 $ 250 $ 70 $ 141 Capacity — — 14 67 26 80 5 10 Sales to affiliates 398 358 325 222 157 15 72 43 Rolloff of unrealized net gains (losses) representing positions settled in the current period (41) (32) 16 (9) (2) (20) (15) (16) Unrealized net gains (losses) on hedging activities 175 122 22 68 22 21 16 9 Unrealized net gains (losses) on hedging activities with affiliates 69 147 42 32 10 — (2) (14) Other revenues — — — — — (2) (4) (4) Operating revenues 866 954 648 705 285 344 142 169 Fuel, purchased power costs and delivery fees: Fuel for generation facilities and purchased power costs (215) (319) (256) (316) (160) (232) (64) (97) Fuel for generation facilities and purchased power costs from affiliates 2 — (2) — (1) — 1 — Unrealized (gains) losses from hedging activities (22) 14 (14) — (9) 5 (9) 7 Ancillary and other costs (35) (28) (5) — (5) (2) (2) (2) Fuel, purchased power costs and delivery fees (270) (333) (277) (316) (175) (229) (74) (92) Net income (loss) $ 258 $ 301 $ 118 $ 162 $ 15 $ 21 $ (79) $ 21 Adjusted EBITDA $ 217 $ 204 $ 218 $ 201 $ 60 $ 86 $ 28 $ 57 Production volumes (GWh): Natural gas facilities 8,864 8,391 9,430 9,519 3,718 4,953 Lignite and coal facilities 5,563 6,980 2,826 4,940 2,868 4,680 Nuclear facilities 5,224 4,618 Solar/Battery facilities 79 86 Capacity factors: CCGT facilities 51.0 % 48.9 % 72.2 % 73.7 % 36.4 % 48.5 % Lignite and coal facilities 57.2 % 71.8 % 37.6 % 65.7 % 41.7 % 68.0 % Nuclear facilities 105.1 % 93.0 % Weather - percent of normal (a): Heating degree days 78.0 % 109.5 % 82.4 % 100.3 % 84.2 % 100.7 % 84.0 % 100.4 % Market pricing: Average ERCOT North power price ($/MWh) $ 19.39 $ 24.41 Average NYMEX Henry Hub natural gas price ($/MMBTU) $ 1.88 $ 2.89 52 Table of Contents Three Months Ended March 31, ERCOT PJM NY/NE MISO 2020 2019 2020 2019 2020 2019 2020 2019 Average Market On-Peak Power Prices ($MWh) (b): PJM West Hub $ 22.50 $ 33.94 AEP Dayton Hub $ 22.38 $ 32.67 NYISO Zone C $ 18.33 $ 33.90 Massachusetts Hub $ 24.59 $ 47.79 Indiana Hub $ 24.65 $ 33.96 Northern Illinois Hub $ 21.23 $ 29.92 Average natural gas price (c): TetcoM3 ($/MMBtu) $ 1.77 $ 3.33 Algonquin Citygates ($/MMBtu) $ 2.22 $ 5.09 ____________ (a) Reflects cooling degree days or heating degree days for the region based on Weather Services International (WSI) data.
+[10-Q Q1 2020 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] The change was primarily driven by: • cash tender offers to purchase $1.193 billion of senior unsecured notes assumed in the Merger in 2019; • $350 million increase in net short-term borrowings under the Revolving Credit Facility in 2020; • $248 million in cash paid for share repurchases in 2019, and • $59 million decrease in debt tender offer and other financing fees in 2020 compared to 2019, partially offset by: • the issuance of $1.3 billion principal amount of Vistra Operations 5.625% senior notes due 2027 in 2019; • $100 million of term loans under the Vistra Operations Credit Facility repaid in March 2020, and • $81 million principal amount of outstanding of 8.000% senior unsecured notes due 2025 redeemed in January 2020.
+[10-Q Q1 2020 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] 56 Table of Contents Available Liquidity The following table summarizes changes in available liquidity for the three months ended March 31, 2020: March 31, 2020 December 31, 2019 Change Cash and cash equivalents $ 717 $ 300 $ 417 Vistra Operations Credit Facilities — Revolving Credit Facility 1,117 1,426 (309) Total available liquidity $ 1,834 $ 1,726 $ 108 The $108 million increase in available liquidity in the three months ended March 31, 2020 was primarily driven by cash from operations, partially offset by $261 million of capital expenditures (including LTSA prepayments, nuclear fuel and development and growth expenditures), $100 million of term loans under the Vistra Operations Credit Facility repaid in March 2020, $81 million principal amount of outstanding of 8.000% senior unsecured notes due 2025 redeemed in January 2020 and $66 million in dividends paid to shareholders.
+[10-Q Q1 2020 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Net income increased by $80 million to $95 million and Adjusted EBITDA increased by $54 million to $311 million in the three months ended March 31, 2020 compared to the three months ended March 31, 2019.
+[10-Q Q1 2020 — Item 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS] The actual timing, number and value of shares repurchased under the share repurchase program or otherwise will be determined at our discretion and will depend on a number of factors, including our capital allocation priorities, the market price of our stock, general market and economic conditions, applicable legal requirements and compliance with the terms of our debt agreements and the Tax Matters Agreement.
+[VST_Q1_2020] The positive year-over-year variance for our ongoing operations was driven by the acquisitions of Crius and Ambit, partially offset by lower results in our MISO and New York, New England generation segments, driven primarily by lower capacity revenue.
+[10-Q Q1 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements] 19 Table of Contents Other Long-Term Debt Forward Capacity Agreements — On the Merger Date, the Company assumed the obligation of Dynegy's agreements under which a portion of the PJM capacity that cleared for Planning Years 2018-2019, 2019-2020 and 2020-2021 was sold to a financial institution (Forward Capacity Agreements).
+[10-Q Q1 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements] Use of Estimates Preparation of financial statements requires estimates and assumptions about future events that affect the reporting of assets and liabilities at the balance sheet dates and the reported amounts of revenue and expense, including fair value measurements, estimates of expected obligations, judgments related to the potential timing of events and other estimates.
+[10-Q Q1 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements] The actual timing, number and value of shares repurchased under the Program or otherwise will be determined at our discretion and will depend on a number of factors, including our capital allocation priorities, the market price of our stock, general market and economic conditions, applicable legal requirements and compliance with the terms of our debt agreements and the Tax Matters Agreement.
+[10-Q Q1 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements] 26 Table of Contents Equity The following table presents the changes to equity for the three months ended March 31, 2020: Common Stock (a) Treasury Stock Additional Paid-in Capital Retained Earnings (Deficit) Accumulated Other Comprehensive Income (Loss) Total Stockholders' Equity Noncontrolling Interest Total Equity Balance at December 31, 2019 $ 5 $ ( 973 ) $ 9,721 $ ( 764 ) $ ( 30 ) $ 7,959 $ 1 $ 7,960 Dividends declared on common stock — — — ( 66 ) — ( 66 ) — ( 66 ) Effects of stock-based incentive compensation plans — — 14 — — 14 — 14 Net income (loss) — — — 56 — 56 ( 11 ) 45 Adoption of accounting standard — — — ( 4 ) — ( 4 ) — ( 4 ) Change in accumulated other comprehensive income (loss) — — — — ( 23 ) ( 23 ) — ( 23 ) Other — — 2 ( 2 ) — — — — Balance at March 31, 2020 $ 5 $ ( 973 ) $ 9,737 $ ( 780 ) $ ( 53 ) $ 7,936 $ ( 10 ) $ 7,926 ________________ (a) Authorized shares totaled 1,800,000,000 at March 31, 2020.
+[10-Q Q1 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements] The following table presents the changes to equity for the three months ended March 31, 2019: Common Stock (a) Treasury Stock Additional Paid-in Capital Retained Earnings (Deficit) Accumulated Other Comprehensive Income (Loss) Total Stockholders' Equity Noncontrolling Interest Total Equity Balance at December 31, 2018 $ 5 $ ( 778 ) $ 10,107 $ ( 1,449 ) $ ( 22 ) $ 7,863 $ 4 $ 7,867 Stock repurchase — ( 236 ) — — — ( 236 ) — ( 236 ) Dividends declared on common stock — — — ( 61 ) — ( 61 ) — ( 61 ) Effects of stock-based incentive compensation plans — — 12 — — 12 — 12 Net income — — — 225 — 225 ( 1 ) 224 Adoption of accounting standard — — — ( 2 ) — ( 2 ) — ( 2 ) Change in accumulated other comprehensive income (loss) — — — — 1 1 — 1 Other — — — 2 — 2 ( 1 ) 1 Balance at March 31, 2019 $ 5 $ ( 1,014 ) $ 10,119 $ ( 1,285 ) $ ( 21 ) $ 7,804 $ 2 $ 7,806 ________________ (a) Authorized shares totaled 1,800,000,000 at March 31, 2019.
+[10-Q Q2 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements] VISTRA CORP. CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS (Unaudited) (Millions of Dollars, Except Per Share Amounts) Three Months Ended June 30, Six Months Ended June 30, 2020 2019 2020 2019 Operating revenues (Note 5) $ 2,509 $ 2,832 $ 5,367 $ 5,755 Fuel, purchased power costs and delivery fees ( 1,029 ) ( 1,139 ) ( 2,362 ) ( 2,600 ) Operating costs ( 412 ) ( 370 ) ( 792 ) ( 755 ) Depreciation and amortization ( 455 ) ( 384 ) ( 875 ) ( 790 ) Selling, general and administrative expenses ( 236 ) ( 210 ) ( 488 ) ( 392 ) Impairment of long-lived assets (Note 18) — — ( 84 ) — Operating income 377 729 766 1,218 Other income (Note 18) 5 13 12 39 Other deductions (Note 18) ( 4 ) ( 2 ) ( 35 ) ( 5 ) Interest expense and related charges (Note 18) ( 141 ) ( 274 ) ( 440 ) ( 495 ) Impacts of Tax Receivable Agreement (Note 8) ( 6 ) 33 ( 14 ) 36 Equity in earnings of unconsolidated investment 1 3 4 10 Income before income taxes 232 502 293 803 Income tax expense (Note 7) ( 68 ) ( 148 ) ( 84 ) ( 225 ) Net income $ 164 $ 354 $ 209 $ 578 Net loss attributable to noncontrolling interest 2 2 13 3 Net income attributable to Vistra $ 166 $ 356 $ 222 $ 581 Weighted average shares of common stock outstanding: Basic 488,680,442 499,778,235 488,312,503 499,213,522 Diluted 490,468,735 507,500,383 490,709,932 507,248,920 Net income per weighted average share of common stock outstanding: Basic $ 0.34 $ 0.71 $ 0.45 $ 1.16 Diluted $ 0.34 $ 0.70 $ 0.45 $ 1.15 See Notes to the Condensed Consolidated Financial Statements.
+[10-Q Q2 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements] REVENUE The following tables disaggregate our revenue by major source: Three Months Ended June 30, 2020 Retail ERCOT PJM NY/NE MISO Asset Closure CAISO/Eliminations Consolidated Revenue from contracts with customers: Retail energy charge in ERCOT $ 1,411 $ — $ — $ — $ — $ — $ — $ 1,411 Retail energy charge in Northeast/Midwest 540 — — — — — — 540 Wholesale generation revenue from ISO/RTO — 76 71 16 3 — 13 179 Capacity revenue from ISO/RTO — — 15 10 4 — — 29 Revenue from other wholesale contracts — 63 137 26 54 — 21 301 Total revenue from contracts with customers 1,951 139 223 52 61 — 34 2,460 Other revenues: Intangible amortization ( 5 ) — — — ( 7 ) — — ( 12 ) Hedging and other revenues (a) 10 62 ( 6 ) ( 10 ) ( 6 ) — 11 61 Affiliate sales — 664 195 89 73 — ( 1,021 ) — Total other revenues 5 726 189 79 60 — ( 1,010 ) 49 Total revenues $ 1,956 $ 865 $ 412 $ 131 $ 121 $ — $ ( 976 ) $ 2,509 ____________ (a) Includes $ 69 million of unrealized net losses from mark-to-market valuations of commodity positions.
+[10-Q Q2 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements] 10 Table of Contents Three Months Ended June 30, 2019 Retail ERCOT PJM NY/NE MISO Asset Closure CAISO/Eliminations Consolidated Revenue from contracts with customers: Retail energy charge in ERCOT $ 1,091 $ — $ — $ — $ — $ — $ — $ 1,091 Retail energy charge in Northeast/Midwest 315 — — — — — — 315 Wholesale generation revenue from ISO/RTO — 188 130 81 33 43 22 497 Capacity revenue from ISO/RTO — — 53 72 8 3 — 136 Revenue from other wholesale contracts — 52 87 6 40 1 4 190 Total revenue from contracts with customers 1,406 240 270 159 81 47 26 2,229 Other revenues: Intangible amortization ( 10 ) — — ( 1 ) ( 4 ) — 1 ( 14 ) Hedging and other revenues (a) 25 404 81 61 15 11 20 617 Affiliate sales — 1,027 335 35 96 — ( 1,493 ) — Total other revenues 15 1,431 416 95 107 11 ( 1,472 ) 603 Total revenues $ 1,421 $ 1,671 $ 686 $ 254 $ 188 $ 58 $ ( 1,446 ) $ 2,832 ____________ (a) Includes $ 538 million of unrealized net gains from mark-to-market valuations of commodity positions.
+[10-Q Q2 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements] Six Months Ended June 30, 2020 Retail ERCOT PJM NY/NE MISO Asset Closure CAISO/Eliminations Consolidated Revenue from contracts with customers: Retail energy charge in ERCOT $ 2,665 $ — $ — $ — $ — $ — $ — $ 2,665 Retail energy charge in Northeast/Midwest 1,180 — — — — — — 1,180 Wholesale generation revenue from ISO/RTO — 174 148 58 17 — 46 443 Capacity revenue from ISO/RTO — — 30 35 9 — — 74 Revenue from other wholesale contracts — 113 288 38 103 — 25 567 Total revenue from contracts with customers 3,845 287 466 131 129 — 71 4,929 Other revenues: Intangible amortization ( 8 ) — — — ( 11 ) — — ( 19 ) Hedging and other revenues (a) 27 313 32 29 2 — 54 457 Affiliate sales — 1,131 562 257 143 — ( 2,093 ) — Total other revenues 19 1,444 594 286 134 — ( 2,039 ) 438 Total revenues $ 3,864 $ 1,731 $ 1,060 $ 417 $ 263 $ — $ ( 1,968 ) $ 5,367 ____________ (a) Includes $ 131 million of unrealized net gains from mark-to-market valuations of commodity positions.
+[10-Q Q2 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements] 11 Table of Contents Six Months Ended June 30, 2019 Retail ERCOT PJM NY/NE MISO Asset Closure CAISO/Eliminations Consolidated Revenue from contracts with customers: Retail energy charge in ERCOT $ 2,116 $ — $ — $ — $ — $ — $ — $ 2,116 Retail energy charge in Northeast/Midwest 663 — — — — — — 663 Wholesale generation revenue from ISO/RTO — 435 351 276 104 110 95 1,371 Capacity revenue from ISO/RTO — — 120 152 18 6 — 296 Revenue from other wholesale contracts — 97 159 12 55 2 6 331 Total revenue from contracts with customers 2,779 532 630 440 177 118 101 4,777 Other revenues: Intangible amortization ( 19 ) — — ( 3 ) ( 9 ) — 2 ( 29 ) Hedging and other revenues (a) 46 562 171 113 29 25 61 1,007 Affiliate sales — 1,531 590 49 160 — ( 2,330 ) — Total other revenues 27 2,093 761 159 180 25 ( 2,267 ) 978 Total revenues $ 2,806 $ 2,625 $ 1,391 $ 599 $ 357 $ 143 $ ( 2,166 ) $ 5,755 ____________ (a) Includes $ 697 million of unrealized net gains from mark-to-market valuations of commodity positions.
+
+--- Source inventory ---
+[transcript] VST_Q1_2020
+[filing] 10-Q Q1 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q1 2020 — Item 1A. RISK FACTORS
+[filing] 10-Q Q1 2020 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q1 2020 — Item 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+[xbrl] XBRL Revenue Q1 FY2020
+[xbrl] XBRL Operating Income Q1 FY2020
+[xbrl] XBRL Net Income Q1 FY2020
+[xbrl] XBRL Diluted EPS Q1 FY2020
+[xbrl] XBRL Operating Cash Flow Q1 FY2020
+[xbrl] XBRL Capital Expenditures Q1 FY2020
+[xbrl] XBRL Operating margin Q1 FY2020
+[transcript] VST_Q2_2020
+[filing] 10-Q Q2 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q2 2020 — Item 1A. RISK FACTORS
+[filing] 10-Q Q2 2020 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q2 2020 — Item 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+[xbrl] XBRL Revenue Q2 FY2020
+[xbrl] XBRL Operating Income Q2 FY2020
+[xbrl] XBRL Net Income Q2 FY2020
+[xbrl] XBRL Diluted EPS Q2 FY2020
+[xbrl] XBRL Operating Cash Flow Q2 FY2020
+[xbrl] XBRL Capital Expenditures Q2 FY2020
+[xbrl] XBRL Operating margin Q2 FY2020
+[transcript] VST_Q3_2020
+[filing] 10-Q Q3 2020 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q3 2020 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q3 2020 — Item 1A. RISK FACTORS
+[xbrl] XBRL Revenue Q3 FY2020
+[xbrl] XBRL Operating Income Q3 FY2020
+[xbrl] XBRL Net Income Q3 FY2020
+[xbrl] XBRL Diluted EPS Q3 FY2020
+[xbrl] XBRL Operating Cash Flow Q3 FY2020
+[xbrl] XBRL Capital Expenditures Q3 FY2020
+[xbrl] XBRL Operating margin Q3 FY2020
+[transcript] VST_Q4_2020
+[filing] 10-K FY2020 — Item 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-K FY2020 — Item 1. BUSINESS
+[filing] 10-K FY2020 — Item 1A. RISK FACTORS
+[filing] 10-K FY2020 — Item 5. MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+[filing] 10-K FY2020 — Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA — Consolidated Financial Statements
+[xbrl] XBRL Revenue FY2020
+[xbrl] XBRL Operating Income FY2020
+[xbrl] XBRL Net Income FY2020
+[xbrl] XBRL Diluted EPS FY2020
+[xbrl] XBRL Operating Cash Flow FY2020
+[xbrl] XBRL Capital Expenditures FY2020
+[xbrl] XBRL Operating margin FY2020
+[filing] 10-Q Q1 2021 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q1 2021 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q1 2021 — Item 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+[xbrl] XBRL Revenue Q1 FY2021
+[xbrl] XBRL Operating Income Q1 FY2021
+[xbrl] XBRL Net Income Q1 FY2021
+[xbrl] XBRL Diluted EPS Q1 FY2021
+[xbrl] XBRL Operating Cash Flow Q1 FY2021
+[xbrl] XBRL Capital Expenditures Q1 FY2021
+[xbrl] XBRL Operating margin Q1 FY2021
+[transcript] VST_Q2_2021
+[filing] 10-Q Q2 2021 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q2 2021 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q2 2021 — Item 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+[xbrl] XBRL Revenue Q2 FY2021
+[xbrl] XBRL Operating Income Q2 FY2021
+[xbrl] XBRL Net Income Q2 FY2021
+[xbrl] XBRL Diluted EPS Q2 FY2021
+[xbrl] XBRL Operating Cash Flow Q2 FY2021
+[xbrl] XBRL Capital Expenditures Q2 FY2021
+[xbrl] XBRL Operating margin Q2 FY2021
+[transcript] VST_Q3_2021
+[filing] 10-Q Q3 2021 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q3 2021 — Item 1A. RISK FACTORS
+[filing] 10-Q Q3 2021 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q3 2021 — Item 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+[xbrl] XBRL Revenue Q3 FY2021
+[xbrl] XBRL Operating Income Q3 FY2021
+[xbrl] XBRL Net Income Q3 FY2021
+[xbrl] XBRL Diluted EPS Q3 FY2021
+[xbrl] XBRL Operating Cash Flow Q3 FY2021
+[xbrl] XBRL Capital Expenditures Q3 FY2021
+[xbrl] XBRL Operating margin Q3 FY2021
+[filing] 10-K FY2021 — Item 1A. RISK FACTORS
+[xbrl] XBRL Capital Expenditures FY2021
+[filing] 10-K FY2021 — Item 1. BUSINESS
+[filing] 10-K FY2021 — Item 5. MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+[filing] 10-K FY2021 — Item 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-K FY2021 — Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA — Consolidated Financial Statements
+[xbrl] XBRL Revenue FY2021
+[xbrl] XBRL Operating Income FY2021
+[xbrl] XBRL Net Income FY2021
+[xbrl] XBRL Diluted EPS FY2021
+[xbrl] XBRL Operating Cash Flow FY2021
+[xbrl] XBRL Operating margin FY2021
+[filing] 10-Q Q1 2022 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q1 2022 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q1 2022 — Item 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+[xbrl] XBRL Revenue Q1 FY2022
+[xbrl] XBRL Operating Income Q1 FY2022
+[xbrl] XBRL Net Income Q1 FY2022
+[xbrl] XBRL Diluted EPS Q1 FY2022
+[xbrl] XBRL Operating Cash Flow Q1 FY2022
+[xbrl] XBRL Capital Expenditures Q1 FY2022
+[xbrl] XBRL Operating margin Q1 FY2022
+[filing] 10-Q Q2 2022 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q2 2022 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q2 2022 — Item 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+[xbrl] XBRL Revenue Q2 FY2022
+[xbrl] XBRL Operating Income Q2 FY2022
+[xbrl] XBRL Net Income Q2 FY2022
+[xbrl] XBRL Diluted EPS Q2 FY2022
+[xbrl] XBRL Operating Cash Flow Q2 FY2022
+[xbrl] XBRL Capital Expenditures Q2 FY2022
+[xbrl] XBRL Operating margin Q2 FY2022
+[filing] 10-Q Q3 2022 — Item 1. FINANCIAL STATEMENTS — Consolidated Financial Statements
+[filing] 10-Q Q3 2022 — Item 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q3 2022 — Item 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+[xbrl] XBRL Revenue Q3 FY2022
+[xbrl] XBRL Operating Income Q3 FY2022
+[xbrl] XBRL Net Income Q3 FY2022
+[xbrl] XBRL Diluted EPS Q3 FY2022
+[xbrl] XBRL Operating Cash Flow Q3 FY2022
+[xbrl] XBRL Capital Expenditures Q3 FY2022
+[xbrl] XBRL Operating margin Q3 FY2022
+[filing] 10-K FY2022 — Item 1A. RISK FACTORS
+[xbrl] XBRL Capital Expenditures FY2022
+[filing] 10-K FY2022 — Item 1. BUSINESS
+[filing] 10-K FY2022 — Item 1A. Risk Factors – Regulatory and Legislative Risks
+[filing] 10-K FY2022 — Item 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA — Consolidated Financial Statements
+[xbrl] XBRL Revenue FY2022
+[xbrl] XBRL Operating Income FY2022
+[xbrl] XBRL Net Income FY2022
+[xbrl] XBRL Diluted EPS FY2022
+[xbrl] XBRL Operating Cash Flow FY2022
+[xbrl] XBRL Operating margin FY2022
