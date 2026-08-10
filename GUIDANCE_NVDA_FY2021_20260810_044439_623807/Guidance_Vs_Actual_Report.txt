@@ -1,0 +1,251 @@
+[GUIDANCE VS ACTUAL] NVDA: company-wide anchor year 2021
+
+Coverage window: [2020, 2022]
+Coverage state: partial coverage for the loaded source corpus; target-period evidence is missing for some items
+Summary: {"guidance_count": 11, "resolved_pair_count": 4, "active_guidance_count": 6, "active_resolved_pair_count": 1, "out_of_cohort_count": 5, "closed_verdict_count": 9, "not_verifiable_count": 4, "coverage_incomplete_count": 2, "unresolved_count": 2, "verdict_counts": {"Coverage Incomplete": 2, "Missed": 3, "Not Verifiable After Exhaustive Search": 4, "Superseded": 2}, "category_counts": {"financial": 11}, "coverage_state": "partial coverage for the loaded source corpus; target-period evidence is missing for some items"}
+
+--- Active cohort comparisons ---
+1. Coverage Incomplete · Operating expenses · prior-year guidance resolved in anchor year
+   Guidance [NVDA_Q4_2020] GAAP and non-GAAP operating expenses are expected to be approximately $1.05 billion and $835 million, respectively.
+   Target: Q1 FY2021
+   Actual [None] Unavailable
+   Explanation: The target period is not fully covered by the loaded source corpus. Missing expected evidence sources: NVDA_Q1_2021, 10-Q Q1 2021. This item remains open and is not scored.
+
+2. Superseded · Revenue · prior-year guidance resolved in anchor year
+   Guidance [NVDA_Q4_2020] We expect revenue to be $3 billion, plus or minus 2%.
+   Target: Q1 FY2021
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+3. Coverage Incomplete · Revenue · prior-year guidance resolved in anchor year
+   Guidance [NVDA_Q4_2020] While it is still early and the ultimate effect is difficult to estimate, we have reduced our Q1 revenue outlook by $100 million to account for the potential impact.
+   Target: Q1 FY2021
+   Actual [None] Unavailable
+   Explanation: The target period is not fully covered by the loaded source corpus. Missing expected evidence sources: NVDA_Q1_2021, 10-Q Q1 2021. This item remains open and is not scored.
+
+4. Not Verifiable After Exhaustive Search · Operating expenses · anchor-year guidance resolved in following year
+   Guidance [NVDA_Q4_2021] For the full year, we expect to grow non-GAAP opex in the mid-20% range.
+   Target: FY2022
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+5. Not Verifiable After Exhaustive Search · Operating expenses · anchor-year guidance resolved in following year
+   Guidance [NVDA_Q4_2021] GAAP and non-GAAP operating expenses are expected to be approximately $1.67 billion and $1.2 billion respectively.
+   Target: Q1 FY2022
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+6. Missed · Revenue · anchor-year guidance resolved in following year
+   Guidance [NVDA_Q4_2021] Revenue is expected to be $5.3 billion plus or minus 2% with most of the sequential growth driven by Gaming.
+   Target: Q1 FY2022
+   Actual [Q1 FY2022] SEC XBRL Revenue for Q1 FY2022: 5661000000 USD
+   Explanation: The actual is outside the stated range.
+
+--- Explicit targets outside the anchor-year cohorts (appendix) ---
+1. Superseded · Operating expenses · outside anchor-year cohorts
+   Guidance [NVDA_Q2_2021] Full year GAAP and non-GAAP opex is tracking in line with our outlook of $5.7 billion and $4.1 billion, respectively.
+   Target: Q3 FY2021
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+2. Not Verifiable After Exhaustive Search · Operating expenses · outside anchor-year cohorts
+   Guidance [NVDA_Q2_2021] GAAP and non-GAAP operating expenses are expected to be approximately $1.54 billion and $1.09 billion, respectively.
+   Target: Q3 FY2021
+   Actual [Q3 FY2021] Operating Expenses Three Months Ended Six Months Ended August 1, 2021 July 26, 2020 $ Change % Change August 1, 2021 July 26, 2020 $ Change % Change ($ in millions) Research and development expenses $ 1,245 $ 997 $ 248 25 % $ 2,398 $ 1,732 $ 666 38 % % of net revenue 19 % 26 % 20 % 25 % Sales, general and administrative expenses 526 627 (101) (16) % 1,046 920 126 14 % % of net revenue 8 % 16 % 9 % 13 % Total operating expenses $ 1,771 $ 1,624 $ 147 9 % $ 3,444 $ 2,652 $ 792 30 % Research and Development Research and development expenses increased by 25% during the second quarter of fiscal year 2022 compared to the second quarter of fiscal year 2021, primarily driven by employee additions and higher employee compensation, including stock-based compensation and infrastructure costs.
+   Explanation: A candidate actual was found, but deterministic comparability checks rejected it: The guidance used approximate language without a defensible tolerance.
+
+3. Missed · Revenue · outside anchor-year cohorts
+   Guidance [NVDA_Q2_2021] We expect revenue to be $4.4 billion, plus or minus 2%.
+   Target: Q3 FY2021
+   Actual [Q3 FY2021] Our Condensed Consolidated Statements of Income include stock-based compensation expense, net of amounts allocated to inventory, as follows: Three Months Ended Six Months Ended August 1, 2021 July 26, 2020 August 1, 2021 July 26, 2020 (In millions) Cost of revenue $ 32 $ 14 $ 57 $ 35 Research and development 297 228 573 362 Sales, general and administrative 136 132 264 201 Total $ 465 $ 374 $ 894 $ 598 Equity Award Activity The following is a summary of equity award transactions under our equity incentive plans: RSUs, PSUs, and Market-based PSUs Outstanding Number of Shares Weighted Average Grant-Date Fair Value Per Share (In millions, except per share data) Balances, January 31, 2021 59 $ 66.17 Granted 15 $ 181.65 Vested restricted stock ( 17 ) $ 62.20 Canceled and forfeited ( 1 ) $ 70.78 Balances, August 1, 2021 56 $ 100.01 As of August 1, 2021, there was $ 5.35 billion of aggregate unearned stock-based compensation expense, net of forfeitures.
+   Explanation: The actual is outside the stated range.
+
+4. Not Verifiable After Exhaustive Search · Operating expenses · outside anchor-year cohorts
+   Guidance [NVDA_Q3_2021] GAAP and non-GAAP operating expenses are expected to be approximately $2.02 billion and $1.43 billion, respectively.
+   Target: Q4 FY2021
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+5. Missed · Revenue · outside anchor-year cohorts
+   Guidance [NVDA_Q3_2021] Revenue is expected to be $7.4 billion plus or minus 2%.
+   Target: Q4 FY2021
+   Actual [Q4 FY2021] Our Condensed Consolidated Statements of Income include stock-based compensation expense, net of amounts allocated to inventory, as follows: Three Months Ended Nine Months Ended October 31, 2021 October 25, 2020 October 31, 2021 October 25, 2020 (In millions) Cost of revenue $ 44 $ 28 $ 102 $ 62 Research and development 363 232 935 594 Sales, general and administrative 152 123 416 325 Total $ 559 $ 383 $ 1,453 $ 981 Equity Award Activity The following is a summary of equity award transactions under our equity incentive plans: RSUs, PSUs, and Market-based PSUs Outstanding Number of Shares Weighted Average Grant-Date Fair Value Per Share (In millions, except per share data) Balances, January 31, 2021 59 $ 66.17 Granted 17 $ 184.63 Vested restricted stock ( 23 ) $ 62.39 Canceled and forfeited ( 1 ) $ 80.50 Balances, October 31, 2021 52 $ 107.42 As of October 31, 2021, there was $ 5.16 billion of aggregate unearned stock-based compensation expense, net of forfeitures.
+   Explanation: The actual is outside the stated range.
+
+--- Unpaired actuals (showing 32 of 502; full ledger is in JSON/CSV) ---
+[10-Q Q3 2020 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 2 - Business Combination] The unaudited pro forma information presented above is for informational purposes only and is not necessarily indicative of our consolidated results of operations of the combined business had the acquisition actually occurred at the beginning of fiscal year 2020 or of the results of our future operations of the combined businesses.
+[10-Q Q3 2020 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 15 - Segment Information] The following table summarizes information pertaining to our revenue from customers based on the invoicing address by geographic regions: Three Months Ended Six Months Ended July 26, July 28, July 26, July 28, 2020 2019 2020 2019 (In millions) Revenue: Taiwan $ 954 $ 635 $ 1,766 $ 1,333 United States 944 188 1,441 353 China (including Hong Kong) 855 583 1,614 1,136 Other Asia Pacific 698 756 1,305 1,178 Europe 240 288 494 537 Other countries 175 129 326 262 Total revenue $ 3,866 $ 2,579 $ 6,946 $ 4,799 The following table summarizes information pertaining to our revenue by each of the specialized markets we serve: Three Months Ended Six Months Ended July 26, July 28, July 26, July 28, 2020 2019 2020 2019 (In millions) Revenue: Gaming $ 1,654 $ 1,313 $ 2,993 $ 2,368 Professional Visualization 203 291 510 557 Data Center 1,752 655 2,893 1,289 Automotive 111 209 266 375 OEM and Other 146 111 284 210 Total revenue $ 3,866 $ 2,579 $ 6,946 $ 4,799 No customer represented 10% or more of total revenue for the second quarter and first half of fiscal year 2021.
+[10-Q Q3 2020 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Second Quarter of Fiscal Year 2021 Summary Three Months Ended July 26, 2020 April 26, 2020 July 28, 2019 Quarter-over-Quarter Change Year-over-Year Change ($ in millions, except per share data) Revenue $ 3,866 $ 3,080 $ 2,579 26 % 50 % Gross margin 58.8 % 65.1 % 59.8 % (630) bps (100) bps Operating expenses $ 1,624 $ 1,028 $ 970 58 % 67 % Income from operations $ 651 $ 976 $ 571 (33) % 14 % Net income $ 622 $ 917 $ 552 (32) % 13 % Net income per diluted share $ 0.99 $ 1.47 $ 0.90 (33) % 10 % Revenue for the second quarter of fiscal year 2021 was $3.87 billion, up 50% from a year earlier and up 26% sequentially.
+[10-Q Q3 2020 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Compute & Networking - Compute & Networking segment revenue for the second quarter of fiscal year 2021 compared to the second quarter of fiscal year 2020 increased by 130% and revenue for the first half of fiscal year 2021 compared to the first half of fiscal year 2020 increased by 101%.
+[10-Q Q3 2020 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Operating Expenses Three Months Ended Six Months Ended July 26, 2020 July 28, 2019 $ Change % Change July 26, 2020 July 28, 2019 $ Change % Change ($ in millions) ($ in millions) Research and development expenses $ 997 $ 704 $ 293 42 % $ 1,732 $ 1,379 $ 353 26 % % of net revenue 26 % 27 % 25 % 29 % Sales, general and administrative expenses 627 266 361 136 % 920 529 391 74 % % of net revenue 16 % 10 % 13 % 11 % Total operating expenses $ 1,624 $ 970 $ 654 67 % $ 2,652 $ 1,908 $ 744 39 % Research and Development Research and development expenses increased by 42% and 26% during the second quarter and first half of fiscal year 2021, compared to the second quarter and first half of fiscal year 2020, respectively, primarily driven by expenses and 32 stock-based compensation related to the Mellanox acquisition.
+[NVDA_Q4_2020] Colette Kress -- Executive Vice President and Chief Financial Officer --- Page 2 --- Motley Fool transcript | Source URL in header Page 2 Thanks, Simona.
+[NVDA_Q4_2020] Q4 revenue was $3.11 billion, up 41% year-on-year and up 3% sequentially, well above our outlook, reflecting upside in our data center and gaming businesses.
+[NVDA_Q4_2020] Full year revenue was $10.9 billion, down 7%, we recovered from the excess channel inventory in gaming and an earlier pause in hyperscale spending, and exited the year with great momentum.
+[NVDA_Q4_2020] Starting with gaming, revenue of $1.49 billion was up 56% year-on-year and down 10% sequentially.
+[NVDA_Q4_2020] Revenue was a record $968 million, up 43% year-on-year and up 33% sequentially.
+[NVDA_Q4_2020] Full-year fiscal year '20 datacenter revenue was a record $2.98 billion, up 2% from the prior year.
+[NVDA_Q4_2020] Revenue reached a record $331 million, up 13% year-on-year and up 2% sequentially.
+[NVDA_Q4_2020] ProViz accelerated in Q4 as the --- Page 4 --- Motley Fool transcript | Source URL in header Page 4 rollout of more RTX-enabled applications is driving strong upgrade cycle for our Turing GPUs.
+[10-Q Q2 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] First Quarter of Fiscal Year 2022 Summary Three Months Ended May 2, 2021 January 31, 2021 April 26, 2020 Quarter-over-Quarter Change Year-over-Year Change ($ in millions, except per share data) Revenue $ 5,661 $ 5,003 $ 3,080 13 % 84 % Gross margin 64.1 % 63.1 % 65.1 % 100 bps (100) bps Operating expenses $ 1,673 $ 1,650 $ 1,028 1 % 63 % Income from operations $ 1,956 $ 1,507 $ 976 30 % 100 % Net income $ 1,912 $ 1,457 $ 917 31 % 109 % Net income per diluted share $ 3.03 $ 2.31 $ 1.47 31 % 106 % We specialize in markets where our computing platforms can provide tremendous acceleration for applications.
+[10-Q Q2 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Revenue for the first quarter of fiscal year 2022 was $5.66 billion, up 84% from a year earlier.
+[10-Q Q2 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] The year-on-year revenue growth was driven primarily by the Mellanox acquisition and the ramp of NVIDIA Ampere GPU architecture products into vertical industries and hyperscale customers.
+[10-Q Q2 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] The year-on-year increase was driven by sales of notebook workstation GPUs.
+[10-Q Q2 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] In addition to Mellanox, the year-on-year increase was primarily driven by compensation-related costs, including employee growth and infrastructure costs.
+[10-Q Q2 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Sequential costs were relatively flat, with increased expenses from growth in employees offset by the additional week in the fourth quarter of fiscal year 2021.
+[10-Q Q2 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Three Months Ended May 2, 2021 April 26, 2020 Revenue 100.0 % 100.0 % Cost of revenue 35.9 34.9 Gross profit 64.1 65.1 Operating expenses Research and development 20.4 23.9 Sales, general and administrative 9.2 9.5 Total operating expenses 29.6 33.4 Income from operations 34.5 31.7 Interest income 0.1 1.0 Interest expense (0.9) (0.8) Other, net 2.4 — Other income (expense), net 1.6 0.2 Income before income tax 36.1 31.9 Income tax expense 2.3 2.1 Net income 33.8 % 29.8 % Revenue Revenue by Reportable Segments Three Months Ended May 2, 2021 April 26, 2020 $ Change % Change ($ in millions) Graphics $ 3,451 $ 1,906 $ 1,545 81 % Compute & Networking 2,210 1,174 1,036 88 % Total $ 5,661 $ 3,080 $ 2,581 84 % Graphics - Graphics segment revenue increased 81% in the first quarter of fiscal year 2022 compared to the first quarter of fiscal year 2021, reflecting growth in GeForce GPUs which benefited from continued strong sales of our GeForce RTX 30 Series based on the NVIDIA Ampere architecture.
+[10-Q Q2 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Additionally, revenue increased from higher sales of Quadro/NVIDIA RTX workstations and game console SOCs.
+[10-Q Q2 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Compute & Networking - Compute & Networking segment revenue increased 88% for the first quarter of fiscal year 2022 compared to the first quarter of fiscal year 2021, reflecting the addition of Mellanox, which we acquired on April 27, 2020.
+[10-Q Q3 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Gross Margin Our overall gross margin increased to 64.8% and 64.5% for the second quarter and first half of fiscal year 2022, respectively, from 58.8% and 61.6% for the second quarter and first half of fiscal year 2021, respectively.
+[10-Q Q3 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Second Quarter of Fiscal Year 2022 Summary Three Months Ended August 1, 2021 May 2, 2021 July 26, 2020 Quarter-over-Quarter Change Year-over-Year Change ($ in millions, except per share data) Revenue $ 6,507 $ 5,661 $ 3,866 15 % 68 % Gross margin 64.8 % 64.1 % 58.8 % 70 bps 600 bps Operating expenses $ 1,771 $ 1,673 $ 1,624 6 % 9 % Income from operations $ 2,444 $ 1,956 $ 651 25 % 275 % Net income $ 2,374 $ 1,912 $ 622 24 % 282 % Net income per diluted share $ 0.94 $ 0.76 $ 0.25 24 % 276 % We specialize in markets where our computing platforms can provide tremendous acceleration for applications.
+[10-Q Q3 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Revenue for the second quarter of fiscal year 2022 was $6.51 billion, up 68% from a year earlier.
+[10-Q Q3 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] The year-on-year growth was led by the ramp of NVIDIA Ampere architecture products into vertical industries and hyperscale customers, including strong growth in inference.
+[10-Q Q3 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Professional Visualization revenue was up 156% from a year earlier and up 40% sequentially, driven by the ramp of NVIDIA Ampere architecture GPUs, with growth led by desktop workstation GPUs.
+[10-Q Q3 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] GAAP gross margin for the second quarter was up 600 basis points from a year earlier, primarily due to a non-recurring inventory step-up expense of $161 million related to the Mellanox acquisition in the second quarter of fiscal year 2021.
+[10-Q Q3 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS] Three Months Ended Six Months Ended August 1, 2021 July 26, 2020 August 1, 2021 July 26, 2020 Revenue 100.0 % 100.0 % 100.0 % 100.0 % Cost of revenue 35.2 41.2 35.5 38.4 Gross profit 64.8 58.8 64.5 61.6 Operating expenses Research and development 19.1 25.8 19.7 24.9 Sales, general and administrative 8.1 16.2 8.6 13.3 Total operating expenses 27.2 42.0 28.3 38.2 Income from operations 37.6 16.8 36.2 23.4 Interest income 0.1 0.3 0.1 0.6 Interest expense (0.9) (1.4) (0.9) (1.1) Other, net 0.1 — 1.1 — Other income (expense), net (0.7) (1.1) 0.3 (0.5) Income before income tax 36.9 15.7 36.5 22.9 Income tax expense (benefit) 0.3 (0.3) 1.3 0.7 Net income 36.6 % 16.0 % 35.2 % 22.2 % Revenue Revenue by Reportable Segments Three Months Ended Six Months Ended August 1, 2021 July 26, 2020 $ Change % Change August 1, 2021 July 26, 2020 $ Change % Change ($ in millions) Graphics $ 3,907 $ 2,085 $ 1,822 87 % $ 7,358 $ 3,991 $ 3,367 84 % Compute & Networking 2,600 1,781 819 46 % 4,810 2,955 1,855 63 % Total $ 6,507 $ 3,866 $ 2,641 68 % $ 12,168 $ 6,946 $ 5,222 75 % Graphics - Graphics segment revenue increased 87% in the second quarter of fiscal year 2022 compared to the second quarter of fiscal year 2021 and 84% in the first half of fiscal year 2022 compared to the first half of fiscal year 2021, reflecting growth in GeForce GPUs which benefited from the introduction of new products of our GeForce RTX 30 Series for both desktop and laptops based on the NVIDIA Ampere architecture.
+[NVDA_Q3_2021] Non-gaming gross margin was up 150 basis points from a year earlier and up 30 basis points sequentially.
+[NVDA_Q3_2021] Q3 GAAP EPS was $0.97, 83% from a year earlier.
+[NVDA_Q3_2021] Q3 cash flow from operations was $1.5 billion, up from $1.3 billion a year earlier and down from $2.7 billion in the prior quarter.
+
+--- Source inventory ---
+[xbrl] XBRL Revenue Q1 FY2020
+[xbrl] XBRL Gross Profit Q1 FY2020
+[xbrl] XBRL Operating Income Q1 FY2020
+[xbrl] XBRL Net Income Q1 FY2020
+[xbrl] XBRL Diluted EPS Q1 FY2020
+[xbrl] XBRL Operating Cash Flow Q1 FY2020
+[xbrl] XBRL Capital Expenditures Q1 FY2020
+[xbrl] XBRL Gross margin Q1 FY2020
+[xbrl] XBRL Operating margin Q1 FY2020
+[xbrl] XBRL Revenue Q2 FY2020
+[xbrl] XBRL Gross Profit Q2 FY2020
+[xbrl] XBRL Operating Income Q2 FY2020
+[xbrl] XBRL Net Income Q2 FY2020
+[xbrl] XBRL Diluted EPS Q2 FY2020
+[xbrl] XBRL Operating Cash Flow Q2 FY2020
+[xbrl] XBRL Capital Expenditures Q2 FY2020
+[xbrl] XBRL Gross margin Q2 FY2020
+[xbrl] XBRL Operating margin Q2 FY2020
+[filing] 10-Q Q3 2020 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 2 - Business Combination
+[filing] 10-Q Q3 2020 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 15 - Segment Information
+[filing] 10-Q Q3 2020 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q3 2020 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Consolidated Financial Statements
+[filing] 10-Q Q3 2020 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 4 - Stock-Based Compensation
+[filing] 10-Q Q3 2020 — ITEM 1A. RISK FACTORS
+[filing] 10-Q Q3 2020 — ITEM 4. CONTROLS AND PROCEDURES
+[xbrl] XBRL Revenue Q3 FY2020
+[xbrl] XBRL Gross Profit Q3 FY2020
+[xbrl] XBRL Operating Income Q3 FY2020
+[xbrl] XBRL Net Income Q3 FY2020
+[xbrl] XBRL Diluted EPS Q3 FY2020
+[xbrl] XBRL Operating Cash Flow Q3 FY2020
+[xbrl] XBRL Gross margin Q3 FY2020
+[xbrl] XBRL Operating margin Q3 FY2020
+[transcript] NVDA_Q4_2020
+[filing] 10-Q Q4 2020 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Consolidated Financial Statements
+[filing] 10-Q Q4 2020 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 15 - Segment Information
+[filing] 10-Q Q4 2020 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 2 - Business Combination
+[filing] 10-Q Q4 2020 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 4 - Stock-Based Compensation
+[filing] 10-Q Q4 2020 — ITEM 1A. RISK FACTORS
+[filing] 10-Q Q4 2020 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q4 2020 — ITEM 4. CONTROLS AND PROCEDURES
+[xbrl] XBRL Gross Profit FY2020
+[xbrl] XBRL Operating Income FY2020
+[xbrl] XBRL Net Income FY2020
+[xbrl] XBRL Diluted EPS FY2020
+[xbrl] XBRL Operating Cash Flow FY2020
+[transcript] NVDA_Q2_2021
+[filing] 10-Q Q2 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q2 2021 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Consolidated Financial Statements
+[filing] 10-Q Q2 2021 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 15 - Segment Information
+[filing] 10-Q Q2 2021 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 4 - Stock-Based Compensation
+[filing] 10-Q Q2 2021 — ITEM 1A. RISK FACTORS
+[filing] 10-Q Q3 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q3 2021 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 4 - Stock-Based Compensation
+[transcript] NVDA_Q3_2021
+[filing] 10-Q Q3 2021 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Consolidated Financial Statements
+[filing] 10-Q Q3 2021 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 1 - Summary of Significant Accounting Policies
+[filing] 10-Q Q3 2021 — ITEM 1A. RISK FACTORS
+[xbrl] XBRL Revenue Q3 FY2021
+[xbrl] XBRL Gross Profit Q3 FY2021
+[xbrl] XBRL Operating Income Q3 FY2021
+[xbrl] XBRL Net Income Q3 FY2021
+[xbrl] XBRL Diluted EPS Q3 FY2021
+[xbrl] XBRL Gross margin Q3 FY2021
+[xbrl] XBRL Operating margin Q3 FY2021
+[filing] 10-Q Q4 2021 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 4 - Stock-Based Compensation
+[transcript] NVDA_Q4_2021
+[filing] 10-Q Q4 2021 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Consolidated Financial Statements
+[filing] 10-Q Q4 2021 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 1 - Summary of Significant Accounting Policies
+[filing] 10-Q Q4 2021 — ITEM 1A. RISK FACTORS
+[filing] 10-Q Q4 2021 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-K FY2021 — ITEM 1. BUSINESS
+[filing] 10-K FY2021 — ITEM 15. EXHIBITS, FINANCIAL STATEMENT SCHEDULE
+[filing] 10-K FY2021 — ITEM 1A. RISK FACTORS
+[filing] 10-K FY2021 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-K FY2021 — ITEM 9A. CONTROLS AND PROCEDURES
+[xbrl] XBRL Gross Profit FY2021
+[xbrl] XBRL Operating Income FY2021
+[xbrl] XBRL Net Income FY2021
+[xbrl] XBRL Diluted EPS FY2021
+[xbrl] XBRL Operating Cash Flow FY2021
+[xbrl] XBRL Revenue Q1 FY2022
+[transcript] NVDA_Q1_2022
+[xbrl] XBRL Gross Profit Q1 FY2022
+[xbrl] XBRL Operating Income Q1 FY2022
+[xbrl] XBRL Net Income Q1 FY2022
+[xbrl] XBRL Diluted EPS Q1 FY2022
+[xbrl] XBRL Operating Cash Flow Q1 FY2022
+[xbrl] XBRL Gross margin Q1 FY2022
+[xbrl] XBRL Operating margin Q1 FY2022
+[filing] 10-Q Q2 2022 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[transcript] NVDA_Q2_2022
+[filing] 10-Q Q2 2022 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Consolidated Financial Statements
+[filing] 10-Q Q2 2022 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 14 - Shareholders’ Equity
+[filing] 10-Q Q2 2022 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 4 - Stock-Based Compensation
+[filing] 10-Q Q2 2022 — ITEM 1A. RISK FACTORS
+[filing] 10-Q Q2 2022 — ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+[xbrl] XBRL Revenue Q2 FY2022
+[xbrl] XBRL Gross Profit Q2 FY2022
+[xbrl] XBRL Operating Income Q2 FY2022
+[xbrl] XBRL Net Income Q2 FY2022
+[xbrl] XBRL Diluted EPS Q2 FY2022
+[xbrl] XBRL Operating Cash Flow Q2 FY2022
+[xbrl] XBRL Gross margin Q2 FY2022
+[xbrl] XBRL Operating margin Q2 FY2022
+[filing] 10-Q Q3 2022 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Consolidated Financial Statements
+[filing] 10-Q Q3 2022 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 10 - Balance Sheet Components
+[filing] 10-Q Q3 2022 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 13 - Commitments and Contingencies
+[filing] 10-Q Q3 2022 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 6 – Income Taxes
+[filing] 10-Q Q3 2022 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q3 2022 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 4 - Stock-Based Compensation
+[filing] 10-Q Q3 2022 — ITEM 1A. RISK FACTORS
+[filing] 10-Q Q3 2022 — ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+[xbrl] XBRL Revenue Q3 FY2022
+[xbrl] XBRL Gross Profit Q3 FY2022
+[xbrl] XBRL Operating Income Q3 FY2022
+[xbrl] XBRL Net Income Q3 FY2022
+[xbrl] XBRL Diluted EPS Q3 FY2022
+[xbrl] XBRL Operating Cash Flow Q3 FY2022
+[xbrl] XBRL Gross margin Q3 FY2022
+[xbrl] XBRL Operating margin Q3 FY2022
+[filing] 10-Q Q4 2022 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 6 – Income Taxes
+[filing] 10-Q Q4 2022 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[transcript] NVDA_Q4_2022
+[filing] 10-Q Q4 2022 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Consolidated Financial Statements
+[filing] 10-Q Q4 2022 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 13 - Commitments and Contingencies
+[filing] 10-Q Q4 2022 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 15 - Segment Information
+[filing] 10-Q Q4 2022 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 4 - Stock-Based Compensation
+[filing] 10-Q Q4 2022 — ITEM 1A. RISK FACTORS
+[filing] 10-Q Q4 2022 — ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+[filing] 10-K FY2022 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-K FY2022 — ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+[filing] 10-K FY2022 — ITEM 1A. RISK FACTORS
+[filing] 10-K FY2022 — ITEM 5. MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+[xbrl] XBRL Revenue FY2022
+[xbrl] XBRL Gross Profit FY2022
+[xbrl] XBRL Operating Income FY2022
+[xbrl] XBRL Net Income FY2022
+[xbrl] XBRL Diluted EPS FY2022
+[xbrl] XBRL Operating Cash Flow FY2022
+[xbrl] XBRL Gross margin FY2022
+[xbrl] XBRL Operating margin FY2022
