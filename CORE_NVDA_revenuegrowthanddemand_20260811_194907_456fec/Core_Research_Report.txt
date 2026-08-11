@@ -1,0 +1,291 @@
+[CORE RESEARCH - MULTIPLE TOPICS] NVDA: revenue growth | demand
+
+
+======================================================================
+TOPIC: revenue growth
+======================================================================
+
+[CORE RESEARCH] NVDA: revenue growth
+
+Quarters searched: 3
+Filing sections searched: 84
+
+Over the reported periods, the company experienced strong revenue growth early in fiscal 2022, with Q1 showing an 84% year-on-year increase and Q2 maintaining robust growth. However, by Q3 and Q4, revenue growth slowed significantly, with sequential declines and year-on-year decreases noted, particularly in gaming and overall revenue. Management's guidance anticipated sequential growth returning in Q1 of the following fiscal year, with momentum building thereafter. The data center segment consistently showed strong year-on-year growth, driven by AI and cloud workloads, while other segments like gaming and automotive showed more volatility.
+
+Forecasting credibility: Low
+There is only one explicit guidance/actual pair with a clear verdict, which was a miss in Q3 2022 where revenue was down 19% sequentially versus expectations of sequential growth. Other guidance statements were either qualitative or lacked precise numeric targets, limiting the ability to assess forecasting accuracy. The single miss and lack of multiple pairs reduce confidence in management's forecasting credibility.
+
+Trends:
+  - Strong early fiscal 2022 revenue growth
+  - Slowing sequential and year-on-year growth in late 2022
+  - Consistent data center revenue growth
+  - Volatility in gaming and automotive segments
+  - Expectations of sequential growth returning in early 2023
+
+Recurring themes/risks:
+  - Dependence on AI and cloud computing workloads
+  - Impact of remote work on workstation demand
+  - Inventory purchase obligations affecting revenue recognition
+  - Compensation and employee growth driving expenses
+
+Key concerns:
+  - A notable sequential revenue decline in Q3 2022 despite prior guidance for growth indicates forecasting challenges.
+  - Revenue guidance often lacked precise numeric targets, complicating assessment of forecasting accuracy.
+  - Increased expenses related to compensation and employee growth may pressure margins despite revenue growth.
+
+Conclusion:
+Revenue growth was robust in early fiscal 2022, driven by strong demand in data center and workstation segments, with year-on-year increases exceeding 60% in some quarters. However, growth decelerated in the latter half of the year, with sequential declines and year-on-year decreases in Q3 and Q4, particularly in gaming. The data center segment remained a consistent growth driver, fueled by AI and cloud workloads. Management's guidance anticipated a return to sequential growth in early 2023, but the single missed guidance/actual pair and lack of multiple precise forecasts limit confidence in the predictability of revenue growth. Overall, while revenue growth was strong, it showed signs of volatility and deceleration toward the end of the period.
+
+Evidence Coverage: 97.2% complete; 138/142 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2022 ===
+Management said:
+  - And then, on the heels of the last question, I'm just curious, things like VMware's Project Monterey as we think about the BlueField-2 product and Bluefield-3, how should we think about those starting to become or when should they become really material incremental revenue growth contributors for the Company?
+  - Q1 was exceptionally strong with revenue of $5.66 billion and year-on-year growth accelerating to 84%.
+Guidance given:
+  - We expect broad-based sequential year-on-year revenue growth in all of our markets platforms.
+Actual reported:
+  - [None] Q1 was exceptionally strong with revenue of $5.66 billion and year-on-year growth accelerating to 84%.
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Revenue: $5.66B | vs prior quarter: — | vs prior year: —
+
+=== Q2 2022 ===
+Management said:
+  - Q2 was another strong quarter with revenue of $6.5 billion and year-on-year growth of 68%.
+  - Strong sequential revenue growth was led by desktop workstations, driven by demand to outfit design offices at home as remote work becomes the norm across industries.
+  - Sequential revenue declines in infotainment were largely offset by growth in self-driving.
+Guidance given:
+  - Now, excluding CMP, we expect our revenue to grow over $500 million sequentially.
+Actual reported:
+  - [None] [from 10-K/10-Q] Data Center revenue was up 83% from a year ago and up 15% sequentially.
+  - [None] [from 10-K/10-Q] Professional Visualization revenue was up 67% from a year ago and down 3% sequentially.
+  - [None] [from 10-K/10-Q] Automotive revenue was down 10% from a year ago and up 10% sequentially.
+  - [None] [from 10-K/10-Q] Revenue for the first quarter of fiscal year 2023 was $8.29 billion, up 46% from a year ago and up 8% sequentially.
+  - [None] [from 10-K/10-Q] Gaming revenue was up 31% from a year ago and up 6% sequentially.
+  - [None] Strong sequential revenue growth was led by desktop workstations, driven by demand to outfit design offices at home as remote work becomes the norm across industries.
+  - [None] Q2 was another strong quarter with revenue of $6.5 billion and year-on-year growth of 68%.
+  - [None] Revenue of $2.4 billion, grew 16% sequentially and 35% from the year ago quarter -- the year ago quarter, which was our first quarter to include Mellanox.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - Sales, General and Administrative Sales, general and administrative expenses increased by 14% during the first quarter of fiscal year 2023 compared to the first quarter of fiscal year 2022, primarily driven by compensation-related costs, associated with employee growth and stock-based compensation, partially offset by lower legal fees.
+    - Growth was led by cloud computing and hyperscale customers for workloads such as natural language processing and deep recommenders.
+    - These increases were also driven by employee growth, compensation-related costs and engineering development costs.
+    - The year-on-year increase was driven by sales of NVIDIA Ampere architecture products with growth in workstations as enterprises supported hybrid work environments.
+    - Revenue for the first quarter of fiscal year 2023 was $8.29 billion, up 46% from a year ago and up 8% sequentially.
+  [Financial Statements]
+    - Revenue: $6.51B | vs prior quarter: $5.66B (+14.9%) | vs prior year: —
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+    - Settlement In May 2022, NVIDIA entered into a settlement with the SEC relating to MD&A disclosures in our Forms 10-Q for the second and third quarters of fiscal year 2018 concerning the impact of cryptocurrency mining on year-over-year growth in revenue for our gaming specialized market during those periods.
+  [Risk Factors]
+    - Adverse changes in global, regional or local economic conditions, including recession or slowing growth, the COVID-19 pandemic or other global or local health issues, changes or uncertainty in fiscal, monetary, or trade policy, higher interest rates, tighter credit, inflation, lower capital expenditures by businesses including on IT infrastructure, increases in unemployment, and lower consumer confidence and spending, periodically occur.
+
+=== Q3 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Missed] [from 10-K/10-Q] Revenue for the second quarter of fiscal year 2023 was $6.70 billion, up 3% from a year ago and down 19% sequentially.
+  - [None] [from 10-K/10-Q] Gaming revenue was down 33% from a year ago and down 44% sequentially.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - Key workloads driving 26 growth included natural language processing, deep recommenders, autonomous vehicle fleet data processing and training, and cloud graphics.
+    - Sales, general and administrative expenses increases were primarily driven by compensation-related costs, including for employee growth as well as increases in salaries to support our employees during this high inflationary environment and stock-based compensation, and infrastructure costs partially offset by lower legal fees.
+    - Operating expenses were influenced primarily by employee growth costs, as well as increases in salaries to support our employees during this high inflationary environment, and engineering development of new products coming to market.
+    - Key workloads driving growth included natural language processing, deep recommenders, autonomous vehicle fleet data processing and training, and cloud graphics.
+    - Revenue for the second quarter of fiscal year 2023 was $6.70 billion, up 3% from a year ago and down 19% sequentially.
+  [Financial Statements]
+    - Revenue: $7.10B | vs prior quarter: $6.51B (+9.2%) | vs prior year: $4.73B (+50.3%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+    - Settlement In May 2022, NVIDIA entered into a settlement with the SEC relating to MD&A disclosures in our Forms 10-Q for the second and third quarters of fiscal year 2018 concerning the impact of cryptocurrency mining on year-over-year growth in revenue for our gaming specialized market during those periods.
+  [Risk Factors]
+    - Adverse changes in global, regional or local economic conditions, including recession or slowing growth, the COVID-19 pandemic or other global or local health issues, geopolitical instability, changes or uncertainty in fiscal, monetary, or trade policy, higher interest rates, tighter credit, inflation, lower capital expenditures by businesses including on IT infrastructure, increases in unemployment, labor shortages and lower consumer confidence and spending, periodically occur.
+
+=== Q4 2022 ===
+Management said:
+  - Full-year revenue was a record $26.9 billion, up 61%, compounding the prior year's growth of 53%.
+  - We have just started shipments of our Orion-based product platform and expect to return to sequential revenue growth in Q1 with more meaningful inflection in the second half of the fiscal year and momentum building into calendar 2023.
+  - Record desktop revenue in the quarter was led by our growth in our GeForce RTX 30 Series products with continued strength in the high end.
+  - Just on the inventory purchase obligations, I think this was the fourth quarter in a row where you've seen greater than 30% sequential growth and is the first quarter where that number is now eclipsing kind of your quarterly revenue guidance.
+Guidance given:
+  - We have just started shipments of our Orion-based product platform and expect to return to sequential revenue growth in Q1 with more meaningful inflection in the second half of the fiscal year and momentum building into calendar 2023.
+  - Revenue is expected to be $8.1 billion, plus or minus 2%.
+Actual reported:
+  - [None] [from 10-K/10-Q] Revenue for the third quarter of fiscal year 2023 was $5.93 billion, down 17% from a year ago and down 12% sequentially.
+  - [None] [from 10-K/10-Q] Data Center revenue was up 31% from a year ago and up 1% sequentially.
+  - [None] [from 10-K/10-Q] Data Center revenue was up 58% from a year ago primarily driven by sales of NVIDIA Ampere architecture GPUs across both training and inference for cloud computing and AI workloads such as natural language processing and deep recommender models.
+  - [None] [from 10-K/10-Q] Professional Visualization revenue was up 100% from a year ago driven by the ramp of NVIDIA Ampere architecture products and strong demand for workstations as enterprises support hybrid work environments, as well as growth in workloads such as 3D design, AI and rendering.
+  - [None] [from 10-K/10-Q] Automotive revenue was up 6% from a year ago due to self-driving and AI cockpit solutions offset by a decline in legacy cockpit revenue.
+  - [None] [from 10-K/10-Q] OEM and Other revenue was up 84% from a year ago primarily driven by CMP sales.
+  - [None] Full-year revenue was a record $26.9 billion, up 61%, compounding the prior year's growth of 53%.
+  - [None] Record revenue of $3.3 billion grew 11% sequentially and 71% from a year earlier.
+  - [None] Fiscal year revenue of $12.5 billion was up 61%.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 30 Sales, general and administrative expense increases were primarily driven by compensation and employee growth.
+    - Research and development expense increases for the first nine months of fiscal year 2023 were primarily driven by compensation, employee growth and engineering development costs.
+    - Year-on-year growth was broad-based across U.S. cloud service providers, consumer internet companies and other vertical industries.
+    - The year-on-year increase also reflects employee growth.
+    - Professional Visualization revenue was up 100% from a year ago driven by the ramp of NVIDIA Ampere architecture products and strong demand for workstations as enterprises support hybrid work environments, as well as growth in workloads such as 3D design, AI and rendering.
+    - Sales, General and Administrative Sales, general and administrative expenses increased by 12% in fiscal year 2022 compared to fiscal year 2021, primarily driven by stock-based compensation, compensation-related costs associated with employee growth, partially offset by lower amortization of intangibles.
+    - Operating expenses for fiscal year 2022 were up 27% from a year ago primarily driven by stock-based compensation, compensation-related costs associated with employee growth and higher infrastructure costs.
+    - To 30 Table of Contents have shorter shipment lead times and quicker delivery schedules for our customers, we may build finished products and maintain inventory for anticipated periods of growth which do not occur, anticipating demand that does not materialize, or for what we believe is pent-up demand.
+    - Concentration of Revenue Revenue from sales to customers outside of the United States accounted for 84% and 81% of total revenue for fiscal years 2022 and 2021, respectively.
+  [Financial Statements]
+    - Revenue: $26.91B | vs prior quarter: — | vs prior year: —
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - Adverse changes in global, regional or local economic conditions, including recession or slowing growth, changes or uncertainty in fiscal, monetary, or trade policy, higher interest rates, tighter credit, inflation, lower capital expenditures by businesses including on IT infrastructure, increases in unemployment, and lower consumer confidence and spending, periodically occur.
+    - The efficient operation of these processes and systems is critical and they need to be scalable to support our growth, including for acquisitions of other businesses.
+
+
+======================================================================
+TOPIC: demand
+======================================================================
+
+[CORE RESEARCH] NVDA: demand
+
+Quarters searched: 3
+Filing sections searched: 84
+
+Throughout the periods reviewed, management consistently described strong demand for their products, particularly highlighting the success of the Ampere GPU architecture and the large wave of GeForce gaming laptops. However, filings reveal significant inventory provisions starting in Q3 2022 and continuing into Q4 2022, indicating that actual demand fell short of prior expectations, especially in the Data Center and Gaming segments. The company cited supply chain challenges and macroeconomic factors such as inflation and the ongoing COVID-19 pandemic as impacting demand timing and volume. Despite initial optimism, the inventory write-downs suggest a material mismatch between supply and demand developed over time.
+
+Forecasting credibility: None
+No guidance versus actual pairs on demand were provided in the evidence, so it is not possible to assess management's forecasting credibility for this topic. The commentary and filings do not include explicit forward demand guidance figures that can be compared to actual results. Therefore, any credibility rating would be speculative and is appropriately set to null.
+
+Trends:
+  - Strong initial demand commentary
+  - Increasing inventory provisions
+  - Supply chain and macroeconomic headwinds
+  - Demand overestimation in Data Center and Gaming
+  - Growing mismatch between supply and demand
+
+Recurring themes/risks:
+  - Supply chain constraints
+  - Macroeconomic uncertainty including inflation
+  - COVID-19 pandemic impact
+  - Inventory risk from demand misestimation
+  - Dependence on third-party semiconductor manufacturing
+
+Key concerns:
+  - Significant inventory write-downs ($1.22B in Q3 2022 and $702M in Q4 2022) indicate demand was overestimated relative to supply commitments.
+  - Repeated warnings about demand uncertainty and supply chain limitations suggest ongoing risk to accurate demand forecasting.
+  - No explicit forward demand guidance was provided, limiting transparency and making it difficult to evaluate management's forecasting accuracy.
+
+Conclusion:
+Demand for the company's products was initially described as very strong, driven by successful product launches and broad OEM engagement. However, the substantial inventory provisions recorded in the latter half of the period indicate that actual demand did not meet expectations, particularly in key segments like Data Center and Gaming. Supply chain challenges and macroeconomic factors contributed to demand volatility and forecasting difficulty. Overall, while demand remains a critical driver, the evidence points to a notable overestimation of demand that led to excess inventory and associated charges.
+
+Evidence Coverage: 99.4% complete; 167/168 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2022 ===
+Management said:
+  - Based on the Ampere GPU architecture, the 30 series has been our most successful launch ever, driving incredible demand and setting records for both desktop and laptop GPU sales.
+  - This is the largest ever wave of GeForce gaming laptops, over 140 in total as OEMs address the rising demand for gamers, creators and students for NVIDIA's powered laptops.
+Guidance given:
+Actual reported:
+  - [None] Based on the Ampere GPU architecture, the 30 series has been our most successful launch ever, driving incredible demand and setting records for both desktop and laptop GPU sales.
+  - [None] This is the largest ever wave of GeForce gaming laptops, over 140 in total as OEMs address the rising demand for gamers, creators and students for NVIDIA's powered laptops.
+Filing disclosures (10-K/10-Q):
+
+=== Q2 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [None] [from 10-K/10-Q] Graphics segment revenue increased by 34% in the first quarter of fiscal year 2023 compared to the first quarter of fiscal year 2022.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 21 Demand Demand for our products is based on many factors, including our product introductions and transitions, time to market, competitor product releases and announcements, competing technologies, and changes in macroeconomic conditions, including rising inflation, all of which can impact the timing and volume of our revenue.
+    - As the COVID-19 pandemic continues, the timing and overall demand from customers, and the limited availability of supply chain, logistical services and component supply may have a material net negative impact on our business and financial results.
+    - During fiscal year 2022, we made substantial strides in broadening our supply base to scale our company and better serve customer demand.
+    - Additionally, consumer and enterprise behavior during the COVID-19 pandemic has made it more difficult for us to estimate future demand and may have changed pre-pandemic behaviors.
+    - The increase in Gaming revenue during the first quarter of fiscal year 2023 resulted from a combination of factors including: the ramp of new RTX 30 Series GPUs; the release of new games supporting ray tracing; the rising popularity of gaming, eSports, content creation and streaming; the demand for new and upgraded systems to support the increase in remote work; and the ability of end users to engage in cryptocurrency mining.
+    - Changes to cryptocurrency standards and processes including, but not limited to, the pending Ethereum 2.0 standard may decrease the usage of GPUs for Ethereum mining as well as create increased aftermarket resales of our GPUs, impact retail prices for our GPUs, increase returns of our products in the distribution channel, and may reduce demand for our new GPUs.
+  [Footnotes]
+    - The amended complaint asserted that NVIDIA and certain NVIDIA executives violated Section 10(b) of the Securities Exchange Act of 1934, as amended, or the Exchange Act, and SEC Rule 10b-5, by making materially false or misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand between May 10, 2017 and November 14, 2018.
+    - The lawsuits assert claims, purportedly on behalf of us, against certain officers and directors of the Company for breach of fiduciary duty, unjust enrichment, insider trading, misappropriation of information, corporate waste and violations of Sections 14(a), 10(b), and 20(a) of the Exchange Act based on the dissemination of allegedly false, and misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand.
+    - The lawsuit asserts claims, purportedly on behalf of us, against certain officers and directors of the Company for breach of fiduciary duty, unjust enrichment, waste of corporate assets, and violations of Sections 14(a), 10(b), and 20(a) of the Exchange Act based on the dissemination of allegedly false and misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand.
+  [Risk Factors]
+    - While COVID-19 has driven an increase in sales for certain of our products, the demand may not be sustainable if conditions change.
+    - 30 Consumer and enterprise behavior during the COVID-19 pandemic, such as increased demand for our Gaming, Data Center, and workstation products, has made it more difficult for us to estimate future demand and may have changed pre-pandemic behaviors.
+    - Situations that may result in excess inventory, cancellation penalties or related impairments include: • changes in business and economic conditions resulting in decreased consumer confidence, including downturns in our target markets and/or overall economy, rising inflation, and changes in the credit market; • sudden or sustained government lockdowns or actions to control COVID-19 case spread; • higher incidence of inventory obsolescence because of rapidly changing technology or customer requirements; • new product introductions resulting in less demand for existing products or inconsistent spikes in demand due to unexpected end use cases; • increase in demand for competitive products, including competitive actions; • fluctuations in demand for our products related to cryptocurrency mining; or • decrease in future demand, decrease in the cost of supply chain materials, or changes in the design of future products where we have entered into long-term supply commitments, including prepayments, particularly to the extent we are placing orders well in advance of our historical lead times and/or before the design of those products is final.
+    - COVID-19 containment around the world has put restrictions on, among other areas, manufacturing facilities, commerce, and support operations, which could limit our capacity to meet customer demand.
+    - Restrictions that may be imposed or reinstated as the pandemic continues, such as recent lockdown measures due to COVID-19 containment efforts in China, may negatively impact customer demand for our products.
+    - Changes to cryptocurrency standards and processes including, but not limited to, the pending Ethereum 2.0 standard may decrease the usage of GPUs for Ethereum mining as well as create increased aftermarket resales of our GPUs, impact retail prices for our GPUs, increase returns of our products in the distribution channel, and may reduce demand for our new GPUs.
+
+=== Q3 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [None] [from 10-K/10-Q] The $1.22 billion charge for inventory and related reserves is based on revised expectations of future demand, primarily relating to Data Center and Gaming.
+  - [None] [from 10-K/10-Q] The charge consists of approximately $570 million for inventory on hand and approximately $650 million for inventory purchase obligations in excess of our current demand projections, and cancellation and underutilization penalties.
+  - [None] [from 10-K/10-Q] Inventory provisions totaled $1.22 billion and $73 million for the second quarter of fiscal years 2023 and 2022, respectively.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 23 Demand and Supply Because we do not manufacture the semiconductors used for our products, we are dependent on third parties to manufacture and assemble our products.
+    - The timing and overall demand from customers, and the limited availability of supply chain, logistical services and component supply, as a result of COVID-19, has had and may continue to have a material net negative impact on our business and financial results.
+    - The $1.22 billion charge for inventory and related reserves is based on revised expectations of future demand, primarily relating to Data Center and Gaming.
+    - The charge consists of approximately $570 million for inventory on hand and approximately $650 million for inventory purchase obligations in excess of our current demand projections, and cancellation and underutilization penalties.
+    - 25 Consumer and enterprise behavior during the COVID-19 pandemic, such as fluctuating demand for our Gaming, Data Center, and workstation products, has made it more difficult for us to estimate future demand and may have changed pre-pandemic behaviors.
+    - The inventory and related reserves consist of approximately $570 million for inventory on hand and approximately $650 million for inventory purchase obligations in excess of our current demand projections, and cancellation and underutilization penalties.
+  [Footnotes]
+    - 15 NVIDIA CORPORATION AND SUBSIDIARIES NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) (Unaudited) July 31, January 30, 2022 2022 Accrued and Other Current Liabilities: (In millions) Customer program accruals $ 1,463 $ 1,000 Excess inventory purchase obligations (1) 866 196 Accrued payroll and related expenses 421 409 Deferred revenue (2) 359 300 Product warranty 168 46 Taxes payable 158 132 Other 468 469 Total accrued and other current liabilities $ 3,903 $ 2,552 (1) During the second quarter of fiscal year 2023, we recorded an expense of approximately $ 650 million in cost of revenue for inventory purchase obligations in excess of our current demand projections, and cancellation and underutilization penalties.
+    - The amended complaint asserted that NVIDIA and certain NVIDIA executives violated Section 10(b) of the Securities Exchange Act of 1934, as amended, or the Exchange Act, and SEC Rule 10b-5, by making materially false or misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand between May 10, 2017 and November 14, 2018.
+    - The lawsuits assert claims, purportedly on behalf of us, against certain officers and directors of the Company for breach of fiduciary duty, unjust enrichment, insider trading, misappropriation of information, corporate waste and violations of Sections 14(a), 10(b), and 20(a) of the Exchange Act based on the dissemination of allegedly false, and misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand.
+    - The lawsuit asserts claims, purportedly on behalf of us, against certain officers and directors of the Company for breach of fiduciary duty, unjust enrichment, waste of corporate assets, and violations of Sections 14(a), 10(b), and 20(a) of the Exchange Act based on the dissemination of allegedly false and misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand.
+  [Risk Factors]
+    - We face several risks which could adversely affect our ability to meet customer demand and scale our supply chain, negatively impact longer-term demand for our products and services, and adversely affect our business operations, gross margin, revenue and/or financial results, including: • lack of guaranteed supply of wafers, components and capacity or decommitment and potential higher wafer and component prices, from incorrectly estimating demand and failing to place orders with our suppliers with sufficient quantities or in a timely manner; • failure by our foundries or contract manufacturers to procure raw materials or to provide adequate levels of manufacturing or test capacity for our products; • failure by our foundries to develop, obtain or successfully implement high quality process technologies, including transitions to smaller geometry process technologies such as advanced process node technologies and memory designs needed to manufacture our products; 36 • limited number of global suppliers, foundries, contract manufacturers, assembly and test providers, and memory manufacturers; • loss of a supplier and additional expense and/or production delays as a result of qualifying a new foundry or subcontractor and commencing volume production or testing in the event of a loss of or a decision to add or change a supplier; • lack of direct control over product quantity, quality and delivery schedules; • suppliers or their suppliers failing to supply high quality products and/or making changes to their products without our qualification; • delays in product shipments, shortages, a decrease in product quality and/or higher expenses in the event our subcontractors or foundries prioritize our competitors’ orders over ours; • low manufacturing yields resulting from a failure in our product design or a foundry’s proprietary process technology; and • disruptions in manufacturing, assembly and other processes due to heat wave closures and electricity conservation efforts.
+    - Consumer and enterprise behavior during the COVID-19 pandemic, such as fluctuating demand for our Gaming, Data Center, and workstation products, has made it more difficult for us to estimate future demand and may have changed pre-pandemic behaviors.
+    - Those factors include such things as: • changes in business and economic conditions resulting in decreased consumer confidence, including downturns in our target markets and/or overall economy, rising inflation, and changes in the credit market; • sudden or sustained government lockdowns or actions to control COVID-19 case spread; • rapidly changing technology or customer requirements; • new product introductions resulting in less demand for existing products; • new or unexpected end use cases; • increase in demand for competitive products, including competitive actions; • fluctuations in demand for our products related to cryptocurrency mining; or • changes in governmental policies, such as increased restrictions on gaming usage or cloud service providers.
+    - 34 If we underestimate our customers' future demand for our products, our foundry partners may not have adequate lead-time or capacity to increase production and we may not be able to obtain sufficient inventory to fill orders on a timely basis.
+    - Our channel partners reduced their inventory and are transitioning to a lower value mix of inventory to better align with demand as well as an architectural transition, and we implemented pricing programs with them to address challenging market conditions that we expect to persist into the third quarter of fiscal year 2023.
+    - Changes to cryptocurrency standards and processes including, but not limited to, the pending Ethereum 2.0 merge may decrease the usage of GPUs for Ethereum mining as well as create increased aftermarket resales of our GPUs, which could 35 negatively impact retail prices for our GPUs, increase returns of our products in the distribution channel, and reduce demand for our new GPUs.
+
+=== Q4 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [None] [from 10-K/10-Q] The $702 million inventory provision consists of approximately $354 million for inventory on hand and approximately $348 million for inventory purchase obligations in excess of our current demand projections.
+  - [None] [from 10-K/10-Q] The $2.01 billion inventory provision in the first nine months of fiscal year 2023 consists of approximately $942 million for inventory on hand and approximately $1.07 billion for inventory purchase obligations in excess of our current demand projections.
+  - [None] [from 10-K/10-Q] Inventory provisions totaled $702 million and $107 million for the third quarter of fiscal years 2023 and 2022, respectively.
+  - [None] [from 10-K/10-Q] Gaming revenue was down 51% from a year ago and down 23% sequentially, reflecting lower sell-in to partners to help align channel inventory levels with current demand expectations as macroeconomic conditions and COVID lockdowns in China continue to weigh on consumer demand.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - If our estimates of customer 24 demand are ultimately inaccurate, as we have experienced from time to time, these conditions could lead to a significant mismatch between supply and demand.
+    - The $702 million inventory provision consists of approximately $354 million for inventory on hand and approximately $348 million for inventory purchase obligations in excess of our current demand projections.
+    - The $702 million inventory charge consists of approximately $354 million for inventory on hand and approximately $348 million for inventory purchase obligations in excess of our current demand projections.
+    - The $2.01 billion inventory provision in the first nine months of fiscal year 2023 consists of approximately $942 million for inventory on hand and approximately $1.07 billion for inventory purchase obligations in excess of our current demand projections.
+    - Gross margin for the third quarter was down 11.6% from a year earlier, primarily due to a $702 million inventory charge, largely relating to lower Data Center demand in China, partially offset by a warranty-related benefit of approximately $70 million.
+    - Gaming revenue was down 51% from a year ago and down 23% sequentially, reflecting lower sell-in to partners to help align channel inventory levels with current demand expectations as macroeconomic conditions and COVID lockdowns in China continue to weigh on consumer demand.
+    - To 30 Table of Contents have shorter shipment lead times and quicker delivery schedules for our customers, we may build finished products and maintain inventory for anticipated periods of growth which do not occur, anticipating demand that does not materialize, or for what we believe is pent-up demand.
+    - As the COVID-19 pandemic continues, the timing and overall demand from customers, the availability of supply chain, logistical services and component supply, and the impact of rising inflation may have a material net negative impact on our business and financial results.
+    - During fiscal year 2022, we made substantial strides in broadening our supply base to scale our company and better serve customer demand.
+    - We continue to benefit from strong demand for NVIDIA Ampere architecture products, and believe the increase in Gaming revenue during fiscal year 2022 resulted from a combination of factors, including: the ramp of new RTX 30 Series GPUs; the release of new games supporting ray tracing; the rising popularity of gaming, esports, content creation and streaming; the demand for new and upgraded systems to support the increase in remote work; and the ability of end users to engage in cryptocurrency mining.
+    - During fiscal year 2022, our Gaming, Data Center and Professional Visualization market platforms have benefited from stronger demand as people continue to work, learn, and play from home.
+    - Additionally, consumer and enterprise behavior during the COVID-19 pandemic has made it more difficult for us to estimate future demand and may have changed pre-pandemic behaviors, and these challenges may be more pronounced or volatile in the future on both a global and regional basis.
+  [Footnotes]
+    - The amended complaint asserted that NVIDIA and certain NVIDIA executives violated Section 10(b) of the Securities Exchange Act of 1934, as amended, or the Exchange Act, and SEC Rule 10b-5, by making materially false or misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand between May 10, 2017 and November 14, 2018.
+    - The lawsuits assert claims, purportedly on behalf of us, against certain officers and directors of the Company for breach of fiduciary duty, unjust enrichment, insider trading, misappropriation of information, corporate waste and violations of Sections 14(a), 10(b), and 20(a) of the Exchange Act based on the dissemination of allegedly false, and misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand.
+    - The lawsuit asserts claims, purportedly on behalf of us, against certain officers and directors of the Company for breach of fiduciary duty, unjust enrichment, waste of corporate assets, and violations of Sections 14(a), 10(b), and 20(a) of the Exchange Act based on the dissemination of allegedly false and misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand.
+  [Risk Factors]
+    - We face several risks which could adversely affect our ability to meet customer demand and scale our supply chain, negatively impact longer-term demand for our products and services, and adversely affect our business operations, gross margin, revenue and/or financial results, including: • lack of guaranteed supply of wafers, components and capacity or decommitment and potential higher wafer and component prices, from incorrectly estimating demand and failing to place orders with our suppliers with sufficient quantities or in a timely manner; • failure by our foundries or contract manufacturers to procure raw materials or to provide adequate levels of manufacturing or test capacity for our products; • failure by our foundries to develop, obtain or successfully implement high quality process technologies, including transitions to smaller geometry process technologies such as advanced process node technologies and memory designs needed to manufacture our products; • limited number of global suppliers, foundries, contract manufacturers, assembly and test providers, and memory manufacturers; • loss of a supplier and additional expense and/or production delays as a result of qualifying a new foundry or subcontractor and commencing volume production or testing in the event of a loss of or a decision to add or change a supplier; • lack of direct control over product quantity, quality and delivery schedules; • suppliers or their suppliers failing to supply high quality products and/or making changes to their products without our qualification; • delays in product shipments, shortages, a decrease in product quality and/or higher expenses in the event our subcontractors or foundries prioritize our competitors’ orders over ours; • requirements to place orders that are not cancellable upon changes in demand or requirements to prepay for supply in advance; • low manufacturing yields resulting from a failure in our product design or a foundry’s proprietary process technology; and 37 • disruptions in manufacturing, assembly and other processes due to heat wave closures and electricity conservation efforts.
+    - Those factors include such things as: • changes in business and economic conditions resulting in decreased consumer confidence, including downturns in our target markets and/or overall economy, rising inflation, currency fluctuations, and changes in the credit market; • sudden or sustained government lockdowns or actions to control COVID-19 case spread; • rapidly changing technology or customer requirements; • new product introductions resulting in less demand for existing products; • new or unexpected end use cases; • increase in demand for competitive products, including competitive actions; • fluctuations in demand for our products related to cryptocurrency mining; or • changes in governmental policies, such as increased restrictions on gaming usage or cloud service providers.
+    - 35 If we underestimate our customers' future demand for our products, our foundry partners may not have adequate lead-time or capacity to increase production and we may not be able to obtain sufficient inventory to fill orders on a timely basis.
+    - COVID-19 containment around the world has put restrictions on, among other areas, manufacturing facilities, commerce, and support operations, which could limit our capacity to meet customer demand.
+    - Changes to cryptocurrency standards and processes including, but not limited to, the recently implemented Ethereum 2.0 merge 36 may decrease the usage of GPUs for Ethereum mining as well as create increased aftermarket sales of our GPUs, which could negatively impact retail prices for our GPUs and reduce demand for our new GPUs.
+    - Demand for our products is based on many factors, including our product introductions and transitions, time to market, competitor product releases and announcements, competing technologies, and changes in macroeconomic conditions, including rising inflation and fluctuating interest rates.
+    - Consumer and enterprise behavior during the COVID-19 pandemic, such as increased demand for our Gaming, Data Center, and workstation products, has made it more difficult for us to estimate future demand.
+    - We face several risks which could adversely affect our ability to meet customer demand and scale our supply chain, negatively impact longer-term demand for our products and services, and adversely affect our business operations, gross margin, revenue and/or financial results, including: • lack of guaranteed supply of wafers, components and capacity or decommitment and potential higher wafer and component prices, from incorrectly estimating demand and failing to place orders with our suppliers with sufficient quantities or in a timely manner; • failure by our foundries or contract manufacturers to procure raw materials or to provide adequate levels of manufacturing or test capacity for our products; 16 Table of Contents • failure by our foundries to develop, obtain or successfully implement high quality process technologies, including transitions to smaller geometry process technologies such as advanced process node technologies and memory designs needed to manufacture our products; • limited number of global suppliers, foundries, contract manufacturers, assembly and test providers, and memory manufacturers; • loss of a supplier and additional expense and/or production delays as a result of qualifying a new foundry or subcontractor and commencing volume production or testing in the event of a loss of or a decision to add or change a supplier; • lack of direct control over product quantity, quality and delivery schedules; • delays in product shipments, shortages, a decrease in product quality and/or higher expenses in the event our subcontractors or foundries prioritize our competitors’ orders over ours; and • low manufacturing yields resulting from a failure in our product design or a foundry’s proprietary process technology.
+    - While COVID-19 has driven an increase in sales for certain of our products, the demand may not be sustainable if conditions change.
+    - We may write-down our 15 Table of Contents inventory to the lower of cost or net realizable value or excess inventory, and we could experience a reduction in average selling prices if we incorrectly forecast product demand.
+    - As the COVID-19 pandemic continues to evolve, the increased duration and impact of economic and demand uncertainty, and the limited availability of our supply chain and logistical services, may have a material net negative impact on our business and financial results.
+    - COVID-19 containment around the world has put restrictions on, among other areas, manufacturing facilities, commerce, and support operations could limit our capacity to meet customer demand.
+
