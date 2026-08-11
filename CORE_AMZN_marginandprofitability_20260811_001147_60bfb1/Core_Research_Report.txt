@@ -1,0 +1,188 @@
+[CORE RESEARCH - MULTIPLE TOPICS] AMZN: margin | profitability
+
+
+======================================================================
+TOPIC: margin
+======================================================================
+
+[CORE RESEARCH] AMZN: margin
+
+Quarters searched: 4
+Filing sections searched: 66
+
+Throughout 2022, management consistently emphasized operating income as a more meaningful profitability measure than gross margin due to the company's diverse product and service mix. Early in the year, guidance anticipated a roughly 500 basis point year-over-year margin decline, which was met in the subsequent quarter. Margins, particularly in AWS, showed a sequential decline as expected, though by Q3 management noted margins were slightly lower than anticipated. The company also highlighted margin impacts from events like Prime Day. No explicit margin guidance or actuals were provided in filings beyond reiterating the focus on operating income and margin determination methods.
+
+Forecasting credibility: High
+There is one clear guidance-to-actual pair regarding margin decline in Q1 2022 that was met, indicating management's ability to forecast margin trends accurately. Subsequent commentary aligns with this initial guidance, showing consistent recognition of margin pressures and their causes. The lack of contradictory evidence or missed guidance supports a high credibility rating.
+
+Trends:
+  - year-over-year margin decline
+  - sequential margin decline in AWS
+  - margin pressure from incremental costs
+  - operating income prioritized over gross margin
+
+Recurring themes/risks:
+  - diversity of product categories complicates margin measurement
+  - incremental costs impacting margins
+  - AWS margin variability
+  - seasonal event impacts on margin
+
+Key concerns:
+  - No direct margin figures from filings beyond operating income focus, limiting precise margin trend analysis.
+  - Management's preference for operating income over gross margin may obscure granular margin dynamics.
+
+Conclusion:
+Margin trends in 2022 showed a consistent decline as anticipated by management, driven by incremental costs and AWS margin pressures. Management's guidance on margin decline was met in the one explicit guidance-actual pair, supporting their forecasting credibility. The company's emphasis on operating income as the key profitability metric suggests margins are influenced by a complex product and service mix, making gross margin less informative. Overall, margin pressures appear well-understood and communicated by management, with no significant surprises or inconsistencies in the reported periods.
+
+Evidence Coverage: 94.5% complete; 121/128 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2022 ===
+Management said:
+Guidance given:
+  - So, you got $4 billion in kind of these incremental costs versus $6 billion in the March quarter, but yet your guidance year-over-year implies kind of the same sort of year-over-year margin decline, about 500 bps.
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - We believe that operating income is a more meaningful measure than gross profit and gross margin due to the diversity of our product categories and services.
+  [Financial Statements]
+    - Operating Income: $3.67B | vs prior quarter: — | vs prior year: $8.87B (-58.6%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 2 real filing table(s) available (see the HTML report).
+
+=== Q2 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Met] So on margins in AWS, yes, as you mentioned that is dropping sequentially.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - We believe that operating income is a more meaningful measure than gross profit and gross margin due to the diversity of our product categories and services.
+  [Financial Statements]
+    - Operating Income: $3.32B | vs prior quarter: $3.67B (-9.6%) | vs prior year: $7.70B (-56.9%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 2 real filing table(s) available (see the HTML report).
+
+=== Q3 2022 ===
+Management said:
+  - AWS margins were a little lower than we would have thought.
+  - And it's a bit of margin from Prime Day in both North America and international.
+Guidance given:
+Actual reported:
+  - [None] AWS margins were a little lower than we would have thought.
+  - [None] So we did see a deceleration or a drop in op margin sequentially quarter-over-quarter.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - We believe that operating income is a more meaningful measure than gross profit and gross margin due to the diversity of our product categories and services.
+  [Financial Statements]
+    - Operating Income: $2.52B | vs prior quarter: $3.32B (-23.9%) | vs prior year: $4.85B (-48.0%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 2 real filing table(s) available (see the HTML report).
+
+=== Q4 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - We believe that operating income is a more meaningful measure than gross profit and gross margin due to the diversity of our product categories and services.
+  [Financial Statements]
+    - Operating Income: $12.25B | vs prior quarter: — | vs prior year: $24.88B (-50.8%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 7 real filing table(s) available (see the HTML report).
+    - We generally determine stand-alone selling prices based on the prices charged to customers or using expected cost plus a margin.
+
+
+======================================================================
+TOPIC: profitability
+======================================================================
+
+[CORE RESEARCH] AMZN: profitability
+
+Quarters searched: 4
+Filing sections searched: 66
+
+Throughout 2022, the company consistently disclosed risks related to profitability, particularly emphasizing uncertainties in newer activities, potential inventory markdowns from overstocking, and the financial impacts of acquisitions or mergers. There was a notable mention in Q2 2022 of a $231 million unfavorable foreign exchange impact contributing to a $1.7 billion loss in operating income for the international segment. However, no forward guidance on profitability was provided in any period, and the company repeatedly cautioned that profitability might not meet expectations due to these factors. The risk disclosures remained largely unchanged across all quarters, indicating persistent concerns but no evolving narrative on actual profitability performance.
+
+Forecasting credibility: None
+No guidance versus actual pairs on profitability were provided in any period, making it impossible to assess management's forecasting credibility on this topic. The company consistently refrained from giving explicit profitability forecasts, focusing instead on risk factors that could affect profitability. Therefore, no credibility rating can be assigned based on the available evidence.
+
+Trends:
+  - Consistent risk disclosures on profitability
+  - Persistent concerns about newer activities
+  - Inventory markdown risks
+  - Impact of acquisitions and mergers on profitability
+  - Foreign exchange losses affecting operating income
+
+Recurring themes/risks:
+  - Profitability uncertainty in new business activities
+  - Inventory overstock leading to markdowns
+  - Financial burdens from acquisitions and mergers
+  - Foreign exchange exposure impacting segment results
+
+Key concerns:
+  - No forward-looking profitability guidance provided, limiting transparency on management expectations.
+  - Repeated identical risk disclosures suggest no material change or improvement in profitability outlook.
+  - Significant foreign exchange losses reported in Q2 2022 highlight volatility risks not mitigated by guidance.
+
+Conclusion:
+The company faces ongoing challenges to profitability, particularly from newer business activities that may not generate expected returns, inventory management risks, and financial impacts from acquisitions and foreign exchange fluctuations. The lack of forward guidance on profitability prevents assessment of management's forecasting ability and limits investor insight into expected profitability trends. The consistent risk disclosures across all quarters indicate that profitability remains a significant concern without clear evidence of improvement or deterioration beyond the reported foreign exchange loss in Q2. Overall, profitability appears uncertain and subject to multiple risk factors, with no explicit management forecasts to clarify future expectations.
+
+Evidence Coverage: 98.0% complete; 97/99 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [Risk Factors]
+    - In addition, profitability, if any, in our newer activities may not meet our expectations, and we may not be successful enough in these newer activities to recoup our investments in them.
+    - When we overstock products, we may be required to take significant inventory markdowns or write-offs and incur commitment costs, which could materially reduce profitability.
+    - As a result of future acquisitions or mergers, we might need to issue additional equity securities, spend our cash, or incur debt, contingent liabilities, or amortization expenses related to intangible assets, any of which could reduce our profitability and harm our business or only be available on unfavorable terms, if at all.
+    - For certain payment methods, including credit and debit cards, we pay interchange and other fees, which may increase over time and raise our operating costs and lower profitability.
+
+=== Q2 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [None] Jason, on your second question related to the international and the profitability there, reported there's a foreign exchange exposure there on that segment with the operating income, there's included in there about $231 million of unfavorable impact to that segment included in that $1.7 billion loss for the quarter.
+Filing disclosures (10-K/10-Q):
+  [Risk Factors]
+    - In addition, profitability, if any, in our newer activities may not meet our expectations, and we may not be successful enough in these newer activities to recoup our investments in them.
+    - When we overstock products, we may be required to take significant inventory markdowns or write-offs and incur commitment costs, which could materially reduce profitability.
+    - As a result of future acquisitions or mergers, we might need to issue additional equity securities, spend our cash, or incur debt, contingent liabilities, or amortization expenses related to intangible assets, any of which could reduce our profitability and harm our business or only be available on unfavorable terms, if at all.
+    - For certain payment methods, including credit and debit cards, we pay interchange and other fees, which may increase over time and raise our operating costs and lower profitability.
+
+=== Q3 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [Risk Factors]
+    - In addition, profitability, if any, in our newer activities may not meet our expectations, and we may not be successful enough in these newer activities to recoup our investments in them.
+    - When we overstock products, we may be required to take significant inventory markdowns or write-offs and incur commitment costs, which could materially reduce profitability.
+    - As a result of future acquisitions or mergers, we might need to issue additional equity securities, spend our cash, or incur debt, contingent liabilities, or amortization expenses related to intangible assets, any of which could reduce our profitability and harm our business or only be available on unfavorable terms, if at all.
+    - For certain payment methods, including credit and debit cards, we pay interchange and other fees, which may increase over time and raise our operating costs and lower profitability.
+
+=== Q4 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [Risk Factors]
+    - In addition, profitability, if any, in our newer activities may not meet our expectations, and we may not be successful enough in these newer activities to recoup our investments in them, which investments are often significant.
+    - When we overstock products, we may be required to take significant inventory markdowns or write-offs and incur commitment costs, which could materially reduce profitability.
+    - As a result of future acquisitions or mergers, we might need to issue additional equity securities, spend our cash, or incur debt, contingent liabilities, or amortization expenses related to intangible assets, any of which could reduce our profitability and harm our business or only be available on unfavorable terms, if at all.
+    - For certain payment methods, including credit and debit cards, we pay interchange and other fees, which may increase over time and raise our operating costs and lower profitability.
+
