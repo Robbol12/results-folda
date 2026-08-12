@@ -1,0 +1,328 @@
+[CORE RESEARCH - MULTIPLE TOPICS] NVDA: revenue growth | demand
+
+
+======================================================================
+TOPIC: revenue growth
+======================================================================
+
+[CORE RESEARCH] NVDA: revenue growth
+
+Quarters searched: 4
+Filing sections searched: 86
+
+Over the reported periods, revenue growth showed strong year-over-year increases, particularly driven by the Data Center segment and demand for AI-related products. Early in the year, management highlighted record revenues and strong sequential growth, especially in laptop gaming and mobile workstation GPUs, though desktop revenue declined. Subsequent quarters saw significant growth in Data Center revenue, with increases of 171% and 279% year-over-year, driven by demand for GPUs supporting generative AI and cloud infrastructure. However, gaming revenue faced headwinds, declining 27% year-over-year in Q4 due to channel inventory reductions and macroeconomic factors. Overall, revenue growth was robust but uneven across segments, with Data Center leading and gaming facing challenges.
+
+Forecasting credibility: Medium
+Management provided four guidance/actual pairs with mixed outcomes. They met or exceeded revenue expectations in two instances, particularly for Data Center revenue, demonstrating credible forecasting in that segment. However, they missed revenue targets in gaming, reflecting challenges in that area and some over-optimism. The presence of both met and missed guidance suggests moderate forecasting reliability, with stronger credibility in Data Center revenue projections than in gaming.
+
+Trends:
+  - Strong year-over-year Data Center revenue growth
+  - Sequential growth in revenue early in the year
+  - Decline in gaming revenue in later quarters
+  - Increasing contribution from AI and cloud-related products
+  - Channel inventory corrections impacting gaming segment
+
+Recurring themes/risks:
+  - Channel inventory adjustments in gaming
+  - Macroeconomic and COVID-19 impacts on gaming demand
+  - Heavy reliance on Data Center and AI-driven growth
+  - Variability in segment performance affecting overall revenue
+
+Key concerns:
+  - Gaming revenue decline and missed guidance in Q4 highlight segment volatility and potential forecasting challenges.
+  - Some discrepancies between transcript and filing figures require reliance on filing data for accuracy.
+  - No significant accounting changes noted, but inventory provisions and related charges impacted reported results.
+
+Conclusion:
+Revenue growth was robust overall, primarily driven by explosive growth in the Data Center segment fueled by demand for AI and cloud infrastructure products. While management's forecasts for Data Center revenue were generally accurate and credible, gaming revenue faced headwinds leading to missed guidance and declines. The company's revenue growth trajectory is positive but uneven, with risks stemming from gaming market dynamics and macroeconomic factors. Continued strength in AI-related offerings is likely to sustain revenue growth, but segment-specific challenges warrant cautious monitoring.
+
+Evidence Coverage: 99.3% complete; 137/138 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2023 ===
+Management said:
+  - Record revenue of $3.8 billion grew 15% sequentially and accelerated to 83% growth year on year.
+  - Laptop Gaming revenue posted strong sequential and year-on-year growth, driven by the ramp of the NVIDIA RTX 30 Series lineup.
+  - And in general, I think previously, you guys were anticipating sequential supply and revenue growth for the business through this entire year.
+  - Sequential growth in the mobile workstation GPUs was offset by lower desktop revenue.
+Guidance given:
+  - And in general, I think previously, you guys were anticipating sequential supply and revenue growth for the business through this entire year.
+  - Revenue is expected to be $8.1 billion, plus or minus 2%.
+Actual reported:
+  - [None] Record revenue of $3.8 billion grew 15% sequentially and accelerated to 83% growth year on year.
+  - [None] Laptop Gaming revenue posted strong sequential and year-on-year growth, driven by the ramp of the NVIDIA RTX 30 Series lineup.
+  - [None] Sequential growth in the mobile workstation GPUs was offset by lower desktop revenue.
+  - [None] Q1 revenue of $138 million, increased 10% sequentially and declined 10% from the year ago quarter.
+  - [None] Total revenue of $8.3 billion was a record, up 8% sequentially and up 46% year on year.
+  - [None] Q1 revenue was $622 million was down sequentially 3% and up 67% from a year ago.
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Revenue: $8.29B | vs prior quarter: — | vs prior year: $5.66B (+46.4%)
+
+=== Q2 2023 ===
+Management said:
+  - We have slowed operating expense growth, balancing investments for long-term revenue growth, while managing near-term profitability.
+Guidance given:
+Actual reported:
+  - [Missed] [from 10-K/10-Q] Automotive revenue for the first quarter of fiscal year 2024 was $296 million, up 114% from a year ago on growth in sales of self-driving platforms and AI cockpit solutions.
+  - [None] [from 10-K/10-Q] Revenue for the first quarter of fiscal year 2024 was $7.19 billion, down 13% from a year ago and up 19% sequentially.
+  - [None] [from 10-K/10-Q] Data Center revenue was up 14% from a year ago and up 18% sequentially, led by growing demand for generative AI and large language models using GPUs based on our NVIDIA Hopper and Ampere architectures.
+  - [None] [from 10-K/10-Q] Gaming revenue was down 38% from a year ago and up 22% sequentially.
+  - [None] [from 10-K/10-Q] Automotive revenue was up 114% from a year ago and up 1% sequentially.
+  - [None] Revenue of $3.81 billion grew 1% sequentially and 61% year on year.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - Automotive revenue for the first quarter of fiscal year 2024 was $296 million, up 114% from a year ago on growth in sales of self-driving platforms and AI cockpit solutions.
+    - The revenue growth reflects strong demand from large consumer internet companies and cloud service providers.
+    - The year-on-year increase reflects growth in sales of self-driving platforms and AI cockpit solutions.
+    - Revenue for the first quarter of fiscal year 2024 was $7.19 billion, down 13% from a year ago and up 19% sequentially.
+    - Concentration of Revenue Revenue from sales to customers outside of the United States accounted for 67% and 77% of total revenue for the first quarter of fiscal years 2024 and 2023, respectively.
+  [Financial Statements]
+    - Revenue: $6.70B | vs prior quarter: $8.29B (-19.1%) | vs prior year: $6.51B (+3.0%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - Economic and industry uncertainty or changes, including recession or slowing growth, inflation, changes or uncertainty in fiscal, monetary, or trade policy, disruptions to capital markets and the banking system, currency fluctuations, higher interest rates, tighter credit, lower capital expenditures by businesses, including on IT infrastructure, increases in unemployment, labor shortages, and lower consumer confidence and spending, have in the past and/or could in the future have adverse, wide-ranging effects on our business and financial results, including: 35 • increased costs for wafers, components, logistics, and other supply chain expenses, which have negatively impacted our gross margin and may continue to do so; • increased supply, employee, facilities and infrastructure costs and volatility in the financial markets, which have reduced and may in the future reduce our margins; • decrease in demand for our products, services and technologies and those of our customers, partners or licensees; • the inability of our suppliers to deliver on their supply commitments to us and our customers’ or our licensees’ inability to supply products to customers and/or end users; • limits on our ability to forecast operating results and make business decisions; • the insolvency of key suppliers, distributors, customers, cloud service providers, data center providers, licensing parties, or other third parties we rely on; reduced profitability may also cause some customers to scale back operations, exit businesses, or file for bankruptcy protection and potentially cease operations; lead to mergers, consolidations or strategic alliances among other companies, which could adversely affect our ability to compete effectively; and • increased credit and collectability risks, higher borrowing costs or reduced availability of capital markets, reduced liquidity, adverse impacts on our suppliers, failures of counterparties including financial institutions and insurers, asset impairments, and declines in the value of our financial instruments.
+    - In addition, the timing of our operating expenses and investments may lag our revenue growth, creating volatility or periods where current profitability may not be sustainable.
+
+=== Q3 2023 ===
+Management said:
+  - In gaming, we expect to resume sequential growth with our revenue still below end demand as we continue to work through the channel inventory correction.
+Guidance given:
+  - In gaming, we expect to resume sequential growth with our revenue still below end demand as we continue to work through the channel inventory correction.
+Actual reported:
+  - [None] [from 10-K/10-Q] Data Center revenue for the second quarter of fiscal year 2024 was $10.32 billion, up 171% from a year ago.
+  - [None] [from 10-K/10-Q] Compute GPUs grew 208% year-on-year and 112% compared to the first half of fiscal year 2023 led by demand for NVIDIA HGX platform based on our Hopper and Ampere GPU architecture for large language models and generative AI.
+  - [None] [from 10-K/10-Q] Networking was up 94% year-on-year and 63% compared to the first half of last year driven primarily by strong growth in InfiniBand infrastructure to support our HGX platform.
+  - [None] [from 10-K/10-Q] Gaming revenue was up 22% from a year ago and up 11% sequentially, primarily reflecting demand for our GeForce RTX 40 Series GPUs based on the NVIDIA Ada Lovelace architecture following normalization of channel inventory levels.
+  - [None] Revenue of $251 million, increased 14% sequentially and 86% from a year ago.
+  - [None] Revenue of $3.83 billion was up 1% sequentially and 31% year-on-year.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - Operating expenses were up 10% from a year ago and up 6% sequentially, primarily driven by compensation and benefits, including stock-based compensation, reflecting growth in employees and compensation increases.
+    - Graphics - The increase in the second quarter of fiscal year 2024 compared to the second quarter of fiscal year 2023 primarily reflects growth in Gaming GPUs related to the demand for our GeForce RTX 40 Series GPUs based on the NVIDIA Ada Lovelace architecture following normalization of channel inventory levels.
+    - Networking was up 94% year-on-year and 63% compared to the first half of last year driven primarily by strong growth in InfiniBand infrastructure to support our HGX platform.
+    - Networking was up 94% from a year ago and up 85% sequentially, primarily on strong growth in InfiniBand infrastructure to support our HGX platform.
+    - Our invention of the GPU in 1999 has sparked the growth of the PC gaming market, redefined computer graphics, ignited the era of modern AI and has fueled industrial digitalization across markets.
+  [Financial Statements]
+    - Revenue: $5.93B | vs prior quarter: $6.70B (-11.5%) | vs prior year: $7.10B (-16.5%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+
+=== Q4 2023 ===
+Management said:
+  - We expect that to be a part of our revenue growth this year.
+  - Revenue growth from CSP customers last year significantly outpaced that of data center as a whole as more enterprise customers moved to a cloud-first approach.
+  - Hyperscale customer revenue posted strong sequential growth, though short of our expectations as some cloud service providers paused at the end of the year to recalibrate their build plans.
+Guidance given:
+  - We expect that to be a part of our revenue growth this year.
+  - Revenue is expected to be $6.5 billion, plus or minus 2%.
+Actual reported:
+  - [Met] [from 10-K/10-Q] Data Center revenue for the third quarter of fiscal year 2024 was $14.51 billion, up 279% from a year ago and up 41% from the previous quarter.
+  - [Missed] [from 10-K/10-Q] Gaming revenue was down 27% from a year ago reflecting lower sell-in to partners to help reduce channel inventory levels as global macro-economic conditions and COVID-19 related disruptions in China weighed on gaming demand.
+  - [Met] [from 10-K/10-Q] Data Center revenue for the third quarter of fiscal year 2024 was $14.51 billion, up 279% from a year ago and up 41% from the previous quarter.
+  - [Unresolved] [from 10-K/10-Q] Gaming revenue was down 27% from a year ago reflecting lower sell-in to partners to help reduce channel inventory levels as global macro-economic conditions and COVID-19 related disruptions in China weighed on gaming demand.
+  - [None] [from 10-K/10-Q] Automotive revenue was up 60% from a year ago reflecting growth in sales of self-driving solutions, computing solutions for electric vehicle makers and strength in sales of AI cockpit solutions.
+  - [None] [from 10-K/10-Q] Revenue for fiscal year 2023 revenue was $26.97 billion, flat compared with a year ago.
+  - [None] [from 10-K/10-Q] Data Center revenue was up 41% from a year ago led by strong growth from hyperscale customers and also reflects purchases made by several CSP partners to support multi-year cloud service agreements for our new NVIDIA AI cloud service offerings and our research and development activities.
+  - [None] [from 10-K/10-Q] Data Center revenue for fiscal year 2023 was $15.01 billion, up 41% from fiscal year 2022.
+  - [None] Revenue growth from CSP customers last year significantly outpaced that of data center as a whole as more enterprise customers moved to a cloud-first approach.
+  - [None] Hyperscale customer revenue posted strong sequential growth, though short of our expectations as some cloud service providers paused at the end of the year to recalibrate their build plans.
+  - [None] Revenue was $3.62 billion was down 6% sequentially and up 11% year on year.
+  - [None] Revenue was a record $294 million, up 17% and up 135% from a year ago.
+  - [None] Revenue of $226 million was up 13% sequentially and down 65% from a year ago.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - The year over year increase in the third quarter and first nine months of fiscal year 2024 was primarily due to improved product mix from Data Center revenue growth of 279% and 156%, respectively, and lower net inventory provisions and related charges.
+    - Cash provided by operating activities increased in the first nine months of fiscal year 2024 compared to the first nine months of fiscal year 2023, due to growth in revenue, partially offset by higher accounts receivable balance and taxes paid.
+    - Graphics - Segment operating income increased during the third quarter of fiscal year 2024 compared to the third quarter of fiscal year 2023 due to growth in revenue.
+    - Operating expenses were up 16% from a year ago and up 12% sequentially, driven by compensation and benefits, including stock-based compensation, primarily reflecting growth in employees and compensation increases.
+    - Automotive revenue was up 60% from a year ago reflecting growth in sales of self-driving solutions, computing solutions for electric vehicle makers and strength in sales of AI cockpit solutions.
+    - 37 Table of Contents Data Center revenue was up 41% from a year ago led by strong growth from hyperscale customers and also reflects purchases made by several CSP partners to support multi-year cloud service agreements for our new NVIDIA AI cloud service offerings and our research and development activities.
+    - The increase in sales, general and administrative expense for fiscal year 2023 was primarily driven by increased compensation and employee growth.
+    - The strong growth in Data Center revenue was influenced by hyperscaler and cloud usage of our accelerated computing platforms and networking portfolio.
+  [Financial Statements]
+    - Revenue: $26.97B | vs prior quarter: — | vs prior year: $26.91B (+0.2%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - Economic and industry uncertainty or changes, including recession or slowing growth, inflation, changes or uncertainty in fiscal, monetary, or trade policy, disruptions to capital markets, currency fluctuations, higher interest rates, tighter credit, lower capital expenditures by businesses, including on IT infrastructure, increases in unemployment, labor shortages, and lower consumer confidence and spending, have in the past and/or could in the future have adverse, wide-ranging effects on our business and financial results, including: • increased costs for wafers, components, logistics, and other supply chain expenses, which have negatively impacted our gross margin and may continue to do so; • increased supply, employee, facilities and infrastructure costs and volatility in the financial markets, which have reduced and may in the future reduce our margins; • decrease in demand for our products, services and technologies and those of our customers, partners or licensees; • the inability of our suppliers to deliver on their supply commitments to us and our customers’ or our licensees’ inability to supply products to customers and/or end users; • limits on our ability to forecast operating results and make business decisions; • the insolvency of key suppliers, distributors, customers or licensing parties; reduced profitability may also cause some customers to scale back operations, exit businesses, or file for bankruptcy protection and potentially cease operations; lead to mergers, consolidations or strategic alliances among other companies, which could adversely affect our ability to compete effectively; and • increased credit and collectability risks, higher borrowing costs or reduced availability of capital markets, reduced liquidity, adverse impacts on our suppliers, failures of counterparties including financial institutions and insurers, asset impairments, and declines in the value of our financial instruments.
+    - The efficient operation and scalability of these processes and systems is critical to support our growth.
+
+
+======================================================================
+TOPIC: demand
+======================================================================
+
+[CORE RESEARCH] NVDA: demand
+
+Quarters searched: 4
+Filing sections searched: 86
+
+Over the reported periods, management consistently highlighted strong demand across multiple product lines, including GPUs for gaming, data center, and networking products. Demand for generative AI and large language models notably drove data center revenue growth, while gaming demand showed recovery and growth after inventory normalization. However, management did not provide explicit forward guidance on demand figures except for a single $5 billion sell-through expectation for combined Q2 and Q3, which was not followed up with a precise actual comparison. Inventory charges and adjustments reflected management's attempts to align supply with evolving demand expectations, particularly in data center and networking segments.
+
+Forecasting credibility: None
+No guidance-actual pairs specifically for demand were provided, preventing any assessment of forecasting credibility. Management discussed demand qualitatively and provided some revenue guidance, but without explicit demand forecasts paired with actual demand outcomes, it is not possible to judge the accuracy or reliability of their demand forecasts.
+
+Trends:
+  - Strong growth in data center demand driven by generative AI
+  - Increasing gaming demand post inventory normalization
+  - Networking demand growth with new product launches
+  - Inventory adjustments reflecting demand uncertainty
+
+Recurring themes/risks:
+  - Volatility in demand estimates impacting revenue and supply
+  - Channel inventory alignment with demand expectations
+  - Geopolitical and regional demand variations (e.g., China data center demand)
+
+Key concerns:
+  - Absence of explicit forward demand guidance paired with actual demand results limits ability to assess forecasting accuracy.
+  - Inventory charges and warranty reserves indicate management's caution about demand overestimation risks.
+  - Some inconsistencies in demand characterization between strong revenue growth and inventory write-downs suggest demand forecasting challenges.
+
+Conclusion:
+Demand for NVIDIA's products has generally been strong and growing, particularly fueled by generative AI applications in data centers and renewed strength in gaming GPUs. Management's commentary and filing disclosures indicate robust end-customer interest and expanding use cases, although demand estimates carry inherent volatility and uncertainty. The lack of explicit demand guidance paired with actual demand outcomes means forecasting credibility cannot be assessed, but the overall evidence supports a positive demand environment with some caution due to inventory adjustments and regional demand fluctuations.
+
+Evidence Coverage: 98.3% complete; 174/177 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2023 ===
+Management said:
+  - And NVIDIA RTX has set new standard for the industry with demand from both first-time GPU buyers as well as those upgrading their PCs to experience the 250-plus RTX-optimized games and apps, double from last year.
+  - I had a question about this $500 million impact for July and whether it's more supply related or demand related.
+  - Networking revenue accelerated on strong broad-based demand for our next-generation 25, 50, and 100-gig ethernet adapters.
+Guidance given:
+Actual reported:
+  - [None] And NVIDIA RTX has set new standard for the industry with demand from both first-time GPU buyers as well as those upgrading their PCs to experience the 250-plus RTX-optimized games and apps, double from last year.
+  - [None] Networking revenue accelerated on strong broad-based demand for our next-generation 25, 50, and 100-gig ethernet adapters.
+Filing disclosures (10-K/10-Q):
+
+=== Q2 2023 ===
+Management said:
+  - We expect that sell-through or essentially our end demand for those combined two quarters of Q2 and Q3 to be approximately $5 billion.
+  - Gross margin includes $1.22 billion in charges for inventory and related reserves based on revised expectations of future demand and $122 million for warranty reserves.
+  - From a product perspective, networking led growth this quarter with strong demand from our high-speed Ethernet adapters and design win momentum toward next-generation adapters, including the ConnectX-6 and ConnectX-7.
+  - Across those two quarters, the Q2 of '23, the Q3 of '23, we have likely undershipped Gaming to our end demand significantly.
+Guidance given:
+  - We expect that sell-through or essentially our end demand for those combined two quarters of Q2 and Q3 to be approximately $5 billion.
+Actual reported:
+  - [None] [from 10-K/10-Q] Data Center revenue was up 14% from a year ago and up 18% sequentially, led by growing demand for generative AI and large language models using GPUs based on our NVIDIA Hopper and Ampere architectures.
+  - [None] [from 10-K/10-Q] The revenue growth reflects strong demand from large consumer internet companies and cloud service providers.
+  - [None] [from 10-K/10-Q] Enterprise demand for GPU platforms was strong, although general purpose networking solutions declined both sequentially and from a year ago.
+  - [None] [from 10-K/10-Q] Data Center revenue for the first quarter of fiscal year 2024 was $4.28 billion, up 14% from a year ago, led by growing demand for generative AI and large language models using GPUs based on our NVIDIA Hopper and Ampere architectures.
+  - [None] [from 10-K/10-Q] Our estimated Compute & Networking end customer demand is concentrated among a few large cloud service providers and consumer internet companies.
+  - [None] From a product perspective, networking led growth this quarter with strong demand from our high-speed Ethernet adapters and design win momentum toward next-generation adapters, including the ConnectX-6 and ConnectX-7.
+  - [None] Across those two quarters, the Q2 of '23, the Q3 of '23, we have likely undershipped Gaming to our end demand significantly.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - Data Center revenue was up 14% from a year ago and up 18% sequentially, led by growing demand for generative AI and large language models using GPUs based on our NVIDIA Hopper and Ampere architectures.
+    - 25 Market Platform Highlights Data Center revenue for the first quarter of fiscal year 2024 was $4.28 billion, up 14% from a year ago, led by growing demand for generative AI and large language models using GPUs based on our NVIDIA Hopper and Ampere architectures.
+    - Our demand estimates for these use cases and applications can be incorrect and create volatility in our revenue or supply levels, and we may not be able to generate significant revenue from these use cases and applications.
+    - However, our estimated Compute & Networking end customer demand is concentrated among a few large cloud service providers and consumer internet companies.
+    - The year-on-year increase reflects strong demand from large consumer internet customers and cloud service providers.
+  [Footnotes]
+    - The amended complaint asserted that NVIDIA and certain NVIDIA executives violated Section 10(b) of the Securities Exchange Act of 1934, as amended, or the Exchange Act, and SEC Rule 10b-5, by making materially false or misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand between May 10, 2017 and November 14, 2018.
+    - The lawsuits assert claims, purportedly on behalf of us, against certain officers and directors of the Company for breach of fiduciary duty, unjust enrichment, insider trading, misappropriation of information, corporate waste and violations of Sections 14(a), 10(b), and 20(a) of the Exchange Act based on the dissemination of allegedly false, and misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand.
+    - The lawsuit asserts claims, purportedly on behalf of us, against certain officers and directors of the Company for breach of fiduciary duty, unjust enrichment, waste of corporate assets, and violations of Sections 14(a), 10(b), and 20(a) of the Exchange Act based on the dissemination of allegedly false and misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand.
+  [Risk Factors]
+    - Many additional factors have caused and/or could in the future cause us to either underestimate or overestimate our customers’ future demand for our products, or otherwise cause a mismatch between supply and demand for our products and impact the timing and volume of our revenue, including: • competing technologies and competitor product releases and announcements; • changes in business and economic conditions resulting in decreased end demand; • sudden or sustained government lockdowns or actions to control case spread of global or local health issues; • rapidly changing technology or customer requirements; • time to market; • new product introductions and transitions resulting in less demand for existing products; • new or unexpected end use cases; 33 • increase in demand for competitive products, including competitive actions; • business decisions made by third parties; • the demand for accelerated or AI-related cloud services, including our own software and AI cloud service offerings; • changes that impact the ecosystem for the architectures underlying our products and technologies; • the demand for our products relating to cryptocurrency mining; or • government actions or changes in governmental policies, such as increased restrictions on gaming usage.
+    - Economic and industry uncertainty or changes, including recession or slowing growth, inflation, changes or uncertainty in fiscal, monetary, or trade policy, disruptions to capital markets and the banking system, currency fluctuations, higher interest rates, tighter credit, lower capital expenditures by businesses, including on IT infrastructure, increases in unemployment, labor shortages, and lower consumer confidence and spending, have in the past and/or could in the future have adverse, wide-ranging effects on our business and financial results, including: 35 • increased costs for wafers, components, logistics, and other supply chain expenses, which have negatively impacted our gross margin and may continue to do so; • increased supply, employee, facilities and infrastructure costs and volatility in the financial markets, which have reduced and may in the future reduce our margins; • decrease in demand for our products, services and technologies and those of our customers, partners or licensees; • the inability of our suppliers to deliver on their supply commitments to us and our customers’ or our licensees’ inability to supply products to customers and/or end users; • limits on our ability to forecast operating results and make business decisions; • the insolvency of key suppliers, distributors, customers, cloud service providers, data center providers, licensing parties, or other third parties we rely on; reduced profitability may also cause some customers to scale back operations, exit businesses, or file for bankruptcy protection and potentially cease operations; lead to mergers, consolidations or strategic alliances among other companies, which could adversely affect our ability to compete effectively; and • increased credit and collectability risks, higher borrowing costs or reduced availability of capital markets, reduced liquidity, adverse impacts on our suppliers, failures of counterparties including financial institutions and insurers, asset impairments, and declines in the value of our financial instruments.
+    - If our estimates of customer demand are ultimately inaccurate, as we have experienced from time to time, there could be a significant mismatch between supply and demand.
+    - Challenges in estimating demand could become more pronounced or volatile in the future on both a global and regional basis.
+    - Failure to estimate customer demand properly has led and could lead to mismatches between supply and demand.
+    - Our demand predictions may not be correct, as we have experienced from time to time.
+
+=== Q3 2023 ===
+Management said:
+  - Gross margins reflect $702 million in inventory charges largely related to lower data center demand in China, partially offset by a warranty benefit of approximately $70 million.
+  - Revenue of $1.57 billion was down 23% sequentially and down 51% from a year ago, reflecting lower sell-in to partners to help align channel inventory levels with current demand expectations.
+  - Moving to Probi Revenue of $200 million was down 60% sequentially and down 65% from a year ago, reflecting lower sell-in to partners to help align channel inventory levels with the current demand expectations.
+Guidance given:
+Actual reported:
+  - [None] [from 10-K/10-Q] Data Center Compute grew 195% from a year ago and 157% sequentially, largely reflecting the strong ramp of our Hopper-based HGX platform.
+  - [None] [from 10-K/10-Q] Networking was up 94% from a year ago and up 85% sequentially, primarily on strong growth in InfiniBand infrastructure to support our HGX platform.
+  - [None] [from 10-K/10-Q] In the second quarter of fiscal year 2024, CSPs represented slightly more than half of our estimated Data Center end demand, with large consumer internet companies being the next largest end demand, followed by enterprise and high performance computing.
+  - [None] [from 10-K/10-Q] Gaming revenue was up 22% from a year ago and up 11% sequentially, primarily reflecting demand for our GeForce RTX 40 Series GPUs based on the NVIDIA Ada Lovelace architecture following normalization of channel inventory levels.
+  - [None] [from 10-K/10-Q] Professional Visualization revenue was down 24% from a year ago and up 28% sequentially.
+  - [None] [from 10-K/10-Q] Revenue for the second quarter and first half of fiscal year 2024 was $13.51 billion and $20.70 billion, up 101% and 38%, respectively.
+  - [None] [from 10-K/10-Q] Compute & Networking $ 10,402 $ 3,907 $ 6,495 166 % $ 14,862 $ 7,579 $ 7,283 96 %
+  - [None] [from 10-K/10-Q] Compute GPUs grew 208% year-on-year and 112% compared to the first half of fiscal year 2023 led by demand for NVIDIA HGX platform based on our Hopper and Ampere GPU architecture for large language models and generative AI.
+  - [None] [from 10-K/10-Q] Networking was up 94% year-on-year and 63% compared to the first half of last year driven primarily by strong growth in InfiniBand infrastructure to support our HGX platform.
+  - [None] [from 10-K/10-Q] Graphics - The increase in the second quarter of fiscal year 2024 compared to the second quarter of fiscal year 2023 primarily reflects growth in Gaming GPUs related to the demand for our GeForce RTX 40 Series GPUs based on the NVIDIA Ada Lovelace architecture following normalization of channel inventory levels.
+  - [None] Revenue of $1.57 billion was down 23% sequentially and down 51% from a year ago, reflecting lower sell-in to partners to help align channel inventory levels with current demand expectations.
+  - [None] Moving to Probi Revenue of $200 million was down 60% sequentially and down 65% from a year ago, reflecting lower sell-in to partners to help align channel inventory levels with the current demand expectations.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - In the second quarter of fiscal year 2024, CSPs represented slightly more than half of our estimated Data Center end demand, with large consumer internet companies being the next largest end demand, followed by enterprise and high performance computing.
+    - The increase in revenue to the United States for the second quarter and first half of fiscal year 2024 was primarily due to higher U.S.-based Data Center end demand.
+    - Gaming revenue was up 22% from a year ago and up 11% sequentially, primarily reflecting demand for our GeForce RTX 40 Series GPUs based on the NVIDIA Ada Lovelace architecture following normalization of channel inventory levels.
+    - Compute GPUs grew 208% year-on-year and 112% compared to the first half of fiscal year 2023 led by demand for NVIDIA HGX platform based on our Hopper and Ampere GPU architecture for large language models and generative AI.
+    - Graphics - The increase in the second quarter of fiscal year 2024 compared to the second quarter of fiscal year 2023 primarily reflects growth in Gaming GPUs related to the demand for our GeForce RTX 40 Series GPUs based on the NVIDIA Ada Lovelace architecture following normalization of channel inventory levels.
+    - Recent Developments, Future Objectives and Challenges Demand and Supply, Product Transitions, and New Products and Business Models Demand for our data center systems and products has surged over the last two quarters and our demand visibility extends into next year.
+  [Footnotes]
+    - July 30, January 29, 2023 2023 Accrued and Other Current Liabilities: (In millions) Taxes payable $ 2,803 $ 467 Customer program accruals 1,482 1,196 Excess inventory purchase obligations (1) 870 954 Accrued payroll and related expenses 642 530 Deferred revenue (2) 421 354 Unsettled share repurchases 217 — Operating leases 208 176 Product warranty and return provisions 168 108 Licenses and royalties 144 149 Other 201 186 Total accrued and other current liabilities $ 7,156 $ 4,120 (1) During the second quarter of fiscal years 2024 and 2023, we recorded an expense of approximately $ 232 million and $ 650 million, respectively, in cost of revenue for inventory purchase obligations in excess of our current demand projections, and cancellation and underutilization penalties.
+    - The amended complaint asserted that NVIDIA and certain NVIDIA executives violated Section 10(b) of the Securities Exchange Act of 1934, as amended, or the Exchange Act, and SEC Rule 10b-5, by making materially false or misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand between May 10, 2017 and November 14, 2018.
+    - The lawsuits assert claims, purportedly on behalf of us, against certain officers and directors of the Company for breach of fiduciary duty, unjust enrichment, insider trading, misappropriation of information, corporate waste and violations of Sections 14(a), 10(b), and 20(a) of the Exchange Act based on the dissemination of allegedly false, and misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand.
+    - The lawsuit asserts claims, purportedly on behalf of us, against certain officers and directors of the Company for breach of fiduciary duty, unjust enrichment, waste of corporate assets, and violations of Sections 14(a), 10(b), and 20(a) of the Exchange Act based on the dissemination of allegedly false and misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand.
+  [Risk Factors]
+    - In order to meet this demand, we have increased our purchase obligations 36 with existing suppliers, added new suppliers, and entered into prepaid supply and capacity agreements.
+    - We face several risks which have adversely affected or could adversely affect our ability to meet customer demand and scale our supply chain, negatively impact longer-term demand for our products and services, and adversely affect our business operations, gross margin, revenue and/or financial results, including: • lack of guaranteed supply of wafer, component and capacity or decommitment and potential higher wafer and component prices, from incorrectly estimating demand and failing to place orders with our suppliers with sufficient quantities or in a timely manner; • failure by our foundries or contract manufacturers to procure raw materials or to provide adequate levels of manufacturing or test capacity for our products; 38 • failure by our foundries to develop, obtain or successfully implement high quality process technologies, including transitions to smaller geometry process technologies such as advanced process node technologies and memory designs needed to manufacture our products; • limited number and geographic concentration of global suppliers, foundries, contract manufacturers, assembly and test providers, and memory manufacturers; • loss of a supplier and additional expense and/or production delays as a result of qualifying a new foundry or subcontractor and commencing volume production or testing in the event of a loss of or a decision to add or change a supplier; • lack of direct control over product quantity, quality and delivery schedules; • suppliers or their suppliers failing to supply high quality products and/or making changes to their products without our qualification; • delays in product shipments, shortages, a decrease in product quality and/or higher expenses in the event our subcontractors or foundries prioritize our competitors’ or other customers’ orders over ours; • requirements to place orders that are not cancellable upon changes in demand or requirements to prepay for supply in advance; • low manufacturing yields resulting from a failure in our product design or a foundry’s proprietary process technology; and • disruptions in manufacturing, assembly and other processes due to closures related to heat waves or other natural disasters and electricity conservation efforts.
+    - For example, we are defending a securities class action lawsuit from multiple shareholders asserting claims that we and certain of our officers made false and/or misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand in 2017 and 2018.
+    - Worldwide geopolitical tensions and conflicts, including but not limited to China, Hong Kong, Israel, Korea and Taiwan where the manufacture of our product components and final assembly of our products are concentrated may result in changing regulatory 39 requirements, and other disruptions that could impact our operations and operating strategies, product demand, access to global markets, hiring, and profitability.
+    - New technologies such as generative AI models have emerged, and while they have driven increased demand for Data Center compute infrastructure, the long-term trajectory is 37 unknown.
+    - If our estimates of customer demand are ultimately inaccurate, as we have experienced in the past, there could be a significant mismatch between supply and demand.
+
+=== Q4 2023 ===
+Management said:
+  - And the reason I ask is because I found it interesting your comments in your script where you mentioned that your kind of view about the demand that generative AI is going to drive for your products and now services is -- seems to be a lot, better than what you thought just over the last 90 days.
+  - In the quarter, InfiniBand led our growth as our Quantum-2 40 gigabit per second platform is off to a great start, driven by demand across cloud, enterprise and supercomputing customers.
+Guidance given:
+  - your kind of view about the demand that generative AI is going to drive for your products and now services is -- seems to be a lot, better than what you thought just over the last 90 days.
+Actual reported:
+  - [None] [from 10-K/10-Q] Revenue for the third quarter and first nine months of fiscal year 2024 was $18.12 billion and $38.82 billion, up 206% and 86%, respectively.
+  - [None] [from 10-K/10-Q] Compute & Networking $ 14,645 $ 3,816 $ 10,829 284 % $ 29,507 $ 11,395 $ 18,112 159 %
+  - [None] [from 10-K/10-Q] Gaming revenue was up 81% from a year ago and up 15% sequentially.
+  - [None] [from 10-K/10-Q] Professional Visualization revenue was up 108% from a year ago and up 10% sequentially.
+  - [None] [from 10-K/10-Q] Our sales to China and other affected destinations, derived from products that are now subject to licensing requirements, have consistently contributed approximately 20-25% of Data Center revenue over the past few quarters.
+  - [None] [from 10-K/10-Q] Demand for our data center systems and products has surged over the last three quarters and our demand visibility extends into next year.
+  - [None] In the quarter, InfiniBand led our growth as our Quantum-2 40 gigabit per second platform is off to a great start, driven by demand across cloud, enterprise and supercomputing customers.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 25 We build finished products and maintain inventory in advance of anticipated demand.
+    - Compute GPUs grew 369% year-on-year and 193% compared to the first nine months of fiscal year 2023 led by strong demand for the NVIDIA HGX platform driven by global demand for the training and inferencing of large language models, recommendation engines and inferencing of generative AI applications.
+    - Sequential growth reflects strong demand for our GeForce RTX 40 Series GPUs for back-to-school and the start of the holiday season.
+    - These licensing requirements did not have a meaningful impact on our revenue in the third quarter of fiscal year 2024 as they were announced near the end of the fiscal quarter and we had additional demand from customers outside of the named country groups.
+    - Recent Developments, Future Objectives and Challenges Demand and Supply, Product Transitions, and New Products and Business Models Demand for our data center systems and products has surged over the last three quarters and our demand visibility extends into next year.
+    - Our demand estimates for new use cases, applications, and services can be incorrect and create volatility in our revenue or supply levels, and we may not be able to generate significant revenue from these use cases, applications, and services.
+    - The decrease in fiscal year 2023 was primarily due to $2.17 billion of inventory provisions in fiscal year 2023, which consists of approximately $1.04 billion for inventory on hand and approximately $1.13 billion for inventory purchase obligations in excess of our current demand projections.
+    - Gross margin for fiscal year 2023 declined from a year ago, driven by $2.17 billion of inventory charges largely relating to excess supply of NVIDIA Ampere architecture Gaming and Data Center products as compared to the demand expectations for these products, particularly for the expected demand in China.
+    - Gaming revenue was down 27% from a year ago reflecting lower sell-in to partners to help reduce channel inventory levels as global macro-economic conditions and COVID-19 related disruptions in China weighed on gaming demand.
+    - The inventory charges were comprised of $1.04 billion for inventory on hand and $1.13 billion for inventory purchase obligations in excess of our demand expectations.
+    - Graphics - The year-on-year decrease primarily reflects lower sell-in to partners to help reduce channel inventory levels as global macro-economic conditions and COVID-19 related disruptions in China weighed on gaming demand.
+    - Challenges in estimating demand could become more pronounced or volatile in the future on both a global and regional basis.
+  [Footnotes]
+    - October 29, January 29, 2023 2023 Accrued and Other Current Liabilities: (In millions) Customer program accruals $ 1,771 $ 1,196 Excess inventory purchase obligations (1) 1,280 954 Accrued payroll and related expenses 516 530 Deferred revenue (2) 513 354 Taxes payable 420 467 Product warranty and return provisions 299 108 Operating leases 230 176 Licenses and royalties 150 149 Unsettled share repurchases 117 — Other 176 186 Total accrued and other current liabilities $ 5,472 $ 4,120 (1) During the third quarter of fiscal years 2024 and 2023, we recorded an expense of approximately $ 473 million and $ 348 million, respectively, in cost of revenue for inventory purchase obligations in excess of our current demand projections, supplier charges and for penalties related to cancellations and underutilization.
+    - The amended complaint asserted that NVIDIA and certain NVIDIA executives violated Section 10(b) of the Securities Exchange Act of 1934, as amended, or the Exchange Act, and SEC Rule 10b-5, by making materially false or misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand between May 10, 2017 and November 14, 2018.
+    - The lawsuits assert claims, purportedly on behalf of us, against certain officers and directors of the Company for breach of fiduciary duty, unjust enrichment, insider trading, misappropriation of information, corporate waste and violations of Sections 14(a), 10(b), and 20(a) of the Exchange Act based on the dissemination of allegedly false and misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand.
+    - The lawsuit asserts claims, purportedly on behalf of us, against certain officers and directors of the Company for breach of fiduciary duty, unjust enrichment, waste of corporate assets, and violations of Sections 14(a), 10(b), and 20(a) of the Exchange Act based on the dissemination of allegedly false and misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand.
+    - This lawsuit asserts claims, purportedly on behalf of us, against certain officers and directors of the Company for breach of fiduciary duty and insider trading based on the dissemination of allegedly false and misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand.
+    - The increase in revenue to the United States for the third quarter and first nine months of fiscal year 2024 was primarily due to higher U.S.-based Data Center end demand.
+  [Risk Factors]
+    - Many additional factors have caused and/or could in the future cause us to either underestimate or overestimate our customers’ future demand for our products, or otherwise cause a mismatch between supply and demand for our products and impact the timing and volume of our revenue, including: • changes in product development cycles and time to market; • competing technologies and competitor product releases and announcements; • changes in business and economic conditions resulting in decreased end demand; • sudden or sustained government lockdowns or actions to control case spread of global or local health issues; • rapidly changing technology or customer requirements; • new product introductions and transitions resulting in less demand for existing products; • new or unexpected end use cases; • increase in demand for competitive products, including competitive actions; 36 • business decisions made by third parties; • the demand for accelerated or AI-related cloud services, including our own software and NVIDIA DGX cloud services; • changes that impact the ecosystem for the architectures underlying our products and technologies; • the demand for our products relating to cryptocurrency mining, our Omniverse platform, third-party large language models and generative AI models; or • government actions or changes in governmental policies, such as export controls or increased restrictions on gaming usage.
+    - Failure by 38 developers, customers, and other third parties to build, enhance, and maintain applications that leverage our platforms, or failure by third-party content providers or publishers to make their content available on reasonable terms or at all for use by our customers or end users on our platforms, could adversely affect customer demand.
+    - Such controls have been and may again be very broad in scope and 42 application, prohibit us from exporting our products to any or all customers in one or more markets, including but not limited to China, and could negatively impact our manufacturing, testing, and warehousing locations and options, or could impose other conditions that limit our ability to serve demand abroad and could negatively and materially impact our business, revenue, and financial results.
+    - If our estimates of customer demand are ultimately inaccurate, as we have experienced in the past, there could be a significant mismatch between supply and demand.
+    - Demand for our data center systems and products has surged over the last three quarters and our demand visibility extends into next year.
+    - Challenges in estimating demand could become more pronounced or volatile in the future on both a global and regional basis.
+    - Demand for our products is based on many factors in addition to the lead times described above that have caused and/or could in the future cause us to either underestimate or overestimate our customers’ future demand for our products, or otherwise cause a mismatch between supply and demand for our products and impact the timing and volume of our revenue, including: • competing technologies and competitor product releases and announcements; • changes in business and economic conditions resulting in decreased end demand; • sudden or sustained government lockdowns or actions to control case spread of COVID-19 or other global or local health issues; • rapidly changing technology or customer requirements; • time to market; 18 Table of Contents • new product introductions and transitions resulting in less demand for existing products; • new or unexpected end use cases; • increase in demand for competitive products, including competitive actions; • business decisions made by third parties; • the demand for accelerated or AI-related cloud services, including our own software and AI cloud service offerings; • the demand for cryptocurrency mining; or • government actions or changes in governmental policies, such as increased restrictions on gaming usage.
+    - We face several risks which have adversely affected or could adversely affect our ability to meet customer demand and scale our supply chain, negatively impact longer-term demand for our products and services, and adversely affect our business operations, gross margin, revenue and/or financial results, including: • lack of guaranteed supply of wafer, component and capacity or decommitment and potential higher wafer and component prices, from incorrectly estimating demand and failing to place orders with our suppliers with sufficient quantities or in a timely manner; 20 Table of Contents • failure by our foundries or contract manufacturers to procure raw materials or to provide adequate levels of manufacturing or test capacity for our products; • failure by our foundries to develop, obtain or successfully implement high quality process technologies, including transitions to smaller geometry process technologies such as advanced process node technologies and memory designs needed to manufacture our products; • limited number and geographic concentration of global suppliers, foundries, contract manufacturers, assembly and test providers, and memory manufacturers; • loss of a supplier and additional expense and/or production delays as a result of qualifying a new foundry or subcontractor and commencing volume production or testing in the event of a loss of or a decision to add or change a supplier; • lack of direct control over product quantity, quality and delivery schedules; • suppliers or their suppliers failing to supply high quality products and/or making changes to their products without our qualification; • delays in product shipments, shortages, a decrease in product quality and/or higher expenses in the event our subcontractors or foundries prioritize our competitors’ or other customers’ orders over ours; • requirements to place orders that are not cancellable upon changes in demand or requirements to prepay for supply in advance; • low manufacturing yields resulting from a failure in our product design or a foundry’s proprietary process technology; and • disruptions in manufacturing, assembly and other processes due to closures related to heat waves or other natural disasters and electricity conservation efforts.
+    - For example, we are defending on appeal the dismissal of a securities class action lawsuit from multiple shareholders asserting claims that we and certain of our officers made false and/or misleading statements related to channel inventory and the impact of cryptocurrency mining on GPU demand in 2017 and 2018.
+    - Changes to cryptocurrency standards and processes including, but not limited to, the recently implemented Ethereum 2.0 merge may decrease the usage of GPUs for Ethereum mining as well as create increased aftermarket sales of our GPUs, which could negatively impact retail prices for our GPUs and reduce demand for our new GPUs.
+    - Risks Related to Demand, Supply and Manufacturing Failure to estimate customer demand properly has led and could lead to mismatches between supply and demand.
+    - If our estimates of customer demand are ultimately inaccurate, as we have experienced from time to time, there could be a significant mismatch between supply and demand.
+
