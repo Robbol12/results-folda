@@ -1,0 +1,106 @@
+[CORE RESEARCH] MSFT: cost of goods sold
+
+Quarters searched: 6
+Filing sections searched: 430
+
+Over the reported periods from Q1 2024 through Q4 2025, cost of goods sold (reported as cost of revenue) has been consistently disclosed in filings with detailed breakdowns between product and service components. The company applies a relative revenue methodology to allocate cost of revenue in certain cases and evaluates investments for impairment when cost exceeds fair value. Unearned revenue and remaining performance obligations are regularly disclosed, reflecting ongoing revenue deferral and recognition patterns. However, management does not provide explicit forward guidance on cost of goods sold, and the filings focus more on revenue recognition and related accounting policies than on forecasting cost of revenue.
+
+Forecasting credibility: None
+No guidance versus actual pairs for cost of goods sold were found in the provided evidence, indicating that management does not issue forward-looking guidance on this metric. Therefore, it is not possible to assess forecasting credibility for cost of goods sold based on the available data. Any judgment on forecasting accuracy would be speculative without explicit guidance-actual comparisons.
+
+Trends:
+  - Increasing total cost of revenue over time
+  - Consistent use of relative revenue methodology for cost allocation
+  - Regular evaluation of investment impairments
+  - Stable disclosure of unearned revenue and performance obligations
+
+Recurring themes/risks:
+  - Revenue deferral and recognition impacting cost allocation
+  - Assessment of fair value versus cost for investments
+  - Complexity in accounting for contract terms affecting revenue and cost timing
+
+Key concerns:
+  - No forward guidance on cost of goods sold limits ability to evaluate management's forecasting skill for this line item
+  - Potential complexity in cost allocation due to revenue deferral and performance obligations
+  - No noted accounting changes but reliance on estimates and judgments in revenue and cost recognition
+
+Conclusion:
+Cost of goods sold, reported as cost of revenue, has shown a general upward trend consistent with business growth and revenue increases. The company employs a relative revenue methodology to allocate costs and carefully evaluates investments for impairment, reflecting prudent accounting practices. However, management does not provide forward guidance on cost of goods sold, and thus forecasting credibility cannot be assessed. The disclosures emphasize the interplay between revenue recognition and cost allocation, highlighting the importance of contract terms and unearned revenue in understanding cost dynamics. Overall, cost of goods sold appears to be managed with consistent accounting policies but remains a non-forecasted metric in management communications.
+
+Evidence Coverage: 99.8% complete; 410/411 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [None] [from 10-K/10-Q] Cost of revenue: Product 4,339 3,941 13,834 13,933 Service and other 14,166 12,187 40,596 35,135 Total cost of revenue 18,505 16,128 54,430 49,068
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Revenue: $56.52B | vs prior quarter: — | vs prior year: $50.12B (+12.8%)
+    - Cost of Revenue: $16.30B | vs prior quarter: — | vs prior year: $15.45B (+5.5%)
+
+=== Q3 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [None] [from 10-K/10-Q] Cost of revenue: Product 3,294 3,531 Service and other 16,805 12,771 Total cost of revenue 20,099 16,302
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Revenue: $61.86B | vs prior quarter: $62.02B (-0.3%) | vs prior year: $52.86B (+17.0%)
+    - Cost of Revenue: $18.50B | vs prior quarter: $19.62B (-5.7%) | vs prior year: $16.13B (+14.7%)
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
+=== Q4 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [None] [from 10-K/10-Q] Cost of revenue: Product 3,856 5,964 7,150 9,495 Service and other 17,943 13,659 34,748 26,430 Total cost of revenue 21,799 19,623 41,898 35,925
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Revenue: $245.12B | vs prior quarter: — | vs prior year: $211.91B (+15.7%)
+    - Cost of Revenue: $74.11B | vs prior quarter: — | vs prior year: $65.86B (+12.5%)
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+
+=== Q1 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Revenue: $65.58B | vs prior quarter: — | vs prior year: $56.52B (+16.0%)
+    - Cost of Revenue: $20.10B | vs prior quarter: — | vs prior year: $16.30B (+23.3%)
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
+=== Q3 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Revenue: $70.07B | vs prior quarter: $69.63B (+0.6%) | vs prior year: $61.86B (+13.3%)
+    - Cost of Revenue: $21.92B | vs prior quarter: $21.80B (+0.6%) | vs prior year: $18.50B (+18.4%)
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
+=== Q4 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Revenue: $281.72B | vs prior quarter: — | vs prior year: $245.12B (+14.9%)
+    - Cost of Revenue: $87.83B | vs prior quarter: — | vs prior year: $74.11B (+18.5%)
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+    - • Identification and treatment of contract terms that may impact the timing and amount of revenue recognized (e.g., variable consideration, optional purchases, and free services).
+    - o Assessed the terms in the customer agreement and evaluated the appropriateness of management's application of their accounting policies, along with their use of estimates, in the determination of revenue recognition conclusions.
+    - How the Critical Audit Matter Was Addressed in the Audit Our principal audit procedures related to the Company's revenue recognition for certain customer agreements included the following: • We tested the effectiveness of controls related to the identification of distinct performance obligations, the determination of the timing of revenue recognition, and the estimation of variable consideration.
+    - • We tested the mathematical accuracy of management's calculations of revenue and the associated timing of revenue recognized in the financial statements.
+
