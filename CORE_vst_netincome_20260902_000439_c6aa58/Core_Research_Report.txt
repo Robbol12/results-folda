@@ -1,0 +1,211 @@
+[CORE RESEARCH] VST: net income
+
+Quarters searched: 2
+Filing sections searched: 133
+
+Over the reported periods from Q1 2021 through Q4 2023, net income exhibited significant volatility, with early 2021 showing net losses transitioning to positive net income by 2023. The filings consistently present detailed reconciliations and adjustments, including the impact of derivative gains and losses, credit exposures, and tax expenses. Notably, the year ended December 31, 2023, showed a substantial improvement with net income attributable to common stock increasing by $2.6 billion to $1.5 billion, reversing a prior loss of $1.2 billion in 2022. The company’s disclosures also highlight the influence of non-cash items and accounting for derivative instruments on net income. Throughout, no forward guidance on net income was provided by management, and the filings focus on actual results and explanatory notes rather than forecasts.
+
+Forecasting credibility: None
+No guidance versus actual pairs for net income were found in the evidence, indicating that management does not provide forward-looking net income guidance. Therefore, it is not possible to assess forecasting credibility for this topic based on the available data. Any commentary on net income trends or results is retrospective and does not include predictive statements that can be evaluated for accuracy.
+
+Trends:
+  - Volatile net income with early losses
+  - Improvement to positive net income by 2023
+  - Significant year-over-year net income increase in 2023
+  - Impact of derivative gains/losses on net income
+  - Consistent reporting of credit exposure and tax effects
+
+Recurring themes/risks:
+  - Derivative gains and losses affecting net income
+  - Credit exposure and collateral management
+  - Income tax expense concentrated in Corporate and Other segment
+  - Non-cash accounting impacts on net income
+  - Large fluctuations in net income across periods
+
+Key concerns:
+  - No forward guidance on net income limits ability to assess management forecasting reliability for this metric.
+  - Significant volatility and large swings in net income may reflect exposure to market and operational risks.
+  - Accounting for derivative instruments and related gains/losses introduces complexity and potential variability in net income.
+
+Conclusion:
+Net income for the company has shown marked volatility over the periods reviewed, with early 2021 losses transitioning to a strong positive net income by the end of 2023. The filings reveal that derivative gains and losses, credit exposures, and tax expenses materially influence net income results. Despite this, management does not provide forward guidance on net income, precluding an evaluation of forecasting accuracy or credibility. The substantial improvement in net income in 2023, including a $2.6 billion increase to $1.5 billion, underscores a positive financial turnaround. However, the absence of guidance and the complexity of accounting for derivatives and other non-cash items suggest that net income should be interpreted with caution when assessing future performance.
+
+Evidence Coverage: 99.5% complete; 758/762 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [None] [from 10-K/10-Q] Net income (loss) attributable to common stock — basic $ ( 2,043 ) $ 56
+  - [None] [from 10-K/10-Q] Net income (loss) attributable to Vistra $ ( 2,043 ) $ 56
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - Net income decreased by $7 million to $88 million and Adjusted EBITDA decreased by $510 million to a net loss of $199 million in the three months ended March 31, 2021 compared to the three months ended March 31, 2020.
+  [Financial Statements]
+    - Net Income: $-2.04B | vs prior quarter: — | vs prior year: $56.0M (-3748.2%)
+    - 6 real filing table(s) available (see the HTML report).
+    - Three Months Ended March 31, 2021 2020 Net income (loss) attributable to common stock — basic $ ( 2,043 ) $ 56 Weighted average shares of common stock outstanding — basic 484,699,267 487,944,564 Net income (loss) per weighted average share of common stock outstanding — basic $ ( 4.21 ) $ 0.11 Dilutive securities: Stock-based incentive compensation plan — 2,694,062 Weighted average shares of common stock outstanding — diluted 484,699,267 490,638,626 Net income (loss) per weighted average share of common stock outstanding — diluted $ ( 4.21 ) $ 0.11 Stock-based incentive compensation plan awards excluded from the calculation of diluted earnings per share because the effect would have been antidilutive totaled 15,254,972 and 10,872,836 shares for the three months ended March 31, 2021 and 2020, respectively.
+    - 31 Table of Contents The following table presents the pretax effect of derivative gains (losses) on net income, including realized and unrealized effects.
+
+=== Q2 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [None] [from 10-K/10-Q] Net income (loss) attributable to common stock — basic $ 36 $ 166 $ ( 2,006 ) $ 222
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Net Income: $36.0M | vs prior quarter: $-2.04B (+101.8%) | vs prior year: $166.0M (-78.3%)
+    - 8 real filing table(s) available (see the HTML report).
+    - 34 Table of Contents The following table presents the pre-tax effect of derivative gains (losses) on net income, including realized and unrealized effects.
+
+=== Q3 2021 ===
+Management said:
+Guidance given:
+  - Stephen Byrd -- Morgan Stanley So I wanted to focus on Vistra Zero and the updated guidance here and you mentioned your prepared remarks, it's fairly capital-light from your perspective as you mentioned $5 billion of total capital needed, but only $500 million in net capital from Vistra, and that of project debt, other financing cash flow, etc.
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Net Income: $7.0M | vs prior quarter: $36.0M (-80.6%) | vs prior year: $443.0M (-98.4%)
+    - 8 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 41 Table of Contents (c) Income tax expense is not reflected in net income of the segments but is reflected entirely in Corporate and Other net income.
+
+=== Q4 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - The following table presents changes in net income (loss) and Adjusted EBITDA for the year ended December 31, 2021 compared to the year ended December 31, 2020.
+    - 70 Table of Contents The following table presents changes in net income (loss) and Adjusted EBITDA for the year ended December 31, 2021 compared to the year ended December 31, 2020.
+  [Financial Statements]
+    - Net Income: $-1.27B | vs prior quarter: — | vs prior year: $636.0M (-300.3%)
+    - 6 real filing table(s) available (see the HTML report).
+    - 144 Table of Contents The following table presents the pre-tax effect of derivative gains (losses) on net income, including realized and unrealized effects.
+  [Risk Factors]
+    - As of December 31, 2021, we had approximately $10.7 billion of total indebtedness and approximately $9.4 billion of indebtedness net of cash.
+    - Issuances or acquisitions of our common stock, or sales or dispositions of our common stock by stockholders, that result in an ownership change as defined in Internal Revenue Code (IRC) § 382 could further limit our ability to use certain tax attributes and our federal net operating losses to offset our future taxable income.
+    - Additionally, state or federal imposition of net metering or renewable portfolio standard programs can make it more or less expensive for retail customers to supplement or replace their reliance on grid power.
+
+=== Q1 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - The following table presents changes in net income (loss) and Adjusted EBITDA for the three months ended March 31, 2022 compared to the three months ended March 31, 2021.
+    - The following table presents changes in net income and Adjusted EBITDA for the three months ended March 31, 2022 compared to the three months ended March 31, 2021.
+  [Financial Statements]
+    - Net Income: $-285.0M | vs prior quarter: — | vs prior year: $-2.04B (+86.0%)
+    - 4 real filing table(s) available (see the HTML report).
+    - 34 Table of Contents The following table presents the pre-tax effect of derivative gains (losses) on net income, including realized and unrealized effects.
+  [Footnotes]
+    - The accounting policies of the business segments are the same as those described in the summary of significant accounting policies in Note 1 of our 2021 Form 10-K. Our CODM uses more than one measure to assess segment performance, including segment net income (loss), which is the measure most comparable to consolidated net income (loss) prepared based on U.S. GAAP.
+
+=== Q2 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Net Income: $-1.36B | vs prior quarter: $-285.0M (-378.9%) | vs prior year: $36.0M (-3891.7%)
+    - 8 real filing table(s) available (see the HTML report).
+    - 44 Table of Contents (b) Income tax (expense) benefit is generally not reflected in net income (loss) of the segments but is reflected almost entirely in Corporate and Other net income (loss).
+  [Footnotes]
+    - The accounting policies of the business segments are the same as those described in the summary of significant accounting policies in Note 1 of our 2021 Form 10-K. Our CODM uses more than one measure to assess segment performance, including segment net income (loss), which is the measure most comparable to consolidated net income (loss) prepared based on U.S. GAAP.
+
+=== Q3 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - The following table presents changes in net income (loss) and Adjusted EBITDA for the three months ended September 30, 2022 compared to the three months ended September 30, 2021.
+    - The following table presents changes in net income (loss) and Adjusted EBITDA for the nine months ended September 30, 2022 compared to the nine months ended September 30, 2021.
+    - 67 Table of Contents The following table presents changes in net income and Adjusted EBITDA for the three and nine months ended September 30, 2022 compared to the three and nine months ended September 30, 2021.
+  [Financial Statements]
+    - Net Income: $668.0M | vs prior quarter: $-1.36B (+148.9%) | vs prior year: $7.0M (+9442.9%)
+    - 10 real filing table(s) available (see the HTML report).
+
+=== Q4 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Net Income: $-1.23B | vs prior quarter: — | vs prior year: $-1.27B (+3.7%)
+    - 3 real filing table(s) available (see the HTML report).
+    - 159 Table of Contents (b) Income tax (expense) benefit is generally not reflected in net income (loss) of the segments but is reflected almost entirely in Corporate and Other net income (loss).
+    - 147 Table of Contents The following table presents the pre-tax effect of derivative gains (losses) on net income, including realized and unrealized effects.
+  [Risk Factors]
+    - 13 real filing table(s) available (see the HTML report).
+    - As of December 31, 2022, we had approximately $13.0 billion of total indebtedness and approximately $12.6 billion of indebtedness net of cash.
+    - Issuances or acquisitions of our common stock, or sales or dispositions of our common stock by stockholders, that result in an ownership change as defined in Internal Revenue Code (IRC) § 382 could further limit our ability to use certain tax attributes and our federal net operating losses to offset our future taxable income.
+    - Additionally, state or federal imposition of net metering or renewable portfolio standard programs can make it more or less expensive for retail customers to supplement or replace their reliance on grid power.
+    - The following table presents changes in net income (loss) and Adjusted EBITDA for the year ended December 31, 2022 compared to the year ended December 31, 2021.
+    - 72 Table of Contents The following table presents changes in net income (loss) and Adjusted EBITDA for the year ended December 31, 2022 compared to the year ended December 31, 2021.
+
+=== Q1 2023 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - The following table presents changes in net income (loss) and Adjusted EBITDA for the three months ended March 31, 2023 compared to the three months ended March 31, 2022.
+    - The net change in these assets and liabilities, excluding "other activity" as described below, reflects $1.085 billion in unrealized net gains and $360 million in unrealized net losses for the three months ended March 31, 2023 and 2022, respectively, arising from mark-to-market accounting for positions in the commodity contract portfolio.
+  [Financial Statements]
+    - Net Income: $699.0M | vs prior quarter: — | vs prior year: $-285.0M (+345.3%)
+    - 6 real filing table(s) available (see the HTML report).
+    - Three Months Ended March 31, 2023 2022 Net income (loss) attributable to Vistra $ 699 $ ( 285 ) Less cumulative dividends attributable to Series A Preferred Stock ( 20 ) ( 20 ) Less cumulative dividends attributable to Series B Preferred Stock ( 18 ) ( 18 ) Net income (loss) attributable to common stock — basic 661 ( 323 ) Weighted average shares of common stock outstanding — basic 383,631,369 451,603,354 Net income (loss) per weighted average share of common stock outstanding — basic $ 1.72 $ ( 0.72 ) Dilutive securities: Stock-based incentive compensation plan 3,922,010 — Weighted average shares of common stock outstanding — diluted 387,553,379 451,603,354 Net income (loss) per weighted average share of common stock outstanding — diluted $ 1.71 $ ( 0.72 ) Stock-based incentive compensation plan awards excluded from the calculation of diluted earnings per share because the effect would have been antidilutive totaled 3,859,165 and 9,776,484 shares for the three months ended March 31, 2023 and 2022, respectively.
+
+=== Q2 2023 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - The following table presents changes in net income (loss) and Adjusted EBITDA for the three months ended June 30, 2023 compared to the three months ended June 30, 2022.
+    - The following table presents changes in net income (loss) and Adjusted EBITDA for the six months ended June 30, 2023 compared to the six months ended June 30, 2022.
+    - 70 Table of Contents The following table presents changes in net income (loss) and Adjusted EBITDA for the three and six months ended June 30, 2023 compared to the three and six months ended June 30, 2022.
+  [Financial Statements]
+    - Net Income: $476.0M | vs prior quarter: $699.0M (-31.9%) | vs prior year: $-1.36B (+134.9%)
+    - 8 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - (c) Texas segment includes $ 309 million of affiliated unrealized net losses and the East and Sunset segments include $ 521 million and $ 151 million, respectively, of affiliated unrealized net gains from mark-to-market valuations of commodity positions with the Retail segment.
+
+=== Q3 2023 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - The following table presents changes in net income (loss) and Adjusted EBITDA for the three months ended September 30, 2023 compared to the three months ended September 30, 2022.
+    - The following table presents changes in net income (loss) and Adjusted EBITDA for the nine months ended September 30, 2023 compared to the nine months ended September 30, 2022.
+    - 72 Table of Contents The following table presents changes in net income (loss) and Adjusted EBITDA for the three and nine months ended September 30, 2023 compared to the three and nine months ended September 30, 2022.
+  [Financial Statements]
+    - Net Income: $502.0M | vs prior quarter: $476.0M (+5.5%) | vs prior year: $668.0M (-24.9%)
+    - 9 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - (c) Texas segment includes $ 388 million of affiliated unrealized net losses and the East and Sunset segments include $ 440 million and $ 144 million, respectively, of affiliated unrealized net gains from mark-to-market valuations of commodity positions with the Retail segment.
+
+=== Q4 2023 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - The following table presents additional changes to net income (loss) and Adjusted EBITDA for the year ended December 31, 2023 compared to the year ended December 31, 2022.
+    - Results of Operations Net income (loss) attributable to Vistra common stock increased $2.6 billion to income of $1.5 billion for the year ended December 31, 2023 from a loss of $1.2 billion for the year ended December 31, 2022.
+    - In 2022, a $189 million default uplift liability to ERCOT was extinguished and resulted in net income during the year, but had no impact on Adjusted EBITDA in 2022 as the initial liability incurred in 2021 was excluded from Adjusted EBITDA.
+    - The net change in these assets and liabilities, excluding "other activity" as described below, reflects $490 million in unrealized net gains and $2.51 billion in unrealized net losses for the years ended December 31, 2023 and 2022, respectively, arising from mark-to-market accounting for positions in the commodity contract portfolio.
+  [Financial Statements]
+    - Net Income: $1.49B | vs prior quarter: — | vs prior year: $-1.23B (+221.7%)
+    - 4 real filing table(s) available (see the HTML report).
+    - (c) Texas and East segments include $ 817 million and $ 38 million, respectively, of affiliated unrealized net losses, and Sunset and Asset Closure segment includes $ 30 million and $ 4 million, respectively, of affiliated unrealized net gains from mark-to-market valuations of commodity positions with the Retail segment.
+  [Risk Factors]
+    - As of December 31, 2023, we had approximately $14.4 billion of total indebtedness and approximately $10.9 billion of indebtedness net of cash.
+    - Issuances or acquisitions of our common stock, or sales or dispositions of our common stock by stockholders, that result in an ownership change as defined in Internal Revenue Code (IRC) § 382 could further limit our ability to use certain tax attributes and our federal net operating losses to offset our future taxable income.
+    - Additionally, state or federal imposition of net metering or renewable portfolio standard programs can make it more or less expensive for retail customers to supplement or replace their reliance on grid power.
+
