@@ -1,0 +1,432 @@
+[CORE RESEARCH] TSLA: net income
+
+Quarters searched: 12
+Filing sections searched: 263
+
+Over the period from Q1 2021 through Q4 2023, Tesla's net income attributable to common stockholders showed a strong upward trajectory, growing from $438 million in Q1 2021 to $15.00 billion for the full year 2023. The company consistently reported favorable changes in net income compared to prior periods, driven primarily by increases in net income excluding non-cash expenses, gains, and losses, partially offset at times by changes in net operating assets and liabilities. Notably, in 2021 and 2022, Tesla recorded full valuation allowances on its U.S. deferred tax assets, which were later released in 2023, resulting in a significant one-time non-cash benefit of $5.9 billion. Management highlighted record production, deliveries, and profitability milestones throughout the periods, culminating in accumulated profitability turning positive in 2021 and substantial net income growth thereafter.
+
+Forecasting credibility: None
+No guidance versus actual pairs for net income were provided in the evidence, so it is not possible to assess management's forecasting credibility for this topic. Without forward guidance figures paired with actual results, no pattern of met, exceeded, or missed expectations can be established. Therefore, the forecasting credibility rating must remain null.
+
+Trends:
+  - Strong net income growth over time
+  - Increasing net income excluding non-cash items
+  - Fluctuations in net operating assets and liabilities impacting net income
+  - Full valuation allowance on U.S. deferred tax assets in 2021 and 2022
+  - Release of valuation allowance in 2023 causing one-time income boost
+
+Recurring themes/risks:
+  - Impact of non-cash expenses, gains, and losses on net income
+  - Changes in net operating assets and liabilities affecting reported net income
+  - Deferred tax asset valuation allowances and their reversals
+
+Key concerns:
+  - The presence of a full valuation allowance on U.S. deferred tax assets in 2021 and 2022, followed by its release in 2023, introduces significant non-recurring impacts on net income that complicate trend analysis.
+  - No forward guidance on net income was provided, limiting the ability to evaluate management's forecasting accuracy for this key metric.
+
+Conclusion:
+Tesla's net income attributable to common stockholders has demonstrated robust growth from 2021 through 2023, with reported figures rising from $438 million in Q1 2021 to $15.00 billion for the full year 2023. This growth was driven largely by operational improvements reflected in net income excluding non-cash items, though it was occasionally offset by changes in net operating assets and liabilities. The accounting treatment of deferred tax assets, including a full valuation allowance in 2021 and 2022 and a substantial release in 2023, materially affected net income figures, contributing a one-time non-cash benefit of $5.9 billion in 2023. Despite the absence of forward guidance on net income, the consistent upward trend and management commentary on record profitability milestones indicate strong financial performance over the period.
+
+Evidence Coverage: 99.5% complete; 772/776 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2021 ===
+Management said:
+  - Tesla achieved record production, deliveries and surpassed $1 billion in non-GAAP net income for the first time.
+  - In particular for R&D, this includes the structural battery pack and 4680 cells, investments in the new SNX, and our neural net and silicon investments.
+Guidance given:
+Actual reported:
+  - [None] [from 10-K/10-Q] Net income attributable to noncontrolling interests and redeemable noncontrolling interests in subsidiaries 26 52
+  - [None] [from 10-K/10-Q] Net income attributable to common stockholders $ 438 $ 16
+  - [None] [from 10-K/10-Q] During the three months ended March 31, 2021, our net income attributable to common stockholders was $438 million, representing a favorable change of $422 million over the three months ended March 31, 2020.
+  - [None] Tesla achieved record production, deliveries and surpassed $1 billion in non-GAAP net income for the first time.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - During the three months ended March 31, 2021, our net income attributable to common stockholders was $438 million, representing a favorable change of $422 million over the three months ended March 31, 2020.
+    - Net income attributable to noncontrolling interests and redeemable noncontrolling interests decreased by $26 million, or 50%, in the three months ended March 31, 2021 as compared to the three months ended March 31, 2020.
+    - This increase was primarily due to the decrease in net operating assets and liabilities of $1.44 billion and the increase in net income excluding non-cash expenses and gains of $747 million, partially offset by $101 million of net gain on digital assets.
+    - 38 Cash Flows from Financing Activities Net cash used in financing activities during the three months ended March 31, 2021 was $1.02 billion, which consisted primarily of $1.45 billion of cash repayments upon conversions of our convertible senior notes, $294 million of repayments under our 2016 Warehouse Agreement, $151 million repayment of Solar Term Loan upon maturity and $101 million principal repayments of our finance leases.
+  [Financial Statements]
+    - Net Income: $438.0M | vs prior quarter: — | vs prior year: $16.0M (+2637.5%)
+    - 5 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+    - 11 Net Income per Share of Common Stock Attributable to Common Stockholders Basic net income per share of common stock attributable to common stockholders is calculated by dividing net income attributable to common stockholders by the weighted-average shares of common stock outstanding for the period.
+    - During the three months ended March 31, 2021 , we increased net income attributable to common stockholders by $ 5 million to arrive at the numerator used to calculate diluted net income per share, which represents the interest expense recognized on the convertible debt instruments that were subject to this change in methodology.
+    - This had the effect of increasing our basic and diluted net income per share of common stock attributable to common stockholders for the three months ended March 31, 2021 by $ 0.15 and $ 0.13 , respectively.
+    - The change in methodology to determine the denominator used in the calculation of diluted net income per share of common stock attributable to common stockholders contributed less than $ 0.01 of the increase by requiring the use of the if-converted method as discussed above.
+    - The following table presents the reconciliation of basic to diluted weighted average shares used in computing net income per share of common stock attributable to common stockholders, as adjusted to give effect to the five-for-one stock split effected in the form of a stock dividend in August 2020 (the “Stock Split”) (in millions): Three Months Ended March 31, 2021 2020 Weighted average shares used in computing net income per share of common stock, basic 961 915 Add: Stock-based awards 97 46 Convertible senior notes (1) 21 30 Warrants 54 3 Weighted average shares used in computing net income per share of common stock, diluted 1,133 994 The following table presents the potentially dilutive shares that were excluded from the computation of diluted net income per share of common stock attributable to common stockholders, because their effect was anti-dilutive, as adjusted to give effect to the Stock Split (in millions): Three Months Ended March 31, 2021 2020 Stock-based awards 0 0 Convertible senior notes (1) 1 2 (1) Under the modified retrospective method of adoption of ASU 2020-06, the dilutive impact of convertible senior notes was calculated using the if-converted method for the three months ended March 31, 2021.
+    - Such gains are presented net of impairment losses in Restructuring and other in the consolidated statement of operations.
+    - Accordingly, our interest rate swaps are recorded at fair value on the consolidated balance sheets within Other non-current assets or Other long-term liabilities, with any changes in their fair values recognized as Other income (expense), net, in the consolidated statements of operations and with any cash flows recognized as operating activities in the consolidated statements of cash flows.
+    - We write-down inventory for any excess or obsolete inventories or when we believe that the net realizable value of inventories is less than the carrying value.
+    - This results in us recording the cost of their production equipment within Property, plant and equipment, net, on the consolidated balance sheets with a corresponding liability recorded to debt and finance leases.
+    - The proceeds from the issuance, net of discounts and fees, were $ 1.07 billion.
+    - As we now expect to settle a portion of the 2024 Notes in the second quarter of 2021, we reclassified $ 51 million of the carrying value of the 2024 Notes from debt and finance leases, net of current portion to current portion of debt and finance leases on our consolidated balance sheet as of March 31, 2021.
+    - The differences between the unpaid principal balances and the net carrying values are due to debt discounts or deferred financing costs.
+    - Adjusted EBITDA is defined as net income (loss) attributable to common stockholders before interest expense, provision (benefit) for income taxes, depreciation and amortization and stock-based compensation.
+    - Cash distributions of income and other receipts by a fund, net of agreed upon expenses, estimated expenses, tax benefits and detriments of income and loss and tax credits, are allocated to the fund investor and our subsidiary as specified in the agreements.
+  [Risk Factors]
+    - The benefit available under net metering has been or has been proposed to be reduced, altered or eliminated in several jurisdictions, and has also been contested and may continue to be contested before the Federal Energy Regulatory Commission.
+    - Likewise, in jurisdictions where net metering is currently available, our customers receive bill credits from utilities for energy that their solar energy systems generate and export to the grid in excess of the electric load they use.
+
+=== Q2 2021 ===
+Management said:
+  - We achieved record production, deliveries, and surpassed over $1 billion in GAAP net income for the first time in Tesla's history.
+Guidance given:
+Actual reported:
+  - [None] We achieved record production, deliveries, and surpassed over $1 billion in GAAP net income for the first time in Tesla's history.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - During the three and six months ended June 30, 2021, our net income attributable to common stockholders was $1.14 billion and $1.58 billion, respectively, representing favorable changes of $1.04 billion and $1.46 billion, respectively, over the same periods ended June 30, 2020.
+    - Net income attributable to noncontrolling interests and redeemable noncontrolling interests increased by $11 million, or 44%, in the three months ended June 30, 2021 as compared to the three months ended June 30, 2020.
+    - Net income attributable to noncontrolling interests and redeemable noncontrolling interests decreased by $15 million, or 19%, in the six months ended June 30, 2021 as compared to the six months ended June 30, 2020.
+    - This increase was primarily due to the increase in net income excluding non-cash expenses and gains of $1.88 billion and the overall decrease in net operating assets and liabilities of $1.36 billion.
+    - Cash Flows from Financing Activities Net cash used in financing activities during the six months ended June 30, 2021 was $2.57 billion, which consisted primarily of $1.95 billion of cash repayments upon conversions of our convertible senior notes, $614 million of repayments under our Fixed Asset Facility, $294 million of repayments under our 2016 Warehouse Agreement, $151 million repayment of Solar Term Loan upon maturity and $196 million principal repayments of our finance leases.
+  [Financial Statements]
+    - Net Income: $1.14B | vs prior quarter: $438.0M (+160.7%) | vs prior year: $104.0M (+998.1%)
+    - 5 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+    - 12 Net Income per Share of Common Stock Attributable to Common Stockholders Basic net income per share of common stock attributable to common stockholders is calculated by dividing net income attributable to common stockholders by the weighted-average shares of common stock outstanding for the period.
+    - During the three and six months ended June 30, 2021 , we increased net income attributable to common stockholders by $ 2 million and $ 6 million, respectively, to arrive at the numerator used to calculate diluted net income per share, which represents the interest expense recognized on the convertible debt instruments that were subject to this change in methodology.
+    - This had the effect of increasing our basic and diluted net income per share of common stock attributable to common stockholders by $ 0.05 and $ 0.04 , respectively, for the three months ended June 30, 2021 and by $ 0.20 and $ 0.18 , respectively, for the six months ended June 30, 2021 .
+    - The change in methodology to determine the denominator used in the calculation of diluted net income per share of common stock attributable to common stockholders contributed less than $ 0.01 of the increase by requiring the use of the if-converted method as discussed above, for the three and six months ended June 30, 2021.
+    - Such gains are presented net of impairment losses in Restructuring and other in the consolidated statement of operations.
+    - Accordingly, our interest rate swaps are recorded at fair value on the consolidated balance sheets within Other non-current assets or Other long-term liabilities, with any changes in their fair values recognized as Other income (expense), net, in the consolidated statements of operations and with any cash flows recognized as operating activities in the consolidated statements of cash flows.
+    - We write-down inventory for any excess or obsolete inventories or when we believe that the net realizable value of inventories is less than the carrying value.
+    - This results in us recording the cost of their production equipment within Property, plant and equipment, net, on the consolidated balance sheets with a corresponding liability recorded to debt and finance leases.
+    - The proceeds from the issuance, net of discounts and fees, were $ 1.07 billion.
+    - As we now expect to settle a portion of the 2024 Notes in the third quarter of 2021, we reclassified $ 7 million of the carrying value of the 2024 Notes from debt and finance leases, net of current portion to current portion of debt and finance leases on our consolidated balance sheet as of June 30, 2021.
+    - The differences between the unpaid principal balances and the net carrying values are due to debt discounts or deferred financing costs.
+    - Adjusted EBITDA is defined as net income (loss) attributable to common stockholders before interest expense, provision (benefit) for income taxes, depreciation and amortization and stock-based compensation.
+    - Cash distributions of income and other receipts by a fund, net of agreed upon expenses, estimated expenses, tax benefits and detriments of income and loss and tax credits, are allocated to the fund investor and our subsidiary as specified in the agreements.
+  [Risk Factors]
+    - The benefit available under net metering has been or has been proposed to be reduced, altered or eliminated in several jurisdictions, and has also been contested and may continue to be contested before the Federal Energy Regulatory Commission.
+    - Likewise, in jurisdictions where net metering is currently available, our customers receive bill credits from utilities for energy that their solar energy systems generate and export to the grid in excess of the electric load they use.
+
+=== Q3 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - During the three and nine months ended September 30, 2021, our net income attributable to common stockholders was $1.62 billion and $3.20 billion, respectively, representing increases of $1.29 billion and $2.75 billion, respectively, over the same periods ended September 30, 2020.
+    - Net income attributable to noncontrolling interests and redeemable noncontrolling interests decreased by $12 million, or 10%, in the nine months ended September 30, 2021 as compared to the nine months ended September 30, 2020.
+    - This increase was primarily due to the increase in net income excluding non-cash expenses and gains of $3.27 billion and the overall decrease in net operating assets and liabilities of $721 million.
+    - Other (expense) income, net, changed favorably by $91 million in the three months ended September 30, 2021 as compared to the three months ended September 30, 2020, primarily due to favorable fluctuations in foreign currency exchange rates.
+  [Financial Statements]
+    - Net Income: $1.62B | vs prior quarter: $1.14B (+41.7%) | vs prior year: $331.0M (+388.8%)
+    - 7 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+    - During the three and nine months ended September 30, 2021 , we increased net income attributable to common stockholders by $ 1 million and $ 8 million, respectively, to arrive at the numerator used to calculate diluted net income per share, which represents the interest expense recognized on the convertible debt instruments that were subject to this change in methodology.
+    - This had the effect of increasing our basic and diluted net income per share of common stock attributable to common stockholders by $ 0.01 for the three months ended September 30, 2021 and by $ 0.21 and $ 0.19 , respectively, for the nine months ended September 30, 2021 .
+    - The change in methodology to determine the denominator used in the calculation of diluted net income per share of common stock attributable to common stockholders contributed less than $ 0.01 of the increase by requiring the use of the if-converted method as discussed above for the three and nine months ended September 30, 2021.
+    - MyPower Customer Notes Receivable As of September 30, 2021 and December 31, 2020, the total outstanding balance of MyPower customer notes receivable, net of allowance for credit losses, was $ 304 million and $ 334 million, respectively, of which $ 11 million and $ 9 million were due in the next 12 months as of September 30, 2021 and December 31, 2020, respectively.
+    - Such gains are presented net of impairment losses in Restructuring and other in the consolidated statement of operations.
+    - Accordingly, our interest rate swaps are recorded at fair value on the consolidated balance sheets within Other non-current assets or Other long-term liabilities, with any changes in their fair values recognized as Other income (expense), net, in the consolidated statements of operations and with any cash flows recognized as operating activities in the consolidated statements of cash flows.
+    - We write-down inventory for any excess or obsolete inventories or when we believe that the net realizable value of inventories is less than the carrying value.
+    - This results in us recording the cost of their production equipment within Property, plant and equipment, net, on the consolidated balance sheets with a corresponding liability recorded to debt and finance leases.
+    - The proceeds from the issuance, net of discounts and fees, were $ 900 million.
+    - The proceeds from the issuance, net of discounts and fees, were $ 1.07 billion.
+    - As we now expect to settle a portion of the 2024 Notes in the fourth quarter of 2021, we reclassified $ 6 million of the carrying value of the 2024 Notes from debt and finance leases, net of current portion to current portion of debt and finance leases on our consolidated balance sheet as of September 30, 2021.
+    - The differences between the unpaid principal balances and the net carrying values are due to debt discounts or deferred financing costs.
+    - Adjusted EBITDA is defined as net income (loss) attributable to common stockholders before interest expense, provision (benefit) for income taxes, depreciation and amortization and stock-based compensation.
+    - The aggregate carrying values of the VIEs’ assets and liabilities, after elimination of any intercompany transactions and balances, in the consolidated balance sheets were as follows (in millions): September 30, December 31, 2021 2020 Assets Current assets Cash and cash equivalents $ 100 $ 87 Accounts receivable, net 44 28 Prepaid expenses and other current assets 144 105 Total current assets 288 220 Solar energy systems, net 4,605 4,749 Other non-current assets 204 182 Total assets $ 5,097 $ 5,151 Liabilities Current liabilities Accrued liabilities and other $ 72 $ 63 Deferred revenue 11 11 Customer deposits — 14 Current portion of debt and finance leases 1,057 797 Total current liabilities 1,140 885 Deferred revenue, net of current portion 166 168 Debt and finance leases, net of current portion 2,286 1,346 Other long-term liabilities 15 19 Total liabilities $ 3,607 $ 2,418 28
+    - Cash distributions of income and other receipts by a fund, net of agreed upon expenses, estimated expenses, tax benefits and detriments of income and loss and tax credits, are allocated to the fund investor and our subsidiary as specified in the agreements.
+  [Risk Factors]
+    - The benefit available under net metering has been or has been proposed to be reduced, altered or eliminated in several jurisdictions, and has also been contested and may continue to be contested before the Federal Energy Regulatory Commission.
+    - Likewise, in jurisdictions where net metering is currently available, our customers receive bill credits from utilities for energy that their solar energy systems generate and export to the grid in excess of the electric load they use.
+
+=== Q4 2021 ===
+Management said:
+  - Lastly, thanks to $5.5 billion of GAAP net income in 2021, our accumulated profitability since the inception of the Company became positive, which I think makes us a real company at this point.
+Guidance given:
+Actual reported:
+  - [None] Lastly, thanks to $5.5 billion of GAAP net income in 2021, our accumulated profitability since the inception of the Company became positive, which I think makes us a real company at this point.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - In 2021, our net income attributable to common stockholders was $5.52 billion, representing a favorable change of $4.80 billion, compared to the prior year.
+    - This increase was primarily due to the increase in net income excluding non-cash expenses and gains of $5.22 billion and the overall decrease in net operating assets and liabilities of $334 million.
+    - As of December 31, 2021, we had recorded a full valuation allowance on our net U.S. deferred tax assets because we expect that it is more likely than not that our U.S. deferred tax assets will not be realized.
+    - Other income (expense), net, changed favorably by $257 million in the year ended December 31, 2021 as compared to the year ended December 31, 2020, primarily due to favorable fluctuations in foreign currency exchange rates and a $49 million favorable change in the mark-to-market remeasurement of our interest rate swaps.
+  [Financial Statements]
+    - Net Income: $5.52B | vs prior quarter: — | vs prior year: $721.0M (+665.5%)
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - The benefit available under net metering has been or has been proposed to be reduced, altered or eliminated in several jurisdictions, and has also been contested and may continue to be contested before the Federal Energy Regulatory Commission.
+    - Likewise, in jurisdictions where net metering is currently available, our customers receive bill credits from utilities for energy that their solar energy systems generate and export to the grid in excess of the electric load they use.
+
+=== Q1 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - During the three months ended March 31, 2022, our net income attributable to common stockholders was $3.32 billion, representing a favorable change of $2.88 billion, compared to the prior year.
+    - This increase was primarily due to the increase in net income excluding non-cash expenses and gains of $2.94 billion, offset by the overall increase in net operating assets and liabilities of $590 million.
+    - Other income, net, changed favorably by $28 million in the three months ended March 31, 2022 as compared to the three months ended March 31, 2021, primarily due to favorable fluctuations in foreign currency exchange rates and offset by a $10 million decrease in gain on our interest rate swaps which were settled in the current period.
+    - Net cash provided by operating activities increased by $2.35 billion to $4.00 billion during the three months ended March 31, 2022 from $1.64 billion during the three months ended March 31, 2021.
+  [Financial Statements]
+    - Net Income: $3.32B | vs prior quarter: — | vs prior year: $438.0M (+657.5%)
+    - 4 real filing table(s) available (see the HTML report).
+    - 5 Tesla, Inc. C onsolidated Statements of Comprehensive Income (in millions) (unaudited) Three Months Ended March 31, 2022 2021 Net income $ 3,280 $ 464 Other comprehensive loss: Foreign currency translation adjustment ( 96 ) ( 220 ) Unrealized net loss on marketable securities ( 8 ) — Comprehensive income 3,176 244 Less: Comprehensive (loss) income attributable to noncontrolling interests and redeemable noncontrolling interests in subsidiaries ( 38 ) 26 Comprehensive income attributable to common stockholders $ 3,214 $ 218 The accompanying notes are an integral part of these consolidated financial statements.
+    - Tesla, Inc. C onsolidated Balance Sheets (in millions, except per share data) (unaudited) March 31, December 31, 2022 2021 Assets Current assets Cash and cash equivalents $ 17,505 $ 17,576 Short-term marketable securities 508 131 Accounts receivable, net 2,311 1,913 Inventory 6,691 5,757 Prepaid expenses and other current assets 2,035 1,723 Total current assets 29,050 27,100 Operating lease vehicles, net 4,745 4,511 Solar energy systems, net 5,686 5,765 Property, plant and equipment, net 20,027 18,884 Operating lease right-of-use assets 2,181 2,016 Digital assets, net 1,261 1,260 Intangible assets, net 254 257 Goodwill 200 200 Other non-current assets 2,634 2,138 Total assets $ 66,038 $ 62,131 Liabilities Current liabilities Accounts payable $ 11,171 $ 10,025 Accrued liabilities and other 5,906 5,719 Deferred revenue 1,594 1,447 Customer deposits 1,125 925 Current portion of debt and finance leases 1,659 1,589 Total current liabilities 21,455 19,705 Debt and finance leases, net of current portion 3,153 5,245 Deferred revenue, net of current portion 2,185 2,052 Other long-term liabilities 3,839 3,546 Total liabilities 30,632 30,548 Commitments and contingencies (Note 12) Redeemable noncontrolling interests in subsidiaries 459 568 Equity Stockholders’ equity Preferred stock; $ 0.001 par value; 100 shares authorized; no shares issued and outstanding — — Common stock; $ 0.001 par value; 2,000 shares authorized; 1,036 and 1,033 shares issued and outstanding as of March 31, 2022 and December 31, 2021, respectively 1 1 Additional paid-in capital 30,485 29,803 Accumulated other comprehensive (loss) income ( 50 ) 54 Retained earnings 3,649 331 Total stockholders’ equity 34,085 30,189 Noncontrolling interests in subsidiaries 862 826 Total liabilities and equity $ 66,038 $ 62,131 The accompanying notes are an integral part of these consolidated financial statements.
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+    - The following table presents the reconciliation of net income attributable to common stockholders to net income used in computing basic and diluted net income per share of common stock (in millions): Three Months Ended March 31, 2022 2021 Net income attributable to common stockholders $ 3,318 $ 438 Less: Buy-out of noncontrolling interest 5 — Net income used in computing basic net income per share of common stock 3,313 438 Less: Dilutive convertible debt 0 ( 5 ) Net income used in computing diluted net income per share of common stock $ 3,313 $ 443 The following table presents the reconciliation of basic to diluted weighted average shares used in computing net income per share of common stock attributable to common stockholders (in millions): Three Months Ended March 31, 2022 2021 Weighted average shares used in computing net income per share of common stock, basic 1,034 961 Add: Stock-based awards 104 97 Convertible senior notes 2 21 Warrants 17 54 Weighted average shares used in computing net income per share of common stock, diluted 1,157 1,133 The following table presents the potentially dilutive shares that were excluded from the computation of diluted net income per share of common stock attributable to common stockholders, because their effect was anti-dilutive (in millions): Three Months Ended March 31, 2022 2021 Stock-based awards 1 0 Convertible senior notes — 1 12 Restricted Cash We maintain certain cash balances restricted as to withdrawal or use.
+    - 11 Net Income per Share of Common Stock Attributable to Common Stockholders Basic net income per share of common stock attributable to common stockholders is calculated by dividing net income attributable to common stockholders by the weighted-average shares of common stock outstanding for the period.
+    - MyPower Customer Notes Receivable As of March 31, 2022 and December 31, 2021, the total outstanding balance of MyPower customer notes receivable, net of allowance for expected credit losses, was $ 293 million and $ 299 million, respectively, of which $ 10 million and $ 11 million were due in the next 12 months as of March 31, 2022 and December 31, 2021, respectively.
+    - Operating lease vehicles on the consolidated balance sheets are presented net of accumulated depreciation of $ 877 million and $ 773 million as of March 31, 2022 and December 31, 2021 , respectively.
+    - Such gains are presented net of impairment losses in Restructuring and other in the consolidated statements of operations.
+    - Accordingly, our interest rate swaps were recorded at fair value on the consolidated balance sheets within Other non-current assets or Other long-term liabilities, with any changes in their fair values recognized as Other income, net, in the consolidated statements of operations and with any cash flows recognized as operating activities in the consolidated statements of cash flows.
+    - We write-down inventory for any excess or obsolete inventories or when we believe that the net realizable value of inventories is less than the carrying value.
+    - This results in us recording the cost of their production equipment within Property, plant and equipment, net, on the consolidated balance sheets with a corresponding liability recorded to debt and finance leases.
+    - The differences between the unpaid principal balances and the net carrying values are due to debt discounts or deferred financing costs.
+    - Adjusted EBITDA is defined as net income (loss) attributable to common stockholders before interest expense, provision (benefit) for income taxes, depreciation and amortization and stock-based compensation.
+    - The aggregate carrying values of the VIEs’ assets and liabilities, after elimination of any intercompany transactions and balances, in the consolidated balance sheets were as follows (in millions): March 31, December 31, 2022 2021 Assets Current assets Cash and cash equivalents $ 61 $ 79 Accounts receivable, net 32 22 Prepaid expenses and other current assets 172 152 Total current assets 265 253 Solar energy systems, net 3,965 4,108 Other non-current assets 341 265 Total assets $ 4,571 $ 4,626 Liabilities Current liabilities Accrued liabilities and other $ 63 $ 74 Deferred revenue 10 10 Current portion of debt and finance leases 1,153 1,031 Total current liabilities 1,226 1,115 Deferred revenue, net of current portion 144 153 Debt and finance leases, net of current portion 1,727 2,093 Other long-term liabilities 12 11 Total liabilities $ 3,109 $ 3,372 26
+    - Cash distributions of income and other receipts by a fund, net of agreed upon expenses, estimated expenses, tax benefits and detriments of income and loss and tax credits, are allocated to the fund investor and our subsidiary as specified in the agreements.
+  [Risk Factors]
+    - The benefit available under net metering has been or has been proposed to be reduced, altered or eliminated in several jurisdictions, and has also been contested and may continue to be contested before the Federal Energy Regulatory Commission.
+    - Likewise, in jurisdictions where net metering is currently available, our customers receive bill credits from utilities for energy that their solar energy systems generate and export to the grid in excess of the electric load they use.
+
+=== Q2 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - During the three and six months ended June 30, 2022, our net income attributable to common stockholders was $2.26 billion and $5.58 billion, respectively, representing favorable changes of $1.12 billion and $4.00 billion, respectively, over the same periods ended June 30, 2021.
+    - Net income attributable to noncontrolling interests and redeemable noncontrolling interests decreased by $90 million, or 145%, in the six months ended June 30, 2022 as compared to the six months ended June 30, 2021.
+    - This increase was primarily due to the increase in net income excluding non-cash expenses, gains and losses of $4.19 billion, offset by the overall increase in net operating assets and liabilities of $1.61 billion.
+    - Other income, net, changed favorably by $11 million in the six months ended June 30, 2022 as compared to the six months ended June 30, 2021.
+  [Financial Statements]
+    - Net Income: $2.26B | vs prior quarter: $3.32B (-31.9%) | vs prior year: $1.14B (+97.8%)
+    - 5 real filing table(s) available (see the HTML report).
+    - Tesla, Inc. C onsolidated Balance Sheets (in millions, except per share data) (unaudited) June 30, December 31, 2022 2021 Assets Current assets Cash and cash equivalents $ 18,324 $ 17,576 Short-term marketable securities 591 131 Accounts receivable, net 2,081 1,913 Inventory 8,108 5,757 Prepaid expenses and other current assets 2,118 1,723 Total current assets 31,222 27,100 Operating lease vehicles, net 4,782 4,511 Solar energy systems, net 5,624 5,765 Property, plant and equipment, net 21,093 18,884 Operating lease right-of-use assets 2,185 2,016 Digital assets, net 218 1,260 Intangible assets, net 241 257 Goodwill 196 200 Other non-current assets 2,952 2,138 Total assets $ 68,513 $ 62,131 Liabilities Current liabilities Accounts payable $ 11,212 $ 10,025 Accrued liabilities and other 6,037 5,719 Deferred revenue 1,858 1,447 Customer deposits 1,182 925 Current portion of debt and finance leases 1,532 1,589 Total current liabilities 21,821 19,705 Debt and finance leases, net of current portion 2,898 5,245 Deferred revenue, net of current portion 2,210 2,052 Other long-term liabilities 3,926 3,546 Total liabilities 30,855 30,548 Commitments and contingencies (Note 12) Redeemable noncontrolling interests in subsidiaries 421 568 Equity Stockholders’ equity Preferred stock; $ 0.001 par value; 100 shares authorized; no shares issued and outstanding — — Common stock; $ 0.001 par value; 2,000 shares authorized; 1,041 and 1,033 shares issued and outstanding as of June 30, 2022 and December 31, 2021, respectively 1 1 Additional paid-in capital 30,944 29,803 Accumulated other comprehensive (loss) income ( 477 ) 54 Retained earnings 5,908 331 Total stockholders’ equity 36,376 30,189 Noncontrolling interests in subsidiaries 861 826 Total liabilities and equity $ 68,513 $ 62,131 The accompanying notes are an integral part of these consolidated financial statements.
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+    - 12 Net Income per Share of Common Stock Attributable to Common Stockholders Basic net income per share of common stock attributable to common stockholders is calculated by dividing net income attributable to common stockholders by the weighted-average shares of common stock outstanding for the period.
+    - We have recorded net financing receivables of $ 320 million which are presented on the consolidated balance sheets as a component of Accounts receivable, net, for the current portion and as Other non-current assets for the long-term portion, as of June 30, 2022.
+    - We have recorded net financing receivables of $ 238 million which are presented on the consolidated balance sheets as a component of Accounts receivable, net, for the current portion and as Other non-current assets for the long-term portion, as of June 30, 2022.
+    - MyPower Customer Notes Receivable As of June 30, 2022 and December 31, 2021 , the total outstanding balance of MyPower customer notes receivable, net of allowance for expected credit losses, was $ 287 million and $ 299 million, respectively, of which $ 8 million and $ 11 million were due in the next 12 months as of June 30, 2022 and December 31, 2021, respectively.
+    - The gains are presented net of impairment losses in Restructuring and other in the consolidated statements of operations.
+    - Accordingly, our interest rate swaps were recorded at fair value on the consolidated balance sheets within Other non-current assets or Other long-term liabilities, with any changes in their fair values recognized as Other income, net, in the consolidated statements of operations and with any cash flows recognized as operating activities in the consolidated statements of cash flows.
+    - We write-down inventory for any excess or obsolete inventories or when we believe that the net realizable value of inventories is less than the carrying value.
+    - This results in us recording the cost of their production equipment within Property, plant and equipment, net, on the consolidated balance sheets with a corresponding liability recorded to debt and finance leases.
+    - The differences between the unpaid principal balances and the net carrying values are due to debt discounts or deferred financing costs.
+    - For the three and six months ended June 30, 2022, we recorded $ 34 million and $ 103 million, respectively, of stock-based compensation expense related to this grant, net of forfeitures.
+    - Adjusted EBITDA is defined as net income (loss) attributable to common stockholders before interest expense, provision (benefit) for income taxes, depreciation and amortization and stock-based compensation.
+    - 27 The aggregate carrying values of the VIEs’ assets and liabilities, after elimination of any intercompany transactions and balances, in the consolidated balance sheets were as follows (in millions): June 30, December 31, 2022 2021 Assets Current assets Cash and cash equivalents $ 65 $ 79 Accounts receivable, net 45 22 Prepaid expenses and other current assets 301 152 Total current assets 411 253 Solar energy systems, net 3,924 4,108 Other non-current assets 388 265 Total assets $ 4,723 $ 4,626 Liabilities Current liabilities Accrued liabilities and other $ 66 $ 74 Deferred revenue 10 10 Current portion of debt and finance leases 1,045 1,031 Total current liabilities 1,121 1,115 Deferred revenue, net of current portion 143 153 Debt and finance leases, net of current portion 1,592 2,093 Other long-term liabilities 11 11 Total liabilities $ 2,867 $ 3,372
+    - Cash distributions of income and other receipts by a fund, net of agreed upon expenses, estimated expenses, tax benefits and detriments of income and loss and tax credits, are allocated to the fund investor and our subsidiary as specified in the agreements.
+  [Risk Factors]
+    - The benefit available under net 54 metering has been or has been proposed to be reduced, altered or eliminated in several jurisdictions, and has also been contested and may continue to be contested before the Federal Energy Regulatory Commission.
+    - Likewise, in jurisdictions where net metering is currently available, our customers receive bill credits from utilities for energy that their solar energy systems generate and export to the grid in excess of the electric load they use.
+
+=== Q3 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - During the three and nine months ended September 30, 2022, our net income attributable to common stockholders was $3.29 billion and $8.87 billion, respectively, representing favorable changes of $1.67 billion and $5.67 billion, respectively, over the same periods ended September 30, 2021.
+    - Net income attributable to noncontrolling interests and redeemable noncontrolling interests decreased by $92 million, or 89%, in the nine months ended September 30, 2022 as compared to the nine months ended September 30, 2021.
+    - This increase was primarily due to the increase in net income excluding non-cash expenses, gains and losses of $5.91 billion, offset by the overall increase in net operating assets and liabilities of $1.38 billion.
+    - Other (expense) income, net, changed unfavorably by $68 million in the nine months ended September 30, 2022 as compared to the nine months ended September 30, 2021.
+  [Financial Statements]
+    - Net Income: $3.29B | vs prior quarter: $2.26B (+45.7%) | vs prior year: $1.62B (+103.5%)
+    - 6 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+    - Tesla, Inc. C onsolidated Balance Sheets (in millions, except per share data) (unaudited) September 30, December 31, 2022 2021 Assets Current assets Cash and cash equivalents $ 19,532 $ 17,576 Short-term marketable securities 1,575 131 Accounts receivable, net 2,192 1,913 Inventory 10,327 5,757 Prepaid expenses and other current assets 2,364 1,723 Total current assets 35,990 27,100 Operating lease vehicles, net 4,824 4,511 Solar energy systems, net 5,562 5,765 Property, plant and equipment, net 21,926 18,884 Operating lease right-of-use assets 2,251 2,016 Digital assets, net 218 1,260 Intangible assets, net 228 257 Goodwill 191 200 Other non-current assets 3,236 2,138 Total assets $ 74,426 $ 62,131 Liabilities Current liabilities Accounts payable $ 13,897 $ 10,025 Accrued liabilities and other 6,246 5,719 Deferred revenue 1,928 1,447 Customer deposits 1,083 925 Current portion of debt and finance leases 1,457 1,589 Total current liabilities 24,611 19,705 Debt and finance leases, net of current portion 2,096 5,245 Deferred revenue, net of current portion 2,265 2,052 Other long-term liabilities 4,330 3,546 Total liabilities 33,302 30,548 Commitments and contingencies (Note 12) Redeemable noncontrolling interests in subsidiaries 421 568 Equity Stockholders’ equity Preferred stock; $ 0.001 par value; 100 shares authorized; no shares issued and outstanding — — Common stock; $ 0.001 par value; 6,000 shares authorized; 3,158 and 3,100 shares issued and outstanding as of September 30, 2022 and December 31, 2021, respectively (1) 3 3 Additional paid-in capital 31,592 29,803 Accumulated other comprehensive (loss) income ( 942 ) 54 Retained earnings (1) 9,198 329 Total stockholders’ equity 39,851 30,189 Noncontrolling interests in subsidiaries 852 826 Total liabilities and equity $ 74,426 $ 62,131 (1) Prior period results have been adjusted to reflect the three -for-one stock split effected in the form of a stock dividend in August 2022 .
+    - We have recorded net financing receivables on the consolidated balance sheets, of which $ 76 million is recorded within Accounts receivable, net, for the current portion and $ 398 million is recorded within Other non-current assets for the long-term portion, as of September 30, 2022.
+    - We have recorded net financing receivables on the consolidated balance sheets, of which $ 18 million is recorded within Accounts receivable, net, for the current portion and $ 307 million is recorded within Other non-current assets for the long-term portion, as of September 30, 2022.
+    - MyPower Customer Notes Receivable As of September 30, 2022 and December 31, 2021, the total outstanding balance of MyPower customer notes receivable, net of allowance for expected credit losses, was $ 280 million and $ 299 million, respectively, of which $ 6 million and $ 11 million were due in the next 12 months as of September 30, 2022 and December 31, 2021, respectively.
+    - Operating lease vehicles on the consolidated balance sheets are presented net of accumulated depreciation of $ 1.00 billion and $ 773 million as of September 30, 2022 and December 31, 2021 , respectively.
+    - The gains are presented net of impairment losses in Restructuring and other in the consolidated statements of operations.
+    - Accordingly, our interest rate swaps were recorded at fair value on the consolidated balance sheets within Other non-current assets or Other long-term liabilities, with any changes in their fair values recognized as Other (expense) income, net, in the consolidated statements of operations and with any cash flows recognized as operating activities in the consolidated statements of cash flows.
+    - We write-down inventory for any excess or obsolete inventories or when we believe that the net realizable value of inventories is less than the carrying value.
+    - This results in us recording the cost of their production equipment within Property, plant and equipment, net, on the consolidated balance sheets with a corresponding liability recorded to debt and finance leases.
+    - The differences between the unpaid principal balances and the net carrying values are due to debt discounts or deferred financing costs.
+    - For the three and nine months ended September 30, 2022, we recorded $ 31 million and $ 134 million, respectively, of stock-based compensation expense related to this grant, net of forfeitures.
+    - Adjusted EBITDA is defined as net income (loss) attributable to common stockholders before interest expense, provision (benefit) for income taxes, depreciation and amortization and stock-based compensation.
+    - 27 The aggregate carrying values of the VIEs’ assets and liabilities, after elimination of any intercompany transactions and balances, in the consolidated balance sheets were as follows (in millions): September 30, December 31, 2022 2021 Assets Current assets Cash and cash equivalents $ 69 $ 79 Accounts receivable, net 38 22 Prepaid expenses and other current assets 409 152 Total current assets 516 253 Solar energy systems, net 3,882 4,108 Other non-current assets 401 265 Total assets $ 4,799 $ 4,626 Liabilities Current liabilities Accrued liabilities and other $ 73 $ 74 Deferred revenue 9 10 Current portion of debt and finance leases 976 1,031 Total current liabilities 1,058 1,115 Deferred revenue, net of current portion 142 153 Debt and finance leases, net of current portion 1,341 2,093 Other long-term liabilities 8 11 Total liabilities $ 2,549 $ 3,372
+    - Cash distributions of income and other receipts by a fund, net of agreed upon expenses, estimated expenses, tax benefits and detriments of income and loss and tax credits, are allocated to the fund investor and our subsidiary as specified in the agreements.
+  [Risk Factors]
+    - The benefit available under net metering has been or has been proposed to be reduced, altered or eliminated in several jurisdictions, and has also been contested and may continue to be contested before the Federal Energy Regulatory Commission.
+    - Likewise, in jurisdictions where net metering is currently available, our customers receive bill credits from utilities for energy that their solar energy systems generate and export to the grid in excess of the electric load they use.
+
+=== Q4 2022 ===
+Management said:
+  - While doing so, we generated $12.5 billion in net income and $7.5 billion in free cash flow.
+Guidance given:
+Actual reported:
+  - [None] While doing so, we generated $12.5 billion in net income and $7.5 billion in free cash flow.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - In 2022, our net income attributable to common stockholders was $12.56 billion, representing a favorable change of $7.04 billion, compared to the prior year.
+    - This increase was primarily due to the increase in net income excluding non-cash expenses, gains and losses of $7.65 billion, offset by the overall increase in net operating assets and liabilities of $4.43 billion.
+    - As of December 31, 2022, we had recorded a full valuation allowance on our net U.S. deferred tax assets because we expect that it is more likely than not that our U.S. deferred tax assets will not be realized.
+    - Other (expense) income, net, changed unfavorably by $178 million in the year ended December 31, 2022 as compared to the year ended December 31, 2021.
+  [Financial Statements]
+    - Net Income: $12.56B | vs prior quarter: — | vs prior year: $5.52B (+127.5%)
+    - 2 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+    - 47 Tesla, Inc. Consolidated Balance Sheets (in millions, except per share data) December 31, December 31, 2022 2021 Assets Current assets Cash and cash equivalents $ 16,253 $ 17,576 Short-term investments 5,932 131 Accounts receivable, net 2,952 1,913 Inventory 12,839 5,757 Prepaid expenses and other current assets 2,941 1,723 Total current assets 40,917 27,100 Operating lease vehicles, net 5,035 4,511 Solar energy systems, net 5,489 5,765 Property, plant and equipment, net 23,548 18,884 Operating lease right-of-use assets 2,563 2,016 Digital assets, net 184 1,260 Intangible assets, net 215 257 Goodwill 194 200 Other non-current assets 4,193 2,138 Total assets $ 82,338 $ 62,131 Liabilities Current liabilities Accounts payable $ 15,255 $ 10,025 Accrued liabilities and other 7,142 5,719 Deferred revenue 1,747 1,447 Customer deposits 1,063 925 Current portion of debt and finance leases 1,502 1,589 Total current liabilities 26,709 19,705 Debt and finance leases, net of current portion 1,597 5,245 Deferred revenue, net of current portion 2,804 2,052 Other long-term liabilities 5,330 3,546 Total liabilities 36,440 30,548 Commitments and contingencies (Note 15) Redeemable noncontrolling interests in subsidiaries 409 568 Equity Stockholders’ equity Preferred stock; $ 0.001 par value; 100 shares authorized; no shares issued and outstanding — — Common stock; $ 0.001 par value; 6,000 shares authorized; 3,164 and 3,100 shares issued and outstanding as of December 31, 2022 and December 31, 2021, respectively (1) 3 3 Additional paid-in capital 32,177 29,803 Accumulated other comprehensive (loss) income ( 361 ) 54 Retained earnings (1) 12,885 329 Total stockholders’ equity 44,704 30,189 Noncontrolling interests in subsidiaries 785 826 Total liabilities and equity $ 82,338 $ 62,131 (1) Prior period results have been adjusted to reflect the three -for-one stock split effected in the form of a stock dividend in August 2022 .
+    - We have recorded net financing receivables on the consolidated balance sheets, of which $ 128 million is recorded within Accounts receivable, net, for the current portion and $ 665 million is recorded within Other non-current assets for the long-term portion, as of December 31, 2022.
+    - We have recorded net financing receivables on the consolidated balance sheets, of which $ 24 million is recorded within Accounts receivable, net, for the current portion and $ 387 million is recorded within Other non-current assets for the long-term portion, as of December 31, 2022.
+    - For the years ended December 31, 2022, 2021 and 2020, we recorded a net foreign currency transaction loss of $ 89 million, gain of $ 97 million and loss of $ 114 million, respectively.
+    - For certain funds, there may be significant fluctuations in net income attributable to noncontrolling interests and redeemable noncontrolling interests in subsidiaries due to changes in the liquidation provisions as time-based milestones are reached.
+    - As of December 31, 2022 and 2021, the total outstanding balance of MyPower customer notes receivable, net of allowance for expected credit losses, was $ 280 million and $ 299 million, respectively, of which $ 7 million and $ 11 million were due in the next 12 months as of December 31, 2022 and 2021, respectively.
+    - The gains are presented net of impairment losses in Restructuring and other in the consolidated statements of operations.
+    - The net carrying value of our intangible assets decreased from $ 257 million as of December 31, 2021 to $ 215 million as of December 31, 2022 mainly from amortization.
+    - We write-down inventory for any excess or obsolete inventories or when we believe that the net realizable value of inventories is less than the carrying value.
+    - This results in us recording the cost of their production equipment within Property, plant and equipment, net, on the consolidated balance sheets with a corresponding liability recorded to debt and finance leases.
+    - The net proceeds from the issuance, after deducting transaction costs, were $ 1.82 billion.
+    - As of December 31, 2022, solar assets pledged as collateral for Solar Asset and Loan-backed Notes had a carrying value of $ 69 million and are included within Solar energy systems, net, on the consolidated balance sheet.
+    - The net cost incurred in connection with the convertible note hedge and warrant transactions was recorded as a reduction to additional paid-in capital on the consolidated balance sheet.
+    - The differences between the unpaid principal balances and the net carrying values are due to debt discounts or deferred financing costs.
+    - Net Investment in Sales-type Leases Net investment in sales-type leases, which is the sum of the present value of the future contractual lease payments, is presented on the consolidated balance sheets as a component of Prepaid expenses and other current assets for the current portion and as Other non-current assets for the long-term portion.
+    - For the year ended December 31, 2022, we recorded $ 159 million of stock-based compensation expense related to this grant, net of forfeitures.
+    - Adjusted EBITDA is defined as net income (loss) attributable to common stockholders before interest expense, provision (benefit) for income taxes, depreciation and amortization and stock-based compensation.
+    - The decrease in the year ended December 31, 2022 included utilization of $ 13.57 billion net operating loss carry forwards to offset our 2022 U.S. taxable income.
+    - The valuation allowance on our net deferred taxes decreased by $ 1.73 billion in the year ended December 31, 2022, and increased by $ 6.14 billion and $ 974 million during the years ended December 31, 2021 and 2020 , respectively.
+    - Federal and state laws can impose substantial restrictions on the utilization of net operating loss and tax credit carry-forwards in the event of an “ownership change,” as defined in Section 382 of the Internal Revenue Code.
+    - All net operating losses and tax credits generated to date are subject to adjustment for U.S. federal and state income tax purposes.
+    - The aggregate carrying values of the VIEs’ assets and liabilities, after elimination of any intercompany transactions and balances, in the consolidated balance sheets were as follows (in millions): December 31, December 31, 2022 2021 Assets Current assets Cash and cash equivalents $ 68 $ 87 Accounts receivable, net 22 24 Prepaid expenses and other current assets 274 152 Total current assets 364 263 Solar energy systems, net 4,060 4,515 Other non-current assets 404 276 Total assets $ 4,828 $ 5,054 Liabilities Current liabilities Accrued liabilities and other $ 69 $ 74 Deferred revenue 10 11 Current portion of debt and finance leases 1,013 1,031 Total current liabilities 1,092 1,116 Deferred revenue, net of current portion 149 161 Debt and finance leases, net of current portion 971 2,093 Other long-term liabilities 3 11 Total liabilities $ 2,215 $ 3,381
+    - Cash distributions of income and other receipts by a fund, net of agreed upon expenses, estimated expenses, tax benefits and detriments of income and loss and tax credits, are allocated to the fund investor and our subsidiary as specified in the agreements.
+  [Risk Factors]
+    - The benefit available under net metering has been or has been proposed to be reduced, altered or eliminated in several jurisdictions, and has also been contested and may continue to be contested before the Federal Energy Regulatory Commission.
+    - Likewise, in jurisdictions where net metering is currently available, our customers receive bill credits from utilities for energy that their solar energy systems generate and export to the grid in excess of the electric load they use.
+
+=== Q1 2023 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - During the three months ended March 31, 2023, our net income attributable to common stockholders was $2.51 billion, representing an unfavorable change of $805 million, compared to the prior year.
+    - This decrease was primarily due to the overall increase in net operating assets and liabilities of $928 million and the decrease in net income excluding non-cash expenses, gains and losses of $554 million.
+    - Summary of Cash Flows Three Months Ended March 31, (Dollars in millions) 2023 2022 Net cash provided by operating activities $ 2,513 $ 3,995 Net cash used in investing activities $ (2,484 ) $ (2,167 ) Net cash used in financing activities $ (233 ) $ (1,914 ) Cash Flows from Operating Activities Net cash provided by operating activities decreased by $1.48 billion to $2.51 billion during the three months ended March 31, 2023 from $4.00 billion during the three months ended March 31, 2022.
+    - Cash Flows from Financing Activities Net cash used in financing activities decreased by $1.68 billion to $233 million during the three months ended March 31, 2023 from $1.91 billion during the three months ended March 31, 2022.
+    - We also purchased $411 million and $386 million of investments, net of proceeds from maturities, for the three months ended March 31, 2023 and March 31, 2022, respectively.
+  [Financial Statements]
+    - Net Income: $2.51B | vs prior quarter: — | vs prior year: $3.32B (-24.3%)
+    - 2 real filing table(s) available (see the HTML report).
+    - 5 Tesla, Inc. Consolidated Statements of Comprehensive Income (in millions) (unaudited) Three Months Ended March 31, 2023 2022 Net income $ 2,539 $ 3,280 Other comprehensive income (loss): Foreign currency translation adjustment 130 ( 96 ) Unrealized net gain (loss) on investments 6 ( 8 ) Comprehensive income 2,675 3,176 Less: Comprehensive income (loss) attributable to noncontrolling interests and redeemable noncontrolling interests in subsidiaries 26 ( 38 ) Comprehensive income attributable to common stockholders $ 2,649 $ 3,214 The accompanying notes are an integral part of these consolidated financial statements.
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+    - As of March 31, 2023 and December 31, 2022 , we have recorded net financing receivables on the consolidated balance sheets, of which $ 29 million and $ 24 million, respectively, is recorded within Accounts receivable, net, for the current portion and $ 448 million and $ 387 million, respectively, is recorded within Other non-current assets for the long-term portion.
+    - As of March 31, 2023 and December 31, 2022 , we have recorded net financing receivables on the consolidated balance sheets, of which $ 191 million and $ 128 million, respectively, is recorded within Accounts receivable, net, for the current portion and $ 966 million and $ 665 million, respectively, is recorded within Other non-current assets for the long-term portion.
+    - As of March 31, 2023 and December 31, 2022 , the total outstanding balance of MyPower customer notes receivable, net of allowance for expected credit losses, was $ 276 million and $ 280 million, respectively, of which $ 6 million and $ 7 million were due in the next 12 months as of March 31, 2023 and December 31, 2022, respectively.
+    - Operating lease vehicles on the consolidated balance sheets are presented net of accumulated depreciation of $ 1.09 billion and $ 1.04 billion as of March 31, 2023 and December 31, 2022 , respectively.
+    - We write-down inventory for any excess or obsolete inventories or when we believe that the net realizable value of inventories is less than the carrying value.
+    - The differences between the unpaid principal balances and the net carrying values are due to debt discounts or deferred financing costs.
+    - For the three months ended March 31, 2023 and 2022, we recorded $ 25 million and $ 69 million, respectively, of stock-based compensation expense related to this grant, net of forfeitures.
+    - The aggregate carrying values of the variable interest entities’ assets and liabilities, after elimination of any intercompany transactions and balances, in the consolidated balance sheets were as follows (in millions): March 31, December 31, 2023 2022 Assets Current assets Cash and cash equivalents $ 58 $ 68 Accounts receivable, net 29 22 Prepaid expenses and other current assets 265 274 Total current assets 352 364 Solar energy systems, net 4,014 4,060 Other non-current assets 390 404 Total assets $ 4,756 $ 4,828 Liabilities Current liabilities Accrued liabilities and other $ 59 $ 69 Deferred revenue 9 10 Current portion of debt and finance leases 931 1,013 Total current liabilities 999 1,092 Deferred revenue, net of current portion 148 149 Debt and finance leases, net of current portion 761 971 Other long-term liabilities 3 3 Total liabilities $ 1,911 $ 2,215
+
+=== Q2 2023 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - During the three and six months ended June 30, 2023, our net income attributable to common stockholders was $2.70 billion and $5.22 billion, respectively, representing a favorable change of $444 million and an unfavorable change of $361 million, respectively, over the same periods ended June 30, 2022.
+    - This decrease was primarily due to unfavorable changes in net operating assets and liabilities of $683 million and the decrease in net income excluding non-cash expenses, gains and losses of $85 million.
+    - Other income, net, changed favorably by $196 million in the six months ended June 30, 2023 as compared to the six months ended June 30, 2022.
+    - 31 Summary of Cash Flows Six Months Ended June 30, (Dollars in millions) 2023 2022 Net cash provided by operating activities $ 5,578 $ 6,346 Net cash used in investing activities $ (6,018 ) $ (3,051 ) Net cash used in financing activities $ (561 ) $ (2,320 ) Cash Flows from Operating Activities Net cash provided by operating activities decreased by $768 million to $5.58 billion during the six months ended June 30, 2023 from $6.35 billion during the six months ended June 30, 2022.
+    - Cash Flows from Financing Activities Net cash used in financing activities decreased by $1.76 billion to $561 million during the six months ended June 30, 2023 from $2.32 billion during the six months ended June 30, 2022.
+  [Financial Statements]
+    - Net Income: $2.70B | vs prior quarter: $2.51B (+7.6%) | vs prior year: $2.26B (+19.7%)
+    - 2 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+    - As of June 30, 2023 and December 31, 2022 , we have recorded net financing receivables on the consolidated balance sheets, of which $ 28 million and $ 24 million, respectively, is recorded within Accounts receivable, net, for the current portion and $ 504 million and $ 387 million, respectively, is recorded within Other non-current assets for the long-term portion.
+    - As of June 30, 2023 and December 31, 2022 , we have recorded net financing receivables on the consolidated balance sheets, of which $ 234 million and $ 128 million, respectively, is recorded within Accounts receivable, net, for the current portion and $ 1.15 billion and $ 665 million, respectively, is recorded within Other non-current assets for the long-term portion.
+    - As of June 30, 2023 and December 31, 2022 , the total outstanding balance of MyPower customer notes receivable, net of allowance for expected credit losses, was $ 272 million and $ 280 million, respectively, of which $ 7 million was due in the next 12 months as of June 30, 2023 and December 31, 2022.
+    - Operating lease vehicles on the consolidated balance sheets are presented net of accumulated depreciation of $ 1.19 billion and $ 1.04 billion as of June 30, 2023 and December 31, 2022 , respectively.
+    - We write-down inventory for any excess or obsolete inventories or when we believe that the net realizable value of inventories is less than the carrying value.
+    - The differences between the unpaid principal balances and the net carrying values are due to debt discounts or deferred financing costs.
+    - For the three and six months ended June 30, 2022, we recorded $ 34 million and $ 103 million, respectively, of stock-based compensation expense related to this grant, net of forfeitures.
+    - For the three and six months ended June 30, 2023, we recorded $ 20 million and $ 45 million, respectively, of stock-based compensation expense related to this grant, net of forfeitures.
+    - The aggregate carrying values of the variable interest entities’ assets and liabilities, after elimination of any intercompany transactions and balances, in the consolidated balance sheets were as follows (in millions): June 30, December 31, 2023 2022 Assets Current assets Cash and cash equivalents $ 74 $ 68 Accounts receivable, net 40 22 Prepaid expenses and other current assets 223 274 Total current assets 337 364 Solar energy systems, net 3,969 4,060 Other non-current assets 394 404 Total assets $ 4,700 $ 4,828 Liabilities Current liabilities Accrued liabilities and other $ 68 $ 69 Deferred revenue 9 10 Current portion of debt and finance leases 975 1,013 Total current liabilities 1,052 1,092 Deferred revenue, net of current portion 147 149 Debt and finance leases, net of current portion 485 971 Other long-term liabilities 2 3 Total liabilities $ 1,686 $ 2,215 22
+
+=== Q3 2023 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - During the three and nine months ended September 30, 2023, our net income attributable to common stockholders was $1.85 billion and $7.07 billion, respectively, representing unfavorable changes of $1.44 billion and $1.80 billion, respectively, over the same periods ended September 30, 2022.
+    - This decrease was primarily due to unfavorable changes in net operating assets and liabilities of $1.33 billion and the decrease in net income excluding non-cash expenses, gains and losses of $1.23 billion.
+    - Other income, net, changed favorably by $318 million in the nine months ended September 30, 2023 as compared to the nine months ended September 30, 2022.
+    - Summary of Cash Flows Nine Months Ended September 30, (Dollars in millions) 2023 2022 Net cash provided by operating activities $ 8,886 $ 11,446 Net cash used in investing activities $ (10,780) $ (5,842) Net cash provided by (used in) financing activities $ 1,702 $ (3,032) Cash Flows from Operating Activities Net cash provided by operating activities decreased by $2.56 billion to $8.89 billion during the nine months ended September 30, 2023 from $11.45 billion during the nine months ended September 30, 2022.
+    - Cash Flows from Financing Activities Net cash from financing activities changed by $4.73 billion to $1.70 billion net cash provided by financing activities during the nine months ended September 30, 2023 from $3.03 billion net cash used in financing activities during the nine months ended September 30, 2022.
+  [Financial Statements]
+    - Net Income: $1.85B | vs prior quarter: $2.70B (-31.4%) | vs prior year: $3.29B (-43.7%)
+    - 5 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+    - As of September 30, 2023 and December 31, 2022, we have recorded net financing receivables on the consolidated balance sheets, of which $ 29 million and $ 24 million, respectively, is recorded within Accounts receivable, net, for the current portion and $ 541 million and $ 387 million, respectively, is recorded within Other non-current assets for the long-term portion.
+    - As of September 30, 2023 and December 31, 2022, we have recorded net financing receivables on the consolidated balance sheets, of which $ 239 million and $ 128 million, respectively, is recorded within Accounts receivable, net, for the current portion and $ 1.11 billion and $ 665 million, respectively, is recorded within Other non-current assets for the long-term portion.
+    - 13 Table of Contents As of September 30, 2023 and December 31, 2022, the total outstanding balance of MyPower customer notes receivable, net of allowance for expected credit losses, was $ 268 million and $ 280 million, respectively, of which $ 6 million and $ 7 million were due in the next 12 months as of September 30, 2023 and December 31, 2022, respectively.
+    - Operating lease vehicles on the consolidated balance sheets are presented net of accumulated depreciation of $ 1.28 billion and $ 1.04 billion as of September 30, 2023 and December 31, 2022, respectively.
+    - We write-down inventory for any excess or obsolete inventories or when we believe that the net realizable value of inventories is less than the carrying value.
+    - The proceeds from the issuance, net of debt issuance costs, were $ 2.52 billion.
+    - The differences between the unpaid principal balances and the net carrying values are due to debt discounts or deferred issuance costs.
+    - For the three and nine months ended September 30, 2022, we recorded $ 31 million and $ 134 million, respectively, of stock-based compensation expense related to these grants, net of forfeitures.
+    - For the three and nine months ended September 30, 2023, we recorded $ 10 million and $ 56 million, respectively, of stock-based compensation expense related to these grants, net of forfeitures.
+    - The aggregate carrying values of the variable interest entities’ assets and liabilities, after elimination of any intercompany transactions and balances, in the consolidated balance sheets were as follows (in millions): September 30, 2023 December 31, 2022 Assets Current assets Cash and cash equivalents $ 78 $ 68 Accounts receivable, net 30 22 Prepaid expenses and other current assets 341 274 Total current assets 449 364 Solar energy systems, net 3,921 4,060 Other non-current assets 390 404 Total assets $ 4,760 $ 4,828 Liabilities Current liabilities Accrued liabilities and other $ 73 $ 69 Deferred revenue 10 10 Current portion of debt and finance leases 1,512 1,013 Total current liabilities 1,595 1,092 Deferred revenue, net of current portion 145 149 Debt and finance leases, net of current portion 2,134 971 Other long-term liabilities — 3 Total liabilities $ 3,874 $ 2,215
+
+=== Q4 2023 ===
+Management said:
+  - Our 2023 GAAP net income was impacted by the recognition of one-time non-cash benefit of $5.9 billion from the release of valuation allowance on certain deferred tax assets.
+Guidance given:
+Actual reported:
+  - [None] Our 2023 GAAP net income was impacted by the recognition of one-time non-cash benefit of $5.9 billion from the release of valuation allowance on certain deferred tax assets.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - In 2023, our net income attributable to common stockholders was $15.00 billion, representing a favorable change of $2.44 billion, compared to the prior year.
+    - This decrease was primarily due to the decrease in net income excluding non-cash expenses, gains and losses of $2.93 billion, partially offset by favorable changes in net operating assets and liabilities of $1.46 billion.
+    - Other income, net, changed favorably by $215 million in the year ended December 31, 2023 as compared to the year ended December 31, 2022.
+    - Net cash provided by operating activities decreased by $1.47 billion to $13.26 billion during the year ended December 31, 2023 from $14.72 billion during the year ended December 31, 2022.
+    - 43 Summary of Cash Flows Year Ended December 31, (Dollars in millions) 2023 2022 2021 Net cash provided by operating activities $ 13,256 $ 14,724 $ 11,497 Net cash used in investing activities $ (15,584) $ (11,973) $ (7,868) Net cash provided by (used in) financing activities $ 2,589 $ (3,527) $ (5,203) Cash Flows from Operating Activities Our cash flows from operating activities are significantly affected by our cash investments to support the growth of our business in areas such as research and development and selling, general and administrative and working capital.
+  [Financial Statements]
+    - Net Income: $15.00B | vs prior quarter: — | vs prior year: $12.56B (+19.4%)
+    - 4 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+    - As of December 31, 2023 and 2022, we have recorded net financing receivables on the consolidated balance sheets, of which $ 31 million and $ 24 million, respectively, is recorded within Accounts receivable, net, for the current portion and $ 578 million and $ 387 million, respectively, is recorded within Other non-current assets for the long-term portion.
+    - As of December 31, 2023 and 2022, we have recorded net financing receivables on the consolidated balance sheets, of which $ 242 million and $ 128 million, respectively, is recorded within Accounts receivable, net, for the current portion and $ 1.04 billion and $ 665 million, respectively, is recorded within Other non-current assets for the long-term portion.
+    - For the years ended December 31, 2023, 2022 and 2021, we recorded a net foreign currency transaction gain of $ 122 million, loss of $ 89 million and gain of $ 97 million, respectively.
+    - The removal of the remaining debt discounts recorded for this previous separation had the effect of increasing our net debt balance by $ 269 million and we reduced property, plant and equipment by $ 45 million related to previously capitalized interest.
+    - As of December 31, 2023 and 2022, the total outstanding balance of MyPower customer notes receivable, net of allowance for expected credit losses, was $ 266 million and $ 280 million, respectively, of which $ 5 million and $ 7 million were due in the next 12 months as of December 31, 2023 and 2022, respectively.
+    - The gains are presented net of impairment losses in Restructuring and other in the consolidated statements of operations.
+    - The net carrying value of our intangible assets decreased from $ 215 million as of December 31, 2022 to $ 178 million as of December 31, 2023 mainly from amortization.
+    - Goodwill increased $ 59 million within the automotive segment from $ 194 million as of December 31, 2022 to $ 253 million as of December 31, 2023 primarily from a business combination, net of the impact of a divestiture.
+    - We write-down inventory for any excess or obsolete inventories or when we believe that the net realizable value of inventories is less than the carrying value.
+    - This results in us recording the cost of their production equipment within Property, plant and equipment, net, on the consolidated balance sheets with a corresponding liability recorded to debt and finance leases.
+    - The proceeds from the issuance, net of debt issuance costs, were $ 3.92 billion.
+    - The differences between the unpaid principal balances and the net carrying values are due to debt discounts or deferred issuance costs.
+    - 79 Net Investment in Sales-type Leases Net investment in sales-type leases, which is the sum of the present value of the future contractual lease payments, is presented on the consolidated balance sheets as a component of Prepaid expenses and other current assets for the current portion and as Other non-current assets for the long-term portion.
+    - For the years ended December 31, 2023 and 2022, we recorded $ 57 million and $ 159 million, respectively, of stock-based compensation expense related to these grants, net of forfeitures.
+    - Adjusted EBITDA was defined as net income (loss) attributable to common stockholders before interest expense, provision (benefit) for income taxes, depreciation and amortization and stock-based compensation.
+    - We recognized net interest and penalties related to unrecognized tax benefits in provision for income taxes line of our consolidated statements of operations of $ 17 million, $ 27 million and $ 4 million for the years ended December 31, 2023, 2022 and 2021, respectively.
+    - As of December 31, 2023, we had $ 10.31 billion of federal and $ 10.36 billion of state net operating loss carry-forwards available to offset future taxable income, some of which, if not utilized, will begin to expire in 2024 for federal and state purposes.
+    - The valuation allowance on our net deferred tax assets decreased by $ 6.46 billion and $ 1.73 billion during the years ended December 31, 2023 and 2022, respectively, and increased by $ 6.14 billion during the year ended December 31, 2021.
+    - Federal and state laws can impose substantial restrictions on the utilization of net operating loss and tax credit carry-forwards in the event of an “ownership change,” as defined in Section 382 of the Internal Revenue Code.
+    - 90 The aggregate carrying values of the VIEs’ assets and liabilities, after elimination of any intercompany transactions and balances, in the consolidated balance sheets were as follows (in millions): December 31, 2023 December 31, 2022 Assets Current assets Cash and cash equivalents $ 66 $ 68 Accounts receivable, net 13 22 Prepaid expenses and other current assets 361 274 Total current assets 440 364 Solar energy systems, net 3,278 4,060 Other non-current assets 369 404 Total assets $ 4,087 $ 4,828 Liabilities Current liabilities Accrued liabilities and other $ 67 $ 69 Deferred revenue 6 10 Current portion of debt and finance leases 1,564 1,013 Total current liabilities 1,637 1,092 Deferred revenue, net of current portion 99 149 Debt and finance leases, net of current portion 2,041 971 Other long-term liabilities — 3 Total liabilities $ 3,777 $ 2,215
+    - Cash distributions of income and other receipts by a fund, net of agreed upon expenses, estimated expenses, tax benefits and detriments of income and loss and tax credits, are allocated to the fund investor and our subsidiary as specified in the agreements.
+  [Risk Factors]
+    - The benefit available under net metering has been or has been proposed to be reduced, altered or eliminated in several jurisdictions, and has also been contested and may continue to be contested before the Federal Energy Regulatory Commission.
+    - Likewise, in jurisdictions where net metering is currently available, our customers receive bill credits from utilities for energy that their solar energy systems generate and export to the grid in excess of the electric load they use.
+
