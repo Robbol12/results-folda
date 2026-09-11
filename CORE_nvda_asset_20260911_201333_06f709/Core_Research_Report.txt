@@ -1,0 +1,101 @@
+[CORE RESEARCH] NVDA: asset
+
+Quarters searched: 7
+Filing sections searched: 173
+
+Over the periods from Q2 2024 through Q4 2025, the topic of assets was primarily addressed through filing disclosures rather than management guidance. A notable event was the increase in goodwill by $59 million in fiscal year 2024 due to an immaterial acquisition allocated to the Compute & Networking reporting unit. Additionally, starting November 2024, a new FASB accounting standard required enhanced disclosures on expenses including depreciation and intangible asset amortization, which impacted the reporting of asset-related expenses. The filings also highlighted various economic and regulatory factors that could affect asset valuations and tax rates, but no forward guidance on asset figures was provided by management. Overall, asset-related commentary was limited to accounting disclosures and did not include forecasted figures or management predictions.
+
+Forecasting credibility: None
+There were zero guidance versus actual pairs found for the topic of assets, indicating that management does not provide forward-looking guidance on this topic. As a result, it is not possible to assess forecasting credibility for assets based on the available data. The assessment is strictly based on the absence of forecasted figures rather than any qualitative commentary.
+
+Trends:
+  - Goodwill increased due to acquisition in 2024
+  - Implementation of new FASB disclosure standards from late 2024
+  - Increased transparency in asset-related expense reporting
+  - Ongoing economic and regulatory uncertainties affecting asset valuations
+
+Recurring themes/risks:
+  - Accounting changes impacting asset disclosures
+  - Economic and geopolitical uncertainties
+  - Tax rate variability affecting deferred tax assets and liabilities
+
+Key concerns:
+  - No forward guidance on asset figures limits ability to evaluate management's forecasting accuracy for this topic
+  - New accounting standards introduced in November 2024 may affect comparability of asset-related expense disclosures across periods
+
+Conclusion:
+Management does not provide forward guidance on assets, as evidenced by the absence of any guidance-actual pairs throughout the periods reviewed. Asset-related information is primarily disclosed through filings, including a $59 million goodwill increase in fiscal 2024 and enhanced expense disclosures following new FASB standards. While these disclosures improve transparency, they do not enable an assessment of forecasting credibility. Economic and regulatory factors remain relevant risks to asset valuations, but without forecast data, no judgment on management's predictive accuracy can be made for this topic.
+
+Evidence Coverage: 97.9% complete; 229/234 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q2 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Current Assets: $28.80B | vs prior quarter: $24.88B (+15.7%) | vs prior year: $27.42B (+5.0%)
+
+=== Q3 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Current Assets: $32.66B | vs prior quarter: $28.80B (+13.4%) | vs prior year: $23.22B (+40.6%)
+
+=== Q4 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [None] [from 10-K/10-Q] Goodwill increased by $ 59 million in fiscal year 2024 from an immaterial acquisition and was allocated to our Compute & Networking reporting unit.
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Current Assets: $44.34B | vs prior quarter: — | vs prior year: $23.07B (+92.2%)
+  [Footnotes]
+    - 7 real filing table(s) available (see the HTML report).
+    - In November 2024, the FASB issued a new accounting standard requiring disclosures of certain additional expense information on an annual and interim basis, including, among other items, the amounts of purchases of inventory, 9 NVIDIA CORPORATION AND SUBSIDIARIES NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS (Continued) (Unaudited) employee compensation, depreciation and intangible asset amortization included within each income statement expense caption, as applicable.
+  [Risk Factors]
+    - Our future effective tax rate may also be affected by a variety of factors, including changes in our business or statutory rates, the mix of earnings in countries with differing statutory tax rates, available tax incentives, credits and deductions, the expiration of statutes of limitations, changes in accounting principles, adjustments to income taxes upon finalization of tax returns, increases in expenses not deductible for tax purposes, the estimates of our deferred tax assets and liabilities and deferred tax asset valuation allowances, changing interpretation of existing laws or regulations, the impact of accounting for business combinations, as well as changes in the domestic or international organization of our business and structure.
+    - Economic and industry uncertainty or changes, including recession or slowing growth, inflation, changes or uncertainty in fiscal, monetary or trade policy, disruptions to capital markets and the banking system, currency fluctuations, higher interest rates, tighter credit, lower capital expenditures by businesses, including on IT infrastructure, increases in unemployment, labor shortages, and lower consumer confidence and spending, global supply chain constraints and global economic and geopolitical developments have in the past and/or could in the future have adverse, wide-ranging effects on our business and financial results, including: • increased costs for wafers, components, logistics, and other supply chain expenses, which have negatively impacted our gross margin in the past and may do so in the future; • increased supply, employee, facilities and infrastructure costs and volatility in the financial markets, which have reduced and may in the future reduce our margins; • decrease in demand for our products, services and technologies and those of our customers, partners or licensees; • the inability of our suppliers to deliver on their supply commitments to us and our customers’ or our licensees’ inability to supply products to customers and/or end users; • limits on our ability to forecast operating results and make business decisions; • the insolvency of key suppliers, distributors, customers, cloud service providers, data center providers, licensing parties or other third parties we rely on; • reduced profitability of customers, which may cause them to scale back operations, exit businesses, file for bankruptcy protection and potentially cease operations, or lead to mergers, consolidations or strategic alliances among other companies, which could adversely affect our ability to compete effectively; and • increased credit and collectability risks, higher borrowing costs or reduced availability of capital markets, reduced liquidity, adverse impacts on our customers and suppliers, failures of counterparties, including financial institutions and insurers, asset impairments, and declines in the value of our financial instruments.
+
+=== Q2 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Current Assets: $59.63B | vs prior quarter: $53.73B (+11.0%) | vs prior year: $28.80B (+107.1%)
+    - 3 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+    - In November 2024, the FASB issued a new accounting standard requiring disclosures of certain additional expense information on an annual and interim basis, including, among other items, the amounts of purchases of inventory, employee compensation, depreciation and intangible asset amortization included within each income statement expense caption, as applicable.
+
+=== Q3 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Current Assets: $67.64B | vs prior quarter: $59.63B (+13.4%) | vs prior year: $32.66B (+107.1%)
+    - 3 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+    - In November 2024, the FASB issued a new accounting standard requiring disclosures of certain additional expense information on an annual and interim basis, including, among other items, the amounts of purchases of inventory, employee compensation, depreciation and intangible asset amortization included within each income statement expense caption, as applicable.
+
+=== Q4 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Current Assets: $80.13B | vs prior quarter: — | vs prior year: $44.34B (+80.7%)
+  [Footnotes]
+    - 7 real filing table(s) available (see the HTML report).
+    - In November 2024, the FASB issued a new accounting standard requiring disclosures of certain additional expense information on an annual and interim basis, including, among other items, the amounts of purchases of inventory, employee compensation, depreciation and intangible asset amortization included within each income statement expense caption, as applicable.
+  [Risk Factors]
+    - Our future effective tax rate may also be affected by a variety of factors, including changes in our business or statutory rates, the mix of earnings in countries with differing statutory tax rates, available tax incentives, credits and deductions, 31 Table of Contents the expiration of statutes of limitations, changes in accounting principles, adjustments to income taxes upon finalization of tax returns, increases in expenses not deductible for tax purposes, the estimates of our deferred tax assets and liabilities and deferred tax asset valuation allowances, changing interpretation of existing laws or regulations, the impact of accounting for business combinations, as well as changes in the domestic or international organization of our business and structure.
+    - Economic and industry uncertainty or changes, including recession or slowing growth, inflation, changes or uncertainty in fiscal, monetary, or trade policy, disruptions to capital markets and the banking system, currency fluctuations, higher interest rates, tighter credit, lower capital expenditures by businesses, including on IT infrastructure, increases in unemployment, labor shortages, and lower consumer confidence and spending, global supply chain constraints, and global economic and geopolitical developments, including the implementation of tariffs by the USG or other governments, have in the past and/or could in the future have adverse, wide-ranging effects on our business and financial results, including: • increased costs for wafers, components, logistics, and other supply chain expenses, which have negatively impacted our gross margin in the past and may do so in the future; • increased supply, employee, facilities and infrastructure costs and volatility in the financial markets, which have reduced and may in the future reduce our margins; • decrease in demand for our products, services and technologies and those of our customers, partners or licensees; • the inability of our suppliers to deliver on their supply commitments to us and our customers’ or our licensees’ inability to supply products to customers and/or end users; • limits on our ability to forecast operating results and make business decisions; 19 Table of Contents • the insolvency of key suppliers, distributors, customers, CSPs, data center providers, licensing parties or other third parties we rely on; • reduced profitability of customers, which may cause them to scale back operations, exit businesses, file for bankruptcy protection and potentially cease operations, or lead to mergers, consolidations or strategic alliances among other companies, which could adversely affect our ability to compete effectively; and • increased credit and collectability risks, higher borrowing costs or reduced availability of capital markets, reduced liquidity, adverse impacts on our customers and suppliers, failures of counterparties, including financial institutions and insurers, asset impairments, and declines in the value of our financial instruments.
+
