@@ -1,0 +1,170 @@
+[CORE RESEARCH] NVDA: profit
+
+Quarters searched: 7
+Filing sections searched: 173
+
+Over the reported periods, management consistently provided forward guidance on total revenue but did not offer explicit profit or operating income guidance. Actual operating income figures, sourced from filings, show a generally increasing trend quarter over quarter, with significant year-over-year growth in several periods. Gross profit is consistently defined as total net revenue less cost of revenue, with no noted changes in accounting treatment. Despite detailed revenue guidance and actuals, profit figures were only reported as actuals without corresponding forecasts, limiting direct assessment of profit forecasting accuracy.
+
+Forecasting credibility: None
+No guidance-actual pairs for profit or operating income were provided in the evidence, preventing any evaluation of management's forecasting credibility on profit. All forward guidance pertained solely to total revenue, and actual profit figures were reported without prior forecasts. Therefore, it is not possible to rate forecasting credibility for profit based on the available data.
+
+Trends:
+  - Increasing operating income over time
+  - Consistent revenue growth guidance
+  - Stable gross profit definition
+  - No profit guidance given
+
+Recurring themes/risks:
+  - Revenue growth as primary forecast metric
+  - Profit reported only as actuals
+  - No direct profit forecasting
+
+Key concerns:
+  - Absence of profit or operating income guidance limits ability to assess forecasting accuracy for profit.
+  - Operating income figures are reported only as actuals, with no forward-looking statements to compare against.
+  - No accounting or reporting inconsistencies noted in profit or gross profit definitions.
+
+Conclusion:
+Management does not provide forward guidance on profit or operating income, focusing instead on revenue guidance. Actual profit figures show a positive growth trajectory, but without corresponding forecasts, it is impossible to judge management's ability to predict profit outcomes. The consistent definition of gross profit and stable reporting practices support reliability of the reported profit figures. However, the lack of profit guidance means investors must rely on revenue guidance and actual profit results without insight into management's profit expectations.
+
+Evidence Coverage: 96.3% complete; 309/321 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2024 ===
+Management said:
+Guidance given:
+  - Total revenue is expected to be 11 billion, plus or minus 2%.
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Gross Profit: $4.65B | vs prior quarter: — | vs prior year: $5.43B (-14.4%)
+    - Operating Income: $2.14B | vs prior quarter: — | vs prior year: $1.87B (+14.6%)
+    - Net Income: $2.04B | vs prior quarter: — | vs prior year: $1.62B (+26.3%)
+
+=== Q2 2024 ===
+Management said:
+Guidance given:
+  - For Q3, total revenue is expected to be 16 billion, plus or minus 2%.
+Actual reported:
+  - [Unresolved] [from 10-K/10-Q] Operating income 16,909 2,140
+  - [None] [from 10-K/10-Q] Operating Income by Reportable Segments Three Months Ended Apr 28, 2024 Apr 30, 2023 $ Change % Change ($ in millions) Compute & Networking $ 17,047 $ 2,160 $ 14,887 689 %
+  - [None] Revenue of 375 million was up 28% sequentially and down 24% year on year.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - Gross Profit and Gross Margin Gross profit consists of total net revenue less cost of revenue.
+  [Financial Statements]
+    - Gross Profit: $9.46B | vs prior quarter: $4.65B (+103.6%) | vs prior year: $2.92B (+224.6%)
+    - Operating Income: $6.80B | vs prior quarter: $2.14B (+217.8%) | vs prior year: $499.0M (+1262.7%)
+    - Net Income: $6.19B | vs prior quarter: $2.04B (+202.9%) | vs prior year: $656.0M (+843.3%)
+
+=== Q3 2024 ===
+Management said:
+Guidance given:
+  - Total revenue is expected to be $20 billion, plus or minus 2%.
+Actual reported:
+  - [Unresolved] [from 10-K/10-Q] Operating income 18,642 6,800
+  - [None] Revenue of $416 million was up 10% sequentially and up 108% year on year.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - Gross Profit and Gross Margin Gross profit consists of total net revenue less cost of revenue.
+  [Financial Statements]
+    - Gross Profit: $13.40B | vs prior quarter: $9.46B (+41.6%) | vs prior year: $3.18B (+321.8%)
+    - Operating Income: $10.42B | vs prior quarter: $6.80B (+53.2%) | vs prior year: $601.0M (+1633.3%)
+    - Net Income: $9.24B | vs prior quarter: $6.19B (+49.4%) | vs prior year: $680.0M (+1259.3%)
+
+=== Q4 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Unresolved] [from 10-K/10-Q] Operating income 21,869 10,417
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - Gross Profit and Gross Margin Gross profit consists of total net revenue less cost of revenue.
+    - Gross Profit and Gross Margin Gross profit consists of total revenue, net of allowances, less cost of revenue.
+    - Refer to the Gross Profit and Gross Margin discussion below in this Management's Discussion and Analysis for further discussion.
+    - The OECD has announced an Inclusive Framework on Base Erosion and Profit Shifting including Pillar Two Model Rules for a new 15% global minimum tax applicable to large multinational corporations.
+  [Financial Statements]
+    - Gross Profit: $44.30B | vs prior quarter: — | vs prior year: $15.36B (+188.5%)
+    - Operating Income: $32.97B | vs prior quarter: — | vs prior year: $4.22B (+680.6%)
+    - Net Income: $29.76B | vs prior quarter: — | vs prior year: $4.37B (+581.3%)
+  [Footnotes]
+    - 9 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - In addition, changes in the tax laws of foreign jurisdictions could arise as a result of global implementation of the Inclusive Framework on Base Erosion and Profit Shifting and Pillar Two Model Rules announced by The Organization for Economic Cooperation and Development, or OECD.
+
+=== Q1 2025 ===
+Management said:
+Guidance given:
+  - Total revenue is expected to be $28 billion, plus or minus 2%.
+Actual reported:
+  - [None] Revenue was $329 million, up 17% sequentially and up 11% year on year.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $20.41B | vs prior quarter: — | vs prior year: $4.65B (+339.0%)
+    - Operating Income: $16.91B | vs prior quarter: — | vs prior year: $2.14B (+690.1%)
+    - Net Income: $14.88B | vs prior quarter: — | vs prior year: $2.04B (+628.4%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 7 real filing table(s) available (see the HTML report).
+
+=== Q2 2025 ===
+Management said:
+Guidance given:
+  - Total revenue is expected to be $32.5 billion, plus or minus 2%.
+Actual reported:
+  - [Unresolved] [from 10-K/10-Q] Operating income 21,638 16,909
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - Gross Profit and Gross Margin Gross profit consists of total net revenue less cost of revenue.
+  [Financial Statements]
+    - Gross Profit: $22.57B | vs prior quarter: $20.41B (+10.6%) | vs prior year: $9.46B (+138.6%)
+    - Operating Income: $18.64B | vs prior quarter: $16.91B (+10.2%) | vs prior year: $6.80B (+174.1%)
+    - Net Income: $16.60B | vs prior quarter: $14.88B (+11.5%) | vs prior year: $6.19B (+168.2%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+
+=== Q3 2025 ===
+Management said:
+Guidance given:
+  - On Gaming, although sell-through was strong in Q3, we expect fourth-quarter revenue to decline sequentially due to supply constraints.
+Actual reported:
+  - [Unresolved] [from 10-K/10-Q] Operating income 28,440 18,642
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - Gross Profit and Gross Margin Gross profit consists of total net revenue less cost of revenue.
+  [Financial Statements]
+    - Gross Profit: $26.16B | vs prior quarter: $22.57B (+15.9%) | vs prior year: $13.40B (+95.2%)
+    - Operating Income: $21.87B | vs prior quarter: $18.64B (+17.3%) | vs prior year: $10.42B (+109.9%)
+    - Net Income: $19.31B | vs prior quarter: $16.60B (+16.3%) | vs prior year: $9.24B (+108.9%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+
+=== Q4 2025 ===
+Management said:
+Guidance given:
+  - Total revenue is expected to be $43 billion, plus or minus 2%.
+Actual reported:
+  - [Unresolved] [from 10-K/10-Q] Operating income 36,010 21,869
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - Gross Profit and Gross Margin Gross profit consists of total net revenue less cost of revenue.
+    - Gross Profit and Gross Margin Gross profit consists of total net revenue less cost of revenue.
+    - Refer to the Gross Profit and Gross Margin discussion below in this Management's Discussion and Analysis for further discussion.
+  [Financial Statements]
+    - Gross Profit: $97.86B | vs prior quarter: — | vs prior year: $44.30B (+120.9%)
+    - Operating Income: $81.45B | vs prior quarter: — | vs prior year: $32.97B (+147.0%)
+    - Net Income: $72.88B | vs prior quarter: — | vs prior year: $29.76B (+144.9%)
+  [Footnotes]
+    - 7 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - In addition, our tax obligations and effective tax rate in the jurisdictions in which we conduct business could increase as a result of international tax developments, including the implementation of the Two-Pillar framework led by the Organization for Economic Cooperation and Development, or OECD, which involves the reallocation of taxing rights in respect of certain multinational enterprises above a fixed profit margin to the jurisdictions in which they carry on business (referred to as Pillar One), and imposes a minimum effective corporate tax rate (referred to as Pillar Two).
+
