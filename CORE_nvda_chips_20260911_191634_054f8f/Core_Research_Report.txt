@@ -1,0 +1,99 @@
+[CORE RESEARCH] NVDA: chips
+
+Quarters searched: 7
+Filing sections searched: 173
+
+Over the periods from Q2 2024 through Q4 2025, the topic of chips for NVIDIA has been consistently framed around export restrictions impacting certain chip products, notably the A100 and H100 integrated circuits. These export controls have affected sales to China, Hong Kong, Macau, and Russia, with management highlighting the risk of disproportionate impact relative to competitors. There were also notable partnerships and deployments involving chips, such as the German and U.K. supercomputers using Grace Hopper chips and a partnership with MediaTek for automotive chip development. Additionally, geopolitical and legislative factors, including U.S. proposals and Chinese government scrutiny, have introduced risks to chip sales and customer confidence. However, no forward guidance on chip-related metrics was provided, and actual results were primarily descriptive or event-based rather than quantitative forecasts.
+
+Forecasting credibility: None
+No guidance versus actual pairs were provided for the topic of chips across all periods, preventing any assessment of management's forecasting credibility. Without explicit forward guidance and corresponding actual results, it is not possible to judge whether management's forecasts on chips are reliable or not. Therefore, the forecasting credibility rating must remain null.
+
+Trends:
+  - Consistent export restrictions impacting key chip products
+  - Increasing geopolitical and legislative risks affecting chip sales
+  - Strategic partnerships and deployments involving advanced chips
+  - Ongoing risk of competitive disadvantage due to export controls
+
+Recurring themes/risks:
+  - Export controls limiting chip sales to China and Russia
+  - Disproportionate impact of regulations on NVIDIA chips
+  - Customer hesitancy due to geopolitical tensions
+  - Legislative proposals influencing chip features and market perception
+
+Key concerns:
+  - Persistent export restrictions create ongoing uncertainty and potential revenue impact for key chip products.
+  - Chinese government questioning of chip vulnerabilities may harm customer demand and brand trust.
+  - No forward-looking quantitative guidance on chips limits transparency and forecasting assessment.
+
+Conclusion:
+The topic of chips for NVIDIA over the examined periods is dominated by the impact of export controls and geopolitical risks, particularly affecting the A100 and H100 integrated circuits. While management highlights strategic deployments and partnerships that showcase chip capabilities, the lack of forward guidance and quantitative forecasts on chips means there is no basis to evaluate forecasting accuracy or credibility. Export restrictions and legislative scrutiny remain key risks that could disadvantage NVIDIA relative to competitors. Overall, chips remain a critical but geopolitically sensitive product area with uncertain future visibility from a forecasting perspective.
+
+Evidence Coverage: 99.5% complete; 210/211 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q2 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [Risk Factors]
+    - These restrictions impact exports of certain chips, as well as software, hardware, equipment and technology used to develop, produce and manufacture certain chips to China (including Hong Kong and Macau) and Russia, and specifically impact our A100 and H100 integrated circuits, DGX or any other systems or boards which incorporate A100 or H100 integrated circuits.
+    - Any new control that impacts a wider range of our products would likely have a disproportionate impact on NVIDIA and may disadvantage us against certain of our competitors that sell chips that are outside the scope of such control.
+
+=== Q3 2024 ===
+Management said:
+  - German Supercomputing Center, Elec, also announced that it will build its next-generation AI supercomputer with close to 24,000 Grace Hopper super chips and Quantum 2 InfiniBand, making it the world's most powerful AI supercomputer with over 90 exaflops of AI performance.
+Guidance given:
+Actual reported:
+  - [None] German Supercomputing Center, Elec, also announced that it will build its next-generation AI supercomputer with close to 24,000 Grace Hopper super chips and Quantum 2 InfiniBand, making it the world's most powerful AI supercomputer with over 90 exaflops of AI performance.
+  - [None] The U.K. government announced it will build one of the world's fastest AI supercomputer called Isambard-AI with almost 5,500 Grace Hopper Super chips.
+Filing disclosures (10-K/10-Q):
+  [Risk Factors]
+    - These restrictions impact exports of certain chips, as well as software, hardware, equipment and technology used to develop, produce and manufacture certain chips to China (including Hong Kong and Macau) and Russia, and specifically impact our A100 and H100 integrated circuits, DGX or any other systems or boards which incorporate A100 or H100 integrated circuits.
+    - Any new control that impacts a wider range of our products would likely have a disproportionate impact on NVIDIA and may disadvantage us against certain of our competitors that sell chips that are outside the scope of such control.
+
+=== Q4 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - In Automotive, we announced a partnership with MediaTek, which will develop mainstream automotive systems on chips for global OEMs integrating a new NVIDIA GPU chiplet IP for AI and graphics.
+  [Risk Factors]
+    - These restrictions impact exports of certain chips, as well as software, hardware, equipment and technology used to develop, produce and manufacture certain chips to China (including Hong Kong and Macau) and Russia, and specifically impact our A100 and H100 integrated circuits, DGX or any other systems or boards which incorporate A100 or H100 integrated circuits.
+    - Any new control that impacts a wider range of our products would likely have a disproportionate impact on NVIDIA and may disadvantage us against certain of our competitors that sell chips that are outside the scope of such control.
+    - These restrictions impact exports of certain chips, as well as software, hardware, equipment and technology used to develop, produce and manufacture certain chips to China (including Hong Kong and Macau) and Russia, and specifically impact our A100 and H100 integrated circuits, DGX or any other systems or boards which incorporate A100 or H100 integrated circuits.
+    - Any new control that impacts a wider range of our products would likely have a disproportionate impact on NVIDIA and may disadvantage us against certain of our competitors that sell chips that are outside the scope of such control.
+
+=== Q2 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [Risk Factors]
+    - These restrictions impacted exports of certain chips, as well as software, hardware, equipment and technology used to develop, produce and manufacture certain chips to China (including Hong Kong and Macau) and Russia, and specifically impact our A100 and H100 integrated circuits, DGX or any other systems or boards which incorporate A100 or H100 integrated circuits.
+    - Any new control that impacts a wider range of our products would likely have a disproportionate impact on NVIDIA and may disadvantage us against certain of our competitors that sell chips that are outside the scope of such control.
+
+=== Q3 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [Risk Factors]
+    - These restrictions impacted exports of certain chips, as well as software, hardware, equipment and technology used to develop, produce and manufacture certain chips to China (including Hong Kong and Macau) and Russia, and specifically impact our A100 and H100 integrated circuits, DGX or any other systems or boards which incorporate A100 or H100 integrated circuits.
+    - For example, following U.S. legislative proposals calling for mandatory features in our chips, China’s government publicly questioned whether our H20 products have built-in vulnerabilities, discouraging customers from purchasing our products.
+    - Any new control that impacts a wider range of our products would likely have a disproportionate impact on NVIDIA and may disadvantage us against certain of our competitors that sell chips that are outside the scope of such control.
+
+=== Q4 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (10-K/10-Q):
+  [Risk Factors]
+    - These restrictions impacted exports of certain chips, as well as software, hardware, equipment and technology used to develop, produce and manufacture certain chips to China (including Hong Kong and Macau) and Russia, and specifically impact our A100 and H100 integrated circuits, DGX or any other systems or boards which incorporate A100 or H100 integrated circuits.
+    - For example, following U.S. legislative proposals calling for mandatory features in our chips, China’s government publicly questioned whether our H20 products have built-in vulnerabilities, discouraging customers from purchasing our products.
+    - Export controls have and are likely in the future to have a disproportionate impact on NVIDIA and may disadvantage us against certain of our competitors that sell chips that are outside the scope of such control.
+    - These restrictions impact exports of certain chips, as well as software, hardware, equipment and technology used to develop, produce and manufacture certain chips to China (including Hong Kong and Macau) and Russia, and specifically impact our A100 and H100 integrated circuits, DGX or any other systems or boards which incorporate A100 or H100 integrated circuits.
+    - Any new control that impacts a wider range of our products would likely have a disproportionate impact on NVIDIA and may disadvantage us against certain of our competitors that sell chips that are outside the scope of such control.
+
