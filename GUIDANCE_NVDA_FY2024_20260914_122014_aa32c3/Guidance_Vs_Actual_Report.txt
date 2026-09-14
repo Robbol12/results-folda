@@ -1,0 +1,508 @@
+[GUIDANCE VS ACTUAL] NVDA: company-wide anchor year 2024
+
+Coverage window: [2023, 2025]
+Coverage state: partial coverage for the loaded source corpus; target-period evidence is missing for some items
+Summary: {"guidance_count": 53, "resolved_pair_count": 6, "active_guidance_count": 11, "active_resolved_pair_count": 3, "out_of_cohort_count": 42, "closed_verdict_count": 21, "not_verifiable_count": 8, "coverage_incomplete_count": 0, "unresolved_count": 32, "verdict_counts": {"Missed": 4, "Not Verifiable After Exhaustive Search": 8, "Superseded": 9, "Unresolved": 32}, "category_counts": {"financial": 38, "product or milestone": 6, "operating": 8, "capacity or infrastructure": 1}, "coverage_state": "partial coverage for the loaded source corpus; target-period evidence is missing for some items"}
+
+--- Active cohort comparisons ---
+1. Superseded · Operating expenses · prior-year guidance resolved in anchor year
+   Guidance [NVDA_Q2_2023] Our full year non-GAAP opex is expected to grow over 30%.
+   Target: FY2024
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+2. Superseded · Revenue · prior-year guidance resolved in anchor year
+   Guidance [NVDA_Q2_2023] Total revenue of $6.7 billion was down 19% sequentially and up 3% year on year, below the $8.1 billion outlook we provided on our last earnings call.
+   Target: FY2024
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+3. Superseded · Operating expenses · prior-year guidance resolved in anchor year
+   Guidance [NVDA_Q4_2023] Full year GAAP operating expenses were up 50%, and non-GAAP operating expenses were up 31%.
+   Target: FY2024
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+4. Superseded · Revenue · prior-year guidance resolved in anchor year
+   Guidance [NVDA_Q4_2023] Full year revenue was $27 billion, flat from the prior year.
+   Target: FY2024
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+5. Superseded · Operating expenses · prior-year guidance resolved in anchor year
+   Guidance [NVDA_Q4_2023] GAAP operating expenses are expected to be approximately $2.53 billion.
+   Target: FY2024
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+6. Not Verifiable After Exhaustive Search · Operating expenses · prior-year guidance resolved in anchor year
+   Guidance [NVDA_Q4_2023] Non-GAAP operating expenses are expected to be approximately $1.78 billion.
+   Target: FY2024
+   Actual [FY2024] Operating Expenses Year Ended Jan 28, 2024 Jan 29, 2023 $ Change % Change ($ in millions) Research and development expenses $ 8,675 $ 7,339 $ 1,336 18 % % of net revenue 14.2 % 27.2 % Sales, general and administrative expenses 2,654 2,440 214 9 % % of net revenue 4.4 % 9.1 % Acquisition termination cost — 1,353 (1,353) (100) % % of net revenue — % 5.0 % Total operating expenses $ 11,329 $ 11,132 $ 197 2 % % of net revenue 18.6 % 41.3 % The increase in research and development expenses and sales, general and administrative expenses for fiscal year 2024 was primarily driven by compensation and benefits, including stock-based compensation, reflecting employee growth and compensation increases.
+   Explanation: A candidate actual was found, but deterministic comparability checks rejected it: The guidance used approximate language without a defensible tolerance.
+
+7. Missed · Revenue · prior-year guidance resolved in anchor year
+   Guidance [NVDA_Q4_2023] Revenue is expected to be $6.5 billion, plus or minus 2%.
+   Target: FY2024
+   Actual [FY2024] SEC XBRL Revenue for FY2024: 60922000000 USD
+   Explanation: The actual is outside the stated range.
+
+8. Not Verifiable After Exhaustive Search · Capacity · anchor-year guidance resolved in following year
+   Guidance [NVDA_Q3_2024] All in, we estimate that the combined AI compute capacity of all the supercomputers built on Grace Hopper across the U.S., Europe, and Japan next year will exceed 200 exaflops with more wins to come.
+   Target: FY2025
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+9. Superseded · Revenue growth · anchor-year guidance resolved in following year
+   Guidance [NVDA_Q3_2024] Revenue of $18.1 million was up 34% sequentially and up more than 200% year on year and well above our outlook of $16 billion.
+   Target: FY2025
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+10. Superseded · Revenue growth · anchor-year guidance resolved in following year
+   Guidance [NVDA_Q3_2024] Revenue was $261 million, up 3% sequentially and up 4% year on year, primarily driven by continued growth in self-driving platforms based on NVIDIA drive or an SoC and the ramp of AI cockpit solutions with global OEM customers.
+   Target: FY2025
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+11. Missed · Revenue growth · anchor-year guidance resolved in following year
+   Guidance [NVDA_Q3_2024] Starting with data center, the continued ramp of the NVIDIA HGX platform based on our Hopper Tensor Core GPU architecture, along with InfiniBand end-to-end networking drove record revenue of $14.5 billion, up 41% sequentially and up 279% year on year.
+   Target: FY2025
+   Actual [FY2025] Fiscal Year 2025 Summary Year Ended Jan 26, 2025 Jan 28, 2024 Change ($ in millions, except per share data) Revenue $ 130,497 $ 60,922 Up 114% Gross margin 75.0 % 72.7 % Up 2.3 pts Operating expenses $ 16,405 $ 11,329 Up 45% Operating income $ 81,453 $ 32,972 Up 147% Net income $ 72,880 $ 29,760 Up 145% Net income per diluted share $ 2.94 $ 1.19 Up 147% We specialize in markets where our computing platforms can provide tremendous acceleration for applications.
+   Explanation: The actual is below the stated point target.
+
+--- Explicit targets outside the anchor-year cohorts (appendix) ---
+1. Unresolved · Revenue growth · outside anchor-year cohorts
+   Guidance [NVDA_Q1_2023] And in general, I think previously, you guys were anticipating sequential supply and revenue growth for the business through this entire year.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+2. Unresolved · Product / strategic milestone · outside anchor-year cohorts
+   Guidance [NVDA_Q1_2023] And so, we're perfectly timed to ramp into the Gen 5 generation with Hopper.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+3. Unresolved · Product / strategic milestone · outside anchor-year cohorts
+   Guidance [NVDA_Q1_2023] As well as the new DGX H100 AI supercomputing system will ramp in volume late in the calendar year.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+4. Superseded · Product / strategic milestone · outside anchor-year cohorts
+   Guidance [NVDA_Q1_2023] Building on the H100 product side, we are on track to launch our first ever Data Center CPU, Grace, in the first half of 2023.
+   Target: FY2023
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+5. Unresolved · Revenue · outside anchor-year cohorts
+   Guidance [NVDA_Q1_2023] But there were plans and Russia has been a part of our overall company revenue of probably about 2% of our company revenue historically and a little larger percentage when you look at our Gaming business.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+6. Unresolved · Operating expenses · outside anchor-year cohorts
+   Guidance [NVDA_Q1_2023] GAAP operating expenses are expected to be $2.46 billion.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+7. Not Verifiable After Exhaustive Search · Product / strategic milestone · outside anchor-year cohorts
+   Guidance [NVDA_Q1_2023] Just wanted to clarify, Colette, if your Q2 outlook includes any destocking benefits from the new products that you're planning to launch this year.
+   Target: FY2023
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+8. Unresolved · Revenue growth · outside anchor-year cohorts
+   Guidance [NVDA_Q1_2023] Laptop Gaming revenue posted strong sequential and year-on-year growth, driven by the ramp of the NVIDIA RTX 30 Series lineup.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+9. Unresolved · Operating expenses · outside anchor-year cohorts
+   Guidance [NVDA_Q1_2023] Non-GAAP operating expenses are expected to be $1.75 billion.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+10. Unresolved · Revenue · outside anchor-year cohorts
+   Guidance [NVDA_Q1_2023] Revenue is expected to be $8.1 billion, plus or minus 2%.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+11. Unresolved · Deliveries · outside anchor-year cohorts
+   Guidance [NVDA_Q1_2023] Third, ramping O-RAN, our new robotics processor, and nearly 40 customers building cars, robo taxis, trucks, delivery robots, logistics robots, farming robots to medical instruments.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+12. Unresolved · Revenue · outside anchor-year cohorts
+   Guidance [NVDA_Q2_2023] As discussed in May, we expected a sequential decline in Gaming revenue due to softness in Europe related to the war in Ukraine and COVID lockdowns in China.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+13. Unresolved · Operating expenses · outside anchor-year cohorts
+   Guidance [NVDA_Q2_2023] GAAP operating expenses are expected to be approximately $2.59 billion.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+14. Unresolved · Operating expenses · outside anchor-year cohorts
+   Guidance [NVDA_Q2_2023] Non-GAAP operating expenses are expected to be approximately $1.82 billion.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+15. Unresolved · Revenue · outside anchor-year cohorts
+   Guidance [NVDA_Q2_2023] Revenue is expected to be $5.9 billion, plus or minus 2%.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+16. Unresolved · Revenue · outside anchor-year cohorts
+   Guidance [NVDA_Q2_2023] We expect Gaming and ProViz revenue to decline sequentially as OEMs and channel partners reduce inventory levels to align with current levels of demand and prepare for our new product generation.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+17. Unresolved · Product / strategic milestone · outside anchor-year cohorts
+   Guidance [NVDA_Q3_2023] And in automotive, we expect the continued ramp of our Oren design wins.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+18. Unresolved · Subscribers / customers · outside anchor-year cohorts
+   Guidance [NVDA_Q3_2023] Driver will be available for automakers 25 models with Geely owned automaker, Zika as the first announced customer.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+19. Unresolved · Operating expenses · outside anchor-year cohorts
+   Guidance [NVDA_Q3_2023] GAAP operating expenses are expected to be approximately $2.56 billion.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+20. Unresolved · Revenue growth · outside anchor-year cohorts
+   Guidance [NVDA_Q3_2023] In gaming, we expect to resume sequential growth with our revenue still below end demand as we continue to work through the channel inventory correction.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+21. Unresolved · Operating expenses · outside anchor-year cohorts
+   Guidance [NVDA_Q3_2023] Non-GAAP operating expenses are expected to be approximately $1.78 billion.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+22. Unresolved · Revenue · outside anchor-year cohorts
+   Guidance [NVDA_Q3_2023] Revenue is expected to be $6 billion, plus or minus 2%.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+23. Unresolved · Revenue · outside anchor-year cohorts
+   Guidance [NVDA_Q3_2023] We expect our data center revenue to reflect early production shipments of the A100, offset by continued softness in China.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+24. Not Verifiable After Exhaustive Search · Revenue growth · outside anchor-year cohorts
+   Guidance [NVDA_Q4_2023] We expect that to be a part of our revenue growth this year.
+   Target: FY2023
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+25. Unresolved · Operating expenses · outside anchor-year cohorts
+   Guidance [NVDA_Q1_2024] GAAP and non-GAAP operating expenses are expected to be approximately 2.71 billion and 1.9 billion, respectively.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+26. Not Verifiable After Exhaustive Search · Production · outside anchor-year cohorts
+   Guidance [NVDA_Q1_2024] Our new design win will extend BYD's use of the DRIVE Orin to its next-generation, high-volume Dynasty and Ocean series of vehicles set to start production in calendar 2024.
+   Target: FY2024
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+27. Unresolved · Production · outside anchor-year cohorts
+   Guidance [NVDA_Q1_2024] Sequentially, growth moderated as some NAV customers in China are adjusting their production schedules to reflect lower-than-expected demand growth.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+28. Unresolved · Revenue · outside anchor-year cohorts
+   Guidance [NVDA_Q1_2024] Total revenue is expected to be 11 billion, plus or minus 2%.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+29. Missed · Revenue · outside anchor-year cohorts
+   Guidance [NVDA_Q2_2024] For Q3, total revenue is expected to be 16 billion, plus or minus 2%.
+   Target: Q3 FY2024
+   Actual [Q3 FY2024] SEC XBRL Revenue for Q3 FY2024: 18120000000 USD
+   Explanation: The actual is outside the stated range.
+
+30. Unresolved · Operating expenses · outside anchor-year cohorts
+   Guidance [NVDA_Q2_2024] GAAP and non-GAAP operating expenses are expected to be approximately 2.95 billion and 2 billion, respectively.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+31. Unresolved · Subscribers / customers · outside anchor-year cohorts
+   Guidance [NVDA_Q2_2024] Millions of professionals in legal services, sales, customer support, and education will be available to leverage AI systems trained in their fields.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+32. Missed · Revenue · outside anchor-year cohorts
+   Guidance [NVDA_Q2_2024] Our CSPs -- our large CSPs are contributing a little bit more than 50% of our revenue within Q2, and the next largest category will be our consumer internet companies.
+   Target: Q2 FY2024
+   Actual [Q2 FY2024] A large cloud service provider, or CSP, which primarily purchases indirectly through multiple system integrators and distributors, is estimated to represent approximately 22 % and 19 % of total revenue for the second quarter and first half of fiscal year 2024, respectively, and was attributable to our Compute & Networking segment.
+   Explanation: The actual is below the stated lower threshold.
+
+33. Not Verifiable After Exhaustive Search · Revenue growth · outside anchor-year cohorts
+   Guidance [NVDA_Q2_2024] Record Q2 revenue of 13.51 billion was up 88% sequentially and up 101% year on year and above our outlook of 11 billion.
+   Target: Q2 FY2024
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+34. Not Verifiable After Exhaustive Search · Production · outside anchor-year cohorts
+   Guidance [NVDA_Q2_2024] The GH200 Grace Hopper Superchip, which combines our Arm-based Grace CPU with Hopper GPU, entered full production and will be available this quarter in OEM servers.
+   Target: Q2 FY2024
+   Actual [None] Unavailable
+   Explanation: The loaded transcript, filing-section, filing-table, and XBRL search matrix did not contain a defensible actual for the same metric, scope, unit, and target period. Missing evidence is not treated as a miss.
+
+35. Unresolved · Subscribers / customers · outside anchor-year cohorts
+   Guidance [NVDA_Q2_2024] You know, given your position as the key enabler of AI, the breadth of engagements and the visibility you have into customer projects, I'm curious how confident you are that there will be enough applications or use cases for your customers to generate a reasonable return on their investments.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+36. Superseded · Revenue · outside anchor-year cohorts
+   Guidance [NVDA_Q3_2024] Colette mentioned that you'll be introducing regulation-compliant products over the next couple of months, yet the contribution to Q4 revenue should be relatively limited.
+   Target: Q4 FY2024
+   Actual [None] Unavailable
+   Explanation: A later valid guidance statement for the same metric, scope, and target period superseded this statement before the outcome.
+
+37. Unresolved · Operating expenses · outside anchor-year cohorts
+   Guidance [NVDA_Q3_2024] GAAP and non-GAAP operating expenses are expected to be approximately $3.17 billion and $2.2 billion, respectively.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+38. Not Verifiable After Exhaustive Search · Revenue · outside anchor-year cohorts
+   Guidance [NVDA_Q3_2024] However, we don't expect their contribution to be material or meaningful as a percentage of the revenue in Q4.
+   Target: Q4 FY2024
+   Actual [Q4 FY2024] These increases were driven by sales of our GeForce RTX 40 Series GPUs and game console SoCs.
+   Explanation: A candidate actual was found, but deterministic comparability checks rejected it: The evidence is qualitative but does not establish a comparable outcome.
+
+39. Unresolved · Product / strategic milestone · outside anchor-year cohorts
+   Guidance [NVDA_Q3_2024] In addition, Microsoft will launch new confidential computing instances based on the H100.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+40. Unresolved · Revenue · outside anchor-year cohorts
+   Guidance [NVDA_Q3_2024] It is too early to know whether these will be granted for any significant amount of revenue.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+41. Unresolved · Revenue · outside anchor-year cohorts
+   Guidance [NVDA_Q3_2024] Total revenue is expected to be $20 billion, plus or minus 2%.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+42. Unresolved · Subscribers / customers · outside anchor-year cohorts
+   Guidance [NVDA_Q3_2024] We also announced the latest member of the Hopper family, BH 200, which will be the first GPU to offer HBM3E, faster, larger memory to further accelerate generative AI and LLMs.
+   Target: None
+   Actual [None] Unavailable
+   Explanation: no defensible target period
+
+--- Unpaired actuals (showing 32 of 551; full ledger is in JSON/CSV) ---
+[NVDA_Q1_2023] GAAP gross margin for the first quarter was 65.5% and non-GAAP gross margin was up 67.1%, up 90 basis points from a year ago and up 10 basis points sequentially.
+[NVDA_Q1_2023] Total revenue of $8.3 billion was a record, up 8% sequentially and up 46% year on year.
+[NVDA_Q1_2023] Q1 revenue was $622 million was down sequentially 3% and up 67% from a year ago.
+[NVDA_Q1_2023] Q1 revenue of $138 million, increased 10% sequentially and declined 10% from the year ago quarter.
+[NVDA_Q1_2023] Record revenue of $3.8 billion grew 15% sequentially and accelerated to 83% growth year on year.
+[NVDA_Q4_2023] Q4 revenue was $6.05 billion, up 2% sequentially, down 21% year on year.
+[NVDA_Q4_2023] Full year revenue was $27 billion, flat from the prior year.
+[NVDA_Q4_2023] Revenue was $3.62 billion was down 6% sequentially and up 11% year on year.
+[NVDA_Q4_2023] Gaming revenue of $1.83 billion was up 16% sequentially and down 46% from a year ago.
+[NVDA_Q1_2024] Revenue was 296 million, up 1% sequentially and up 114% from a year ago.
+[10-Q Q2 2024 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations] The increases were primarily driven by compensation and benefits, reflecting growth in employees and compensation.
+[10-Q Q2 2024 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations] 25 Gaming revenue for the first quarter of fiscal year 2025 was $2.6 billion, up 18% from a year ago and down 8% from the previous quarter.
+[NVDA_Q2_2024] Revenue of 375 million was up 28% sequentially and down 24% year on year.
+[NVDA_Q2_2024] Record Q2 revenue of 13.51 billion was up 88% sequentially and up 101% year on year and above our outlook of 11 billion.
+[NVDA_Q2_2024] Record revenue of 10.32 billion was up 141% sequentially and up 171% year on year.
+[NVDA_Q2_2024] Gaming revenue of 2.49 billion was up 11% sequentially and 22% year on year.
+[10-Q Q3 2024 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations] Automotive revenue for the second quarter of fiscal year 2025 was $346 million, up 5% from the previous quarter and up 37% from a year ago.
+[10-Q Q3 2024 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations] Market Platform Highlights Data Center revenue for the second quarter of fiscal year 2025 was $26.3 billion, up 16% from the previous quarter and up 154% from a year ago.
+[10-Q Q3 2024 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations] Gaming revenue for the second quarter of fiscal year 2025 was $2.9 billion, up 9% from the previous quarter and up 16% from a year ago.
+[10-Q Q3 2024 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations] Professional Visualization revenue for the second quarter of fiscal year 2025 was $454 million, up 6% from the previous quarter and up 20% from a year ago.
+[10-Q Q4 2024 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations] Revenue from Data Center computing grew 133% year-on-year and 195% compared to the first nine months of fiscal year 2024 driven by demand for our Hopper computing platform for training and inferencing of large language models, recommendation engines, and generative AI applications.
+[10-Q Q4 2024 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations] Networking was up 20% year-on-year and 90% compared to the first nine months of fiscal year 2024 driven by Ethernet for AI revenue, which includes Spectrum-X end-to-end ethernet platform.
+[10-Q Q4 2024 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations] Graphics revenue – The year over year increase in the third quarter and first nine months of fiscal year 2025 was led by higher sales of our GeForce RTX 40 Series GPUs.
+[10-Q Q4 2024 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations] The year over year increase in Graphics segment operating income in the third quarter of fiscal year 2025 was primarily driven by growth in revenue, partially offset by an increase of 52% in segment operating expense.
+[10-Q Q4 2024 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations] The year over year increase in Graphics segment operating income in the first nine months of fiscal year 2025 was primarily driven by growth in revenue.
+[10-Q Q4 2024 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations] Gross margins increased to 74.6% for the third quarter of fiscal year 2025 compared to 74.0% for the third quarter of fiscal year 2024, due to a higher mix of Data Center revenue.
+[10-Q Q4 2024 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations] Gross margins increased to 75.8% for the first nine months of fiscal year 2025 compared to 70.9% for the first nine months of fiscal year 2024, primarily due to higher mix of Data Center revenue.
+[10-Q Q2 2025 — Item 1. Financial Statements (Unaudited) — Note 13 - Segment Information] Three Months Ended Apr 27, 2025 Apr 28, 2024 (In millions) Geographic Revenue based upon Customer Billing Location: United States $ 20,739 $ 13,496 Singapore (1) 9,017 4,037 Taiwan 7,158 4,373 China (including Hong Kong) 5,522 2,491 Other 1,626 1,647 Total revenue $ 44,062 $ 26,044 (1) Singapore represented 20 % of the first quarter of fiscal year 2026 total revenue based upon customer billing location.
+[10-Q Q2 2025 — Item 1. Financial Statements (Unaudited) — Note 13 - Segment Information] Sales to two direct customers represented 11 % and 13 % of total revenue for the first quarter of fiscal year 2025, both of which were attributable to the Compute & Networking segment.
+[10-Q Q2 2025 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations] First Quarter of Fiscal Year 2026 Summary Three Months Ended Quarter-over-Quarter Change Year-over-Year Change Apr 27, 2025 Jan 26, 2025 Apr 28, 2024 ($ in millions, except per share data) Revenue $ 44,062 $ 39,331 $ 26,044 12 % 69 % Gross margin 60.5 % 73.0 % 78.4 % (12.5) pts (17.9) pts Operating expenses $ 5,030 $ 4,689 $ 3,497 7 % 44 % Operating income $ 21,638 $ 24,034 $ 16,909 (10) % 28 % Net income $ 18,775 $ 22,091 $ 14,881 (15) % 26 % Net income per diluted share $ 0.76 $ 0.89 $ 0.60 (15) % 27 % 23 On April 9, 2025, we were informed by the USG that a license is required for exports of our H20 products into the China market.
+[10-Q Q2 2025 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations] Revenue from Data Center computing grew 76% year-on-year compared to the first quarter of fiscal year 2025, driven by demand for our Blackwell computing platform.
+[10-Q Q2 2025 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations] Revenue from Data Center networking grew 56% year-on-year compared to the first quarter of fiscal year 2025 driven by the growth of NVLink compute fabric in our GB200 systems and continued adoption of Ethernet for AI solutions at cloud service providers and consumer internet companies.
+
+--- Source inventory ---
+[transcript] NVDA_Q1_2023
+[xbrl] XBRL Revenue Q1 FY2023
+[xbrl] XBRL Gross Profit Q1 FY2023
+[xbrl] XBRL Operating Income Q1 FY2023
+[xbrl] XBRL Net Income Q1 FY2023
+[xbrl] XBRL Diluted EPS Q1 FY2023
+[xbrl] XBRL Operating Cash Flow Q1 FY2023
+[xbrl] XBRL Gross margin Q1 FY2023
+[xbrl] XBRL Operating margin Q1 FY2023
+[transcript] NVDA_Q2_2023
+[filing] 10-Q Q2 2023 — ITEM 1A. RISK FACTORS
+[filing] 10-Q Q2 2023 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q2 2023 — ITEM 2. UNREGISTERED SALES OF EQUITY SECURITIES AND USE OF PROCEEDS
+[xbrl] XBRL Revenue Q2 FY2023
+[xbrl] XBRL Gross Profit Q2 FY2023
+[xbrl] XBRL Operating Income Q2 FY2023
+[xbrl] XBRL Net Income Q2 FY2023
+[xbrl] XBRL Diluted EPS Q2 FY2023
+[xbrl] XBRL Operating Cash Flow Q2 FY2023
+[xbrl] XBRL Gross margin Q2 FY2023
+[xbrl] XBRL Operating margin Q2 FY2023
+[transcript] NVDA_Q3_2023
+[filing] 10-Q Q3 2023 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 15 - Segment Information
+[filing] 10-Q Q3 2023 — ITEM 1A. RISK FACTORS
+[filing] 10-Q Q3 2023 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[xbrl] XBRL Revenue Q3 FY2023
+[xbrl] XBRL Gross Profit Q3 FY2023
+[xbrl] XBRL Operating Income Q3 FY2023
+[xbrl] XBRL Net Income Q3 FY2023
+[xbrl] XBRL Diluted EPS Q3 FY2023
+[xbrl] XBRL Operating Cash Flow Q3 FY2023
+[xbrl] XBRL Gross margin Q3 FY2023
+[xbrl] XBRL Operating margin Q3 FY2023
+[transcript] NVDA_Q4_2023
+[filing] 10-Q Q4 2023 — ITEM 2. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[filing] 10-Q Q4 2023 — ITEM 1. FINANCIAL STATEMENTS (UNAUDITED) — Note 15 - Segment Information
+[filing] 10-Q Q4 2023 — ITEM 1A. RISK FACTORS
+[filing] 10-K FY2023 — ITEM 1. BUSINESS
+[filing] 10-K FY2023 — ITEM 15. EXHIBIT AND FINANCIAL STATEMENT SCHEDULES
+[filing] 10-K FY2023 — ITEM 1A. RISK FACTORS
+[filing] 10-K FY2023 — ITEM 5. MARKET FOR REGISTRANT’S COMMON EQUITY, RELATED STOCKHOLDER MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+[filing] 10-K FY2023 — ITEM 7. MANAGEMENT’S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS
+[xbrl] XBRL Revenue FY2023
+[xbrl] XBRL Gross Profit FY2023
+[xbrl] XBRL Operating Income FY2023
+[xbrl] XBRL Net Income FY2023
+[xbrl] XBRL Diluted EPS FY2023
+[xbrl] XBRL Operating Cash Flow FY2023
+[xbrl] XBRL Gross margin FY2023
+[xbrl] XBRL Operating margin FY2023
+[transcript] NVDA_Q1_2024
+[xbrl] XBRL Revenue Q1 FY2024
+[xbrl] XBRL Gross Profit Q1 FY2024
+[xbrl] XBRL Operating Income Q1 FY2024
+[xbrl] XBRL Net Income Q1 FY2024
+[xbrl] XBRL Diluted EPS Q1 FY2024
+[xbrl] XBRL Operating Cash Flow Q1 FY2024
+[xbrl] XBRL Gross margin Q1 FY2024
+[xbrl] XBRL Operating margin Q1 FY2024
+[transcript] NVDA_Q2_2024
+[filing] 10-Q Q2 2024 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+[filing] 10-Q Q2 2024 — Item 1. Financial Statements (Unaudited) — Note 14 - Segment Information
+[filing] 10-Q Q2 2024 — Item 1A. Risk Factors
+[xbrl] XBRL Revenue Q2 FY2024
+[xbrl] XBRL Gross Profit Q2 FY2024
+[xbrl] XBRL Operating Income Q2 FY2024
+[xbrl] XBRL Net Income Q2 FY2024
+[xbrl] XBRL Diluted EPS Q2 FY2024
+[xbrl] XBRL Operating Cash Flow Q2 FY2024
+[xbrl] XBRL Gross margin Q2 FY2024
+[xbrl] XBRL Operating margin Q2 FY2024
+[xbrl] XBRL Revenue Q3 FY2024
+[transcript] NVDA_Q3_2024
+[filing] 10-Q Q3 2024 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+[filing] 10-Q Q3 2024 — Item 1. Financial Statements (Unaudited) — Note 14 - Segment Information
+[filing] 10-Q Q3 2024 — Item 1A. Risk Factors
+[xbrl] XBRL Gross Profit Q3 FY2024
+[xbrl] XBRL Operating Income Q3 FY2024
+[xbrl] XBRL Net Income Q3 FY2024
+[xbrl] XBRL Diluted EPS Q3 FY2024
+[xbrl] XBRL Operating Cash Flow Q3 FY2024
+[xbrl] XBRL Gross margin Q3 FY2024
+[xbrl] XBRL Operating margin Q3 FY2024
+[filing] 10-Q Q4 2024 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+[filing] 10-Q Q4 2024 — Item 1. Financial Statements (Unaudited) — Note 14 - Segment Information
+[filing] 10-Q Q4 2024 — Item 1A. Risk Factors
+[filing] 10-K FY2024 — Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+[xbrl] XBRL Revenue FY2024
+[filing] 10-K FY2024 — Item 1. Business
+[filing] 10-K FY2024 — Item 15. Exhibit and Financial Statement Schedules
+[filing] 10-K FY2024 — Item 1A. Risk Factors
+[xbrl] XBRL Gross Profit FY2024
+[xbrl] XBRL Operating Income FY2024
+[xbrl] XBRL Net Income FY2024
+[xbrl] XBRL Diluted EPS FY2024
+[xbrl] XBRL Operating Cash Flow FY2024
+[xbrl] XBRL Gross margin FY2024
+[xbrl] XBRL Operating margin FY2024
+[transcript] NVDA_Q1_2025
+[xbrl] XBRL Revenue Q1 FY2025
+[xbrl] XBRL Gross Profit Q1 FY2025
+[xbrl] XBRL Operating Income Q1 FY2025
+[xbrl] XBRL Net Income Q1 FY2025
+[xbrl] XBRL Diluted EPS Q1 FY2025
+[xbrl] XBRL Operating Cash Flow Q1 FY2025
+[xbrl] XBRL Gross margin Q1 FY2025
+[xbrl] XBRL Operating margin Q1 FY2025
+[filing] 10-Q Q2 2025 — Item 1. Financial Statements (Unaudited) — Note 13 - Segment Information
+[filing] 10-Q Q2 2025 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+[transcript] NVDA_Q2_2025
+[filing] 10-Q Q2 2025 — Item 1A. Risk Factors
+[xbrl] XBRL Revenue Q2 FY2025
+[xbrl] XBRL Gross Profit Q2 FY2025
+[xbrl] XBRL Operating Income Q2 FY2025
+[xbrl] XBRL Net Income Q2 FY2025
+[xbrl] XBRL Diluted EPS Q2 FY2025
+[xbrl] XBRL Operating Cash Flow Q2 FY2025
+[xbrl] XBRL Gross margin Q2 FY2025
+[xbrl] XBRL Operating margin Q2 FY2025
+[filing] 10-Q Q3 2025 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+[filing] 10-Q Q3 2025 — Item 1. Financial Statements (Unaudited) — Note 13 - Segment Information
+[filing] 10-Q Q3 2025 — Item 1A. Risk Factors
+[transcript] NVDA_Q3_2025
+[xbrl] XBRL Revenue Q3 FY2025
+[xbrl] XBRL Gross Profit Q3 FY2025
+[xbrl] XBRL Operating Income Q3 FY2025
+[xbrl] XBRL Net Income Q3 FY2025
+[xbrl] XBRL Diluted EPS Q3 FY2025
+[xbrl] XBRL Operating Cash Flow Q3 FY2025
+[xbrl] XBRL Gross margin Q3 FY2025
+[xbrl] XBRL Operating margin Q3 FY2025
+[transcript] NVDA_Q4_2025
+[filing] 10-Q Q4 2025 — Item 1. Financial Statements (Unaudited) — Note 13 - Segment Information
+[filing] 10-Q Q4 2025 — Item 1A. Risk Factors
+[filing] 10-Q Q4 2025 — Item 2. Management's Discussion and Analysis of Financial Condition and Results of Operations
+[filing] 10-K FY2025 — Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operations
+[filing] 10-K FY2025 — Item 1. Business
+[filing] 10-K FY2025 — Item 15. Exhibits and Financial Statement Schedules
+[filing] 10-K FY2025 — Item 1A. Risk Factors
+[xbrl] XBRL Revenue FY2025
+[xbrl] XBRL Gross Profit FY2025
+[xbrl] XBRL Operating Income FY2025
+[xbrl] XBRL Net Income FY2025
+[xbrl] XBRL Diluted EPS FY2025
+[xbrl] XBRL Operating Cash Flow FY2025
+[xbrl] XBRL Gross margin FY2025
+[xbrl] XBRL Operating margin FY2025
