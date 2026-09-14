@@ -1,0 +1,111 @@
+[MANAGEMENT MEMORY] NVDA
+
+Coverage: NVDA_Q3_2019 through NVDA_Q1_2027 (27 available periods)
+First and last observed mean first and last observed in the available transcript coverage, not the company's true historical first or last mention.
+
+- update: stable | first NVDA_Q3_2019 | last NVDA_Q1_2027 | 27 periods | high confidence | attention delta -32.1% | wording reframed
+  Forward-looking language: 2 sentence(s) across 1 period(s)
+  Investor pressure: 5 question(s), 6 answer(s); latest focus shared
+  NVDA_Q3_2019: Except as required by law, we assume no obligation to update any such statements.
+  NVDA_Q1_2027: Vera Rubin coming soon, and you obviously have great insight into coming updates to Frontier models, new techniques to optimize around diverse AI workloads with investors keenly focused on your market share and inference, how do you see Vera Rubin in your extreme co engineering impacting your share of the inference market, you know, as we look into late 26, 27?
+- measure: fading | first NVDA_Q3_2019 | last NVDA_Q4_2026 | 26 periods | high confidence | attention delta None% | wording consistent
+  Forward-looking language: 25 sentence(s) across 25 period(s)
+  Investor pressure: 0 question(s), 2 answer(s); latest focus quiet
+  NVDA_Q3_2019: During this call, we will discuss non-GAAP financial measures.
+  NVDA_Q4_2026: During this call, we will discuss non-GAAP financial measures.
+- president: fading | first NVDA_Q3_2019 | last NVDA_Q4_2026 | 26 periods | high confidence | attention delta None% | wording evolved
+  Forward-looking language: 3 sentence(s) across 2 period(s)
+  Investor pressure: 0 question(s), 144 answer(s); latest focus quiet
+  NVDA_Q3_2019: With me on the call today from NVIDIA are Jensen Huang, President and Chief Executive Officer; and Colette, Kress Executive Vice President and Chief Financial Officer.
+  NVDA_Q4_2026: President and Chief Executive Officer — Jensen Huang Executive Vice President and Chief Financial Officer — Colette Kress Vice President, Investor Relations — Toshiya Hari
+- chief: fading | first NVDA_Q3_2019 | last NVDA_Q4_2026 | 26 periods | high confidence | attention delta None% | wording evolved
+  Forward-looking language: 3 sentence(s) across 2 period(s)
+  Investor pressure: 0 question(s), 145 answer(s); latest focus quiet
+  NVDA_Q3_2019: With me on the call today from NVIDIA are Jensen Huang, President and Chief Executive Officer; and Colette, Kress Executive Vice President and Chief Financial Officer.
+  NVDA_Q4_2026: President and Chief Executive Officer — Jensen Huang Executive Vice President and Chief Financial Officer — Colette Kress Vice President, Investor Relations — Toshiya Hari
+- vice: fading | first NVDA_Q3_2019 | last NVDA_Q4_2026 | 26 periods | high confidence | attention delta None% | wording evolved
+  Forward-looking language: 1 sentence(s) across 1 period(s)
+  Investor pressure: 0 question(s), 83 answer(s); latest focus quiet
+  NVDA_Q3_2019: With me on the call today from NVIDIA are Jensen Huang, President and Chief Executive Officer; and Colette, Kress Executive Vice President and Chief Financial Officer.
+  NVDA_Q4_2026: President and Chief Executive Officer — Jensen Huang Executive Vice President and Chief Financial Officer — Colette Kress Vice President, Investor Relations — Toshiya Hari
+- form: fading | first NVDA_Q3_2019 | last NVDA_Q4_2026 | 26 periods | high confidence | attention delta None% | wording consistent
+  Forward-looking language: 1 sentence(s) across 1 period(s)
+  Investor pressure: 0 question(s), 11 answer(s); latest focus quiet
+  NVDA_Q3_2019: For a discussion of factors that could affect our future financial results and business, please refer to the disclosure in today's earnings release, our most recent Form 10-K and 10-Q and the reports that we may file on Form 8-K with the Securities and Exchange Commission.
+  NVDA_Q4_2026: For a discussion of factors that could affect our future financial results and business, please refer to the disclosure in today's earnings release, our most recent Forms 10-K and 10-Q, and the reports that we may file on Form 8-K with the Securities and Exchange Commission.
+- global: stable | first NVDA_Q3_2019 | last NVDA_Q1_2027 | 25 periods | high confidence | attention delta -30.7% | wording reframed
+  Forward-looking language: 12 sentence(s) across 11 period(s)
+  Investor pressure: 0 question(s), 9 answer(s); latest focus management-led
+  NVDA_Q3_2019: Finally, we made progress in building out our cloud gaming business, two global service providers Taiwan Mobile and Russia Rostelcom with GFN.RU joined SoftBank and Korea's LG as partners for our GeForce NOW game streaming service.
+  NVDA_Q1_2027: We will also be participating at the TD Cowen TMT conference on May 28th and the Bank of America Global Technology Conference on June 4th.
+- minus: fading | first NVDA_Q3_2019 | last NVDA_Q4_2026 | 26 periods | high confidence | attention delta None% | wording evolved
+  Investor pressure: 1 question(s), 2 answer(s); latest focus quiet
+  NVDA_Q3_2019: We expect revenue to be $2.5 billion plus or minus 2%.
+  NVDA_Q4_2026: Total revenue is expected to be $78,000,000,000, plus or minus 2%.
+- release: fading | first NVDA_Q3_2019 | last NVDA_Q4_2026 | 26 periods | high confidence | attention delta None% | wording consistent
+  Investor pressure: 4 question(s), 2 answer(s); latest focus quiet
+  NVDA_Q3_2019: For a discussion of factors that could affect our future financial results and business, please refer to the disclosure in today's earnings release, our most recent Form 10-K and 10-Q and the reports that we may file on Form 8-K with the Securities and Exchange Commission.
+  NVDA_Q4_2026: For a discussion of factors that could affect our future financial results and business, please refer to the disclosure in today's earnings release, our most recent Forms 10-K and 10-Q, and the reports that we may file on Form 8-K with the Securities and Exchange Commission.
+- excluding: fading | first NVDA_Q3_2019 | last NVDA_Q4_2026 | 26 periods | high confidence | attention delta None% | wording evolved
+  Investor pressure: 1 question(s), 0 answer(s); latest focus quiet
+  NVDA_Q3_2019: GAAP and non-GAAP tax rates are both expected to be 9% plus or minus 1% excluding discrete items.
+  NVDA_Q4_2026: For the full fiscal year 2027, we expect GAAP and non-GAAP tax rates to be between 7% and 19%, excluding any discrete items and material changes to our tax environment.
+- highlight: stable | first NVDA_Q3_2019 | last NVDA_Q1_2027 | 26 periods | high confidence | attention delta -27.1% | wording reframed
+  Investor pressure: 0 question(s), 5 answer(s); latest focus management-led
+  NVDA_Q3_2019: In closing, let me highlight the upcoming events for the financial community.
+  NVDA_Q1_2027: Let me highlight my top 5 things.
+- website: fading | first NVDA_Q3_2019 | last NVDA_Q4_2026 | 25 periods | high confidence | attention delta None% | wording reframed
+  Investor pressure: 0 question(s), 6 answer(s); latest focus quiet
+  NVDA_Q3_2019: I would like to remind you that our call is being webcast live on NVIDIA's Investor Relations website.
+  NVDA_Q4_2026: Our call is being webcast live on NVIDIA Corporation's website at investors.nvidia.com.
+- respectively: fading | first NVDA_Q3_2019 | last NVDA_Q4_2026 | 25 periods | high confidence | attention delta None% | wording reframed
+  NVDA_Q3_2019: GAAP operating expenses were $989 million and non-GAAP operating expenses were $774 million, up 15% and 6% year-on-year respectively.
+  NVDA_Q4_2026: GAAP and non-GAAP gross margins are expected to be 74.9% and 75%, respectively, plus or minus 50 basis points.
+- obligation: fading | first NVDA_Q3_2019 | last NVDA_Q4_2026 | 24 periods | high confidence | attention delta None% | wording consistent
+  Investor pressure: 4 question(s), 2 answer(s); latest focus quiet
+  NVDA_Q3_2019: Except as required by law, we assume no obligation to update any such statements.
+  NVDA_Q4_2026: Except as required by law, we assume no obligation to update any such statements.
+- event: historical | first NVDA_Q3_2019 | last NVDA_Q4_2025 | 23 periods | high confidence | attention delta None% | wording reframed
+  Forward-looking language: 1 sentence(s) across 1 period(s)
+  Investor pressure: 1 question(s), 3 answer(s); latest focus quiet
+  NVDA_Q3_2019: At the event, we announced that the US Postal Service, the world's largest delivery service with almost 150 billion pieces of mail delivered annually is adopting AI technology from NVIDIA, enabling 10x faster processing of package data and with higher accuracy.
+  NVDA_Q4_2025: In closing, let me highlight upcoming events for the financial community.
+- powered: stable | first NVDA_Q3_2019 | last NVDA_Q1_2027 | 23 periods | high confidence | attention delta -13.7% | wording reframed
+  Investor pressure: 0 question(s), 9 answer(s); latest focus management-led
+  NVDA_Q3_2019: This holiday season our partners are addressing the growing demand for high-performance laptops for gamers, students and prosumers by bringing more than 130 NVIDIA-powered gaming and studio laptop models to market.
+  NVDA_Q1_2027: And then, of course, in the future, every single base station, every single radio network would become an AI powered radio network.
+- real: fading | first NVDA_Q3_2019 | last NVDA_Q4_2026 | 23 periods | high confidence | attention delta None% | wording reframed
+  Investor pressure: 1 question(s), 20 answer(s); latest focus quiet
+  NVDA_Q3_2019: These bring AI to the streaming market for the first time with the ability to up-scale video real time from high-definition to 4K using NVIDIA trained deep neural networks.
+  NVDA_Q4_2026: But now everything is generative in real time.
+- gain: stable | first NVDA_Q3_2019 | last NVDA_Q1_2027 | 23 periods | high confidence | attention delta -18.6% | wording reframed
+  Investor pressure: 3 question(s), 2 answer(s); latest focus shared
+  NVDA_Q3_2019: In addition to this type of internal hyperscale activity, our T4 GPU continue to gain adoption in public clouds.
+  NVDA_Q1_2027: Could you maybe give us a sense about whether the Vera CPUs are going to be the biggest source of upside above and beyond that $1 trillion Are you contemplating other sort of combinations of products, including CPUs that would allow you to gain an even greater share of that total TAM.
+- desktop: historical | first NVDA_Q3_2019 | last NVDA_Q4_2025 | 22 periods | high confidence | attention delta None% | wording reframed
+  Investor pressure: 1 question(s), 6 answer(s); latest focus quiet
+  NVDA_Q3_2019: Results exceeded our expectation, driven by strength in both desktop and notebook gaming.
+  NVDA_Q4_2025: The new GeForce RTX 50 Series desktop and laptop GPUs are here.
+- image: fading | first NVDA_Q3_2019 | last NVDA_Q4_2026 | 22 periods | high confidence | attention delta None% | wording reframed
+  Investor pressure: 0 question(s), 18 answer(s); latest focus quiet
+  NVDA_Q3_2019: They have 10x to 20x, in some cases, 100x more parameters than image-based models.
+  NVDA_Q4_2026: --- Image source: The Motley Fool.
+- availability: historical | first NVDA_Q3_2019 | last NVDA_Q4_2025 | 19 periods | high confidence | attention delta None% | wording reframed
+  Forward-looking language: 1 sentence(s) across 1 period(s)
+  Investor pressure: 1 question(s), 6 answer(s); latest focus quiet
+  NVDA_Q3_2019: In September, Amazon AWS announced general availability of the T4 globally, following the T4 roll out on Google Cloud platform earlier in the year.
+  NVDA_Q4_2025: We exceeded our expectations in Q4 in ramping Blackwell, increasing system availability, providing several configurations to our customers.
+- primarily: fading | first NVDA_Q3_2019 | last NVDA_Q4_2026 | 18 periods | high confidence | attention delta None% | wording reframed
+  Forward-looking language: 1 sentence(s) across 1 period(s)
+  Investor pressure: 2 question(s), 6 answer(s); latest focus quiet
+  NVDA_Q3_2019: Moving to ProVis, revenue reached a record $324 million, up 6% from the prior year and up 11% sequentially, driven primarily by mobile workstations.
+  NVDA_Q4_2026: Sovereign AI revenue -- Over $30 billion for the year, more than tripling, primarily from Canada, France, the Netherlands, Singapore, and the UK.
+- largely: stable | first NVDA_Q4_2019 | last NVDA_Q1_2027 | 18 periods | high confidence | attention delta 155.3% | wording reframed
+  Forward-looking language: 1 sentence(s) across 1 period(s)
+  Investor pressure: 1 question(s), 18 answer(s); latest focus management-led
+  NVDA_Q4_2019: The sequential decline was largely seasonal.
+  NVDA_Q1_2027: Today, yesterday's computing was largely about personal computing.
+- analysis: fading | first NVDA_Q4_2020 | last NVDA_Q4_2026 | 18 periods | high confidence | attention delta None% | wording reframed
+  Investor pressure: 0 question(s), 23 answer(s); latest focus quiet
+  NVDA_Q4_2020: Magnum IO delivers up to 20 times faster data processing for multi-server, multi-GPU computing nodes when working with massive data sets to carry out complex financial analysis, climate modeling and other workloads for data scientists, high-performance computing and AI researchers.
+  NVDA_Q4_2026: From an industrial level, because as all of our companies, in the final analysis, are powered by software and the cloud companies are powered by software.
