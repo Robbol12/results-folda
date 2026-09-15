@@ -1,0 +1,633 @@
+[CORE RESEARCH - MULTIPLE TOPICS] JPM: net interest income | credit losses | investment banking | common equity tier 1 | expenses
+
+
+======================================================================
+TOPIC: net interest income
+======================================================================
+
+[CORE RESEARCH] JPM: net interest income
+
+Quarters searched: 3
+Filing sections searched: 34
+
+Over the periods from Q1 2021 through Q4 2021, net interest income (NII) showed a general trend of initial decline followed by modest recovery. In Q1 2021, NII declined significantly, driven primarily by lower interest rates and limited deployment opportunities amid deposit growth. By Q3 and Q4 2021, NII had increased slightly, supported by balance sheet growth and rising rates, although partially offset by lower markets-related NII in the Corporate & Investment Bank (CIB) segment. Management discussed NII in qualitative terms but did not provide explicit forward guidance or quantitative forecasts. The filings highlighted the sensitivity of NII to interest rate movements and associated risks such as loan originations and deposit behavior. Overall, the topic evolved from a challenging low-rate environment to a cautiously improving interest income scenario by year-end.
+
+Forecasting credibility: None
+No explicit forward guidance paired with actual results for net interest income was provided in the available evidence. Management mentioned NII trends and impacts but did not issue quantitative forecasts that could be compared to actual outcomes. Therefore, it is not possible to assess forecasting credibility for this topic based on guidance-actual pairs. The rating is set to null to reflect this absence of forecast data.
+
+Trends:
+  - Decline in net interest income in early 2021
+  - Modest recovery and growth in NII by Q3 and Q4 2021
+  - Impact of lower interest rates initially
+  - Balance sheet growth supporting NII later
+  - Offsetting effects from lower CIB markets NII
+
+Recurring themes/risks:
+  - Interest rate sensitivity of net interest income
+  - Deposit growth limiting deployment opportunities
+  - Potential losses from underwriting exposures
+  - Risk of deposit outflows due to rate changes
+  - Mark-to-market losses on investment securities
+
+Key concerns:
+  - No quantitative forward guidance on net interest income was provided, limiting transparency on management's forecasting ability for this line item.
+  - The filings note risks related to interest rate changes that could affect NII, including potential mispricing and depositor behavior, but no clear mitigation strategies were detailed.
+  - There is some inconsistency in the level of detail between transcript commentary and filing disclosures, with filings providing more risk context but no precise forecasts.
+
+Conclusion:
+Net interest income experienced a notable decline in early 2021 due to lower interest rates and limited loan deployment opportunities amid deposit growth. However, by the third and fourth quarters, NII showed modest improvement driven by balance sheet growth and rising rates, although partially offset by weaker markets-related income in the CIB segment. Management did not provide explicit forward guidance on net interest income, and no guidance-actual pairs exist to evaluate forecasting accuracy. The filings emphasize the sensitivity of NII to interest rate fluctuations and associated risks, underscoring the importance of monitoring rate environments and depositor behavior. Overall, net interest income trends reflect the broader macroeconomic interest rate environment and balance sheet dynamics, but forecasting credibility cannot be assessed due to lack of guidance.
+
+Evidence Coverage: 99.5% complete; 188/189 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2021 ===
+Management said:
+  - Net interest income was down 1.6 billion or 11%, primarily driven by lower rates.
+  - Net interest income was down nearly 700 million on lower rates, as well as limited deployment opportunities on the back of continued deposit growth.
+  - In fact, net income was an all-time record with IV fees up 57% year on year, reflecting continued robust activity, and markets up 25% year on year as the environment remained favorable in January and February, although it did start to normalize in March.
+  - Asset and wealth management generated record net income of 1.2 billion with pre-tax margin of 40% and ROE of 35%.
+Guidance given:
+Actual reported:
+  - [Observed] Net interest income was down 1.6 billion or 11%, primarily driven by lower rates.
+  - [Observed] Net interest income was down nearly 700 million on lower rates, as well as limited deployment opportunities on the back of continued deposit growth.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Net Income: $14.30B | vs prior quarter: — | vs prior year: $2.87B (+399.1%)
+    - 5 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - 1 real filing table(s) available (see the HTML report).
+
+=== Q2 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Net Income: $11.95B | vs prior quarter: $14.30B (-16.4%) | vs prior year: $4.69B (+154.9%)
+    - 6 real filing table(s) available (see the HTML report).
+    - Consolidated Financial Statements – JPMorgan Chase & Co.: Consolidated statements of income (unaudited) for the three and six months ended June 30 , 2021 and 2020 89 Consolidated statements of comprehensive income (unaudited) for the three and six months ended June 30 , 2021 and 2020 90 Consolidated balance sheets (unaudited) at June 30 , 2021 and December 31, 2020 91 Consolidated statements of changes in stockholders’ equity (unaudited) for the three and six months ended June 30 , 2021 and 2020 92 Consolidated statements of cash flows (unaudited) for the six months ended June 30 , 2021 and 2020 93 Notes to Consolidated Financial Statements (unaudited) 94 Report of Independent Registered Public Accounting Firm 178 Consolidated Average Balance Sheets, Interest and Rates (unaudited) for the three months ended June 30 , 2021 and 2020 179 Glossary of Terms and Acronyms and Line of Business Metrics 181
+  [Footnotes]
+    - 9 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - 1 real filing table(s) available (see the HTML report).
+
+=== Q3 2021 ===
+Management said:
+  - Net interest income was up 1% with balance sheet growth and higher rates primarily offset by mix and lower CIB markets NII.
+  - I wanted to ask about the net interest income guidance for the year.
+  - Asset and wealth management reported net income of $1.2 billion with pre-tax margin of 37%.
+  - The firm reported net income of $11.7 billion, EPS of $3.74 on revenue of $30.4 billion and delivered a return on tangible common equity of 22%.
+  - Commercial banking reported net income of $1.4 billion.
+Guidance given:
+  - I wanted to ask about the net interest income guidance for the year. (Unresolved)
+Actual reported:
+  - [Observed] Net interest income was up 1% with balance sheet growth and higher rates primarily offset by mix and lower CIB markets NII.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Net Income: $11.69B | vs prior quarter: $11.95B (-2.2%) | vs prior year: $9.44B (+23.8%)
+    - 6 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 9 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - 1 real filing table(s) available (see the HTML report).
+
+=== Q4 2021 ===
+Management said:
+  - Net interest income was up 3%, primarily driven by balance sheet growth, partially offset by lower CIB markets NII.
+  - And for the full year, net income was $21 billion on record revenue of $52 billion.
+  - The firm reported net income of $48.3 billion, EPS of $15.36 and record revenue of $125.3 billion.
+  - For the quarter, net long-term inflows were $34 billion and, for the full year, were positive across all channels, asset classes and regions, totaling a record $164 billion.
+Guidance given:
+Actual reported:
+  - [Unresolved] Net interest income was up 3%, primarily driven by balance sheet growth, partially offset by lower CIB markets NII.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Net Income: $48.33B | vs prior quarter: — | vs prior year: $29.13B (+65.9%)
+    - 1 real filing table(s) available (see the HTML report).
+    - Consolidated Financial Statements – JPMorgan Chase & Co.: Consolidated statements of income (unaudited) for the three and nine months ended September 30, 2021 and 2020 91 Consolidated statements of comprehensive income (unaudited) for the three and nine months ended S eptember 30, 2021 and 2020 92 Consolidated balance sheets (unaudited) at September 30, 2021 and December 31, 2020 93 Consolidated statements of changes in stockholders’ equity (unaudited) for the three and nine months ended September 30, 2021 and 2020 94 Consolidated statements of cash flows (unaudited) for the nine months ended September 30, 2021 and 2020 95 Notes to Consolidated Financial Statements (unaudited) 96 Report of Independent Registered Public Accounting Firm 182 Consolidated Average Balance Sheets, Interest and Rates (unaudited) for the three and nin e months ended September 30, 2021 and 2020 183 Glossary of Terms and Acronyms and Line of Business Metrics 185
+  [Footnotes]
+    - 12 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - When interest rates are increasing, JPMorgan Chase can generally be expected to earn higher net interest income.
+    - However, higher interest rates can also lead to: • fewer originations of commercial and residential real estate loans • losses on underwriting exposures • the loss of deposits, including in the event that JPMorgan Chase makes incorrect assumptions about depositor behavior • unrealized mark-to-market losses on available-for-sale (“AFS”) securities held in the investment securities portfolio • lower net interest income if central banks introduce interest rate increases more quickly than anticipated and this results in a misalignment in the pricing of short-term and long-term borrowings • less liquidity in the financial markets, and • higher funding costs.
+    - In general, a low or negative interest rate environment may cause: • net interest margins to be compressed, which could reduce the amounts that JPMorgan Chase earns on its investment securities portfolio to the extent that it is unable to reinvest contemporaneously in higher-yielding instruments • unanticipated or adverse changes in depositor behavior, which could negatively affect JPMorgan Chase’s broader asset and liability management strategy • JPMorgan Chase to reduce the amount of deposits that it accepts from customers and clients, which could result in lower revenues, and • a reduction in the value of JPMorgan Chase’s mortgage servicing rights (“MSRs”) asset, thereby decreasing revenues.
+    - 16 Changes in interest rates and credit spreads can adversely affect certain of JPMorgan Chase’s revenue and income streams related to its traditional banking and funding activities.
+    - These limitations could affect the holding company’s ability to: • pay interest on its debt securities 19 Part I • pay dividends on its equity securities • redeem or repurchase outstanding securities, and • fulfill its other payment obligations.
+    - JPMorgan Chase can become subject to litigation and enforcement actions, and its reputation can be damaged, by the failure or perceived failure to: • adequately address or appropriately disclose conflicts of interest, including potential conflicts of interest that may arise in connection with providing multiple products and services in, or having one or more investments related to, the same transaction • deliver appropriate standards of service and quality • treat clients and customers with the appropriate standard of care • use client and customer data responsibly and in a manner that meets legal requirements and regulatory expectations 31 Part I • provide fiduciary products or services in accordance with the applicable legal and regulatory standards, or • handle or use confidential information of customers or clients appropriately or in compliance with applicable data protection and privacy laws, rules and regulations.
+
+
+======================================================================
+TOPIC: credit losses
+======================================================================
+
+[CORE RESEARCH] JPM: credit losses
+
+Quarters searched: 3
+Filing sections searched: 34
+
+Throughout 2021, JPMorgan Chase's credit losses showed a pattern of net benefits primarily driven by reserve releases, despite some markdowns and losses in specific portfolios early in the year. Management initially expected credit loss rates in card portfolios to be lower than pre-COVID levels, and actual results exceeded these expectations. Credit costs consistently reflected net benefits in subsequent quarters, with reserve releases offsetting net charge-offs. The firm acknowledged heightened performance risk in credit loss models due to the ongoing economic uncertainty from the COVID-19 pandemic and government stimulus effects. Despite these risks, credit losses and delinquencies remained extraordinarily low by Q3 and Q4 2021.
+
+Forecasting credibility: High
+Management provided explicit guidance on credit loss rates early in 2021, which was exceeded according to actual results reported later in the year. The single guidance/actual pair available shows a pattern of exceeding expectations, supported by detailed reserve release figures and net charge-off data. This consistency in forecasting credit losses, combined with transparent disclosures about model risks and economic uncertainties, supports a high rating for forecasting credibility.
+
+Trends:
+  - Decreasing credit loss rates
+  - Consistent reserve releases
+  - Low net charge-offs
+  - Heightened model risk due to COVID-19
+  - Improving economic conditions
+
+Recurring themes/risks:
+  - COVID-19 pandemic impact
+  - Government stimulus effects
+  - Allowance for credit losses model risk
+  - Potential for delayed charge-offs
+  - Economic uncertainty and variants
+
+Key concerns:
+  - Heightened performance risk in credit loss models due to pandemic-related economic uncertainty could affect future credit loss recognition.
+  - The firm’s reliance on reserve releases to offset net charge-offs may mask underlying credit risk if economic conditions worsen.
+  - No inconsistencies or accounting changes were noted across filings, but ongoing pandemic risks remain a red flag.
+
+Conclusion:
+JPMorgan Chase demonstrated strong control over credit losses in 2021, with actual credit costs consistently showing net benefits driven by reserve releases that exceeded management's initial guidance. Despite the ongoing risks posed by the COVID-19 pandemic and related economic uncertainties, credit losses and delinquencies remained low throughout the year. The firm's transparent disclosures about model risks and the impact of government stimulus provide a comprehensive view of potential vulnerabilities. Overall, the evidence supports a conclusion that JPMorgan Chase managed credit losses effectively in 2021, maintaining a favorable credit loss profile while acknowledging the need for vigilance given the uncertain economic environment.
+
+Evidence Coverage: 99.1% complete; 220/222 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2021 ===
+Management said:
+  - We recorded 950 million of losses in credit adjustments in other and CIB, as well as a $900 million markdown on our bridge book.
+  - But I will say the 2.5%, I mean, pre-COVID, we would have thought that our loss rate in card this year would have been 3.3%, 3.5% So it just gives you a sense there of that tailwind on credit is significant.
+  - And credit costs were a net benefit of $121 million, primarily due to reserve releases.
+Guidance given:
+  - But I will say the 2.5%, I mean, pre-COVID, we would have thought that our loss rate in card this year would have been 3.3%, 3.5% So it just gives you a sense there of that tailwind on credit is significant. (target: FY2021; Exceeded)
+  - And while 1Q '21 card losses are higher quarter on quarter, we do expect losses to decrease in the second and third quarters. (target: Q2 and Q3 2021; Unresolved)
+Actual reported:
+  - [Observed] We recorded 950 million of losses in credit adjustments in other and CIB, as well as a $900 million markdown on our bridge book.
+  - [Observed] And credit costs were a net benefit of $121 million, primarily due to reserve releases.
+  - [Observed] And credit costs were a net benefit of 3.6 billion, driven by the 4.6 billion of reserve releases I previously mentioned, partially offset by net charge-offs of a billion.
+  - [Observed] Finally, credit costs were a net benefit of 118 million driven by reserve releases with net charge-offs of 29 million driven by oil and gas.
+  - [Observed] And credit costs were a net benefit of 4.2 billion driven by reserve releases.
+  - [Observed] And credit costs were a net benefit of 331 million, driven by the reserve releases I discussed earlier.
+  - [Observed] Included in these results are two significant items: 5.2 billion of net credit reserve releases, which I'll cover in more detail shortly; and a $550 million contribution to the firm's foundation in the form of equity investments.
+  - [Observed] And in credit, we built 6.8 billion of reserves relative to this quarter's release of 5.2 billion.
+Filing disclosures (SEC):
+  [MD&A]
+    - Consolidated Financial Highlights 3 Introduction 4 Executive Overview 5 Consolidated Results of Operations 9 Consolidated Balance Sheets and Cash Flows Analysis 12 Off-Balance Sheet Arrangements 15 Explanation and Reconciliation of the Firm’s Use of Non-GAAP Financial Measures 16 Business Segment Results 18 Firmwide Risk Management 35 Capital Risk Management 36 Liquidity Risk Management 42 Consumer Credit Portfolio 48 Wholesale Credit Portfolio 53 Investment Portfolio Risk Management 65 Market Risk Management 66 Country Risk Management 71 Operational Risk Management 72 Estimations and Model Risk Management 73 Critical Accounting Estimates Used by the Firm 74 Accounting and Reporting Developments 77 Forward-Looking Statements 78
+  [Financial Statements]
+    - 6 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - 3 real filing table(s) available (see the HTML report).
+    - Certain models used by JPMorgan Chase in connection with the determination of the allowance for credit losses have heightened performance risk in the economic environment precipitated by the effects of the COVID-19 pandemic and government stimulus.
+    - 172 A prolongation or worsening of the COVID-19 pandemic and the negative economic impacts of the pandemic could have other significant adverse effects on JPMorgan Chase’s businesses, results of operations and financial condition, including: • recognition of credit losses and further increases in the allowance for credit losses, especially to the extent that businesses remain closed, unemployment continues at elevated levels, clients and customers draw on their lines of credit or significant numbers of people relocate from metropolitan areas • material impacts on the value of securities, derivatives and other financial instruments which JPMorgan Chase owns or in which it makes markets • downgrades in JPMorgan Chase’s credit ratings • constraints on liquidity or capital due to elevated levels of deposits, increases in risk-weighted assets (“RWA”) related to supporting client activities, downgrades in client credit ratings, regulatory actions or other factors, any or all of which could require JPMorgan Chase to take or refrain from taking actions that it otherwise would under its liquidity and capital management strategies, and • the possibility that significant portions of JPMorgan Chase’s workforce are unable to work effectively, including because of illness, quarantines, shelter-in-place arrangements, government actions or other restrictions in connection with the pandemic.
+    - The adverse economic conditions caused by the pandemic have had a negative impact on certain of JPMorgan Chase’s businesses and results of operations, including: • reduction in demand for certain products and services from JPMorgan Chase’s clients and customers, resulting in lower revenue, and • increases in the allowance for credit losses.
+
+=== Q2 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - Consolidated Financial Highlights 3 Introduction 4 Executive Overview 5 Consolidated Results of Operations 10 Consolidated Balance Sheets and Cash Flows Analysis 15 Off-Balance Sheet Arrangements 18 Explanation and Reconciliation of the Firm’s Use of Non-GAAP Financial Measures 19 Business Segment Results 21 Firmwide Risk Management 44 Capital Risk Management 45 Liquidity Risk Management 51 Consumer Credit Portfolio 58 Wholesale Credit Portfolio 63 Investment Portfolio Risk Management 75 Market Risk Management 76 Country Risk Management 81 Operational Risk Management 82 Estimations and Model Risk Management 83 Critical Accounting Estimates Used by the Firm 84 Accounting and Reporting Developments 87 Forward-Looking Statements 88
+  [Financial Statements]
+    - 7 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - 3 real filing table(s) available (see the HTML report).
+    - Certain models used by JPMorgan Chase in connection with the determination of the allowance for credit losses have heightened performance risk in the economic environment precipitated by the effects of the COVID-19 pandemic and government stimulus.
+    - 190 A prolongation or worsening of the COVID-19 pandemic and the negative economic impacts of the pandemic could have other significant adverse effects on JPMorgan Chase’s businesses, results of operations and financial condition, including: • recognition of credit losses and further increases in the allowance for credit losses, especially to the extent that businesses remain closed, unemployment continues at elevated levels, clients and customers draw on their lines of credit or significant numbers of people relocate from metropolitan areas • material impacts on the value of securities, derivatives and other financial instruments which JPMorgan Chase owns or in which it makes markets • downgrades in JPMorgan Chase’s credit ratings • constraints on liquidity or capital due to elevated levels of deposits, increases in risk-weighted assets (“RWA”) related to supporting client activities, downgrades in client credit ratings, regulatory actions or other factors, any or all of which could require JPMorgan Chase to take or refrain from taking actions that it otherwise would under its liquidity and capital management strategies, and • the possibility that significant portions of JPMorgan Chase’s workforce are unable to work effectively, including because of illness, quarantines, shelter-in-place arrangements, government actions or other restrictions in connection with the pandemic.
+    - The adverse economic conditions caused by the pandemic have had a negative impact on certain of JPMorgan Chase’s businesses and results of operations, including: • reduction in demand for certain products and services from JPMorgan Chase’s clients and customers, resulting in lower revenue, and • increases in the allowance for credit losses.
+
+=== Q3 2021 ===
+Management said:
+  - Finally, credit costs were a net benefit of $363 million, driven by reserve releases with net charge-offs of 6 basis points.
+Guidance given:
+Actual reported:
+  - [Observed] In the meantime, credit losses and delinquencies remain extraordinarily low.
+  - [Observed] Finally, credit costs were a net benefit of $363 million, driven by reserve releases with net charge-offs of 6 basis points.
+  - [Observed] And credit costs were a net benefit of $638 million, driven by the reserve release I mentioned upfront.
+  - [Observed] And credit costs were a net benefit of $1.5 billion, driven by the reserve release.
+  - [Observed] These results include a $2.1 billion net credit reserve release, which I'll cover in more detail shortly as well as an income tax benefit of $566 million.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - 7 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - 3 real filing table(s) available (see the HTML report).
+
+=== Q4 2021 ===
+Management said:
+  - So when you look at the current state of the so-called Basel 3 endgame or Basel 4 proposals, and you look at the RWA components of them in isolation, you've got the change in the credit conversion factors, which, all else equal, is a tailwind.
+Guidance given:
+Actual reported:
+  - [Exceeded] And credit costs were a net benefit of $1.3 billion, reflecting reserve releases.
+  - [Observed] And credit costs were a net benefit of $89 million, driven by reserve releases, with net charge-offs of 2 basis points.
+  - [Observed] And credit costs were a net benefit of $126 million, driven by the reserve release I mentioned upfront.
+  - [Observed] These results included a $1.8 billion net credit reserve release, which I'll cover in more detail shortly.
+  - [Observed] I think, I alluded to a little bit -- I alluded a little bit to this earlier, which is there's a subtlety in the card business, where, if you remember, pre-pandemic, we had talked about card charge-off rates being at 3.25% and maybe trending a little bit higher over time as a function of some underwriting of some slightly higher risk vintages, still well within our credit box, still within our overall credit risk appetite, but just a slight shift in the composition of the portfolio there.
+Filing disclosures (SEC):
+  [MD&A]
+    - Consolidated Financial Highlights 3 Introduction 4 Executive Overview 5 Consolidated Results of Operations 10 Consolidated Balance Sheets and Cash Flows Analysis 16 Off-Balance Sheet Arrangements 19 Explanation and Reconciliation of the Firm’s Use of Non-GAAP Financial Measures 20 Business Segment Results 22 Firmwide Risk Management 47 Capital Risk Management 48 Liquidity Risk Management 54 Consumer Credit Portfolio 61 Wholesale Credit Portfolio 66 Investment Portfolio Risk Management 77 Market Risk Management 78 Country Risk Management 83 Operational Risk Management 84 Estimations and Model Risk Management 85 Critical Accounting Estimates Used by the Firm 86 Accounting and Reporting Developments 89 Forward-Looking Statements 90
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - Certain models used by JPMorgan Chase in connection with the determination of the allowance for credit losses have experienced heightened performance risk in the economic environment precipitated by the effects of the COVID-19 pandemic and government stimulus.
+    - Although global economic conditions have been improving despite the continuation of the COVID-19 pandemic, any ongoing negative economic impacts arising from the pandemic or any prolongation or worsening of the pandemic, including as a result of additional waves or 194 variants of the COVID-19 disease or the emergence of other diseases that have similar outcomes, could have significant adverse effects on JPMorgan Chase’s businesses, results of operations and financial condition, including: • recognition of charge-offs and increases in the allowance for credit losses, including any delayed recognition of charge-offs due to the impact of government stimulus actions or payment assistance provided to clients and customers • material impacts on the value of securities, derivatives and other financial instruments which JPMorgan Chase owns or in which it makes markets • downgrades in JPMorgan Chase’s credit ratings • constraints on liquidity or capital due to elevated levels of deposits, increases in risk-weighted assets (“RWA”) related to supporting client activities, downgrades in client credit ratings, regulatory actions or other factors, any or all of which could require JPMorgan Chase to take or refrain from taking actions that it otherwise would under its liquidity and capital management strategies, and • the possibility that significant portions of JPMorgan Chase’s workforce are unable to work effectively, including because of illness, quarantines, shelter-in-place arrangements, government actions or other restrictions in connection with the pandemic.
+    - The adverse economic conditions caused by the pandemic have had a negative impact on certain of JPMorgan Chase’s businesses and results of operations, including: • reduction in demand for certain products and services from JPMorgan Chase’s clients and customers, resulting in lower revenue, and • increases in the allowance for credit losses.
+    - In addition, certain models used by JPMorgan Chase as a basis for the determination of the allowance for expected credit losses experienced heightened performance risk in the economic environment during the early stages of the COVID-19 pandemic.
+    - Although global economic conditions have been improving despite the continuation of the COVID-19 pandemic, any ongoing negative economic impacts arising from the pandemic or any prolongation or worsening of the pandemic, including as a result of additional waves or variants of the COVID-19 disease or the emergence of other diseases that have similar outcomes, could have significant adverse effects on JPMorgan Chase’s businesses, results of operations and financial condition, including: • recognition of charge-offs and increases in the allowance for credit losses, including any delayed recognition of charge-offs due to the impact of government stimulus actions or payment assistance provided to clients and customers • material impacts on the value of securities, derivatives and other financial instruments which JPMorgan Chase owns or in which it makes markets • downgrades in JPMorgan Chase’s credit ratings • constraints on liquidity or capital due to elevated levels of deposits, increases in risk-weighted assets (“RWA”) related to supporting client activities, downgrades in client credit ratings, regulatory actions or other factors, any or all of which could require JPMorgan Chase to take or refrain from taking actions that it otherwise would under its liquidity and capital management strategies, and • the possibility that significant portions of JPMorgan Chase’s workforce are unable to work effectively, including because of illness, quarantines, shelter-in-place arrangements, government actions or other restrictions in connection with the pandemic.
+    - 15 Part I Heightened levels of unemployment or underemployment that result in reduced personal and household income could negatively affect consumer credit performance to the extent that consumers are less able to service their debts.
+    - The amount of capital that JPMorgan Chase is required to hold in order to satisfy these leverage-and risk-based requirements could increase at any given time due to factors such as: • actions by banking regulators, including changes in laws, rules, and regulations • actions taken by the Federal Reserve or the U.S. government in response to the economic effects of systemic events, such as the actions taken in response to the COVID-19 pandemic which led to an expansion of the Federal Reserve balance sheet, growth in deposits held by JPMorgan Chase and other U.S. financial institutions and, consequently, an increase in leverage exposure and the GSIB surcharge • changes in the composition of JPMorgan Chase’s balance sheet or developments that could increase risk weighted assets such as increased market risk, customer delinquencies, client credit rating downgrades or other factors, and 21 Part I • increases in estimated stress losses as determined by the Federal Reserve under the Comprehensive Capital Analysis and Review, which could increase JPMorgan Chase’s SCB.
+    - 16 Changes in interest rates and credit spreads can adversely affect certain of JPMorgan Chase’s revenue and income streams related to its traditional banking and funding activities.
+    - GSEs”) • increase concerns about whether the U.S. government will be funded, and its outstanding debt serviced, at any particular time • result in periodic shutdowns of the U.S. government or governments in other countries 14 • increase investor reliance on actions by the Federal Reserve or other central banks, or influence investor perceptions concerning government support of sectors of the economy or the economy as a whole • adversely affect the financial condition or credit ratings of clients and counterparties with which JPMorgan Chase does business, or • cause JPMorgan Chase to refrain from engaging in business opportunities that it might otherwise pursue.
+
+
+======================================================================
+TOPIC: investment banking
+======================================================================
+
+[CORE RESEARCH] JPM: investment banking
+
+Quarters searched: 3
+Filing sections searched: 34
+
+Over the reported periods from Q1 2021 through Q4 2021, investment banking revenue showed strong growth and record levels, with management frequently highlighting robust deal activity, particularly in M&A and acquisition-related financing. While management occasionally referenced the investment banking pipeline and market normalization expectations, no explicit forward guidance with quantifiable targets was provided. Actual reported revenues consistently showed year-over-year increases, with figures such as $2.9 billion in Q1, $3 billion in Q3, and $3.2 billion in Q4, reflecting sustained strength. The commentary emphasized favorable market conditions and a robust pipeline but did not translate into formal guidance-actual pairs for investment banking revenue or related metrics.
+
+Forecasting credibility: None
+No guidance-actual pairs were provided for investment banking revenue or related metrics across the periods reviewed, preventing any assessment of forecasting credibility. Management's commentary included qualitative outlooks and pipeline descriptions but lacked specific numeric guidance that could be compared to actual results. Therefore, forecasting credibility for investment banking cannot be rated based on the available evidence.
+
+Trends:
+  - Strong year-over-year revenue growth
+  - Record investment banking revenue levels
+  - Robust M&A and acquisition financing activity
+  - Market normalization expectations
+  - Consistent pipeline strength
+
+Recurring themes/risks:
+  - Dependence on market conditions
+  - Pipeline robustness as a key indicator
+  - Normalization of markets and banking activity
+  - Competitive pressures from various financial and nonbank firms
+
+Key concerns:
+  - Absence of explicit numeric forward guidance for investment banking revenue limits ability to assess forecasting accuracy.
+  - Reliance on qualitative descriptions and broad revenue figures without detailed segment breakdowns or forward-looking quantification.
+  - No accounting or reporting inconsistencies noted in the excerpts, but lack of granular guidance is a notable limitation.
+
+Conclusion:
+Investment banking revenue demonstrated strong and consistent growth throughout 2021, supported by robust deal activity and favorable market conditions. However, management did not provide explicit numeric forward guidance for investment banking revenue, resulting in no guidance-actual pairs to evaluate forecasting accuracy. Consequently, while the business segment appears healthy and growing, the absence of quantifiable guidance limits the ability to judge management's forecasting credibility in this area. For investment banking, investors should rely on reported results and qualitative commentary rather than forward guidance when assessing performance and outlook.
+
+Evidence Coverage: 98.1% complete; 157/160 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2021 ===
+Management said:
+  - Record gross investment banking revenue of 1.1 billion was up 65% with broad-based strength as market conditions remain favorable.
+  - Investment banking revenue of 2.9 billion was up 67% year on year, excluding the impact of the bridge book markdown last year.
+  - Revenue of 2.4 billion was up 11% year on year with higher lending and investment banking revenue in the absence of a prior year markdown in the bridge book, partially offset by lower deposit revenue.
+  - You mentioned the record investment banking pipeline and flattish year over year as a best guess.
+  - Effectively, investment banking activity stopped or got delayed, except for investment-grade debt issuance.
+  - Now turning to the corporate and investment bank on Page 6.
+  - While this comparison is in part impacted by several of the items I just mentioned, in absolute terms, we saw strong fee generation across the franchise, including in investment banking, AWM, and home lending as well as a strong performance in markets.
+  - Client investment assets were up 44%, driven by market appreciation and positive net flows across our advisor and digital channels.
+Guidance given:
+  - You mentioned the record investment banking pipeline and flattish year over year as a best guess. (target: future period; Unresolved)
+Actual reported:
+  - [Observed] Record gross investment banking revenue of 1.1 billion was up 65% with broad-based strength as market conditions remain favorable.
+  - [Observed] Investment banking revenue of 2.9 billion was up 67% year on year, excluding the impact of the bridge book markdown last year.
+Filing disclosures (SEC):
+  [MD&A]
+    - Consolidated Financial Highlights 3 Introduction 4 Executive Overview 5 Consolidated Results of Operations 9 Consolidated Balance Sheets and Cash Flows Analysis 12 Off-Balance Sheet Arrangements 15 Explanation and Reconciliation of the Firm’s Use of Non-GAAP Financial Measures 16 Business Segment Results 18 Firmwide Risk Management 35 Capital Risk Management 36 Liquidity Risk Management 42 Consumer Credit Portfolio 48 Wholesale Credit Portfolio 53 Investment Portfolio Risk Management 65 Market Risk Management 66 Country Risk Management 71 Operational Risk Management 72 Estimations and Model Risk Management 73 Critical Accounting Estimates Used by the Firm 74 Accounting and Reporting Developments 77 Forward-Looking Statements 78
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - 1 real filing table(s) available (see the HTML report).
+
+=== Q2 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - Consolidated Financial Highlights 3 Introduction 4 Executive Overview 5 Consolidated Results of Operations 10 Consolidated Balance Sheets and Cash Flows Analysis 15 Off-Balance Sheet Arrangements 18 Explanation and Reconciliation of the Firm’s Use of Non-GAAP Financial Measures 19 Business Segment Results 21 Firmwide Risk Management 44 Capital Risk Management 45 Liquidity Risk Management 51 Consumer Credit Portfolio 58 Wholesale Credit Portfolio 63 Investment Portfolio Risk Management 75 Market Risk Management 76 Country Risk Management 81 Operational Risk Management 82 Estimations and Model Risk Management 83 Critical Accounting Estimates Used by the Firm 84 Accounting and Reporting Developments 87 Forward-Looking Statements 88
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - 1 real filing table(s) available (see the HTML report).
+
+=== Q3 2021 ===
+Management said:
+  - Record gross investment banking revenue of $1.3 billion was up 60%, primarily driven by increased large deal activity with continued strength in M&A and acquisition-related financing across both corporate client and middle market banking.
+  - Investment banking revenue of $3 billion was up 45% versus the prior year and down 12% sequentially.
+  - Revenue of $2.5 billion was up 10% year on year on higher investment banking and wholesale payments revenue.
+  - And NIR was up 3%, driven by solid fee generation across investment banking and AWM, largely offset by net securities losses in corporate versus gains in the prior year and lower revenue in home lending.
+  - It was another strong quarter for investment banking, including an all-time record for M&A.
+  - Next, the corporate and investment bank on Page 6.
+  - Similarly, client investment assets were up 29% year on year.
+  - Commercial banking reported net income of $1.4 billion.
+Guidance given:
+Actual reported:
+  - [Unresolved] Record gross investment banking revenue of $1.3 billion was up 60%, primarily driven by increased large deal activity with continued strength in M&A and acquisition-related financing across both corporate client and middle market banking.
+  - [Observed] Investment banking revenue of $3 billion was up 45% versus the prior year and down 12% sequentially.
+  - [Observed] It was another strong quarter for investment banking, including an all-time record for M&A.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - 1 real filing table(s) available (see the HTML report).
+
+=== Q4 2021 ===
+Management said:
+  - Revenue of $2.6 billion was up 6% year on year on record investment banking revenue, driven by continued strength in M&A and acquisition-related financing.
+  - Investment banking revenue of $3.2 billion was up 28% versus the prior year and up 6% sequentially.
+  - However, for purposes of the first quarter in investment banking, the overall pipeline remains quite robust.
+  - In our central case, markets and banking normalized somewhat in 2022 relative to their respective record years in 2020 and 2021 and resume modest growth thereafter.
+  - But I think, we're expecting that normalization to be a little bit less, like we are near all the way down to the 2019 levels, partially because the banking pipeline is really very robust.
+  - We now are using J.P. Morgan's investment banking derivative capability to help clients who use derivatives for custody, to value them and stuff like that.
+  - We continue to hire bankers and advisors in investment banking, private banking and wealth management, really across all of the wholesale and consumer footprint, where we believe we have opportunities to better penetrate geographies and sectors to continue to grow share.
+  - And it was an exceptionally strong quarter for investment banking, particularly M&A, as well as another good quarter in AWM.
+  - It was a particularly strong year for both investment banking and markets.
+  - Some significant portion of that is driven by increases in incentive compensation, primarily from investment banking, markets and asset and wealth management, the major areas where we have seen exceptionally strong results and where changes in compensation are more closely linked to changes in performance.
+  - So in other words, we're sort of saying that as we -- as the environment continues to normalize in a variety of ways, so that includes policy rate normalization, rate curve normalization, as well as run rate normalization and markets revenues, with the sort of some background expectation of growth in our markets and investment banking revenues.
+Guidance given:
+  - However, for purposes of the first quarter in investment banking, the overall pipeline remains quite robust. (target: Q1 2022; Unresolved)
+  - So in other words, we're sort of saying that as we -- as the environment continues to normalize in a variety of ways, so that includes policy rate normalization, rate curve normalization, as well as run rate normalization and markets revenues, with the sort of some background expectation of growth in our markets and investment banking revenues. (target: ongoing/future periods; Unresolved)
+Actual reported:
+  - [Observed] Revenue of $2.6 billion was up 6% year on year on record investment banking revenue, driven by continued strength in M&A and acquisition-related financing.
+  - [Observed] Investment banking revenue of $3.2 billion was up 28% versus the prior year and up 6% sequentially.
+Filing disclosures (SEC):
+  [MD&A]
+    - Consolidated Financial Highlights 3 Introduction 4 Executive Overview 5 Consolidated Results of Operations 10 Consolidated Balance Sheets and Cash Flows Analysis 16 Off-Balance Sheet Arrangements 19 Explanation and Reconciliation of the Firm’s Use of Non-GAAP Financial Measures 20 Business Segment Results 22 Firmwide Risk Management 47 Capital Risk Management 48 Liquidity Risk Management 54 Consumer Credit Portfolio 61 Wholesale Credit Portfolio 66 Investment Portfolio Risk Management 77 Market Risk Management 78 Country Risk Management 83 Operational Risk Management 84 Estimations and Model Risk Management 85 Critical Accounting Estimates Used by the Firm 86 Accounting and Reporting Developments 89 Forward-Looking Statements 90
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - Competitors include: • other banks and financial institutions • trading, advisory and investment management firms 28 • finance companies • technology companies, and • other nonbank firms that are engaged in providing similar products and services.
+    - The amount of capital that JPMorgan Chase is required to hold in order to satisfy these leverage-and risk-based requirements could increase at any given time due to factors such as: • actions by banking regulators, including changes in laws, rules, and regulations • actions taken by the Federal Reserve or the U.S. government in response to the economic effects of systemic events, such as the actions taken in response to the COVID-19 pandemic which led to an expansion of the Federal Reserve balance sheet, growth in deposits held by JPMorgan Chase and other U.S. financial institutions and, consequently, an increase in leverage exposure and the GSIB surcharge • changes in the composition of JPMorgan Chase’s balance sheet or developments that could increase risk weighted assets such as increased market risk, customer delinquencies, client credit rating downgrades or other factors, and 21 Part I • increases in estimated stress losses as determined by the Federal Reserve under the Comprehensive Capital Analysis and Review, which could increase JPMorgan Chase’s SCB.
+    - 16 Changes in interest rates and credit spreads can adversely affect certain of JPMorgan Chase’s revenue and income streams related to its traditional banking and funding activities.
+    - These advances have also allowed financial institutions and other companies to provide electronic and internet-based financial solutions, including electronic securities and cryptocurrency trading, payments processing and online automated algorithmic-based investment advice.
+    - However, higher interest rates can also lead to: • fewer originations of commercial and residential real estate loans • losses on underwriting exposures • the loss of deposits, including in the event that JPMorgan Chase makes incorrect assumptions about depositor behavior • unrealized mark-to-market losses on available-for-sale (“AFS”) securities held in the investment securities portfolio • lower net interest income if central banks introduce interest rate increases more quickly than anticipated and this results in a misalignment in the pricing of short-term and long-term borrowings • less liquidity in the financial markets, and • higher funding costs.
+    - In addition, JPMorgan Chase’s investment portfolio and market-making businesses can suffer losses due to unanticipated market events, including: • severe declines in asset values • unexpected credit events • unforeseen events or conditions that may cause previously uncorrelated factors to become correlated (and vice versa) • the inability to effectively hedge market and other risks related to market-making and investment portfolio positions, or • other market risks that may not have been appropriately taken into account in the development, structuring or pricing of a financial instrument.
+
+
+======================================================================
+TOPIC: common equity tier 1
+======================================================================
+
+[CORE RESEARCH] JPM: common equity tier 1
+
+Quarters searched: 3
+Filing sections searched: 34
+
+Over the reported periods in 2021, management consistently reported key profitability metrics such as net income, EPS, and return on tangible common equity, but did not provide explicit forward guidance on common equity tier 1 (CET1) capital. The filings and transcripts reference regulatory constraints on share repurchases and dividends, which indirectly relate to capital management, but no direct forecasts or targets for CET1 were disclosed. The firm maintained strong profitability and capital returns, with dividend increases noted, but CET1 levels were only presented in filings without accompanying management guidance or forward-looking commentary. The regulatory environment and capital restrictions were highlighted as factors influencing capital actions.
+
+Forecasting credibility: None
+No guidance versus actual pairs were provided for common equity tier 1 capital, which is typical for such regulatory capital metrics that are more mechanical and accounting-driven. Therefore, it is not possible to assess management's forecasting credibility on CET1 from the available data. The absence of explicit CET1 guidance means no credibility rating can be assigned.
+
+Trends:
+  - Consistent strong profitability
+  - Return on tangible common equity stable around 18-29%
+  - Regulatory restrictions on dividends and repurchases
+  - Dividend increases despite capital constraints
+  - No explicit CET1 guidance
+
+Recurring themes/risks:
+  - Regulatory capital constraints limiting capital actions
+  - Impact of Federal Reserve restrictions on dividends and repurchases
+  - Reliance on net income averages for capital distribution limits
+
+Key concerns:
+  - No direct forward guidance or forecasts on common equity tier 1 capital were provided, limiting transparency on capital planning.
+  - Regulatory restrictions on capital distributions could affect the firm's flexibility but are not quantified in guidance.
+  - No accounting or reporting inconsistencies noted in CET1 disclosures across filings.
+
+Conclusion:
+Common equity tier 1 capital is a critical regulatory metric for the firm, but management did not provide explicit forward guidance on CET1 during 2021. Instead, the firm focused on profitability metrics and noted regulatory constraints on capital distributions that indirectly relate to CET1 management. The filings consistently disclosed CET1 levels and regulatory limitations, but without forecasts, making it impossible to judge forecasting accuracy or credibility. Overall, CET1 appears well-managed within regulatory frameworks, but transparency on future CET1 targets or expectations is lacking.
+
+Evidence Coverage: 99.2% complete; 130/131 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2021 ===
+Management said:
+  - Starting on Page 1, the firm reported net income of $14.3 billion, EPS of $4.50 on revenue of 33.1 billion, and delivered a return on tangible common equity of 29%.
+Guidance given:
+Actual reported:
+  - [Observed] Starting on Page 1, the firm reported net income of $14.3 billion, EPS of $4.50 on revenue of 33.1 billion, and delivered a return on tangible common equity of 29%.
+  - [Observed] Equity markets was up 47% and an all-time record, driven by a favorable trading environment in equity derivatives as well as strong client activity across products.
+  - [Observed] And in equity underwriting, fees were up more than 200%, primarily driven by IPOs as clients continue to take advantage of strong market conditions.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Stockholders' Equity: $280.71B | vs prior quarter: — | vs prior year: $261.26B (+7.4%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+
+=== Q2 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Stockholders' Equity: $286.39B | vs prior quarter: $280.71B (+2.0%) | vs prior year: $264.47B (+8.3%)
+    - 1 real filing table(s) available (see the HTML report).
+    - Consolidated Financial Statements – JPMorgan Chase & Co.: Consolidated statements of income (unaudited) for the three and six months ended June 30 , 2021 and 2020 89 Consolidated statements of comprehensive income (unaudited) for the three and six months ended June 30 , 2021 and 2020 90 Consolidated balance sheets (unaudited) at June 30 , 2021 and December 31, 2020 91 Consolidated statements of changes in stockholders’ equity (unaudited) for the three and six months ended June 30 , 2021 and 2020 92 Consolidated statements of cash flows (unaudited) for the six months ended June 30 , 2021 and 2020 93 Notes to Consolidated Financial Statements (unaudited) 94 Report of Independent Registered Public Accounting Firm 178 Consolidated Average Balance Sheets, Interest and Rates (unaudited) for the three months ended June 30 , 2021 and 2020 179 Glossary of Terms and Acronyms and Line of Business Metrics 181
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+
+=== Q3 2021 ===
+Management said:
+  - The firm reported net income of $11.7 billion, EPS of $3.74 on revenue of $30.4 billion and delivered a return on tangible common equity of 22%.
+  - And the common dividend was increased to $1 per share.
+Guidance given:
+Actual reported:
+  - [Observed] The firm reported net income of $11.7 billion, EPS of $3.74 on revenue of $30.4 billion and delivered a return on tangible common equity of 22%.
+  - [Observed] And the common dividend was increased to $1 per share.
+  - [Observed] Wholesale payments revenue of $1.6 billion was up 22%, or up 10% excluding gains on strategic equity investments.
+  - [Observed] And in equity underwriting, fees were up 41%, primarily driven by our strong performance in IPOs.
+  - [Observed] IB fees were up 52% year on year, driven by strong performance in advisory and equity underwriting and we maintained our No.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Stockholders' Equity: $290.04B | vs prior quarter: $286.39B (+1.3%) | vs prior year: $271.11B (+7.0%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+
+=== Q4 2021 ===
+Management said:
+  - We delivered a return on tangible common equity of 23% or 18%, excluding the reserve releases.
+Guidance given:
+Actual reported:
+  - [Observed] We delivered a return on tangible common equity of 23% or 18%, excluding the reserve releases.
+  - [Observed] Payments revenue was $1.8 billion, up 26% year on year or up 7%, excluding net gains on equity investments.
+  - [Observed] Equity markets were down 2% on $2 billion of revenue as continued strength in prime was more than offset by modest weakness in derivatives.
+  - [Observed] And NIR was down $456 million, primarily due to lower net gains on legacy equity investments.
+  - [Observed] And in equity underwriting, fees were up 12%, primarily driven by our strong performance in IPOs.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Stockholders' Equity: $294.13B | vs prior quarter: — | vs prior year: $279.35B (+5.3%)
+    - Consolidated Financial Statements – JPMorgan Chase & Co.: Consolidated statements of income (unaudited) for the three and nine months ended September 30, 2021 and 2020 91 Consolidated statements of comprehensive income (unaudited) for the three and nine months ended S eptember 30, 2021 and 2020 92 Consolidated balance sheets (unaudited) at September 30, 2021 and December 31, 2020 93 Consolidated statements of changes in stockholders’ equity (unaudited) for the three and nine months ended September 30, 2021 and 2020 94 Consolidated statements of cash flows (unaudited) for the nine months ended September 30, 2021 and 2020 95 Notes to Consolidated Financial Statements (unaudited) 96 Report of Independent Registered Public Accounting Firm 182 Consolidated Average Balance Sheets, Interest and Rates (unaudited) for the three and nin e months ended September 30, 2021 and 2020 183 Glossary of Terms and Acronyms and Line of Business Metrics 185
+  [Footnotes]
+    - 3 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - These limitations could affect the holding company’s ability to: • pay interest on its debt securities 19 Part I • pay dividends on its equity securities • redeem or repurchase outstanding securities, and • fulfill its other payment obligations.
+    - The holding company is obligated to contribute to the IHC substantially all the net proceeds received from securities issuances (including issuances of senior and subordinated debt securities and of preferred and common stock).
+    - Any failure by or inability of JPMorgan Chase to maintain the required level and composition of capital, or unfavorable changes in applicable capital requirements, could have an adverse impact on JPMorgan Chase’s shareholders, such as: • reducing the amount of common stock that JPMorgan Chase is permitted to repurchase • requiring the issuance of, or prohibiting the redemption of, capital instruments in a manner inconsistent with JPMorgan Chase’s capital management strategy • constraining the amount of dividends that may be paid on common stock, or • curtailing JPMorgan Chase’s business activities or operations.
+    - As a result, the Parent Company’s losses and any losses incurred by its subsidiaries would be imposed first on holders of the Parent Company’s equity securities and thereafter on its unsecured creditors, including holders of eligible LTD and other debt securities.
+    - Interest rate, equity, foreign exchange rate and other types of indices which are deemed to be “benchmarks,” including those in widespread and longstanding use, have been the subject of ongoing international, national and other regulatory scrutiny and initiatives for reform, including: • changes to the rules and methodologies under which certain benchmarks are administered • initiatives designed to discourage or prohibit the use of certain benchmarks by market participants • the introduction of alternative reference rates to be used by market participants in lieu of certain benchmarks, and • legislative proposals and actions providing for the replacement of reference rates under existing contracts and instruments that are linked to certain benchmarks with alternative reference rates .
+    - These factors could lead to: • slower growth rates, rising inflation or recession • greater market volatility • a contraction of available credit and the widening of credit spreads • erosion of adequate risk premium on certain financial assets • diminished investor and consumer confidence • lower investment growth • large-scale sales of government debt and other debt and equity securities in the U.S. and other countries • reduced commercial activity among trading partners • the potential for a currency redenomination by a particular country • the possible departure of a country from, or the dissolution of, a political or economic alliance or treaty • potential expropriation or nationalization of assets, or • other market dislocations, including the spread of unfavorable economic conditions from a particular country or region to other countries or regions.
+
+
+======================================================================
+TOPIC: expenses
+======================================================================
+
+[CORE RESEARCH] JPM: expenses
+
+Quarters searched: 3
+Filing sections searched: 34
+
+Over the periods reviewed, expenses generally trended upward, driven primarily by higher volume and revenue-related expenses, increased compensation costs, and continued investments. Management consistently highlighted structural expenses and legal expenses as partially offsetting factors. Guidance for future periods indicated expectations of rising expenses, with specific forecasts of approximately $70 billion for 2021 and $77 billion for 2022, both of which were met or closely aligned with actual results. However, some forward-looking guidance for 2022 and beyond remained unresolved at the time of reporting. Legal and operational risks were noted as ongoing contributors to expense volatility.
+
+Forecasting credibility: High
+Management provided two guidance/actual pairs with clear outcomes, both of which were met, demonstrating reliable forecasting accuracy. The 2021 expense guidance of approximately $70 billion was met, and the Q4 2021 reported expenses of $17.9 billion aligned with management's upward guidance. Although some future guidance remained unresolved, the available pairs support a high credibility rating for expense forecasting.
+
+Trends:
+  - Increasing expenses over time
+  - Higher compensation costs
+  - Rising volume and revenue-related expenses
+  - Continued investments driving expenses
+  - Partial offset from lower legal and structural expenses
+
+Recurring themes/risks:
+  - Legal expenses and litigation risks
+  - Inflationary pressures on expenses
+  - Investments and performance-related compensation
+  - Regulatory and operational cost risks
+
+Key concerns:
+  - No significant accounting or reporting inconsistencies were noted across filings and transcripts.
+  - Legal and operational risks remain a potential source of expense volatility and could impact future expense levels.
+  - Some forward guidance for 2022 and beyond was unresolved, limiting full assessment of forecasting accuracy for those periods.
+
+Conclusion:
+Expenses have consistently increased due to higher compensation, volume-related costs, and ongoing investments, partially offset by reductions in legal and structural expenses. Management's guidance has been generally accurate, with reported expenses meeting or aligning closely with forecasts. Legal and operational risks are important factors that could influence future expense trends. Overall, expenses are expected to continue rising moderately, reflecting both business growth and inflationary pressures, with management demonstrating credible forecasting ability based on the available guidance/actual pairs.
+
+Evidence Coverage: 94.5% complete; 104/110 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2021 ===
+Management said:
+  - Expenses of 2.6 billion were up 6% with higher volume and revenue-related expenses, partially offset by lower structural expense.
+  - Expenses of 969 million were down 2% driven by lower structural expenses.
+  - Expenses of 7.1 billion were up 19% year on year on higher revenue-related compensation, partially offset by lower legal expense.
+  - Expenses of 18.7 billion were up 12% year on year on higher volume and revenue-related expenses, the contribution to the foundation that I just mentioned, as well as continued investments.
+  - Expenses of 7.2 billion were down 1% as we self-fund our investments.
+  - And expenses of 876 million were up 730 million year on year, primarily driven by the contribution to the foundation I mentioned earlier.
+  - And then on expenses, we've increased our guidance to approximately 70 billion, with the largest driver being higher volume and revenue-related expenses, which importantly have offsets in revenue.
+Guidance given:
+  - And then on expenses, we've increased our guidance to approximately 70 billion, with the largest driver being higher volume and revenue-related expenses, which importantly have offsets in revenue. (target: future period (likely FY2021); Met)
+  - There are a few other things like marketing expense that, given the strength of the recovery that we expect, we now expect to lean more in on marketing expense in the second half of the year. (target: second half of the year 2021; Met)
+Actual reported:
+  - [Observed] Expenses of 2.6 billion were up 6% with higher volume and revenue-related expenses, partially offset by lower structural expense.
+  - [Observed] Expenses of 969 million were down 2% driven by lower structural expenses.
+  - [Observed] Expenses of 7.1 billion were up 19% year on year on higher revenue-related compensation, partially offset by lower legal expense.
+  - [Observed] Expenses of 18.7 billion were up 12% year on year on higher volume and revenue-related expenses, the contribution to the foundation that I just mentioned, as well as continued investments.
+  - [Observed] Expenses of 7.2 billion were down 1% as we self-fund our investments.
+  - [Observed] And expenses of 876 million were up 730 million year on year, primarily driven by the contribution to the foundation I mentioned earlier.
+Filing disclosures (SEC):
+  [Financial Statements]
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+
+=== Q3 2021 ===
+Management said:
+  - Expenses of $5.9 billion were flat year on year as higher structural and volume and revenue-related expense as well as investments were offset by lower legal expense.
+  - Expenses of $160 million were down $559 million year on year, primarily driven by the absence of an impairment on a legacy investment in the prior year.
+  - Expenses of $17.1 billion were up 1% year on year on continued investments and higher volume and revenue-related expenses, predominantly offset by lower legal expense and the absence of an impairment in the prior year.
+  - Expenses of $2.8 billion were up 13% year on year, largely driven by higher performance-related compensation as well as distribution fees.
+  - Expenses of $1 billion were up 7% year on year, predominantly due to investments and higher volume and revenue-related expenses.
+  - Expenses of $7.2 billion were up 5% year on year, driven by investments in the business, including marketing.
+  - There are no material expense.
+  - But realistically, expenses are going to be up next year.
+  - We still expect NII to be approximately $52.5 billion and adjusted expenses to be approximately $71 billion.
+  - You and your peers have all seen higher expenses this year, higher capital markets and incentive expense and increased investment spend.
+  - Of course, there's duplicate expenses and we have to sell the building and stuff like that.
+Guidance given:
+  - But realistically, expenses are going to be up next year. (target: FY2022; Unresolved)
+  - We still expect NII to be approximately $52.5 billion and adjusted expenses to be approximately $71 billion. (target: FY2022; Unresolved)
+Actual reported:
+  - [Observed] Expenses of $5.9 billion were flat year on year as higher structural and volume and revenue-related expense as well as investments were offset by lower legal expense.
+  - [Observed] Expenses of $160 million were down $559 million year on year, primarily driven by the absence of an impairment on a legacy investment in the prior year.
+  - [Observed] Expenses of $17.1 billion were up 1% year on year on continued investments and higher volume and revenue-related expenses, predominantly offset by lower legal expense and the absence of an impairment in the prior year.
+  - [Observed] Expenses of $2.8 billion were up 13% year on year, largely driven by higher performance-related compensation as well as distribution fees.
+  - [Observed] Expenses of $1 billion were up 7% year on year, predominantly due to investments and higher volume and revenue-related expenses.
+  - [Observed] Expenses of $7.2 billion were up 5% year on year, driven by investments in the business, including marketing.
+  - [Observed] There are no material expense.
+  - [Observed] I would have said that in reality, marginal expense increases as a function of most types of marginal revenue are actually lower than a lot of people think.
+Filing disclosures (SEC):
+  [Financial Statements]
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+
+=== Q4 2021 ===
+Management said:
+  - Expenses of $17.9 billion were up $1.8 billion or 11%, largely on higher compensation.
+  - Expenses of $251 million were down $110 million year on year.
+  - Expenses of $5.8 billion were up 18% year on year, predominantly due to higher compensation, as well as volume-related and legal expenses.
+  - Expenses of $1.1 billion were up 11% year on year, largely due to investments and higher volume and revenue-related expenses.
+  - Expenses of $3 billion were up 9% year on year, predominantly driven by higher performance-related compensation and distribution fees.
+  - And then, this bar also includes volume-related noncomp expenses such as brokerage and distribution fees, some of which are true expenses and some of which are bottom line neutral because they're offset with revenue gross-ups.
+  - And expenses of $7.8 billion were up 10% year on year on higher compensation, as well as continued investments in technology and marketing.
+  - And so, looking at adjusted expenses, we expect roughly $77 billion in 2022, an increase of about $6 billion year on year or 8%.
+  - And more often than not, it's driven by revenues, not expenses.
+  - But under some scenarios, elevated inflationary pressures on expenses could more than offset the rates benefit, which could represent around 75 basis points of downside.
+  - So number one, to the extent that we've done some M&A over the last 15 months, as you allude to, and that that has introduced some expenses into the run rate, the run rate impact of that is in the $3.5 billion.
+  - Now we are not going to get involved in every time we talk to you, I'll explain every part of the pancake buildup of expenses going in and expenses going out.
+  - So in that business, as you know, historically, winning new mandates, especially on services administration, tended to involve significant correlated large increases in expenses as you had to onboard a lot of fund accountants.
+Guidance given:
+  - And so, looking at adjusted expenses, we expect roughly $77 billion in 2022, an increase of about $6 billion year on year or 8%. (target: 2022; Unresolved)
+  - And just think about it is, expenses, you should expect to go up a little bit in 2023. (target: 2023; Unresolved)
+  - But under some scenarios, elevated inflationary pressures on expenses could more than offset the rates benefit, which could represent around 75 basis points of downside. (target: near term; Unresolved)
+Actual reported:
+  - [Met] Expenses of $17.9 billion were up $1.8 billion or 11%, largely on higher compensation.
+  - [Observed] Expenses of $251 million were down $110 million year on year.
+  - [Observed] Expenses of $5.8 billion were up 18% year on year, predominantly due to higher compensation, as well as volume-related and legal expenses.
+  - [Observed] Expenses of $1.1 billion were up 11% year on year, largely due to investments and higher volume and revenue-related expenses.
+  - [Observed] Expenses of $3 billion were up 9% year on year, predominantly driven by higher performance-related compensation and distribution fees.
+  - [Observed] And expenses of $7.8 billion were up 10% year on year on higher compensation, as well as continued investments in technology and marketing.
+  - [Observed] As I alluded to earlier, we are seeing some catch-up this year, both from the impact of inflation and our compensation expenses, as well as higher noncomp expense with the resumption of T&E, then volume and revenue-related expenses.
+  - [Observed] Then the middle bar is $3.4 billion of growth in volume and revenue-related expenses.
+  - [Observed] So number one, to the extent that we've done some M&A over the last 15 months, as you allude to, and that that has introduced some expenses into the run rate, the run rate impact of that is in the $3.5 billion.
+  - [Observed] So in that business, as you know, historically, winning new mandates, especially on services administration, tended to involve significant correlated large increases in expenses as you had to onboard a lot of fund accountants.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - JPMorgan Chase incurs significant costs and expenses in connection with its initiatives to address the risks associated with oversight of its internal and external service providers.
+    - These types of claims could subject JPMorgan Chase to higher legal expenses and operational costs, require it to pay significant amounts in connection with resolving litigation and other disputes, and harm its reputation.
+    - Rating agencies evaluate both general and firm-specific and industry-specific factors when determining credit ratings for a particular financial institution, including: • expected future profitability • risk management practices • legal expenses • ratings differentials between bank holding companies and their bank and non-bank subsidiaries • regulatory developments • assumptions about government support, and • economic and geopolitical developments.
+    - Any significant failure in this regard could diminish JPMorgan Chase’s ability to operate one or more of its businesses or result in: • potential liability to clients, counterparties and customers • increased operating expenses • higher litigation costs, including regulatory fines, penalties and other sanctions • damage to JPMorgan Chase’s reputation • impairment of JPMorgan Chase’s liquidity • regulatory intervention, or • weaker competitive standing.
+    - Any of the risk factors discussed below could by itself, or combined with other factors, materially and adversely affect JPMorgan Chase’s business, results of operations, financial condition, capital position, liquidity, competitive position or reputation, including by materially increasing expenses or decreasing revenues, which could result in material losses or a decrease in earnings.
+    - Management’s effectiveness in this regard will affect JPMorgan Chase’s ability to develop and enhance its resources, control expenses and return capital to shareholders.
+
