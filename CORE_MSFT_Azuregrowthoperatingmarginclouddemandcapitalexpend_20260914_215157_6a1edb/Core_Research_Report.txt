@@ -1,0 +1,973 @@
+[CORE RESEARCH - MULTIPLE TOPICS] MSFT: Azure growth | operating margin | cloud demand | capital expenditures | AI
+
+
+======================================================================
+TOPIC: Azure growth
+======================================================================
+
+[CORE RESEARCH] MSFT: Azure growth
+
+Quarters searched: 4
+Filing sections searched: 208
+
+Azure growth showed strong and consistent expansion throughout 2022, with growth rates generally in the mid-to-high 40% range in constant currency during the first three quarters. Management frequently highlighted the strength of consumption-based services and large enterprise deals as key drivers. However, in Q4 2022, Azure growth moderated to 35% reported in filings, below the prior quarters' pace and slightly below management's expectations of around 40-46%. Guidance for Q1 2023 suggested a further deceleration to 43% growth in constant currency, reflecting a maturing installed base and some moderation in consumption growth. Despite this, Azure continued to demonstrate robust demand across industries and geographies, supported by strong commercial bookings and large contract wins.
+
+Forecasting credibility: High
+There is one clear guidance/actual pair with a verdict in Q4 2022 where management expected around 40-46% growth but actual growth was 35%, which was a miss relative to prior quarters but still strong growth. Earlier quarters' commentary and actuals were consistent and aligned, with management accurately describing growth trends and drivers. The single miss in Q4 2022 is understandable given the noted moderation and size of the installed base, but overall management's forecasting has been credible and consistent with actual results.
+
+Trends:
+  - Strong double-digit growth early in year
+  - Consistent mid-to-high 40% growth in Q1-Q3
+  - Moderation to mid-30% growth in Q4
+  - Large enterprise deal growth
+  - Consumption-based services driving revenue
+
+Recurring themes/risks:
+  - Consumption-based service strength
+  - Large $100M+ Azure deals
+  - Maturing installed base leading to growth moderation
+  - Geographic and industry-wide adoption
+  - Shift in sales mix impacting margins
+
+Key concerns:
+  - Q4 2022 showed a notable deceleration in Azure growth to 35%, below prior quarters and slightly below expectations, indicating potential early signs of market saturation or slower consumption growth.
+  - Management's guidance for Q1 2023 anticipates further moderation, which may signal a trend that investors should monitor closely.
+  - No significant accounting or reporting inconsistencies were noted across filings; actuals from filings were consistent with management commentary.
+
+Conclusion:
+Azure growth in 2022 was robust and largely exceeded or met expectations through the first three quarters, driven by strong consumption-based services and large enterprise contracts. However, Q4 2022 marked a clear deceleration to 35% growth, below the prior trend and slightly under management's expectations, signaling a moderation phase as the installed base matures. Management's guidance for Q1 2023 anticipates continued moderation but still strong growth around 43%. Overall, Azure remains a key growth engine for Microsoft, but the pace of expansion is beginning to slow from the very high growth rates seen earlier in the year.
+
+Evidence Coverage: 99.2% complete; 360/363 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2022 ===
+Management said:
+  - Azure and other cloud services grew 50% and 48% in constant currency, ahead of expectations, driven by our consumption-based services.
+  - In identity, Azure Active Directory now has more than 500 million monthly active users and we have seen usage of third-party apps increase 1.5 times year over year.
+  - Excluding the impact from a change in accounting estimate for the useful life of server and network equipment assets, Microsoft Cloud's gross margin percentage increased roughly four points, driven by improvement in our cloud services, particularly in Azure and Office 365, partially offset by sales mix shift to Azure.
+  - Absolutely, we think of the Microsoft Cloud, which includes Azure, it includes Dynamics 365, it includes Microsoft 365, it includes things like Power Platform, it includes even GitHub and VS Code.
+  - The interesting thing for us even in that context is even in the height of our success in the client-server era, we've really would never a Tier 1 company, whereas now we are in the sense that you take all the SAP workloads that are running on Azure, which I talked about, or other Tier 1 workloads that are migrating whether it's HPC or transactional database workloads.
+Guidance given:
+Actual reported:
+  - [Observed] [from 10-K/10-Q] Server products and cloud services revenue increased 29% driven by Azure and other cloud services growth of 46%.
+  - [Observed] [from 10-K/10-Q] Intelligent Cloud Revenue increased $3.9 billion or 26%. • Server products and cloud services revenue increased $3.8 billion or 29% driven by Azure and other cloud services. Azure and other cloud services revenue grew 46% driven by growth in our consumption-based services.
+  - [Observed] [from 10-K/10-Q] Intelligent Cloud Revenue increased $11.6 billion or 27%. • Server products and cloud services revenue increased $11.4 billion or 31% driven by Azure and other cloud services. Azure and other cloud services revenue grew 47% driven by growth in our consumption-based services.
+  - [Observed] [from 10-K/10-Q] Intelligent Cloud revenue increased driven by Azure and other cloud services.
+  - [Observed] Azure and other cloud services grew 50% and 48% in constant currency, ahead of expectations, driven by our consumption-based services.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - • Server products and cloud services revenue increased 29% driven by Azure and other cloud services growth of 46%.
+    - • Dynamics products and cloud services revenue increased 22% driven by Dynamics 365 growth of 35%.
+    - • Office Commercial products and cloud services revenue increased 12% driven by Office 365 Commercial growth of 17%.
+    - We strive to create local opportunity, growth, and impact in every country around the world.
+  [Risk Factors]
+    - We will continue to make significant investments in research, development, and marketing for existing products, services, and technologies, including the Windows operating system, Microsoft 365, Office, Bing, SQL Server, Windows Server, Azure, Office 365, Xbox, LinkedIn, and other products and services.
+    - Our success in the IoT will depend on the level of adoption of our offerings such as Azure, Azure Stack, Azure IoT Edge, and Azure Sphere.
+    - A well-established ecosystem creates beneficial network effects among users, application developers, and the platform provider that can accelerate growth.
+    - Our intelligent cloud and intelligent edge worldview is connected with the growth of the Internet of Things (“IoT”).
+
+=== Q2 2022 ===
+Management said:
+  - Azure and other cloud services growth of 46% was driven by continued strength in our consumption-based services.
+  - Commercial bookings grew 32% and 37% in constant currency, significantly ahead of expectations, driven by the large, long-term Azure contracts, noted earlier, and strong execution across our core annuity sales motions.
+Guidance given:
+Actual reported:
+  - [Observed] Azure and other cloud services growth of 46% was driven by continued strength in our consumption-based services.
+Filing disclosures (10-K/10-Q):
+
+=== Q3 2022 ===
+Management said:
+  - The number of $100 million-plus Azure deals more than doubled year over year, and we are seeing consumption growth across every industry, customer segment, and geography.
+  - Azure growth in commercial bookings strength stand out.
+  - You mentioned a stepdown expected in Azure growth in Q4 but it still suggests very impressive growth at that scale.
+  - Azure and other cloud services grew 46% and 49% in constant currency, ahead of expectations, driven by continued strength in our consumption-based services.
+  - Azure gaming revenue fiscal year-to-date increased 66%.
+  - Azure Active Directory is the undisputed market leader with more than 550 million monthly active users.
+  - We're winning Tier 1 infrastructure workloads, leaders in every industry from BlackRock to Bridgestone to Lufthansa are all moving mission-critical workloads to Azure.
+  - With Windows 365, we are bringing the power of Azure computing to Windows computers, enabling businesses like Lands' End, SCS and Xerox to stream the full Windows experience to any employee device.
+  - But the most exciting thing is the type of Tier 1 workloads that we have never seen run on any Microsoft infrastructure that's running on Azure today and being optimized on Azure.
+Guidance given:
+  - You mentioned a stepdown expected in Azure growth in Q4 but it still suggests very impressive growth at that scale. (target: Q4 2022; Met)
+Actual reported:
+  - [Observed] Azure growth in commercial bookings strength stand out.
+  - [Observed] The number of $100 million-plus Azure deals more than doubled year over year, and we are seeing consumption growth across every industry, customer segment, and geography.
+  - [Observed] Azure and other cloud services grew 46% and 49% in constant currency, ahead of expectations, driven by continued strength in our consumption-based services.
+  - [Observed] Azure gaming revenue fiscal year-to-date increased 66%.
+Filing disclosures (10-K/10-Q):
+
+=== Q4 2022 ===
+Management said:
+  - Azure and other cloud services revenue grew 40% and 46% in constant currency, about one point lower than expected, driven by a slight moderation in Azure consumption growth across customer segments.
+  - Azure revenue will continue to be driven by strong growth in consumption, and our per-user business should continue to benefit from Microsoft 365 suite momentum, although we expect moderation in growth rates, given the size of the installed base.
+  - I thought your guidance for Azure constant currency growth in the September quarter of a three-point decel to 43 is fairly solid.
+  - Our record commitment quarter was driven by increases in the number of $100 million-plus Azure and $10 million-plus Microsoft 365 contracts as well as consistent strong execution across our core annuity sales motions.
+  - Azure Virtual Desktop monthly active usage increased nearly 60% year-over-year.
+  - We are transforming how Windows is experienced and managed with Azure Virtual Desktop and Windows 365.
+Guidance given:
+  - Azure revenue will continue to be driven by strong growth in consumption, and our per-user business should continue to benefit from Microsoft 365 suite momentum, although we expect moderation in growth rates, given the size of the installed base. (target: future periods; Unresolved)
+  - I thought your guidance for Azure constant currency growth in the September quarter of a three-point decel to 43 is fairly solid. (target: Q1 2023 (September quarter); Unresolved)
+Actual reported:
+  - [Met] [from 10-K/10-Q] Server products and cloud services revenue increased 22% driven by Azure and other cloud services growth of 35%.
+  - [Observed] [from 10-K/10-Q] Intelligent Cloud Revenue increased $3.4 billion or 20%. • Server products and cloud services revenue increased $3.3 billion or 22% driven by Azure and other cloud services. Azure and other cloud services revenue grew 35% driven by growth in our consumption-based services.
+  - [Observed] Azure and other cloud services revenue grew 40% and 46% in constant currency, about one point lower than expected, driven by a slight moderation in Azure consumption growth across customer segments.
+  - [Observed] Azure Virtual Desktop monthly active usage increased nearly 60% year-over-year.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - • Server products and cloud services revenue increased 22% driven by Azure and other cloud services growth of 35%.
+    - • Dynamics products and cloud services revenue increased 15% driven by Dynamics 365 growth of 24%.
+    - • Office Commercial products and cloud services revenue increased 7% driven by Office 365 Commercial growth of 11%.
+    - We strive to create local opportunity, growth, and impact in every country around the world.
+    - • Server products and cloud services revenue increased 20% driven by Azure and other cloud services growth of 31%.
+    - • Dynamics products and cloud services revenue increased 13% driven by Dynamics 365 growth of 21%.
+    - • Office Commercial products and cloud services revenue increased 7% driven by Office 365 Commercial growth of 11%.
+    - We strive to create local opportunity, growth, and impact in every country around the world.
+    - • Server products and cloud services revenue increased 28% driven by Azure and other cloud services growth of 45%.
+    - • Dynamics products and cloud services revenue increased 25% driven by Dynamics 365 growth of 39%.
+    - • Office Commercial products and cloud services revenue increased 13% driven by Office 365 Commercial growth of 18%.
+    - We strive to create local opportunity, growth, and impact in every country around the world.
+  [Financial Statements]
+    - Service and other revenue includes sales from cloud-based solutions that provide customers with software, services, platforms, and content such as Office 365, Azure, Dynamics 365, and Xbox; solution support; and consulting services.
+  [Risk Factors]
+    - We will continue to make significant investments in research, development, and marketing for existing products, services, and technologies, including the Windows operating system, Microsoft 365, Bing, SQL Server, Windows Server, Azure, Office 365, Xbox, LinkedIn, and other products and services.
+    - Our success in the IoT will depend on the level of adoption of our offerings such as Azure, Azure Stack, Azure IoT Edge, and Azure Sphere.
+    - Our intelligent cloud and intelligent edge worldview is connected with the growth of the Internet of Things (“IoT”), a network of distributed and interconnected devices employing sensors, data, and computing capabilities, including AI.
+    - A well-established ecosystem creates beneficial network effects among users, application developers, and the platform provider that can accelerate growth.
+    - We will continue to make significant investments in research, development, and marketing for existing products, services, and technologies, including the Windows operating system, Microsoft 365, Bing, SQL Server, Windows Server, Azure, Office 365, Xbox, LinkedIn, and other products and services.
+    - Our success in the IoT will depend on the level of adoption of our offerings such as Azure, Azure Stack, Azure IoT Edge, and Azure Sphere.
+    - Our intelligent cloud and intelligent edge worldview is connected with the growth of the Internet of Things (“IoT”), a network of distributed and interconnected devices employing sensors, data, and computing capabilities, including AI.
+    - A well-established ecosystem creates beneficial network effects among users, application developers, and the platform provider that can accelerate growth.
+    - A well-established ecosystem creates beneficial network effects among users, application developers, and the platform provider that can accelerate growth.
+
+
+======================================================================
+TOPIC: operating margin
+======================================================================
+
+[CORE RESEARCH] MSFT: operating margin
+
+Quarters searched: 4
+Filing sections searched: 208
+
+Over the course of 2022, management consistently communicated expectations of operating margin expansion or stability despite significant investments and changes in accounting estimates. Early in the year, operating margins expanded by 2 points to 45%, with management noting the impact of investments on costs but still achieving margin growth. Mid-year, operating margins continued to improve slightly, with guidance for full-year 2022 margins to be slightly up year over year, which was met. By Q3, management maintained confidence in margin expansion despite a complex macro environment, and actuals showed slight margin increases. However, in Q4, operating margins decreased to 40%, though management forecasted approximately flat margins for FY 2023 excluding accounting benefits, with the impact of changes in useful life estimates significantly boosting reported operating income in filings.
+
+Forecasting credibility: High
+Management provided three guidance/actual pairs related to operating margins, all of which were met. Their forecasts about margin expansion or stability were consistently aligned with actual reported results, including the impact of accounting estimate changes. The presence of precise filing data supporting the reported operating income figures further strengthens the credibility of their guidance.
+
+Trends:
+  - Operating margin expansion early 2022
+  - Slight margin growth mid-2022
+  - Margin stability forecast for FY 2023
+  - Significant impact from accounting estimate changes
+  - Investments increasing operating costs
+
+Recurring themes/risks:
+  - Impact of strategic investments on operating costs
+  - Changes in accounting estimates affecting operating income
+  - New products with potentially lower margins
+  - Macroeconomic complexity
+
+Key concerns:
+  - Accounting estimate changes notably increased operating income by over $2 billion in H2 2022, which complicates direct margin comparisons.
+  - Despite margin expansion guidance, Q4 2022 saw a decrease in operating margin to 40%, indicating potential pressure from investments or market conditions.
+  - The company warns that new products and infrastructure investments may reduce margins, highlighting ongoing margin risk.
+
+Conclusion:
+Operating margin showed a positive trajectory through most of 2022, with management successfully forecasting slight expansions or stability despite increased operating expenses from investments. The actual operating margin increased early in the year and remained stable or slightly improved through Q3, supported by strong operating income growth. However, Q4 saw a margin decline to 40%, partially offset by significant accounting estimate changes that increased reported operating income by approximately $2 billion in the latter half of the year. Management's guidance has been credible, but the margin pressure in Q4 and the reliance on accounting adjustments suggest that sustaining margin expansion may be challenging amid ongoing investments and macroeconomic uncertainties.
+
+Evidence Coverage: 99.2% complete; 255/257 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2022 ===
+Management said:
+  - Operating income increased 27% and 24% in constant currency, and operating margins expanded two points year over year to 45%.
+  - Operating expense increased 7%, and operating income increased 33% and 29% in constant currency.
+  - Operating expense increased 13% and 12% in constant currency and operating income grew 39% and 37% in constant currency.
+Guidance given:
+Actual reported:
+  - [Observed] Operating income increased 27% and 24% in constant currency, and operating margins expanded two points year over year to 45%.
+  - [Observed] Excluding the impact of the change in accounting estimate, operating margins expanded roughly four points year over year.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - The investments we are making in infrastructure and devices will continue to increase our operating costs and may decrease our operating margins.
+  [Financial Statements]
+    - Operating Income: $20.24B | vs prior quarter: — | vs prior year: $15.88B (+27.5%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - New products and services may not be profitable, and even if they are profitable, operating margins for some new products and businesses will not be as high as the margins we have experienced historically.
+    - These costs will reduce the operating margins we have previously achieved.
+    - Efforts to compete with competitors’ content and application marketplaces may increase our cost of revenue and lower our operating margins.
+    - To the extent we shift a portion of our business to a vertically integrated model we increase our cost of revenue and reduce our operating margins.
+    - STRATEGIC AND COMPETITIVE RISKS We face intense competition across all markets for our products and services, which may lead to lower revenue or operating margins.
+    - This may negatively impact gross margins and operating income.
+
+=== Q2 2022 ===
+Management said:
+  - Operating income increased 24% and operating margins expanded one point year over year to 43%.
+  - And finally, for FY '22, given our strong performance in the first half of the fiscal year and our current H2 outlook, full year operating margins should be slightly up year over year even with the impact of changes in accounting estimates noted earlier and the significant strategic investments we are making to capture the tremendous opportunities ahead of us.
+  - Operating expense increased 13%, and operating income increased 24%.
+Guidance given:
+  - And finally, for FY '22, given our strong performance in the first half of the fiscal year and our current H2 outlook, full year operating margins should be slightly up year over year even with the impact of changes in accounting estimates noted earlier and the significant strategic investments we are making to capture the tremendous opportunities ahead of us. (target: FY 2022; Met)
+Actual reported:
+  - [Observed] Operating income increased 24% and operating margins expanded one point year over year to 43%.
+  - [Observed] Excluding the impact of the change in accounting estimate, operating margins expanded roughly three points year over year.
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Operating Income: $22.25B | vs prior quarter: $20.24B (+9.9%) | vs prior year: $17.90B (+24.3%)
+
+=== Q3 2022 ===
+Management said:
+  - Operating income increased 19% and 23% in constant currency, and operating margins increased slightly year over year to 41%.
+  - We expect to close FY '22, even in a more complex macro environment, with the same consistency we have delivered throughout the year, with strong revenue growth, share gains, and improved operating margins as we invest in the areas that are key to sustaining that growth.
+  - As we look toward FY '23, our track record of delivering high value to our customers across many diverse and durable growth markets gives us confidence that we will drive continued healthy double-digit revenue and operating income growth.
+  - We expect COGS of $16.6 billion to $16.8 billion and operating expense of $14.8 billion to $14.9 billion, resulting in another quarter of operating margin expansion, excluding the change in useful life.
+Guidance given:
+  - We expect to close FY '22, even in a more complex macro environment, with the same consistency we have delivered throughout the year, with strong revenue growth, share gains, and improved operating margins as we invest in the areas that are key to sustaining that growth. (target: FY 2022; Met)
+  - We expect COGS of $16.6 billion to $16.8 billion and operating expense of $14.8 billion to $14.9 billion, resulting in another quarter of operating margin expansion, excluding the change in useful life. (target: Q4 2022; Met)
+Actual reported:
+  - [Observed] Operating income increased 19% and 23% in constant currency, and operating margins increased slightly year over year to 41%.
+  - [Observed] Excluding the impact of the change in accounting estimate, operating margins expanded roughly two points year over year.
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Operating Income: $20.36B | vs prior quarter: $22.25B (-8.5%) | vs prior year: $17.05B (+19.5%)
+
+=== Q4 2022 ===
+Management said:
+  - Operating income increased 8% and 14% in constant currency, and operating margins decreased year over year to 40%.
+  - And even with this significant level of investment in our future, we expect operating margins based on constant currency to be approximately flat year over year in FY '23, excluding the benefit from the latest change in useful life.
+  - Operating expense increased 12% and 14% in constant currency, and operating income increased 12% and 19% in constant currency.
+Guidance given:
+  - And even with this significant level of investment in our future, we expect operating margins based on constant currency to be approximately flat year over year in FY '23, excluding the benefit from the latest change in useful life. (target: FY 2023; Unresolved)
+Actual reported:
+  - [Met] [from 10-K/10-Q] Operating income 21,518 20,238
+  - [Observed] [from 10-K/10-Q] Operating Income Productivity and Business Processes $ 8,323 $ 7,581 Intelligent Cloud 8,978 7,681 More Personal Computing 4,217 4,976 Total $ 21,518 $ 20,238
+  - [Observed] Operating income increased 8% and 14% in constant currency, and operating margins decreased year over year to 40%.
+  - [Observed] Excluding the impact of the change in accounting estimate and FX, operating margins were relatively unchanged as the improvement in cloud services noted earlier and sales mix shift to higher-margin businesses were offset by the impact of the Nuance acquisition.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Operating Income: $83.38B | vs prior quarter: — | vs prior year: $69.92B (+19.3%)
+    - 1 real filing table(s) available (see the HTML report).
+    - Based on the carrying amount of server and network equipment included in property and equipment, net as of June 30, 2022, the effect of this change in estimate for the three months ended September 30, 2022, was an increase in operating income of $ 1.1 billion and net income of $ 859 million, or $ 0.12 and $ 0.11 per basic and diluted share, respectively.
+    - Based on the carrying amount of server and network equipment included in property and equipment, net as of June 30, 2022, the effect of this change in estimate for the three months ended December 31, 2022 was an increase in operating income of $ 945 million and net income of $ 768 million, or $ 0.10 per both basic and diluted share.
+    - The effect of this change for the six months ended December 31, 2022 was an increase in operating income of $ 2.0 billion and net income of $ 1.6 billion, or $ 0.22 per both basic and diluted share.
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - New products and services may not be profitable, and even if they are profitable, operating margins for some new products and businesses will not be as high as the margins we have experienced historically.
+    - These costs will reduce the operating margins we have previously achieved.
+    - Efforts to compete with competitors’ content and application marketplaces may increase our cost of revenue and lower our operating margins.
+    - To the extent we shift a portion of our business to a vertically integrated model we increase our cost of revenue and reduce our operating margins.
+    - STRATEGIC AND COMPETITIVE RISKS We face intense competition across all markets for our products and services, which may lead to lower revenue or operating margins.
+    - This may negatively impact gross margins and operating income.
+    - New products and services may not be profitable, and even if they are profitable, operating margins for some new products and businesses will not be as high as the margins we have experienced historically.
+    - These costs will reduce the operating margins we have previously achieved.
+    - Efforts to compete with competitors’ content and application marketplaces may increase our cost of revenue and lower our operating margins.
+    - To the extent we shift a portion of our business to a vertically integrated model we increase our cost of revenue and reduce our operating margins.
+    - STRATEGIC AND COMPETITIVE RISKS We face intense competition across all markets for our products and services, which may lead to lower revenue or operating margins.
+    - This may negatively impact gross margins and operating income.
+    - Efforts to compete with competitors’ content and application marketplaces may increase our cost of revenue and lower our operating margins.
+    - To the extent we shift a portion of our business to a vertically integrated model we increase our cost of revenue and reduce our operating margins.
+    - STRATEGIC AND COMPETITIVE RISKS We face intense competition across all markets for our products and services, which may lead to lower revenue or operating margins.
+
+
+======================================================================
+TOPIC: cloud demand
+======================================================================
+
+[CORE RESEARCH] MSFT: cloud demand
+
+Quarters searched: 4
+Filing sections searched: 208
+
+Over the periods from Q1 2022 through Q4 2022, Microsoft consistently reported strong demand for its cloud services, particularly Azure and Microsoft 365. Management's guidance for Intelligent Cloud revenue generally anticipated low to mid double-digit growth, which was met or exceeded in all reported quarters. Azure and other cloud services showed robust growth rates ranging from 35% to nearly 50%, driven by consumption-based services. Despite some slight moderation in Azure consumption growth in Q4 2022, overall cloud demand remained strong, with Microsoft Cloud revenue surpassing $25 billion quarterly for the first time. The company also highlighted ongoing investments in cloud engineering and commercial sales to support this demand.
+
+Forecasting credibility: High
+Microsoft's management demonstrated high forecasting credibility with three guidance/actual pairs all met or exceeded. The Intelligent Cloud revenue guidance was consistently accurate, with actual revenues surpassing or meeting the forecasted ranges each quarter. The use of filing-sourced actuals confirms the reliability of these results, reinforcing confidence in management's ability to predict cloud demand accurately.
+
+Trends:
+  - Strong double-digit growth in cloud revenue
+  - Consistent Azure consumption-based service growth
+  - Increasing Microsoft 365 subscriber base
+  - Slight moderation in Azure growth in Q4 2022
+  - Record quarterly Microsoft Cloud revenues
+
+Recurring themes/risks:
+  - Dependence on consumption-based cloud services
+  - Macroeconomic environment impact on Azure consumption
+  - Continued investment in cloud engineering and sales
+  - Revenue recognition timing effects
+
+Key concerns:
+  - Slight moderation in Azure consumption growth in Q4 2022 noted, about one point lower than expected
+  - Some benefit from contract mix and revenue recognition timing in Windows commercial products and cloud services revenue
+  - No significant accounting changes or inconsistencies detected across filings
+
+Conclusion:
+Cloud demand for Microsoft remained robust throughout 2022, with Azure and Microsoft 365 driving strong revenue growth. Management's guidance was consistently accurate, reflecting a clear understanding of market dynamics and customer consumption patterns. Despite a minor slowdown in Azure consumption growth in Q4, the overall trajectory was positive, supported by record quarterly cloud revenues and expanding subscriber numbers. The company's continued investment in cloud engineering and commercial sales indicates confidence in sustained cloud demand. Therefore, evidence strongly supports that cloud demand remains a key growth driver and is expected to continue growing, albeit with some sensitivity to macroeconomic factors.
+
+Evidence Coverage: 99.1% complete; 573/578 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2022 ===
+Management said:
+  - In Windows commercial products and cloud services, customer demand for Microsoft 365 and our advanced security solutions should drive low double-digit growth.
+  - Windows commercial products and cloud services revenue grew 12% and 10% in constant currency, driven by demand for Microsoft 365.
+  - Revenue was $17 billion, increasing 31% and 29% in constant currency, ahead of expectations, driven by continued customer demand for our differentiated hybrid and cloud offerings.
+  - Azure and other cloud services grew 50% and 48% in constant currency, ahead of expectations, driven by our consumption-based services.
+  - For intelligent cloud, we expect revenue between $18.1 billion and $18.35 billion.
+  - Overall, server products and cloud services revenue increased 35% and 33% in constant currency.
+  - Microsoft Cloud revenue grew 36% and 34% in constant currency to $20.7 billion, ahead of expectations.
+  - Cloud gaming is now available in 26 countries, including, as of this quarter, in Australia, Brazil, Mexico, and Japan.
+  - Cash flow from operations was $24.5 billion, increasing 27% year over year, driven by strong cloud billings and collections.
+  - We're off to a fast start in fiscal 2022 with Microsoft Cloud quarterly revenue surpassing $20 billion for the first time, up 36% year over year.
+  - Excluding the impact from a change in accounting estimate for the useful life of server and network equipment assets, Microsoft Cloud's gross margin percentage increased roughly four points, driven by improvement in our cloud services, particularly in Azure and Office 365, partially offset by sales mix shift to Azure.
+  - We remain focused on growing high-value users across our differentiated Microsoft cloud offerings and delivering exciting new consumer experiences with Windows 11, Surface, and our Xbox gaming platform as we enter the holiday season.
+  - Microsoft Cloud's gross margin percentage decreased slightly year over year to 71%.
+  - At a total company level, headcount grew 14% year over year as we continue to invest in key areas such as cloud engineering, sales, customer deployment, and gaming.
+  - There has been a structural shift in PC demand emerging from this pandemic, and we're delighted with the early response to Windows 11.
+Guidance given:
+  - For intelligent cloud, we expect revenue between $18.1 billion and $18.35 billion. (target: Q2 2022; Exceeded)
+Actual reported:
+  - [Observed] [from 10-K/10-Q] Microsoft Cloud gross margin percentage decreased slightly to 70%. Excluding the impact of the change in accounting estimate, Microsoft Cloud gross margin percentage increased 3 points driven by improvement across our cloud services, offset in part by sales mix shift to Azure and other cloud services.
+  - [Observed] [from 10-K/10-Q] Intelligent Cloud Revenue increased $3.9 billion or 26%. • Server products and cloud services revenue increased $3.8 billion or 29% driven by Azure and other cloud services. Azure and other cloud services revenue grew 46% driven by growth in our consumption-based services.
+  - [Observed] [from 10-K/10-Q] Intelligent Cloud Revenue increased $11.6 billion or 27%. • Server products and cloud services revenue increased $11.4 billion or 31% driven by Azure and other cloud services. Azure and other cloud services revenue grew 47% driven by growth in our consumption-based services.
+  - [Observed] [from 10-K/10-Q] Operating expenses increased $1.8 billion or 15% driven by investments in cloud engineering, LinkedIn, and commercial sales. Key changes in operating expenses were: • Research and development expenses increased $1.1 billion or 21% driven by investments in cloud engineering.
+  - [Observed] [from 10-K/10-Q] Operating expenses increased $4.5 billion or 14% driven by investments in cloud engineering, LinkedIn, Gaming, and commercial sales. Key changes in operating expenses were: • Research and development expenses increased $2.6 billion or 18% driven by investments in cloud engineering and Gaming.
+  - [Observed] Revenue was $17 billion, increasing 31% and 29% in constant currency, ahead of expectations, driven by continued customer demand for our differentiated hybrid and cloud offerings.
+  - [Observed] Azure and other cloud services grew 50% and 48% in constant currency, ahead of expectations, driven by our consumption-based services.
+  - [Observed] Overall, server products and cloud services revenue increased 35% and 33% in constant currency.
+  - [Observed] Microsoft Cloud revenue grew 36% and 34% in constant currency to $20.7 billion, ahead of expectations.
+  - [Observed] We're off to a fast start in fiscal 2022 with Microsoft Cloud quarterly revenue surpassing $20 billion for the first time, up 36% year over year.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - Our commercial and consumer businesses have benefited from demand for cloud and productivity tools, and we have experienced savings in operating expenses related to COVID-19.
+    - • Server products and cloud services revenue increased 29% driven by Azure and other cloud services growth of 46%.
+    - • Office Consumer products and cloud services revenue increased 11% and Microsoft 365 Consumer subscribers grew to 58.4 million.
+    - • Office Commercial products and cloud services revenue increased 12% driven by Office 365 Commercial growth of 17%.
+    - • Dynamics products and cloud services revenue increased 22% driven by Dynamics 365 growth of 35%.
+    - • Windows Commercial products and cloud services revenue increased 14%.
+  [Financial Statements]
+    - Examples of estimates and assumptions include: for revenue recognition, determining the nature and timing of satisfaction of performance obligations, and determining the standalone selling price (“SSP”) of performance obligations, variable consideration, and other obligations such as product returns and refunds; loss contingencies; product warranties; the fair value of and/or potential impairment of goodwill and intangible assets for our reporting units; product life cycles; useful lives of our tangible and intangible assets; allowances for doubtful accounts; the market value of, and demand for, our inventory; stock-based compensation forfeiture rates; when technological feasibility is achieved for our products; the potential outcome of uncertain tax positions that have been recognized in our consolidated financial statements or tax returns; and determining the timing and amount of impairments for investments.
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - 53 PART II Item 1A Besides software development costs, we are incurring costs to build and maintain infrastructure to support cloud computing services.
+    - At the same time, our competitors are rapidly developing and deploying cloud-based services for consumers and business customers.
+    - Whether we succeed in cloud-based services depends on our execution in several areas, including: • Continuing to bring to market compelling cloud-based experiences that generate increasing traffic and market share.
+    - • Ensuring our cloud-based services meet the reliability expectations of our customers and maintain the security of their data as well as help them meet their own compliance needs.
+    - Our increasing focus on cloud-based services presents execution and competitive risks.
+    - • Maintaining the utility, compatibility, and performance of our cloud-based services on the growing array of computing devices, including PCs, smartphones, tablets, gaming consoles, and other devices, as well as sensors and other IoT endpoints.
+
+=== Q2 2022 ===
+Management said:
+  - In Windows commercial products and cloud services, customer demand for Microsoft 365 and our advanced security solutions should drive growth in the low double-digits.
+  - Windows commercial products and cloud services revenue grew 13% and 14% in constant currency driven by demand for Microsoft 365.
+  - It was a record quarter, driven by continued strength of the Microsoft Cloud, which surpassed $22 billion in revenue, up 32% year over year.
+  - Azure and other cloud services growth of 46% was driven by continued strength in our consumption-based services.
+  - For intelligent cloud, we expect revenue between $18.75 and $19 billion.
+  - Cash flow from operations was $14.5 billion, increasing 16% year over year as strong cloud billings and collections were partially offset by higher supplier payments related to hardware inventory builds.
+  - Free cash flow was $8.6 billion, up 3% year over year, reflecting higher capital expenditures in support of our growing cloud business.
+  - Overall, server products and cloud services revenue increased 29% year over year.
+  - Microsoft Cloud revenue grew 32% to $22.1 billion, again, ahead of our expectations.
+  - The remaining portion, which will be recognized beyond the next 12 months, increased 37% year over year, highlighting the long-term commitment customers are making to our Microsoft Cloud.
+  - Capital expenditures, including finance leases, were $6.8 billion, up 25% year over year, lower than expected, primarily due to quarterly spend volatility in the timing of our cloud infrastructure buildout.
+  - More than 15,000 customers now use our cloud-native SIEM, Microsoft Sentinel, to stop threats before they happen, up over 70% year over year.
+  - Office commercial licensing decreased 17%, in line with expectations and consistent with the ongoing customer shift to the cloud.
+  - In our on-premises business, revenue increased 6%, in line with expectations driven by healthy demand for our hybrid offerings that include Windows Server and SQL Server running in multicloud environments.
+Guidance given:
+  - For intelligent cloud, we expect revenue between $18.75 and $19 billion. (target: Q3 2022; Met)
+Actual reported:
+  - [Exceeded] It was a record quarter, driven by continued strength of the Microsoft Cloud, which surpassed $22 billion in revenue, up 32% year over year.
+  - [Observed] Azure and other cloud services growth of 46% was driven by continued strength in our consumption-based services.
+  - [Observed] Overall, server products and cloud services revenue increased 29% year over year.
+  - [Observed] Microsoft Cloud revenue grew 32% to $22.1 billion, again, ahead of our expectations.
+  - [Observed] The remaining portion, which will be recognized beyond the next 12 months, increased 37% year over year, highlighting the long-term commitment customers are making to our Microsoft Cloud.
+Filing disclosures (10-K/10-Q):
+
+=== Q3 2022 ===
+Management said:
+  - In Windows Commercial products and cloud services, customer demand for Microsoft 365 and our advanced security solutions should drive growth in the low double digits.
+  - Windows commercial products and cloud services revenue grew 14% and 19% in constant currency, ahead of expectations, driven by demand for Microsoft 365, with some benefit from a greater mix of contracts with higher in-period revenue recognition.
+  - It was a record third quarter, driven by the continued strength of the Microsoft Cloud, which surpassed $23 billion in revenue, up 32% year over year.
+  - Azure and other cloud services grew 46% and 49% in constant currency, ahead of expectations, driven by continued strength in our consumption-based services.
+  - Cash flow from operations was $25.4 billion, increasing 14% as strong cloud billings and collections were partially offset by higher supplier payments related to hardware inventory builds as we manage continued uncertainty in the supply chain.
+  - For intelligent cloud, we expect revenue between $21.1 billion and $21.35 billion.
+  - Commercial cloud revenue was $23.4 billion and grew 32% and 35% in constant currency, again ahead of expectations.
+  - Overall, server products and cloud services revenue increased 29% and 32% in constant currency.
+  - And we are further differentiating the Microsoft Cloud by bringing together Dynamics 365, Teams, and Synapse to usher in a new era of collaborative applications that transform every business function and process.
+  - Microsoft Cloud gross margin percentage decreased slightly year over year to 70%.
+  - At a total company level, headcount grew 20% year over year as we continue to invest in key areas such as cloud engineering, customer deployment, LinkedIn, and sales and included approximately four points of growth from the addition of Nuance.
+  - All of the number of customers who trust our security solutions grew nearly 50% year over year to 785,000, including Citrix, Domino's Pizza, Fujitsu, Heineken, Petronas, who rely on us to protect their multi-cloud infrastructure.
+  - New integrations between Windows 11 and Windows 365 will make it possible to switch between cloud PC and the local PC with a single click.
+  - In our on-premises server business, revenue increased 5% and 7% in constant currency, ahead of expectations, driven by healthy demand for our hybrid offerings, partially offset by the open licensing transition mentioned earlier.
+  - In our commercial business, healthy demand for our differentiated hybrid and cloud offerings, together with excellent execution by our sales teams and partners, drove increased commitment to our platform as well as higher usage of our services that Satya mentioned earlier.
+Guidance given:
+  - For intelligent cloud, we expect revenue between $21.1 billion and $21.35 billion. (target: Q4 2022; Exceeded)
+  - In Windows Commercial products and cloud services, customer demand for Microsoft 365 and our advanced security solutions should drive growth in the low double digits. (target: Q3 2022; Unresolved)
+Actual reported:
+  - [Met] Windows commercial products and cloud services revenue grew 14% and 19% in constant currency, ahead of expectations, driven by demand for Microsoft 365, with some benefit from a greater mix of contracts with higher in-period revenue recognition.
+  - [Observed] It was a record third quarter, driven by the continued strength of the Microsoft Cloud, which surpassed $23 billion in revenue, up 32% year over year.
+  - [Observed] Azure and other cloud services grew 46% and 49% in constant currency, ahead of expectations, driven by continued strength in our consumption-based services.
+  - [Observed] Commercial cloud revenue was $23.4 billion and grew 32% and 35% in constant currency, again ahead of expectations.
+  - [Observed] Overall, server products and cloud services revenue increased 29% and 32% in constant currency.
+  - [Observed] In our commercial business, healthy demand for our differentiated hybrid and cloud offerings, together with excellent execution by our sales teams and partners, drove increased commitment to our platform as well as higher usage of our services that Satya mentioned earlier.
+Filing disclosures (10-K/10-Q):
+
+=== Q4 2022 ===
+Management said:
+  - In Windows commercial products and cloud services, customer demand for Microsoft 365 and our advanced security solutions should drive growth in the high single digits.
+  - Amid this macroeconomic environment, the Microsoft Cloud surpassed $25 billion in quarterly revenue for the first time, up 28% and 33% in constant currency.
+  - Azure and other cloud services revenue grew 40% and 46% in constant currency, about one point lower than expected, driven by a slight moderation in Azure consumption growth across customer segments.
+  - For Intelligent Cloud, we expect revenue to grow between 25% and 27% in constant currency or $20.3 billion to $20.6 billion.
+  - Overall, Server products and cloud services revenue increased 22% and 26% in constant currency.
+  - Cash flow from operations was $24.6 billion, increasing 8%, driven by strong cloud billings and collections.
+  - Windows commercial products and cloud services revenue grew 6% and 12% in constant currency, lower than expected due to some impact from the small and medium business deal moderation noted earlier.
+  - Microsoft Cloud revenue was $25 billion and grew 28% and 33% in constant currency.
+  - Operating expense increased 14% and 16% in constant currency, driven by increased investments in cloud engineering, LinkedIn and Nuance.
+  - Total company headcount is expected to continue to grow, with 11,000 hires expected to start in Q1, primarily in cloud engineering, LinkedIn, customer deployment, and commercial sales.
+  - Dynamics revenue grew 19% and 24% in constant currency, driven by Dynamics 365, which grew 31% and 36% in constant currency, slightly below expectations due to lower-than-expected growth in new business even as our cloud growth continues to outpace the market.
+  - One year in, we are seeing strong adoption of Windows 365 from organizations in every industry from Hamburg Commercial Bank and Kyndryl to LEGO Group and Schroders as they use cloud PCs to rapidly onboard new and temporary employees and speed M&A integration while reducing IT costs.
+  - Segment gross margin dollars were relatively unchanged and increased 4% in constant currency, and gross margin percentage decreased roughly one point year over year, driven by increased usage of Windows Commercial Cloud services.
+  - Microsoft Cloud gross margin percentage decreased slightly year over year to 69%.
+  - First, effective at the start of FY '23, we are extending the depreciable useful life for server and network equipment assets in our cloud infrastructure from four to six years, which will apply to the asset balances on our balance sheet as of June 30, 2022, as well as future asset purchases.
+Guidance given:
+  - In Windows commercial products and cloud services, customer demand for Microsoft 365 and our advanced security solutions should drive growth in the high single digits. (target: future period (post-Q4 2022); Unresolved)
+  - For Intelligent Cloud, we expect revenue to grow between 25% and 27% in constant currency or $20.3 billion to $20.6 billion. (target: next quarter or next fiscal period; Unresolved)
+  - Total company headcount is expected to continue to grow, with 11,000 hires expected to start in Q1, primarily in cloud engineering, LinkedIn, customer deployment, and commercial sales. (target: Q1 2023; Unresolved)
+Actual reported:
+  - [Exceeded] Amid this macroeconomic environment, the Microsoft Cloud surpassed $25 billion in quarterly revenue for the first time, up 28% and 33% in constant currency.
+  - [Observed] Azure and other cloud services revenue grew 40% and 46% in constant currency, about one point lower than expected, driven by a slight moderation in Azure consumption growth across customer segments.
+  - [Observed] Overall, Server products and cloud services revenue increased 22% and 26% in constant currency.
+  - [Observed] Cash flow from operations was $24.6 billion, increasing 8%, driven by strong cloud billings and collections.
+  - [Observed] Microsoft Cloud revenue was $25 billion and grew 28% and 33% in constant currency.
+  - [Observed] Operating expense increased 14% and 16% in constant currency, driven by increased investments in cloud engineering, LinkedIn and Nuance.
+  - [Observed] Dynamics revenue grew 19% and 24% in constant currency, driven by Dynamics 365, which grew 31% and 36% in constant currency, slightly below expectations due to lower-than-expected growth in new business even as our cloud growth continues to outpace the market.
+  - [Observed] One year in, we are seeing strong adoption of Windows 365 from organizations in every industry from Hamburg Commercial Bank and Kyndryl to LEGO Group and Schroders as they use cloud PCs to rapidly onboard new and temporary employees and speed M&A integration while reducing IT costs.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - • Office Consumer products and cloud services revenue increased 7% and Microsoft 365 Consumer subscribers increased to 61.3 million.
+    - • Server products and cloud services revenue increased 22% driven by Azure and other cloud services growth of 35%.
+    - • Office Commercial products and cloud services revenue increased 7% driven by Office 365 Commercial growth of 11%.
+    - • Dynamics products and cloud services revenue increased 15% driven by Dynamics 365 growth of 24%.
+    - • Windows Commercial products and cloud services revenue increased 8%.
+    - Highlights from the first quarter of fiscal year 2023 compared with the first quarter of fiscal year 2022 included: • Microsoft Cloud revenue increased 24% to $25.7 billion.
+    - • Office Consumer products and cloud services revenue decreased 2% and Microsoft 365 Consumer subscribers increased to 63.2 million.
+    - • Server products and cloud services revenue increased 20% driven by Azure and other cloud services growth of 31%.
+    - • Office Commercial products and cloud services revenue increased 7% driven by Office 365 Commercial growth of 11%.
+    - • Dynamics products and cloud services revenue increased 13% driven by Dynamics 365 growth of 21%.
+    - • Windows Commercial products and cloud services revenue decreased 3%.
+    - Highlights from the second quarter of fiscal year 2023 compared with the second quarter of fiscal year 2022 included: • Microsoft Cloud revenue increased 22% to $27.1 billion.
+    - • Server products and cloud services revenue increased 28% driven by Azure and other cloud services growth of 45%.
+    - • Office Consumer products and cloud services revenue increased 11% and Microsoft 365 Consumer subscribers grew to 59.7 million.
+    - • Office Commercial products and cloud services revenue increased 13% driven by Office 365 Commercial growth of 18%.
+    - • Dynamics products and cloud services revenue increased 25% driven by Dynamics 365 growth of 39%.
+    - • Windows Commercial products and cloud services revenue increased 11%.
+    - Highlights from fiscal year 2022 compared with fiscal year 2021 included: • Microsoft Cloud (formerly commercial cloud) revenue increased 32% to $91.2 billion.
+  [Financial Statements]
+    - Examples of estimates and assumptions include: for revenue recognition, determining the nature and timing of satisfaction of performance obligations, and determining the standalone selling price (“SSP”) of performance obligations, variable consideration, and other obligations such as product returns and refunds; loss contingencies; product warranties; the fair value of and/or potential impairment of goodwill and intangible assets for our reporting units; product life cycles; useful lives of our tangible and intangible assets; allowances for doubtful accounts; the market value of, and demand for, our inventory; stock-based compensation forfeiture rates; when technological feasibility is achieved for our products; the potential outcome of uncertain tax positions that have been recognized in our consolidated financial statements or tax returns; and determining the timing and amount of impairments for investments.
+    - Examples of estimates and assumptions include: for revenue recognition, determining the nature and timing of satisfaction of performance obligations, and determining the standalone selling price (“SSP”) of performance obligations, variable consideration, and other obligations such as product returns and refunds; loss contingencies; product warranties; the fair value of and/or potential impairment of goodwill and intangible assets for our reporting units; product life cycles; useful lives of our tangible and intangible assets; allowances for doubtful accounts; the market value of, and demand for, our inventory; stock-based compensation forfeiture rates; when technological feasibility is achieved for our products; the potential outcome of uncertain tax positions that have been recognized in our consolidated financial statements or tax returns; and determining the timing and amount of impairments for investments.
+    - Service and other revenue includes sales from cloud-based solutions that provide customers with software, services, platforms, and content such as Office 365, Azure, Dynamics 365, and Xbox; solution support; and consulting services.
+    - Examples of estimates and assumptions include: for revenue recognition, determining the nature and timing of satisfaction of performance obligations, and determining the standalone selling price (“SSP”) of performance obligations, variable consideration, and other obligations such as product returns and refunds; loss contingencies; product warranties; the fair value of and/or potential impairment of goodwill and intangible assets for our reporting units; product life cycles; useful lives of our tangible and intangible assets; allowances for doubtful accounts; the market value of, and demand for, our inventory; stock-based compensation forfeiture rates; when technological feasibility is achieved for our products; the potential outcome of uncertain tax positions that have been recognized in our consolidated financial statements or tax returns; and determining the timing and amount of impairments for investments.
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+    - The Company offers customers the ability to acquire multiple licenses of software products and services, including cloud-based services, in its customer agreements through its volume licensing programs.
+    - Significant judgment is exercised by the Company in determining revenue recognition for these customer agreements, and includes the following: • Determination of whether products and services are considered distinct performance obligations that should be accounted for separately versus together, such as software licenses and related services that are sold with cloud-based services.
+  [Risk Factors]
+    - 47 PART II Item 1A Besides software development costs, we are incurring costs to build and maintain infrastructure to support cloud computing services.
+    - At the same time, our competitors are rapidly developing and deploying cloud-based services for consumers and business customers.
+    - Whether we succeed in cloud-based services depends on our execution in several areas, including: • Continuing to bring to market compelling cloud-based experiences that generate increasing traffic and market share.
+    - • Ensuring our cloud-based services meet the reliability expectations of our customers and maintain the security of their data as well as help them meet their own compliance needs.
+    - Our increasing focus on cloud-based services presents execution and competitive risks.
+    - • Maintaining the utility, compatibility, and performance of our cloud-based services on the growing array of computing devices, including PCs, smartphones, tablets, gaming consoles, and other devices, as well as sensors and other IoT endpoints.
+    - 51 PART II Item 1A • Continuing to enhance the attractiveness of our cloud platforms to third-party developers.
+    - At the same time, our competitors are rapidly developing and deploying cloud-based services for consumers and business customers.
+    - Whether we succeed in cloud-based services depends on our execution in several areas, including: • Continuing to bring to market compelling cloud-based experiences that generate increasing traffic and market share.
+    - • Ensuring our cloud-based services meet the reliability expectations of our customers and maintain the security of their data as well as help them meet their own compliance needs.
+    - Our increasing focus on cloud-based services presents execution and competitive risks.
+    - • Maintaining the utility, compatibility, and performance of our cloud-based services on the growing array of computing devices, including PCs, smartphones, tablets, gaming consoles, and other devices, as well as sensors and other IoT endpoints.
+
+
+======================================================================
+TOPIC: capital expenditures
+======================================================================
+
+[CORE RESEARCH] MSFT: capital expenditures
+
+Quarters searched: 4
+Filing sections searched: 208
+
+Over the reported periods, capital expenditures showed variability aligned with management's guidance on cloud infrastructure investments and general business growth. Q1 2022 capital expenditures were reported as $7.4 billion, stated to be in line with expectations, but guidance for Q2 2022 to remain roughly flat was missed due to volatility in cloud infrastructure spending. Q2 2022 actuals were $6.8 billion, lower than expected, but guidance for Q3 2022 to decrease slightly was met with actuals at $6.3 billion. Q3 2022 guidance for a sequential increase was met with $6.3 billion reported, and Q4 2022 capital expenditures rose to $8.7 billion, again in line with expectations. The filings consistently emphasized sufficient liquidity to support capital expenditures and other corporate needs.
+
+Forecasting credibility: Medium
+Management's capital expenditure guidance was generally aligned with actual results, with two out of three guidance/actual pairs met or in line, indicating reasonable forecasting ability. However, the initial Q2 2022 guidance was missed due to volatility in cloud infrastructure spending, reflecting some unpredictability in timing. The presence of detailed filing data supports the credibility of reported figures, but the variability in quarterly spend introduces some uncertainty.
+
+Trends:
+  - Capital expenditures fluctuate with cloud infrastructure buildout
+  - Sequential decreases and increases in capex aligned with guidance
+  - Overall upward trend in capital expenditures by Q4 2022
+
+Recurring themes/risks:
+  - Quarterly spend volatility in cloud infrastructure
+  - Normal quarterly variability in capital expenditures
+  - Sufficient liquidity to fund capital expenditures
+
+Key concerns:
+  - Q2 2022 guidance missed due to volatility in cloud infrastructure spending timing
+  - Some inconsistency between transcript and filing data in timing and magnitude of capital expenditures
+  - Reliance on general corporate purposes for capital allocation may obscure specific capex focus
+
+Conclusion:
+Capital expenditures have been a significant and variable component of the company's investment strategy, primarily driven by cloud infrastructure buildout. Management's guidance has mostly been credible, with actual expenditures generally aligning with expectations except for a notable miss in Q2 2022 due to timing volatility. The filings confirm substantial capital deployment with sufficient liquidity to support these investments. Overall, capital expenditures are expected to continue reflecting the company's growth priorities, with normal quarterly variability and occasional timing shifts impacting short-term forecasting accuracy.
+
+Evidence Coverage: 98.9% complete; 185/187 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2022 ===
+Management said:
+  - Capital expenditures, including finance leases were $7.4 billion, in line with expectations, and cash paid for PP&E was $5.8 billion.
+  - And on a dollar basis, we expect capital expenditures to be roughly in line with last quarter as we continue to invest to support growing demand.
+Guidance given:
+  - And on a dollar basis, we expect capital expenditures to be roughly in line with last quarter as we continue to invest to support growing demand. (target: Q2 2022; Missed)
+Actual reported:
+  - [Observed] [from 10-K/10-Q] Cash used in investing increased $3.9 billion to $20.6 billion for the nine months ended March 31, 2022, mainly due to a $12.4 billion increase in cash used for acquisitions of companies, net of cash acquired, and purchases of intangible and other assets, and a $2.8 billion increase in additions to property and equipment, offset in part by a $11.7 billion increase in cash from net investment purchases, sales, and maturities.
+  - [Observed] Capital expenditures, including finance leases were $7.4 billion, in line with expectations, and cash paid for PP&E was $5.8 billion.
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Capital Expenditures: $5.81B | vs prior quarter: — | vs prior year: $4.91B (+18.4%)
+    - 2 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 3 real filing table(s) available (see the HTML report).
+
+=== Q2 2022 ===
+Management said:
+  - Capital expenditures, including finance leases, were $6.8 billion, up 25% year over year, lower than expected, primarily due to quarterly spend volatility in the timing of our cloud infrastructure buildout.
+  - Free cash flow was $8.6 billion, up 3% year over year, reflecting higher capital expenditures in support of our growing cloud business.
+  - And on a dollar basis, we expect capital expenditures to be slightly down sequentially with normal quarterly variability in the timing of cloud infrastructure buildout.
+Guidance given:
+  - And on a dollar basis, we expect capital expenditures to be slightly down sequentially with normal quarterly variability in the timing of cloud infrastructure buildout. (target: Q3 2022; Met)
+Actual reported:
+  - [Missed] Capital expenditures, including finance leases, were $6.8 billion, up 25% year over year, lower than expected, primarily due to quarterly spend volatility in the timing of our cloud infrastructure buildout.
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Capital Expenditures: $5.87B | vs prior quarter: $5.81B (+0.9%) | vs prior year: $4.17B (+40.5%)
+
+=== Q3 2022 ===
+Management said:
+  - Capital expenditures, including finance leases, were $6.3 billion, in line with expectations.
+  - Capital expenditures, we expect a sequential increase on a dollar basis as we continue to invest to meet growing global demand for our cloud services.
+Guidance given:
+  - Capital expenditures, we expect a sequential increase on a dollar basis as we continue to invest to meet growing global demand for our cloud services. (target: Q4 2022; Met)
+Actual reported:
+  - [Met] Capital expenditures, including finance leases, were $6.3 billion, in line with expectations.
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Capital Expenditures: $5.34B | vs prior quarter: $5.87B (-9.0%) | vs prior year: $5.09B (+4.9%)
+
+=== Q4 2022 ===
+Management said:
+  - Capital expenditures, including finance leases, were $8.7 billion, in line with expectations.
+  - In capital expenditures, we expect a sequential decrease on a dollar basis, with normal quarterly spend variability and the timing of our cloud infrastructure build-out.
+Guidance given:
+  - In capital expenditures, we expect a sequential decrease on a dollar basis, with normal quarterly spend variability and the timing of our cloud infrastructure build-out. (target: Q1 2023; Unresolved)
+Actual reported:
+  - [Met] [from 10-K/10-Q] Cash used in investing decreased $118 million to $3.1 billion for the three months ended September 30, 2022, due to an $857 million decrease in cash used for acquisitions of companies, net of cash acquired, and purchases of intangible and other assets, and a $177 million increase in cash from net investment purchases, sales, and maturities, offset in part by a $473 million increase in additions to property and equipment and a $443 million increase in other investing to facilitate the purchase of components.
+  - [Observed] [from 10-K/10-Q] Cash used in investing increased $5.9 billion to $10.3 billion for the six months ended December 31, 2022, due to a $5.4 billion decrease in cash from net investment purchases, sales, and maturities, an $882 million increase in additions to property and equipment, and a $655 million increase in other investing to facilitate the purchase of components, offset in part by a $1.0 billion decrease in cash used for acquisitions of companies, net of cash acquired, and purchases of intangible and other assets.
+  - [Observed] Capital expenditures, including finance leases, were $8.7 billion, in line with expectations.
+Filing disclosures (10-K/10-Q):
+  [Financial Statements]
+    - Capital Expenditures: $23.89B | vs prior quarter: — | vs prior year: $20.62B (+15.8%)
+    - 2 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+
+
+======================================================================
+TOPIC: AI
+======================================================================
+
+[CORE RESEARCH] MSFT: AI
+
+Quarters searched: 4
+Filing sections searched: 208
+
+Over the reported periods, management consistently emphasized AI as a strategic growth area, highlighting acquisitions such as Nuance Communications to bolster AI capabilities in healthcare and enterprise sectors. They described AI as integral to their intelligent cloud and edge platforms, with ongoing investments in AI infrastructure like supercomputers and services such as Azure OpenAI and GitHub Copilot. Despite frequent commentary on AI's transformative role and product integrations, management did not provide explicit forward guidance or quantitative forecasts specifically tied to AI performance. The narrative evolved from acquisition and platform-building in early 2022 to showcasing AI-powered products and services by year-end, reflecting a maturing AI strategy embedded across business units.
+
+Forecasting credibility: None
+No guidance-actual pairs related to AI were provided in the disclosures or transcripts, preventing any assessment of forecasting accuracy or credibility. Management's commentary on AI was qualitative and strategic rather than quantitative or forecast-driven. Therefore, it is not possible to judge forecasting credibility for AI based on the available evidence.
+
+Trends:
+  - Increasing AI integration into cloud and edge platforms
+  - Strategic acquisition of AI-focused companies (Nuance)
+  - Expansion of AI-powered products and services
+  - Emphasis on AI infrastructure and supercomputing
+  - Growing narrative of AI as a transformative platform
+
+Recurring themes/risks:
+  - AI as a core driver of future growth
+  - Investment in AI capabilities and infrastructure
+  - AI enabling new enterprise and healthcare solutions
+  - Uncertainty inherent in AI market evolution
+
+Key concerns:
+  - Absence of explicit AI-related forward guidance or quantitative forecasts limits ability to evaluate management's predictive accuracy on AI performance.
+  - Reliance on qualitative descriptions and strategic positioning without measurable targets or outcomes for AI initiatives.
+  - No accounting or reporting inconsistencies noted related to AI disclosures.
+
+Conclusion:
+Management consistently positions AI as a foundational element of the company's growth strategy, supported by significant acquisitions and product innovation. However, the lack of specific forward guidance or measurable forecasts tied to AI initiatives means there is no basis to assess forecasting credibility in this area. The company's AI narrative is focused on strategic integration and capability building rather than short-term financial predictability. Investors should view AI commentary as indicative of long-term strategic intent rather than near-term financial guidance.
+
+Evidence Coverage: 98.8% complete; 512/518 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2022 ===
+Management said:
+  - On the call with me are Satya Nadella, chairman and chief executive officer; Amy Hood, chief financial officer; Alice Jolla, chief accounting officer; and Keith Dolliver, deputy general counsel.
+  - They are included as additional clarifying items to aid investors in further understanding the company's first-quarter performance in addition to the impact these items and events have on the financial results.
+  - We'll also provide growth rates in constant currency when available as a framework for assessing how our underlying businesses performed, excluding the effect of foreign currency rate fluctuations.
+  - We will post our prepared remarks to our website immediately following the call until the complete transcript is available.
+  - These statements are based on current expectations and assumptions that are subject to risks and uncertainties.
+  - Satya Nadella -- Chairman and Chief Executive Officer Thank you, Brett.
+  - More than ever, every business needs a holistic understanding of its data estate, and Azure Purview, now generally available, is helping organizations such as FedEx manage and govern on-premise multicloud and SaaS data.
+  - More and more businesses are choosing GitHub Enterprise to provide their developer teams the most advanced platform to build, ship, and maintain software.
+  - With Power Platform, we are helping domain experts to drive productivity gains with low-code/no-code tools, robotic process automation, virtual agents, and business intelligence.
+  - We continue to gain share.
+  - And our clouds for financial services and manufacturing will become more broadly available next week.
+  - Sustainability is an existential priority for our society and for every business today.
+  - And when we think about our approach to sustainability, it's more than just the carbon footprint of our own data centers.
+  - With our Microsoft Cloud for sustainability, we are creating an entirely new business process category to help organizations monitor the carbon footprint across their operations.
+  - Moving forward, organizations will need a digital fabric that spans organizational boundaries to address key challenges like customer service swarming and supply chain resilience.
+  - Coles, one of Australia's largest retailers chose Teams to bring two-way communications to more than 120,000 frontline employees.
+  - We analyze over 24 trillion signals across email, endpoints, and identities each day and translate this intelligence into innovative features to protect our customers.
+  - We continue to attract new gamers and retain those we have gained over the past year and a half.
+  - This holiday season, we'll bring our biggest lineup of content and exclusive games ever, with three new AAA titles including Halo Infinite available via Game Pass subscription service, which continues to offer the best value in gaming.
+  - Cloud gaming is now available in 26 countries, including, as of this quarter, in Australia, Brazil, Mexico, and Japan.
+  - We, again, saw healthy growth in our Azure consumption-based business and increased usage across products such as Teams and Power Platform, as Satya reflected in his comments.
+  - In our consumer business, Windows OEM performance was better than expected in a growing PC market despite ongoing supply chain constraints.
+  - Against the strong prior-year comparable, commercial bookings grew 11% and 14% in constant currency, driven by a consistent execution across new, add-on, and renewal sales motions.
+  - As a result, commercial remaining performance obligation increased 28% and 29% in constant currency to $137 billion with a roughly equivalent split between revenue that we recognized within and the portion beyond the next 12 months.
+  - Paid Office 365 commercial seats increased 17% year over year, driven by another strong quarter of growth in our small and medium business and frontline worker offerings.
+  - These results include roughly seven points of impact from the $210 million revenue deferral related to Windows 11 licenses sold to OEMs prior to general availability.
+  - Xbox content and services revenue increased 2% and was relatively unchanged in constant currency against a strong prior-year comparable.
+  - Capital expenditures, including finance leases were $7.4 billion, in line with expectations, and cash paid for PP&E was $5.8 billion.
+  - This quarter, other income and expense was $286 million, higher than anticipated, primarily driven by net gains on investments.
+  - As a reminder, we are required to recognize mark-to-market gains or losses on our equity portfolio.
+  - Commercial bookings growth should again be healthy, but impacted by modest growth in the Q2 expiry base and the normal quarterly volatility from large long-term Azure contracts previously discussed.
+  - In Office commercial, revenue growth will, again, be driven by Office 365 with healthy seat growth across customer segments and continued momentum in E5.
+  - Despite ongoing supply chain constraints, OEM revenue should grow low to mid-teens, including six points of impact from the $210 billion Windows 11 deferral that shifted revenue from Q1 to Q2.
+  - In Surface, we expect revenue to decline single digits as we continue to work through supply chain uncertainty, particularly in our premium devices.
+  - If supply chain uncertainty reduces advertising budgets, our results would be negatively impacted.
+  - Console sales will continue to be impacted by supply chain uncertainty.
+  - In closing, we are off to a strong start in FY '22, with tremendous opportunity to drive sustained long-term revenue growth.
+  - We remain focused on growing high-value users across our differentiated Microsoft cloud offerings and delivering exciting new consumer experiences with Windows 11, Surface, and our Xbox gaming platform as we enter the holiday season.
+  - Satya Nadella -- Chairman and Chief Executive Officer Thank you so much, Keith, and a great question because we've always, as you know, Keith, architected Azure for the distributed computing fabric to remain distributed.
+  - Brent Thill -- Jefferies -- Analyst Amy, commercial bookings up 14%, it's impressive, but it's slow down from last quarter's 25% against a more difficult comp.
+  - And that's really the opportunity to execute against selling the Microsoft day-to-day.
+  - Amy, heading into this Q1 release, I'd say there was a higher-than-normal level of worry from investors about your Windows PC segments in light of all of the unit shipment and supply chain issues.
+  - And to that end, PCs, the market grew this quarter and it was constrained by supply.
+  - I believe Q2 will also be a strong demand quarter that is constrained by supply, but even with that, we see a growing market.
+  - Satya Nadella -- Chairman and Chief Executive Officer Yeah, maybe I'll just start, and then, Amy, you can add to it.
+  - I mean, even inflationary environment, the first place any business should go to is how to really ensure that they are able to get productivity gains.
+  - And even dealing with constraints, for example, if you have supply chain constraints, one of the things you want to do is run your factories at the efficient frontier.
+  - So, that's why we are, you know, very, very excited about sort of making sure our software products are available to our business customers all around to be able to manage through this inflationary environment.
+  - And so, our ability to execute against that, regardless of the spend environment, means we've got the right portfolio and a high value to customers that's deployable quickly that can get them results when they need it.
+  - So while -- of course, it's hard to predict what any quarter or second half will do, the things I believe to be sustainable, our push to digital, our push to clouds would help customers get value quickly, and us being a trusted advisor and partner to help that happen.
+  - And congrats again.
+  - Satya Nadella -- Chairman and Chief Executive Officer Thanks, Kash, for the question.
+  - That's, I think, the thing that we are very, very focused on because key to dealing with labor shortages is productivity gains.
+  - And I think that's important because when you talk about how, what, and why, we do remain focused on being a great employer to have people achieve those goals and be able to achieve them here.
+  - Secondly, you asked some good questions about the supply chain impact, and specifically around data center, given our spend this quarter and my guidance should be similar next.
+  - Operator Our next question comes from the line of Raimo Lenschow with Barclays.
+  - Raimo Lenschow -- Barclays Investment Bank -- Analyst Thank you.
+  - Satya Nadella -- Chairman and Chief Executive Officer Maybe I can talk a bit to sort of what we are seeing.
+  - That's where Azure Purview becomes, again, a pretty big driver of that data gravity to the cloud from a governance perspective.
+  - Amy Hood -- Chief Financial Officer And Raimo, just maybe to add -- yeah, you may have been asking also just about the nature of some of the comments I was making about on-prem server results, and it really points to hybrid strength.
+  - Brett Iversen -- General Manager and Investor Relations Thanks, Raimo.
+  - Satya Nadella -- Chairman and Chief Executive Officer I mean, I'd sort of point to Amy's guide for the next quarter.
+  - But the thing at least about the software businesses are in order to deal with a lot of other constraints, whether they are labor shortages or supply shortages, deploying digital tech is one way to sort of really overcome them.
+  - And I think that's also why you're seeing investments being made by us, in particular, into training and skilling, making deployment easier, making time to value faster, really having documentation that makes getting started and trials far more accessible.
+  - So that you're not constrained in the way that you're talking about.
+  - Satya Nadella -- Chairman and Chief Executive Officer Yeah, thank you for the question.
+  - And then, with the industry cloud, we add value on top of that, which is specific, whether it's in retail, whether it's manufacturing, obviously, in healthcare, and our pending Nuance acquisition will even add further to that.
+  - So, yes, I think, ultimately, our competitiveness comes because of all of those layers integrated and delivering that time to value for our customers, while maintaining openness in each layer and competitiveness in each layer.
+  - Satya Nadella -- Chairman and Chief Executive Officer Thank you.
+  - Operator [Operator signoff] Duration: 64 minutes Call participants: Brett Iversen -- General Manager and Investor Relations Satya Nadella -- Chairman and Chief Executive Officer Amy Hood -- Chief Financial Officer Keith Weiss -- Morgan Stanley -- Analyst Brent Thill -- Jefferies -- Analyst Karl Keirstead -- UBS -- Analyst Mark Moerdler -- Sanford C. Bernstein -- Analyst Kash Rangan -- Goldman Sachs -- Analyst Raimo Lenschow -- Barclays Investment Bank -- Analyst Brad Reback -- Stifel Financial Corp. -- Analyst Brad Sills -- Bank of America Merrill Lynch -- Analyst More MSFT analysis All earnings call transcripts
+Guidance given:
+  - Going forward, every business process will be collaborative, powered by data and AI, and will bridge the digital and physical worlds. (Unresolved)
+  - These statements are based on current expectations and assumptions that are subject to risks and uncertainties. (Unresolved)
+  - In our consumer business, Windows OEM performance was better than expected in a growing PC market despite ongoing supply chain constraints. (Unresolved)
+  - In Surface, we expect revenue to decline single digits as we continue to work through supply chain uncertainty, particularly in our premium devices. (Unresolved)
+  - Console sales will continue to be impacted by supply chain uncertainty. (Unresolved)
+  - Secondly, you asked some good questions about the supply chain impact, and specifically around data center, given our spend this quarter and my guidance should be similar next. (Unresolved)
+Actual reported:
+  - [Observed] [from 10-K/10-Q] On March 4, 2022, we completed our acquisition of Nuance Communications, Inc. (“Nuance”) for a total purchase price of $18.8 billion, consisting primarily of cash. Nuance is a cloud and artificial intelligence (“AI”) software provider with healthcare and enterprise AI experience, and the acquisition will build on our industry-specific cloud offerings. The financial results of Nuance have been included in our consolidated financial statements since the date of the acquisition. Nuance is reported as part of our Intelligent Cloud segment.
+  - [Observed] [from 10-K/10-Q] On March 4, 2022 , we completed our acquisition of Nuance Communications, Inc. (“Nuance”) for a total purchase price of $ 18.8 billion, consisting primarily of cash. Nuance is a cloud and artificial intelligence (“AI”) software provider with healthcare and enterprise AI experience, and the acquisition will build on our industry-specific cloud offerings. The financial results of Nuance have been included in our consolidated financial statements since the date of the acquisition. Nuance is reported as part of our Intelligent Cloud segment.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - Nuance is a cloud and artificial intelligence (“AI”) software provider with healthcare and enterprise AI experience, and the acquisition will build on our industry-specific cloud offerings.
+  [Financial Statements]
+    - 3 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 14 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - Our strategic vision is to compete and grow by building best-in-class platforms and productivity services for an intelligent cloud and an intelligent edge infused with artificial intelligence (“AI”).
+
+=== Q2 2022 ===
+Management said:
+  - On the call with me are Satya Nadella, chairman and chief executive officer; Amy Hood, chief financial officer; Alice Jolla, chief accounting officer; and Keith Dolliver, deputy general counsel.
+  - They are included as additional clarifying items to aid investors in further understanding the company's second quarter performance in addition to the impact these items and events have on the financial results.
+  - We will also provide growth rates in constant currency, when available, as a framework for assessing how our underlying businesses performed, excluding the effect of foreign currency rate fluctuations.
+  - We will post our prepared remarks to our website immediately following the call until the complete transcript is available.
+  - These statements are based on current expectations and assumptions that are subject to risks and uncertainties.
+  - Digital technology is the most malleable resource at the world's disposal to overcome constraints and reimagine everyday work and life.
+  - Our new Azure OpenAI Service is in preview, and that brings together advanced language models with the enterprise capabilities of Azure.
+  - And organizations are increasingly turning to both Visual Studio and our PaaS services, like Container Apps and Chaos Studio, to streamline development and build modern, more resilient cloud-native applications.
+  - We're innovating to help organizations like Airbus, Centrica, and Johnson Controls rapidly scale their use of Power Platform, using end-to-end suite to automate workflows, create applications, build virtual agents, and analyze data.
+  - At H&M, more than 30,000 employees have used Power Platform to drive productivity gains.
+  - To counter demand shocks and supply constraints in this economy, every business will need to become a hyperconnected business, unifying data, process, and teams across the organization.
+  - With Dynamics 365 Connected Spaces, we are creating a new software category to help organizations manage physical operations across diverse industries, from real estate to retail, to factories, and construction.
+  - Daimler Trucks North America is using Dynamics 365 Supply Chain Insights to pre-empt supply chain issues.
+  - Our Cloud for Retail was front and center at NRF with retailers from Ahold Delhaize and GNC sharing how they're using our solutions to deliver seamless customer experiences.
+  - Our Cloud for Sustainability unifies data to help customers record, report, and reduce their carbon emissions.
+  - Industry leaders, including Nissan Motor, are turning to the offering to help meet sustainability goals.
+  - Last quarter, we once again saw record engagement.
+  - United Airlines is using bots within Teams to create tighter connections between operations and flight crews.
+  - Zebra Technologies will bring Teams Walkie Talkie communication to devices used by millions of employees on retail floors.
+  - Now broadly available, Viva is being used by more than 1,000 paid customers, including Blum, Nationwide, and REI, to help address challenges like employee burnout and retention.
+  - As new use cases are born every day and existing ones see a resurgence, we're experiencing a PC renaissance with increase in time spent on PCs and PCs per household.
+  - Our aim is to help organizations implement a comprehensive "zero trust" architecture that protects people, devices, applications, and data holistically across their heterogeneous cloud and client environments.
+  - With that, I'll hand it over to Amy, who will cover our financial results in detail and share our outlook, and I look forward to rejoining you for questions.
+  - And in LinkedIn, talent solutions benefited from a strong job market, again, this quarter.
+  - Commercial remaining performance obligation increased 31% and 32% in constant currency to $147 billion.
+  - The remaining portion, which will be recognized beyond the next 12 months, increased 37% year over year, highlighting the long-term commitment customers are making to our Microsoft Cloud.
+  - Microsoft Cloud revenue grew 32% to $22.1 billion, again, ahead of our expectations.
+  - Paid Office 365 commercial seats increased 16% year over year, driven by another strong quarter of growth in our small and medium business and frontline worker offerings.
+  - Search and news advertising revenue ex-TAC increased 32%, better than expected, benefiting from the strong advertising market noted earlier, and we saw a share gains in our Edge browser on Windows 10 and 11 devices.
+  - Cash paid for PP&E was $5.9 billion.
+  - This quarter, other income and expense was $268 million, higher than anticipated, primarily driven by net gains on investments.
+  - Continued strength in PC shipments, particularly in the commercial segment, should benefit Windows OEM despite ongoing supply chain constraints.
+  - In search and news advertising ex-TAC, we expect revenue growth in the mid- to high-teens against a strong prior-year comparable that was driven by a recovery in the advertising market.
+  - Console sales will continue to be impacted by supply chain uncertainty.
+  - As a reminder, we are required to recognize mark-to-market gains or losses on our equity portfolio.
+  - And quite frankly, going into the pandemic, we saw demand increase because of the constraints the pandemic put on corporations and the increased consumer activity.
+  - And then coming out of the pandemic, we are seeing actually a lot of constraints in the economy and the only resource, as I said in my remarks, that can help drive productivity while keeping costs down is digital tech.
+  - And to be clear, the constraints that you talk about for the broader economy, headcount constraints, and the like, that -- it doesn't sound like that's constraining your opportunity.
+  - We are not immune from, you know, what happens overall in the labor market, but I think we have a good brand and an attractive brand to both -- to get people and to retain people with everything that we are doing.
+  - So there -- but at the same time, we do want to make sure that, in our channel and our ecosystem, remain healthy.
+  - And all the signals, at least, we are getting is that there are no constraints per se other than, at the end of the day, all businesses are going to be subject to the laws of economic growth in the overall economy.
+  - That's about really being able to take a retail space or a connected factory or a building and essentially create a complete new software category, which is about managing physical processes.
+  - Just like CRM and ERP and supply chain management, we now have a suite, which is all driven by connected spaces, which is going to automate physical processes.
+  - On the device's side, one of the things we are very excited to be doing is what we're doing with HoloLens and all the experience we're gaining on the optics, on the silicon side, and all the way to the cloud in terms of some of the foundational services driven by all the HoloLens use cases in the enterprise.
+  - And we saw that again, frankly, Q1, Q2, Q3, consumption growth by end market, by industry, by customer size has remained quite steady.
+  - Satya, there's a massive skills gap within the IT industry, and it's particularly acute in cybersecurity, where I noticed Microsoft's campaign that kicked off in Q2 to help scale and recruit 250,000 cyber jobs by 2025, which is quite a bold undertaking.
+  - And by the way, as I said in my remarks, the people who are adopting the Microsoft solutions are saving 60%.
+  - So we're going to be very, very mindful of our responsibility, as you said.
+  - Satya Nadella -- Chief Executive Officer Yeah, I mean, the -- as I said, some of the contours of demand will change.
+  - For example, one of the solutions I highlighted is, coming out of the pandemic, we built in Dynamics a Supply Chain Insights module.
+  - Coming out of the pandemic, we were hit with supply chain issues, so Supply Chain Insights became the most important thing.
+  - When you are sort of saying we have a labor force shortage and we need to do more with less, guess what, you turn to more automation tools, and that's where something like Power Platform, especially given you can even train your first-line workers to be able to be app builders and automate workflows, that's proving to be a productivity driver.
+  - I think the stable state here would be the structural shift that's happened because of the pandemic combined with even the some of these constraints, whether there's supply shocks or others will hopefully go away.
+  - But the one thing that ain't going to go away is the need for increasing levels of digitization, both in terms of tools that people use to improve the productivity of your opex and the COGS you have in your enterprise will probably now have a digital component to it because that's where the leverage of cost will come.
+  - And we've got to do a good job of seeing the trends before that conventional wisdom and gaining share, and so that's where we will remain focused.
+Guidance given:
+  - These statements are based on current expectations and assumptions that are subject to risks and uncertainties. (Unresolved)
+  - With that, I'll hand it over to Amy, who will cover our financial results in detail and share our outlook, and I look forward to rejoining you for questions. (Unresolved)
+  - In search and news advertising ex-TAC, we expect revenue growth in the mid- to high-teens against a strong prior-year comparable that was driven by a recovery in the advertising market. (Unresolved)
+  - Console sales will continue to be impacted by supply chain uncertainty. (Unresolved)
+  - And all the signals, at least, we are getting is that there are no constraints per se other than, at the end of the day, all businesses are going to be subject to the laws of economic growth in the overall economy. (Unresolved)
+  - Just like CRM and ERP and supply chain management, we now have a suite, which is all driven by connected spaces, which is going to automate physical processes. (Unresolved)
+  - So we're going to be very, very mindful of our responsibility, as you said. (Unresolved)
+  - But the one thing that ain't going to go away is the need for increasing levels of digitization, both in terms of tools that people use to improve the productivity of your opex and the COGS you have in your enterprise will probably now have a digital component to it because that's where the leverage of cost will come. (Unresolved)
+Actual reported:
+  - [Unresolved] In AI, we have one of the most powerful supercomputers in the cloud, and we're using it not only to train new models but to deliver them as platforms to our customers.
+  - [Observed] On the product side as well, like something like Sentinel, I do believe, for example, we are now doing very large-scale AI on all of those signals that go into our cloud-native SIEM.
+  - [Observed] Our new Azure OpenAI Service is in preview, and that brings together advanced language models with the enterprise capabilities of Azure.
+Filing disclosures (10-K/10-Q):
+
+=== Q3 2022 ===
+Management said:
+  - The AI inference is also finally kicking.
+  - In AI, we continue to see strong usage of Azure machine learning.
+  - The other one is this is sort of age of AI.
+  - And so to me, the AI layer, both the training supercomputers as well as the inference layer, that's a place where you'll see us integrate what, today, you all consider to be two different businesses, whether it's Azure and Windows, they're just one business to me because to me, where training happens, where inference happens, will be written once by developers and then it will light up across this distributed fabric.
+  - Now to data and AI.
+  - On the call with me are Satya Nadella, chairman and chief executive officer; Amy Hood, chief financial officer; Alice Jolla, chief accounting officer; and Keith Dolliver, deputy general counsel.
+  - They are included as additional clarifying items to aid investors in further understanding the company's third quarter performance in addition to the impact these items and events have on the financial results.
+  - We will also provide growth rates in constant currency when available as a framework for assessing how our underlying businesses performed, excluding the effect of foreign currency rate fluctuations.
+  - We will post our prepared remarks to our website immediately following the call until the complete transcript is available.
+  - These statements are based on current expectations and assumptions that are subject to risks and uncertainties.
+  - Satya Nadella -- Chairman and Chief Executive Officer Thank you, Brett.
+  - And our Azure OpenAI Service brings together advanced language models with the enterprise capabilities of Azure, helping companies like CarMax turn customer reviews into customized content for shoppers.
+  - In fact, Mercedes-Benz, for example, is using GitHub Enterprise to provide a unified development platform for more than 20,000 employees to build, ship, and maintain software.
+  - Power Platform has become the leading business process automation and productivity suite for domain experts in every industry.
+  - For example, in a world of supply chain constraints, we are helping companies like Cracker Barrel and Unilever predict disruptions before they happen.
+  - We once again saw record engagement as more than 830 million professionals use the platform to connect, learn, grow, and get hired.
+  - From Asana to Zendesk, there are over 1,000 third-party apps available in the Teams App Store.
+  - And we continue to help organizations like AIG, Grant Thornton, and Sage shift their on-premise virtualization services to the cloud with Azure Virtual Desktop.
+  - And our browser, Microsoft Edge continues to gain share as we help people save money and shop securely.
+  - This comprehensive capability has been critical during the recent world events, and we continue to disrupt cyberattacks and share threat intelligence with the Ukrainian government as well as other public sector agencies.
+  - Finally, the war in Ukraine.
+  - Our results for the quarter are better than we expected across revenue, operating income, and EPS as we again delivered another strong quarter of top and bottom-line growth.
+  - We also saw better-than-expected growth in large long-term Azure contracts against a very strong prior-year comparable.
+  - Commercial remaining performance obligation increased 32% and 34% constant currency to $155 billion, with a roughly equivalent split which we that we'll recognize within and the portion beyond the next 12 months.
+  - Commercial cloud revenue was $23.4 billion and grew 32% and 35% in constant currency, again ahead of expectations.
+  - In our consumer business, as you heard from Satya, we saw market share gains across PCs, gaming consoles, and our Edge browser.
+  - Paid Office 365 Commercial seats grew 16% year over year to nearly 345 million, with continued growth in our small and medium business and frontline worker offerings.
+  - Search and news advertising revenue ex-TAC increased 23% and 25% in constant currency, better than expected, benefiting from an increase in search volumes even as we saw headwinds during March from the impact of the war in Ukraine.
+  - Xbox content and services revenue grew 4% and 6% in constant currency, below expectations, driven by lower engagement across the platform, even as it remains above pre-pandemic levels.
+  - Cash paid for PP&E was $5.3 billion.
+  - Cash flow from operations was $25.4 billion, increasing 14% as strong cloud billings and collections were partially offset by higher supplier payments related to hardware inventory builds as we manage continued uncertainty in the supply chain.
+  - Equity market declines drove net investment losses this quarter compared to net investment gains last year, a negative two-point impact on year-over-year EPS growth.
+  - Third, we anticipate the war in Ukraine to continue to impact our business in Q4 with a roughly $110 million impact on revenue and minimal impact on operating expenses.
+  - In Commercial bookings, a growing Q4 expiry base, strong execution across our core annuity sales motions, and increased commitment to our platform should drive healthy growth against a strong prior year comparable.
+  - In office commercial, revenue growth will again be driven by Office 365 with healthy seat growth across customer segments and ARPU growth through E5.
+  - As mentioned earlier, our guidance reflects the current constraints from the shutdowns in China, which had negatively impacted Q4 supply for OEM, Surface, and Xbox consoles.
+  - And in gaming, we expect revenue to decline in the mid-to-high single digits, driven by lower engagement hours year over year as well as constrained console supply.
+  - We expect Xbox content and services revenue to decline mid-single digits, though engagement hours are expected to remain higher than pre-pandemic levels.
+  - As a reminder, we are required to recognize mark-to-market gains or losses on our equity portfolio, which can increase quarterly volatility.
+  - We expect to close FY '22, even in a more complex macro environment, with the same consistency we have delivered throughout the year, with strong revenue growth, share gains, and improved operating margins as we invest in the areas that are key to sustaining that growth.
+  - Satya Nadella -- Chairman and Chief Executive Officer Yeah.
+  - So both of these places, we feel we are competitive and increasingly so, coming out of the pandemic, to gain share.
+  - And so I think the continuity of the execution has certainly been very good from the sales and partner side.
+  - Amy Hood -- Chief Financial Officer I assume we're specifically talking about most of the guidance in the more personal computing segment, where the supply chain constraints, which are specifically related to the production shutdowns in China.
+  - I did note and tried to do that with a lot of clarity that were the production shutdowns to extend into May, there would be further negative impact on those from a supply constraint position.
+  - So in terms as I think about going forward, there's certainly still room for both seat growth, specifically in frontline worker as you noted, as well as SMB and then ARPU expansion through the E5 transition.
+  - Satya Nadella -- Chairman and Chief Executive Officer No.
+  - And then the new growth engines that you talked about, Teams Phones, Teams Rooms, Veeva, and even Windows 365 are all things that we can again drive growth from.
+  - Satya Nadella -- Chairman and Chief Executive Officer And the only thing I'd add is that this change is super good for both the partners, the customers, and Microsoft long term.
+  - Satya Nadella -- Chairman and Chief Executive Officer Yes.
+  - I mean, what I'd say, Mark, is that what we are seeing is a classic what happens with consumption meters, right, which is they grow and then they get optimized and they grow again, both existing and new.
+  - Satya Nadella -- Chairman and Chief Executive Officer I mean, the thing that I always go back, Kash, is that all enterprise value, at least as far as I can tell, gets created at three layers of the tech stack.
+  - What happens with the infrastructure, whenever something can be 10x better, so for example, when we talk about the next generation of multi-edge, multi-cloud infrastructure remaining one of the leaders, that's going to be a massive EV creation, as a percentage of GDP, tech spend doubles.
+  - And anything you can add just around how the addition of Nuance helps the cloud business and the industry cloud approach as well is fairly appreciated.
+  - Satya Nadella -- Chairman and Chief Executive Officer So let me -- Amy Hood -- Chief Financial Officer Satya, why don't you start and I'll add on.
+  - Satya Nadella -- Chairman and Chief Executive Officer Perfect.
+  - And on the consumer side, the -- coming out of again, the pandemic, the intensity of the usage has gone up.
+  - PC remains a very important category in, I think, people's lives is what we've discovered during the pandemic, and if anything, the intensity of usage has increased.
+  - Expect Q4 to be even more of that, and then we'll wait and see how the second half of the year shapes up.
+  - Satya Nadella -- Chairman and Chief Executive Officer Thank you, everyone.
+  - Operator [Operator signoff] Duration: 65 minutes Call participants: Brett Iversen -- General Manager, Investor Relations Satya Nadella -- Chairman and Chief Executive Officer Amy Hood -- Chief Financial Officer Keith Weiss -- Morgan Stanley -- Analyst Brent Thill -- Jefferies -- Analyst Mark Moerdler -- Sanford C. Bernstein -- Analyst Karl Keirstead -- UBS -- Analyst Mark Murphy -- JPMorgan Chase and Company -- Analyst Kash Rangan -- Goldman Sachs -- Analyst Michael Turrin -- Wells Fargo Securities -- Analyst Keith Bachman -- BMO Capital Markets -- Analyst More MSFT analysis All earnings call transcripts
+Guidance given:
+  - These statements are based on current expectations and assumptions that are subject to risks and uncertainties. (Unresolved)
+  - We also saw better-than-expected growth in large long-term Azure contracts against a very strong prior-year comparable. (Unresolved)
+  - Third, we anticipate the war in Ukraine to continue to impact our business in Q4 with a roughly $110 million impact on revenue and minimal impact on operating expenses. (Unresolved)
+  - As mentioned earlier, our guidance reflects the current constraints from the shutdowns in China, which had negatively impacted Q4 supply for OEM, Surface, and Xbox consoles. (Unresolved)
+  - And in gaming, we expect revenue to decline in the mid-to-high single digits, driven by lower engagement hours year over year as well as constrained console supply. (Unresolved)
+  - We expect Xbox content and services revenue to decline mid-single digits, though engagement hours are expected to remain higher than pre-pandemic levels. (Unresolved)
+  - Amy Hood -- Chief Financial Officer I assume we're specifically talking about most of the guidance in the more personal computing segment, where the supply chain constraints, which are specifically related to the production shutdowns in China. (Unresolved)
+  - So in terms as I think about going forward, there's certainly still room for both seat growth, specifically in frontline worker as you noted, as well as SMB and then ARPU expansion through the E5 transition. (Unresolved)
+  - What happens with the infrastructure, whenever something can be 10x better, so for example, when we talk about the next generation of multi-edge, multi-cloud infrastructure remaining one of the leaders, that's going to be a massive EV creation, as a percentage of GDP, tech spend doubles. (Unresolved)
+  - Expect Q4 to be even more of that, and then we'll wait and see how the second half of the year shapes up. (Unresolved)
+Actual reported:
+  - [Unresolved] The AI inference is also finally kicking.
+  - [Observed] In AI, we continue to see strong usage of Azure machine learning.
+  - [Observed] On Nuance, for me, the thing that's exciting is Nuance is a platform layer for these AI-driven applications that are getting deployed, whether it's in healthcare or even in the enterprise contact center.
+  - [Observed] And with our acquisition of Nuance, I'm excited about our opportunity to apply the company's deep enterprise AI expertise to accelerate the growth of both Nuance's business and our industry clouds.
+  - [Observed] And our Azure OpenAI Service brings together advanced language models with the enterprise capabilities of Azure, helping companies like CarMax turn customer reviews into customized content for shoppers.
+Filing disclosures (10-K/10-Q):
+
+=== Q4 2022 ===
+Management said:
+  - Our new Microsoft Digital Contact Center Platform brings together Dynamics 365, Microsoft Teams as well as enterprise AI capabilities from Nuance to help customers like HP deliver omnichannel customer engagement.
+  - When it comes to AI, we are seeing a paradigm shift as the world's large AI models become powerful platforms themselves.
+  - On the call with me are Satya Nadella, chairman and chief executive officer; Amy Hood, chief financial officer; Alice Jolla, chief accounting officer; and Keith Dolliver, deputy general counsel.
+  - They are included as additional clarifying items to aid investors in further understanding the company's fourth-quarter performance in addition to the impact these items and events have on the financial results.
+  - We will also provide growth rates in constant currency when available as a framework for assessing how our underlying businesses performed, excluding the effect of foreign currency rate fluctuations.
+  - We will post our prepared remarks to our website immediately following the call until the complete transcript is available.
+  - These statements are based on current expectations and assumptions that are subject to risks and uncertainties.
+  - Satya Nadella -- Chairman and Chief Executive Officer Thank you, Brett.
+  - American Airlines, for example, chose our cloud to run its key operational workloads, including its data warehouse.
+  - With our Azure OpenAI service, a diverse set of customers from HSBC, PwC, and RTL Group to Shell and Wipro are applying language models to advanced scenarios like content and code generation.
+  - Leaders in every industry from Ahold Delhaize to KPMG to Philips are all choosing GitHub to build software.
+  - More than 400,000 people have subscribed since we made it generally available a month ago.
+  - And with our expanding portfolio of container services, organizations like H&M can build modern, more resilient cloud-native applications.
+  - All up, revenue from Azure container services increased by triple digits.
+  - With Power Platform, we are helping domain experts rapidly drive productivity gains at a time when it's never been more important.
+  - AB InBev, ARM, Equinor, Toyota, Vodafone, and Zurich Insurance have all built centers of excellence to train employees at scale on how to use Power Platform.
+  - We are helping organizations digitize their customer experience, service, finance, and supply chain functions as we continue to outgrow the market in every category.
+  - And new integrations between Dynamics 365 and Intelligent Order Management and Teams help people collaborate in the flow of work to overcome supply chain disruptions.
+  - Pete's Coffee is modernizing its supply chain with our business applications.
+  - For example, Microsoft Cloud for Healthcare, inclusive of Nuance, is becoming the platform of choice for companies across the healthcare value chain, looking to drive meaningful clinical and financial outcomes.
+  - Whether it's a provider modernizing care delivery, a health plan transforming the member experience or a retailer expanding into health services, having a technology partner that is truly dedicated to empowering their success is a significant differentiator for us.
+  - Intermountain Healthcare, for example, chose the Cloud for Healthcare as well as Nuance's DAX Ambient Intelligence solution as the pillar of its new digital strategy.
+  - We once again saw record engagement among the more than 850 million members, a testament to how mission-critical the platform is to connect job seekers with jobs, learners with skills, and marketeers with buyers.
+  - Daily content consumption across Start in categories like news, weather, finance, and sports increased 80% since we launched the service one year ago.
+  - And Edge continues to gain share as consumers use it to save money with our built-in coupon and price comparison features.
+  - And with PromoteIQ, we are providing a platform for retailers like Home Depot, Kohl's, and Kroger to build their own digital commerce and marketing channels.
+  - This quarter, Sephora chose our solution to help build a new advertising revenue stream while maintaining ownership of their own data and customer relationships.
+  - And we partnered with Epic Games to make Fortnite available for free via the browser.
+  - In our consumer business, despite those macro challenges, we drove another quarter of share gains for Windows in the PC market and for Edge in browsers.
+  - Against a strong prior year comparable, commercial bookings increased 25% and 35% in constant currency, significantly ahead of expectations.
+  - Commercial remaining performance obligation increased 34% and 37% in constant currency to $189 billion.
+  - The remaining portion which will be recognized beyond the next 12 months, increased 39% year over year, and our acuity mix increased one point year over year to 96%.
+  - Paid Office 365 commercial seats grew 14% year-over-year, driven by our small and medium business and frontline worker offerings, although growth was impacted by some moderation in new deal volume outside of E5, particularly in the small and medium business customer segment.
+  - Demand for security, compliance and voice value in Microsoft 365 drove strong E5 momentum again this quarter.
+  - Despite the deteriorating PC market, we saw share gains again this quarter and volumes remained above pre-pandemic levels.
+  - Cash paid for PP&E was $6.9 billion.
+  - Equity market declines drove net investment losses this quarter compared to net investment gains last year, resulting in a negative three-point impact on EPS growth.
+  - Additional details on the mechanics of the change are in our earnings materials.
+  - Assuming current rates remain stable, we expect a roughly four-point impact to full-year revenue growth with headwinds in H1 greater than in H2.
+  - Revenue growth will be driven by continued momentum in our commercial business and a focus on share gains across our portfolio.
+  - In Office commercial, revenue growth will again be driven by Office 365 with seat growth across customer segments and ARPU growth through E5.
+  - As a reminder, we are required to recognize mark-to-market gains or losses on our equity portfolio, which can increase quarterly volatility.
+  - In closing, we continue to see strong demand for our products and services and increased commitment to our platform as we remain focused on delivering compelling customer value in this dynamic environment, resulting in continued share gains.
+  - As we manage through this period, we will continue to invest in future growth while maintaining intense focus on operational excellence and execution discipline.
+  - Satya Nadella -- Chairman and Chief Executive Officer Thank you, Keith, for the question.
+  - And that is leading to share gains.
+  - Satya Nadella -- Chairman and Chief Executive Officer Yes.
+  - One is the triple-digit growth in Cosmos DB and triple-digit growth in container app services.
+  - People are writing applications at a completely different frontier of efficiency, which is cloud-native serverless container-based types of applications.
+  - As I said, it's trying to take into account the current macro environment.
+  - And as I said, I took what we saw in June, applied it as best we thought we could through the course of the fiscal year.
+  - I thought your guidance for Azure constant currency growth in the September quarter of a three-point decel to 43 is fairly solid.
+  - I would point you, Karl, really to some of the things Satya mentioned, which is, and we said in our comments, we did see some deceleration, a point a little more than we had expected in the consumption side through the course of Q4.
+  - Operator Our next question is coming from the line of Raimo Lenschow with Barclays.
+  - Raimo Lenschow -- Barclays -- Analyst Thank you.
+  - I mean, the two numbers that our usage -- our user growth numbers, right, the 14% growth in the number of seats of Microsoft 365 and then the E5 growth of 60%, I think, speak to, again, that best-of-suite value in the core and in E5.
+  - Amy, I just wanted to focus in on your comments about capital spending but also just utilization within Azure, and obviously, some of the supply chain issues you mentioned before.
+  - The second thing is I would also say that is a spot where you tend to see macro weakness show itself, and we alluded to that as well in my comment because while I can't tell you, in particular, which part of that is some of the partner transition work we're doing versus macro, it certainly feels like both.
+  - And so that's certainly a spot that we're watching.
+  - And certainly, we've not applied that logic as we to Q1.
+  - I do think it speaks to what Satya and I have said, which is we see customers continuing to optimize, whether that's -- whether it's through reserved instance, whether it's through existing workloads and purchase patterns.
+  - So it doesn't really -- I would not point to it as being different that we have certainly seen to this point.
+  - Satya Nadella -- Chairman and Chief Executive Officer Thank you, all.
+  - Operator [Operator signoff] Duration: 0 minutes Call participants: Brett Iversen -- Vice President, Investor Relations Satya Nadella -- Chairman and Chief Executive Officer Amy Hood -- Chief Financial Officer Keith Weiss -- Morgan Stanley -- Analyst Mark Moerdler -- Bernstein Research -- Analyst Brent Thill -- Jefferies -- Analyst Karl Keirstead -- UBS -- Analyst Raimo Lenschow -- Barclays -- Analyst Phil Winslow -- Credit Suisse -- Analyst Kirk Materne -- Evercore ISI -- Analyst Alex Zukin -- Wolfe Research -- Analyst More MSFT analysis All earnings call transcripts
+Guidance given:
+  - These statements are based on current expectations and assumptions that are subject to risks and uncertainties. (Unresolved)
+  - Assuming current rates remain stable, we expect a roughly four-point impact to full-year revenue growth with headwinds in H1 greater than in H2. (Unresolved)
+  - As we manage through this period, we will continue to invest in future growth while maintaining intense focus on operational excellence and execution discipline. (Unresolved)
+  - I thought your guidance for Azure constant currency growth in the September quarter of a three-point decel to 43 is fairly solid. (Unresolved)
+  - I would point you, Karl, really to some of the things Satya mentioned, which is, and we said in our comments, we did see some deceleration, a point a little more than we had expected in the consumption side through the course of Q4. (Unresolved)
+Actual reported:
+  - [Unresolved] Our new Microsoft Digital Contact Center Platform brings together Dynamics 365, Microsoft Teams as well as enterprise AI capabilities from Nuance to help customers like HP deliver omnichannel customer engagement.
+  - [Observed] When it comes to AI, we are seeing a paradigm shift as the world's large AI models become powerful platforms themselves.
+  - [Observed] GitHub Copilot is the first-of-its-kind AI pair programmer, which helps developers write better code faster.
+  - [Observed] And Teams Rooms bridges the gap between people working remotely and those in the office with innovations like AI-powered cameras.
+  - [Observed] And as you heard from Satya, we saw share gains in areas such as data and AI, Dynamics, Teams, and security.
+Filing disclosures (10-K/10-Q):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - Nuance is a cloud and artificial intelligence (“AI”) software provider with healthcare and enterprise AI experience, and the acquisition will build on our industry-specific cloud offerings.
+  [Financial Statements]
+    - 4 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 15 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - Our strategic vision is to compete and grow by building best-in-class platforms and productivity services for an intelligent cloud and an intelligent edge infused with artificial intelligence (“AI”).
+    - Our intelligent cloud and intelligent edge worldview is connected with the growth of the Internet of Things (“IoT”), a network of distributed and interconnected devices employing sensors, data, and computing capabilities, including AI.
+    - Our strategic vision is to compete and grow by building best-in-class platforms and productivity services for an intelligent cloud and an intelligent edge infused with artificial intelligence (“AI”).
+    - Our intelligent cloud and intelligent edge worldview is connected with the growth of the Internet of Things (“IoT”), a network of distributed and interconnected devices employing sensors, data, and computing capabilities, including AI.
+
