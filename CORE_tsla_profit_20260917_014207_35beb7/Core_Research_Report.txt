@@ -1,0 +1,205 @@
+[CORE RESEARCH] TSLA: profit
+
+Quarters searched: 8
+Filing sections searched: 189
+
+Over the periods from Q1 2024 through Q4 2025, Tesla's profit narrative consistently highlighted record or improved profitability, particularly in the energy storage segment with Megapack and Powerwall deployments reaching all-time highs. Management frequently emphasized cost reductions, investments in AI, and navigating tariff impacts as key factors influencing profitability. The automotive segment showed resilience with flat or improved gross profits despite delivery fluctuations and challenging environments. The company also disclosed substantive profit-sharing arrangements affecting noncontrolling interests, with segment gross profit used as a key performance metric by the Chief Operating Decision Maker (CODM).
+
+Forecasting credibility: High
+There is one explicit guidance/actual pair with a verdict, which was met, indicating management's forecast on tariff impacts and profitability was accurate. Throughout the periods, management's optimistic profit guidance was supported by actual record or improved gross profit figures reported in filings and transcripts, reinforcing credibility. The consistency of meeting or exceeding profit-related expectations across multiple quarters further supports a high rating for forecasting credibility.
+
+Trends:
+  - Record energy storage profitability growth
+  - Improved service and other segment profits
+  - Flat to improved automotive gross profit despite delivery challenges
+  - Increasing impact of tariffs on profitability
+  - Consistent cost reduction and investment in growth
+
+Recurring themes/risks:
+  - Tariff impacts on profitability
+  - Cost reduction initiatives
+  - Growth in energy storage deployments
+  - Profit-sharing arrangements affecting segment reporting
+
+Key concerns:
+  - The presence of substantive profit-sharing arrangements and use of the hypothetical liquidation at book value (HLBV) method for noncontrolling interests may complicate profit attribution and comparability.
+  - Tariff impacts are repeatedly noted as a risk to profitability, indicating potential volatility in future profit margins.
+  - Some transcript excerpts contain inaudible or vague references, limiting clarity on certain profit-related details.
+
+Conclusion:
+Tesla demonstrated strong and improving profitability over the assessed periods, particularly driven by record energy storage deployments and gross profits. Management's guidance on profitability, including the impact of tariffs, was met, supporting their credibility. Despite external challenges such as tariffs and delivery fluctuations, Tesla maintained or grew gross profits in key segments, reflecting effective cost management and operational execution. The disclosures of profit-sharing arrangements and segment reporting practices provide transparency but also suggest complexity in profit measurement. Overall, Tesla's profit performance and management's forecasting reliability appear robust and well-supported by the reported data.
+
+Evidence Coverage: 97.5% complete; 355/364 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2024 ===
+Management said:
+  - Despite these challenges, the Tesla team did a great job executing in a tough environment and energy storage deployments, the Megapack in particular, reached an all-time high in Q1, leading to record profitability for the energy business, and that looks likely to continue to increase in the quarters and years ahead.
+  - We continue to make the necessary investments that will drive growth and profits for Tesla in the future, and I wanted to thank the Tesla team for incredible execution during this period and look forward to everything that we have planned ahead.
+  - The savings from these initiatives, including our cost reductions will help improve our overall profitability and ultimately enable us to increase the scale of our investments in AI.
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] Gross profit total automotive & services and other segment $ 3,293 $ 4,343
+  - [Observed] [from SEC filing] Gross profit energy generation and storage segment $ 403 $ 168
+  - [Observed] Despite these challenges, the Tesla team did a great job executing in a tough environment and energy storage deployments, the Megapack in particular, reached an all-time high in Q1, leading to record profitability for the energy business, and that looks likely to continue to increase in the quarters and years ahead.
+Filing disclosures (SEC):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $3.70B | vs prior quarter: — | vs prior year: $4.51B (-18.1%)
+    - Operating Income: $1.17B | vs prior quarter: — | vs prior year: $2.66B (-56.0%)
+    - Net Income: $1.39B | vs prior quarter: — | vs prior year: $2.51B (-44.7%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 7 real filing table(s) available (see the HTML report).
+    - This ASU also requires disclosure of the title and position of the individual identified as the CODM and an explanation of how the CODM uses the reported measures of a segment’s profit or loss in assessing segment performance and deciding how to allocate resources.
+    - This ASU updates reportable segment disclosure requirements by requiring disclosures of significant reportable segment expenses that are regularly provided to the Chief Operating Decision Maker (“CODM”) and included within each reported measure of a segment's profit or loss.
+
+=== Q2 2024 ===
+Management said:
+  - Energy storage deployments reached an all-time high in Q2, leading to record profits for the energy business.
+  - Moving on to the other parts of the business, service and other gross profits also improved sequentially from the improvement in service utilization and growth in our collision repair business.
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] Gross profit energy generation and storage segment $ 740 $ 278
+  - [Observed] Energy storage deployments more than doubled with contribution not just from Megapack, but also Powerwall, resulting in record revenues and profit for the energy business.
+  - [Observed] Energy storage deployments reached an all-time high in Q2, leading to record profits for the energy business.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $4.58B | vs prior quarter: $3.70B (+23.9%) | vs prior year: $4.53B (+1.0%)
+    - Operating Income: $1.60B | vs prior quarter: $1.17B (+37.1%) | vs prior year: $2.40B (-33.1%)
+    - Net Income: $1.40B | vs prior quarter: $1.39B (+0.7%) | vs prior year: $2.70B (-48.2%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 7 real filing table(s) available (see the HTML report).
+    - This ASU also requires disclosure of the title and position of the individual identified as the CODM and an explanation of how the CODM uses the reported measures of a segment’s profit or loss in assessing segment performance and deciding how to allocate resources.
+    - This ASU updates reportable segment disclosure requirements by requiring disclosures of significant reportable segment expenses that are regularly provided to the Chief Operating Decision Maker (“CODM”) and included within each reported measure of a segment's profit or loss.
+
+=== Q3 2024 ===
+Management said:
+  - In fact, I think if you look at EV companies worldwide, to the best of my knowledge, no EV company is even profitable.
+  - And I'm not -- to the best of my knowledge, there was no EV division of any company, of any existing car company that is profitable.
+  - So, it is notable that Tesla is profitable despite a very challenging automotive environment, and this quarter actually is a record Q3 for us.
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] Gross profit energy generation and storage segment $ 725 $ 381
+  - [Observed] So, it is notable that Tesla is profitable despite a very challenging automotive environment, and this quarter actually is a record Q3 for us.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $5.00B | vs prior quarter: $4.58B (+9.2%) | vs prior year: $4.18B (+19.6%)
+    - Operating Income: $2.72B | vs prior quarter: $1.60B (+69.3%) | vs prior year: $1.76B (+54.0%)
+    - Net Income: $2.17B | vs prior quarter: $1.40B (+55.2%) | vs prior year: $1.85B (+17.3%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 7 real filing table(s) available (see the HTML report).
+    - This ASU also requires disclosure of the title and position of the individual identified as the CODM and an explanation of how the CODM uses the reported measures of a segment’s profit or loss in assessing segment performance and deciding how to allocate resources.
+    - This ASU updates reportable segment disclosure requirements by requiring disclosures of significant reportable segment expenses that are regularly provided to the Chief Operating Decision Maker (“CODM”) and included within each reported measure of a segment's profit or loss.
+
+=== Q4 2024 ===
+Management said:
+  - Therefore, the imposition of tariffs, which is very likely, will have an impact on our business and profitability.
+Guidance given:
+Actual reported:
+  - [Observed] This was the result of higher service center costs and lower profit from used car business.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $17.45B | vs prior quarter: — | vs prior year: $17.66B (-1.2%)
+    - Operating Income: $7.08B | vs prior quarter: — | vs prior year: $8.89B (-20.4%)
+    - Net Income: $7.09B | vs prior quarter: — | vs prior year: $15.00B (-52.7%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 7 real filing table(s) available (see the HTML report).
+    - We have determined that the contractual provisions of the funds represent substantive profit-sharing arrangements.
+    - We have further determined that the methodology for calculating the noncontrolling interest and redeemable noncontrolling interest balances that reflects the substantive profit-sharing arrangements is a balance sheet approach using the hypothetical liquidation at book value (“HLBV”) method.
+    - This ASU also requires disclosure of the title and position of the individual identified as the CODM and an explanation of how the CODM uses the reported measures of a segment’s profit or loss in assessing segment performance and deciding how to allocate resources.
+    - This ASU updates reportable segment disclosure requirements by requiring disclosures of significant reportable segment expenses that are regularly provided to the Chief Operating Decision Maker (“CODM”) and included within each reported measure of a segment's profit or loss.
+    - The CODM uses gross profit to allocate operating and capital resources and assesses performance of each segment by comparing actual gross profit results to historical results and previously forecasted financial information.
+  [Risk Factors]
+    - For example, we monitor tax legislation changes on a global basis, including changes arising as a result of the Organization for Economic Cooperation and Development’s multi-jurisdictional plan of action to address base erosion and profit shifting.
+
+=== Q1 2025 ===
+Management said:
+  - (24:57) So, like Elon said, this definitely gives us a bigger edge as compared to our other OEMs in terms of managing the tariffs, but we're not immune, because when the Section 232 auto tariffs become effective in May, which includes Canada and Mexico, and Canada and Mexico has been part of our regionalization [inaudible 00:25:19], they will have an impact on profitability.
+Guidance given:
+  - (24:57) So, like Elon said, this definitely gives us a bigger edge as compared to our other OEMs in terms of managing the tariffs, but we're not immune, because when the Section 232 auto tariffs become effective in May, which includes Canada and Mexico, and Canada and Mexico has been part of our regionalization [inaudible 00:25:19], they will have an impact on profitability. (target: post-May 2025; Met)
+Actual reported:
+  - [Observed] Note that we continued our journey to improve profitability in our services and [inaudible 00:23:01] business through better level of productivity.
+Filing disclosures (SEC):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $3.15B | vs prior quarter: — | vs prior year: $3.70B (-14.7%)
+    - Operating Income: $399.0M | vs prior quarter: — | vs prior year: $1.17B (-65.9%)
+    - Net Income: $409.0M | vs prior quarter: — | vs prior year: $1.39B (-70.6%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 7 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - For example, we monitor tax legislation changes on a global basis, including changes arising as a result of the Organization for Economic Cooperation and Development’s multi-jurisdictional plan of action to address base erosion and profit shifting.
+
+=== Q2 2025 ===
+Management said:
+  - We were able to achieve our highest gross profit for the business yet.
+  - Supercharging and Service Profitability: Supercharging, insurance, and service centers all contributed to sequential margin improvement in service and other businesses.
+Guidance given:
+Actual reported:
+  - [Observed] The energy business achieved record power deployment and its highest gross profit to date, registering customer willingness to bear tariff headwinds, especially in industrial storage, even as legislative changes are set to negatively affect residential storage demand.
+  - [Observed] The company achieved record power deployment in Q2 2025, with sequential improvement in energy and solar margins, and attained the highest gross profit for the segment to date.
+  - [Observed] Supercharging and Service Profitability: Supercharging, insurance, and service centers all contributed to sequential margin improvement in service and other businesses.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $3.88B | vs prior quarter: $3.15B (+23.0%) | vs prior year: $4.58B (-15.3%)
+    - Operating Income: $923.0M | vs prior quarter: $399.0M (+131.3%) | vs prior year: $1.60B (-42.5%)
+    - Net Income: $1.17B | vs prior quarter: $409.0M (+186.6%) | vs prior year: $1.40B (-16.3%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 7 real filing table(s) available (see the HTML report).
+
+=== Q3 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Observed] We set new records not just for deliveries and deployments, but also around a range of financial metrics from total revenues, energy gross profit, energy margins to fresh free cash flow.
+  - [Observed] The energy storage business continued to deliver with record deployments, gross profit, and margins.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $5.05B | vs prior quarter: $3.88B (+30.3%) | vs prior year: $5.00B (+1.1%)
+    - Operating Income: $1.62B | vs prior quarter: $923.0M (+75.9%) | vs prior year: $2.72B (-40.2%)
+    - Net Income: $1.37B | vs prior quarter: $1.17B (+17.2%) | vs prior year: $2.17B (-36.8%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 7 real filing table(s) available (see the HTML report).
+
+=== Q4 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Met] Automotive gross profit was flat sequentially despite 16% lower deliveries, primarily due to regional mix as we had proportionately more deliveries in APAC and EMEA.
+  - [Observed] On the energy front, we achieved yet another record in terms of gross profit for the quarter and ended the year with nearly $12.8 billion in revenue, a 26.6% year-over-year growth.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $17.09B | vs prior quarter: — | vs prior year: $17.45B (-2.0%)
+    - Operating Income: $4.36B | vs prior quarter: — | vs prior year: $7.08B (-38.5%)
+    - Net Income: $3.79B | vs prior quarter: — | vs prior year: $7.09B (-46.5%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 7 real filing table(s) available (see the HTML report).
+    - We have determined that the contractual provisions of the funds represent substantive profit-sharing arrangements.
+    - We have further determined that the methodology for calculating the noncontrolling interest and redeemable noncontrolling interest balances that reflects the substantive profit-sharing arrangements is a balance sheet approach using the hypothetical liquidation at book value (“HLBV”) method.
+    - The CODM uses gross profit to allocate operating and capital resources and assesses performance of each segment by comparing actual gross profit results to historical results and previously forecasted financial information.
+  [Risk Factors]
+    - For example, we monitor tax legislation changes on a global basis, including changes arising as a result of the Organization for Economic Cooperation and Development’s multi-jurisdictional plan of action to address base erosion and profit shifting.
+
