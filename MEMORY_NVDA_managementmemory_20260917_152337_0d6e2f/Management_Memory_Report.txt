@@ -1,0 +1,85 @@
+[MANAGEMENT MEMORY] NVDA
+
+Coverage: NVDA_Q3_2019 through NVDA_Q1_2027 (27 available periods)
+First and last observed mean first and last observed in the available transcript coverage, not the company's true historical first or last mention.
+
+- context: stable | first NVDA_Q3_2019 | last NVDA_Q1_2027 | 15 periods | high confidence | attention delta 83.9% | wording reframed
+  Forward-looking language: 1 sentence(s) across 1 period(s)
+  Investor pressure: 10 question(s), 17 answer(s); latest focus shared
+  NVDA_Q3_2019: Hyperscale activity is being driven by conversational AI, the ability for computers to engage in human-like dialog capturing context and providing intelligent responses.
+  NVDA_Q1_2027: Many industrial companies there is no choice but to put the computer where the context is, where the action is, You cannot put that in the cloud.
+- delivered: fading | first NVDA_Q3_2019 | last NVDA_Q4_2026 | 15 periods | high confidence | attention delta None% | wording reframed
+  Investor pressure: 0 question(s), 6 answer(s); latest focus quiet
+  NVDA_Q3_2019: At the event, we announced that the US Postal Service, the world's largest delivery service with almost 150 billion pieces of mail delivered annually is adopting AI technology from NVIDIA, enabling 10x faster processing of package data and with higher accuracy.
+  NVDA_Q4_2026: We delivered another outstanding quarter, with record revenue, operating income, and free cash flow.
+- category: accelerating | first NVDA_Q3_2019 | last NVDA_Q1_2027 | 14 periods | high confidence | attention delta 1017.0% | wording reframed
+  Forward-looking language: 2 sentence(s) across 2 period(s)
+  Investor pressure: 0 question(s), 9 answer(s); latest focus management-led
+  NVDA_Q3_2019: We expect this to become a major new category with exciting growth opportunities.
+  NVDA_Q1_2027: And all of those libraries are essential for us to engage the vertical industries that represents the second and the third category.
+- purchase: fading | first NVDA_Q4_2019 | last NVDA_Q4_2026 | 14 periods | high confidence | attention delta None% | wording reframed
+  Forward-looking language: 1 sentence(s) across 1 period(s)
+  Investor pressure: 4 question(s), 6 answer(s); latest focus quiet
+  NVDA_Q4_2019: These products deliver a revolutionary leap in performance and innovation with real-time ray tracing and A.I., but some customers may have delayed their purchase while waiting for lower price points or further demonstration of the RTX technology in actual games.
+  NVDA_Q4_2026: -- Grew 8% sequentially; purchase commitments increased significantly to secure supply and address longer-term demand into 2027.
+- title: historical | first NVDA_Q3_2019 | last NVDA_Q2_2025 | 14 periods | high confidence | attention delta None% | wording reframed
+  NVDA_Q3_2019: Our GeForce RTX lineup features the most advanced GPU for every price point and uniquely offers hardware-based ray tracing for cinematic graphics, while ray tracing launched a little more than a year ago, two dozen top titles have shipped with that or on the way.
+  NVDA_Q2_2025: Recently added RTX and DLSS titles include Indiana Jones and The Great Circle, Awakening, and
+- progress: fading | first NVDA_Q3_2019 | last NVDA_Q4_2026 | 12 periods | high confidence | attention delta None% | wording reframed
+  Forward-looking language: 2 sentence(s) across 2 period(s)
+  Investor pressure: 1 question(s), 18 answer(s); latest focus quiet
+  NVDA_Q3_2019: Finally, we made progress in building out our cloud gaming business, two global service providers Taiwan Mobile and Russia Rostelcom with GFN.RU joined SoftBank and Korea's LG as partners for our GeForce NOW game streaming service.
+  NVDA_Q4_2026: Colette Kress noted, "we expect supply constraints to be the headwind to Gaming in Q1 and beyond." Competitive progress from China-based rivals with recent IPOs, raising potential for long-term disruption in the global AI industry structure.
+- post: stable | first NVDA_Q3_2019 | last NVDA_Q1_2027 | 12 periods | high confidence | attention delta -28.1% | wording reframed
+  Forward-looking language: 1 sentence(s) across 1 period(s)
+  Investor pressure: 2 question(s), 11 answer(s); latest focus management-led
+  NVDA_Q3_2019: Urban settings post unique challenges for autonomous vehicles given the number of density of objects that need to be perceived and comprehended in real time.
+  NVDA_Q1_2027: To pretraining, to post training reinforcement learning all the way to inference.
+- sery: historical | first NVDA_Q4_2021 | last NVDA_Q1_2026 | 12 periods | high confidence | attention delta None% | wording reframed
+  Investor pressure: 0 question(s), 1 answer(s); latest focus quiet
+  NVDA_Q4_2021: Demand is incredible for our new GeForce RTX 30 Series products based on the NVIDIA Ampere GPU architecture.
+  NVDA_Q1_2026: Core Ultra Series 3 and Intel 18A–based Core Series 3 entered full-volume production and marked the fastest new product ramps for Intel in five years.
+- rapid: stable | first NVDA_Q4_2019 | last NVDA_Q1_2027 | 10 periods | high confidence | attention delta -48.9% | wording reframed
+  Forward-looking language: 3 sentence(s) across 1 period(s)
+  Investor pressure: 5 question(s), 13 answer(s); latest focus shared
+  NVDA_Q4_2019: For example, we recently announced Rapids, or CUDA acceleration stack for data analytics and machine learning.
+  NVDA_Q1_2027: And do you still see hyperscaler CapEx kind of still growing after this year at a very rapid clip?
+- cowen: re-emerging | first NVDA_Q1_2021 | last NVDA_Q1_2027 | 9 periods | high confidence | attention delta 39.1% | wording reframed
+  Forward-looking language: 4 sentence(s) across 4 period(s)
+  Investor pressure: 7 question(s), 10 answer(s); latest focus management-led
+  NVDA_Q1_2021: We will also be at Cowen's TMT Conference on May 27th, Morgan Stanley's Cloud Secular Winners Conference on June 1st, BofA's Technology Conference on June 2nd, Needham's Fourth Automotive Technology Conference on June 3rd and NASDAQ Investor Conference on June 16th.
+  NVDA_Q1_2027: We will also be participating at the TD Cowen TMT conference on May 28th and the Bank of America Global Technology Conference on June 4th.
+- morgan: historical | first NVDA_Q4_2019 | last NVDA_Q3_2026 | 8 periods | high confidence | attention delta None% | wording reframed
+  Forward-looking language: 6 sentence(s) across 6 period(s)
+  Investor pressure: 1 question(s), 9 answer(s); latest focus quiet
+  NVDA_Q4_2019: We'll be presenting at the Morgan Stanley Technology Media and Telecom Conference on February 26.
+  NVDA_Q3_2026: Your first question comes from Joseph Moore with Morgan Stanley.
+- stanley: historical | first NVDA_Q4_2019 | last NVDA_Q3_2026 | 8 periods | high confidence | attention delta None% | wording reframed
+  Forward-looking language: 6 sentence(s) across 6 period(s)
+  Investor pressure: 1 question(s), 6 answer(s); latest focus quiet
+  NVDA_Q4_2019: We'll be presenting at the Morgan Stanley Technology Media and Telecom Conference on February 26.
+  NVDA_Q3_2026: Your first question comes from Joseph Moore with Morgan Stanley.
+- token: accelerating | first NVDA_Q3_2024 | last NVDA_Q1_2027 | 8 periods | high confidence | attention delta 315.5% | wording reframed
+  Forward-looking language: 2 sentence(s) across 2 period(s)
+  Investor pressure: 0 question(s), 9 answer(s); latest focus management-led
+  NVDA_Q3_2024: It trains models and it generates tokens, it generates AI.
+  NVDA_Q1_2027: The LPX is designed for low latency and high token rate.
+- anthropic: accelerating | first NVDA_Q1_2025 | last NVDA_Q1_2027 | 5 periods | high confidence | attention delta 3104.3% | wording reframed
+  Forward-looking language: 2 sentence(s) across 1 period(s)
+  Investor pressure: 1 question(s), 4 answer(s); latest focus management-led
+  NVDA_Q1_2025: Leading LLM companies such as OpenAI, Adept, Anthropic, Character.ai, Cohere, Databricks, DeepMind, Meta, Mistral, XAi, and many others are building on NVIDIA AI in the cloud.
+  NVDA_Q1_2027: Which is the reason why we heard about the AI frontier, AI companies both Anthropic and OpenAI, growing at an incredible pace.
+- goldman: fading | first NVDA_Q2_2023 | last NVDA_Q4_2026 | 5 periods | high confidence | attention delta None% | wording reframed
+  Forward-looking language: 3 sentence(s) across 3 period(s)
+  Investor pressure: 0 question(s), 4 answer(s); latest focus quiet
+  NVDA_Q2_2023: We will be attending the Jefferies conference in Chicago on August 30 and the Goldman Sachs conference in San Francisco on September 12.
+  NVDA_Q4_2026: Sarah: Your final question comes from Jim Schneider with Goldman Sachs.
+- ub: historical | first NVDA_Q3_2021 | last NVDA_Q3_2026 | 4 periods | high confidence | attention delta None% | wording reframed
+  Forward-looking language: 4 sentence(s) across 4 period(s)
+  Investor pressure: 0 question(s), 6 answer(s); latest focus quiet
+  NVDA_Q3_2021: We will also be at the Wells Fargo Fifth Annual TMT Summit virtually on December 1st, the UBS Global TMT Virtual Conference on December 6th, and the Deutsche Bank Virtual Auto Tech Conference on December 9th.
+  NVDA_Q3_2026: Sarah: The next question comes from Timothy Arcuri with UBS.
+- instruction: historical | first NVDA_Q4_2023 | last NVDA_Q1_2025 | 2 periods | medium confidence | attention delta None% | wording reframed
+  Investor pressure: 0 question(s), 3 answer(s); latest focus quiet
+  NVDA_Q4_2023: This new computer -- when I say new era of computing, this new computing platform, this new computer could take whatever your prompt is, whatever your human-explained request is, and translate it to a sequence of instructions that you process it directly, or it waits for you to decide whether you want to process it or not.
+  NVDA_Q1_2025: We are fundamentally changing how computing works and what computers can do, from general-purpose CPU to GPU accelerated computing, from instruction-driven software to intention-understanding models, from retrieving information to performing skills and, at the industrial level, from producing software to generating tokens, manufacturing digital intelligence.
