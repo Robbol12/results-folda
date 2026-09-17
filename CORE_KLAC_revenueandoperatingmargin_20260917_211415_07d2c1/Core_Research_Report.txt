@@ -1,0 +1,432 @@
+[CORE RESEARCH - MULTIPLE TOPICS] KLAC: revenue | operating margin
+
+
+======================================================================
+TOPIC: revenue
+======================================================================
+
+[CORE RESEARCH] KLAC: revenue
+
+Quarters searched: 4
+Filing sections searched: 44
+
+Over the reported periods, revenue guidance and actual results consistently showed a pattern of meeting or exceeding expectations, with quarterly revenues generally trending upward from around $2.4 billion to $2.57 billion. Management provided detailed segment breakdowns and forward-looking guidance, often highlighting foundry logic and memory revenue proportions. The company noted impacts on revenue from factors such as pricing, currency fluctuations, trade restrictions, and service revenue dynamics. Despite some volatility in semiconductor industry conditions, the company maintained a positive outlook for calendar 2024 and beyond, with revenue growth resuming after a bottom in early 2024.
+
+Forecasting credibility: High
+Management demonstrated strong forecasting credibility, with 12 guidance/actual pairs showing a consistent pattern of meeting or exceeding revenue targets. Actual revenues frequently came in at or above the midpoint or upper end of guidance ranges, supported by precise filing data. This reliability is reinforced by management's transparent discussion of factors influencing revenue and their ability to adjust guidance accordingly.
+
+Trends:
+  - Revenue growth resuming after early 2024 bottom
+  - Quarterly revenues generally increasing from $2.4B to $2.57B
+  - Foundry logic revenue share increasing
+  - Service revenue influenced by installed base and contract renewals
+  - Impact of currency fluctuations and trade restrictions
+
+Recurring themes/risks:
+  - Customer pricing and volume purchase agreements affecting revenue
+  - Foreign currency exchange rate fluctuations
+  - Trade restrictions impacting revenue
+  - Service revenue variability based on system utilization and contract renewals
+  - Dependence on semiconductor industry capital expenditure trends
+
+Key concerns:
+  - No significant inconsistencies or accounting changes were noted across filings; revenue recognition policies remained consistent with point-in-time transfer of control.
+  - Some guidance ranges widened (e.g., Q4 2024 guidance ±$150 million vs. usual ±$125 million), indicating some uncertainty in near-term forecasting.
+  - Revenue deferrals and government incentives are noted as factors but not quantified, which could introduce variability.
+
+Conclusion:
+Revenue performance over the periods analyzed shows a credible and consistent pattern of meeting or exceeding management's guidance, with quarterly revenues increasing from approximately $2.4 billion to $2.57 billion. The company’s revenue is diversified across semiconductor process control, foundry logic, memory, and inspection segments, with service revenues contributing steadily. Management’s guidance has been reliable, supported by detailed disclosures in filings and consistent actual results. External factors such as pricing, currency, and trade restrictions are acknowledged as influencing revenue but have not disrupted the overall positive revenue trajectory. Therefore, the evidence supports a conclusion of stable and improving revenue performance with high forecasting credibility.
+
+Evidence Coverage: 97.4% complete; 371/381 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2024 ===
+Management said:
+  - Revenue was $2.4 billion, non-GAAP diluted EPS was $5.74 and GAAP diluted EPS was $5.41, with all three coming in at the upper end of the guided ranges.
+  - Specifically, revenue of $2.4 billion finished at the upper end of the guidance range.
+  - As for guidance, our December quarter guidance is as follows: total revenue is expected to be $2.45 billion, plus or minus $125 million, foundry logic is forecasted to be approximately 68%, and memory is expected to be around 32% of semiconductor process control systems revenue to semiconductor customers.
+  - I actually think EPC probably has some modest improvement off of pretty depressed levels our incremental operating margin model drives how we're running the business in terms of expectations for leverage on incremental revenue.
+Investor presentation deck:
+  - Quarterly revenue was $2.4 billion, driven by strength in legacy node investment globally and industry infrastructure investments. [Presentation_e77faed04bf97506.html]
+Guidance given:
+  - As for guidance, our December quarter guidance is as follows: total revenue is expected to be $2.45 billion, plus or minus $125 million, foundry logic is forecasted to be approximately 68%, and memory is expected to be around 32% of semiconductor process control systems revenue to semiconductor customers. (target: Q4 2024; Exceeded)
+  - It seems like that was the main source of revenue upside in the quarter, and it looks to be -- based on your comments, down slightly in the next quarter in calendar Q4. (target: Q4 2024; Missed)
+  - These technologies and trends underpin the broader semiconductor industry view that Semiconductor revenue is on track to be $1 trillion by 2030, representing a compound annual growth rate (CAGR) of approximately 9% from 2023 forecasts. (target: 2030; Unresolved)
+  - Specifically, this includes expected double-digit revenue growth for unpatterned wafer inspection, demand exceeding our ability to supply in broadband plasma (BBP) optical inspection, and relative strength in macro inspection, each of which are core markets for KLA and projected to meaningfully outperform WFE in 2023. (target: 2023; Unresolved)
+  - analysts continue to project semiconductor device revenues to decline low double digits percent in 2023. (target: 2023; Unresolved)
+Actual reported:
+  - [Observed] [from SEC filing] PCB, Display and Component Inspection: Revenues 133,399 131,923 412,474 502,627
+  - [Observed] Revenue was $2.4 billion, non-GAAP diluted EPS was $5.74 and GAAP diluted EPS was $5.41, with all three coming in at the upper end of the guided ranges.
+  - [Observed] Specifically, revenue of $2.4 billion finished at the upper end of the guidance range.
+  - [Observed] If we look at some specific highlights in the quarter, revenue was driven by strength in legacy node investment globally and industry infrastructure investment.
+  - [Observed] [from presentation deck] Quarterly revenue was $2.4 billion, driven by strength in legacy node investment globally and industry infrastructure investments.
+  - [Observed] [from presentation deck] KLA Services Grew Q/Q and Y/Y Demonstrating Resiliency in a Down WFE Market Services revenue of $560 million continues to grow both sequentially and year-over-year driven by our growing installed base, increasing customer adoption of long-term service agreements, and expansion of Service opportunities in the legacy nodes.
+  - [Observed] [from presentation deck] $2,397M -12% Y/Y Revenue
+  - [Observed] [from presentation deck] Services revenue of $560 million continues to grow both sequentially and year-over-year driven by our growing installed base, increasing customer adoption of long-term service agreements, and expansion of Service opportunities in the legacy nodes.
+Filing disclosures (SEC):
+  [MD&A]
+    - Revenue is also impacted by average customer pricing, customer revenue deferrals associated with volume purchase agreements, the effect of fluctuations in foreign currency exchange rates and increased trade restrictions as discussed in the “Executive Summary” section above.
+    - Service revenues are generated from product maintenance and support services, as well as billable time and material service calls made to our customers.
+    - The amount of our service revenues is typically a function of the number of systems installed at our customers’ sites and the utilization of those systems, but it is also impacted by other factors, such as our rate of service contract renewals, the types of systems being serviced and fluctuations in foreign currency exchange rates.
+    - A majority of our revenues are derived from outside the U.S., and include geographic regions such as China, Taiwan, Korea, Japan, Europe and Israel, and Rest of Asia.
+    - Our product revenues in any particular period are impacted by the amount of new orders we receive during that period and, depending upon the duration of manufacturing and installation cycles, in the preceding periods.
+    - Revenues in the PCB, Display and Component Inspection segment during the nine months ended March 31, 2024 decreased compared to the nine months ended March 31, 2023 primarily due to market softening.
+  [Financial Statements]
+    - Revenue: $2.40B | vs prior quarter: — | vs prior year: $2.72B (-12.0%)
+    - Cost of Revenue: $946.9M | vs prior quarter: — | vs prior year: $1.04B (-9.1%)
+    - For geographical revenue reporting, revenues are attributed to the geographic location in which the customer is located.
+    - In the three months ended March 31, 2023, two customers accounted for approximately 18 % and 16 % of total revenues, respectively.
+    - In the nine months ended March 31, 2023, two customers accounted for approximately 20 % and 15 % of total revenues, respectively.
+    - In the three months ended March 31, 2024, one customer accounted for approximately 14 % of total revenues.
+  [Risk Factors]
+    - Any such decisions may impact our ability to recognize revenue, including the fiscal period during which such revenue may be recognized, with respect to such products, which could have a material adverse effect on our business, results of operations or stock price.
+    - A majority of our annual revenues are derived from outside the U.S., and we maintain significant operations outside the U.S. We are exposed to numerous risks as a result of the international nature of our business and operations.
+    - We regularly recognize revenue from a sale upon shipment of the applicable product to the customer (even before receiving the customer’s formal acceptance of that product) in certain situations, including sales of products for which installation is considered perfunctory, transactions in which the product is sold to an independent distributor and we have no installation obligations, and sales of products where we have previously delivered the same product to the same customer location and that prior delivery has been accepted.
+    - Our revenue from sales of products and provision of services to customers in China was 27%, 29% and 26% for fiscal years 2023, 2022 and 2021, respectively.
+    - However, our ability to achieve our anticipated revenue levels is a function of numerous factors, including the volatile and historically cyclical nature of our primary industry, customer order cancellations, macroeconomic changes, operational matters regarding particular agreements, our ability to manage customer deliveries, the availability of resources for the installation of our products, delays or accelerations by customers in taking deliveries and the acceptance of our products (for products where customer acceptance is required before we can recognize revenue from such sales), our ability to operate our business and sales processes effectively, and a number of the other risk factors set forth in this Item 1A.
+    - There can be no assurance that revenues from future products or product enhancements will be sufficient to recover the development costs associated with such products or enhancements.
+
+=== Q2 2024 ===
+Management said:
+  - Revenue was $2.49 billion, slightly above the guidance midpoint of $2.45 billion.
+  - As for guidance, KLA's March quarter guidance is as follows: Revenue is expected to be $2.3 billion, plus or minus $125 million.
+  - Moving to KLA's December quarter results, which were ahead of expectations as revenue grew 4% sequentially to $2.49 billion.
+  - Just on the display business, so 1.5% of revenue last year.
+  - For 2023 KLA revenue was almost $9.7 billion, down 8% versus the prior year.
+  - So, in regards to the comments on display, it's about 1.5% of the revenue of the company.
+  - The breakdown of revenue by reportable segments and end markets and major products and regions can be found within the shareholder letter and slides.
+  - KLA Service business grew 1% on a sequential quarterly basis to $565 million and remained on track to resume the targeted 12% to 14% annual revenue growth trajectory in calendar 2024.
+  - As of now, this translates into KLA revenue bottoming in the March quarter, driven mostly by a customer project delay occurring in the last couple of months.
+  - Foundry Logic is forecasted to be approximately 60%, and memory is expected to be 40% of semi-process control systems revenue.
+  - Non-GAAP gross margin is forecasted to be in a range of 61.5% plus or minus 1 percentage point as product mix weakens quarter to quarter due to lower overall semiconductor process control systems revenue.
+  - Our calendar 2024 operating expenses, we expect $5 million to $10 million incremental growth per quarter beyond the March quarter, in line with expected sequential growth in revenue.
+  - But it is affecting what we ultimately guided for the March quarter, consistent with our revenue recognition policy.
+  - And that drove down the RPO, but the book-to-bill relative to the revenue was actually positive.
+Investor presentation deck:
+  - For the calendar year, revenue was almost $9.7 billion, down 8% versus the prior year. [Presentation_8569a8abc7962563.html]  - Quarterly revenue was $2.49 billion, slightly above the guidance midpoint of $2.45 billion. [Presentation_8569a8abc7962563.html]  - March 2024 Quarterly Guidance KLA’s March quarter guidance is as follows: total revenue is expected to be $2.3 billion, plus or minus $125 million. [Presentation_8569a8abc7962563.html]  - Service revenue was also up 1% sequentially, and was 23% of total revenue in the quarter. [Presentation_8569a8abc7962563.html]  - Breakdown of Revenue by Reportable Segments and End Markets All three reportable revenue segments (including Systems and Service revenue) grew sequentially in the December quarter. [Presentation_8569a8abc7962563.html]  - These technologies and trends underpin the broader semiconductor industry view that semiconductor revenue is on track to be $1 trillion by 2030, representing a compound annual growth rate (CAGR) of approximately 9% from 2023 levels. [Presentation_ce842967b716f3e0.html]  - [Page 1] $438M Dec Qtr Share Buyback Breakdown of Revenue Reportable Segment and End Markets (Systems and Services) December Quarter 2023 Growth Proﬁtability Semi Process Control End Market System Revenue Reported Jan 25, 2024 | Quarter Ended Dec 31, 2023 1 2 5 3 4 Semiconductor Process Control Specialty Semiconductor Process PCB, Display & Component Inspection Foundry & Logic56% Memory44% Summary of Revenues by Major Product Categories Revenue by Region Wafer Inspection Patterning Specialty Semi Process PCB, Display & Component Inspection Services 88% 6% 6% Rev. [Presentation_d26f18cb2210c9e8.html]
+Guidance given:
+  - As for guidance, KLA's March quarter guidance is as follows: Revenue is expected to be $2.3 billion, plus or minus $125 million. (target: March quarter 2024; Exceeded)
+  - KLA Service business grew 1% on a sequential quarterly basis to $565 million and remained on track to resume the targeted 12% to 14% annual revenue growth trajectory in calendar 2024. (target: calendar 2024; Met)
+  - Our calendar 2024 operating expenses, we expect $5 million to $10 million incremental growth per quarter beyond the March quarter, in line with expected sequential growth in revenue. (target: calendar 2024; Met)
+  - KLA Services remains on track to resume the targeted 12-14% annual revenue growth trajectory in calendar 2024, as a record number of new tools shipped over the past two years end the warranty period and move into service contracts. (target: calendar 2024; Met)
+  - March 2024 Quarter Guidance Revenue $2.3B +/- $125M (target: Q3 FY2024; Exceeded)
+  - March 2024 Quarterly Guidance KLA’s March quarter guidance is as follows: total revenue is expected to be $2.3 billion, plus or minus $125 million. (target: Q1 2024; Unresolved)
+  - After taking approximately 40 years to achieve $1 billion in annual revenue, KLA’s Services revenue has more than doubled since 2018 and is expected to grow to over $3 billion by 2026, per the target model. (target: 2026; Unresolved)
+  - These technologies and trends underpin the broader semiconductor industry view that semiconductor revenue is on track to be $1 trillion by 2030, representing a compound annual growth rate (CAGR) of approximately 9% from 2023 levels. (target: 2030; Unresolved)
+Actual reported:
+  - [Observed] Revenue was $2.49 billion, slightly above the guidance midpoint of $2.45 billion.
+  - [Observed] Moving to KLA's December quarter results, which were ahead of expectations as revenue grew 4% sequentially to $2.49 billion.
+  - [Observed] For 2023 KLA revenue was almost $9.7 billion, down 8% versus the prior year.
+  - [Observed] KLA Service business grew 1% on a sequential quarterly basis to $565 million and remained on track to resume the targeted 12% to 14% annual revenue growth trajectory in calendar 2024.
+  - [Observed] [from presentation deck] For the calendar year, revenue was almost $9.7 billion, down 8% versus the prior year.
+  - [Observed] [from presentation deck] Quarterly revenue was $2.49 billion, slightly above the guidance midpoint of $2.45 billion.
+  - [Observed] [from presentation deck] Service revenue was also up 1% sequentially, and was 23% of total revenue in the quarter.
+  - [Observed] [from presentation deck] Breakdown of Revenue by Reportable Segments and End Markets All three reportable revenue segments (including Systems and Service revenue) grew sequentially in the December quarter.
+  - [Observed] [from presentation deck] PCB, Display and Component Inspection revenue was $143 million, up 5% sequentially, but down 16% year-over-year, reflecting limited capacity investments in consumer electronics end markets.
+  - [Observed] [from presentation deck] PCB, Display and Component Inspection systems revenue was down 48% for calendar 2023, and also down 29% year-over-year.
+  - [Observed] [from presentation deck] Breakdown of Revenue by Major Products and Regions Wafer Inspection systems grew 15% sequentially but declined 7% year-over-year in the December quarter, totaling 47% of total revenue.
+  - [Observed] [from presentation deck] Other, which is included in the Semiconductor Process Control segment, was 4% of total revenue in the December quarter.
+  - [Observed] [from presentation deck] KLA Services grew 1% to $565 million in the December quarter and was up 7% in CY23, finishing just below $2.2 billion in revenue.
+  - [Observed] [from presentation deck] [Page 3] 3 KLA Non- Confidential | Unrestricted Calendar 2023 – A Year In Review -8% Revenue Growth Revenue $9,671M 62% Gross Profit Margin* Gross Profit* $5,972M 39% Operating Profit Margin* Operating Profit* $3,817M 6% FCF Growth* FCF $3,168M 32% Net Income Margin* EPS* $22.77** $2,499M Capital Returns Dividends + Buybacks * Non-GAAP metric – Please refer to Appendix for reconciliation to GAAP .
+  - [Observed] [from presentation deck] KLA Services grew 1% to $565 million in the December quarter, and was up 7% year-over-year, finishing just below $2.2 billion in revenue.
+  - [Observed] [from presentation deck] KLA Services grew 1% to $565 million in the December quarter, and was up 7% year-over-year, ﬁnishing just below $2.2 billion in revenue.
+  - [Observed] [from presentation deck] $2,487M +4% Q/Q Revenue
+  - [Observed] [from presentation deck] Inspection Services Other 1 Q2-FY24 Revenue by Region 11% 5% 41% 4% 12% 12% 15% North America Europe China SEA Japan Korea Taiwan Total: 1 Included in the Semiconductor Process Control Segment
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Revenue: $2.49B | vs prior quarter: $2.40B (+3.7%) | vs prior year: $2.98B (-16.7%)
+    - Cost of Revenue: $976.7M | vs prior quarter: $946.9M (+3.2%) | vs prior year: $1.21B (-19.2%)
+
+=== Q3 2024 ===
+Management said:
+  - Quarterly revenue was $2.36 billion, above the guidance midpoint of $2.3 billion.
+  - Revenue of $2.5 billion, plus or minus $125 million.
+  - The breakdown of revenue by reportable segments and markets and major products and regions can be found within the shareholder letter and slides.
+  - KLA's revenue of $2.36 billion was above the midpoint of our guidance range.
+  - Foundry logic revenue from semiconductor customers is forecasted to be approximately 82%, and memory is expected to be 18% of semi-process control systems revenue.
+  - We're confident that KLA's quarterly revenues bottomed in the March quarter, as expressed in our prior earnings call.
+  - You did say memory would be filtrated overall China revenues.
+  - And so, depending on what we're revenue in a given quarter, it can cause some fluctuation.
+  - It came in above 62%, depending on how things end up revenueing as we engage with customers and ship systems.
+  - But I think last quarter, Bren, you had a customer push-out that kind of impacted your revenue for the year.
+  - I would say, and we will see some increase this year in revenue from that system, which it hurt us last year just because we weren't able to get any incremental supply around key components.
+Investor presentation deck:
+  - [Page 6] 6 KLA Non -Confidential | Unrestricted Breakdown of Revenue by Reportable Segments and End Markets Revenue Q3 -FY24 ($M) Y/Y Growth Q/Q Growth % Semiconductor Process Control (Systems + Services) PCB, Display and Component Inspection (Systems + Services) Specialty Semiconductor Process (Systems + Services) Revenue % Q3 -FY24: Semi Process Control End Market System Revenue 64% 36% Foundry & Logic Memory $2,096 -3% -4% $131 +2% -13% $133 +1% -7% $2,360 -3% -5% 89% 5% 6% Total: 1 Represents approximate Semi Process Control system-only sales to Foundry/Logic customers or Memory customers1 [Page 7] 7 KLA Non -Confidential | Unrestricted $988 -4% -15% $539 -12% +25% $117 +1% -15% $68 -2% -12% $590 +12% +4% $58 -28% -48% $2,360 -3% -5% Wafer Inspection Patterning Specialty Semi Process PCB, Display and Comp. [Presentation_1904bff5e73c18f7.html]  - MixQ/Q Growth -4% -13% -7% -15% +25% -15% -12% +4% -48% -5% $988M $539M $117M $68M $590M $58M $2,360M $2,096M $131M $133M Reportable Segment and End Markets (Systems and Services) Summary of Revenues by Major Product Categories Q3-FY24 Revenue by Region Q3-FY24: Semi Process Control End Market System Revenue 10% 6% 42% 4% 11% 9% 18% EU China SEA Japan Non-GAAP Op. [Presentation_6d075b74f58cd9d7.html]
+Guidance given:
+  - Foundry logic revenue from semiconductor customers is forecasted to be approximately 82%, and memory is expected to be 18% of semi-process control systems revenue. (target: semi-process control systems revenue (future forecast); Unresolved)
+  - One is Bren, last quarter you kind of said that for KLA, the overall calendar 2024 revenues could grow mid-single digits based on WFE. (target: calendar 2024; Met)
+  - Consistent with these industry trends, as we indicated last quarter, we believe our business bottomed from a revenue perspective in the March quarter, and looking ahead through the balance of calendar 2024, growth is resuming in the June quarter, and we expect business levels to improve as we progress through the year. (target: remainder of calendar 2024; Met)
+  - We're confident that KLA's quarterly revenues bottomed in the March quarter, as expressed in our prior earnings call. (target: after March quarter (Q4 FY2024 and beyond); Met)
+  - Guidance for Q4 FY2024 – June 2024 Quarter June 2024 Quarter Guidance $2.5B +/- $125M 61.5% +/- 1% $5.66 +/- $0.60 $6.07 +/- $0.60 Semi PC Revenue by End Market Foundry & Logic82% Memory18% DRAM78% NAND22% Eﬀective Tax Rate Diluted Share Count Model Assumptions $550M ~$38M Non-GAAP Operating Expenses Other Income & Expense (OIE), Net ~13.5% ~135.4M (target: Q4 FY2024; Met)
+  - Revenue of $2.5 billion, plus or minus $125 million. (target: Q3 FY2024; Unresolved)
+  - So, TSMC definitely said that the revenue is going to ramp in 2026 for N2. (target: 2026; Unresolved)
+Actual reported:
+  - [Exceeded] Quarterly revenue was $2.36 billion, above the guidance midpoint of $2.3 billion.
+  - [Observed] KLA's revenue of $2.36 billion was above the midpoint of our guidance range.
+  - [Observed] [from presentation deck] March 2024 Quarter Income Statement Highlights Growth Proﬁtability Free Cash Flow & Capital Returns Reported Apr 25, 2024 | Quarter Ended Mar 31, 2024* Included in Semiconductor Process Control Segment $838M Free Cash Flow $2.36B -3% Revenue Y/Y $197M Dividends Paid $4.43 GAAP diluted EPS $5.26 Non-GAAP Diluted EPS 36% FCF Margin $1.65B Share Buyback $755M Dividends Paid EPS Breakdown of Revenue Semiconductor Process Control Specialty Semiconductor Process PCB, Display & Component Inspection Foundry & Logic64% Memory36% Wafer Inspection Patterning Specialty Semi Pr
+Filing disclosures (SEC):
+  [MD&A]
+    - 12 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Revenue: $2.36B | vs prior quarter: $2.49B (-5.1%) | vs prior year: $2.43B (-3.0%)
+    - Cost of Revenue: $993.9M | vs prior quarter: $976.7M (+1.8%) | vs prior year: $1.01B (-1.1%)
+    - 3 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 13 real filing table(s) available (see the HTML report).
+
+=== Q4 2024 ===
+Management said:
+  - Total revenue is expected to be $2.75 billion, plus or minus $150 million.
+  - Quarterly revenue was $2.57 billion, above the guidance midpoint of $2.5 billion.
+  - As a follow-up, Bren, the revenue guide is a bit wider than usual plus minus $150 million versus $125 million.
+  - So, there is nothing indicative in that other than the revenue is up 9% higher, and we decided to -- it was 9% in June and then the guidance, another 7%.
+  - The breakdown of revenue by reportable segments, end markets, major products, and regions can be found within the shareholder letter and slides.
+  - Foundry logic revenue from semiconductor customers is forecasted to be approximately 80%, and memory is expected to be approximately 20% of semi-process control systems revenue.
+  - So, it's really more just the increasing revenue level and not related to anything else.
+  - This quarter, KLA results returned to sequential and year-over-year revenue growth demonstrating an improving industry environment.
+  - Today, we're raising that estimate to more than $500 million in total advanced packaging revenue across the entire KLA portfolio on the momentum we're experiencing.
+  - Operating expenses are forecasted in September quarter to be approximately $565 million as we continue to make important R&D and scaling investments to support expected revenue growth.
+  - This is supported by our revenue growth expectations and in line with our 40% to 50% incremental operating margin business model.
+  - Bren D. Higgins -- Executive Vice President, Chief Financial Officer Yeah, a function of higher revenues.
+  - At some point, as we move through the different quarters and revenue ranges, we start to make an adjustment just because of the higher levels.
+  - And specifically, well, I guess, China revenue in general I think your prior comments were an expectation for China about flat in the second half.
+  - First one is actually on China and Rick and Bren thanks to the insight on the China revenues.
+  - So, last year 70%, 30% for approximate semiconductor process control shipments or revenue to semiconductor customers is closer to 75%, 25%, and 24%.
+  - We've had a headwind from FX because you do have some of the service revenue denominated in local currency, particularly in Japan.
+  - So, if you look in the long run, as we expect WFE over the next few years, the capital intensity slowly rising to grow a little bit faster than semiconductor revenue and this part of the market will likely grow faster than that.
+  - Flat panel business is where we announced our exit of that, and so we still have revenue in our plans for that as we exit that business and would expect in the manufacturing likely in Q1 of 2025.
+  - So, while the systems business has been slower, there have been service contributions from a revenue point of view that we've had over the last year or so.
+Investor presentation deck:
+  - [Page 6] 6 KLA Non- Confidential | Unrestricted Breakdown of Revenue by Reportable Segments and End Markets Revenue Q4-FY24 ($M) Y/Y Growth % Q/Q Growth % Semiconductor Process Control (Systems + Services) PCB and Component Inspection (Systems + Services) Specialty Semiconductor Process (Systems + Services) Revenue % Q4-FY24: Semi Process Control End Market System Revenue 82% 18% Foundry & Logic Memory $2,308 +10% +10% $121 -6% -7% $140 +9% +5% $2,569 +9% +9% 90% 5% 5% Total: 1 Represents approximate Semi Process Control system-only sales to Foundry/Logic customers or Memory customers1 [Page 7] 7 KLA Non- Confidential | Unrestricted $1,169 +23% +18% $542 -7% +1% $106 -10% -9% $74 +14% +9% $614 +14% +4% $64 -36% +10% $2,569 +9% +9% Wafer Inspection Patterning Specialty Semi Process PCB and Component Inspection Services Other 1 Breakdown of Revenue by Major Product and Regions Q4-FY24 Revenue by Region Total: 1 Included in the Semiconductor Process Control Segment Revenue Q4-FY24 ($M) Y/Y Growth % Q/Q Growth % Revenue % 12% 5% 44%5% 7% 7% 20% North America Europe China Rest of Asia Japan Korea Taiwan 46% 21% 4% 3% 24% 2% [Page 8] 8 KLA Non- Confidential | Unrestricted Strong Investment Grade Balance Sheet Balance Sheet Summary 1 ($M) Total Cash2 $ 4,504 Working Capital $ 5,370 Total Assets $ 15,434 Debt3 $ 6,630 Total Shareholders’ Equity $ 3,368 Bond Maturity Profile Bonds Outstanding $6.70B Weighted Average Interest Rate 4.67% Weighted Average Maturity 17.9 years Investment Grade Credit Ratings Moody’s A2 S&P A- Fitch A- 750 800 1,000 400 750 1,450 800 4,504 1,500 1,500 Liquidity CY24 … CY27 … CY29 … CY32 … CY34 … CY49 CY50 … CY52 … CY62 Bonds Drawn Revolver Undrawn Revolver Cash Bond Maturity Profile $M 1 As of 6/30/24; 2 Total Cash includes Cash, Cash Equivalents and Marketable Securities; 3 $70M in un-amortized debt issuance discounts and costs 250 1,200 250 250 500 [Page 9] 9 KLA Non- Confidential | Unrestricted FCF Generation Fuels Consistent Capital Return to Shareholders Committed to long -term >85% FCF returned to shareholders through dividends and share repurchases 1 Free Cash Flow (FCF) = Cash Flow from Operating Activities minus Capital Expenditures 2 FCF Margin defined as FCF/Revenue; Non-GAAP metric – Please refer to Appendix for reconciliation to GAAP $1.3 $1.2 $1.8 $2.5 $3.0 $3.2 $3.0 30% 23% 29% 31% 28% 33% 31% CY18 CY19 CY20 CY21 CY22 CY23 LTM FCF $B FCF Margin % Investment in Growth and New Products Market Leadership and Differentiated Solutions Strong Margins and FCF Capital Returns to Shareholders Free Cash Flow 1 and FCF Margin 2 Value Creation [Page 10] 10 KLA Non- Confidential | Unrestricted Return to Shareholders Across Both Share Repurchases & Dividends 0.48 0.54 0.60 0.60 0.80 1.20 1.50 1.70 1.90 2.04 2.10 2.26 2.84 3.10 3.50 3.90 4.70 5.35 5.80 CY06 CY07 CY08 CY09 CY10 CY11 CY12 CY13 CY14 CY15 CY16 CY17 CY18 CY19 CY20 CY21 CY22 CY23 NTM ~15% Dividend CAGR 2006 - 2023 1,062 681 1,403 4,483 1,760 1,735 2,186 CY19 CY20 CY21 CY22 CY23 LTM Remaining Share Repurchase Authorization September 2023: Announced 14th consecutive annual dividend increase, up 12% to $1.45/share from $1.30/share Share Repurchases 1 Track Record of Dividend Increases ~$296 Avg price per share since 2019 $M $/per share 3 1 Settlement Date basis 2 Includes $3B Accelerated Share Repurchase (ASR) 3 Excludes $16.50 per share special dividend in CY15 2 [Page 11] 11 KLA Non- Confidential | Unrestricted Free Cash Flow and Capital Return Highlights $470M June Quarter Share Buyback $1,735M LTM Share Buyback $198M June Quarter Dividends Paid $773M LTM Dividends Paid * Free Cash Flow (FCF) = Cash Flow from Operating Activities minus Capital Expenditures. [Presentation_3816566c356c388a.html]  - %Q/Q Growth +10% -7% +5% +18% +1% -9% +9% +4% +10% +9% $1,169M $542M $106M $74M $614M $64M $2,569M $2,308M $121M $140M Reportable Segment and End Markets (Systems and Services) Summary of Revenues by Major Product Categories Q4-FY24 Revenue by Region Q4-FY24: Semi Process Control End Market System Revenue 12% 5% 44% 5% 7% 7% 20% EU China SEA Japan Non-GAAP Op. [Presentation_a03a3ae3e7680212.html]
+Guidance given:
+  - Foundry logic revenue from semiconductor customers is forecasted to be approximately 80%, and memory is expected to be approximately 20% of semi-process control systems revenue. (target: calendar 2024; Not Applicable)
+  - Last quarter, we estimated that the KLA opportunity would reach approximately $400 million in annualized revenue excluding calendar 2024. (target: future (post calendar 2024); Not Applicable)
+  - For calendar 2024, we remain encouraged by the improvement in our customers' revenue and profitability over the course of this year. (target: calendar 2024; Not Applicable)
+  - Today, we're raising that estimate to more than $500 million in total advanced packaging revenue across the entire KLA portfolio on the momentum we're experiencing. (target: not explicitly stated, implied future; Unresolved)
+  - Operating expenses are forecasted in September quarter to be approximately $565 million as we continue to make important R&D and scaling investments to support expected revenue growth. (target: September quarter; Unresolved)
+  - This is supported by our revenue growth expectations and in line with our 40% to 50% incremental operating margin business model. (target: not explicitly stated, ongoing; Unresolved)
+  - And specifically, well, I guess, China revenue in general I think your prior comments were an expectation for China about flat in the second half. (target: second half; Unresolved)
+  - Flat panel business is where we announced our exit of that, and so we still have revenue in our plans for that as we exit that business and would expect in the manufacturing likely in Q1 of 2025. (target: Q1 2025; Not Applicable)
+  - [Page 12] 12 KLA Non- Confidential | Unrestricted Guidance for Q1 FY2025 – September 2024 Quarter Strong, resilient and delivering shareholder value Macro Assumptions Semi PC Revenue By End Market  Foundry/Logic: 80%  Memory: 20%  DRAM 83% | NAND 17% Model Assumptions  Non-GAAP Operating Expenses*: ~$565M  Other Income & Expense (OIE)*, Net: ~$34M  Effective Tax Rate: ~13.5%  Diluted Share Count: ~135M * Non-GAAP metric – Refer to Appendix for Reconciliation to GAAP September 2024 Quarter Guidance Revenue $2.75B +/- $150M Non -GAAP Gross Margin* 61.5% +/- 1% GAAP Diluted EPS $6.69 +/- $ (target: Q1 FY2025; Exceeded)
+  - Total revenue is expected to be $2.75 billion, plus or minus $150 million. (target: Q4 2024; Unresolved)
+Actual reported:
+  - [Exceeded, Missed, Met] Quarterly revenue was $2.57 billion, above the guidance midpoint of $2.5 billion.
+  - [Unresolved, Not Applicable] [from SEC filing] Year Ended June 30, (In thousands) 2024 2023 2022 Semiconductor Process Control: Revenues $ 8,733,556 $ 9,324,190 $ 7,924,822
+  - [Observed] [from SEC filing] PCB and Component Inspection: Revenues $ 552,491 $ 631,604 $ 832,176
+  - [Observed] So, it's really more just the increasing revenue level and not related to anything else.
+  - [Observed] And so, that's been a driver of incremental revenue.
+  - [Observed] Rick, you talked about inflections and sequential and year-over-year revenue growth.
+  - [Observed] KLA's June quarter revenue, gross margin, and EPS were all above their respective guidance midpoints.
+  - [Observed] This quarter, KLA results returned to sequential and year-over-year revenue growth demonstrating an improving industry environment.
+  - [Observed] Yeah, a function of higher revenues.
+  - [Observed] First one is actually on China and Rick and Bren thanks to the insight on the China revenues.
+  - [Observed] So, last year 70%, 30% for approximate semiconductor process control shipments or revenue to semiconductor customers is closer to 75%, 25%, and 24%.
+  - [Observed] So, while the systems business has been slower, there have been service contributions from a revenue point of view that we've had over the last year or so.
+  - [Observed] [from presentation deck] $2.57B +9% Revenue Y/Y
+  - [Observed] [from presentation deck] $9.7BCY23 Revenue -8% Y/Y Growth
+Filing disclosures (SEC):
+  [MD&A]
+    - Service revenues Service revenues are generated from product maintenance and support services, as well as billable time and material service calls made to our customers.
+    - Revenue is also impacted by average customer pricing, customer revenue deferrals associated with volume purchase agreements, the effect of fluctuations in foreign currency exchange rates and increased trade restrictions as discussed in the “Executive Summary” section above.
+    - We recognize revenue from sales at a point in time when we have satisfied our performance obligation by transferring control of the goods or services to the customer.
+    - The amount of our service revenues is typically a function of the number of systems installed at our customers’ sites and the utilization of those systems, but it is also impacted by other factors, such as our rate of service contract renewals, the types of systems being serviced and fluctuations in foreign currency exchange rates.
+    - A majority of our revenues are derived from outside the U.S., and include geographic regions such as China, Taiwan, Korea, Japan, Europe and Israel, and Rest of Asia.
+  [Financial Statements]
+    - Revenue: $9.81B | vs prior quarter: — | vs prior year: $10.50B (-6.5%)
+    - Cost of Revenue: $3.93B | vs prior quarter: — | vs prior year: $4.22B (-6.9%)
+    - 5 real filing table(s) available (see the HTML report).
+    - Revenue is recognized from product sales at a point in time when the performance obligation has been satisfied by transferring control of the product to the customer.
+    - The revenues are recognized as separate performance obligations that are satisfied by transferring control of the product or service to the customer.
+    - For geographical revenue reporting, revenues are attributed to the geographic location in which the customer is located.
+    - Services revenue is recognized ratably over the period the customer simultaneously receives and consumes the benefits of the services provided or when the related service is performed.
+    - Our revenues are measured based on consideration stipulated in the arrangement with each customer, net of any sales incentives and amounts collected on behalf of third parties, such as sales taxes.
+  [Footnotes]
+    - 11 real filing table(s) available (see the HTML report).
+    - Revenues are measured based on consideration stipulated in the arrangement with each customer.
+  [Risk Factors]
+    - Any such decisions may impact our ability to recognize revenue, including the fiscal period during which such revenue may be recognized, with respect to such products, which could have a material adverse effect on our business, results of operations or stock price.
+    - A majority of our annual revenues are derived from outside the U.S., and we maintain significant operations outside the U.S. We are exposed to numerous risks as a result of the international nature of our business and operations.
+    - We regularly recognize revenue from a sale upon shipment of the applicable product to the customer (even before receiving the customer’s formal acceptance of that product) in certain situations, including sales of products for which installation is considered perfunctory, transactions in which the product is sold to an independent distributor and we have no installation obligations, and sales of products where we have previously delivered the same product to the same customer location and that prior delivery has been accepted.
+    - Our revenue from sales of products and provision of services to customers in China was 43%, 27% and 29% for fiscal years 2024, 2023 and 2022, respectively.
+    - However, our ability to achieve our anticipated revenue levels is a function of numerous factors, including the volatile and historically cyclical nature of our primary industry, customer order cancellations, macroeconomic changes, operational matters regarding particular agreements, our ability to manage customer deliveries, the availability of resources for the installation of our products, delays or accelerations by customers in taking deliveries and the acceptance of our products (for products where customer acceptance is required before we can recognize revenue from such sales), our ability to operate our business and sales processes effectively, and a number of the other risk factors set forth in this Item 1A.
+    - There can be no assurance that revenues from future products or product enhancements will be sufficient to recover the development costs associated with such products or enhancements.
+
+=== Q1 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Not Applicable, Exceeded] [from SEC filing] Three Months Ended September 30, (In thousands) 2024 2023 Semiconductor Process Control: Revenues $ 2,575,151 $ 2,135,478
+  - [Observed] [from SEC filing] Revenues 128,334 126,719
+  - [Observed] [from SEC filing] PCB and Component Inspection: Revenues 137,983 136,043
+  - [Observed] [from SEC filing] Revenues for reportable segments $ 2,841,468 $ 2,398,240
+Filing disclosures (SEC):
+  [MD&A]
+    - 8 real filing table(s) available (see the HTML report).
+    - Service revenues are generated from product maintenance and support services, as well as billable time and material service calls made to our customers.
+    - The amount of our service revenues is typically a function of the number of systems installed at our customers’ sites and the utilization of those systems, but it is also impacted by other factors, such as our rate of service contract renewals, the types of systems being serviced and fluctuations in foreign currency exchange rates.
+    - Revenue is also impacted by average customer pricing, customer revenue deferrals associated with volume purchase agreements, the effect of fluctuations in foreign currency exchange rates, increased trade restrictions as discussed in the “Executive Summary” section above and the availability of government incentives for semiconductor capital investments.
+    - The increased product and service revenue generation from our customers in China contributed to our overall revenue increase, with that region recording the largest amount of revenues in both three-month periods, accounting for 42% of total revenues during the three months ended September 30, 2024 and 43% of total revenues during the three months ended September 30, 2023.
+  [Financial Statements]
+    - 3 real filing table(s) available (see the HTML report).
+    - For geographical revenue reporting, revenues are attributed to the geographic location in which the customer is located.
+    - In the three months ended September 30, 2024, two customers on an individual basis accounted for approximately 12 % of total revenues each.
+    - In the three months ended September 30, 2023, one customer accounted for approximately 11 % of total revenues.
+  [Footnotes]
+    - 12 real filing table(s) available (see the HTML report).
+    - We expect to recognize approximately 65 % to 70 % of these performance obligations as revenue in the next 12 months, 25 % to 30 % in the subsequent 12 months and the remainder thereafter, but this estimate is subject to constant change.
+  [Risk Factors]
+    - Any such decisions may impact our ability to recognize revenue, including the fiscal period during which such revenue may be recognized, with respect to such products, which could have a material adverse effect on our business, results of operations or stock price.
+    - A majority of our annual revenues are derived from outside the U.S., and we maintain significant operations outside the U.S. We are exposed to numerous risks as a result of the international nature of our business and operations.
+    - We regularly recognize revenue from a sale upon shipment of the applicable product to the customer (even before receiving the customer’s formal acceptance of that product) in certain situations, including sales of products for which installation is considered perfunctory, transactions in which the product is sold to an independent distributor and we have no installation obligations, and sales of products where we have previously delivered the same product to the same customer location and that prior delivery has been accepted.
+    - Our revenue from sales of products and provision of services to customers in China was 43%, 27% and 29% for fiscal years 2024, 2023 and 2022, respectively.
+    - However, our ability to achieve our anticipated revenue levels is a function of numerous factors, including the volatile and historically cyclical nature of our primary industry, customer order cancellations, macroeconomic changes, operational matters regarding particular agreements, our ability to manage customer deliveries, the availability of resources for the installation of our products, delays or accelerations by customers in taking deliveries and the acceptance of our products (for products where customer acceptance is required before we can recognize revenue from such sales), our ability to operate our business and sales processes effectively, and a number of the other risk factors set forth in this Item 1A.
+    - There can be no assurance that revenues from future products or product enhancements will be sufficient to recover the development costs associated with such products or enhancements.
+
+=== Q2 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 14 real filing table(s) available (see the HTML report).
+    - Service revenues are generated from product maintenance and support services, as well as billable time and material service calls made to our customers.
+    - The amount of our service revenues is typically a function of the number of systems installed at our customers’ sites and the utilization of those systems, but it is also impacted by other factors, such as our rate of service contract renewals, the types of systems being serviced and fluctuations in foreign currency exchange rates.
+    - Revenue is also impacted by average customer pricing, customer revenue deferrals associated with volume purchase agreements, the effect of fluctuations in foreign currency exchange rates, increased trade restrictions as discussed in the “Executive Summary” section above and the availability of government incentives for semiconductor capital investments.
+    - The increased product and service revenue generation from our customers in China contributed to our overall revenue increase, with that region recording the largest amount of revenues in both three and six month periods, accounting for 36% and 39% of total revenues during the three and six months ended December 31, 2024, respectively, and 41% and 42% of total revenues during the three and six months ended December 31, 2023, respectively.
+    - Specialty Semiconductor Process revenues were approximately 5% of total revenues during both the three and six months ended December 31, 2024 and approximately 6% of total revenues during both the three and six months ended December 31, 2023.
+  [Financial Statements]
+    - 3 real filing table(s) available (see the HTML report).
+    - For geographical revenue reporting, revenues are attributed to the geographic location in which the customer is located.
+    - In the three months ended December 31, 2024, one customer accounted for approximately 23 % of total revenues.
+    - In the six months ended December 31, 2024, one customer accounted for approximately 18 % of total revenues.
+    - In the six months ended December 31, 2023, one customer accounted for approximately 11 % of total revenues.
+  [Footnotes]
+    - 11 real filing table(s) available (see the HTML report).
+    - We expect to recognize approximately 67 % to 72 % of these performance obligations as revenue in the next 12 months, 20 % to 25 % in the subsequent 12 months and the remainder thereafter, but this estimate is subject to constant change.
+  [Risk Factors]
+    - Any such decisions may impact our ability to recognize revenue, including the fiscal period during which such revenue may be recognized, with respect to such products, which could have a material adverse effect on our business, results of operations or stock price.
+    - A majority of our annual revenues are derived from outside the U.S., and we maintain significant operations outside the U.S. We are exposed to numerous risks as a result of the international nature of our business and operations.
+    - We regularly recognize revenue from a sale upon shipment of the applicable product to the customer (even before receiving the customer’s formal acceptance of that product) in certain situations, including sales of products for which installation is considered perfunctory, transactions in which the product is sold to an independent distributor and we have no installation obligations, and sales of products where we have previously delivered the same product to the same customer location and that prior delivery has been accepted.
+    - Our revenue from sales of products and provision of services to customers in China was 43%, 27% and 29% for fiscal years 2024, 2023 and 2022, respectively, and future revenue from China as a percentage of our overall revenue may decline as a result of the current and future BIS rules and regulations.
+    - However, our ability to achieve our anticipated revenue levels is a function of numerous factors, including the volatile and historically cyclical nature of our primary industry, customer order cancellations, macroeconomic changes, operational matters regarding particular agreements, our ability to manage customer deliveries, the availability of resources for the installation of our products, delays or accelerations by customers in taking deliveries and the acceptance of our products (for products where customer acceptance is required before we can recognize revenue from such sales), our ability to operate our business and sales processes effectively, and a number of the other risk factors set forth in this Item 1A.
+    - There can be no assurance that revenues from future products or product enhancements will be sufficient to recover the development costs associated with such products or enhancements.
+
+
+======================================================================
+TOPIC: operating margin
+======================================================================
+
+[CORE RESEARCH] KLAC: operating margin
+
+Quarters searched: 4
+Filing sections searched: 44
+
+Over the reported periods from Q1 2024 through Q2 2025, operating margin has been consistently discussed as a non-GAAP metric fluctuating around the 36.8% to 41% range. Management highlighted factors influencing operating margin such as product mix, revenue growth, and cost performance, with references to an incremental operating margin model targeting 40% to 50%. Despite some quarterly variation, operating margin remained relatively stable, supported by gross margin performance and operational leverage. The filings emphasize that gross margin and operating margin are affected by revenue levels, product mix, and cost management, with no significant accounting changes noted except for tax-related items unrelated directly to operating margin calculation.
+
+Forecasting credibility: None
+No forward guidance paired with actual operating margin results was provided in the evidence, so it is not possible to assess management's forecasting credibility for this topic. Management tends to discuss operating margin in the context of broader business models and incremental margin expectations but does not provide explicit numeric guidance to compare against actual outcomes. Therefore, no credibility rating can be assigned based on guidance-actual pairs.
+
+Trends:
+  - Operating margin stable around high 30s to low 40s percent
+  - Gross margin influenced by product mix and revenue volume
+  - Incremental operating margin model targeting 40%-50%
+  - Operating margin affected by cost performance and service expenses
+
+Recurring themes/risks:
+  - Fluctuations due to product mix and revenue levels
+  - Impact of cost management and service expenses
+  - Tax environment changes noted but not directly impacting operating margin
+  - Incremental margin model guiding expectations
+
+Key concerns:
+  - No explicit forward guidance on operating margin prevents assessment of forecasting accuracy or credibility.
+  - Operating margin figures are non-GAAP and may be subject to adjustments not fully detailed in the excerpts.
+  - Tax-related changes noted in filings could indirectly affect net margins but are not clearly linked to operating margin.
+
+Conclusion:
+Operating margin has remained relatively consistent in the reported periods, generally ranging from about 36.8% to 41%, supported by stable gross margins and effective cost management. Management references an incremental operating margin model targeting 40% to 50%, indicating a strategic focus on margin leverage with revenue growth. However, the absence of explicit forward guidance on operating margin and the reliance on non-GAAP metrics limit the ability to fully evaluate management's forecasting reliability. Overall, operating margin appears stable and aligned with management's qualitative expectations, but the lack of guidance-actual pairs means forecasting credibility cannot be established.
+
+Evidence Coverage: 98.7% complete; 154/156 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2024 ===
+Management said:
+  - Non-GAAP operating margin was 40.2%, non-GAAP other income and expense debt was $47 million, and the quarterly effective tax rate was 14%.
+  - I actually think EPC probably has some modest improvement off of pretty depressed levels our incremental operating margin model drives how we're running the business in terms of expectations for leverage on incremental revenue.
+  - Non-GAAP gross margin was 62.4%, 40 basis points above the guidance range due to benefits from a richer product mix and better service cost performance than model.
+Guidance given:
+Actual reported:
+  - [Observed] Non-GAAP operating margin was 40.2%, non-GAAP other income and expense debt was $47 million, and the quarterly effective tax rate was 14%.
+Filing disclosures (SEC):
+  [MD&A]
+    - Gross margin Our gross margin fluctuates with revenue levels and product mix and is affected by variations in costs related to manufacturing and servicing our products, including our ability to scale our operations efficiently and effectively in response to prevailing business conditions.
+  [Financial Statements]
+
+=== Q2 2024 ===
+Management said:
+  - Non-GAAP operating margin was 40.7%.
+  - The company continued to deliver strong industry-leading margins, with non-GAAP gross margins of 62% and a non-GAAP operating margin of 39%.
+  - Now it tends to be based on the way we do the accounting accretive to operating margin.
+Investor presentation deck:
+  - Non-GAAP operating margin was 40.7%. [Presentation_8569a8abc7962563.html]  - Despite the lower overall revenue in 2023, KLA continued to deliver strong industry-leading margins with a non-GAAP gross margin of 61.7% and a non-GAAP operating margin of 39.5%. [Presentation_8569a8abc7962563.html]  - 2 3 4 1 5 [Page 6] 6 KLA Non- Confidential | Unrestricted KLA’s 2024 Priorities [Page 7] 7 KLA Non- Confidential | Unrestricted The KLA Operating Model Focused on driving sustainable profitability and growth Consistent Strategy and Execution  Application of common processes and discipline  Cascades throughout the organization  Strong focus on talent development Management By Metrics  Culture of performance and accountability  Expectation of continuous improvement  Superior margins driven by market leadership and differentiation Financial Discipline and Rigor  Exert efficiency and operating discipline in our investments  Strong track record of high returns  Focused on enhancing shareholder value [Page 8] 8 KLA Non- Confidential | Unrestricted December Quarter 2023 Income Statement Highlights $2,487M Revenue 62.6% Gross Margin* 40.7% Operating Margin* $839M Net Income* $6.16 Diluted EPS* $4.28 GAAP Diluted EPS * Non-GAAP metric – please refer to the appendix for reconciliation to GAAP (Right) The C205 broadband plasma optical patterned wafer inspection system provides high- sensitivity discovery and binning of critical defects, helping automotive chipmakers accelerate R&D and ramp cycle time through characterization and optimization of new processes, design nodes and devices [Page 9] 9 KLA Non- Confidential | Unrestricted Breakdown of Revenue by Reportable Segments and End Markets Q2-FY24: Semi Process Control End Market System Revenue Revenue Q2 -FY24 Y/Y Growth Q/Q Growth Quarterly Revenue % Revenue CY23 CY23 Growth $2,194 -17% +3% $8,599 -6% $150 -5% +18% $534 +1% $143 -16% +5% $540 -34% $2,487 -17% +4% $9,671 -8% 56% 44% Foundry & Logic Memory 88% 6% 6% Total: PCB, Display and Component Inspection (Systems + Services) Semiconductor Process Control (Systems + Services) Specialty Semiconductor Process (Systems + Services) 1 Amounts may not sum due to rounding and the effects of FX and corporate allocations are not allocated to segments 1 [Page 10] 10 KLA Non- Confidential | Unrestricted Breakdown of Revenue by Major Product and Regions Revenue Q2 -FY24 Y/Y Growth Q/Q Growth Quarterly Revenue % Revenue CY23 CY23 Growth $1,167 -7% +15% $4,154 -5% $430 -50% -21% $2,169 -20% $136 -6% +22% $481 +1% $77 -29% +9% $283 -48% $565 +9% +1% $2,193 +7% $111 +22% +11% $391 +17% $2,487 -17% +4% $9,671 -8% 47% 17% 6% 3% 23% 4% Wafer Inspection Patterning Specialty Semi Process PCB, Display and Comp. [Presentation_ce842967b716f3e0.html]
+Guidance given:
+Actual reported:
+  - [Observed] Non-GAAP operating margin was 40.7%.
+  - [Observed] [from presentation deck] [Page 3] 3 KLA Non- Confidential | Unrestricted Calendar 2023 – A Year In Review -8% Revenue Growth Revenue $9,671M 62% Gross Profit Margin* Gross Profit* $5,972M 39% Operating Profit Margin* Operating Profit* $3,817M 6% FCF Growth* FCF $3,168M 32% Net Income Margin* EPS* $22.77** $2,499M Capital Returns Dividends + Buybacks * Non-GAAP metric – Please refer to Appendix for reconciliation to GAAP .
+Filing disclosures (SEC):
+  [Financial Statements]
+
+=== Q3 2024 ===
+Management said:
+  - Non-GAAP operating margin was 36.8%, non-GAAP other income and expense net was a $34 million expense, and the quarterly non-GAAP effective tax rate was 14.2%.
+  - We believe it's accretive to the operating margin, but the gross margin is a little dilutive.
+Guidance given:
+Actual reported:
+  - [Observed] Non-GAAP operating margin was 36.8%, non-GAAP other income and expense net was a $34 million expense, and the quarterly non-GAAP effective tax rate was 14.2%.
+Filing disclosures (SEC):
+  [Financial Statements]
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
+=== Q4 2024 ===
+Management said:
+  - Operating margin was 41%.
+  - This is supported by our revenue growth expectations and in line with our 40% to 50% incremental operating margin business model.
+  - Gross margin was 62.5% at the upper end of the guidance range, as a richer product mix than modeled and higher revenue volume drove upside to guidance.
+Investor presentation deck:
+  - [Page 3] K L A N o n - Co n f i d en ti a l | U n r e s t r i c t ed 3 KLA is a Diversified Leader and Critical Technology Enabler ~14,700Employees $9.7BCY23 Revenue -8% Y/Y Growth >65%PhD/Master ’s among professional roles KLA at a Glance1(NASDAQ: KLAC) 1A s o f 1 2/ 31/ 2 32G a r t n e r A p r i l 2 024 $3.2B / 33% CY23 FCF / CY23 FCF Margin Global Market Share>4xNearest Competitor 2 61.7% / 39.5%Industry Leading Gross/Operating Margins $2B / >75%u n d e r c o n t r a c tServices Revenue $22.77 / 27%CY23 EPS CAGR (19-23) Global Technology Leader [Page 4] K L A N o n - Co n f i d en ti a l | U n r e s t r i c t ed 4 KLA’s Role in the Electronics Ecosystem END MARKETSData CenterArtificial Intelligence5G Infrastructure Mobile Automotive PC / Tablet Metaverse (AR/VR)WAFERS RETICLESCHEMICALS | MATERIALSSEMI OEMs IC SUBSTRATES WAFER-LEVEL PACKAGINGCOMPONENTSPRINTED CIRCUIT BOARDS Logic | FoundryMemoryS peci alty | Legacy CHIPS [Page 5] K L A N o n - Co n f i d en ti a l | U n r e s t r i c t ed 5 KLA Organizational StructureEl ec tronic s , Pac ka ging & Co mponents (EPC)K LA Ser vi c esSe mi conduc to r P ro c es s Co ntrol R i c k W a l l a c eP r e s i d e n t a n d C h i e f E x e c u t i v e O f f i c e rB r i a n L o r i gE x e c u t i v e V i c e P r e s i d e n t ,K L A S e r v i c e sA h m a d K h a nP r e s i d e n tS e m i c o n d u c t o r P r o c e s s C o n t r o l ( S e m i P C )O r e s t e D o n z e l l aE x e c u t i v e V i c e P r e s i d e n t ,E l e c t r o n i c s , P a c k a g i n g a n d C o m p o n e n t s ( E P C ) [Page 6] Semiconductor Key Market Drivers [Page 7] K L A N o n - Co n f i d en ti a l | U n r e s t r i c t ed 7 PCsPC + MobileData Semiconductor Revenue $B 5GAISemiconductor End Demand has Become More Diversified So u r c e s : KL A A n a l y s i s , Te c h I n s i g h t s Se p t 2 0232007 2016 2020 1,0007505002500 [Page 8] K L A N o n - Co n f i d en ti a l | U n r e s t r i c t ed 8 AI: The New Driver of the Semiconductor Industry B 1 0 0H 1 0 0A 1 0 0V 1 0 0P 1 0 0M 4 0K 4 02024202220202017201620152013Year ~2x800814826815610601551Area (mm2) 208 B80 B54.2 B21.1 B15.3 B8.0 B7.1 BTransistorsN4PN4N7N12N16N28N28NodeHBM3eHBM3HBM2eHBM2HBM2GDDR5GDDR5Memory Type192 GB80 GB60 GB40 GB16 GB12 GB12 GBMemory SizeCoWoSCoWoSCoWoSCoWoSCoWoSFCBGAFCBGAPackage Type M40GPU Package12 x 1 GBGDDR5 chips B1002 reticle-sized chips192 GB: 8x24 GB HBM3e chipsCoWoS packageI m a g e s o u r c e : N v i d i aSo u r c e : KL A A n a l y s i s [Page 9] K L A N o n - Co n f i d en ti a l | U n r e s t r i c t ed 9 MemoryMultiple HBM chips / GPU~2.2x more memory vs regular DRAMIncreased design startsAI: Driving Industry Momentum | Semiconductor Content GPULeading-edge logic: ≤3nm design nodes and advanced transistor architecturesLarge die size: ≥800mm2Increased design starts Advanced PackagingLarge, complex, expensive packageHigh semiconductor content AI Requires Advanced Process Control HPCMobilePC AI Drives End MarketsI m a g e s o u r c e : N v i d i a H 1 0 0H B M : h i g h b a n d w i d t h m e m o r y [Page 10] Semiconductor Technology Roadmap [Page 11] K L A N o n - Co n f i d en ti a l | U n r e s t r i c t ed 11 Semiconductor Technology has Been Scaling for 50+ Years 20202010200019901980 1 μ m5 0 0 n m2 5 0 n m1 3 0 n m6 5 n m3 2 n m1 6 n m7 n m E U V ( 1 3 . [Presentation_c3cfadbd29fc920a.html]
+Guidance given:
+  - This is supported by our revenue growth expectations and in line with our 40% to 50% incremental operating margin business model. (target: ongoing; Unresolved)
+Actual reported:
+  - [Observed] Operating margin was 41%.
+Filing disclosures (SEC):
+  [MD&A]
+    - Gross margin Our gross margin fluctuates with revenue levels and product mix and is affected by variations in costs related to manufacturing and servicing our products, including our ability to scale our operations efficiently and effectively in response to prevailing business conditions.
+  [Financial Statements]
+    - As of June 30, 2024, we had U.S. federal, state and foreign net operating loss (“NOL”) carry-forwards of $ 6.5 million, $ 11.8 million and $ 221.5 million, respectively.
+    - California Governor Newsom approved the 2024-25 California State Budget on June 27, 2024, which includes a provision to suspend the use of all net operating losses and limits the use of R&D tax credits to $5 million for tax years 2024 through 2026.
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
+=== Q1 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - Gross margin Our gross margin fluctuates with revenue levels and product mix and is affected by variations in costs related to manufacturing and servicing our products, including our ability to scale our operations efficiently and effectively in response to prevailing business conditions.
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
+=== Q2 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - Gross margin Our gross margin fluctuates with revenue levels and product mix and is affected by variations in costs related to manufacturing and servicing our products, including our ability to scale our operations efficiently and effectively in response to prevailing business conditions.
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
