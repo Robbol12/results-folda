@@ -1,0 +1,73 @@
+{
+  "request_id": "cbc3ab75-6cc4-4e03-9f6a-251dc50626ac",
+  "used_tokens": 11029,
+  "reserved_tokens": 0,
+  "used_calls": 5,
+  "reserved_calls": 0,
+  "token_limit": 30000,
+  "call_limit": 32,
+  "blocked_reason": null,
+  "audit_schema_version": 1,
+  "calls": [
+    {
+      "sequence": 1,
+      "requested_model": "gpt-4.1-mini",
+      "message_count": 2,
+      "prompt_chars": 1758,
+      "prompt_sha256": "0b831861404ee06d87e69a5afdd08c02bdc477d69675c48a39429e0dff4f24b7",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 2446,
+      "status": "completed",
+      "routed_model": "gpt-4.1-mini",
+      "actual_tokens": 407
+    },
+    {
+      "sequence": 2,
+      "requested_model": "gpt-4.1-mini",
+      "message_count": 2,
+      "prompt_chars": 4104,
+      "prompt_sha256": "a8b9dad4864a85679d2c6b7fca42a8cb17b40deb10469f60410423a4a495e109",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 3189,
+      "status": "completed",
+      "routed_model": "gpt-4.1-mini",
+      "actual_tokens": 1529
+    },
+    {
+      "sequence": 3,
+      "requested_model": "gpt-4.1-mini",
+      "message_count": 2,
+      "prompt_chars": 10782,
+      "prompt_sha256": "e9ce675c300e14e15dbcd1708a15a9917f601e447c6a2373f8d7f4ac61149282",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 4570,
+      "status": "completed",
+      "routed_model": "gpt-4.1-mini",
+      "actual_tokens": 3110
+    },
+    {
+      "sequence": 4,
+      "requested_model": "gpt-4.1-mini",
+      "message_count": 2,
+      "prompt_chars": 7745,
+      "prompt_sha256": "b05aa264c01f386866b930499088e51f884ea5a887fe2454d8e48fdc24867bac",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 4061,
+      "status": "completed",
+      "routed_model": "gpt-4.1-mini",
+      "actual_tokens": 2520
+    },
+    {
+      "sequence": 5,
+      "requested_model": "gpt-4.1-mini",
+      "message_count": 2,
+      "prompt_chars": 12049,
+      "prompt_sha256": "5f863e203f44b1426133ad41f6c4c4a94c5eee78eee835559c5bd9851cccf76f",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 4914,
+      "status": "completed",
+      "routed_model": "gpt-4.1-mini",
+      "actual_tokens": 3463
+    }
+  ]
+}
