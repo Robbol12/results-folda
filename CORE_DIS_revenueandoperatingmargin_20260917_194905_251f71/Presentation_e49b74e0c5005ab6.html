@@ -1,0 +1,2750 @@
+<!doctype html><html data-theme-default="light"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>DIS Investor Presentation 2024 (4)</title><link rel="icon" type="image/png" sizes="128x128" href="/doculens_rounded_logo.png?v=3"><style>
+:root { color-scheme: light; }
+html, body { background: #dfe1e6; margin: 0; padding: 0; }
+/* Themed scrollbar matching this page's own light theme - same real user report as
+   the main report's dark-theme scrollbar (research_workflows._CORE_REPORT_CSS). */
+* { scrollbar-color: #c7cdd6 #eef0f3; scrollbar-width: thin; }
+::-webkit-scrollbar { width: 12px; height: 12px; }
+::-webkit-scrollbar-track { background: #eef0f3; }
+::-webkit-scrollbar-thumb { background: #c7cdd6; border-radius: 6px; border: 2px solid #eef0f3; }
+::-webkit-scrollbar-thumb:hover { background: #0a5ba8; }
+.dl-fv-shell { font-family: Arial, Helvetica, sans-serif; min-height: 100vh; }
+.dl-fv-head { max-width: 1360px; margin: 0 auto; padding: 32px 20px 0 20px; }
+.dl-fv-head h1 { font-size: 1.2rem; font-weight: 700; margin: 0 0 6px 0; color: #111; }
+.dl-fv-note { color: #666; font-size: 0.8rem; line-height: 1.5; margin: 0 0 20px 0; }
+.dl-fv-cols { max-width: 1360px; margin: 0 auto; padding: 0 20px 60px 20px; display: flex; gap: 22px; align-items: flex-start; }
+.dl-fv-native { flex: 1; min-width: 0; background: #fff; border: 1px solid #ccced4; box-shadow: 0 2px 14px rgba(0, 0, 0, 0.12); padding: 40px 48px; overflow-x: auto; }
+.dl-isolated-empty { margin: 18px 0; padding: 28px 22px; border: 1px dashed #b8c1cc; border-radius: 8px; background: #f8fafc; color: #667085; text-align: center; }
+/* Sidebar: a light "document viewer" panel (paper-toned, navy/blue accents), matching
+   the native filing pane's own light look next to it rather than standing apart as a
+   dark terminal - real user ask: the earlier black+amber Bloomberg-TERMINAL palette
+   read as a different product ("I don't like the Bloomberg color") from what was
+   actually wanted, a Bloomberg-DOCUMENT-VIEWER-style light reading pane. */
+/* Document-reader "boxes" layout - each sidebar section is its own bordered card,
+   rendered as a real <details>/<summary> (native collapse/expand, no JS needed) so
+   every section starts condensed and only the title bar shows until clicked open -
+   real user ask ("in the beginning they're all condensed, but you can open them
+   up"), since a sidebar with every section fully expanded got long fast on a wide
+   multi-quarter/multi-topic page. */
+.dl-fv-side { width: 380px; flex-shrink: 0; position: sticky; top: 20px; max-height: calc(100vh - 40px); overflow-y: auto; background: #fff; border: 1px solid #d7dee8; border-left: 3px solid #0a66c2; padding: 0 14px 14px 14px; box-shadow: 0 4px 18px rgba(20, 38, 64, 0.12); color: #243247; font-variant-numeric: tabular-nums; }
+.dl-fv-side-header { position: sticky; top: 0; z-index: 5; margin: 0 -14px 14px -14px; padding: 16px 16px 13px 16px; background: #fff; border-bottom: 1px solid #dfe6ee; }
+.dl-fv-side-header h2 { margin: 0; color: #142c48; font-size: 1.06rem; font-weight: 700; letter-spacing: -.01em; }
+.dl-fv-side-header p { margin: 4px 0 0 0; color: #6b7688; font-size: .72rem; line-height: 1.35; }
+/* Opt-in toggle for the primary "What management said" hover-scroll (see
+   _HOVER_PREVIEW_JS) - off by default. */
+.dl-hover-scroll-toggle-label { display: flex; align-items: center; gap: 7px; font-size: 0.72rem; color: #5b6472; margin: 0 2px 16px 2px; cursor: pointer; user-select: none; }
+.dl-hover-scroll-toggle-label input { cursor: pointer; }
+/* Real user report: after expanding one section (e.g. Key Financial Statements),
+   couldn't easily tell where it ended and the next collapsed section (Equity
+   Research Analyst Questions) began - 12px of gap plus an identical white
+   background/border on every card wasn't enough separation once one card grew
+   tall. Wider gap + each card now reads as its own distinct floating tile
+   (subtle shadow) instead of a seamless stack of same-colored boxes. */
+.dl-fv-side-section { margin-bottom: 14px; background: #fff; border: 1px solid #dfe6ee; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(20, 30, 50, 0.06); }
+.dl-fv-side-section:last-child { margin-bottom: 8px; }
+.dl-fv-side-section summary { cursor: pointer; list-style: none; font-size: 0.68rem; font-weight: 700; text-transform: none; letter-spacing: 0; color: #0a5ba8; padding: 9px 14px; background: #eef2f7; display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.dl-fv-side-section summary::-webkit-details-marker { display: none; }
+/* Icon-led section titles (_sidebar_icon/_sidebar_summary_html) - real user ask,
+   approved from a mockup: give each sidebar section a small leading icon instead
+   of plain text, same card shell otherwise. Icon inherits the summary's own text
+   color via currentColor, so it recolors for free with light/dark theme + the
+   per-topic multi-topic heading color override below. */
+.dl-fv-side-title { display: flex; align-items: center; gap: 8px; min-width: 0; }
+.dl-fv-side-icon { flex-shrink: 0; display: flex; }
+.dl-fv-side-icon svg { display: block; width: 14px; height: 14px; }
+/* Keyword sentences gets a teal accent (matches its own .dl-kwx-sentence link
+   color) instead of the shared blue every other section uses - real user
+   preference for this section over the old Company Keywords panel; a distinct
+   accent keeps it visually easy to find first in the sidebar. */
+.dl-fv-side-section-kwx summary { color: #0f766e; }
+.dl-fv-side-section-kwx[open] summary { border-bottom-color: #99e6d8; }
+.dl-fv-side-section-kwx summary::after { border-left-color: #0f766e; }
+/* A CSS-drawn triangle, not a Unicode glyph - a B8 escape here previously got
+   mangled (this CSS lives inside a Python string literal, and Python's OWN octal/hex
+   escape processing silently ate the backslash before the browser ever saw it -
+   confirmed via a real getComputedStyle(::after).content check showing garbage, not
+   a triangle). A border-triangle has no font-glyph-support or escaping risk at all. */
+.dl-fv-side-section summary::after {
+  content: ''; width: 0; height: 0; flex-shrink: 0;
+  border-top: 4px solid transparent; border-bottom: 4px solid transparent;
+  border-left: 5px solid #7a8a9a; transition: transform .15s ease;
+}
+.dl-fv-side-section[open] summary { border-bottom: 1px solid #dde1e7; }
+.dl-fv-side-section[open] summary::after { transform: rotate(90deg); }
+.dl-fv-side-section-body { padding: 12px 14px 14px 14px; }
+/* Universal three-level topic panel: topic-search evidence, statement locations,
+   then the compact metric summary. Keep the hierarchy explicit instead of nesting
+   filed-table controls beneath individual metrics. */
+.dl-fv-topic-section .dl-fv-side-summary { padding: 11px 14px; }
+.dl-fv-key-financial-statements > .dl-fv-side-section-body { padding: 10px; }
+.dl-fv-key-financial-statements > .dl-fv-side-section-body > .dl-fv-topic-section { margin-bottom: 12px; box-shadow: none; }
+.dl-fv-key-financial-statements > .dl-fv-side-section-body > .dl-fv-topic-section:last-child { margin-bottom: 0; }
+.dl-fv-topic-section .dl-fv-side-title { align-items: flex-start; }
+.dl-fv-topic-heading-wrap { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.dl-fv-topic-heading { display: flex; align-items: center; gap: 6px; line-height: 1.25; }
+.dl-fv-topic-subtitle { color: #596579; font-size: .68rem; font-weight: 400; text-transform: none; letter-spacing: 0; line-height: 1.35; }
+.dl-fv-topic-help { display: inline-grid; place-items: center; width: 13px; height: 13px; border-radius: 50%; background: #0a66c2; color: #fff; font-size: .58rem; font-weight: 700; text-transform: none; letter-spacing: 0; }
+.dl-fv-topic-list { margin: 0 !important; padding: 0 !important; list-style: none; }
+.dl-fv-topic-row { display: grid; grid-template-columns: 10px minmax(0, 1fr); gap: 7px; align-items: start; margin: 0 !important; padding: 8px 0; border-bottom: 1px solid #e5e8ed; }
+.dl-fv-topic-row:last-child { border-bottom: none; }
+.dl-fv-topic-row > a, .dl-fv-topic-row > span:not(.dl-fv-topic-row-icon):not(.dl-fv-topic-row-meta) { min-width: 0; }
+.dl-fv-topic-row-icon { width: 8px; height: 10px; margin-top: 3px; border: 1px solid #0a66c2; border-radius: 1px; position: relative; color: #0a66c2; }
+.dl-fv-topic-row-icon::after { content: ''; position: absolute; left: 2px; right: 2px; bottom: 2px; height: 1px; background: currentColor; box-shadow: 0 -3px 0 currentColor; }
+.dl-fv-topic-statement-icon { border-color: #16834c; color: #16834c; }
+.dl-fv-topic-row-meta { grid-column: 2; color: #6b7688; font-size: .65rem; line-height: 1.35; }
+.dl-fv-topic-empty { margin: 0 !important; padding: 4px 0; color: #7a8699; font-size: .74rem; font-style: italic; list-style: none; }
+.dl-fv-topic-metric-row { grid-template-columns: minmax(0, 1fr); padding: 4px 0; line-height: 1.25; }
+.dl-fv-topic-metric-row > a { display: flex; align-items: center; gap: 7px; color: #243247; line-height: 1.25; }
+.dl-fv-topic-metric-arrow { display: inline-flex; min-width: 13px; }
+.dl-fv-topic-metric-link { display: flex; align-items: center; gap: 7px; }
+.dl-fv-topic-metric-label { flex: 1 1 auto; min-width: 0; }
+.dl-fv-topic-metric-value { flex: 0 0 auto; font-weight: 700; white-space: nowrap; }
+.dl-fv-topic-metric-link:hover { border-bottom-color: transparent !important; }
+/* Multi-topic filing viewer (write_filing_viewer_report's extra_topic_bundles) - one
+   of these wraps each recognized sub-topic's own stack of boxed sections (What
+   management said / Key Financial Statements / MD&A / Footnotes / What was asked),
+   color-coded to match that topic's highlight marks in the filing text
+   (mark.dl-cited[data-topic-idx]). Single-topic pages (the overwhelmingly common
+   case) never render this wrapper at all - the boxed sections above are unwrapped. */
+.dl-fv-side-topic-group { margin-bottom: 16px; background: #fff; border: 1px solid #d7dee8; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 8px rgba(20, 38, 64, 0.07); }
+.dl-fv-side-topic-group:last-of-type { margin-bottom: 10px; }
+.dl-fv-side-topic-group > .dl-fv-side-section { margin: 0; border: 0; border-top: 1px solid #e5eaf0; border-radius: 0; box-shadow: none; }
+.dl-fv-side-topic-heading { font-size: 0.94rem; font-weight: 700; margin: 0; padding: 14px 14px 10px 14px; border-bottom: 2px solid; color: #1c2430; }
+.dl-fv-side-group { margin-bottom: 12px; }
+.dl-fv-side-group:last-child { margin-bottom: 0; }
+.dl-fv-side-group h3 { font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: .03em; color: #0a5ba8; margin: 0 0 6px 0; }
+.dl-fv-side ul { margin: 0; padding-left: 16px; }
+.dl-fv-side li { font-size: 0.8rem; line-height: 1.5; color: #384152; margin-bottom: 9px; }
+.dl-fv-side li:last-child { margin-bottom: 0; }
+.dl-fv-side-empty-note { font-size: 0.76rem; color: #7a8699; font-style: italic; margin: 0 0 8px 0; }
+/* "What was asked" - real analyst Q&A exchanges (research_workflows.parse_qa_exchanges),
+   the answer linked to filing evidence the same way "What management said" is. */
+.dl-fv-side-qa { margin-bottom: 14px; padding-bottom: 12px; border-bottom: 1px solid #e5e8ed; }
+.dl-fv-side-qa:last-child { margin-bottom: 0; padding-bottom: 0; border-bottom: none; }
+/* Line-clamp with hover-to-expand - REVERSED back from a prior "no clamp at all"
+   decision (that decision's own real user complaint - "hard to read the actual
+   answer" - is still honored: the full text is always present in the DOM, this only
+   visually collapses it, nothing is ever cut off or hidden behind a click). Real
+   follow-up user ask: "make it shorter and remember to only expand if mouse is
+   hovering." max-height clamps to roughly 3 lines; :hover lifts the clamp with a
+   smooth transition; the ::after gradient signals there's more to see without a
+   separate "show more" control to click. */
+.dl-fv-side-qa-q, .dl-fv-side-qa-a { max-height: 4.5em; overflow: hidden; position: relative; transition: max-height 0.25s ease; }
+.dl-fv-side-qa-q:hover, .dl-fv-side-qa-a:hover { max-height: 800px; }
+.dl-fv-side-qa-q::after, .dl-fv-side-qa-a::after { content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 1.4em; background: linear-gradient(to bottom, rgba(255,255,255,0), #fff); pointer-events: none; transition: opacity 0.15s ease; }
+.dl-fv-side-qa-q:hover::after, .dl-fv-side-qa-a:hover::after { opacity: 0; }
+.dl-fv-side-qa-q { font-size: 0.78rem; line-height: 1.5; color: #0a5ba8; font-weight: 600; margin-bottom: 5px; }
+.dl-fv-side-qa-a { font-size: 0.8rem; line-height: 1.5; color: #384152; }
+/* Honest note when a transcript genuinely has no per-question attribution (real
+   TSLA data characteristic for some quarters, not a bug - see parse_qa_exchanges's
+   docstring) - real user report: "not seeing names on the questions asked." */
+.dl-fv-qa-anon { font-style: italic; font-weight: 400; color: #8a93a3; }
+/* "Previously asked" - the same firm/analyst's other questions elsewhere in the
+   requested range (firm_question_history) - real user ask: "track who is asking
+   the questions so we can see a timeline of previous questions." Absent entirely
+   for anonymous-question transcripts (TSLA-style) or a firm that only asked once. */
+.dl-fv-side-qa-history { margin-top: 8px; padding: 8px 10px; background: #f3f5f8; border-left: 2px solid #c7cfda; }
+.dl-fv-side-qa-history-label { font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: #6b7688; margin-bottom: 5px; }
+.dl-fv-side-qa-history ul { margin: 0; padding-left: 14px; }
+.dl-fv-side-qa-history li { font-size: 0.74rem; line-height: 1.5; color: #4b5563; margin-bottom: 4px; }
+.dl-fv-side-qa-history li:last-child { margin-bottom: 0; }
+.dl-fv-side-qa-history-period { color: #0a5ba8; font-weight: 600; }
+/* Real user ask (enthusiastic reaction): a per-Q&A "Summarize" button - real
+   click-triggered gpt-4.1-mini call (_QA_SUMMARIZE_JS -> /api/summarize-qa ->
+   research_workflows.summarize_qa_exchange), not run automatically for every
+   entry in a report. */
+.dl-qa-toggle-btn, .dl-qa-summarize-btn, .dl-qa-summarize-all-btn { margin-top: 6px; padding: 3px 10px; font-size: 0.7rem; font-weight: 600; color: #0a5ba8; background: #eef4fb; border: 1px solid #c7d9ee; border-radius: 4px; cursor: pointer; }
+.dl-qa-toggle-btn:hover, .dl-qa-summarize-btn:hover, .dl-qa-summarize-all-btn:hover { background: #dfeaf9; }
+.dl-qa-toggle-btn:disabled, .dl-qa-summarize-btn:disabled, .dl-qa-summarize-all-btn:disabled { opacity: 0.6; cursor: default; }
+.dl-qa-toggle-btn { margin: 0 10px 10px 0; display: inline-block; }
+.dl-qa-summarize-all-btn { margin: 0 0 10px 0; display: inline-block; }
+.dl-qa-extra { display: none; }
+.dl-qa-group.dl-qa-expanded .dl-qa-extra { display: block; }
+.dl-qa-summary-result { margin-top: 6px; padding: 8px 10px; font-size: 0.76rem; line-height: 1.5; color: #1c2b3a; background: #f6f9fc; border-left: 2px solid #0a5ba8; white-space: pre-wrap; }
+.dl-qa-summary-result:empty { display: none; }
+.dl-qa-summary-result.dl-qa-summary-error { color: #a3311a; border-left-color: #a3311a; background: #fdf2ef; }
+/* Real user ask: after Summarize/Summarize all, the real question/answer text
+   shrinks down (still reachable via hover) instead of the summary just
+   tacking onto the bottom below the full original text. */
+.dl-qa-original { transition: max-height .25s ease, opacity .2s ease; }
+.dl-qa-summarized .dl-qa-original { max-height: 3em; overflow: hidden; opacity: 0.55; cursor: pointer; }
+.dl-qa-summarized .dl-qa-original:hover { max-height: 1000px; opacity: 1; }
+/* Real user concern: after a restored/persisted summary shows on top, it could
+   read as if it were the real verbatim quote instead of an AI-generated
+   condensation - this label removes the ambiguity. */
+.dl-qa-summary-badge { display: block; font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; opacity: 0.7; margin-bottom: 3px; }
+a.dl-fv-side-link { color: #0a5ba8; text-decoration: none; border-bottom: 1px solid transparent; }
+a.dl-fv-side-link:hover { border-bottom-color: #0a5ba8; }
+.dl-fv-metric-relationships { margin: 6px 0 0 0; padding: 6px 8px; background: #f3f6fa; border-left: 2px solid #9bb8d6; }
+.dl-fv-metric-relationship-group { margin: 0 0 6px 0; }
+.dl-fv-metric-relationship-group:last-child { margin-bottom: 0; }
+.dl-fv-metric-relationship-group > summary { cursor: pointer; list-style: none; color: #0a5ba8; font-size: 0.7rem; font-weight: 700; }
+.dl-fv-metric-relationship-group > summary::-webkit-details-marker { display: none; }
+.dl-fv-metric-relationship-group > summary::before { content: '▸'; display: inline-block; margin-right: 4px; }
+.dl-fv-metric-relationship-group[open] > summary::before { transform: rotate(90deg); }
+.dl-fv-metric-relationship-group ul { margin-top: 5px; padding-left: 14px; }
+.dl-fv-metric-relationship-item { margin-bottom: 6px !important; font-size: 0.74rem !important; line-height: 1.35 !important; }
+.dl-fv-metric-relationship-item:last-child { margin-bottom: 0 !important; }
+.dl-fv-metric-relationship-meta, .dl-fv-metric-relationship-why { display: block; color: #6b7688; font-size: 0.67rem; line-height: 1.35; }
+.dl-fv-metric-relationship-why { font-style: italic; }
+.dl-fv-related-topics { margin-top: 6px; padding-top: 6px; border-top: 1px solid #dbe3ec; }
+.dl-fv-related-topics-title { color: #0a5ba8; font-size: 0.7rem; font-weight: 700; margin-bottom: 3px; }
+.dl-fv-related-topics ul { margin: 0; padding-left: 10px; list-style: none; }
+.dl-fv-related-topic { margin: 2px 0 !important; font-size: 0.74rem !important; }
+.dl-fv-trend { display: inline-block; margin-right: 5px; font-size: 0.65rem; color: #0a5ba8; }
+.dl-fv-trend.dl-trend-good { color: #16a34a; }
+.dl-fv-trend.dl-trend-bad { color: #dc2626; }
+mark.dl-cited { background: #fff3a3; padding: 0 1px; border-radius: 2px; }
+mark.dl-cited[data-concept] { cursor: help; box-shadow: inset 0 -2px 0 rgba(10, 91, 168, 0.55); }
+mark.dl-memory-anchor { background: #c7f9d4; padding: 0 1px; border-radius: 2px; box-shadow: inset 0 -2px 0 rgba(22, 101, 52, 0.55); }
+/* Multi-topic Core Research (research_workflows.build_filing_highlight_plan tags each
+   item with data-topic-idx) - every recognized sub-topic gets its own pale
+   highlighter tint so multiple topics ('gross margin', 'cogs', ...) are visually
+   distinguishable in the real filing text at a glance. Single-topic pages never set
+   data-topic-idx at all, so they're unaffected and keep the plain yellow above.
+   Real, confirmed bug this replaces: these 4 tints (yellow/pink/mint/light-blue)
+   didn't correspond by hue to research_workflows._TOPIC_SECTION_COLORS_LIGHT's own
+   5 heading colors (blue/amber/purple/green/pink) at all - topic 3's heading is
+   green but its mark was blue, topic 1's heading is amber but its mark was pink -
+   so a reader couldn't tell which highlighted passage belonged to which sidebar
+   heading by color, real user report: "make sure it follows the color of the thing
+   on the sidebar." Each pale tint below is now that SAME index's heading color,
+   just lightened - order/count matches _TOPIC_SECTION_COLORS_LIGHT exactly
+   (5 entries, not 4 - MAX_SPLIT_TOPICS is 5). */
+mark.dl-cited[data-topic-idx="0"] { background: #c9e0ff; }
+mark.dl-cited[data-topic-idx="1"] { background: #ffe0b3; }
+mark.dl-cited[data-topic-idx="2"] { background: #e3d1ff; }
+mark.dl-cited[data-topic-idx="3"] { background: #c3f0d8; }
+mark.dl-cited[data-topic-idx="4"] { background: #ffd1e3; }
+.dl-fv-nav-footer { margin: 4px 0 0 0; padding: 14px 0 6px 0; border-top: 1px solid #dfe6ee; position: sticky; bottom: 0; background: #fff; }
+/* Was "a.dl-fv-nav-btn" (anchor-only) - real, pre-existing bug this touch also
+   fixes: several real <button class="dl-fv-nav-btn"> elements (#dl-tp-run "Search
+   now", #tv-compare-toggle) never actually matched this tag-scoped selector at
+   all, rendering as bare unstyled browser buttons. Untagged so both real element
+   types get the same look. */
+.dl-fv-nav-btn { display: block; width: 100%; text-align: center; font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: #0a5ba8; background: #fff; border: 1px solid #dde1e7; border-radius: 5px; padding: 9px 10px; text-decoration: none; margin-bottom: 8px; font-family: inherit; cursor: pointer; }
+.dl-fv-nav-btn:hover { border-color: #0a5ba8; background: #eef2f7; }
+.dl-fv-nav-btn:last-child { margin-bottom: 0; }
+.dl-fv-nav-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+.dl-fv-nav-btn.dl-fv-nav-btn-active { color: #fff; background: #0a5ba8; border-color: #0a5ba8; }
+.dl-fv-nav-quarters { display: flex; gap: 8px; }
+.dl-fv-nav-quarters a.dl-fv-nav-btn { flex: 1; margin-bottom: 0; }
+:target { scroll-margin-top: 20px; }
+.dl-fv-native *:target { background: #ffde59 !important; }
+/* Hover-to-preview (_HOVER_PREVIEW_JS) - real user ask: hovering a "What management
+   said" quote should scroll to show where it's said, then return the reader to
+   where they were once they stop hovering, instead of a click that navigates away
+   and leaves them to scroll back manually themselves. .dl-preview-flash reuses the
+   same highlight color as the real :target flash above for one consistent "here's
+   what you're looking at" visual language. scroll-margin-top matters here too -
+   without it the sticky search bar can cover the very top of a freshly-scrolled-to
+   passage. */
+.dl-preview-flash { background: #ffde59 !important; scroll-margin-top: 20px; }
+.dl-hover-tip { position: absolute; z-index: 1000; background: #1c1c1c; color: #fff; font-family: Arial, Helvetica, sans-serif; font-size: 0.78rem; line-height: 1.5; padding: 10px 12px; border-radius: 6px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3); max-width: 260px; pointer-events: none; }
+.dl-hover-tip strong { display: block; margin-bottom: 4px; font-size: 0.8rem; }
+
+/* Hover-to-reveal multiple real matches for a "What management said" quote
+   (_semantic_filing_matches) - real user ask: "hover over it... it'll open the four
+   different things... you can click them and it'll send you to them." Shared by both
+   the filing viewer (matches are OTHER passages in this SAME filing) and the
+   transcript viewer (matches are passages on that quarter's filing-viewer page) -
+   same trigger badge + tooltip markup either way, just a different href target.
+   .dl-quote-match-tip reuses .dl-hover-tip's box styling but overrides pointer-events
+   so the reader can actually move into it and click a link, unlike the read-only
+   financial-figure comparison tooltip above. */
+.dl-quote-match-trigger { display: inline-block; margin-left: 6px; font-size: 0.72rem; font-weight: 600; color: #0a66c2; cursor: help; white-space: nowrap; }
+/* position: fixed (viewport-relative), not the base .dl-hover-tip's absolute
+   (document-relative) - real bug this fixes: hovering one of this tooltip's own
+   related links triggers _HOVER_PREVIEW_JS's auto-scroll-to-preview, which moves
+   the document out from under an absolutely-positioned tooltip, taking the
+   tooltip (and its other related links the reader wanted to hover next) off
+   screen with it. Fixed positioning means the tooltip stays exactly where the
+   reader is looking regardless of how far the underlying page scrolls. */
+.dl-quote-match-tip { position: fixed; pointer-events: auto; max-width: 320px; }
+.dl-quote-match-tip ul { list-style: none; margin: 0; padding: 0; }
+.dl-quote-match-tip li { margin-top: 8px; }
+.dl-quote-match-tip li:first-child { margin-top: 0; }
+.dl-quote-match-tip a { color: #8ec4ff; text-decoration: none; }
+.dl-quote-match-tip a:hover { text-decoration: underline; }
+.dl-quote-match-tip .dl-quote-match-score { color: #9aa3b0; font-size: 0.72rem; }
+mark.dl-cited[id] { cursor: pointer; }
+tr.dl-table-hit td, tr.dl-table-hit th { background: #fff3a3 !important; }
+/* Real user ask: move the search control out of the page header and into the
+   sidebar itself, below the prev/next-quarter nav buttons, in its own visually
+   distinct box - the sidebar is already position:sticky, so living inside it
+   means the search control naturally stays reachable while scrolling the native
+   pane without needing its own separate sticky logic (an earlier, now-removed
+   version of this fix pinned .dl-fv-search to the viewport directly). */
+.dl-fv-search-box { margin-top: 16px; padding: 12px; background: #fbfcfe; border: 1px solid #d7dee8; border-radius: 8px; }
+.dl-fv-search-box-label { display: flex; align-items: center; gap: 8px; font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; color: #6b7688; margin: 0 0 8px 0; }
+.dl-fv-search { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.dl-fv-search input { flex: 1; min-width: 0; padding: 8px 12px; border: 1px solid #ccced4; border-radius: 6px; font-size: 0.85rem; font-family: inherit; }
+.dl-fv-search input:focus { outline: none; border-color: #0a5ba8; }
+.dl-fv-search button { padding: 7px 11px; border: 1px solid #ccced4; background: #fff; border-radius: 6px; cursor: pointer; font-size: 0.85rem; color: #333; }
+.dl-fv-search button:hover { background: #f0f5fa; }
+.dl-fv-search-counter { font-size: 0.78rem; color: #666; min-width: 52px; }
+/* "Explore financial statements" quick-topic picker (_topic_picker_html) - real
+   user ask, lives directly above the search box (same .dl-fv-search-box shell
+   for visual consistency, just extra content). */
+.dl-tp-group { border: 1px solid #e5e8ed; border-radius: 6px; margin-bottom: 6px; }
+.dl-tp-group summary { padding: 7px 10px; font-size: 0.8rem; font-weight: 600; color: #1c2430; cursor: pointer; }
+.dl-tp-group-body { padding: 2px 10px 8px 10px; display: flex; flex-direction: column; gap: 4px; }
+.dl-tp-item { font-size: 0.8rem; color: #333; display: flex; align-items: center; gap: 6px; cursor: pointer; }
+.dl-tp-item input { cursor: pointer; }
+.dl-tp-item.dl-tp-item-disabled { color: #aaa; cursor: not-allowed; }
+#dl-tp-custom { width: 100%; padding: 7px 10px; border: 1px solid #ccced4; border-radius: 6px; font-size: 0.8rem; font-family: inherit; box-sizing: border-box; }
+#dl-tp-custom:focus { outline: none; border-color: #0a5ba8; }
+.dl-tp-count { font-size: 0.74rem; color: #6b7688; margin: 6px 0 8px 0; }
+.dl-tp-count.dl-tp-count-full { color: #a3311a; font-weight: 600; }
+#dl-tp-run { width: 100%; text-align: center; }
+#dl-tp-run:disabled { opacity: 0.5; cursor: not-allowed; }
+.dl-tp-status { font-size: 0.78rem; color: #6b7688; margin-top: 8px; min-height: 1.2em; }
+.dl-tp-status.dl-tp-status-error { color: #a3311a; }
+/* Real loading bar (mirrors static/app.js's own progress-track/progress-fill,
+   re-themed for this light sidebar background instead of that page's dark shell)
+   - real user ask: "I want an actual loading bar... like we have on the when you
+   first run the core research... doesn't have to be very descriptive... but I
+   want it to be pretty accurate" - _TOPIC_PICKER_JS drives the fill width from
+   the SAME real progress_cb stage list app.js already uses for /api/core-
+   research, not a fake/cycling animation. */
+.dl-tp-progress-track { height: 4px; background: #e5e8ed; border-radius: 999px; overflow: hidden; margin: 8px 0; display: none; }
+.dl-tp-progress-track.dl-tp-progress-active { display: block; }
+.dl-tp-progress-fill { height: 100%; width: 4%; border-radius: 999px; background: linear-gradient(90deg, #0a66c2, #44c8ff); transition: width 0.7s cubic-bezier(0.16, 1, 0.3, 1); }
+span.dl-search-hit { background: #cfe8ff; padding: 0 1px; border-radius: 2px; }
+/* "Keyword sentences" (_keyword_sentence_explorer_html) - real user ask: turn each
+   auto-derived company keyword into a real, expandable list of its own most
+   relevant real sentences on THIS page (not every raw occurrence - a common word
+   can appear hundreds of times), so a reader can read the sentences behind a
+   keyword without manually stepping through the in-page search one hit at a time.
+   Outer shell reuses .dl-fv-side-section's own <details>/chevron - real user ask
+   was specifically "a drop down." Nested .dl-kwx-row is a second, per-keyword
+   <details> inside that. Replaces the earlier standalone "Company keywords" chip
+   panel entirely (real user preference - "I like keyword sentences way more than
+   company keywords"). */
+.dl-kwx-rows { display: flex; flex-direction: column; gap: 6px; }
+.dl-kwx-row { background: #f4f6f9; border: 1px solid #e3e6eb; border-radius: 6px; }
+.dl-kwx-row summary { display: flex; align-items: center; justify-content: space-between; padding: 8px 12px; cursor: pointer; list-style: none; font-size: 0.82rem; color: #1c2430; }
+.dl-kwx-row summary::-webkit-details-marker { display: none; }
+.dl-kwx-name { font-weight: 600; }
+.dl-kwx-count { font-size: 0.72rem; color: #6b7688; font-weight: 600; font-variant-numeric: tabular-nums; }
+.dl-kwx-sentences { padding: 0 12px 12px 12px; border-top: 1px solid #e3e6eb; }
+/* .dl-kwx-sentence is a real <a href="#dl-kwx-N-M"> (hover-scrolls to that exact
+   sentence in the native document, via the same .dl-hover-scroll-link mechanism
+   MD&A/Footnote links already use) - real user ask: "make each of them be a
+   hyperlink thing, but don't make it blue like the other stuff." Teal, not the
+   site's usual link blue (#0a5ba8/.dl-fv-side-link) or the red/green trend colors
+   or the #ffde59 hover-scroll flash, so it reads as its own distinct affordance. */
+a.dl-kwx-sentence, p.dl-kwx-sentence { display: block; font-size: 0.82rem; line-height: 1.5; margin: 10px 0 0 0; padding-left: 10px; border-left: 2px solid #99e6d8; }
+a.dl-kwx-sentence { color: #0f766e; text-decoration: none; cursor: pointer; }
+a.dl-kwx-sentence:hover { text-decoration: underline; border-left-color: #0f766e; }
+p.dl-kwx-sentence-plain { color: #33394a; cursor: default; }
+.dl-kwx-caption { font-size: 0.7rem; color: #9aa4b2; margin: 10px 0 0 0; font-style: italic; }
+/* .dl-kwx-anchor marks where a Keyword Sentence actually sits in the native
+   document, real id only (for the hover-scroll target + the .dl-preview-flash
+   this mechanism already applies on hover) - no persistent visual treatment by
+   default, so these don't compete with real topic-evidence highlights
+   (.dl-cited) already marked in this same document. dl-kwx-anchor-active
+   (_KEYWORD_SENTENCE_HIGHLIGHT_JS) is the one exception - real user ask: "if
+   cost is closed then dont have any [highlight] but when cost is open make it
+   highlight the ones that relate to it" - toggled on only while that keyword's
+   own .dl-kwx-row is expanded, in the same teal as the sidebar link itself. */
+mark.dl-kwx-anchor { background: none; color: inherit; }
+mark.dl-kwx-anchor.dl-kwx-anchor-active { background: #99e6d8; color: #04342c; }
+/* Draw panel (_draw_annotation_panel_html/_DRAW_ANNOTATION_JS) - real, repeated
+   user ask: freehand annotation over the real filing/transcript document, saved
+   to a real per-document PDF. #dl-draw-canvas is appended INSIDE .dl-fv-native
+   (which gets position:relative from the JS) sized to its full scrollWidth/
+   scrollHeight (not just the viewport) so strokes stay anchored to the real
+   content position regardless of scroll. pointer-events stays "none" until Draw
+   mode is on, so normal reading/clicking/scrolling is completely unaffected the
+   rest of the time. */
+#dl-draw-canvas { position: absolute; top: 0; left: 0; pointer-events: none; touch-action: none; z-index: 5; }
+#dl-draw-canvas.dl-draw-canvas-active { pointer-events: auto; cursor: crosshair; }
+.dl-draw-row { display: flex; gap: 8px; margin-bottom: 10px; }
+.dl-draw-row .dl-fv-nav-btn { margin-bottom: 0; }
+.dl-draw-swatches { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 10px; }
+.dl-draw-swatch { width: 22px; height: 22px; border-radius: 50%; border: 2px solid transparent; padding: 0; cursor: pointer; }
+.dl-draw-swatch.dl-draw-swatch-active { border-color: #1c2430; box-shadow: 0 0 0 1px #fff; }
+.dl-draw-hint { font-size: 0.72rem; color: #6b7688; margin: 0 0 10px 0; }
+.dl-draw-status { font-size: 0.72rem; color: #6b7688; min-height: 1em; }
+span.dl-search-hit.dl-search-hit-active { background: #ffb347; }
+.dl-toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); background: #1c1c1c; color: #fff; padding: 10px 18px; border-radius: 6px; font-family: Arial, Helvetica, sans-serif; font-size: 0.85rem; z-index: 2000; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3); }
+@media (max-width: 980px) {
+  .dl-fv-cols { flex-direction: column; }
+  .dl-fv-side { width: 100%; position: static; max-height: none; }
+  .dl-fv-native { padding: 24px; }
+}
+
+.dl-theme-toggle { position: fixed; bottom: 20px; right: 20px; z-index: 3000; display: flex; gap: 2px; background: #1c1c1c; border-radius: 999px; padding: 4px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35); font-family: Arial, Helvetica, sans-serif; }
+.dl-theme-btn { border: none; background: transparent; color: #9aa4b2; font-size: 0.72rem; font-weight: 600; padding: 7px 14px; border-radius: 999px; cursor: pointer; line-height: 1; }
+.dl-theme-btn.dl-theme-btn-active { background: #44c8ff; color: #10131a; }
+.dl-theme-btn:hover:not(.dl-theme-btn-active) { color: #fff; }
+@media (max-width: 600px) { .dl-theme-toggle { bottom: 12px; right: 12px; } }
+
+html[data-theme="dark"] { color-scheme: dark; background: #1b1e24; }
+html[data-theme="dark"] body { background: #1b1e24; }
+html[data-theme="dark"] * { scrollbar-color: #3a3f4a #1c1f26; }
+html[data-theme="dark"] ::-webkit-scrollbar-track { background: #1c1f26; }
+html[data-theme="dark"] ::-webkit-scrollbar-thumb { background: #3a3f4a; border-color: #1c1f26; }
+html[data-theme="dark"] ::-webkit-scrollbar-thumb:hover { background: #44c8ff; }
+html[data-theme="dark"] .dl-fv-head h1 { color: #fff; }
+html[data-theme="dark"] .dl-fv-note { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-native { background: #23272f; border: 1px solid #333844; box-shadow: 0 2px 14px rgba(0, 0, 0, 0.4); color: #dfe4ea; }
+html[data-theme="dark"] .dl-fv-side { background: #262a33; border: 1px solid #333844; border-left: 3px solid #44c8ff; color: #dfe4ea; }
+html[data-theme="dark"] .dl-fv-side-header { background: #262a33; border-bottom-color: #333844; }
+html[data-theme="dark"] .dl-fv-side-header h2 { color: #f4f7fb; }
+html[data-theme="dark"] .dl-fv-side-header p { color: #9aa4b2; }
+html[data-theme="dark"] .dl-hover-scroll-toggle-label { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-side-section { background: #2a2e39; border: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-side-section summary { color: #44c8ff; background: #2f333f; }
+html[data-theme="dark"] .dl-fv-side-section summary::after { border-left-color: #7a8699; }
+html[data-theme="dark"] .dl-fv-side-section[open] summary { border-bottom: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-topic-subtitle { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-topic-row { border-bottom-color: #3a3f4a; }
+html[data-theme="dark"] .dl-fv-topic-row-meta, html[data-theme="dark"] .dl-fv-topic-empty { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-topic-row-icon { border-color: #44c8ff; color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-topic-statement-icon { border-color: #5eead4; color: #5eead4; }
+html[data-theme="dark"] .dl-fv-topic-metric-row > a { color: #dfe4ea; }
+html[data-theme="dark"] .dl-fv-topic-help { background: #44c8ff; color: #1c2430; }
+/* Same rationale as the report's own topic-badge filter above: this heading's
+   color/border-color are inline styles from _TOPIC_SECTION_COLORS_LIGHT
+   (tuned for a light sidebar) - brighten instead of darken since going the
+   opposite direction (usable-on-light -> usable-on-dark). */
+html[data-theme="dark"] .dl-fv-side-topic-heading { filter: brightness(1.5) saturate(1.05); }
+html[data-theme="dark"] .dl-fv-side-topic-group { background: #2a2e39; border-color: #333844; }
+html[data-theme="dark"] .dl-fv-side-topic-group > .dl-fv-side-section { border: 0; border-top: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-side-group h3 { color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-side li { color: #cdd6e0; }
+html[data-theme="dark"] .dl-fv-side-empty-note { color: #7a8699; }
+html[data-theme="dark"] .dl-fv-side-qa { border-bottom: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-side-qa-q::after, html[data-theme="dark"] .dl-fv-side-qa-a::after { background: linear-gradient(to bottom, rgba(42,46,57,0), #2a2e39); }
+html[data-theme="dark"] .dl-fv-side-qa-q { color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-side-qa-a { color: #cdd6e0; }
+html[data-theme="dark"] .dl-fv-qa-anon { color: #7a8699; }
+html[data-theme="dark"] .dl-fv-side-qa-history { background: #262a33; border-left: 2px solid #3a3f4a; }
+html[data-theme="dark"] .dl-fv-side-qa-history-label { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-side-qa-history li { color: #cdd6e0; }
+html[data-theme="dark"] .dl-fv-side-qa-history-period { color: #44c8ff; }
+html[data-theme="dark"] .dl-qa-summarize-btn, html[data-theme="dark"] .dl-qa-summarize-all-btn { color: #44c8ff; background: #23272f; border: 1px solid #333844; }
+html[data-theme="dark"] .dl-qa-summarize-btn:hover, html[data-theme="dark"] .dl-qa-summarize-all-btn:hover { background: #2f333f; }
+html[data-theme="dark"] .dl-qa-summary-result { color: #dfe4ea; background: #23272f; border-left: 2px solid #44c8ff; }
+html[data-theme="dark"] .dl-qa-summary-result.dl-qa-summary-error { color: #f87171; border-left-color: #f87171; background: #2a2223; }
+html[data-theme="dark"] a.dl-fv-side-link { color: #44c8ff; }
+html[data-theme="dark"] a.dl-fv-side-link:hover { border-bottom-color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-metric-relationships { background: #23272f; border-left-color: #4a6b89; }
+html[data-theme="dark"] .dl-fv-metric-relationship-group > summary, html[data-theme="dark"] .dl-fv-related-topics-title { color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-metric-relationship-meta, html[data-theme="dark"] .dl-fv-metric-relationship-why { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-related-topics { border-top-color: #3a3f4a; }
+html[data-theme="dark"] .dl-fv-trend { color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-trend.dl-trend-good { color: #4ade80; }
+html[data-theme="dark"] .dl-fv-trend.dl-trend-bad { color: #f87171; }
+html[data-theme="dark"] .dl-quote-match-trigger { color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-nav-footer { border-top: 1px solid #333844; background: #262a33; }
+html[data-theme="dark"] .dl-fv-nav-btn { color: #44c8ff; background: #23272f; border: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-nav-btn:hover { border-color: #44c8ff; background: #2f333f; }
+html[data-theme="dark"] .dl-fv-nav-btn.dl-fv-nav-btn-active { color: #1c2430; background: #44c8ff; border-color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-search-box { background: #2a2e39; border: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-search-box-label { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-search input { background: #1c1f26; color: #dfe4ea; border: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-search input:focus { border-color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-search button { background: #1c1f26; border: 1px solid #333844; color: #dfe4ea; }
+html[data-theme="dark"] .dl-fv-search button:hover { background: #2f333f; }
+html[data-theme="dark"] .dl-fv-search-counter { color: #9aa4b2; }
+html[data-theme="dark"] .dl-tp-group { border: 1px solid #333844; }
+html[data-theme="dark"] .dl-tp-group summary { color: #dfe4ea; }
+html[data-theme="dark"] .dl-tp-item { color: #cdd6e0; }
+html[data-theme="dark"] .dl-tp-item.dl-tp-item-disabled { color: #5a6270; }
+html[data-theme="dark"] #dl-tp-custom { background: #1c1f26; color: #dfe4ea; border: 1px solid #333844; }
+html[data-theme="dark"] #dl-tp-custom:focus { border-color: #44c8ff; }
+html[data-theme="dark"] .dl-tp-count { color: #9aa4b2; }
+html[data-theme="dark"] .dl-kwx-row { background: #23272f; border: 1px solid #333844; }
+html[data-theme="dark"] .dl-kwx-row summary { color: #dfe4ea; }
+html[data-theme="dark"] .dl-kwx-count { color: #9aa4b2; }
+html[data-theme="dark"] .dl-kwx-sentences { border-top: 1px solid #333844; }
+html[data-theme="dark"] a.dl-kwx-sentence, html[data-theme="dark"] p.dl-kwx-sentence { border-left: 2px solid #1f8a76; }
+html[data-theme="dark"] a.dl-kwx-sentence { color: #5eead4; }
+html[data-theme="dark"] a.dl-kwx-sentence:hover { border-left-color: #5eead4; }
+html[data-theme="dark"] p.dl-kwx-sentence-plain { color: #cdd6e0; }
+html[data-theme="dark"] .dl-kwx-caption { color: #7a8699; }
+html[data-theme="dark"] .dl-fv-side-section-kwx summary { color: #5eead4; }
+html[data-theme="dark"] .dl-fv-side-section-kwx[open] summary { border-bottom-color: #1f8a76; }
+html[data-theme="dark"] .dl-fv-side-section-kwx summary::after { border-left-color: #5eead4; }
+html[data-theme="dark"] mark.dl-kwx-anchor.dl-kwx-anchor-active { background: #1f8a76; color: #eafff9; }
+html[data-theme="dark"] .dl-draw-swatch.dl-draw-swatch-active { border-color: #dfe4ea; box-shadow: 0 0 0 1px #23272f; }
+html[data-theme="dark"] .dl-draw-hint { color: #9aa4b2; }
+html[data-theme="dark"] .dl-draw-status { color: #9aa4b2; }
+html[data-theme="dark"] .dl-tp-status { color: #9aa4b2; }
+html[data-theme="dark"] .dl-tp-progress-track { background: #333844; }
+/* Pale "highlighter" backgrounds (mark.dl-cited, :target flash, search hits,
+   the transcript-compare diff highlight) work fine unchanged in dark mode -
+   pale-on-dark reads as a bright highlight, if anything more legible than
+   pale-on-light. What does NOT work unchanged is their TEXT: none of these
+   set their own color, so without this override they'd inherit the ambient
+   dark-mode text color (#dfe4ea, light gray) and land pale-gray-on-pale-
+   yellow - a real, direct repeat of the earlier illegible-highlight bug had
+   this been skipped. Force dark text specifically inside these highlighted
+   spans; their (unchanged) pale backgrounds do the rest. */
+html[data-theme="dark"] mark.dl-cited,
+html[data-theme="dark"] mark.dl-memory-anchor,
+html[data-theme="dark"] mark.dl-cited[data-topic-idx="1"],
+html[data-theme="dark"] mark.dl-cited[data-topic-idx="2"],
+html[data-theme="dark"] mark.dl-cited[data-topic-idx="3"],
+html[data-theme="dark"] mark.dl-cited[data-topic-idx="4"],
+html[data-theme="dark"] .dl-fv-native *:target,
+html[data-theme="dark"] .dl-preview-flash,
+html[data-theme="dark"] span.dl-search-hit,
+html[data-theme="dark"] span.dl-search-hit.dl-search-hit-active,
+html[data-theme="dark"] .dl-diff-chg,
+html[data-theme="dark"] .dl-diff-para-chg,
+html[data-theme="dark"] tr.dl-table-hit td,
+html[data-theme="dark"] tr.dl-table-hit th { color: #1c2430; }
+html[data-theme="dark"] .dl-tv-speaker { color: #8ec4ff; }
+html[data-theme="dark"] .dl-fv-side-xref { color: #44c8ff; }
+html[data-theme="dark"] .tv-compare-panel-inner { background: #23272f; border: 1px solid #333844; box-shadow: 0 2px 14px rgba(0, 0, 0, 0.4); }
+html[data-theme="dark"] .tv-compare-panel-inner h3 { color: #fff; }
+html[data-theme="dark"] .tv-compare-controls select { background: #1c1f26; color: #dfe4ea; border: 1px solid #333844; }
+html[data-theme="dark"] .tv-compare-col { background: #2a2e39; border: 1px solid #333844; color: #dfe4ea; }
+html[data-theme="dark"] .tv-compare-col-heading { color: #44c8ff; background: #2a2e39; }
+.dl-deck-slide{scroll-margin-top:24px;margin-bottom:32px}.dl-deck-slide img{display:block;width:100%;height:auto;border:1px solid #d9e2ef}.dl-deck-text{white-space:pre-wrap;padding:16px;line-height:1.6}.dl-deck-slide summary{cursor:pointer;padding:12px}</style></head><body><div class="dl-fv-shell"><div class="dl-fv-head"><h1>DIS Investor Presentation 2024 (4)</h1><p class="dl-fv-note">Original earnings presentation. Select evidence to open its highlighted slide text.</p></div><div class="dl-fv-cols"><div class="dl-fv-native"><section class="dl-deck-slide" id="slide-1"><h2>Slide 1</h2><img alt="Original presentation slide 1" height="1109" loading="lazy" src="Presentation_e49b74e0c5005ab6-slide-1.jpg" width="857"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">November	14,	2024
+THE	WALT	DISNEY	COMPANY	REPORTS
+FOURTH	QUARTER	AND	FULL	YEAR	EARNINGS	FOR	FISCAL	2024
+BURBANK,	Calif.	–	The	Walt	Disney	Company	today	reported	earnings	for	its	fourth	quarter	and	full	
+year	ended	September	28,	2024.	
+<mark class="dl-cited" data-concept="Revenue" data-topic-idx="0" id="dl-thl-0-2">Financial	Results	for	the	Quarter	and	Full	Year:
+• Revenues	increased	6%	for	Q4	to	$22.6	billion	from	$21.2	billion	in	the	prior-year	quarter,	and	3%	for
+the	year	to	$91.4	billion	from	$88.9	billion	in	the	prior	year.</mark>
+• Income	before	income	taxes	declined	6%	to	$0.9	billion	in	Q4	from	$1.0	billion	in	the	prior-year
+quarter	and	increased	59%	for	the	year	to	$7.6	billion	from	$4.8	billion	in	the	prior	year.
+• Diluted	earnings	per	share	(EPS)	for	Q4	increased	79%	to	$0.25	from	$0.14	in	the	prior-year	quarter,
+and	for	the	year	more	than	doubled	to	$2.72	from	$1.29	in	the	prior	year.
+Key	Points:
+• We	achieved	strong	23%	growth	in	total	segment	operating	income (1)	for	Q4	and	21%	for	the	year,
+and	39%	growth	in	adjusted	EPS(1)	to	$1.14	from	$0.82	for	Q4	and	32%	to	$4.97	from	$3.76	for	the
+year.
+• Entertainment	segment	operating	income	improved	significantly,	to	$1.1	billion,	up	$0.8	billion	in	Q4
+versus	the	prior-year	quarter.
+<mark class="dl-cited" data-concept="Operating Income" data-topic-idx="0" id="dl-thl-0-11">• Entertainment	DTC	delivered	14%	ad	revenue	growth	in	Q4,	contributing	to	$253	million	in	operating
+income,	and	our	combined	DTC	streaming	businesses	improved	their	profitability	in	Q4,	with
+operating	income(1)	of	$321	million.</mark>
+• We	ended	the	quarter	with	174	million	Disney+	Core	and	Hulu	subscriptions,	and	more	than	120
+million	Disney+	Core	paid	subscribers,	an	increase	of	4.4	million	over	the	prior	quarter.
+• Pixar’s	 Inside	Out	2	and	Marvel’s	Deadpool	&amp;	Wolverine	broke	numerous	box	office	records	and
+helped	drive	$316	million	in	operating	income	at	Content	Sales/Licensing	and	Other	in	Q4.
+• Sports	segment	operating	income	was	$0.9	billion,	a	decline	of	$0.1	billion	compared	to	the	prior-
+year	quarter.	<mark class="dl-cited" data-concept="Revenue" data-topic-idx="0" id="dl-thl-0-12">Domestic	ESPN	advertising	revenue	in	Q4	grew	7%	versus	the	prior-year	quarter.</mark>
+• The	Experiences	segment	had	record	revenue	and	operating	income	for	the	full	year.	<mark class="dl-cited" data-concept="Operating Income" data-topic-idx="0" id="dl-thl-0-4">In	Q4,
+Experiences	revenue	increased	$0.1	billion,	or	1%,	and	operating	income	of	$1.7	billion	was	a	decline
+of	$0.1	billion,	or	6%	compared	to	the	prior-year	quarter.</mark>	Domestic	Parks	&amp;	Experiences	operating
+income	increased	in	Q4,	on	comparable	attendance	to	the	prior-year	quarter,	driven	by	higher	guest
+spending,	partially	offset	by	higher	expenses	and	costs	related	to	new	guest	offerings	driven	by
+Disney	Cruise	Line.	International	Parks	&amp;	Experiences	operating	income	declined	in	Q4.
+FOR	IMMEDIATE	RELEASE
+1
+(1) 	Diluted	EPS	excluding	certain	items	(also	referred	to	as	adjusted	EPS),	total	segment	operating	income	and	DTC	streaming	businesses
+operating	income	are	non-GAAP	financial	measures.	The	most	comparable	GAAP	measures	are	diluted	EPS,	income	before	income	taxes
+and	segment	operating	income	for	the	Entertainment	segment	and	Sports	segment,	respectively.	See	the	discussion	on	pages	18	through
+22	for	how	we	define	and	calculate	these	measures	and	a	quantitative	reconciliation	thereof	to	the	most	directly	comparable	GAAP
+measures.</div></details></section><section class="dl-deck-slide" id="slide-2"><h2>Slide 2</h2><img alt="Original presentation slide 2" height="1109" loading="lazy" src="Presentation_e49b74e0c5005ab6-slide-2.jpg" width="857"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">Guidance	and	Outlook:
+• We	are	confident	in	the	long-term	prospects	for	the	business	and	believe	we	are	well	positioned	for	
+growth.		
+• Fiscal	2025:
+◦ High-single	digit	adjusted	EPS(1)	growth	compared	to	fiscal	2024
+◦ Approximately	$15	billion	in	cash	provided	by	operations
+◦ Approximately	$8	billion	of	capital	expenditures
+◦ Target	dividend	growth	that	tracks	our	earnings	growth
+◦ Targeting	$3	billion	in	stock	repurchases
+◦ Entertainment:	Double	digit	percentage	segment	operating	income	growth	compared	to	fiscal	
+2024,	weighted	to	the	first	half	of	the	year
+▪ Entertainment	DTC	operating	income	increase	of	approximately	$875	million	versus	fiscal	
+2024,	which	includes	a	comparison	to	an	adverse	impact	of	our	India	DTC	business	of	
+approximately	$200	million	on	fiscal	2024	Entertainment	DTC	results
+▪ Modest	decline	in	Q1	Disney+	Core	subscribers	versus	Q4
+▪ Q1	Content	Sales/Licensing	and	Other	operating	income	relatively	in-line	with	Q4
+◦ Sports:	13%	segment	operating	income	growth	compared	to	fiscal	2024	on	a	reported	basis.	
+Adjusting	for	the	impact	of	our	India	business	on	Sports’	fiscal	2024	results,	operating	income	is	
+expected	to	decrease	approximately	10%	
+◦ Experiences:	6%	to	8%	segment	operating	income	growth	compared	to	fiscal	2024,	weighted	to	
+the	second	half	of	the	year
+▪ Q1	operating	income	adversely	impacted	by	approximately	$130	million	due	to	Hurricanes	
+Helene	and	Milton	and	approximately	$90	million	due	to	Disney	Cruise	Line	pre-launch	costs	
+• Fiscal	2026(2):
+◦ Double	digit	adjusted	EPS(1)	growth
+◦ Double	digit	growth	in	cash	provided	by	operations
+◦ When	comparing	to	our	fiscal	2025	guide,	we	expect:
+▪ Entertainment:	Double	digit	percentage	segment	operating	income	growth;	10%	operating	
+margin	for	our	Entertainment	SVOD	DTC	businesses	(excluding	our	Hulu	Live	DMVPD	
+service)(1)
+▪ Sports:	Low	single	digit	percentage	segment	operating	income	growth
+▪ Experiences:	High	single	digit	percentage	segment	operating	income	growth
+• Fiscal	2027:
+◦ Double	digit	adjusted	EPS(1)	growth
+(1)					Diluted	EPS	excluding	certain	items	(also	referred	to	as	adjusted	EPS)	is	a	non-GAAP	financial	measure.	Operating	margin	for	
+Entertainment	SVOD	DTC	businesses	(excluding	our	Hulu	Live	DMVPD	service)	is	calculated	as	operating	income	divided	by	revenue.	
+Operating	income	for	Entertainment	SVOD	DTC	businesses	(excluding	our	Hulu	Live	DMVPD	service)	is	a	non-GAAP	financial	measure.	
+The	most	comparable	GAAP	measures	to	these	non-GAAP	measures	are	diluted	EPS	and	Entertainment	segment	operating	income,	
+respectively.	See	the	discussion	on	pages	18	through	22	for	how	we	define	and	calculate	these	measures	and	why	the	Company	is	not	
+providing	forward-looking	quantitative	reconciliations	of	diluted	EPS	excluding	certain	items	and	operating	income	(and	related	margin)	
+for	our	Entertainment	SVOD	DTC	businesses	(excluding	our	Hulu	Live	DMVPD	service)	to	the	most	comparable	GAAP	measures.
+(2)				Fiscal	2026	includes	a	53rd	week	and	these	segment	operating	income	growth	rates	exclude	the	expected	benefit	of	the	extra	week.
+2</div></details></section><section class="dl-deck-slide" id="slide-3"><h2>Slide 3</h2><img alt="Original presentation slide 3" height="1109" loading="lazy" src="Presentation_e49b74e0c5005ab6-slide-3.jpg" width="857"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">Message	From	Our	CEO:
+“This	was	a	pivotal	and	successful	year	for	The	Walt	Disney	Company,	and	thanks	to	the	significant	
+progress	we’ve	made,	we	have	emerged	from	a	period	of	considerable	challenges	and	disruption	well	
+positioned	for	growth	and	optimistic	about	our	future,”	said	Robert	A.	Iger,	Chief	Executive	Officer,	The	
+Walt	Disney	Company.	“Our	solid	performance	in	the	fiscal	fourth	quarter	reflected	the	success	of	our	
+strategic	efforts	to	improve	quality,	innovation,	efficiency,	and	value	creation.	In	Q4	we	saw	one	of	the	
+best	quarters	in	the	history	of	our	film	studio,	improved	profitability	in	our	streaming	businesses,	a	
+record-breaking	60	Emmy	Awards	for	the	company,	the	continued	power	of	live	sports,	and	the	unveiling	
+of	an	impressive	collection	of	new	projects	coming	to	our	Experiences	segment.	As	a	result	of	our	
+strategies	and	our	focus	on	managing	our	businesses	for	both	the	near-	and	long-term,	we	are	
+differentiating	ourselves	from	traditional	competitors,	leveraging	the	deepest	and	broadest	set	of	
+entertainment	assets	in	the	industry	to	drive	attractive	returns	and	further	advance	our	goals.”
+3</div></details></section><section class="dl-deck-slide" id="slide-4"><h2>Slide 4</h2><img alt="Original presentation slide 4" height="1109" loading="lazy" src="Presentation_e49b74e0c5005ab6-slide-4.jpg" width="857"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">SUMMARIZED	FINANCIAL	RESULTS
+The	following	table	summarizes	fourth	quarter	and	full	year	results	for	fiscal	2024	and	2023:
+	 Quarter	Ended Year	Ended
+($	in	millions,	except	per	share	amounts)
+Sept.	28,
+2024
+Sept.	30,
+2023 Change
+Sept.	28,
+2024
+Sept.	30,
+2023 Change
+Revenues $	 22,574		 $	 21,241		 	 6	 		% $	 91,361		 $	 88,898		 	 3	 		%
+Income	before	income	taxes $	 948		 $	 1,007		 	 (6)	 	% $	 7,569		 $	 4,769		 	 59	 		%
+Total	segment	operating	income(1) $	 3,655		 $	 2,976		 	 23	 		% $	 15,601		 $	 12,863		 	 21	 		%
+Diluted	EPS $	 0.25		 $	 0.14		 	 79	 		% $	 2.72		 $	 1.29		 	 &gt;100	 		%
+Diluted	EPS	excluding	certain	items(1) $	 1.14		 $	 0.82		 	 39	 		% $	 4.97		 $	 3.76		 	 32	 		%
+Cash	provided	by	operations $	 5,518		 $	 4,802		 	 15	 		% $	 13,971		 $	 9,866		 	 42	 		%
+Free	cash	flow(1) $	 4,029		 $	 3,428		 	 18	 		% $	 8,559	 $	 4,897	 	 75	 		%
+(1) Total	segment	operating	income,	diluted	EPS	excluding	certain	items	and	free	cash	flow	are	non-GAAP	financial	
+measures.	The	most	comparable	GAAP	measures	are	income	before	income	taxes,	diluted	EPS	and	cash	provided	by	
+operations,	respectively.	See	the	discussion	on	pages	18	through	22	for	how	we	define	and	calculate	these	measures	
+and	a	reconciliation	thereof	to	the	most	directly	comparable	GAAP	measures.
+<mark class="dl-cited" data-concept="Operating Income" data-topic-idx="0" id="dl-thl-0-6">SUMMARIZED	SEGMENT	FINANCIAL	RESULTS
+The	following	table	summarizes	fourth	quarter	and	full	year	segment	revenue	and	operating	income	
+for	fiscal	2024	and	2023:
+	 Quarter	Ended Year	Ended
+($	in	millions)
+Sept.	28,
+2024
+Sept.	30,
+2023 Change
+Sept.	28,
+2024
+Sept.	30,
+2023 Change
+Revenues:
+Entertainment $	 10,829			 $	 9,524			 	 14	 		% $	 41,186			 $	 40,635			 	 1	 		%
+Sports 	 3,914	 	 3,910	 	 —	 		% 	 17,619	 	 17,111	 	 3	 		%
+Experiences 	 8,240	 	 8,160	 	 1	 		% 	 34,151	 	 32,549	 	 5	 		%
+Eliminations(2) 	 (409)	 	 (353)	 	 (16)	 	% 	 (1,595)	 	 (1,397)	 	 (14)	 	%
+Total	revenues $	 22,574	 $	 21,241	 	 6	 		% $	 91,361	 $	 88,898	 	 3	 		%
+Segment	operating	income:
+Entertainment $	 1,067	 $	 236	 	 &gt;100	 		% $	 3,923	 $	 1,444	 	 &gt;100	 		%
+Sports 	 929	 	 981	 	 (5)	 	% 	 2,406	 	 2,465	 	 (2)	 	%
+Experiences 	 1,659	 	 1,759	 	 (6)	 	% 	 9,272	 	 8,954	 	 4	 		%
+Total	segment	operating	income(1) $	 3,655	 $	 2,976	 	 23	 		% $	 15,601	 $	 12,863	 	 21	 		%
+(1) Total	segment	operating	income	is	a	non-GAAP	financial	measure.</mark>	The	most	comparable	GAAP	measure	is	income	
+before	income	taxes.	See	the	discussion	on	pages	18	through	22.
+(2) Reflects	fees	paid	by	Hulu	to	ESPN	and	the	Entertainment	linear	networks	business	for	the	right	to	air	their	networks	
+on	Hulu	Live	and	fees	paid	by	ABC	Network	and	Disney+	to	ESPN	to	program	certain	sports	content	on	ABC	Network	
+and	Disney+.
+4</div></details></section><section class="dl-deck-slide" id="slide-5"><h2>Slide 5</h2><img alt="Original presentation slide 5" height="1109" loading="lazy" src="Presentation_e49b74e0c5005ab6-slide-5.jpg" width="857"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">DISCUSSION	OF	FOURTH	QUARTER	SEGMENT	RESULTS
+Entertainment
+Revenue	and	operating	income	for	the	Entertainment	segment	are	as	follows:
+	 Quarter	Ended
+Change
+Year	Ended
+($	in	millions)
+Sept.	28,
+2024
+Sept.	30,
+2023
+Sept.	28,
+2024
+Sept.	30,
+2023 Change
+Revenues:
+Linear	Networks $	 2,461			 $	 2,628			 	 (6)	 	% $	 10,692	 $	 11,701	 	 (9)	 	%
+Direct-to-Consumer 	 5,783	 	 5,036	 	 15	 		% 	 22,776			 	 19,886	 	 15	 		%
+Content	Sales/Licensing	and	
+Other 	 2,585	 	 1,860	 	 39	 		% 	 7,718			 	 9,048			 	 (15)	 	%
+$	 10,829	 $	 9,524	 	 14	 		% $	 41,186	 $	 40,635	 	 1	 		%
+Operating	income	(loss):
+Linear	Networks $	 498			 $	 805			 	 (38)	 	% $	 3,452	 $	 4,119	 	 (16)	 	%
+Direct-to-Consumer 	 253	 	 (420)	 nm 	 143	 	 (2,496)	 nm
+Content	Sales/Licensing	and	
+Other 	 316	 	 (149)	 nm 	 328	 	 (179)	 nm
+$	 1,067	 $	 236	 	 &gt;100	 		% $	 3,923	 $	 1,444	 	 &gt;100	 		%
+The	increase	in	Entertainment	operating	income	in	the	current	quarter	compared	to	the	prior-year	
+quarter	was	due	to	improved	results	at	Direct-to-Consumer	and	Content	Sales/Licensing	and	Other,	
+partially	offset	by	a	decrease	at	Linear	Networks.
+Linear	Networks
+Linear	Networks	revenues	and	operating	income	are	as	follows:
+	 Quarter	Ended
+Change($	in	millions)
+September	28,
+2024
+September	30,
+2023
+Revenue
+Domestic	 $	 1,997	 $	 2,099	 	 (5)	 	%
+International 	 464	 	 529	 	 (12)	 	%
+$	 2,461	 $	 2,628	 	 (6)	 	%
+Operating	income
+Domestic	 $	 347	 $	 529	 	 (34)	 	%
+International	 	 52	 	 114	 	 (54)	 	%
+Equity	in	the	income	of	investees 	 99	 	 162	 	 (39)	 	%
+$	 498	 $	 805	 	 (38)	 	%
+Domestic
+Domestic	operating	income	in	the	current	quarter	decreased	compared	to	the	prior-year	quarter	
+due	to:
+• Higher	marketing	costs	primarily	resulting	from	more	season	premieres	in	the	current	quarter	
+reflecting	the	impact	of	guild	strikes	in	the	prior-year	quarter
+5</div></details></section><section class="dl-deck-slide" id="slide-6"><h2>Slide 6</h2><img alt="Original presentation slide 6" height="1109" loading="lazy" src="Presentation_e49b74e0c5005ab6-slide-6.jpg" width="857"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">• Lower	affiliate	revenue	primarily	attributable	to	fewer	subscribers	including	the	impact	of	the	
+non-renewal	of	carriage	of	certain	networks	by	an	affiliate,	partially	offset	by	higher	effective	
+rates
+• A	decline	in	advertising	revenue	resulting	from	a	decrease	in	impressions	reflecting	lower	average	
+viewership,	partially	offset	by	higher	rates	
+• Programming	and	production	costs	were	comparable	to	the	prior-year	quarter	as	higher	average	
+cost	programming	at	ABC	Network,	in	part	due	to	the	impact	of	guild	strikes	in	the	prior-year	
+quarter,	was	largely	offset	by	lower	average	cost	programming	at	our	cable	channels
+International
+The	decrease	in	International	operating	income	was	attributable	to:
+• Lower	affiliate	revenue	primarily	due	to	a	decline	in	effective	rates	and	fewer	subscribers
+• Higher	marketing	costs	
+Equity	in	the	Income	of	Investees
+Income	from	equity	investees	decreased	due	to	lower	income	from	A+E	Television	Networks	(A+E)	
+attributable	to	decreases	in	affiliate	and	advertising	revenue.
+Direct-to-Consumer
+Direct-to-Consumer	revenues	and	operating	income	(loss)	are	as	follows:
+	 Quarter	Ended
+Change($	in	millions)
+September	28,
+2024
+September	30,
+2023
+Revenue $	 5,783			 $	 5,036			 	 15	 		%
+Operating	income	(loss) $	 253			 $	 (420)	 		 nm
+The	improvement	in	operating	results	in	the	current	quarter	compared	to	the	prior-year	quarter	was	
+due	to:	
+• Subscription	revenue	growth	attributable	to	higher	effective	rates	due	to	increases	in	retail	
+pricing	and	subscriber	growth,	partially	offset	by	an	unfavorable	foreign	exchange	impact
+• An	increase	in	advertising	revenue	due	to	higher	impressions,	partially	offset	by	lower	rates
+• Lower	marketing	costs	at	Disney+
+• Higher	technology	and	distribution	costs
+• An	increase	in	programming	and	production	costs	reflecting:
+◦ Higher	subscriber-based	fees	for	programming	the	Hulu	Live	TV	service	attributable	to	rate	
+increases
+◦ Lower	costs	for	non-sports	content	attributable	to	a	decrease	at	Disney+,	partially	offset	by	an	
+increase	at	Hulu
+6</div></details></section><section class="dl-deck-slide" id="slide-7"><h2>Slide 7</h2><img alt="Original presentation slide 7" height="1109" loading="lazy" src="Presentation_e49b74e0c5005ab6-slide-7.jpg" width="857"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">Key	Metrics	-	Fourth	Quarter	of	Fiscal	2024	Comparison	to	Third	Quarter	of	Fiscal	2024
+In	addition	to	revenue,	costs	and	operating	income,	management	uses	the	following	key	metrics(1)	to	
+analyze	trends	and	evaluate	the	overall	performance	of	our	Disney+	and	Hulu	direct-to-consumer	(DTC)	
+product	offerings,	and	we	believe	these	metrics	are	useful	to	investors	in	analyzing	the	business.	The	
+following	tables	and	related	discussion	are	on	a	sequential	quarter	basis.
+Paid	subscribers	at:
+(in	millions)	
+September	28,
+2024
+June	29,
+2024 Change
+Disney+
+Domestic	(U.S.	and	Canada) 	 56.0	 	 54.8	 	 2	 		%
+International	(excluding	Disney+	Hotstar) 	 66.7	 	 63.5	 	 5	 		%
+Disney+	Core(2) 	 122.7	 	 118.3	 	 4	 		%
+Disney+	Hotstar 	 35.9	 	 35.5	 	 1	 		%
+Hulu
+SVOD	Only 	 47.4	 	 46.7	 	 1	 		%
+Live	TV	+	SVOD 	 4.6	 	 4.4	 	 5	 		%
+Total	Hulu(2) 	 52.0	 	 51.1	 	 2	 		%
+Average	Monthly	Revenue	Per	Paid	Subscriber	for	the	quarter	ended:
+September	28,
+2024
+June	29,
+2024 Change
+Disney+
+Domestic	(U.S.	and	Canada) $	 7.70	 $	 7.74	 	 (1)	 	%
+International	(excluding	Disney+	Hotstar) 	 6.95	 	 6.78	 	 3	 		%
+Disney+	Core 	 7.30	 	 7.22	 	 1	 		%
+Disney+	Hotstar 	 0.78	 	 1.05	 	 (26)	 	%
+Hulu
+SVOD	Only 	 12.54	 	 12.73	 	 (1)	 	%
+Live	TV	+	SVOD 	 95.82	 	 96.11	 	 —	 		%
+(1) See	discussion	on	page	17—DTC	Product	Descriptions	and	Key	Definitions
+(2) Total	may	not	equal	the	sum	of	the	column	due	to	rounding
+Domestic	Disney+	average	monthly	revenue	per	paid	subscriber	decreased	from	$7.74	to	$7.70	due	
+to	a	higher	mix	of	subscribers	to	ad-supported	and	wholesale	offerings,	partially	offset	by	higher	
+advertising	revenue.
+International	Disney+	(excluding	Disney+	Hotstar)	average	monthly	revenue	per	paid	subscriber	
+increased	from	$6.78	to	$6.95	due	to	higher	retail	pricing,	partially	offset	by	a	higher	mix	of	subscribers	
+to	ad-supported	and	wholesale	offerings	and	an	unfavorable	foreign	exchange	impact.
+Disney+	Hotstar	average	monthly	revenue	per	paid	subscriber	decreased	from	$1.05	to	$0.78	due	to	
+lower	advertising	revenue.
+Hulu	SVOD	Only	average	monthly	revenue	per	paid	subscriber	decreased	from	$12.73	to	$12.54	
+primarily	due	to	a	higher	mix	of	subscribers	to	multi-product	offerings	and	lower	advertising	revenue.	
+7</div></details></section><section class="dl-deck-slide" id="slide-8"><h2>Slide 8</h2><img alt="Original presentation slide 8" height="1109" loading="lazy" src="Presentation_e49b74e0c5005ab6-slide-8.jpg" width="857"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">Content	Sales/Licensing	and	Other
+Content	Sales/Licensing	and	Other	revenues	and	operating	income	(loss)	are	as	follows:
+	 Quarter	Ended
+Change($	in	millions)
+September	28,
+2024
+September	30,
+2023
+Revenue $	 2,585			 $	 1,860			 	 39	 		%
+Operating	income	(loss) $	 316			 $	 (149)	 		 nm
+The	improvement	in	operating	results	was	primarily	due	to	higher	theatrical	distribution	results	
+reflecting	the	strong	performance	of	Inside	Out	2	and	Deadpool	&amp;	Wolverine	in	the	current	quarter.	The	
+prior-year	quarter	included	Haunted	Mansion.
+Sports
+Sports	revenues	and	operating	income	(loss)	are	as	follows:
+	 Quarter	Ended
+Change($	in	millions)
+September	28,
+2024
+September	30,
+2023
+Revenue
+ESPN
+Domestic $	 3,492	 $	 3,455	 	 1	 		%
+International	 	 364	 	 363	 	 —	 		%
+	 3,856	 	 3,818	 	 1	 		%
+Star	India 	 58	 	 92	 	 (37)	 	%
+$	 3,914	 $	 3,910	 	 —	 		%
+Operating	income	(loss)
+ESPN
+Domestic $	 936		 $	 987		 	 (5)	 	%
+International	 	 (40)	 	 	 (34)	 	 	 (18)	 	%
+	 896		 	 953		 	 (6)	 	%
+Star	India 	 20		 	 12		 	 	67	 		%
+Equity	in	the	income	of	investees 	 13		 	 16		 	 (19)	 	%
+$	 929		 $	 981		 	 (5)	 	%
+Domestic	ESPN
+The	decrease	in	domestic	ESPN	operating	results	in	the	current	quarter	compared	to	the	prior-year	
+quarter	was	due	to:
+• Higher	programming	and	production	costs	attributable	to	an	increase	in	college	football	rights	
+costs	and	higher	production	costs,	partially	offset	by	lower	NFL	rights	costs	as	a	result	of	airing	
+one	fewer	game	in	the	current	quarter
+• Lower	affiliate	revenue	due	to	fewer	subscribers,	partially	offset	by	higher	effective	rates
+• Advertising	revenue	growth	reflecting	increases	in	rates	and	sponsorship	revenue,	partially	offset	
+by	lower	average	viewership
+• Growth	in	subscription	revenue	due	to	higher	effective	rates	attributable	to	an	increase	in	retail	
+pricing
+8</div></details></section><section class="dl-deck-slide" id="slide-9"><h2>Slide 9</h2><img alt="Original presentation slide 9" height="1109" loading="lazy" src="Presentation_e49b74e0c5005ab6-slide-9.jpg" width="857"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">Key	Metrics	-	Fourth	Quarter	of	Fiscal	2024	Comparison	to	Third	Quarter	of	Fiscal	2024
+In	addition	to	revenue,	costs	and	operating	income,	management	uses	the	following	key	metrics(1)	to	
+analyze	trends	and	evaluate	the	overall	performance	of	our	ESPN+	DTC	product	offering,	and	we	believe	
+these	metrics	are	useful	to	investors	in	analyzing	the	business.	The	following	table	and	related	discussion	
+are	on	a	sequential	quarter	basis.
+September	28,
+2024
+June	29,
+2024 Change
+Paid	subscribers	at:	(in	millions) 	 25.6	 	 24.9	 	 3	 		%
+Average	Monthly	Revenue	Per	Paid	Subscriber	for	the	quarter	
+ended: $	 5.94	 $	 6.23	 	 (5)	 	%
+(1) See	discussion	on	page	17—DTC	Product	Descriptions	and	Key	Definitions
+The	decrease	in	ESPN+	average	monthly	revenue	per	paid	subscriber	was	due	to	lower	advertising	
+revenue	and	a	higher	mix	of	subscribers	to	wholesale	and	multi-product	offerings.
+Experiences
+Experiences	revenues	and	operating	income	are	as	follows:
+Quarter	Ended
+Change($	in	millions)
+September	28,
+2024
+September	30,
+2023
+Revenue
+Parks	&amp;	Experiences
+Domestic $	 5,521			 $	 5,384			 	 3	 		%
+International 	 1,583			 	 1,665			 	 (5)	 	%
+Consumer	Products 	 1,136			 	 1,111			 	 2	 		%
+$	 8,240			 $	 8,160			 	 1	 		%
+Operating	income
+Parks	&amp;	Experiences
+Domestic $	 847			 $	 808			 	 5	 		%
+International 	 299			 	 441			 	 (32)	 	%
+Consumer	Products 	 513			 	 510			 	 1	 		%
+$	 1,659			 $	 1,759			 	 (6)	 	%
+Domestic	Parks	and	Experiences
+The	increase	in	operating	income	at	our	domestic	parks	and	experiences	reflected:	
+• Guest	spending	growth	attributable	to	increases	in	per	capita	guest	spending	at	our	theme	parks	
+and	cruise	line
+• Lower	sales	of	Disney	Vacation	Club	units
+• Higher	costs	primarily	due	to	inflation,	new	guest	offerings,	increased	technology	spending	and	
+higher	operations	support	costs,	partially	offset	by	the	comparison	to	depreciation	in	the	prior-
+year	quarter	related	to	the	closure	of	Star	Wars:	Galactic	Starcruiser
+International	Parks	and	Experiences
+International	parks	and	experiences’	operating	results	decreased	compared	to	the	prior-year	
+quarter	due	to:	
+• Lower	volumes	attributable	to	declines	in	attendance	
+• An	increase	in	costs	primarily	due	to	new	guest	offerings	and	higher	depreciation
+9</div></details></section><section class="dl-deck-slide" id="slide-10"><h2>Slide 10</h2><img alt="Original presentation slide 10" height="1109" loading="lazy" src="Presentation_e49b74e0c5005ab6-slide-10.jpg" width="857"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">• A	decrease	in	guest	spending	due	to	lower	theme	park	per	capita	guest	spending,	partially	offset	
+by	an	increase	in	per	room	spending	at	our	resorts
+OTHER	FINANCIAL	INFORMATION
+DTC	Streaming	Businesses
+Revenue	and	operating	income	(loss)	for	our	combined	DTC	streaming	businesses,	which	consist	of	
+the	Direct-to-Consumer	line	of	business	at	the	Entertainment	segment	and	ESPN+	at	the	Sports	segment,	
+are	as	follows:	
+	 Quarter	Ended
+Change
+Year	Ended
+($	in	millions)
+Sept.	28,
+2024
+Sept.	30,
+2023
+Sept.	28,
+2024
+Sept.	30,
+2023 Change
+Revenue $	 6,296			 $	 5,553			 	 13	 		% $	 24,938			 $	 21,926			 	 14	 		%
+Operating	income	(loss)	(1) $	 321			 $	 (387)	 		 nm $	 134			 $	 (2,612)	 		 nm
+(1) DTC	streaming	businesses	operating	income	(loss)	is	not	a	financial	measure	defined	by	GAAP.	The	most	comparable	
+GAAP	measures	are	segment	operating	income	for	the	Entertainment	segment	and	Sports	segment.	See	the	
+discussion	on	page	22	for	how	we	define	and	calculate	this	measure	and	a	reconciliation	of	it	to	the	most	directly	
+comparable	GAAP	measures.
+Corporate	and	Unallocated	Shared	Expenses
+Corporate	and	unallocated	shared	expenses	increased	$115	million	for	the	quarter,	from	$293	
+million	to	$408	million,	driven	by	increased	professional	fees	and	compensation	costs.
+Restructuring	and	Impairment	Charges
+Restructuring	and	impairment	charges	were	as	follows:
+Quarter	Ended
+($	in	millions)
+September	28,
+2024
+September	30,
+2023
+Impairments:
+Goodwill(1)
+$	 584	 $	 721	 
+Retail	assets 	 328	 	 —	 
+Star	India 	 210	 	 —	 
+Content(2)
+	 187	 	 137	 
+Equity	investments 	 165	 	 141	 
+Severance 	 69	 	 22	 
+$	 1,543	 $	 1,021	 
+(1) In	the	current	quarter,	goodwill	impairment	related	to	our	general	entertainment	linear	networks.	In	the	prior-year	
+quarter,	goodwill	impairments	related	to	our	general	entertainment	and	international	sports	linear	networks.
+(2) In	the	current	and	prior-year	quarters,	content	impairments	related	to	strategic	changes	in	our	approach	to	content	
+curation.
+10</div></details></section><section class="dl-deck-slide" id="slide-11"><h2>Slide 11</h2><img alt="Original presentation slide 11" height="1109" loading="lazy" src="Presentation_e49b74e0c5005ab6-slide-11.jpg" width="857"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">Interest	Expense,	net
+Interest	expense,	net	was	as	follows:
+Quarter	Ended
+($	in	millions)
+September	28,
+2024
+September	30,
+2023 Change
+Interest	expense $	 (532)	 		 $	 (501)	 		 	 (6)	 	%
+Interest	income,	investment	income	and	other 	 171	 	 219	 	 (22)	 	%
+Interest	expense,	net $	 (361)	 $	 (282)	 	 (28)	 	%
+The	increase	in	interest	expense	was	primarily	due	to	lower	capitalized	interest.
+The	decrease	in	interest	income,	investment	income	and	other	reflected	the	impact	of	lower	cash	
+and	cash	equivalent	balances,	partially	offset	by	lower	investment	losses	and	a	favorable	comparison	of	
+pension	and	postretirement	benefit	costs,	other	than	service	cost.
+Equity	in	the	Income	of	Investees
+Equity	in	the	income	of	investees	was	as	follows:
+Quarter	Ended
+($	in	millions)
+September	28,
+2024
+September	30,
+2023 Change
+Amounts	included	in	segment	results:
+Entertainment $	 97			 $	 158			 	 (39)	 	%
+Sports 	 13	 	 16	 	 (19)	 	%
+A+E	gain(1) 	 —	 	 56	 	 (100)	 	%
+Amortization	of	TFCF	Corporation	(TFCF)	intangible	assets	
+related	to	an	equity	investee 	 (3)	 	 (3)	 	 —	 		%
+Equity	in	the	income	of	investees $	 107	 $	 227	 	 (53)	 	%
+(1) Restructuring	and	impairment	charges	included	the	impact	of	a	content	license	agreement	termination	with	A+E,	
+which	generated	a	gain	at	A+E.	The	Company’s	50%	interest	in	this	gain	was	$56	million	(A+E	gain)	in	the	prior-year	
+quarter.
+Income	from	equity	investees	decreased	$120	million,	to	$107	million	from	$227	million,	due	to	
+lower	income	from	A+E.
+Income	Taxes
+The	effective	income	tax	rate	was	as	follows:
+Quarter	Ended
+September	28,
+2024
+September	30,
+2023
+Income	before	income	taxes $	 948	 	 $	 1,007	 	
+Income	tax	expense 	 384	 	 	 313	 	
+Effective	income	tax	rate 	 40.5	% 	 31.1	%	
+The	increase	in	effective	income	tax	rate	was	due	to	the	impact	from	adjustments	related	to	prior	
+years	and	an	unfavorable	impact	from	higher	non-tax	deductible	impairments	in	the	current	quarter	
+compared	to	the	prior-year	quarter.	Adjustments	related	to	prior	years	were	favorable	in	the	prior-year	
+quarter	and	unfavorable	in	the	current	quarter.
+11</div></details></section><section class="dl-deck-slide" id="slide-12"><h2>Slide 12</h2><img alt="Original presentation slide 12" height="1109" loading="lazy" src="Presentation_e49b74e0c5005ab6-slide-12.jpg" width="857"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">Noncontrolling	Interests
+Net	income	attributable	to	noncontrolling	interests	was	as	follows:
+Quarter	Ended
+($	in	millions)
+September	28,
+2024
+September	30,
+2023 Change
+Net	income	attributable	to	noncontrolling	interests $	 (104)	 $	 (430)	 	 76	 		%
+The	decrease	in	net	income	attributable	to	noncontrolling	interests	was	due	to	the	comparison	to	
+the	accretion	of	NBC	Universal’s	interest	in	Hulu	in	the	prior-year	quarter	as	we	had	accreted	to	the	full	
+guaranteed	redemption	value	by	December	2023.	The	decrease	was	also	due	to	lower	results	at	
+Shanghai	Disney	Resort	and	National	Geographic.
+Net	income	attributable	to	noncontrolling	interests	is	determined	on	income	after	royalties	and	
+management	fees,	financing	costs	and	income	taxes,	as	applicable.
+FULL	YEAR	CASH	FLOW
+Cash	from	Operations
+Cash	provided	by	operations	and	free	cash	flow	were	as	follows:
+	 Year	Ended
+($	in	millions)
+September	28,
+2024
+September	30,
+2023 Change
+Cash	provided	by	operations $	 13,971			 $	 9,866			 $	 4,105			
+Investments	in	parks,	resorts	and	other	property 	 (5,412)	 	 (4,969)	 	 (443)	 
+Free	cash	flow(1) $	 8,559	 $	 4,897	 $	 3,662	 
+(1) Free	cash	flow	is	not	a	financial	measure	defined	by	GAAP.	The	most	comparable	GAAP	measure	is	cash	provided	by	
+operations.	See	the	discussion	on	pages	18	through	22.
+Cash	provided	by	operations	increased	$4.1	billion	to	$14.0	billion	in	the	current	year	from	$9.9	
+billion	in	the	prior	year	driven	by:
+• Lower	film	and	television	production	spending	and	the	timing	of	payments	for	sports	rights
+• Collateral	receipts	related	to	our	hedging	program	in	the	current	year	compared	to	collateral	
+payments	in	the	prior	year
+• Higher	operating	income	at	Entertainment	
+• A	payment	in	the	prior	year	related	to	the	termination	of	content	licenses	in	fiscal	2022
+• Higher	cash	tax	payments	in	fiscal	2024	compared	to	fiscal	2023.	Fiscal	2023	U.S.	federal	and	
+California	state	tax	payments	were	deferred	and	paid	in	fiscal	2024	pursuant	to	relief	provided	by	
+the	Internal	Revenue	Service	and	California	State	Board	of	Equalization	as	a	result	of	2023	winter	
+storms	in	California.	In	addition,	a	portion	of	fiscal	2024	U.S.	federal	and	Florida	state	taxes	was	
+paid	in	fiscal	2024	and	the	remainder	has	been	deferred	to	fiscal	2025	pursuant	to	relief	provided	
+by	the	Internal	Revenue	Service	and	Florida	Department	of	Revenue	as	a	result	of	2024	
+hurricanes	in	Florida.
+12</div></details></section><section class="dl-deck-slide" id="slide-13"><h2>Slide 13</h2><img alt="Original presentation slide 13" height="1109" loading="lazy" src="Presentation_e49b74e0c5005ab6-slide-13.jpg" width="857"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">Capital	Expenditures
+Investments	in	parks,	resorts	and	other	property	were	as	follows:
+	 Year	Ended
+($	in	millions)
+September	28,
+2024
+September	30,
+2023
+Entertainment $	 977	 $	 1,032	 
+Sports 	 10	 	 15	 
+Experiences
+Domestic 	 2,710	 	 2,203	 
+International 	 949	 	 822	 
+Total	Experiences 	 3,659	 	 3,025	 
+Corporate 	 766	 	 897	 
+Total	investments	in	parks,	resorts	and	other	property $	 5,412	 $	 4,969	 
+Capital	expenditures	increased	to	$5.4	billion	from	$5.0	billion	due	to	higher	spend	on	cruise	ship	
+fleet	expansion	and	new	attractions	at	the	Experiences	segment,	partially	offset	by	lower	spend	on	
+Corporate	facilities.	
+Depreciation	Expense
+Depreciation	expense	was	as	follows:
+	 Year	Ended
+($	in	millions)
+September	28,
+2024
+September	30,
+2023
+Entertainment $	 681	 $	 669	 
+Sports 	 39	 	 73	 
+Experiences
+Domestic 	 1,744	 	 2,011	 
+International 	 726	 	 669	 
+Total	Experiences 	 2,470	 	 2,680	 
+Corporate 	 244	 	 204	 
+Total	depreciation	expense $	 3,434	 $	 3,626	 
+13</div></details></section><section class="dl-deck-slide" id="slide-14"><h2>Slide 14</h2><img alt="Original presentation slide 14" height="1109" loading="lazy" src="Presentation_e49b74e0c5005ab6-slide-14.jpg" width="857"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">THE	WALT	DISNEY	COMPANY
+CONDENSED	CONSOLIDATED	STATEMENTS	OF	INCOME
+(unaudited;	$	in	millions,	except	per	share	data)
+	
+	 Quarter	Ended Year	Ended
+	
+September	28,
+2024
+September	30,
+2023
+September	28,
+2024
+September	30,
+2023
+Revenues $	 22,574				 $	 21,241				 $	 91,361				 $	 88,898				
+Costs	and	expenses 	 (19,829)	 	 (19,158)	 	 (79,447)	 	 (79,906)	 
+Restructuring	and	impairment	charges 	 (1,543)	 	 (1,021)	 	 (3,595)	 	 (3,892)	 
+Other	income	(expense),	net 	 —	 	 —	 	 (65)	 	 96	 
+Interest	expense,	net 	 (361)	 	 (282)	 	 (1,260)	 	 (1,209)	 
+Equity	in	the	income	of	investees 	 107	 	 227	 	 575	 	 782	 
+Income	before	income	taxes 	 948	 	 1,007	 	 7,569	 	 4,769	 
+Income	taxes 	 (384)	 	 (313)	 	 (1,796)	 	 (1,379)	 
+Net	income 	 564	 	 694	 	 5,773	 	 3,390	 
+Net	income	attributable	to	noncontrolling	interests 	 (104)	 	 (430)	 	 (801)	 	 (1,036)	 
+Net	income	attributable	to	The	Walt	Disney	Company	(Disney) $	 460	 $	 264	 $	 4,972	 $	 2,354	 
+Earnings	per	share	attributable	to	Disney:
+Diluted $	 0.25	 $	 0.14	 $	 2.72	 $	 1.29	 
+Basic $	 0.25	 $	 0.14	 $	 2.72	 $	 1.29	 
+Weighted	average	number	of	common	and	common	
+equivalent	shares	outstanding:
+Diluted 	 1,819	 	 1,833	 	 1,831	 	 1,830	 
+Basic 	 1,814	 	 1,831	 	 1,825	 	 1,828	 
+14</div></details></section><section class="dl-deck-slide" id="slide-15"><h2>Slide 15</h2><img alt="Original presentation slide 15" height="1109" loading="lazy" src="Presentation_e49b74e0c5005ab6-slide-15.jpg" width="857"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">THE	WALT	DISNEY	COMPANY
+CONDENSED	CONSOLIDATED	BALANCE	SHEETS
+(unaudited;	$	in	millions,	except	per	share	data)
+September	28,
+2024
+September	30,
+2023
+ASSETS
+Current	assets
+Cash	and	cash	equivalents $	 6,002			 $	 14,182			
+Receivables,	net 	 12,729	 	 12,330	 
+Inventories 	 2,022	 	 1,963	 
+Content	advances 	 2,097	 	 3,002	 
+Other	current	assets 	 2,391	 	 1,286	 
+Total	current	assets 	 25,241	 	 32,763	 
+Produced	and	licensed	content	costs 	 32,312	 	 33,591	 
+Investments 	 4,459	 	 3,080	 
+Parks,	resorts	and	other	property
+Attractions,	buildings	and	equipment 	 76,674	 	 70,090	 
+Accumulated	depreciation 	 (45,506)	 	 (42,610)	 
+	 31,168	 	 27,480	 
+Projects	in	progress 	 4,728	 	 6,285	 
+Land 	 1,145	 	 1,176	 
+	 37,041	 	 34,941	 
+Intangible	assets,	net 	 10,739	 	 13,061	 
+Goodwill 	 73,326	 	 77,067	 
+Other	assets 	 13,101	 	 11,076	 
+Total	assets $	 196,219	 $	 205,579	 
+LIABILITIES	AND	EQUITY
+Current	liabilities
+Accounts	payable	and	other	accrued	liabilities $	 21,070	 $	 20,671	 
+Current	portion	of	borrowings 	 6,845	 	 4,330	 
+Deferred	revenue	and	other 	 6,684	 	 6,138	 
+Total	current	liabilities 	 34,599	 	 31,139	 
+Borrowings 	 38,970	 	 42,101	 
+Deferred	income	taxes 	 6,277	 	 7,258	 
+Other	long-term	liabilities 	 10,851	 	 12,069	 
+Commitments	and	contingencies
+Redeemable	noncontrolling	interests 	 —	 	 9,055	 
+Equity
+Preferred	stock 	 —	 	 —	 
+Common	stock,	$0.01	par	value,	Authorized	–	4.6	billion	shares,	Issued	–	1.9	billion	shares	at	September	28,	
+2024	and	1.8	billion	shares	at	September	30,	2023 	 58,592	 	 57,383	 
+Retained	earnings 	 49,722	 	 46,093	 
+Accumulated	other	comprehensive	loss 	 (3,699)	 	 (3,292)	 
+Treasury	stock,	at	cost,	47	million	shares	at	September	28,	2024	and	19	million	shares	at	September	30,	
+2023 	 (3,919)	 	 (907)	 
+Total	Disney	Shareholders’	equity 	 100,696	 	 99,277	 
+Noncontrolling	interests 	 4,826	 	 4,680	 
+Total	equity 	 105,522	 	 103,957	 
+Total	liabilities	and	equity $	 196,219	 $	 205,579	 
+15</div></details></section><section class="dl-deck-slide" id="slide-16"><h2>Slide 16</h2><img alt="Original presentation slide 16" height="1109" loading="lazy" src="Presentation_e49b74e0c5005ab6-slide-16.jpg" width="857"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">THE	WALT	DISNEY	COMPANY
+CONDENSED	CONSOLIDATED	STATEMENTS	OF	CASH	FLOWS
+(unaudited;	$	in	millions)
+	
+	 Year	Ended
+	
+September	28,
+2024
+September	30,
+2023
+OPERATING	ACTIVITIES
+Net	income $	 5,773			 $	 3,390			
+Depreciation	and	amortization 	 4,990	 	 5,369	 
+Impairments	of	goodwill,	produced	and	licensed	content	and	other	assets 	 3,511	 	 3,128	 
+Net	(gain)/loss	on	investments 	 5	 	 (166)	 
+Deferred	income	taxes 	 (821)	 	 (1,346)	 
+Equity	in	the	income	of	investees 	 (575)	 	 (782)	 
+Cash	distributions	received	from	equity	investees 	 437	 	 720	 
+Net	change	in	produced	and	licensed	content	costs	and	advances 	 1,046	 	 (1,908)	 
+Equity-based	compensation 	 1,366	 	 1,143	 
+Pension	and	postretirement	medical	cost	amortization 	 (96)	 	 4	 
+Other,	net 	 (52)	 	 137	 
+Changes	in	operating	assets	and	liabilities
+Receivables 	 (565)	 	 358	 
+Inventories 	 (42)	 	 (183)	 
+Other	assets 	 265	 	 (201)	 
+Accounts	payable	and	other	liabilities 	 156	 	 (1,142)	 
+Income	taxes 	 (1,427)	 	 1,345	 
+Cash	provided	by	operations 	 13,971	 	 9,866	 
+INVESTING	ACTIVITIES
+Investments	in	parks,	resorts	and	other	property 	 (5,412)	 	 (4,969)	 
+Proceeds	from	sales	of	investments 	 105	 	 458	 
+Purchase	of	investments 	 (1,506)	 	 —	 
+Other,	net 	 (68)	 	 (130)	 
+Cash	used	in	investing	activities 	 (6,881)	 	 (4,641)	 
+FINANCING	ACTIVITIES
+Commercial	paper	borrowings	(payments),	net 	 1,532	 	 (191)	 
+Borrowings 	 132	 	 83	 
+Reduction	of	borrowings 	 (3,064)	 	 (1,675)	 
+Dividends 	 (1,366)	 	 —	 
+Repurchases	of	common	stock 	 (2,992)	 	 —	 
+Contributions	from	noncontrolling	interests 	 9	 	 735	 
+Acquisition	of	redeemable	noncontrolling	interests 	 (8,610)	 	 (900)	 
+Other,	net 	 (929)	 	 (776)	 
+Cash	used	in	financing	activities	 	 (15,288)	 	 (2,724)	 
+Impact	of	exchange	rates	on	cash,	cash	equivalents	and	restricted	cash 	 65	 	 73	 
+Change	in	cash,	cash	equivalents	and	restricted	cash 	 (8,133)	 	 2,574	 
+Cash,	cash	equivalents	and	restricted	cash,	beginning	of	year 	 14,235	 	 11,661	 
+Cash,	cash	equivalents	and	restricted	cash,	end	of	year $	 6,102	 $	 14,235	 
+16</div></details></section><section class="dl-deck-slide" id="slide-17"><h2>Slide 17</h2><img alt="Original presentation slide 17" height="1109" loading="lazy" src="Presentation_e49b74e0c5005ab6-slide-17.jpg" width="857"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">DTC	PRODUCT	DESCRIPTIONS	AND	KEY	DEFINITIONS
+Product	offerings
+In	the	U.S.,	Disney+,	ESPN+	and	Hulu	SVOD	Only	are	each	offered	as	a	standalone	service	or	as	part	
+of	various	multi-product	offerings.	Hulu	Live	TV	+	SVOD	includes	Disney+	and	ESPN+.	Disney+	is	available	
+in	more	than	150	countries	and	territories	outside	the	U.S.	and	Canada.	In	India	and	certain	other	
+Southeast	Asian	countries,	the	service	is	branded	Disney+	Hotstar.	In	certain	Latin	American	countries	
+prior	to	July	2024,	we	offered	Disney+	as	well	as	Star+,	a	general	entertainment	SVOD	service,	which	was	
+available	on	a	standalone	basis	or	together	with	Disney+	(Combo+).	At	the	end	of	June	2024,	we	merged	
+these	services	into	a	single	Disney+	product	offering.	Depending	on	the	market,	our	services	can	be	
+purchased	on	our	websites	or	through	third-party	platforms/apps	or	are	available	via	wholesale	
+arrangements.	
+Paid	subscribers
+Paid	subscribers	reflect	subscribers	for	which	we	recognized	subscription	revenue.	Certain	product	
+offerings	provide	the	option	for	an	extra	member	to	be	added	to	an	account	(extra	member	add-on).	
+These	extra	members	are	not	counted	as	paid	subscribers.	Subscribers	cease	to	be	a	paid	subscriber	as	of	
+their	effective	cancellation	date	or	as	a	result	of	a	failed	payment	method.	Subscribers	to	multi-product	
+offerings	in	the	U.S.	are	counted	as	a	paid	subscriber	for	each	of	the	Company's	services	included	in	the	
+multi-product	offering	and	subscribers	to	Hulu	Live	TV	+	SVOD	are	counted	as	one	paid	subscriber	for	
+each	of	the	Hulu	Live	TV	+	SVOD,	Disney+	and	ESPN+	services.	In	Latin	America	prior	to	July	2024,	if	a	
+subscriber	had	either	the	standalone	Disney+	or	Star+	service	or	subscribed	to	Combo+,	the	subscriber	
+was	counted	as	one	Disney+	paid	subscriber.	Subscribers	include	those	who	receive	an	entitlement	to	a	
+service	through	wholesale	arrangements,	including	those	for	which	the	service	is	available	to	each	
+subscriber	of	an	existing	content	distribution	tier.	When	we	aggregate	the	total	number	of	paid	
+subscribers	across	our	DTC	streaming	services,	we	refer	to	them	as	paid	subscriptions.
+International	Disney+	(excluding	Disney+	Hotstar)
+International	Disney+	(excluding	Disney+	Hotstar)	includes	the	Disney+	service	outside	the	U.S.	and	
+Canada.
+Average	Monthly	Revenue	Per	Paid	Subscriber
+Hulu	and	ESPN+	average	monthly	revenue	per	paid	subscriber	is	calculated	based	on	the	average	of	
+the	monthly	average	paid	subscribers	for	each	month	in	the	period.	The	monthly	average	paid	
+subscribers	is	calculated	as	the	sum	of	the	beginning	of	the	month	and	end	of	the	month	paid	subscriber	
+count,	divided	by	two.	Disney+	average	monthly	revenue	per	paid	subscriber	is	calculated	using	a	daily	
+average	of	paid	subscribers	for	the	period.	<mark class="dl-cited" data-concept="Revenue" data-topic-idx="0" id="dl-thl-0-1">Revenue	includes	subscription	fees,	advertising	(excluding	
+revenue	earned	from	selling	advertising	spots	to	other	Company	businesses),	premium	and	feature	add-
+on	revenue	and	extra	member	add-on	revenue	but	excludes	Pay-Per-View	revenue.</mark>	Advertising	revenue	
+generated	by	content	on	one	DTC	streaming	service	that	is	accessed	through	another	DTC	streaming	
+service	by	subscribers	to	both	streaming	services	is	allocated	between	both	streaming	services.	<mark class="dl-cited" data-concept="Revenue" data-topic-idx="0" id="dl-thl-0-3">The	
+average	revenue	per	paid	subscriber	is	net	of	discounts	on	offerings	that	carry	more	than	one	service.</mark>	
+<mark class="dl-cited" data-concept="Revenue" data-topic-idx="0" id="dl-thl-0-0">Revenue	is	allocated	to	each	service	based	on	the	relative	retail	or	wholesale	price	of	each	service	on	a	
+standalone	basis.</mark>	Hulu	Live	TV	+	SVOD	revenue	is	allocated	to	the	SVOD	services	based	on	the	wholesale	
+price	of	the	Hulu	SVOD	Only,	Disney+	and	ESPN+	multi-product	offering.	In	general,	wholesale	
+arrangements	have	a	lower	average	monthly	revenue	per	paid	subscriber	than	subscribers	that	we	
+acquire	directly	or	through	third-party	platforms.
+17</div></details></section><section class="dl-deck-slide" id="slide-18"><h2>Slide 18</h2><img alt="Original presentation slide 18" height="1109" loading="lazy" src="Presentation_e49b74e0c5005ab6-slide-18.jpg" width="857"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">NON-GAAP	FINANCIAL	MEASURES
+This	earnings	release	presents	diluted	EPS	excluding	certain	items	(also	referred	to	as	adjusted	EPS),	
+total	segment	operating	income,	free	cash	flow	and	DTC	streaming	businesses	operating	income	(loss).	
+This	earnings	release	also	presents	forward-looking	operating	margin	for	Entertainment	SVOD	DTC	
+businesses	(excluding	our	Hulu	Live	DMVPD	service),	which	is	calculated	as	operating	income	divided	by	
+revenue.	Diluted	EPS	excluding	certain	items,	total	segment	operating	income,	free	cash	flow,	DTC	
+streaming	businesses	operating	income	(loss)	and	operating	income	for	Entertainment	SVOD	DTC	
+businesses	(excluding	our	Hulu	Live	DMVPD	service)	are	important	financial	measures	for	the	Company	
+but	are	not	financial	measures	defined	by	GAAP.	
+These	measures	should	be	reviewed	in	conjunction	with	the	most	comparable	GAAP	financial	
+measures	and	are	not	presented	as	alternative	measures	of	diluted	EPS,	income	before	income	taxes,	
+cash	provided	by	operations,	Entertainment	and	Sports	segment	operating	income	(loss)	or	
+Entertainment	segment	operating	income	as	determined	in	accordance	with	GAAP.	Diluted	EPS	excluding	
+certain	items,	total	segment	operating	income,	free	cash	flow,	DTC	streaming	businesses	operating	
+income	(loss)	and	operating	income	(and	related	margin)	for	Entertainment	SVOD	DTC	businesses	
+(excluding	our	Hulu	Live	DMVPD	service)	as	we	have	calculated	them	may	not	be	comparable	to	similarly	
+titled	measures	reported	by	other	companies.
+Our	definitions	and	calculations	of	diluted	EPS	excluding	certain	items,	total	segment	operating	
+income,	free	cash	flow	and	DTC	streaming	businesses	operating	income	(loss),	as	well	as	quantitative	
+reconciliations	of	each	of	these	measures	to	the	most	directly	comparable	GAAP	financial	measure,	are	
+provided	below.	In	addition,	our	definition	of	operating	income	(and	related	margin)	for	Entertainment	
+SVOD	DTC	businesses	(excluding	our	Hulu	Live	DMVPD	service)	is	provided	below.
+The	Company	is	not	providing	the	forward-looking	measure	for	diluted	EPS	or	Entertainment	
+segment	operating	income	(and	related	margin),	which	are	the	most	directly	comparable	GAAP	
+measures	to	diluted	EPS	excluding	certain	items	and	operating	income	(and	related	margin)	for	
+Entertainment	SVOD	DTC	businesses	(excluding	our	Hulu	Live	DMVPD	service),	respectively,	or	
+quantitative	reconciliations	of	forward-looking	diluted	EPS	excluding	certain	items	and	operating	income	
+(and	related	margin)	for	our	Entertainment	SVOD	DTC	businesses	(excluding	our	Hulu	Live	DMVPD	
+service)	to	those	most	directly	comparable	GAAP	measures.	The	Company	is	unable	to	predict	or	
+estimate	with	reasonable	certainty	the	ultimate	outcome	of	certain	significant	items	required	for	such	
+GAAP	measures	without	unreasonable	effort.	Information	about	other	adjusting	items	that	is	currently	
+not	available	to	the	Company	could	have	a	potentially	unpredictable	and	significant	impact	on	future	
+GAAP	financial	results.
+Diluted	EPS	excluding	certain	items
+The	Company	uses	diluted	EPS	excluding	(1)	certain	items	affecting	comparability	of	results	from	
+period	to	period	and	(2)	amortization	of	TFCF	and	Hulu	intangible	assets,	including	purchase	accounting	
+step-up	adjustments	for	released	content,	to	facilitate	the	evaluation	of	the	performance	of	the	
+Company’s	operations	exclusive	of	these	items,	and	these	adjustments	reflect	how	senior	management	
+is	evaluating	segment	performance.
+The	Company	believes	that	providing	diluted	EPS	exclusive	of	certain	items	impacting	comparability	
+is	useful	to	investors,	particularly	where	the	impact	of	the	excluded	items	is	significant	in	relation	to	
+reported	earnings	and	because	the	measure	allows	for	comparability	between	periods	of	the	operating	
+performance	of	the	Company’s	business	and	allows	investors	to	evaluate	the	impact	of	these	items	
+separately.
+18</div></details></section><section class="dl-deck-slide" id="slide-19"><h2>Slide 19</h2><img alt="Original presentation slide 19" height="1109" loading="lazy" src="Presentation_e49b74e0c5005ab6-slide-19.jpg" width="857"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">The	Company	further	believes	that	providing	diluted	EPS	exclusive	of	amortization	of	TFCF	and	Hulu	
+intangible	assets	associated	with	the	acquisition	in	2019	is	useful	to	investors	because	the	TFCF	and	Hulu	
+acquisition	was	considerably	larger	than	the	Company’s	historic	acquisitions	with	a	significantly	greater	
+acquisition	accounting	impact.
+The	following	table	reconciles	reported	diluted	EPS	to	diluted	EPS	excluding	certain	items	for	the	
+fourth	quarter:
+($	in	millions	except	EPS)
+Pre-Tax	
+Income/
+Loss
+Tax	
+Benefit/
+Expense(1)
+After-Tax	
+Income/
+Loss(2)
+Diluted	
+EPS(3)
+Change	vs.	
+prior-year	
+period
+Quarter	Ended	September	28,	2024
+As	reported $	 948			 $	 (384)	 		 $	 564			 $	 0.25				 	 79	 		%
+Exclude:
+Restructuring	and	impairment	charges(4) 	 1,543	 	 (172)	 	 1,371	 	 0.73	 
+Amortization	of	TFCF	and	Hulu	intangible	
+assets	and	fair	value	step-up	on	film	and	
+television	costs(5) 	 395	 	 (92)	 	 303	 	 0.16	 
+Excluding	certain	items $	 2,886	 $	 (648)	 $	 2,238	 $	 1.14				 	 39	 		%
+Quarter	Ended	September	30,	2023
+As	reported $	 1,007	 $	 (313)	 $	 694	 $	 0.14				
+Exclude:
+Restructuring	and	impairment	charges(4) 	 965	 	 (57)	 	 908	 	 0.50	 
+Amortization	of	TFCF	and	Hulu	intangible	
+assets	and	fair	value	step-up	on	film	and	
+television	costs(5) 	 429	 	 (100)	 	 329	 	 0.18	 
+Excluding	certain	items $	 2,401	 $	 (470)	 $	 1,931	 $	 0.82				
+(1) Tax	benefit/expense	is	determined	using	the	tax	rate	applicable	to	the	individual	item.
+(2) Before	noncontrolling	interest	share.
+(3) Net	of	noncontrolling	interest	share,	where	applicable.	Total	may	not	equal	the	sum	of	the	column	due	to	rounding.
+(4) Charges	for	the	current	quarter	included	impairments	of	goodwill	($584	million),	assets	at	our	retail	business	($328	
+million),	Star	India	($210	million),	content	($187	million)	and	equity	investments	($165	million),	and	severance	costs	
+($69	million).	Charges	for	the	prior-year	quarter	included	impairments	of	goodwill	($721	million),	an	equity	
+investment	($141	million)	and	licensed	content	($137	million)	and	severance	costs	($22	million),	net	of	the	A+E	gain	
+($56	million).
+(5) For	the	current	quarter,	intangible	asset	amortization	was	$326	million,	step-up	amortization	was	$66	million	and	
+amortization	of	intangible	assets	related	to	a	TFCF	equity	investee	was	$3	million.	For	the	prior-year	quarter,	
+intangible	asset	amortization	was	$361	million,	step-up	amortization	was	$65	million	and	amortization	of	intangible	
+assets	related	to	a	TFCF	equity	investee	was	$3	million.
+19</div></details></section><section class="dl-deck-slide" id="slide-20"><h2>Slide 20</h2><img alt="Original presentation slide 20" height="1109" loading="lazy" src="Presentation_e49b74e0c5005ab6-slide-20.jpg" width="857"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">The	following	table	reconciles	reported	diluted	EPS	to	diluted	EPS	excluding	certain	items	for	the	
+year:
+($	in	millions	except	EPS)
+Pre-Tax	
+Income/
+Loss
+Tax	
+Benefit/
+Expense(1)
+After-Tax	
+Income/
+Loss(2)
+Diluted	
+EPS(3)
+Change	vs.	
+prior	year
+Year	Ended	September	28,	2024:
+As	reported $	 7,569			 $	 (1,796)	 		 $	 5,773			 $	 2.72	 	 	 &gt;100	 		%
+Exclude:
+Restructuring	and	impairment	charges(4) 	 3,595	 	 (293)	 	 3,302	 	 1.78	 
+Amortization	of	TFCF	and	Hulu	intangible	
+assets	and	fair	value	step-up	on	film	and	
+television	costs(5) 	 1,677	 	 (391)	 	 1,286	 	 0.68	 	
+Other	expense(6) 	 65	 	 (11)	 	 54	 	 0.03	 	
+Income	Tax	Reserve	Adjustments 	 —	 	 (418)	 	 (418)	 	 (0.23)		
+Excluding	certain	items	 $	 12,906	 $	 (2,909)	 $	 9,997	 $	 4.97	 	 	 32	 		%
+Year	Ended	September	30,	2023:
+As	reported $	 4,769	 $	 (1,379)	 $	 3,390	 $	 1.29			
+Exclude:
+Restructuring	and	impairment	charges(4) 	 3,836	 	 (717)	 	 3,119	 	 1.69			
+Amortization	of	TFCF	and	Hulu	intangible	
+assets	and	fair	value	step-up	on	film	and	
+television	costs(5) 	 1,998	 	 (465)	 	 1,533	 	 0.82			
+Other	income,	net(6) 	 (96)	 	 13	 	 (83)	 	 (0.05)	 
+Excluding	certain	items $	 10,507	 $	 (2,548)	 $	 7,959	 $	 3.76	 	
+(1) Tax	benefit/expense	is	determined	using	the	tax	rate	applicable	to	the	individual	item.
+(2) Before	noncontrolling	interest	share.
+(3) Net	of	noncontrolling	interest	share,	where	applicable.	Total	may	not	equal	the	sum	of	the	column	due	to	rounding.
+(4) Charges	for	the	current	year	included	impairments	of	Star	India	($1,545	million),	goodwill	($1,287	million),	assets	at	
+our	retail	business	($328	million),	content	($187	million)	and	equity	investments	($165	million),	and	severance	costs	
+($83	million).	Charges	for	the	prior	year	included	content	impairments	($2,577	million),	severance	costs	($357	
+million),	impairments	of	goodwill	($721	million)	and	an	equity	investment	($141	million),	and	costs	related	to	exiting	
+our	businesses	in	Russia	($69	million),	net	of	the	A+E	gain	($56	million).
+(5) For	the	current	year,	intangible	asset	amortization	was	$1,394	million,	step-up	amortization	was	$271	million	and	
+amortization	of	intangible	assets	related	to	a	TFCF	equity	investee	was	$12	million.	For	the	prior	year,	intangible	
+asset	amortization	was	$1,547	million,	step-up	amortization	was	$439	million	and	amortization	of	intangible	assets	
+related	to	a	TFCF	equity	investee	was	$12	million.
+(6) For	the	current	year,	other	expense	was	due	to	a	charge	related	to	a	legal	ruling	($65	million).	For	the	prior	year,	
+other	income,	net	was	due	to	a	gain	on	our	investment	in	DraftKings	($169	million),	partially	offset	by	a	charge	
+related	to	a	legal	ruling	($101	million).
+20</div></details></section><section class="dl-deck-slide" id="slide-21"><h2>Slide 21</h2><img alt="Original presentation slide 21" height="1109" loading="lazy" src="Presentation_e49b74e0c5005ab6-slide-21.jpg" width="857"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">Total	segment	operating	income
+The	Company	evaluates	the	performance	of	its	operating	segments	based	on	segment	operating	
+income,	and	management	uses	total	segment	operating	income	(the	sum	of	segment	operating	income	
+from	all	of	the	Company’s	segments)	as	a	measure	of	the	performance	of	operating	businesses	separate	
+from	non-operating	factors.	The	Company	believes	that	information	about	total	segment	operating	
+income	assists	investors	by	allowing	them	to	evaluate	changes	in	the	operating	results	of	the	Company’s	
+portfolio	of	businesses	separate	from	non-operational	factors	that	affect	net	income,	thus	providing	
+separate	insight	into	both	operations	and	other	factors	that	affect	reported	results.
+The	following	table	reconciles	income	before	income	taxes	to	total	segment	operating	income:
+	 Quarter	Ended Year	Ended
+($	in	millions)
+Sept.	28,
+2024
+Sept.	30,
+2023 Change
+Sept.	28,
+2024
+Sept.	30,
+2023 Change
+Income	before	income	taxes $	 948			 $	 1,007			 	 (6)	 	% $	 7,569			 $	 4,769			 	 59	 		%
+Add	(subtract):
+Corporate	and	unallocated	
+shared	expenses 	 408	 	 293	 	 (39)	 	% 	 1,435	 	 1,147	 	 (25)	 	%
+Restructuring	and	impairment	
+charges 	 1,543	 	 965	 	 (60)	 	% 	 3,595	 	 3,836	 	 6	 		%
+Other	(income)	expense,	net 	 —	 	 —	 	 —	 		% 	 65	 	 (96)	 nm
+Interest	expense,	net 	 361	 	 282	 	 (28)	 	% 	 1,260	 	 1,209	 	 (4)	 	%
+Amortization	of	TFCF	and	Hulu	
+intangible	assets	and	fair	value	
+step-up	on	film	and	television	
+costs 	 395	 	 429	 	 8	 		% 	 1,677	 	 1,998	 	 16	 		%
+Total	segment	operating	income $	 3,655	 $	 2,976	 	 23	 		% $	 15,601	 $	 12,863	 	 21	 		%
+Free	cash	flow
+The	Company	uses	free	cash	flow	(cash	provided	by	operations	less	investments	in	parks,	resorts	
+and	other	property),	among	other	measures,	to	evaluate	the	ability	of	its	operations	to	generate	cash	
+that	is	available	for	purposes	other	than	capital	expenditures.	Management	believes	that	information	
+about	free	cash	flow	provides	investors	with	an	important	perspective	on	the	cash	available	to	service	
+debt	obligations,	make	strategic	acquisitions	and	investments	and	pay	dividends	or	repurchase	shares.
+The	following	table	presents	a	summary	of	the	Company’s	consolidated	cash	flows:
+	 Quarter	Ended Year	Ended
+($	in	millions)
+Sept.	28,
+2024
+Sept.	30,
+2023
+Sept.	28,
+2024
+Sept.	30,
+2023
+Cash	provided	by	operations $	 5,518			 $	 4,802			 $	 13,971			 $	 9,866			
+Cash	used	in	investing	activities 	 (1,978)	 	 (1,382)	 	 (6,881)	 	 (4,641)	 
+Cash	used	in	financing	activities 	 (3,566)	 	 (597)	 	 (15,288)	 	 (2,724)	 
+Impact	of	exchange	rates	on	cash,	cash	equivalents	and	restricted	cash 	 79	 	 (101)	 	 65	 	 73	 
+Change	in	cash,	cash	equivalents	and	restricted	cash 	 53	 	 2,722	 	 (8,133)	 	 2,574	 
+Cash,	cash	equivalents	and	restricted	cash,	beginning	of	period 	 6,049	 	 11,513	 	 14,235	 	 11,661	 
+Cash,	cash	equivalents	and	restricted	cash,	end	of	period $	 6,102	 $	 14,235	 $	 6,102	 $	 14,235	 
+21</div></details></section><section class="dl-deck-slide" id="slide-22"><h2>Slide 22</h2><img alt="Original presentation slide 22" height="1109" loading="lazy" src="Presentation_e49b74e0c5005ab6-slide-22.jpg" width="857"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">The	following	table	reconciles	the	Company’s	consolidated	cash	provided	by	operations	to	free	cash	
+flow:
+	 Quarter	Ended Year	Ended
+($	in	millions)
+Sept.	28,
+2024
+Sept.	30,
+2023 Change
+Sept.	28,
+2024
+Sept.	30,
+2023 Change
+Cash	provided	by	operations $	 5,518			 $	 4,802			 $	 716	 		 $	 13,971			 $	 9,866			 $	 4,105	 		
+Investments	in	parks,	resorts	and	other	
+property 	 (1,489)	 	 (1,374)	 	 (115)	 	 (5,412)	 	 (4,969)	 	 (443)	 
+Free	cash	flow $	 4,029	 $	 3,428	 $	 601	 $	 8,559	 $	 4,897	 $	 3,662	 
+DTC	Streaming	Businesses
+The	Company	uses	combined	DTC	streaming	businesses	operating	income	(loss)	because	it	believes	
+that	this	measure	allows	investors	to	evaluate	the	performance	of	its	portfolio	of	streaming	businesses	
+and	track	progress	against	the	Company’s	goal	of	reaching	profitability	at	its	combined	streaming	
+businesses.
+The	following	tables	reconcile	Entertainment	and	Sports	segment	operating	income	(loss)	to	the	DTC	
+streaming	businesses	operating	income	(loss):
+	 Quarter	Ended
+September	28,	2024 September	30,	2023
+($	in	millions) Entertainment Sports
+DTC	Streaming	
+Businesses Entertainment Sports
+DTC	Streaming	
+Businesses
+Linear	Networks $	 498			 $	 861			 $	 805			 $	 948			
+DTC	streaming	businesses	(Direct-to-
+Consumer	and	ESPN+	businesses) 	 253	 	 68	 $	 321			 	 (420)	 	 33	 $	 (387)	 		
+Content	Sales/Licensing	and	Other 	 316	 	 —	 	 (149)	 	 —	 
+Segment	operating	income $	 1,067	 $	 929	 $	 236	 $	 981	 
+Year	Ended
+September	28,	2024 September	30,	2023
+Entertainment Sports
+DTC	Streaming	
+Businesses Entertainment Sports
+DTC	Streaming	
+Businesses
+Linear	Networks $	 3,452			 $	 2,415			 $	 4,119			 $	 2,581			
+DTC	streaming	businesses	(Direct-to-
+Consumer	and	ESPN+	businesses) 	 143	 	 (9)	 $	 134			 	 (2,496)	 	 (116)	 $	 (2,612)	 		
+Content	Sales/Licensing	and	Other 	 328	 	 —	 	 (179)	 	 —	 
+Segment	operating	income $	 3,923	 $	 2,406	 $	 1,444	 $	 2,465	 
+Operating	Income	for	Entertainment	SVOD	DTC	businesses	(excluding	our	Hulu	Live	DMVPD	service)
+Operating	income	for	Entertainment	SVOD	DTC	businesses	(excluding	our	Hulu	Live	DMVPD	service)	
+consists	of	operating	income	for	the	Direct-to-Consumer	line	of	business	at	the	Entertainment	segment	
+less	our	Hulu	Live	DMVPD	service.
+The	Company	uses	operating	income	(and	related	margin)	for	Entertainment	SVOD	DTC	businesses	
+(excluding	our	Hulu	Live	DMVPD	service)	as	a	measure	of	the	performance	of	our	Entertainment	SVOD	
+direct-to-consumer	services	separate	from	our	Hulu	Live	DMVPD	service,	which	we	believe	assists	
+investors	by	allowing	them	to	evaluate	the	performance	of	these	SVOD	direct-to-consumer	services.
+22</div></details></section><section class="dl-deck-slide" id="slide-23"><h2>Slide 23</h2><img alt="Original presentation slide 23" height="1109" loading="lazy" src="Presentation_e49b74e0c5005ab6-slide-23.jpg" width="857"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">FORWARD-LOOKING	STATEMENTS
+Certain	statements	and	information	in	this	earnings	release	may	constitute	“forward-looking	statements”	
+within	the	meaning	of	the	Private	Securities	Litigation	Reform	Act	of	1995,	including	statements	regarding	our	
+expectations,	beliefs,	plans,	financial	prospects,	trends	or	outlook	and	guidance;	financial	or	performance	
+estimates	and	expectations	(including	estimated	or	expected	revenues,	earnings,	operating	income,	cash	position	
+and	margins)	and	expected	drivers;	direct-to-consumer	prospects,	including	expectations	for	subscriber	growth;	
+timing,	availability	or	nature	of	our	offerings;	future	capital	expenditures	and	investments,	including	opportunities	
+for	growth	and	expansion;	future	capital	allocation,	including	dividends	and	share	repurchases;	value	of	our	
+intellectual	property,	content	offerings,	businesses	and	assets;	business	and	other	plans;	strategic	priorities	and	
+initiatives;	consumer	sentiment,	behavior	or	demand	and	other	statements	that	are	not	historical	in	nature.	Any	
+information	that	is	not	historical	in	nature	included	in	this	earnings	release	is	subject	to	change.	These	statements	
+are	made	on	the	basis	of	management’s	views	and	assumptions	regarding	future	events	and	business	performance	
+as	of	the	time	the	statements	are	made.	Management	does	not	undertake	any	obligation	to	update	these	
+statements.
+Actual	results	may	differ	materially	from	those	expressed	or	implied.	Such	differences	may	result	from	
+actions	taken	by	the	Company,	including	restructuring	or	strategic	initiatives	(including	capital	investments,	asset	
+acquisitions	or	dispositions,	new	or	expanded	business	lines	or	cessation	of	certain	operations),	our	execution	of	
+our	business	plans	(including	the	content	we	create	and	IP	we	invest	in,	our	pricing	decisions,	our	cost	structure	
+and	our	management	and	other	personnel	decisions),	our	ability	to	quickly	execute	on	cost	rationalization	while	
+preserving	revenue,	the	discovery	of	additional	information	or	other	business	decisions,	as	well	as	from	
+developments	beyond	the	Company’s	control,	including:
+• the	occurrence	of	subsequent	events;
+• deterioration	in	domestic	and	global	economic	conditions	or	failure	of	conditions	to	improve	as	
+anticipated;
+• deterioration	in	or	pressures	from	competitive	conditions,	including	competition	to	create	or	acquire	
+content,	competition	for	talent	and	competition	for	advertising	revenue;
+• consumer	preferences	and	acceptance	of	our	content,	offerings,	pricing	model	and	price	increases,	and	
+corresponding	subscriber	additions	and	churn,	and	the	market	for	advertising	sales	on	our	DTC	streaming	
+services	and	linear	networks;	
+• health	concerns	and	their	impact	on	our	businesses	and	productions;
+• international,	political	or	military	developments;
+• regulatory	and	legal	developments;
+• technological	developments;
+• labor	markets	and	activities,	including	work	stoppages;
+• adverse	weather	conditions	or	natural	disasters;	and
+• availability	of	content.
+Such	developments	may	further	affect	entertainment,	travel	and	leisure	businesses	generally	and	may,	
+among	other	things,	affect	(or	further	affect,	as	applicable):
+• our	operations,	business	plans	or	profitability,	including	direct-to-consumer	profitability;
+• demand	for	our	products	and	services;
+• the	performance	of	the	Company’s	content;
+• our	ability	to	create	or	obtain	desirable	content	at	or	under	the	value	we	assign	the	content;
+• the	advertising	market	for	programming;
+• taxation;	and
+• performance	of	some	or	all	Company	businesses	either	directly	or	through	their	impact	on	those	who	
+distribute	our	products.
+Additional	factors	are	set	forth	in	the	Company’s		most	recent	Annual	Report	on	Form	10-K,	including	under	
+the	captions	“Risk	Factors,”	“Management’s	Discussion	and	Analysis	of	Financial	Condition	and	Results	of	
+Operations,”	and	“Business,”	quarterly	reports	on	Form	10-Q,	including	under	the	captions	“Risk	Factors”	and	
+“Management’s	Discussion	and	Analysis	of	Financial	Condition	and	Results	of	Operations,”	and	subsequent	filings	
+with	the	Securities	and	Exchange	Commission.
+The	terms	“Company,”	“we,”	and	“our”	are	used	in	this	report	to	refer	collectively	to	the	parent	company	and	
+the	subsidiaries	through	which	our	various	businesses	are	actually	conducted.
+23</div></details></section><section class="dl-deck-slide" id="slide-24"><h2>Slide 24</h2><img alt="Original presentation slide 24" height="1109" loading="lazy" src="Presentation_e49b74e0c5005ab6-slide-24.jpg" width="857"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">PREPARED	EARNINGS	REMARKS	AND	CONFERENCE	CALL	INFORMATION
+In	conjunction	with	this	release,	The	Walt	Disney	Company	will	post	prepared	management	remarks	
+(Executive	Commentary)	at	www.disney.com/investors	and	will	host	a	conference	call	today,	
+November	14,	2024,	at	8:30	AM	EST/5:30	AM	PST	via	a	live	Webcast.	To	access	the	Webcast	go	to	
+www.disney.com/investors.	The	corresponding	earnings	presentation	and	webcast	replay	will	also	be	
+available	on	the	site.
+CONTACTS:
+David	Jefferson
+Corporate	Communications
+818-560-4832
+Carlos	Gomez
+Investor	Relations
+818-560-1933
+24</div></details></section></div><div class="dl-fv-side"><div class='dl-fv-side-header'><h2>Evidence</h2><p>Evidence linked to this filing and transcript</p></div><label class='dl-hover-scroll-toggle-label'><input type='checkbox' id='dl-hover-scroll-toggle'> Auto-scroll on hover</label><div class="dl-fv-side-topic-group"><h2 class="dl-fv-side-topic-heading">revenue</h2><details class='dl-fv-side-section' open><summary class='dl-fv-side-summary'><span class='dl-fv-side-title'><span class='dl-fv-side-icon'><svg viewBox='0 0 24 24' width='14' height='14'><path fill="currentColor" d="M9.5 6C7 6 5 8.2 5 11v5.5c0 .8.7 1.5 1.5 1.5H10c.8 0 1.5-.7 1.5-1.5V13c0-.8-.7-1.5-1.5-1.5H7.5C7.7 9 8.5 8 9.5 8V6zm9 0C16 6 14 8.2 14 11v5.5c0 .8.7 1.5 1.5 1.5H19c.8 0 1.5-.7 1.5-1.5V13c0-.8-.7-1.5-1.5-1.5h-2.5c.2-2.5 1-3.5 2-3.5V6z"/></svg></span>Presentation evidence</span></summary><div class='dl-fv-side-section-body'><ul><li><a class="dl-fv-side-link dl-hover-scroll-link" href="#dl-thl-0-0">&ldquo;Revenue is allocated to each service based on the relative retail or wholesale price of each service on a standalone basis.&rdquo;</a></li><li><a class="dl-fv-side-link dl-hover-scroll-link" href="#dl-thl-0-1">&ldquo;Revenue includes subscription fees, advertising (excluding revenue earned from selling advertising spots to other Company businesses), premium and feature add- on revenue and extra member add-on revenue but excludes Pay-Per-View revenue.&rdquo;</a></li><li><a class="dl-fv-side-link dl-hover-scroll-link" href="#dl-thl-0-2">&ldquo;Financial Results for the Quarter and Full Year: • Revenues increased 6% for Q4 to $22.6 billion from $21.2 billion in the prior-year quarter, and 3% for the year to $91.4 billion from $88.9 billion in the prior year.&rdquo;</a></li><li><a class="dl-fv-side-link dl-hover-scroll-link" href="#dl-thl-0-3">&ldquo;The average revenue per paid subscriber is net of discounts on offerings that carry more than one service.&rdquo;</a></li><li><a class="dl-fv-side-link dl-hover-scroll-link" href="#dl-thl-0-4">&ldquo;In Q4, Experiences revenue increased $0.1 billion, or 1%, and operating income of $1.7 billion was a decline of $0.1 billion, or 6% compared to the prior-year quarter.&rdquo;</a></li><li>&ldquo;7 [Page 8] Content Sales/Licensing and Other Content Sales/Licensing and Other revenues and operating income (loss) are as follows: Quarter Ended Change($ in millions) September 28, 2024 September 30, 2023 Revenue $ 2,585 $ 1,860 39 % Operating income (loss) $ 316 $ (149) nm The improvement in operating results was primarily due to higher theatrical distribution results reflecting the strong performance of Inside Out 2 and Deadpool &amp; Wolverine in the current quarter.&rdquo;</li><li><a class="dl-fv-side-link dl-hover-scroll-link" href="#dl-thl-0-6">&ldquo;SUMMARIZED SEGMENT FINANCIAL RESULTS The following table summarizes fourth quarter and full year segment revenue and operating income for fiscal 2024 and 2023: Quarter Ended Year Ended ($ in millions) Sept. 28, 2024 Sept. 30, 2023 Change Sept. 28, 2024 Sept. 30, 2023 Change Revenues: Entertainment $ 10,829 $ 9,524 14 % $ 41,186 $ 40,635 1 % Sports 3,914 3,910 — % 17,619 17,111 3 % Experiences 8,240 8,160 1 % 34,151 32,549 5 % Eliminations(2) (409) (353) (16) % (1,595) (1,397) (14) % Total revenues $ 22,574 $ 21,241 6 % $ 91,361 $ 88,898 3 % Segment operating income: Entertainment $ 1,067 $ 236 &gt;100 % $ 3,923 $ 1,444 &gt;100 % Sports 929 981 (5) % 2,406 2,465 (2) % Experiences 1,659 1,759 (6) % 9,272 8,954 4 % Total segment operating income(1) $ 3,655 $ 2,976 23 % $ 15,601 $ 12,863 21 % (1) Total segment operating income is a non-GAAP financial measure.&rdquo;</a></li><li>&ldquo;Linear Networks Linear Networks revenues and operating income are as follows: Quarter Ended Change($ in millions) September 28, 2024 September 30, 2023 Revenue Domestic $ 1,997 $ 2,099 (5) % International 464 529 (12) % $ 2,461 $ 2,628 (6) % Operating income Domestic $ 347 $ 529 (34) % International 52 114 (54) % Equity in the income of investees 99 162 (39) % $ 498 $ 805 (38) % Domestic Domestic operating income in the current quarter decreased compared to the prior-year quarter due to: • Higher marketing costs primarily resulting from more season premieres in the current quarter reflecting the impact of guild strikes in the prior-year quarter 5 [Page 6] • Lower affiliate revenue primarily attributable to fewer subscribers including the impact of the non-renewal of carriage of certain networks by an affiliate, partially offset by higher effective rates • A decline in advertising revenue resulting from a decrease in impressions reflecting lower average viewership, partially offset by higher rates • Programming and production costs were comparable to the prior-year quarter as higher average cost programming at ABC Network, in part due to the impact of guild strikes in the prior-year quarter, was largely offset by lower average cost programming at our cable channels International The decrease in International operating income was attributable to: • Lower affiliate revenue primarily due to a decline in effective rates and fewer subscribers • Higher marketing costs Equity in the Income of Investees Income from equity investees decreased due to lower income from A+E Television Networks (A+E) attributable to decreases in affiliate and advertising revenue.&rdquo;</li><li>&ldquo;Direct-to-Consumer Direct-to-Consumer revenues and operating income (loss) are as follows: Quarter Ended Change($ in millions) September 28, 2024 September 30, 2023 Revenue $ 5,783 $ 5,036 15 % Operating income (loss) $ 253 $ (420) nm The improvement in operating results in the current quarter compared to the prior-year quarter was due to: • Subscription revenue growth attributable to higher effective rates due to increases in retail pricing and subscriber growth, partially offset by an unfavorable foreign exchange impact • An increase in advertising revenue due to higher impressions, partially offset by lower rates • Lower marketing costs at Disney+ • Higher technology and distribution costs • An increase in programming and production costs reflecting: ◦ Higher subscriber-based fees for programming the Hulu Live TV service attributable to rate increases ◦ Lower costs for non-sports content attributable to a decrease at Disney+, partially offset by an increase at Hulu 6 [Page 7] Key Metrics - Fourth Quarter of Fiscal 2024 Comparison to Third Quarter of Fiscal 2024 In addition to revenue, costs and operating income, management uses the following key metrics(1) to analyze trends and evaluate the overall performance of our Disney+ and Hulu direct-to-consumer (DTC) product offerings, and we believe these metrics are useful to investors in analyzing the business.&rdquo;</li><li>&ldquo;4 [Page 5] DISCUSSION OF FOURTH QUARTER SEGMENT RESULTS Entertainment Revenue and operating income for the Entertainment segment are as follows: Quarter Ended Change Year Ended ($ in millions) Sept. 28, 2024 Sept. 30, 2023 Sept. 28, 2024 Sept. 30, 2023 Change Revenues: Linear Networks $ 2,461 $ 2,628 (6) % $ 10,692 $ 11,701 (9) % Direct-to-Consumer 5,783 5,036 15 % 22,776 19,886 15 % Content Sales/Licensing and Other 2,585 1,860 39 % 7,718 9,048 (15) % $ 10,829 $ 9,524 14 % $ 41,186 $ 40,635 1 % Operating income (loss): Linear Networks $ 498 $ 805 (38) % $ 3,452 $ 4,119 (16) % Direct-to-Consumer 253 (420) nm 143 (2,496) nm Content Sales/Licensing and Other 316 (149) nm 328 (179) nm $ 1,067 $ 236 &gt;100 % $ 3,923 $ 1,444 &gt;100 % The increase in Entertainment operating income in the current quarter compared to the prior-year quarter was due to improved results at Direct-to-Consumer and Content Sales/Licensing and Other, partially offset by a decrease at Linear Networks.&rdquo;</li><li>&ldquo;Sports Sports revenues and operating income (loss) are as follows: Quarter Ended Change($ in millions) September 28, 2024 September 30, 2023 Revenue ESPN Domestic $ 3,492 $ 3,455 1 % International 364 363 — % 3,856 3,818 1 % Star India 58 92 (37) % $ 3,914 $ 3,910 — % Operating income (loss) ESPN Domestic $ 936 $ 987 (5) % International (40) (34) (18) % 896 953 (6) % Star India 20 12 67 % Equity in the income of investees 13 16 (19) % $ 929 $ 981 (5) % Domestic ESPN The decrease in domestic ESPN operating results in the current quarter compared to the prior-year quarter was due to: • Higher programming and production costs attributable to an increase in college football rights costs and higher production costs, partially offset by lower NFL rights costs as a result of airing one fewer game in the current quarter • Lower affiliate revenue due to fewer subscribers, partially offset by higher effective rates • Advertising revenue growth reflecting increases in rates and sponsorship revenue, partially offset by lower average viewership • Growth in subscription revenue due to higher effective rates attributable to an increase in retail pricing 8 [Page 9] Key Metrics - Fourth Quarter of Fiscal 2024 Comparison to Third Quarter of Fiscal 2024 In addition to revenue, costs and operating income, management uses the following key metrics(1) to analyze trends and evaluate the overall performance of our ESPN+ DTC product offering, and we believe these metrics are useful to investors in analyzing the business.&rdquo;</li><li><a class="dl-fv-side-link dl-hover-scroll-link" href="#dl-thl-0-11">&ldquo;• Entertainment DTC delivered 14% ad revenue growth in Q4, contributing to $253 million in operating income, and our combined DTC streaming businesses improved their profitability in Q4, with operating income(1) of $321 million.&rdquo;</a></li><li><a class="dl-fv-side-link dl-hover-scroll-link" href="#dl-thl-0-12">&ldquo;Domestic ESPN advertising revenue in Q4 grew 7% versus the prior-year quarter.&rdquo;</a></li></ul></div></details></div><div class="dl-fv-side-topic-group"><h2 class="dl-fv-side-topic-heading">operating margin</h2><p class="empty-note">No topic-matching quotes were found in this deck.</p></div><details class="dl-fv-side-section"><summary>Slides</summary><div class="dl-fv-side-section-body"><ul><li><a class="dl-fv-side-link" href="#slide-1">Slide 1</a></li><li><a class="dl-fv-side-link" href="#slide-2">Slide 2</a></li><li><a class="dl-fv-side-link" href="#slide-3">Slide 3</a></li><li><a class="dl-fv-side-link" href="#slide-4">Slide 4</a></li><li><a class="dl-fv-side-link" href="#slide-5">Slide 5</a></li><li><a class="dl-fv-side-link" href="#slide-6">Slide 6</a></li><li><a class="dl-fv-side-link" href="#slide-7">Slide 7</a></li><li><a class="dl-fv-side-link" href="#slide-8">Slide 8</a></li><li><a class="dl-fv-side-link" href="#slide-9">Slide 9</a></li><li><a class="dl-fv-side-link" href="#slide-10">Slide 10</a></li><li><a class="dl-fv-side-link" href="#slide-11">Slide 11</a></li><li><a class="dl-fv-side-link" href="#slide-12">Slide 12</a></li><li><a class="dl-fv-side-link" href="#slide-13">Slide 13</a></li><li><a class="dl-fv-side-link" href="#slide-14">Slide 14</a></li><li><a class="dl-fv-side-link" href="#slide-15">Slide 15</a></li><li><a class="dl-fv-side-link" href="#slide-16">Slide 16</a></li><li><a class="dl-fv-side-link" href="#slide-17">Slide 17</a></li><li><a class="dl-fv-side-link" href="#slide-18">Slide 18</a></li><li><a class="dl-fv-side-link" href="#slide-19">Slide 19</a></li><li><a class="dl-fv-side-link" href="#slide-20">Slide 20</a></li><li><a class="dl-fv-side-link" href="#slide-21">Slide 21</a></li><li><a class="dl-fv-side-link" href="#slide-22">Slide 22</a></li><li><a class="dl-fv-side-link" href="#slide-23">Slide 23</a></li><li><a class="dl-fv-side-link" href="#slide-24">Slide 24</a></li></ul></div></details><div class='dl-fv-nav-footer'><a class="dl-fv-nav-btn" href="Presentation_e49b74e0c5005ab6.pdf" target="_blank" rel="noopener">Download original PDF</a><a class="dl-fv-nav-btn" href="https://s206.q4cdn.com/979796730/files/doc_events/2024/11/q4-fy24-earnings.pdf" target="_blank" rel="noopener">Company IR source</a><a class='dl-fv-nav-btn dl-fv-nav-back' href='Core_Research_Report.html'>&larr; Back to report</a></div><details class='dl-fv-side-section'><summary class='dl-fv-side-summary'><span class='dl-fv-side-title'><span class='dl-fv-side-icon'><svg viewBox='0 0 24 24' width='14' height='14'><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M15 5l4 4L8 20H4v-4z M13.5 6.5l4 4"/></svg></span>Draw</span></summary><div class='dl-fv-side-section-body'><div class='dl-draw-row'><button type='button' id='dl-draw-toggle' class='dl-fv-nav-btn'>Start drawing</button><button type='button' id='dl-draw-clear' class='dl-fv-nav-btn'>Clear</button></div><div class='dl-draw-swatches'><button type='button' class='dl-draw-swatch dl-draw-swatch-active' style='background:#e11d48;' data-color='#e11d48' aria-label='Color #e11d48'></button><button type='button' class='dl-draw-swatch' style='background:#f59e0b;' data-color='#f59e0b' aria-label='Color #f59e0b'></button><button type='button' class='dl-draw-swatch' style='background:#22c55e;' data-color='#22c55e' aria-label='Color #22c55e'></button><button type='button' class='dl-draw-swatch' style='background:#0ea5e9;' data-color='#0ea5e9' aria-label='Color #0ea5e9'></button><button type='button' class='dl-draw-swatch' style='background:#a855f7;' data-color='#a855f7' aria-label='Color #a855f7'></button><button type='button' class='dl-draw-swatch' style='background:#111827;' data-color='#111827' aria-label='Color #111827'></button></div><div class='dl-draw-row'><button type='button' class='dl-fv-nav-btn dl-draw-width-btn dl-draw-width-active' data-width='3'>Pen</button><button type='button' class='dl-fv-nav-btn dl-draw-width-btn' data-width='16'>Highlighter</button></div><p class='dl-draw-hint'>Save as PDF only exports the pages you've marked.</p><button type='button' id='dl-draw-save-pdf' class='dl-fv-nav-btn'>Save as PDF</button><button type='button' id='dl-draw-print-pdf' class='dl-fv-nav-btn'>Print / vector PDF</button><div class='dl-draw-status' id='dl-draw-status'></div></div></details><div class='dl-fv-search-box'><div class='dl-fv-search-box-label'><span class='dl-fv-side-icon'><svg viewBox='0 0 24 24' width='14' height='14'><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M10 4a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z M15 15l5 5"/></svg></span>Search</div><div class='dl-fv-search'><input type='text' id='dl-search-input' placeholder='Search this presentation…' aria-label='Search this presentation…'><button type='button' id='dl-search-prev' aria-label='Previous match'>&uarr;</button><button type='button' id='dl-search-next' aria-label='Next match'>&darr;</button><span class='dl-fv-search-counter' id='dl-search-counter'>0 / 0</span></div></div></div></div></div><div class='dl-theme-toggle' role='group' aria-label='Color theme'><button type='button' class='dl-theme-btn' data-theme-choice='dark'>Dark</button><button type='button' class='dl-theme-btn' data-theme-choice='light'>Light</button></div><script>window.__DL_DRAW_META__ = {"ticker": "DIS", "docLabel": "DIS Investor Presentation 2024 (4)", "topic": "revenue"};</script><script>
+(function() {
+  var originalScrollY = null, revertTimer = null, flashEl = null;
+  // ONE toggle now gates every .dl-hover-scroll-link on the page (What management
+  // said, MD&A, Footnotes, Equity Research Analyst Questions, the semantic-match
+  // tooltip's own links) - real follow-up user ask: "fix the autoscroll make it
+  // apply to everything." Earlier version split this into an always-on group and
+  // a toggle-gated group, which read as inconsistent (some links auto-scrolled,
+  // others didn't, for no visible reason) - a single on/off switch is simpler and
+  // matches what was actually asked. Off by default - the ORIGINAL real user
+  // complaint this checkbox exists for was that auto-scroll-on-every-hover was
+  // too intrusive while just reading normally.
+  var gateToggle = document.getElementById('dl-hover-scroll-toggle');
+
+  function clearFlash() {
+    if (flashEl) { flashEl.classList.remove('dl-preview-flash'); flashEl = null; }
+  }
+
+  function revert() {
+    clearFlash();
+    if (originalScrollY !== null) {
+      window.scrollTo({ top: originalScrollY, behavior: 'smooth' });
+      originalScrollY = null;
+    }
+    window.__DL_PREVIEW_ACTIVE__ = false;
+  }
+
+  function findLink(e) {
+    if (!gateToggle || !gateToggle.checked) return null;
+    return e.target.closest && e.target.closest('.dl-hover-scroll-link[href^="#"]');
+  }
+
+  document.addEventListener('mouseover', function(e) {
+    var link = findLink(e);
+    if (!link) return;
+    var target;
+    try { target = document.querySelector(link.getAttribute('href')); } catch (err) { return; }
+    if (!target) return;
+    clearTimeout(revertTimer);
+    if (originalScrollY === null) originalScrollY = window.scrollY;
+    clearFlash();
+    flashEl = target;
+    flashEl.classList.add('dl-preview-flash');
+    // Tells _QUOTE_MATCH_TOOLTIP_JS's scroll listener this scroll is OUR OWN
+    // intentional preview, not the reader scrolling away - so it doesn't close
+    // the very tooltip whose related link just triggered this scroll.
+    window.__DL_PREVIEW_ACTIVE__ = true;
+    target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  });
+
+  document.addEventListener('mouseout', function(e) {
+    // Not gated on the toggle here (unlike findLink) - once a preview has
+    // started, moving off it should always revert even if the toggle flipped
+    // mid-hover.
+    var link = e.target.closest && e.target.closest('.dl-hover-scroll-link[href^="#"]');
+    if (!link) return;
+    clearTimeout(revertTimer);
+    revertTimer = setTimeout(revert, 200);
+  });
+})();
+</script><script>
+(function() {
+  function showToast(msg) {
+    var existing = document.querySelector('.dl-toast');
+    if (existing) existing.remove();
+    var toast = document.createElement('div');
+    toast.className = 'dl-toast';
+    toast.textContent = msg;
+    document.body.appendChild(toast);
+    setTimeout(function() { toast.remove(); }, 1800);
+  }
+
+  document.addEventListener('click', function(e) {
+    var mark = e.target.closest && e.target.closest('mark.dl-cited[id]');
+    if (!mark) return;
+    var url = location.origin + location.pathname + '#' + mark.id;
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(url).then(function() {
+        showToast('Link to this passage copied');
+      }, function() {
+        showToast('Could not copy link');
+      });
+    }
+  });
+})();
+</script><script>
+(function() {
+  function openBySummaryText(text) {
+    document.querySelectorAll('details.dl-fv-side-section > summary').forEach(function(s) {
+      if (s.textContent.trim() === text) s.parentElement.open = true;
+    });
+  }
+
+  function openContainingDetails() {
+    if (!location.hash) return;
+    var target;
+    try { target = document.querySelector(location.hash); } catch (err) { return; }
+    if (!target) return;
+    var details = target.closest && target.closest('details');
+    while (details) {
+      details.open = true;
+      details = details.parentElement && details.parentElement.closest('details');
+    }
+    // The mark this hash lands on lives in the main/native transcript or filing
+    // body, NOT inside a sidebar <details> - the sidebar is a SEPARATE list of
+    // links pointing at these same marks, so the ancestor walk above never
+    // actually reaches it. Real user bug: landing via a "Previously asked"
+    // cross-page Q&A link showed the right spot in the main pane (already
+    // working) but left "Equity Research Analyst Questions" collapsed, so the
+    // curated question/answer view wasn't visible without a manual click -
+    // matched here by the real dl-qaj-N-q/dl-qaj-N-a id scheme those jump links
+    // use (see write_transcript_viewer_report).
+    if (/^#dl-qaj-/.test(location.hash)) {
+      openBySummaryText('Equity Research Analyst Questions');
+    }
+    target.scrollIntoView({ block: 'center' });
+  }
+  // The transcript viewer's analyst-question section is also a navigation target:
+  // clicking its summary should take the reader to the first real Q&A exchange in
+  // the native transcript pane, not merely expand/collapse the sidebar card.
+  document.addEventListener('click', function(e) {
+    var summary = e.target.closest && e.target.closest('summary[data-qa-jump-target]');
+    if (!summary) return;
+    var targetId = summary.getAttribute('data-qa-jump-target');
+    var target = targetId && document.getElementById(targetId);
+    if (!target) return;
+    e.preventDefault();
+    if (summary.parentElement) summary.parentElement.open = true;
+    if (location.hash !== '#' + targetId) history.pushState(null, '', '#' + targetId);
+    target.scrollIntoView({ block: 'center' });
+  });
+  // 'load' (not 'DOMContentLoaded') for the initial jump - real bug: DOMContentLoaded
+  // fires before a real SEC filing's embedded images/tables finish loading and the
+  // page's layout has fully settled, so scrollIntoView computed against that
+  // still-shifting layout landed short of the real target (looked like "jumps to the
+  // top of the Item instead of the highlighted quote" - the quote is further down the
+  // page than the position computed before layout stabilized). hashchange (in-page,
+  // no reload) already fires long after the page has settled, so it's unaffected.
+  window.addEventListener('load', openContainingDetails);
+  window.addEventListener('hashchange', openContainingDetails);
+})();
+</script><script>
+(function() {
+  var container = document.querySelector('.dl-fv-native');
+  if (!container) return;
+  var MAX_MATCHES = 300;
+  var state = { matches: [], current: -1 };
+
+  function clearHighlights() {
+    var hits = container.querySelectorAll('span.dl-search-hit');
+    hits.forEach(function(hit) {
+      var parent = hit.parentNode;
+      if (!parent) return;
+      parent.replaceChild(document.createTextNode(hit.textContent), hit);
+      parent.normalize();
+    });
+    state.matches = [];
+    state.current = -1;
+  }
+
+  function getTextNodes() {
+    var walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT, {
+      acceptNode: function(node) {
+        var el = node.parentNode;
+        while (el && el !== container) {
+          if (el.classList && el.classList.contains('dl-search-hit')) return NodeFilter.FILTER_REJECT;
+          var tag = el.nodeName ? el.nodeName.toLowerCase() : '';
+          if (tag === 'script' || tag === 'style') return NodeFilter.FILTER_REJECT;
+          el = el.parentNode;
+        }
+        return NodeFilter.FILTER_ACCEPT;
+      }
+    });
+    var nodes = [];
+    var n;
+    while ((n = walker.nextNode())) nodes.push(n);
+    return nodes;
+  }
+
+  function bisectRight(arr, x) {
+    var lo = 0, hi = arr.length;
+    while (lo < hi) {
+      var mid = (lo + hi) >> 1;
+      if (arr[mid] <= x) lo = mid + 1; else hi = mid;
+    }
+    return lo;
+  }
+
+  function wrapOne(nodes, texts, startNode, startLocal, endNode, endLocal) {
+    if (startNode === endNode) {
+      var raw = texts[startNode];
+      var before = raw.slice(0, startLocal), matched = raw.slice(startLocal, endLocal), after = raw.slice(endLocal);
+      var span = document.createElement('span');
+      span.className = 'dl-search-hit';
+      span.textContent = matched;
+      var frag = document.createDocumentFragment();
+      if (before) frag.appendChild(document.createTextNode(before));
+      frag.appendChild(span);
+      if (after) frag.appendChild(document.createTextNode(after));
+      nodes[startNode].parentNode.replaceChild(frag, nodes[startNode]);
+      return span;
+    }
+    var firstRaw = texts[startNode];
+    var firstBefore = firstRaw.slice(0, startLocal), firstTail = firstRaw.slice(startLocal);
+    var firstSpan = document.createElement('span');
+    firstSpan.className = 'dl-search-hit';
+    firstSpan.textContent = firstTail;
+    var firstFrag = document.createDocumentFragment();
+    if (firstBefore) firstFrag.appendChild(document.createTextNode(firstBefore));
+    firstFrag.appendChild(firstSpan);
+    nodes[startNode].parentNode.replaceChild(firstFrag, nodes[startNode]);
+
+    for (var i = startNode + 1; i < endNode; i++) {
+      var midRaw = texts[i];
+      if (!midRaw) continue;
+      var midSpan = document.createElement('span');
+      midSpan.className = 'dl-search-hit';
+      midSpan.textContent = midRaw;
+      nodes[i].parentNode.replaceChild(midSpan, nodes[i]);
+    }
+
+    var lastRaw = texts[endNode];
+    var lastHead = lastRaw.slice(0, endLocal), lastAfter = lastRaw.slice(endLocal);
+    var lastSpan = document.createElement('span');
+    lastSpan.className = 'dl-search-hit';
+    lastSpan.textContent = lastHead;
+    var lastFrag = document.createDocumentFragment();
+    lastFrag.appendChild(lastSpan);
+    if (lastAfter) lastFrag.appendChild(document.createTextNode(lastAfter));
+    nodes[endNode].parentNode.replaceChild(lastFrag, nodes[endNode]);
+    return firstSpan;
+  }
+
+  function updateCounter() {
+    var counter = document.getElementById('dl-search-counter');
+    if (!counter) return;
+    counter.textContent = state.matches.length ? (state.current + 1) + ' / ' + state.matches.length : '0 / 0';
+  }
+
+  function setActive(idx) {
+    state.matches.forEach(function(el, i) { el.classList.toggle('dl-search-hit-active', i === idx); });
+    updateCounter();
+  }
+
+  function goTo(delta) {
+    if (!state.matches.length) return;
+    state.current = (state.current + delta + state.matches.length) % state.matches.length;
+    setActive(state.current);
+    state.matches[state.current].scrollIntoView({ block: 'center' });
+  }
+
+  function runSearch(query) {
+    clearHighlights();
+    query = query.trim();
+    if (query.length < 2) { updateCounter(); return; }
+    var q = query.toLowerCase();
+    var matches = [];
+    for (var iter = 0; iter < MAX_MATCHES; iter++) {
+      var nodes = getTextNodes();
+      var texts = nodes.map(function(n) { return n.textContent; });
+      var combined = texts.join('').toLowerCase();
+      var idx = combined.indexOf(q);
+      if (idx === -1) break;
+      var starts = [];
+      var pos = 0;
+      for (var i = 0; i < texts.length; i++) { starts.push(pos); pos += texts[i].length; }
+      var startNode = bisectRight(starts, idx) - 1;
+      var endNode = bisectRight(starts, idx + q.length - 1) - 1;
+      var startLocal = idx - starts[startNode];
+      var endLocal = idx + q.length - starts[endNode];
+      matches.push(wrapOne(nodes, texts, startNode, startLocal, endNode, endLocal));
+    }
+    state.matches = matches;
+    state.current = -1;
+    if (matches.length) goTo(1); else updateCounter();
+  }
+
+  var input = document.getElementById('dl-search-input');
+  var nextBtn = document.getElementById('dl-search-next');
+  var prevBtn = document.getElementById('dl-search-prev');
+  if (input) {
+    var debounceTimer = null;
+    input.addEventListener('input', function() {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(function() { runSearch(input.value); }, 250);
+    });
+    input.addEventListener('keydown', function(e) {
+      if (e.key !== 'Enter') return;
+      e.preventDefault();
+      goTo(e.shiftKey ? -1 : 1);
+    });
+  }
+  if (nextBtn) nextBtn.addEventListener('click', function() { goTo(1); });
+  if (prevBtn) prevBtn.addEventListener('click', function() { goTo(-1); });
+})();
+</script><script>
+(function() {
+  var native = document.querySelector('.dl-fv-native');
+  if (!native) return;
+  native.style.position = 'relative';
+
+  var canvas = document.createElement('canvas');
+  canvas.id = 'dl-draw-canvas';
+   // Keep the annotation surface viewport-sized. A full-document transparent
+   // canvas works for short 10-Qs but can exceed Chrome's compositor budget on a
+   // long 10-K, turning the filing pane white as soon as drawing is enabled.
+   // Strokes remain in native-document coordinates and are projected into this
+   // small surface while the page scrolls.
+   canvas.style.display = 'none';
+   canvas.style.position = 'fixed';
+   canvas.style.top = '0';
+   function sizeCanvas() {
+     if (canvas.style.display === 'none') return;
+     var rect = native.getBoundingClientRect();
+     var dpr = Math.min(2, window.devicePixelRatio || 1);
+     canvas.style.left = rect.left + 'px';
+     canvas.style.width = rect.width + 'px';
+     canvas.style.height = window.innerHeight + 'px';
+     canvas.width = Math.max(1, Math.ceil(rect.width * dpr));
+     canvas.height = Math.max(1, Math.ceil(window.innerHeight * dpr));
+     ctx = canvas.getContext('2d');
+     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+     redraw();
+   }
+  native.appendChild(canvas);
+  var ctx = canvas.getContext('2d');
+
+  var strokes = [];
+  var currentStroke = null;
+  var activeColor = '#e11d48';
+  var activeWidth = 3;
+  var drawing = false;
+
+  // Real user report: drawing "lags behind." redraw() used to run on EVERY
+  // pointermove - clearing the WHOLE canvas (which can be 50,000+ px tall for
+  // a real full filing) and repainting every past stroke from scratch, on
+  // every single mouse-move event. Only ever needed for sizeCanvas (fresh
+  // canvas) and Clear (nothing left to paint) - normal drawing now paints just
+  // the ONE new line segment directly onto the existing bitmap (drawSegment),
+  // which is O(1) per move instead of O(total strokes so far) and doesn't
+  // touch pixels outside that segment at all - no full-canvas clear/redraw in
+  // the hot path, without changing what actually gets recorded/exported.
+  function redraw() {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    strokes.forEach(function(s) { paintStroke(s); });
+  }
+
+  function paintStroke(s) {
+    if (s.points.length < 2) return;
+    var rect = native.getBoundingClientRect();
+    var scrollX = native.scrollLeft || 0;
+    ctx.strokeStyle = s.color;
+    ctx.lineWidth = s.width;
+    ctx.lineCap = 'round';
+    ctx.lineJoin = 'round';
+    ctx.globalAlpha = s.width > 8 ? 0.4 : 1;
+    ctx.beginPath();
+    ctx.moveTo(s.points[0].x - scrollX, s.points[0].y + rect.top);
+    for (var i = 1; i < s.points.length; i++) ctx.lineTo(s.points[i].x - scrollX, s.points[i].y + rect.top);
+    ctx.stroke();
+    ctx.globalAlpha = 1;
+  }
+
+  function drawSegment(color, width, p0, p1) {
+    var rect = native.getBoundingClientRect();
+    var scrollX = native.scrollLeft || 0;
+    ctx.strokeStyle = color;
+    ctx.lineWidth = width;
+    ctx.lineCap = 'round';
+    ctx.lineJoin = 'round';
+    ctx.globalAlpha = width > 8 ? 0.4 : 1;
+    ctx.beginPath();
+    ctx.moveTo(p0.x - scrollX, p0.y + rect.top);
+    ctx.lineTo(p1.x - scrollX, p1.y + rect.top);
+    ctx.stroke();
+    ctx.globalAlpha = 1;
+  }
+
+  function pointFromEvent(e) {
+    var rect = canvas.getBoundingClientRect();
+    var nativeRect = native.getBoundingClientRect();
+    return { x: e.clientX - nativeRect.left + (native.scrollLeft || 0), y: e.clientY - nativeRect.top };
+  }
+
+  canvas.addEventListener('pointerdown', function(e) {
+    if (!drawing) return;
+    var r = native.getBoundingClientRect();
+    if (e.clientX < r.left || e.clientX > r.right || e.clientY < r.top || e.clientY > r.bottom) return;
+    currentStroke = { color: activeColor, width: activeWidth, points: [pointFromEvent(e)] };
+    canvas.setPointerCapture(e.pointerId);
+  });
+  canvas.addEventListener('pointermove', function(e) {
+    if (!drawing || !currentStroke) return;
+    var prev = currentStroke.points[currentStroke.points.length - 1];
+    var pt = pointFromEvent(e);
+    currentStroke.points.push(pt);
+    drawSegment(currentStroke.color, currentStroke.width, prev, pt);
+  });
+  function endStroke() {
+    if (currentStroke && currentStroke.points.length > 1) strokes.push(currentStroke);
+    currentStroke = null;
+  }
+  canvas.addEventListener('pointerup', endStroke);
+  canvas.addEventListener('pointercancel', endStroke);
+
+  var toggleBtn = document.getElementById('dl-draw-toggle');
+  var clearBtn = document.getElementById('dl-draw-clear');
+  var swatches = document.querySelectorAll('.dl-draw-swatch');
+  var widthBtns = document.querySelectorAll('.dl-draw-width-btn');
+  var saveBtn = document.getElementById('dl-draw-save-pdf');
+  var printBtn = document.getElementById('dl-draw-print-pdf');
+  var statusEl = document.getElementById('dl-draw-status');
+
+  if (toggleBtn) {
+    toggleBtn.addEventListener('click', function() {
+    drawing = !drawing;
+      if (drawing) {
+        canvas.style.display = 'block';
+        sizeCanvas();
+      } else if (!strokes.length) {
+        canvas.style.display = 'none';
+      }
+      canvas.classList.toggle('dl-draw-canvas-active', drawing);
+      toggleBtn.textContent = drawing ? 'Stop drawing' : 'Start drawing';
+      toggleBtn.classList.toggle('dl-fv-nav-btn-active', drawing);
+    });
+  }
+  if (clearBtn) {
+    clearBtn.addEventListener('click', function() {
+      strokes = [];
+      redraw();
+    });
+  }
+  swatches.forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      activeColor = btn.dataset.color;
+      swatches.forEach(function(b) { b.classList.remove('dl-draw-swatch-active'); });
+      btn.classList.add('dl-draw-swatch-active');
+    });
+  });
+  widthBtns.forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      activeWidth = parseInt(btn.dataset.width, 10);
+      widthBtns.forEach(function(b) { b.classList.remove('dl-draw-width-active'); });
+      btn.classList.add('dl-draw-width-active');
+    });
+  });
+
+  window.addEventListener('resize', sizeCanvas);
+  window.addEventListener('scroll', function() { if (drawing) sizeCanvas(); }, { passive: true });
+  native.addEventListener('scroll', function() { if (drawing) sizeCanvas(); }, { passive: true });
+  canvas.width = 1;
+  canvas.height = 1;
+
+  function loadScript(src) {
+    return new Promise(function(resolve, reject) {
+      var s = document.createElement('script');
+      s.src = src;
+      s.onload = resolve;
+      s.onerror = reject;
+      document.head.appendChild(s);
+    });
+  }
+
+  function safeFilePart(s) {
+    return (s || '').toString().trim().replace(/[^a-z0-9]+/gi, '_').replace(/^_+|_+$/g, '') || 'untitled';
+  }
+
+  // Real user ask (repeated): "it saves every page when i just want it to save
+  // the pages you highlighted" - only pages containing a real stroke are ever
+  // exported now (not an opt-in checkbox anymore). Finding those page ranges
+  // first, BEFORE rendering anything, is also what makes rendering each one at
+  // real print resolution (scale: DPR below) safe/fast - one giant scale-2
+  // capture of a 50+ page filing would be tens of thousands of pixels tall and
+  // either crash or take minutes; capturing just the handful of marked pages,
+  // one at a time via html2canvas's own x/y/width/height crop options, never
+  // renders more than a few real page-heights at once.
+  function pagesWithStrokes(pageHeightCss, totalHeightCss) {
+    var totalPages = Math.max(1, Math.ceil(totalHeightCss / pageHeightCss));
+    var pages = [];
+    for (var p = 0; p < totalPages; p++) {
+      var y0 = p * pageHeightCss, y1 = Math.min(totalHeightCss, y0 + pageHeightCss);
+      var has = strokes.some(function(s) {
+        return s.points.some(function(pt) { return pt.y >= y0 && pt.y < y1; });
+      });
+      if (has) pages.push({ y0: y0, y1: y1 });
+    }
+    return pages;
+  }
+
+  // Repaint only vectors intersecting the exported page. Sampling the full
+  // document overlay canvas is very expensive for long 10-K filings.
+  function paintStrokeSlice(cctx, s, y0, y1, scale) {
+    if (!s || !s.points || s.points.length < 2) return;
+    if (!s.points.some(function(pt) { return pt.y >= y0 && pt.y < y1; })) return;
+    cctx.strokeStyle = s.color;
+    cctx.lineWidth = s.width * scale;
+    cctx.lineCap = 'round';
+    cctx.lineJoin = 'round';
+    cctx.globalAlpha = s.width > 8 ? 0.4 : 1;
+    cctx.beginPath();
+    cctx.moveTo(s.points[0].x * scale, (s.points[0].y - y0) * scale);
+    for (var i = 1; i < s.points.length; i++) {
+      cctx.lineTo(s.points[i].x * scale, (s.points[i].y - y0) * scale);
+    }
+    cctx.stroke();
+    cctx.globalAlpha = 1;
+  }
+
+  function filingContentWidthCss() {
+    var nativeRect = native.getBoundingClientRect();
+    var maxRight = 0;
+    // Measure actual text ink rather than the raw filing wrapper, which often
+    // reserves a much wider column than the filing itself and created the large
+    // blank strip on the right side of exported PDFs.
+    var walker = document.createTreeWalker(native, NodeFilter.SHOW_TEXT);
+    var node;
+    while ((node = walker.nextNode())) {
+      if (!node.nodeValue || !node.nodeValue.trim()) continue;
+      var range = document.createRange();
+      range.selectNodeContents(node);
+      var rect = range.getBoundingClientRect();
+      if (rect.width > 0 && rect.height > 0) {
+        maxRight = Math.max(maxRight, rect.right - nativeRect.left + (native.scrollLeft || 0));
+      }
+    }
+    return Math.min(native.scrollWidth, Math.max(1, Math.ceil(maxRight + 24)));
+  }
+
+  function openVectorPrint() {
+    if (!strokes.length) {
+      statusEl.textContent = 'Nothing to print - draw on the document first.';
+      return;
+    }
+    var cssWidth = native.scrollWidth;
+    var cssHeight = native.scrollHeight;
+    var contentWidth = filingContentWidthCss();
+    var pageWpx = 816, pageHpx = 1056;
+    var pageHeightCss = pageHpx * (cssWidth / pageWpx);
+    var pages = pagesWithStrokes(pageHeightCss, cssHeight);
+    var printWin = window.open('', '_blank');
+    if (!printWin) {
+      statusEl.textContent = 'Allow pop-ups for this site to use vector PDF export.';
+      return;
+    }
+    var headStyles = '';
+    document.querySelectorAll('style').forEach(function(style) {
+      headStyles += style.outerHTML;
+    });
+    var meta = window.__DL_DRAW_META__ || {};
+    var printName = [safeFilePart(meta.ticker), safeFilePart(meta.docLabel), safeFilePart(meta.topic), 'vector'].join('_');
+    var html = '<!doctype html><html><head><meta charset="utf-8"><title>' + printName + '</title>' + headStyles +
+      '<style>@page{size:' + contentWidth + 'px ' + pageHeightCss + 'px;margin:0}' +
+      'html,body{margin:0;padding:0;background:#fff}' +
+      '.dl-print-page{position:relative;width:' + contentWidth + 'px;height:' + pageHeightCss +
+      'px;overflow:hidden;page-break-after:always;background:#fff}' +
+      '.dl-print-clip{position:relative;width:' + contentWidth + 'px;height:' + pageHeightCss +
+      'px;overflow:hidden}' +
+      '.dl-print-clip .dl-fv-native{position:relative!important;left:0;margin:0!important;' +
+      'width:' + cssWidth + 'px!important;max-width:none!important;overflow:visible!important;' +
+      'border:0!important;box-shadow:none!important}' +
+      '.dl-print-annotations{position:absolute;left:0;top:0;z-index:20;pointer-events:none}' +
+      '@media print{.dl-print-page:last-child{page-break-after:auto}}' +
+      '</style></head><body>';
+    pages.forEach(function(pg) {
+      var clone = native.cloneNode(true);
+      var oldCanvas = clone.querySelector('#dl-draw-canvas');
+      if (oldCanvas) oldCanvas.remove();
+      clone.style.position = 'relative';
+      clone.style.top = '0';
+      clone.style.left = '0';
+      clone.style.height = cssHeight + 'px';
+      clone.style.transform = 'translateY(' + (-pg.y0) + 'px)';
+      clone.style.transformOrigin = 'top left';
+      var paths = strokes.map(function(s) {
+        if (!s.points || s.points.length < 2) return '';
+        if (!s.points.some(function(pt) { return pt.y >= pg.y0 && pt.y < pg.y1; })) return '';
+        var d = s.points.map(function(pt, i) {
+          return (i ? 'L' : 'M') + ' ' + pt.x + ' ' + (pt.y - pg.y0);
+        }).join(' ');
+        var opacity = s.width > 8 ? '0.4' : '1';
+        return '<path d="' + d + '" fill="none" stroke="' + s.color +
+          '" stroke-width="' + s.width + '" stroke-linecap="round" stroke-linejoin="round" opacity="' + opacity + '"/>';
+      }).join('');
+      html += '<section class="dl-print-page"><div class="dl-print-clip">' +
+        clone.outerHTML + '<svg class="dl-print-annotations" width="' + contentWidth +
+        '" height="' + (pg.y1 - pg.y0) + '" viewBox="0 0 ' + contentWidth + ' ' +
+        (pg.y1 - pg.y0) + '">' + paths + '</svg></div></section>';
+    });
+    html += '</body></html>';
+    printWin.document.open();
+    printWin.document.write(html);
+    printWin.document.close();
+    printWin.focus();
+    statusEl.textContent = 'Print preview opened - choose Save to PDF.';
+    setTimeout(function() { printWin.print(); }, 900);
+  }
+
+  if (printBtn) printBtn.addEventListener('click', openVectorPrint);
+
+  if (saveBtn) {
+    saveBtn.addEventListener('click', function() {
+      if (!strokes.length) {
+        statusEl.textContent = 'Nothing to export - draw on the document first.';
+        return;
+      }
+      saveBtn.disabled = true;
+      statusEl.textContent = 'Rendering pages…';
+      Promise.all([
+        loadScript('https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js'),
+        loadScript('https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js'),
+      ]).then(function() {
+        // Real, confirmed quality bug (twice): capturing at scale:1 (raw CSS
+        // pixels) produced visibly blurry/low-res exported pages. The first
+        // fix tied this to window.devicePixelRatio, which was itself the real
+        // remaining bug - a real user report of "still low res" traced to a
+        // real standard (non-Retina) display reporting devicePixelRatio 1, so
+        // the "fix" was a no-op there. A PDF is for reading/printing later, on
+        // ANY device, not just whatever screen happened to trigger the export
+        // - fixed at a flat 2x (real, verified print-quality output:
+        // ~192dpi-equivalent for an 8.5x11 page) regardless of the exporting
+        // screen's own pixel density. Cheap to afford unconditionally since
+        // this only ever renders the marked pages, never the whole document.
+        // 1.5x gives approximately 144-DPI Letter output, which keeps filing
+        // text readable when zoomed or printed while remaining far smaller than
+        // the old 2x lossless-PNG exporter.
+        var DPR = 1.5;
+        var pageWpx = 816, pageHpx = 1056; // US Letter @ 96dpi
+        var cssWidth = native.scrollWidth;
+        var cssHeight = native.scrollHeight;
+        var contentWidth = filingContentWidthCss();
+        var pageHeightCss = pageHpx * (cssWidth / pageWpx);
+        // Use a page width that matches the cropped filing aspect ratio. The
+        // previous code cropped the right margin and then stretched the crop
+        // back to a full Letter rectangle, which made text visibly blurry.
+        var pdfPageW = Math.max(1, Math.round(pageHpx * contentWidth / pageHeightCss));
+        var pages = pagesWithStrokes(pageHeightCss, cssHeight);
+        if (!pages.length) {
+          statusEl.textContent = 'Nothing to export - draw on the document first.';
+          saveBtn.disabled = false;
+          return;
+        }
+        var wasActive = canvas.classList.contains('dl-draw-canvas-active');
+        canvas.classList.remove('dl-draw-canvas-active');
+        var wasVisible = canvas.style.display !== 'none';
+        canvas.style.display = 'none';
+        var jsPDF = window.jspdf.jsPDF;
+        var pdf = null;
+        var chain = Promise.resolve();
+        pages.forEach(function(pg) {
+          chain = chain.then(function() {
+            var sliceH = pg.y1 - pg.y0;
+            return html2canvas(native, {
+              backgroundColor: '#ffffff',
+              scale: DPR, x: 0, y: pg.y0, width: cssWidth, height: sliceH,
+            }).then(function(pageCanvas) {
+              var comp = document.createElement('canvas');
+              var cropWidth = Math.min(pageCanvas.width, Math.max(1, Math.ceil(contentWidth * DPR)));
+              comp.width = cropWidth;
+              comp.height = pageCanvas.height;
+              var cctx = comp.getContext('2d');
+              // Make the composition opaque. Otherwise jsPDF carries a full
+              // alpha mask alongside every page image.
+              cctx.fillStyle = '#ffffff';
+              cctx.fillRect(0, 0, comp.width, comp.height);
+              cctx.drawImage(pageCanvas, 0, 0, cropWidth, pageCanvas.height, 0, 0, cropWidth, pageCanvas.height);
+              // Repaint only vectors for this marked page. Avoid sampling the
+              // full-document annotation canvas (often 100k+ px tall).
+              strokes.forEach(function(s) { paintStrokeSlice(cctx, s, pg.y0, pg.y1, DPR); });
+              var imgData = comp.toDataURL('image/jpeg', 0.9);
+              var destH = pageHpx * (sliceH / pageHeightCss);
+              if (!pdf) {
+                 pdf = new jsPDF({ unit: 'px', format: [pdfPageW, pageHpx] });
+               } else {
+                 pdf.addPage([pdfPageW, pageHpx]);
+               }
+               pdf.addImage(imgData, 'JPEG', 0, 0, pdfPageW, destH, undefined, 'FAST');
+            });
+          });
+        });
+        return chain.then(function() {
+          if (wasActive) canvas.classList.add('dl-draw-canvas-active');
+          canvas.style.display = wasVisible ? 'block' : 'none';
+          var meta = window.__DL_DRAW_META__ || {};
+          var filename = [safeFilePart(meta.ticker), safeFilePart(meta.docLabel), safeFilePart(meta.topic), 'annotated'].join('_') + '.pdf';
+          pdf.save(filename);
+          statusEl.textContent = '';
+          saveBtn.disabled = false;
+        });
+      }).catch(function(err) {
+        canvas.style.display = 'block';
+        statusEl.textContent = 'Could not export - check your connection and try again.';
+        saveBtn.disabled = false;
+      });
+    });
+  }
+})();
+</script><script>
+(function() {
+  var KEY = 'dl-theme';
+  var root = document.documentElement;
+  var buttons = Array.prototype.slice.call(document.querySelectorAll('.dl-theme-btn'));
+  if (!buttons.length) return;
+
+  function applyTheme(theme) {
+    var effective = theme || root.getAttribute('data-theme-default');
+    if (theme) { root.setAttribute('data-theme', theme); } else { root.removeAttribute('data-theme'); }
+    buttons.forEach(function(b) {
+      b.classList.toggle('dl-theme-btn-active', b.getAttribute('data-theme-choice') === effective);
+    });
+  }
+
+  var saved = null;
+  try { saved = localStorage.getItem(KEY); } catch (e) {}
+  applyTheme(saved);
+
+  buttons.forEach(function(b) {
+    b.addEventListener('click', function() {
+      var choice = b.getAttribute('data-theme-choice');
+      try { localStorage.setItem(KEY, choice); } catch (e) {}
+      applyTheme(choice);
+    });
+  });
+})();
+</script><style id="dl-mobile-reader-assets">/* Shared, self-contained filing/transcript reader. Version 2.7.53. */
+.dl-mobile-nav, .dl-mobile-close { display: none; }
+.dl-viewer-version { position: fixed; bottom: 3px; left: 10px; z-index: 1001; font: 10px Arial, sans-serif; color: #596a80; background: #f5f8fc; padding: 2px 5px; border-radius: 3px; }
+@media screen and (max-width: 980px) {
+  html.dl-mobile-reader { scroll-padding-bottom: 100px; overflow-x: hidden; }
+  .dl-mobile-reader body { overflow-x: clip; width: 100%; }
+  .dl-mobile-reader .dl-fv-shell { padding-bottom: calc(92px + env(safe-area-inset-bottom)); }
+  .dl-mobile-reader .dl-fv-head { padding: 18px 14px 0; }
+  .dl-mobile-reader .dl-fv-head h1 { padding-right: 125px; line-height: 1.4; }
+  .dl-mobile-reader .dl-theme-toggle { top: 10px; right: 10px; bottom: auto; }
+  .dl-mobile-reader[data-mobile-panel="research"] .dl-theme-toggle,
+  .dl-mobile-reader[data-mobile-panel="find"] .dl-theme-toggle { display: none; }
+  .dl-mobile-reader .dl-hover-scroll-toggle-label { display: none; }
+  .dl-mobile-reader .dl-fv-note { font-size: 12px; margin-bottom: 14px; }
+  .dl-mobile-reader .dl-fv-cols { display: block; padding: 0 10px 20px; }
+  .dl-mobile-reader .dl-fv-native { box-sizing: border-box; width: 100%; padding: 18px 12px; overflow-x: auto; overscroll-behavior-x: contain; border-radius: 10px; }
+  .dl-mobile-reader .dl-fv-side { display: none; box-sizing: border-box; position: fixed; top: 12px; bottom: calc(84px + env(safe-area-inset-bottom)); left: 10px; right: 10px; width: auto; max-height: none; z-index: 990; overflow: auto; overscroll-behavior: contain; border-radius: 18px; border-left-width: 1px; padding: 0 14px 20px; box-shadow: 0 8px 48px #142c4840; }
+  .dl-mobile-reader[data-mobile-panel="research"] .dl-fv-side,
+  .dl-mobile-reader[data-mobile-panel="find"] .dl-fv-side { display: block; }
+  .dl-mobile-reader .dl-fv-side-header { position: sticky; top: 0; z-index: 5; margin: 0 -14px 14px; padding: 16px 65px 14px 16px; background: #fff; border-bottom: 1px solid #dfe6ee; }
+  .dl-mobile-reader .dl-fv-side-header h2 { margin: 0; font-size: 18px; color: #142c48; }
+  .dl-mobile-reader .dl-fv-side-header p { margin: 5px 0 0; font-size: 12px; line-height: 1.5; color: #6b7688; }
+  .dl-mobile-reader .dl-mobile-close { display: block; position: absolute; right: 10px; top: 10px; width: 44px; height: 44px; border: 1px solid #d7dee8; border-radius: 12px; color: #243247; background: #f2f6fb; font-size: 24px; cursor: pointer; }
+  .dl-mobile-reader .dl-fv-side summary { min-height: 44px; box-sizing: border-box; display: flex; align-items: center; }
+  .dl-mobile-reader .dl-fv-side a { overflow-wrap: anywhere; }
+  .dl-mobile-reader .dl-fv-search input { font-size: 16px; min-height: 44px; box-sizing: border-box; }
+  .dl-mobile-reader .dl-fv-search button, .dl-mobile-reader .dl-fv-nav-btn { min-height: 44px; }
+  .dl-mobile-reader[data-mobile-panel="find"] .dl-fv-side { top: auto; max-height: 45dvh; }
+  .dl-mobile-reader[data-mobile-panel="find"] .dl-fv-side > :not(.dl-mobile-search-box):not(.dl-fv-side-header) { display: none; }
+  .dl-mobile-reader[data-mobile-panel="find"] .dl-fv-search-box { margin-top: 0; }
+  .dl-mobile-reader .dl-mobile-nav { display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px; position: fixed; bottom: 0; left: 0; right: 0; z-index: 1000; padding: 8px 12px calc(23px + env(safe-area-inset-bottom)); background: #f5f8fc; border-top: 1px solid #d7dee8; box-shadow: 0 -4px 24px #142c4814; font: 600 13px Arial, sans-serif; }
+  .dl-mobile-nav button { border: 0; border-radius: 12px; min-height: 48px; padding: 7px; color: #53647a; background: transparent; font: inherit; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 7px; }
+  .dl-mobile-nav svg { width: 19px; height: 19px; fill: none; stroke: currentColor; stroke-width: 1.8; }
+  .dl-mobile-nav button[aria-pressed="true"] { background: #dcecff; color: #0759a7; }
+  .dl-mobile-nav button:focus-visible, .dl-mobile-close:focus-visible { outline: 3px solid #0a66c2; outline-offset: 2px; }
+  .dl-mobile-reader .dl-viewer-version { bottom: calc(3px + env(safe-area-inset-bottom)); }
+  html[data-theme="dark"] .dl-mobile-nav, html[data-theme="dark"] .dl-viewer-version { background: #202630; color: #bac8dc; border-color: #3a4554; }
+  html[data-theme="dark"] .dl-mobile-nav button { color: #bac8dc; }
+  html[data-theme="dark"] .dl-mobile-nav button[aria-pressed="true"] { background: #173e59; color: #7cdbff; }
+  html[data-theme="dark"] .dl-mobile-close { background: #202630; color: #dfe4ea; border-color: #3a4554; }
+  html[data-theme="dark"] .dl-fv-side-header { background: #262a33; border-color: #3a4554; }
+  html[data-theme="dark"] .dl-fv-side-header h2 { color: #f4f7fb; }
+  html[data-theme="dark"] .dl-fv-side-header p { color: #bac8dc; }
+}
+@media print { .dl-mobile-nav, .dl-mobile-close { display: none !important; } }
+</style><script>/* Version 2.7.53. Embedded in generated reports so downloaded copies work too. */
+(function () {
+  'use strict';
+  var root = document.documentElement;
+  var side = document.querySelector('.dl-fv-side');
+  var native = document.querySelector('.dl-fv-native');
+  if (!side || !native || document.querySelector('.dl-mobile-nav')) return;
+  var media = window.matchMedia('(max-width: 980px)');
+  var panel = 'document';
+  var searchInput = side.querySelector('#dl-search-input');
+  if (searchInput) searchInput.closest('.dl-fv-search-box').classList.add('dl-mobile-search-box');
+  var savedOverflow = '';
+  var locked = false;
+  var nav = document.createElement('nav');
+  nav.className = 'dl-mobile-nav';
+  nav.setAttribute('aria-label', 'Report reader');
+  var icons = ['<path d="M5 3h9l5 5v13H5z M14 3v6h5 M8 13h8 M8 17h6"/>', '<path d="M4 5h16v14H4z M9 5v14 M12 9h5 M12 13h5"/>', '<circle cx="10" cy="10" r="6"/><path d="m15 15 6 6"/>'];
+  ['Document', 'Research', 'Find'].forEach(function (label, i) {
+    var button = document.createElement('button');
+    button.type = 'button';
+    button.dataset.panel = label.toLowerCase();
+    button.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true">' + icons[i] + '</svg><span>' + label + '</span>';
+    button.addEventListener('click', function () { setPanel(button.dataset.panel, true); });
+    nav.appendChild(button);
+  });
+  if (!side.id) side.id = 'dl-mobile-research';
+  var close = document.createElement('button');
+  close.type = 'button';
+  close.className = 'dl-mobile-close';
+  close.setAttribute('aria-label', 'Return to document');
+  close.textContent = '×';
+  close.addEventListener('click', function () { setPanel('document', true); });
+  var header = side.querySelector('.dl-fv-side-header');
+  if (!header) {
+    header = document.createElement('div');
+    header.className = 'dl-fv-side-header';
+    header.innerHTML = '<h2>Research</h2><p>Explore the evidence. Tap a quote to read its source.</p>';
+    side.prepend(header);
+  }
+  header.appendChild(close);
+  document.body.appendChild(nav);
+  var version = document.createElement('div');
+  version.className = 'dl-viewer-version';
+  version.textContent = 'DocuLens v2.7.53';
+  document.body.appendChild(version);
+  root.classList.add('dl-mobile-reader');
+
+  function setPanel(next, focus) {
+    panel = next;
+    root.dataset.mobilePanel = next;
+    var active = media.matches && next !== 'document';
+    // Research owns scrolling while open. Find leaves the document scrollable.
+    if (media.matches && next === 'research' && !locked) {
+      savedOverflow = document.body.style.overflow;
+      document.body.style.overflow = 'hidden';
+      locked = true;
+    } else if ((!media.matches || next !== 'research') && locked) {
+      document.body.style.overflow = savedOverflow;
+      locked = false;
+    }
+    native.inert = media.matches && next === 'research';
+    nav.querySelectorAll('button').forEach(function (button) {
+      button.setAttribute('aria-pressed', String(button.dataset.panel === next));
+      if (button.dataset.panel !== 'document') {
+        button.setAttribute('aria-controls', side.id);
+        button.setAttribute('aria-expanded', String(active && button.dataset.panel === next));
+      }
+    });
+    if (focus && media.matches) {
+      var target = next === 'find' ? side.querySelector('#dl-search-input') : next === 'research' ? close : nav.querySelector('button');
+      if (target) target.focus({preventScroll: true});
+    }
+  }
+  // Close BEFORE native anchor navigation / existing citation click handlers.
+  side.addEventListener('click', function (event) {
+    var link = event.target.closest('a[href]');
+    if (!link || !media.matches) return;
+    var url = new URL(link.href, location.href);
+    if (url.pathname !== location.pathname || url.search !== location.search || !url.hash) return;
+    var target;
+    try { target = document.getElementById(decodeURIComponent(url.hash.slice(1))); } catch (_) { return; }
+    if (target && native.contains(target)) setPanel('document', true);
+  }, true);
+  document.addEventListener('keydown', function (event) {
+    if (event.key === 'Escape' && media.matches && panel !== 'document') setPanel('document', true);
+  });
+  media.addEventListener('change', function () { setPanel('document', false); });
+  setPanel('document', false);
+})();
+</script><style id="dl-evidence-sidebar-assets">/* Approved mixed sidebar design. DocuLens v2.7.59. */
+.dl-fv-side[data-evidence-design] { box-sizing: border-box; width: 420px; border: 1px solid #d9e2ef; border-radius: 10px; padding: 0 20px 20px; box-shadow: 0 3px 16px #142c480a; background: #fff; color: #182e4c; font-size: 14px; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-header { display: grid; grid-template-columns: 1fr auto; align-items: center; margin: 0; padding: 18px 0 12px; background: #fff; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-header h2 { font-size: 19px; margin: 0; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-header p { grid-column: 1 / -1; grid-row: 2; font-size: 12px; line-height: 1.5; margin: 5px 0 0; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-header .dl-fv-nav-cross { grid-column: 2; grid-row: 1; width: auto; min-height: 0; margin: 0; border: 0; padding: 3px 0 3px 10px; font-size: 12px; background: transparent; }
+.dl-fv-side[data-evidence-design] .dl-hover-scroll-toggle-label { font-size: 12px; margin: 8px 0 10px; }
+.dl-sidebar-content { min-width: 0; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-section { box-shadow: none; margin: 0 0 10px; border: 1px solid #d9e2ef; border-radius: 8px; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-section > summary { min-height: 48px; box-sizing: border-box; padding: 12px 15px; background: #f5f8fc; color: #0960b8; font-size: 15px; line-height: 1.35; text-transform: none; letter-spacing: 0; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-title { gap: 12px; flex: 1; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-icon svg { width: 19px; height: 19px; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-section-body { padding: 12px 15px 16px; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-section-body li { font-size: 13px; line-height: 1.55; overflow-wrap: anywhere; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-topic-group { margin-bottom: 14px; border: 0; background: transparent; box-shadow: none; overflow: visible; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-topic-group > .dl-evidence-card { margin-bottom: 0; }
+.dl-evidence-card { border: 1px solid #d9e2ef; border-radius: 9px; margin-bottom: 14px; background: #fff; overflow: hidden; }
+.dl-evidence-heading { display: flex; align-items: center; gap: 12px; padding: 17px 16px; cursor: pointer; list-style: none; }
+.dl-evidence-heading::-webkit-details-marker { display: none; }
+.dl-fv-side[data-evidence-design] .dl-evidence-heading .dl-fv-side-topic-heading { flex: 1; min-width: 0; font-size: 18px; line-height: 1.35; font-weight: 700; margin: 0; padding: 0; border: 0; color: #0877ed; overflow-wrap: anywhere; }
+.dl-evidence-count { display: inline-flex; align-items: center; justify-content: center; background: #f0f2f5; color: #233751; min-width: 29px; height: 25px; padding: 0 7px; box-sizing: border-box; border-radius: 20px; font-size: 13px; line-height: 1; font-weight: 600; flex: 0 0 auto; }
+.dl-evidence-heading > .dl-evidence-count { color: #1475e6; background: #eaf3ff; }
+.dl-evidence-heading::after, .dl-fv-side[data-evidence-design] .dl-evidence-row > summary::after { content: ''; display: block; width: 7px; height: 7px; border: solid #39516d; border-width: 0 2px 2px 0; transform: rotate(-45deg); flex: 0 0 auto; margin-left: 4px; }
+.dl-evidence-card[open] > .dl-evidence-heading::after, .dl-fv-side[data-evidence-design] .dl-evidence-row[open] > summary::after { transform: rotate(45deg); }
+.dl-evidence-body { padding: 0 10px 3px; }
+.dl-evidence-highlights { display: flex; gap: 12px; background: #f2f7fd; border: 1px solid #e0e7f0; border-radius: 6px; padding: 14px 12px; margin: 0 0 5px; }
+.dl-evidence-highlights > svg { flex: 0 0 19px; width: 19px; height: 21px; fill: none; stroke: #1682f5; stroke-width: 1.8; stroke-linecap: round; }
+.dl-evidence-highlights > div { min-width: 0; }
+.dl-evidence-highlights strong { display: block; font-size: 14px; margin: 0 0 6px; }
+.dl-evidence-excerpt { color: #354b69; font-size: 13px; line-height: 1.55; text-decoration: none; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.dl-evidence-excerpt:hover { color: #0960b8; text-decoration: underline; }
+.dl-fv-side[data-evidence-design] .dl-evidence-row { border: 0; border-bottom: 1px solid #dfe6ef; border-radius: 0; margin: 0; }
+.dl-fv-side[data-evidence-design] .dl-evidence-row:last-child { border-bottom: 0; }
+.dl-fv-side[data-evidence-design] .dl-evidence-row > summary { background: #fff; color: #172e4c; padding: 12px 7px; min-height: 48px; font-size: 14px; }
+.dl-fv-side[data-evidence-design] .dl-evidence-row > summary:hover { background: #f7faff; }
+.dl-fv-side[data-evidence-design] .dl-evidence-row > summary .dl-fv-side-icon { color: #426284; }
+.dl-fv-side[data-evidence-design] .dl-fv-search-box { background: #fff; margin: 10px 0 0; padding: 14px; border: 1px solid #d9e2ef; border-radius: 8px; }
+.dl-fv-side[data-evidence-design] .dl-fv-search-box-label { color: #354b69; font-size: 15px; font-weight: 500; text-transform: none; letter-spacing: 0; gap: 10px; margin-bottom: 11px; }
+.dl-fv-side[data-evidence-design] .dl-fv-search { display: grid; grid-template-columns: minmax(0,1fr) 34px 34px auto; gap: 7px; }
+.dl-fv-side[data-evidence-design] .dl-fv-search input { width: 100%; box-sizing: border-box; font-size: 13px; height: 38px; padding: 8px 10px; border-color: #d1dbea; }
+.dl-fv-side[data-evidence-design] .dl-fv-search button { padding: 0; height: 38px; color: #465a75; border-color: #d1dbea; font-size: 17px; }
+.dl-fv-side[data-evidence-design] .dl-fv-search-counter { font-size: 12px; min-width: 33px; text-align: right; color: #51627b; }
+.dl-fv-side[data-evidence-design] .dl-fv-nav-footer { position: static; margin: 0; padding: 16px 0 0; border: 0; background: #fff; }
+.dl-fv-side[data-evidence-design] .dl-fv-nav-btn { box-sizing: border-box; min-width: 0; min-height: 44px; padding: 12px 8px; border: 1px solid #c6d2e2; border-radius: 6px; font-size: 14px; font-weight: 500; line-height: 1.35; color: #0867d3; text-transform: none; letter-spacing: 0; }
+.dl-fv-side[data-evidence-design] .dl-fv-nav-btn:hover { border-color: #1678ed; background: #f3f8ff; }
+.dl-fv-side[data-evidence-design] .dl-fv-nav-btn.dl-fv-nav-btn-active { color: #fff; background: #0968d4; border-color: #0968d4; }
+.dl-fv-side[data-evidence-design] .dl-fv-nav-quarters { gap: 10px; }
+.dl-fv-side[data-evidence-design] .dl-fv-nav-back, .dl-fv-side[data-evidence-design] .dl-fv-nav-cross { margin-bottom: 10px; }
+.dl-fv-side[data-evidence-design] :is(summary,button,a,input):focus-visible { outline: 2px solid #1678ed; outline-offset: 2px; }
+@media screen and (min-width: 981px) {
+  /* Let the reader end after its actual evidence/tools instead of stretching to
+     the viewport when MD&A and Footnotes are collapsed. Long panels still get
+     their own scroll container, so a filing with many results remains usable. */
+  .dl-fv-side[data-evidence-design] { display: block; height: auto; max-height: calc(100dvh - 40px); overflow-y: auto; overflow-x: hidden; }
+  .dl-fv-side[data-evidence-design] .dl-sidebar-content { overflow: visible; scrollbar-gutter: auto; padding-right: 5px; }
+  .dl-fv-side[data-evidence-design] .dl-sidebar-tools { max-height: 35dvh; overflow-y: auto; overflow-x: hidden; padding-top: 10px; }
+  .dl-fv-side[data-evidence-design] .dl-sidebar-tools > .dl-fv-side-section { margin-bottom: 8px; }
+  .dl-fv-side[data-evidence-design] .dl-sidebar-tools > .dl-fv-side-section > summary { min-height: 44px; padding-top: 10px; padding-bottom: 10px; }
+  .dl-fv-side[data-evidence-design] .dl-sidebar-tools > :last-child { margin-bottom: 0; }
+  /* Keep long evidence sections compact: five entries are visible at rest. Hover
+     or keyboard focus reveals the remaining entries inside that section's own
+     scroll window, so the surrounding filing viewer layout does not grow. */
+  .dl-fv-side[data-evidence-design] .dl-evidence-row.dl-evidence-preview .dl-evidence-extra { display: none; }
+  .dl-fv-side[data-evidence-design] .dl-evidence-row.dl-evidence-preview:hover ul > li.dl-evidence-extra,
+  .dl-fv-side[data-evidence-design] .dl-evidence-row.dl-evidence-preview:focus-within ul > li.dl-evidence-extra { display: list-item; }
+  .dl-fv-side[data-evidence-design] .dl-evidence-row.dl-evidence-preview:hover .dl-fv-side-qa.dl-evidence-extra,
+  .dl-fv-side[data-evidence-design] .dl-evidence-row.dl-evidence-preview:focus-within .dl-fv-side-qa.dl-evidence-extra { display: block; }
+  .dl-fv-side[data-evidence-design] .dl-evidence-row.dl-evidence-preview:hover > .dl-fv-side-section-body,
+  .dl-fv-side[data-evidence-design] .dl-evidence-row.dl-evidence-preview:focus-within > .dl-fv-side-section-body {
+    max-height: min(42rem, calc(100vh - 260px));
+    overflow-y: auto;
+    scrollbar-gutter: stable;
+  }
+  .dl-evidence-reader .dl-theme-toggle { top: 16px; bottom: auto; }
+}
+@media screen and (min-width: 981px) and (max-width: 1180px) { .dl-fv-side[data-evidence-design] { width: 370px; padding: 0 14px 14px; } }
+@media screen and (max-width: 980px) {
+  .dl-fv-side[data-evidence-design] .dl-evidence-row.dl-evidence-preview .dl-evidence-extra { display: revert; }
+  .dl-mobile-reader .dl-fv-side[data-evidence-design] { width: auto; padding: 0 14px 20px; }
+  .dl-mobile-reader .dl-fv-side[data-evidence-design] .dl-fv-side-header { padding: 16px 50px 14px 0; }
+  .dl-mobile-reader .dl-fv-side[data-evidence-design] .dl-fv-side-header .dl-fv-nav-cross { grid-column: 1 / -1; grid-row: 3; justify-self: start; padding: 6px 0 0; }
+  .dl-mobile-reader .dl-fv-side[data-evidence-design] .dl-fv-search input { font-size: 16px; }
+  .dl-mobile-reader .dl-fv-side[data-evidence-design] .dl-fv-search { grid-template-columns: minmax(0,1fr) 38px 38px auto; }
+  .dl-mobile-reader .dl-fv-side[data-evidence-design] .dl-fv-search button { min-height: 44px; }
+  .dl-fv-side[data-evidence-design] .dl-evidence-heading { padding: 14px 12px; }
+}
+html[data-theme="dark"] .dl-fv-side[data-evidence-design] { color: #e1eaf5; background: #222a36; border-color: #3d4a5d; }
+html[data-theme="dark"] .dl-fv-side[data-evidence-design] :is(.dl-fv-side-header,.dl-evidence-card,.dl-evidence-row > summary,.dl-fv-nav-footer,.dl-fv-search-box) { background: #222a36; color: #e1eaf5; border-color: #3d4a5d; }
+html[data-theme="dark"] .dl-fv-side[data-evidence-design] .dl-fv-side-section > summary, html[data-theme="dark"] .dl-evidence-highlights { background: #293648; color: #dcecff; border-color: #43536a; }
+html[data-theme="dark"] .dl-fv-side[data-evidence-design] :is(.dl-evidence-excerpt,.dl-fv-search-box-label,.dl-fv-search-counter) { color: #c5d5eb; }
+html[data-theme="dark"] .dl-evidence-count { background: #35455e; color: #d3e6ff; }
+html[data-theme="dark"] .dl-fv-side[data-evidence-design] .dl-fv-nav-btn { background: #263347; color: #84bdff; border-color: #50617b; }
+@media print { .dl-fv-side[data-evidence-design] { display: none; } }
+</style><script>/* DocuLens evidence sidebar, v2.7.61. Move existing controls; preserve their listeners and source links. */
+(function () {
+  'use strict';
+  function init() {
+  var side = document.querySelector('.dl-fv-side');
+  if (!side || side.dataset.evidenceDesign) return !!side;
+  side.dataset.evidenceDesign = '2.7.59';
+  document.documentElement.classList.add('dl-evidence-reader');
+  var meta = window.__DL_DRAW_META__ || {};
+  var search = side.querySelector('#dl-search-input');
+  var searchBox = search && search.closest('.dl-fv-search-box');
+  var nav = side.querySelector('.dl-fv-nav-footer');
+  var header = side.querySelector('.dl-fv-side-header');
+  if (header) {
+    var headingText = header.querySelector('h2');
+    var note = header.querySelector('p');
+    if (headingText) headingText.textContent = 'Evidence';
+    if (note) note.textContent = 'Evidence linked to this source document';
+    var crossView = nav && nav.querySelector('.dl-fv-nav-cross');
+    if (crossView) header.appendChild(crossView);
+  }
+  var hover = side.querySelector('.dl-hover-scroll-toggle-label');
+  var content = document.createElement('div');
+  content.className = 'dl-sidebar-content';
+  content.setAttribute('aria-label', 'Evidence and research tools');
+  Array.from(side.children).forEach(function (child) {
+    if (child !== searchBox && child !== nav && child !== header && child !== hover) content.appendChild(child);
+  });
+  side.appendChild(content);
+  if (searchBox) side.appendChild(searchBox);
+  if (nav) side.appendChild(nav);
+
+  // The manifest is written before the report is made available. This shared
+  // reader runs in both server and browser-rendered filing/transcript viewers.
+  fetch('presentation_sources.json').then(function (response) {
+    if (!response.ok) return [];
+    return response.json();
+  }).then(function (decks) {
+    if (!Array.isArray(decks) || !decks.length) return;
+    var doc = String(meta.docLabel || '').replace(/_/g, ' ');
+    var year = (doc.match(/\b20\d{2}\b/) || [])[0];
+    var quarter = (doc.match(/\bQ([1-4])\b/i) || [])[1];
+    var matches = decks.filter(function (deck) {
+      return String(deck.year) === year && String(deck.quarter) === quarter &&
+        deck.url !== location.pathname.split('/').pop();
+    });
+    if (!matches.length) return;
+    var section = document.createElement('details');
+    section.className = 'dl-fv-side-section';
+    section.open = true;
+    var summary = document.createElement('summary');
+    summary.textContent = 'Earnings presentations';
+    section.appendChild(summary);
+    var body = document.createElement('div');
+    body.className = 'dl-fv-side-section-body';
+    matches.forEach(function (deck) {
+      if (!/^Presentation_[a-f0-9]{16}\.html$/.test(deck.url)) return;
+      var link = document.createElement('a');
+      link.className = 'dl-fv-nav-btn';
+      link.href = deck.url;
+      link.textContent = deck.label;
+      body.appendChild(link);
+    });
+    section.appendChild(body);
+    content.prepend(section);
+  }).catch(function () {});
+
+  function label(section) {
+    var summary = section.querySelector(':scope > summary');
+    return summary ? summary.textContent.replace(/\s+/g, ' ').trim() : '';
+  }
+  function cleanEntryText(text) {
+    return String(text || '')
+      .replace(/\b((?:Note|Item)\s+\d+)\s*[-–—]\s*/gi, '$1 — ')
+      .replace(/\s{2,}/g, ' ')
+      .trim();
+  }
+  function isKeyFinancialStatements(section) {
+    return section.classList.contains('dl-fv-key-financial-statements') ||
+      /^key financial statements$/i.test(label(section));
+  }
+  function isEvidence(section) {
+    if (isKeyFinancialStatements(section) ||
+        section.classList.contains('dl-tp-box') ||
+        section.classList.contains('dl-fv-side-section-kwx')) return false;
+    var title = label(section).replace(/[\u00a0\s]+/g, ' ').trim();
+    return /^(presentation evidence|what management said|management said|md&a|mda|footnotes?|equity research analyst questions|analyst questions|filing passages?)$/i.test(title) ||
+      (!!section.querySelector('a.dl-fv-side-link') && /^(what|management|md|foot|analyst|filing)/i.test(title));
+  }
+  function badge(count) {
+    var span = document.createElement('span');
+    span.className = 'dl-evidence-count';
+    span.textContent = String(count);
+    span.setAttribute('aria-label', count + ' evidence entries');
+    return span;
+  }
+  function rowCount(section) {
+    if (isKeyFinancialStatements(section)) return section.querySelectorAll('li').length;
+    var questions = section.querySelectorAll('.dl-fv-side-qa');
+    if (questions.length) return questions.length;
+    return Array.from(section.querySelectorAll('li')).filter(function (li) {
+      return li.closest('.dl-fv-side-section') === section && !li.parentElement.closest('li');
+    }).length;
+  }
+  function markPreviewEntries(section) {
+    var lists = section.querySelectorAll(':scope > .dl-fv-side-section-body > ul');
+    var visible = 0;
+    Array.from(lists).forEach(function (list) {
+      Array.from(list.children).forEach(function (item) {
+        if (visible < 5) visible += 1;
+        else item.classList.add('dl-evidence-extra');
+      });
+    });
+    var questions = section.querySelectorAll(':scope > .dl-fv-side-section-body > .dl-fv-side-qa');
+    Array.from(questions).forEach(function (item) {
+      if (visible < 5) visible += 1;
+      else item.classList.add('dl-evidence-extra');
+    });
+  }
+  function makeCard(container, name, heading) {
+    var sections = Array.from(container.children).filter(function (child) {
+      return child.matches('.dl-fv-side-section') && (isEvidence(child) || isKeyFinancialStatements(child));
+    });
+    if (!sections.length) return;
+    var card = document.createElement('details');
+    card.className = 'dl-evidence-card';
+    card.open = true;
+    var summary = document.createElement('summary');
+    summary.className = 'dl-evidence-heading';
+    if (!heading) {
+      heading = document.createElement('h2');
+      heading.className = 'dl-fv-side-topic-heading';
+      heading.textContent = name || 'Evidence';
+    }
+    summary.appendChild(heading);
+    var total = sections.reduce(function (n, section) { return n + rowCount(section); }, 0);
+    summary.appendChild(badge(total));
+    card.appendChild(summary);
+    var body = document.createElement('div');
+    body.className = 'dl-evidence-body';
+    sections.forEach(function (section) {
+      section.classList.add('dl-evidence-row');
+      section.open = true;
+      if (rowCount(section) > 5) {
+        section.classList.add('dl-evidence-preview');
+        markPreviewEntries(section);
+      }
+      var rowSummary = section.querySelector(':scope > summary');
+      var title = rowSummary.querySelector('.dl-fv-side-title');
+      if (title && /^what management said$/i.test(label(section))) {
+        Array.from(title.childNodes).forEach(function (node) {
+          if (node.nodeType === Node.TEXT_NODE) node.textContent = node.textContent.replace(/What management said/i, 'Management said');
+        });
+      }
+      rowSummary.appendChild(badge(rowCount(section)));
+      body.appendChild(section);
+    });
+    body.querySelectorAll('details').forEach(function (detail) { detail.open = true; });
+    card.appendChild(body);
+    container.prepend(card);
+  }
+
+  var groups = Array.from(content.querySelectorAll(':scope > .dl-fv-side-topic-group'));
+  if (groups.length) {
+    groups.forEach(function (group, i) {
+      var heading = group.querySelector(':scope > .dl-fv-side-topic-heading');
+      makeCard(group, heading && heading.textContent.trim(), heading);
+    });
+  } else {
+    makeCard(content, meta.topic, null);
+  }
+
+  var toolsPanel = document.createElement('div');
+  toolsPanel.className = 'dl-sidebar-tools';
+  Array.from(content.children).forEach(function (child) {
+    if (!child.matches('.dl-evidence-card,.dl-fv-side-topic-group')) toolsPanel.appendChild(child);
+  });
+  side.insertBefore(toolsPanel, searchBox || nav || null);
+
+  // Normalize generated viewer headings without touching evidence excerpts or
+  // stable IDs. Older saved viewers used all-caps topic headings, while newer
+  // viewers use title case; both should read consistently after this upgrade.
+  function normalizeHeadingText(root) {
+    var walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+    var nodes = [], node;
+    while ((node = walker.nextNode())) nodes.push(node);
+    nodes.forEach(function (textNode) {
+      textNode.textContent = textNode.textContent
+        .replace(/\bTOPIC SEARCH RESULTS\b/gi, 'Topic search results')
+        .replace(/\bIN KEY FINANCIAL STATEMENTS\b/gi, 'in key financial statements')
+        .replace(/\bKEY FINANCIAL STATEMENT METRICS\b/gi, 'Key financial statement metrics')
+        .replace(/\bKEY FINANCIAL STATEMENTS\b/gi, 'Key financial statements')
+        .replace(/^(\s*(?:\d+\.\s*)?)([a-z])/, function (_, prefix, letter) {
+          return prefix + letter.toUpperCase();
+        });
+    });
+  }
+  side.querySelectorAll('.dl-fv-side-title, .dl-fv-side-topic-heading, .dl-evidence-heading').forEach(normalizeHeadingText);
+  side.querySelectorAll('.dl-fv-side-link').forEach(function (link) {
+    link.textContent = cleanEntryText(link.textContent);
+    link.title = link.textContent;
+  });
+  side.querySelectorAll('summary').forEach(function (summary) {
+    summary.querySelectorAll('svg').forEach(function (svg) { svg.setAttribute('aria-hidden', 'true'); });
+  });
+  var version = document.querySelector('.dl-viewer-version');
+  if (!version) {
+    version = document.createElement('div');
+    version.className = 'dl-viewer-version';
+    document.body.appendChild(version);
+  }
+  version.textContent = 'DocuLens v2.7.114';
+
+  // At the top of a report the reader starts below its title; reserve that space too.
+  function fitSidebar() {
+    if (window.innerWidth <= 980) return;
+    var top = Math.max(20, side.getBoundingClientRect().top);
+    side.style.setProperty('--dl-sidebar-height', Math.max(240, window.innerHeight - top - 20) + 'px');
+  }
+  var pending = false;
+  function scheduleFit() {
+    if (pending) return;
+    pending = true;
+    window.requestAnimationFrame(function () { pending = false; fitSidebar(); });
+  }
+  window.addEventListener('scroll', scheduleFit, {passive: true});
+  window.addEventListener('resize', scheduleFit);
+  fitSidebar();
+  return true;
+  }
+
+  // Some served/client-rendered viewers append the filing shell after the
+  // inline assets execute.  A one-shot initializer silently left those pages
+  // with utility controls but no Evidence card or reader wiring.  Retry on
+  // DOM readiness and mutations, then disconnect once the shell is upgraded.
+  if (!init()) {
+    var observer = new MutationObserver(function () {
+      if (init()) observer.disconnect();
+    });
+    observer.observe(document.documentElement, {childList: true, subtree: true});
+    document.addEventListener('DOMContentLoaded', function () {
+      if (init()) observer.disconnect();
+    }, {once: true});
+  }
+})();
+</script></body></html>
