@@ -1,0 +1,382 @@
+[CORE RESEARCH - MULTIPLE TOPICS] KLAC: revenue | operating margin
+
+
+======================================================================
+TOPIC: revenue
+======================================================================
+
+[CORE RESEARCH] KLAC: revenue
+
+Quarters searched: 4
+Filing sections searched: 44
+
+Over the reported periods, revenue guidance and actual results for the company have shown a consistent pattern of meeting or slightly exceeding expectations. Quarterly revenues generally hovered around the guided midpoints with occasional modest upside, reflecting stable forecasting and execution. The company’s revenue mix includes semiconductor process control systems, PCB and component inspection, and service revenues, with fluctuations influenced by customer pricing, volume purchase agreements, foreign exchange rates, and trade restrictions. Management has provided forward-looking guidance with reasonable ranges, and actual results have mostly aligned well with these forecasts. The company also highlighted growth in advanced packaging revenue and a return to growth in service revenues, supporting overall revenue expansion expectations.
+
+Forecasting credibility: High
+The company has demonstrated a strong track record of meeting or exceeding revenue guidance across multiple quarters, with 10 guidance/actual pairs showing mostly Met outcomes. Actual revenues frequently landed at or above the midpoint of guidance ranges, and management’s forward-looking statements about revenue growth and segment contributions have been validated by subsequent results. The presence of precise filing-sourced actuals further supports the reliability of reported figures. This consistent pattern indicates high forecasting credibility.
+
+Trends:
+  - Revenue generally meeting or exceeding guidance
+  - Sequential revenue growth in key quarters
+  - Stable revenue mix with foundry logic increasing
+  - Service revenue growth resuming
+  - Impact of foreign exchange and trade restrictions
+
+Recurring themes/risks:
+  - Fluctuations in foreign currency exchange rates
+  - Customer revenue deferrals from volume purchase agreements
+  - Trade restrictions affecting revenue
+  - Dependence on semiconductor process control systems
+  - Variability in service revenue based on installed base and contract renewals
+
+Key concerns:
+  - Revenue guidance ranges widened slightly in some quarters (e.g., Q4 2024 guidance ±$150 million vs. usual ±$125 million), indicating some uncertainty.
+  - Revenue deferrals and foreign exchange impacts introduce variability that could complicate forecasting.
+  - No significant accounting changes noted, but revenue recognition depends on transfer of control and may be affected by contract terms.
+
+Conclusion:
+The company’s revenue performance has been stable and predictable, with actual results consistently aligning with or surpassing management’s guidance. Revenue growth is supported by a diversified product portfolio including semiconductor process control systems and service revenues, with advanced packaging showing promising momentum. Despite external risks such as currency fluctuations and trade restrictions, management’s guidance has proven reliable, and the company has maintained a credible forecasting record. Overall, revenue trends indicate a solid foundation for continued growth and operational leverage.
+
+Evidence Coverage: 98.9% complete; 364/368 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2024 ===
+Management said:
+  - Revenue was $2.4 billion, non-GAAP diluted EPS was $5.74 and GAAP diluted EPS was $5.41, with all three coming in at the upper end of the guided ranges.
+  - Specifically, revenue of $2.4 billion finished at the upper end of the guidance range.
+  - As for guidance, our December quarter guidance is as follows: total revenue is expected to be $2.45 billion, plus or minus $125 million, foundry logic is forecasted to be approximately 68%, and memory is expected to be around 32% of semiconductor process control systems revenue to semiconductor customers.
+  - I actually think EPC probably has some modest improvement off of pretty depressed levels our incremental operating margin model drives how we're running the business in terms of expectations for leverage on incremental revenue.
+Guidance given:
+  - As for guidance, our December quarter guidance is as follows: total revenue is expected to be $2.45 billion, plus or minus $125 million, foundry logic is forecasted to be approximately 68%, and memory is expected to be around 32% of semiconductor process control systems revenue to semiconductor customers. (target: Q4 2024; Met)
+  - It seems like that was the main source of revenue upside in the quarter, and it looks to be -- based on your comments, down slightly in the next quarter in calendar Q4. (target: Q4 2024; Missed)
+  - If you look at the SPC systems revenue, it looks like it's going to be down 5% to 7% in calendar '23. (target: calendar 2023; Unresolved)
+Actual reported:
+  - [Observed] [from SEC filing] PCB, Display and Component Inspection: Revenues 133,399 131,923 412,474 502,627
+  - [Observed] Revenue was $2.4 billion, non-GAAP diluted EPS was $5.74 and GAAP diluted EPS was $5.41, with all three coming in at the upper end of the guided ranges.
+  - [Observed] Specifically, revenue of $2.4 billion finished at the upper end of the guidance range.
+  - [Observed] If we look at some specific highlights in the quarter, revenue was driven by strength in legacy node investment globally and industry infrastructure investment.
+Filing disclosures (SEC):
+  [MD&A]
+    - Revenue is also impacted by average customer pricing, customer revenue deferrals associated with volume purchase agreements, the effect of fluctuations in foreign currency exchange rates and increased trade restrictions as discussed in the “Executive Summary” section above.
+    - Service revenues are generated from product maintenance and support services, as well as billable time and material service calls made to our customers.
+    - The amount of our service revenues is typically a function of the number of systems installed at our customers’ sites and the utilization of those systems, but it is also impacted by other factors, such as our rate of service contract renewals, the types of systems being serviced and fluctuations in foreign currency exchange rates.
+    - A majority of our revenues are derived from outside the U.S., and include geographic regions such as China, Taiwan, Korea, Japan, Europe and Israel, and Rest of Asia.
+    - Our product revenues in any particular period are impacted by the amount of new orders we receive during that period and, depending upon the duration of manufacturing and installation cycles, in the preceding periods.
+    - Revenues in the PCB, Display and Component Inspection segment during the nine months ended March 31, 2024 decreased compared to the nine months ended March 31, 2023 primarily due to market softening.
+  [Financial Statements]
+    - Revenue: $2.40B | vs prior quarter: — | vs prior year: $2.72B (-12.0%)
+    - Cost of Revenue: $946.9M | vs prior quarter: — | vs prior year: $1.04B (-9.1%)
+    - For geographical revenue reporting, revenues are attributed to the geographic location in which the customer is located.
+    - In the three months ended March 31, 2023, two customers accounted for approximately 18 % and 16 % of total revenues, respectively.
+    - In the nine months ended March 31, 2023, two customers accounted for approximately 20 % and 15 % of total revenues, respectively.
+    - In the three months ended March 31, 2024, one customer accounted for approximately 14 % of total revenues.
+  [Risk Factors]
+    - Any such decisions may impact our ability to recognize revenue, including the fiscal period during which such revenue may be recognized, with respect to such products, which could have a material adverse effect on our business, results of operations or stock price.
+    - A majority of our annual revenues are derived from outside the U.S., and we maintain significant operations outside the U.S. We are exposed to numerous risks as a result of the international nature of our business and operations.
+    - We regularly recognize revenue from a sale upon shipment of the applicable product to the customer (even before receiving the customer’s formal acceptance of that product) in certain situations, including sales of products for which installation is considered perfunctory, transactions in which the product is sold to an independent distributor and we have no installation obligations, and sales of products where we have previously delivered the same product to the same customer location and that prior delivery has been accepted.
+    - Our revenue from sales of products and provision of services to customers in China was 27%, 29% and 26% for fiscal years 2023, 2022 and 2021, respectively.
+    - However, our ability to achieve our anticipated revenue levels is a function of numerous factors, including the volatile and historically cyclical nature of our primary industry, customer order cancellations, macroeconomic changes, operational matters regarding particular agreements, our ability to manage customer deliveries, the availability of resources for the installation of our products, delays or accelerations by customers in taking deliveries and the acceptance of our products (for products where customer acceptance is required before we can recognize revenue from such sales), our ability to operate our business and sales processes effectively, and a number of the other risk factors set forth in this Item 1A.
+    - There can be no assurance that revenues from future products or product enhancements will be sufficient to recover the development costs associated with such products or enhancements.
+
+=== Q2 2024 ===
+Management said:
+  - Revenue was $2.49 billion, slightly above the guidance midpoint of $2.45 billion.
+  - As for guidance, KLA's March quarter guidance is as follows: Revenue is expected to be $2.3 billion, plus or minus $125 million.
+  - Moving to KLA's December quarter results, which were ahead of expectations as revenue grew 4% sequentially to $2.49 billion.
+  - Just on the display business, so 1.5% of revenue last year.
+  - For 2023 KLA revenue was almost $9.7 billion, down 8% versus the prior year.
+  - So, in regards to the comments on display, it's about 1.5% of the revenue of the company.
+  - The breakdown of revenue by reportable segments and end markets and major products and regions can be found within the shareholder letter and slides.
+  - KLA Service business grew 1% on a sequential quarterly basis to $565 million and remained on track to resume the targeted 12% to 14% annual revenue growth trajectory in calendar 2024.
+  - As of now, this translates into KLA revenue bottoming in the March quarter, driven mostly by a customer project delay occurring in the last couple of months.
+  - Foundry Logic is forecasted to be approximately 60%, and memory is expected to be 40% of semi-process control systems revenue.
+  - Non-GAAP gross margin is forecasted to be in a range of 61.5% plus or minus 1 percentage point as product mix weakens quarter to quarter due to lower overall semiconductor process control systems revenue.
+  - Our calendar 2024 operating expenses, we expect $5 million to $10 million incremental growth per quarter beyond the March quarter, in line with expected sequential growth in revenue.
+  - But it is affecting what we ultimately guided for the March quarter, consistent with our revenue recognition policy.
+  - And that drove down the RPO, but the book-to-bill relative to the revenue was actually positive.
+Guidance given:
+  - As for guidance, KLA's March quarter guidance is as follows: Revenue is expected to be $2.3 billion, plus or minus $125 million. (target: Q3 2024 (March quarter); Met)
+  - KLA Service business grew 1% on a sequential quarterly basis to $565 million and remained on track to resume the targeted 12% to 14% annual revenue growth trajectory in calendar 2024. (target: calendar 2024; Met)
+  - Our calendar 2024 operating expenses, we expect $5 million to $10 million incremental growth per quarter beyond the March quarter, in line with expected sequential growth in revenue. (target: calendar 2024; Met)
+Actual reported:
+  - [Observed] Revenue was $2.49 billion, slightly above the guidance midpoint of $2.45 billion.
+  - [Observed] Moving to KLA's December quarter results, which were ahead of expectations as revenue grew 4% sequentially to $2.49 billion.
+  - [Observed] For 2023 KLA revenue was almost $9.7 billion, down 8% versus the prior year.
+  - [Observed] KLA Service business grew 1% on a sequential quarterly basis to $565 million and remained on track to resume the targeted 12% to 14% annual revenue growth trajectory in calendar 2024.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Revenue: $2.49B | vs prior quarter: $2.40B (+3.7%) | vs prior year: $2.98B (-16.7%)
+    - Cost of Revenue: $976.7M | vs prior quarter: $946.9M (+3.2%) | vs prior year: $1.21B (-19.2%)
+
+=== Q3 2024 ===
+Management said:
+  - Quarterly revenue was $2.36 billion, above the guidance midpoint of $2.3 billion.
+  - Revenue of $2.5 billion, plus or minus $125 million.
+  - The breakdown of revenue by reportable segments and markets and major products and regions can be found within the shareholder letter and slides.
+  - KLA's revenue of $2.36 billion was above the midpoint of our guidance range.
+  - Foundry logic revenue from semiconductor customers is forecasted to be approximately 82%, and memory is expected to be 18% of semi-process control systems revenue.
+  - We're confident that KLA's quarterly revenues bottomed in the March quarter, as expressed in our prior earnings call.
+  - You did say memory would be filtrated overall China revenues.
+  - And so, depending on what we're revenue in a given quarter, it can cause some fluctuation.
+  - It came in above 62%, depending on how things end up revenueing as we engage with customers and ship systems.
+  - But I think last quarter, Bren, you had a customer push-out that kind of impacted your revenue for the year.
+  - I would say, and we will see some increase this year in revenue from that system, which it hurt us last year just because we weren't able to get any incremental supply around key components.
+Guidance given:
+  - Revenue of $2.5 billion, plus or minus $125 million. (target: Q4 2024; Met)
+  - Foundry logic revenue from semiconductor customers is forecasted to be approximately 82%, and memory is expected to be 18% of semi-process control systems revenue. (target: ongoing; Unresolved)
+  - One is Bren, last quarter you kind of said that for KLA, the overall calendar 2024 revenues could grow mid-single digits based on WFE. (target: calendar 2024; Met)
+  - Consistent with these industry trends, as we indicated last quarter, we believe our business bottomed from a revenue perspective in the March quarter, and looking ahead through the balance of calendar 2024, growth is resuming in the June quarter, and we expect business levels to improve as we progress through the year. (target: calendar 2024; Met)
+  - So, TSMC definitely said that the revenue is going to ramp in 2026 for N2. (target: 2026; Unresolved)
+Actual reported:
+  - [Met] Quarterly revenue was $2.36 billion, above the guidance midpoint of $2.3 billion.
+  - [Observed] KLA's revenue of $2.36 billion was above the midpoint of our guidance range.
+  - [Observed] We're confident that KLA's quarterly revenues bottomed in the March quarter, as expressed in our prior earnings call.
+Filing disclosures (SEC):
+  [MD&A]
+    - 12 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Revenue: $2.36B | vs prior quarter: $2.49B (-5.1%) | vs prior year: $2.43B (-3.0%)
+    - Cost of Revenue: $993.9M | vs prior quarter: $976.7M (+1.8%) | vs prior year: $1.01B (-1.1%)
+    - 3 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 13 real filing table(s) available (see the HTML report).
+
+=== Q4 2024 ===
+Management said:
+  - Total revenue is expected to be $2.75 billion, plus or minus $150 million.
+  - Quarterly revenue was $2.57 billion, above the guidance midpoint of $2.5 billion.
+  - As a follow-up, Bren, the revenue guide is a bit wider than usual plus minus $150 million versus $125 million.
+  - So, there is nothing indicative in that other than the revenue is up 9% higher, and we decided to -- it was 9% in June and then the guidance, another 7%.
+  - The breakdown of revenue by reportable segments, end markets, major products, and regions can be found within the shareholder letter and slides.
+  - Foundry logic revenue from semiconductor customers is forecasted to be approximately 80%, and memory is expected to be approximately 20% of semi-process control systems revenue.
+  - So, it's really more just the increasing revenue level and not related to anything else.
+  - This quarter, KLA results returned to sequential and year-over-year revenue growth demonstrating an improving industry environment.
+  - Today, we're raising that estimate to more than $500 million in total advanced packaging revenue across the entire KLA portfolio on the momentum we're experiencing.
+  - Operating expenses are forecasted in September quarter to be approximately $565 million as we continue to make important R&D and scaling investments to support expected revenue growth.
+  - This is supported by our revenue growth expectations and in line with our 40% to 50% incremental operating margin business model.
+  - Bren D. Higgins -- Executive Vice President, Chief Financial Officer Yeah, a function of higher revenues.
+  - At some point, as we move through the different quarters and revenue ranges, we start to make an adjustment just because of the higher levels.
+  - And specifically, well, I guess, China revenue in general I think your prior comments were an expectation for China about flat in the second half.
+  - First one is actually on China and Rick and Bren thanks to the insight on the China revenues.
+  - So, last year 70%, 30% for approximate semiconductor process control shipments or revenue to semiconductor customers is closer to 75%, 25%, and 24%.
+  - We've had a headwind from FX because you do have some of the service revenue denominated in local currency, particularly in Japan.
+  - So, if you look in the long run, as we expect WFE over the next few years, the capital intensity slowly rising to grow a little bit faster than semiconductor revenue and this part of the market will likely grow faster than that.
+  - Flat panel business is where we announced our exit of that, and so we still have revenue in our plans for that as we exit that business and would expect in the manufacturing likely in Q1 of 2025.
+  - So, while the systems business has been slower, there have been service contributions from a revenue point of view that we've had over the last year or so.
+Guidance given:
+  - Today, we're raising that estimate to more than $500 million in total advanced packaging revenue across the entire KLA portfolio on the momentum we're experiencing. (target: future (not explicitly stated, implied forward-looking); Unresolved)
+  - Operating expenses are forecasted in September quarter to be approximately $565 million as we continue to make important R&D and scaling investments to support expected revenue growth. (target: September quarter; Unresolved)
+  - This is supported by our revenue growth expectations and in line with our 40% to 50% incremental operating margin business model. (target: ongoing/future; Unresolved)
+  - And specifically, well, I guess, China revenue in general I think your prior comments were an expectation for China about flat in the second half. (target: second half of fiscal 2024; Met)
+  - Flat panel business is where we announced our exit of that, and so we still have revenue in our plans for that as we exit that business and would expect in the manufacturing likely in Q1 of 2025. (target: Q1 2025; Met)
+  - Total revenue is expected to be $2.75 billion, plus or minus $150 million. (target: Q4 2024; Unresolved)
+Actual reported:
+  - [Met, Missed] Quarterly revenue was $2.57 billion, above the guidance midpoint of $2.5 billion.
+  - [Observed] [from SEC filing] Year Ended June 30, (In thousands) 2024 2023 2022 Semiconductor Process Control: Revenues $ 8,733,556 $ 9,324,190 $ 7,924,822
+  - [Observed] [from SEC filing] PCB and Component Inspection: Revenues $ 552,491 $ 631,604 $ 832,176
+  - [Observed] Last quarter, we estimated that the KLA opportunity would reach approximately $400 million in annualized revenue excluding calendar 2024.
+  - [Observed] KLA's June quarter revenue, gross margin, and EPS were all above their respective guidance midpoints.
+  - [Observed] This quarter, KLA results returned to sequential and year-over-year revenue growth demonstrating an improving industry environment.
+  - [Observed] So, last year 70%, 30% for approximate semiconductor process control shipments or revenue to semiconductor customers is closer to 75%, 25%, and 24%.
+  - [Observed] So, while the systems business has been slower, there have been service contributions from a revenue point of view that we've had over the last year or so.
+Filing disclosures (SEC):
+  [MD&A]
+    - Service revenues Service revenues are generated from product maintenance and support services, as well as billable time and material service calls made to our customers.
+    - Revenue is also impacted by average customer pricing, customer revenue deferrals associated with volume purchase agreements, the effect of fluctuations in foreign currency exchange rates and increased trade restrictions as discussed in the “Executive Summary” section above.
+    - We recognize revenue from sales at a point in time when we have satisfied our performance obligation by transferring control of the goods or services to the customer.
+    - The amount of our service revenues is typically a function of the number of systems installed at our customers’ sites and the utilization of those systems, but it is also impacted by other factors, such as our rate of service contract renewals, the types of systems being serviced and fluctuations in foreign currency exchange rates.
+    - A majority of our revenues are derived from outside the U.S., and include geographic regions such as China, Taiwan, Korea, Japan, Europe and Israel, and Rest of Asia.
+  [Financial Statements]
+    - Revenue: $9.81B | vs prior quarter: — | vs prior year: $10.50B (-6.5%)
+    - Cost of Revenue: $3.93B | vs prior quarter: — | vs prior year: $4.22B (-6.9%)
+    - 5 real filing table(s) available (see the HTML report).
+    - Revenue is recognized from product sales at a point in time when the performance obligation has been satisfied by transferring control of the product to the customer.
+    - The revenues are recognized as separate performance obligations that are satisfied by transferring control of the product or service to the customer.
+    - For geographical revenue reporting, revenues are attributed to the geographic location in which the customer is located.
+    - Services revenue is recognized ratably over the period the customer simultaneously receives and consumes the benefits of the services provided or when the related service is performed.
+    - Our revenues are measured based on consideration stipulated in the arrangement with each customer, net of any sales incentives and amounts collected on behalf of third parties, such as sales taxes.
+  [Footnotes]
+    - 11 real filing table(s) available (see the HTML report).
+    - Revenues are measured based on consideration stipulated in the arrangement with each customer.
+  [Risk Factors]
+    - Any such decisions may impact our ability to recognize revenue, including the fiscal period during which such revenue may be recognized, with respect to such products, which could have a material adverse effect on our business, results of operations or stock price.
+    - A majority of our annual revenues are derived from outside the U.S., and we maintain significant operations outside the U.S. We are exposed to numerous risks as a result of the international nature of our business and operations.
+    - We regularly recognize revenue from a sale upon shipment of the applicable product to the customer (even before receiving the customer’s formal acceptance of that product) in certain situations, including sales of products for which installation is considered perfunctory, transactions in which the product is sold to an independent distributor and we have no installation obligations, and sales of products where we have previously delivered the same product to the same customer location and that prior delivery has been accepted.
+    - Our revenue from sales of products and provision of services to customers in China was 43%, 27% and 29% for fiscal years 2024, 2023 and 2022, respectively.
+    - However, our ability to achieve our anticipated revenue levels is a function of numerous factors, including the volatile and historically cyclical nature of our primary industry, customer order cancellations, macroeconomic changes, operational matters regarding particular agreements, our ability to manage customer deliveries, the availability of resources for the installation of our products, delays or accelerations by customers in taking deliveries and the acceptance of our products (for products where customer acceptance is required before we can recognize revenue from such sales), our ability to operate our business and sales processes effectively, and a number of the other risk factors set forth in this Item 1A.
+    - There can be no assurance that revenues from future products or product enhancements will be sufficient to recover the development costs associated with such products or enhancements.
+
+=== Q1 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Met] [from SEC filing] Three Months Ended September 30, (In thousands) 2024 2023 Semiconductor Process Control: Revenues $ 2,575,151 $ 2,135,478
+  - [Observed] [from SEC filing] Revenues 128,334 126,719
+  - [Observed] [from SEC filing] PCB and Component Inspection: Revenues 137,983 136,043
+  - [Observed] [from SEC filing] Revenues for reportable segments $ 2,841,468 $ 2,398,240
+Filing disclosures (SEC):
+  [MD&A]
+    - 8 real filing table(s) available (see the HTML report).
+    - Service revenues are generated from product maintenance and support services, as well as billable time and material service calls made to our customers.
+    - The amount of our service revenues is typically a function of the number of systems installed at our customers’ sites and the utilization of those systems, but it is also impacted by other factors, such as our rate of service contract renewals, the types of systems being serviced and fluctuations in foreign currency exchange rates.
+    - Revenue is also impacted by average customer pricing, customer revenue deferrals associated with volume purchase agreements, the effect of fluctuations in foreign currency exchange rates, increased trade restrictions as discussed in the “Executive Summary” section above and the availability of government incentives for semiconductor capital investments.
+    - The increased product and service revenue generation from our customers in China contributed to our overall revenue increase, with that region recording the largest amount of revenues in both three-month periods, accounting for 42% of total revenues during the three months ended September 30, 2024 and 43% of total revenues during the three months ended September 30, 2023.
+  [Financial Statements]
+    - 3 real filing table(s) available (see the HTML report).
+    - For geographical revenue reporting, revenues are attributed to the geographic location in which the customer is located.
+    - In the three months ended September 30, 2024, two customers on an individual basis accounted for approximately 12 % of total revenues each.
+    - In the three months ended September 30, 2023, one customer accounted for approximately 11 % of total revenues.
+  [Footnotes]
+    - 12 real filing table(s) available (see the HTML report).
+    - We expect to recognize approximately 65 % to 70 % of these performance obligations as revenue in the next 12 months, 25 % to 30 % in the subsequent 12 months and the remainder thereafter, but this estimate is subject to constant change.
+  [Risk Factors]
+    - Any such decisions may impact our ability to recognize revenue, including the fiscal period during which such revenue may be recognized, with respect to such products, which could have a material adverse effect on our business, results of operations or stock price.
+    - A majority of our annual revenues are derived from outside the U.S., and we maintain significant operations outside the U.S. We are exposed to numerous risks as a result of the international nature of our business and operations.
+    - We regularly recognize revenue from a sale upon shipment of the applicable product to the customer (even before receiving the customer’s formal acceptance of that product) in certain situations, including sales of products for which installation is considered perfunctory, transactions in which the product is sold to an independent distributor and we have no installation obligations, and sales of products where we have previously delivered the same product to the same customer location and that prior delivery has been accepted.
+    - Our revenue from sales of products and provision of services to customers in China was 43%, 27% and 29% for fiscal years 2024, 2023 and 2022, respectively.
+    - However, our ability to achieve our anticipated revenue levels is a function of numerous factors, including the volatile and historically cyclical nature of our primary industry, customer order cancellations, macroeconomic changes, operational matters regarding particular agreements, our ability to manage customer deliveries, the availability of resources for the installation of our products, delays or accelerations by customers in taking deliveries and the acceptance of our products (for products where customer acceptance is required before we can recognize revenue from such sales), our ability to operate our business and sales processes effectively, and a number of the other risk factors set forth in this Item 1A.
+    - There can be no assurance that revenues from future products or product enhancements will be sufficient to recover the development costs associated with such products or enhancements.
+
+=== Q2 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 14 real filing table(s) available (see the HTML report).
+    - Service revenues are generated from product maintenance and support services, as well as billable time and material service calls made to our customers.
+    - The amount of our service revenues is typically a function of the number of systems installed at our customers’ sites and the utilization of those systems, but it is also impacted by other factors, such as our rate of service contract renewals, the types of systems being serviced and fluctuations in foreign currency exchange rates.
+    - Revenue is also impacted by average customer pricing, customer revenue deferrals associated with volume purchase agreements, the effect of fluctuations in foreign currency exchange rates, increased trade restrictions as discussed in the “Executive Summary” section above and the availability of government incentives for semiconductor capital investments.
+    - The increased product and service revenue generation from our customers in China contributed to our overall revenue increase, with that region recording the largest amount of revenues in both three and six month periods, accounting for 36% and 39% of total revenues during the three and six months ended December 31, 2024, respectively, and 41% and 42% of total revenues during the three and six months ended December 31, 2023, respectively.
+    - Specialty Semiconductor Process revenues were approximately 5% of total revenues during both the three and six months ended December 31, 2024 and approximately 6% of total revenues during both the three and six months ended December 31, 2023.
+  [Financial Statements]
+    - 3 real filing table(s) available (see the HTML report).
+    - For geographical revenue reporting, revenues are attributed to the geographic location in which the customer is located.
+    - In the three months ended December 31, 2024, one customer accounted for approximately 23 % of total revenues.
+    - In the six months ended December 31, 2024, one customer accounted for approximately 18 % of total revenues.
+    - In the six months ended December 31, 2023, one customer accounted for approximately 11 % of total revenues.
+  [Footnotes]
+    - 11 real filing table(s) available (see the HTML report).
+    - We expect to recognize approximately 67 % to 72 % of these performance obligations as revenue in the next 12 months, 20 % to 25 % in the subsequent 12 months and the remainder thereafter, but this estimate is subject to constant change.
+  [Risk Factors]
+    - Any such decisions may impact our ability to recognize revenue, including the fiscal period during which such revenue may be recognized, with respect to such products, which could have a material adverse effect on our business, results of operations or stock price.
+    - A majority of our annual revenues are derived from outside the U.S., and we maintain significant operations outside the U.S. We are exposed to numerous risks as a result of the international nature of our business and operations.
+    - We regularly recognize revenue from a sale upon shipment of the applicable product to the customer (even before receiving the customer’s formal acceptance of that product) in certain situations, including sales of products for which installation is considered perfunctory, transactions in which the product is sold to an independent distributor and we have no installation obligations, and sales of products where we have previously delivered the same product to the same customer location and that prior delivery has been accepted.
+    - Our revenue from sales of products and provision of services to customers in China was 43%, 27% and 29% for fiscal years 2024, 2023 and 2022, respectively, and future revenue from China as a percentage of our overall revenue may decline as a result of the current and future BIS rules and regulations.
+    - However, our ability to achieve our anticipated revenue levels is a function of numerous factors, including the volatile and historically cyclical nature of our primary industry, customer order cancellations, macroeconomic changes, operational matters regarding particular agreements, our ability to manage customer deliveries, the availability of resources for the installation of our products, delays or accelerations by customers in taking deliveries and the acceptance of our products (for products where customer acceptance is required before we can recognize revenue from such sales), our ability to operate our business and sales processes effectively, and a number of the other risk factors set forth in this Item 1A.
+    - There can be no assurance that revenues from future products or product enhancements will be sufficient to recover the development costs associated with such products or enhancements.
+
+
+======================================================================
+TOPIC: operating margin
+======================================================================
+
+[CORE RESEARCH] KLAC: operating margin
+
+Quarters searched: 4
+Filing sections searched: 44
+
+Over the reported periods from Q1 2024 through Q2 2025, operating margin figures were consistently disclosed by management, with non-GAAP operating margins ranging from 36.8% to 41%. Management highlighted factors influencing margins such as product mix, service cost performance, and revenue growth expectations. While some commentary suggested modest improvements or dilution effects on margins, no explicit forward guidance on operating margin was provided. The filings reiterated that gross margin and operating margin fluctuate with revenue levels, product mix, and operational scaling efficiency. Additionally, tax-related factors such as net operating loss carry-forwards and state tax credit limitations were disclosed but not directly linked to operating margin guidance.
+
+Forecasting credibility: None
+No forward guidance paired with actual results was provided for operating margin across the periods, making it impossible to assess management's forecasting credibility for this metric. All operating margin figures were reported post hoc without prior quantitative guidance targets. Therefore, no pattern of met, exceeded, or missed guidance exists to evaluate reliability.
+
+Trends:
+  - Operating margin generally stable around 37%-41%
+  - Gross margin influenced by product mix and service cost performance
+  - Incremental operating margin model referenced but not quantified
+  - Tax environment changes noted but impact on operating margin unclear
+
+Recurring themes/risks:
+  - Fluctuations in gross margin due to product mix and revenue levels
+  - Operational scaling efficiency affecting margins
+  - Accounting nuances impacting margin presentation
+  - Tax law changes potentially affecting net operating losses and credits
+
+Key concerns:
+  - Absence of explicit forward guidance on operating margin limits ability to evaluate forecasting accuracy or management credibility on this metric.
+  - Some commentary references incremental operating margin models and accretive/dilutive effects without quantifying expected outcomes, reducing transparency.
+  - Tax-related disclosures indicate potential future impacts on profitability but lack direct linkage to operating margin guidance or forecasts.
+
+Conclusion:
+Operating margin remained relatively stable in the reported periods, with non-GAAP figures ranging from 36.8% to 41%. Management attributed margin fluctuations primarily to product mix, service cost performance, and revenue growth dynamics. Despite references to an incremental operating margin model targeting 40% to 50%, no explicit forward guidance was provided, and actual results were reported without prior quantitative targets. Consequently, while operating margin appears consistent and supported by operational factors, the lack of forward guidance precludes an assessment of management's forecasting reliability for this metric.
+
+Evidence Coverage: 98.7% complete; 154/156 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2024 ===
+Management said:
+  - Non-GAAP operating margin was 40.2%, non-GAAP other income and expense debt was $47 million, and the quarterly effective tax rate was 14%.
+  - I actually think EPC probably has some modest improvement off of pretty depressed levels our incremental operating margin model drives how we're running the business in terms of expectations for leverage on incremental revenue.
+  - Non-GAAP gross margin was 62.4%, 40 basis points above the guidance range due to benefits from a richer product mix and better service cost performance than model.
+Guidance given:
+Actual reported:
+  - [Observed] Non-GAAP operating margin was 40.2%, non-GAAP other income and expense debt was $47 million, and the quarterly effective tax rate was 14%.
+Filing disclosures (SEC):
+  [MD&A]
+    - Gross margin Our gross margin fluctuates with revenue levels and product mix and is affected by variations in costs related to manufacturing and servicing our products, including our ability to scale our operations efficiently and effectively in response to prevailing business conditions.
+  [Financial Statements]
+
+=== Q2 2024 ===
+Management said:
+  - Non-GAAP operating margin was 40.7%.
+  - The company continued to deliver strong industry-leading margins, with non-GAAP gross margins of 62% and a non-GAAP operating margin of 39%.
+  - Now it tends to be based on the way we do the accounting accretive to operating margin.
+Guidance given:
+Actual reported:
+  - [Observed] Non-GAAP operating margin was 40.7%.
+Filing disclosures (SEC):
+  [Financial Statements]
+
+=== Q3 2024 ===
+Management said:
+  - Non-GAAP operating margin was 36.8%, non-GAAP other income and expense net was a $34 million expense, and the quarterly non-GAAP effective tax rate was 14.2%.
+  - We believe it's accretive to the operating margin, but the gross margin is a little dilutive.
+Guidance given:
+Actual reported:
+  - [Observed] Non-GAAP operating margin was 36.8%, non-GAAP other income and expense net was a $34 million expense, and the quarterly non-GAAP effective tax rate was 14.2%.
+Filing disclosures (SEC):
+  [Financial Statements]
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
+=== Q4 2024 ===
+Management said:
+  - Operating margin was 41%.
+  - This is supported by our revenue growth expectations and in line with our 40% to 50% incremental operating margin business model.
+  - Gross margin was 62.5% at the upper end of the guidance range, as a richer product mix than modeled and higher revenue volume drove upside to guidance.
+Guidance given:
+  - This is supported by our revenue growth expectations and in line with our 40% to 50% incremental operating margin business model. (target: ongoing; Unresolved)
+Actual reported:
+  - [Observed] Operating margin was 41%.
+Filing disclosures (SEC):
+  [MD&A]
+    - Gross margin Our gross margin fluctuates with revenue levels and product mix and is affected by variations in costs related to manufacturing and servicing our products, including our ability to scale our operations efficiently and effectively in response to prevailing business conditions.
+  [Financial Statements]
+    - As of June 30, 2024, we had U.S. federal, state and foreign net operating loss (“NOL”) carry-forwards of $ 6.5 million, $ 11.8 million and $ 221.5 million, respectively.
+    - California Governor Newsom approved the 2024-25 California State Budget on June 27, 2024, which includes a provision to suspend the use of all net operating losses and limits the use of R&D tax credits to $5 million for tax years 2024 through 2026.
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
+=== Q1 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - Gross margin Our gross margin fluctuates with revenue levels and product mix and is affected by variations in costs related to manufacturing and servicing our products, including our ability to scale our operations efficiently and effectively in response to prevailing business conditions.
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
+=== Q2 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - Gross margin Our gross margin fluctuates with revenue levels and product mix and is affected by variations in costs related to manufacturing and servicing our products, including our ability to scale our operations efficiently and effectively in response to prevailing business conditions.
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
