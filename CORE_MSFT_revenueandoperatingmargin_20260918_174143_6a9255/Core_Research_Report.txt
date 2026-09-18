@@ -1,0 +1,908 @@
+[CORE RESEARCH - MULTIPLE TOPICS] MSFT: revenue | operating margin
+
+
+======================================================================
+TOPIC: revenue
+======================================================================
+
+[CORE RESEARCH] MSFT: revenue
+
+Quarters searched: 6
+Filing sections searched: 430
+
+Over the observed periods, revenue consistently showed growth across multiple business segments, with management frequently providing guidance that was either met or exceeded. The company’s revenue streams are diversified across cloud services, productivity and business processes, Windows OEM, devices, and online advertising. Cloud services, particularly Azure, demonstrated strong double-digit growth, often outpacing other segments. Management’s guidance for revenue growth in productivity and business processes and more personal computing segments was generally accurate, with actual results often slightly ahead of expectations. The company’s overall revenue growth ranged from low double digits to high teens percentage increases, reflecting robust demand and effective execution.
+
+Forecasting credibility: High
+Management provided four guidance/actual pairs with verdicts, with most guidance either met or exceeded, indicating strong forecasting credibility. The consistency of exceeding or meeting revenue expectations across multiple quarters, especially in key segments like productivity and business processes and more personal computing, supports a high rating. There were no significant patterns of missed guidance that would undermine confidence in management’s revenue forecasts.
+
+Trends:
+  - Consistent double-digit revenue growth
+  - Strong growth in cloud services (Azure)
+  - Steady growth in productivity and business processes
+  - Modest growth in Windows OEM and devices
+  - Revenue guidance generally met or exceeded
+
+Recurring themes/risks:
+  - Dependence on cloud services growth
+  - Seasonal and contract timing impacts on revenue
+  - Competitive pressures in personal computing
+  - Currency fluctuations affecting constant currency growth
+
+Key concerns:
+  - Some guidance remains unresolved, limiting full assessment of forecasting accuracy for certain periods.
+  - Revenue recognition timing related to multi-year on-premises contracts could introduce variability.
+  - No major accounting changes noted, but reliance on transcript figures for some actuals may reduce precision.
+
+Conclusion:
+Revenue demonstrated strong and consistent growth throughout the periods, driven primarily by cloud services and productivity/business processes segments. Management’s revenue guidance was generally reliable, with actual results often exceeding expectations, underscoring effective forecasting and operational execution. The company’s diversified revenue base and strong cloud growth underpin its robust revenue performance. While some guidance remains unresolved, the available data supports confidence in management’s ability to forecast revenue accurately. Overall, revenue trends indicate a healthy and expanding business with solid momentum.
+
+Evidence Coverage: 97.3% complete; 1352/1390 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2024 ===
+Management said:
+  - Revenue was $24.3 billion, increasing 19% and ahead of expectations with better-than-expected results across all businesses.
+  - Revenue was $13.7 billion, increasing 3% and 2% in constant currency, above expectations with better-than-expected results across all businesses.
+  - We expect revenue of USD 16.5 billion to USD 16.9 billion.
+  - In productivity and business processes, we expect revenue to grow between 11% and 12% or USD 18.8 billion to USD 19.1 billion.
+  - This quarter, revenue was $56.5 billion, up 13% and 12% in constant currency.
+  - Revenue from productivity and business processes was $18.6 billion and grew 13% and 12% in constant currency, ahead of expectations, driven by better-than-expected results in Office 365 commercial and LinkedIn.
+  - Office commercial revenue grew 15% and 14% in constant currency.
+  - Roughly 45% will be recognized in revenue in the next 12 months, up 15% year over year.
+  - Office 365 commercial revenue increased 18% and 17% in constant currency, slightly better than expected with a bit more in-period revenue recognition, while billings remained relatively in line with expectations.
+  - In enterprise and partner services, revenue should decline low to mid-single digits.
+  - Overall, server products and cloud services revenue grew 21%.
+  - Revenue increased 9% and 8% in constant currency, ahead of expectations, driven by better-than-expected subscriber growth in Xbox Game Pass, as well as first-party content, primarily due to the Starfield launch.
+  - We are off to a strong start to the fiscal year driven by the continued strength of Microsoft Cloud, which surpassed $31.8 billion in quarterly revenue, up 24%.
+  - We have seen nine consecutive quarters of triple-digit revenue growth for Teams Rooms, and more than 10,000 paid customers now use Teams Premium.
+  - And our SIEM Microsoft Sentinel now has more than 25,000 customers and revenues past $1 billion annual run rate.
+  - Higher-than-expected AI consumption contributed to revenue growth in Azure.
+  - FX did not have a significant impact on our results and was roughly in line with our expectations on total company revenue, segment-level revenue, COGS, and operating expense growth.
+  - Microsoft Cloud revenue was $31.8 billion and grew 24% and 23% in constant currency, ahead of expectations.
+  - Office consumer revenue increased 3% and 4% in constant currency with continued momentum in Microsoft 365 subscriptions, which grew 18% to $76.7 million.
+  - LinkedIn revenue increased 8%, ahead of expectations, driven by slightly better-than-expected performance across all businesses.
+  - Dynamics revenue grew 22% and 21% in constant currency driven by Dynamics 365, which grew 28% and 26% in constant currency with continued growth across all workloads.
+  - Azure and other cloud services revenue grew 29% and 28% in constant currency, including roughly 3 points from AI services.
+  - Enterprise and partner services revenue increased 1% and was relatively unchanged in constant currency, ahead of expectations, driven by better-than-expected performance in enterprise support services.
+  - Windows OEM revenue increased 4% year over year, significantly ahead of expectations, driven by stronger-than-expected consumer channel inventory builds and the stabilizing PC market demand noted earlier, particularly in commercial.
+  - Windows Commercial products and cloud services revenue increased 8%, driven by demand for Microsoft 365 E5.
+  - Search and news advertising revenue ex TAC increased 10% and 9% in constant currency, slightly ahead of expectations.
+  - We saw increased engagement on Bing and Edge share gains again this quarter, although search revenue growth continues to be impacted by a third-party partnership.
+  - Based on current rates, we expect FX to increase total revenue and segment-level revenue growth by approximately 1 point.
+  - In Office commercial, revenue growth will again be driven by Office 365 with seat growth across customer segments and ARPU growth through E5.
+  - We expect Office 365 revenue growth to be up roughly 16% in constant currency.
+  - We're excited for Microsoft 365 Copilot general availability on November 1 and expect the related revenue to grow gradually over time.
+  - In our on-premise business, we expect revenue to decline in the mid- to high teens.
+  - In Office consumer, we expect revenue growth in the mid-single digits, driven by Microsoft 365 subscriptions.
+  - For LinkedIn, we expect revenue growth in the mid-single digits, driven by Talent Solutions and Marketing Solutions.
+  - And in Dynamics, we expect revenue growth in the high teens driven by Dynamics 365.
+  - For Intelligent Cloud, we expect revenue to grow between 17% and 18% or USD 25.1 billion to USD 25.4 billion.
+  - Revenue growth in constant currency will be approximately 1 point lower.
+  - Revenue will continue to be driven by Azure, which, as a reminder, can have quarterly variability primarily from our per-user business and from in-period revenue recognition, depending on the mix of contracts.
+  - In Azure, we expect revenue growth to be 26% to 27% in constant currency with an increasing contribution from AI.
+  - For H2, assuming the optimization and new workload trends continue and with the growing contribution from AI, we expect Azure revenue growth in constant currency to remain roughly stable compared to Q2.
+  - In our on-premises server business, we expect revenue growth to be roughly flat with continued hybrid demand, particularly from licenses running in multi-cloud environments.
+  - Windows OEM revenue growth should be mid- to high single digits with PC market unit volumes expected to look roughly similar to Q1.
+  - In devices, revenue should decline in the mid-teens as we continue to focus on our higher-margin premium products.
+  - In Windows Commercial products and cloud services, customer demand for Microsoft 365 and our advanced security solutions should drive revenue growth in the low to mid-teens.
+  - Search and news advertising ex TAC revenue growth should be mid-single digits with roughly 4 points of negative impact from a third-party partnership.
+  - Reminder that this ex TAC growth will be roughly 4 points higher than overall search and news advertising revenue.
+  - And in gaming, we expect revenue growth in the mid- to high 40s.
+  - We expect Xbox content and services revenue growth in the mid- to high 50s, driven by roughly 50 points of net impact from the Activision acquisition.
+  - Assuming current rates remain stable, we expect FX to have no meaningful impact to full year revenue COGS or operating expense growth.
+  - Therefore, in H2, we expect FX to decrease revenue COGS and operating expense growth by 1 point.
+  - It speaks to the pace at which we are delivering AI revenue with the increasing cost expense and capital investment ahead with the demand we see.
+  - It gives us a good opportunity to see quick conversion into revenue.
+  - Number one, the Azure revenue growth and the stability we're seeing in it absolutely is a help to operating leverage.
+  - And so, you're right, even as we're investing in AI infrastructure, which will and should show up as revenue, it will also show up in COGS and still deliver good margin.
+  - In addition, what Satya mentioned earlier in a question, and I just want to take every chance to reiterate it, if you have a consistent infrastructure from the platform all the way up through its layers that every capital dollar we spend, if we optimize revenue against it, we will have great leverage because wherever demand shows up in the layers, whether it's at the SaaS layer, whether it's at the infrastructure layer, whether it's for training workloads, we're able to quickly put our infrastructure to work generating revenue on our Bing workloads.
+  - But what we're committed to doing is making sure it's highly leveraged and making sure you see the same growth in revenue.
+Guidance given:
+  - We expect revenue of USD 16.5 billion to USD 16.9 billion. (target: next quarter; Unresolved)
+  - In productivity and business processes, we expect revenue to grow between 11% and 12% or USD 18.8 billion to USD 19.1 billion. (target: next quarter; Unresolved)
+  - In enterprise and partner services, revenue should decline low to mid-single digits. (target: next quarter; Unresolved)
+  - Based on current rates, we expect FX to increase total revenue and segment-level revenue growth by approximately 1 point. (target: not explicitly stated, implied future period; Unresolved)
+  - In Office commercial, revenue growth will again be driven by Office 365 with seat growth across customer segments and ARPU growth through E5. (target: not explicitly stated, implied future period; Unresolved)
+  - We expect Office 365 revenue growth to be up roughly 16% in constant currency. (target: not explicitly stated, implied future period; Unresolved)
+  - We're excited for Microsoft 365 Copilot general availability on November 1 and expect the related revenue to grow gradually over time. (target: over time following November 1; Unresolved)
+  - In our on-premise business, we expect revenue to decline in the mid- to high teens. (target: not explicitly stated, implied future period; Unresolved)
+  - In Office consumer, we expect revenue growth in the mid-single digits, driven by Microsoft 365 subscriptions. (target: not explicitly stated, implied future period; Unresolved)
+  - For LinkedIn, we expect revenue growth in the mid-single digits, driven by Talent Solutions and Marketing Solutions. (target: not explicitly stated, implied future period; Unresolved)
+  - And in Dynamics, we expect revenue growth in the high teens driven by Dynamics 365. (target: not explicitly stated, implied future period; Unresolved)
+  - For Intelligent Cloud, we expect revenue to grow between 17% and 18% or USD 25.1 billion to USD 25.4 billion. (target: not explicitly stated, implied future period; Unresolved)
+  - Revenue growth in constant currency will be approximately 1 point lower. (target: not explicitly stated, implied future period; Unresolved)
+  - In Azure, we expect revenue growth to be 26% to 27% in constant currency with an increasing contribution from AI. (target: Q2 2024; Unresolved)
+  - For H2, assuming the optimization and new workload trends continue and with the growing contribution from AI, we expect Azure revenue growth in constant currency to remain roughly stable compared to Q2. (target: H2 2024; Unresolved)
+  - In our on-premises server business, we expect revenue growth to be roughly flat with continued hybrid demand, particularly from licenses running in multi-cloud environments. (target: Q2 2024; Unresolved)
+  - Windows OEM revenue growth should be mid- to high single digits with PC market unit volumes expected to look roughly similar to Q1. (target: Q2 2024; Unresolved)
+  - In devices, revenue should decline in the mid-teens as we continue to focus on our higher-margin premium products. (target: Q2 2024; Unresolved)
+  - In Windows Commercial products and cloud services, customer demand for Microsoft 365 and our advanced security solutions should drive revenue growth in the low to mid-teens. (target: Q2 2024; Unresolved)
+  - Search and news advertising ex TAC revenue growth should be mid-single digits with roughly 4 points of negative impact from a third-party partnership. (target: Q2 2024; Unresolved)
+  - And in gaming, we expect revenue growth in the mid- to high 40s. (target: Q2 2024; Unresolved)
+  - We expect Xbox content and services revenue growth in the mid- to high 50s, driven by roughly 50 points of net impact from the Activision acquisition. (target: not explicitly stated, implied future period; Unresolved)
+  - Assuming current rates remain stable, we expect FX to have no meaningful impact to full year revenue COGS or operating expense growth. (target: full year; Unresolved)
+  - Therefore, in H2, we expect FX to decrease revenue COGS and operating expense growth by 1 point. (target: H2; Unresolved)
+Actual reported:
+  - [Observed] Revenue was $24.3 billion, increasing 19% and ahead of expectations with better-than-expected results across all businesses.
+  - [Observed] Revenue was $13.7 billion, increasing 3% and 2% in constant currency, above expectations with better-than-expected results across all businesses.
+  - [Observed] This quarter, revenue was $56.5 billion, up 13% and 12% in constant currency.
+  - [Observed] Revenue from productivity and business processes was $18.6 billion and grew 13% and 12% in constant currency, ahead of expectations, driven by better-than-expected results in Office 365 commercial and LinkedIn.
+  - [Observed] Overall, server products and cloud services revenue grew 21%.
+  - [Observed] Revenue increased 9% and 8% in constant currency, ahead of expectations, driven by better-than-expected subscriber growth in Xbox Game Pass, as well as first-party content, primarily due to the Starfield launch.
+  - [Observed] In our on-premises server business, revenue increased 2%, ahead of expectations, driven primarily by demand in advance of Windows Server 2012 end of support.
+  - [Observed] Xbox content and services revenue increased 13% and 12% in constant currency, and Xbox hardware revenue declined 7% and 8% in constant currency.
+  - [Observed] Devices revenue decreased 22%, ahead of expectations due to stronger execution in the commercial segment.
+  - [Observed] We are off to a strong start to the fiscal year driven by the continued strength of Microsoft Cloud, which surpassed $31.8 billion in quarterly revenue, up 24%.
+  - [Observed] Microsoft Cloud revenue was $31.8 billion and grew 24% and 23% in constant currency, ahead of expectations.
+  - [Observed] Office consumer revenue increased 3% and 4% in constant currency with continued momentum in Microsoft 365 subscriptions, which grew 18% to $76.7 million.
+  - [Observed] LinkedIn revenue increased 8%, ahead of expectations, driven by slightly better-than-expected performance across all businesses.
+  - [Observed] Dynamics revenue grew 22% and 21% in constant currency driven by Dynamics 365, which grew 28% and 26% in constant currency with continued growth across all workloads.
+  - [Observed] Azure and other cloud services revenue grew 29% and 28% in constant currency, including roughly 3 points from AI services.
+  - [Observed] Enterprise and partner services revenue increased 1% and was relatively unchanged in constant currency, ahead of expectations, driven by better-than-expected performance in enterprise support services.
+  - [Observed] Windows OEM revenue increased 4% year over year, significantly ahead of expectations, driven by stronger-than-expected consumer channel inventory builds and the stabilizing PC market demand noted earlier, particularly in commercial.
+  - [Observed] Windows Commercial products and cloud services revenue increased 8%, driven by demand for Microsoft 365 E5.
+  - [Observed] Search and news advertising revenue ex TAC increased 10% and 9% in constant currency, slightly ahead of expectations.
+Filing disclosures (SEC):
+  [MD&A]
+    - Second quarter revenue is driven by corporate year-end spending trends in our major markets and holiday season spending by consumers, and fourth quarter revenue is driven by the volume of multi-year on-premises contracts executed during the period.
+    - We generate revenue by offering a wide range of cloud-based solutions, content, and other services to people and businesses; licensing and supporting an array of software products; delivering relevant online advertising to a global audience; and designing and selling devices.
+    - • Windows revenue increased 11% with Windows original equipment manufacturer licensing (“Windows OEM”) revenue growth of 11% and Windows Commercial products and cloud services revenue growth of 13%.
+    - • Office Commercial products and cloud services revenue increased 13% driven by Office 365 Commercial growth of 15%.
+    - Highlights from the third quarter of fiscal year 2024 compared with the third quarter of fiscal year 2023 included: • Microsoft Cloud revenue increased 23% to $35.1 billion.
+    - • Office Consumer products and cloud services revenue increased 4% and Microsoft 365 Consumer subscribers grew to 80.8 million.
+  [Financial Statements]
+    - Revenue: $56.52B | vs prior quarter: — | vs prior year: $50.12B (+12.8%)
+    - Cost of Revenue: $16.30B | vs prior quarter: — | vs prior year: $15.45B (+5.5%)
+
+=== Q2 2024 ===
+Management said:
+  - Revenue was $16.9 billion, increasing 19% and 18% in constant currency, in line with expectations overall.
+  - In productivity and business processes, we expect revenue of $19.3 billion to $19.6 billion or growth between 10% and 12%.
+  - Revenue from productivity and business processes was $19.2 billion and grew 13% and 12% in constant currency, ahead of expectations, primarily driven by better-than-expected results in LinkedIn.
+  - This quarter, revenue was $62 billion, up 18% and 16% in constant currency.
+  - And in the enterprise and partner services revenue should decline approximately 10% on a high prior-year comparable for enterprise support services and more personal computing, we expect revenue of $14.7 billion, $15.1 billion, or growth between 11% and 14%.
+  - Office commercial revenue grew 15% and 13% in constant currency.
+  - Windows commercial products and cloud services revenue increased 9% and 7% in constant currency, below expectations primarily [Technical difficulty] period revenue recognition from the mix of contracts.
+  - Commercial remaining performance obligation increased 17% and 16% in constant currency to $222 billion, roughly 45% will be recognized in revenue in the next 12 months, up 15% year over year.
+  - Overall server products and cloud services revenue grew 22% and 20% in constant currency.
+  - Devices revenue decreased 9% and 10% in constant currency, ahead of expectations due to stronger execution in the commercial segment.
+  - Accordingly, our Xbox content and services revenue growth investor metric includes the net impact of Activision.
+  - It was a record quarter, driven by the continued strength of Microsoft Cloud, which surpassed $33 billion in revenue, up 24%.
+  - GitHub revenue accelerated to over 40% year over year, driven by all our platform growth and adoption of GitHub Copilot, the world's most widely deployed AI developer tool.
+  - At a company level, Activision contributed approximately 4 points to revenue growth, was a 2-point drag on adjusted operating income growth, and a negative $0.5 impact to earnings per share.
+  - FX was roughly in line with our expectations on total company revenue, segment-level revenue, COGS, and operating expense growth.
+  - Microsoft Cloud revenue was $33.7 billion, ahead of expectations, and grew 24% and 22% in constant currency.
+  - Office 365 commercial revenue increased 17% and 16% in constant currency, in line with expectations, driven by healthy renewal execution and ARPU growth from continued E5 momentum.
+  - Office consumer revenue increased 5% and 4% in constant currency with continued momentum in Microsoft 355 subscriptions, which grew 16% to 78.4 million.
+  - Dynamics revenue grew 21% and 19% in constant currency, driven by Dynamics 365, which grew 27% and 24% in constant currency with continued growth across all workloads.
+  - Next, the Intelligent Cloud segment revenue was $25.9 billion, increasing 20% and 19% in constant currency, ahead of expectations, with better-than-expected results across all businesses.
+  - Azure and other cloud services revenue grew 30% and 28% in constant currency, including 6 points of growth from AI services.
+  - Enterprise and partner services revenue increased 1% and was relatively unchanged in constant currency with better-than-expected performance across enterprise support services and industry solutions.
+  - Windows OEM revenue increased 11% year over year, ahead of expectations, driven by slightly better performance and higher monetizing consumer markets.
+  - Search and news advertising revenue, ex TAC, increased 8% and 7% in constant currency, relatively in line with expectations, driven by higher search volume, offset by negative impact from a third-party partnership.
+  - Total gaming revenue was in line with expectations of stronger-than-expected performance from Activision was offset by the weaker-than-expected console market noted earlier.
+  - Xbox content and services revenue increased 61% and 60% in constant currency, driven by 55 points of net impact from the Activision acquisition.
+  - Xbox hardware revenue grew 3% and 1% in constant currency.
+  - Based on current rates, we expect FX to increase total revenue and segment-level revenue growth by less than 1 point.
+  - In Office commercial revenue growth will again be driven by Office 365 with seat growth across customer segments and ARPU growth through E5.
+  - We expect Office 365 revenue growth to be approximately 15% in constant currency.
+  - While it's early days for Microsoft 365 Copilot, we're excited by the adoption we've seen to date and continue to expect revenue to grow over time.
+  - In Office consumer, we expect revenue growth in the mid-to-high single-digits, driven by Microsoft's 365 subscriptions.
+  - For LinkedIn, we expect revenue growth in the mid-to-high single digits, driven by continued growth across all businesses.
+  - And in Dynamics, we expect revenue growth in the mid-teens, driven by Dynamics 365.
+  - For Intelligent Cloud, we expect revenue of $26 billion to $26.3 billion or growth between 18% and 19%.
+  - Revenue will continue to be driven by Azure, which, as a reminder, can have quarterly variability, primarily from our per-user business and from in-period revenue recognition, depending on the mix of contracts.
+  - In Azure, we expect Q3 revenue growth in constant currency to remain stable to our stronger-than-expected Q2 results.
+  - In our on-premises server business, we expect revenue growth in the low-to-mid single-digits with continued hybrid demand, including licenses running in multi-cloud environments.
+  - Windows OEM revenue growth should be relatively flat as PC market unit volumes continue at pre-pandemic levels.
+  - In Windows commercial products and cloud services, customer demand for Microsoft 365 and our Advanced Security Solutions should drive revenue growth in the mid-teens.
+  - In Devices, revenue should decline in the low-double-digits as we continue to focus on our higher-margin premium products.
+  - Search and news advertising, ex TAC, revenue growth should be in the mid-to-high single-digits, about 8 points higher than overall search and news advertising revenue, driven by continued volume strength.
+  - And in gaming, we expect revenue growth in the low 40s, including approximately 45 points of net impact from the Activision acquisition.
+  - We expect Xbox content and services revenue growth in the low-to-mid 50s, driven by approximately 50 points of net impact from the Activision acquisition.
+  - Hardware revenue will decline year over year.
+  - First, FX, assuming current rates remain stable, we now expect FX to increase Q4 and full-year revenue growth by less than 1 point.
+  - Amy, you've discussed Azure being stable and you deliver Azure growth stability, but if we drill in one layer, we see Azure AI continuing to become a bigger portion of the revenue.
+  - Optimization has been stabilizing and at some point, it should be part of the revenue flow.
+  - It's inferencing workloads where people are expecting productivity gains, other benefits that grow revenue.
+Guidance given:
+  - In productivity and business processes, we expect revenue of $19.3 billion to $19.6 billion or growth between 10% and 12%. (target: Q3 2024; Exceeded)
+  - And in the enterprise and partner services revenue should decline approximately 10% on a high prior-year comparable for enterprise support services and more personal computing, we expect revenue of $14.7 billion, $15.1 billion, or growth between 11% and 14%. (target: Q3 2024; Exceeded)
+  - In our on-premise business, we expect revenue to decline in the low 20s. (target: future period; Unresolved)
+  - Based on current rates, we expect FX to increase total revenue and segment-level revenue growth by less than 1 point. (target: future periods; Unresolved)
+  - We expect Office 365 revenue growth to be approximately 15% in constant currency. (target: future periods; Unresolved)
+  - In Office consumer, we expect revenue growth in the mid-to-high single-digits, driven by Microsoft's 365 subscriptions. (target: future periods; Unresolved)
+  - For LinkedIn, we expect revenue growth in the mid-to-high single digits, driven by continued growth across all businesses. (target: future periods; Unresolved)
+  - And in Dynamics, we expect revenue growth in the mid-teens, driven by Dynamics 365. (target: future periods; Unresolved)
+  - For Intelligent Cloud, we expect revenue of $26 billion to $26.3 billion or growth between 18% and 19%. (target: future periods; Unresolved)
+  - In Azure, we expect Q3 revenue growth in constant currency to remain stable to our stronger-than-expected Q2 results. (target: Q3 2024; Unresolved)
+  - In our on-premises server business, we expect revenue growth in the low-to-mid single-digits with continued hybrid demand, including licenses running in multi-cloud environments. (target: future period (implied Q3 or beyond); Unresolved)
+  - Windows OEM revenue growth should be relatively flat as PC market unit volumes continue at pre-pandemic levels. (target: future period (implied Q3 or beyond); Unresolved)
+  - In Windows commercial products and cloud services, customer demand for Microsoft 365 and our Advanced Security Solutions should drive revenue growth in the mid-teens. (target: future period (implied Q3 or beyond); Unresolved)
+  - In Devices, revenue should decline in the low-double-digits as we continue to focus on our higher-margin premium products. (target: future period (implied Q3 or beyond); Unresolved)
+  - Search and news advertising, ex TAC, revenue growth should be in the mid-to-high single-digits, about 8 points higher than overall search and news advertising revenue, driven by continued volume strength. (target: future period (implied Q3 or beyond); Unresolved)
+  - And in gaming, we expect revenue growth in the low 40s, including approximately 45 points of net impact from the Activision acquisition. (target: future period (implied Q3 or beyond); Unresolved)
+  - We expect Xbox content and services revenue growth in the low-to-mid 50s, driven by approximately 50 points of net impact from the Activision acquisition. (target: future period (implied Q3 or beyond); Unresolved)
+Actual reported:
+  - [Unresolved] Revenue was $16.9 billion, increasing 19% and 18% in constant currency, in line with expectations overall.
+  - [Observed] Revenue from productivity and business processes was $19.2 billion and grew 13% and 12% in constant currency, ahead of expectations, primarily driven by better-than-expected results in LinkedIn.
+  - [Observed] This quarter, revenue was $62 billion, up 18% and 16% in constant currency.
+  - [Observed] Office commercial revenue grew 15% and 13% in constant currency.
+  - [Observed] Windows commercial products and cloud services revenue increased 9% and 7% in constant currency, below expectations primarily [Technical difficulty] period revenue recognition from the mix of contracts.
+  - [Observed] Overall server products and cloud services revenue grew 22% and 20% in constant currency.
+  - [Observed] Devices revenue decreased 9% and 10% in constant currency, ahead of expectations due to stronger execution in the commercial segment.
+  - [Observed] In our on-premises server business, revenue increased 3% and 2% in constant currency, ahead of expectations, driven primarily by the better-than-expected demand related to Windows Server 2012 end of support.
+  - [Observed] LinkedIn revenue increased 9% and 8% in constant currency, ahead of expectations, driven by slightly better-than-expected performance across all businesses.
+  - [Observed] And in gaming, revenue increased 49% and 48% in constant currency, with 44 points of net impact from the Activision acquisition.
+  - [Observed] It was a record quarter, driven by the continued strength of Microsoft Cloud, which surpassed $33 billion in revenue, up 24%.
+  - [Observed] GitHub revenue accelerated to over 40% year over year, driven by all our platform growth and adoption of GitHub Copilot, the world's most widely deployed AI developer tool.
+  - [Observed] At a company level, Activision contributed approximately 4 points to revenue growth, was a 2-point drag on adjusted operating income growth, and a negative $0.5 impact to earnings per share.
+  - [Observed] Microsoft Cloud revenue was $33.7 billion, ahead of expectations, and grew 24% and 22% in constant currency.
+  - [Observed] Office 365 commercial revenue increased 17% and 16% in constant currency, in line with expectations, driven by healthy renewal execution and ARPU growth from continued E5 momentum.
+  - [Observed] Office consumer revenue increased 5% and 4% in constant currency with continued momentum in Microsoft 355 subscriptions, which grew 16% to 78.4 million.
+  - [Observed] Dynamics revenue grew 21% and 19% in constant currency, driven by Dynamics 365, which grew 27% and 24% in constant currency with continued growth across all workloads.
+  - [Observed] Next, the Intelligent Cloud segment revenue was $25.9 billion, increasing 20% and 19% in constant currency, ahead of expectations, with better-than-expected results across all businesses.
+  - [Observed] Azure and other cloud services revenue grew 30% and 28% in constant currency, including 6 points of growth from AI services.
+  - [Observed] Enterprise and partner services revenue increased 1% and was relatively unchanged in constant currency with better-than-expected performance across enterprise support services and industry solutions.
+  - [Observed] Windows OEM revenue increased 11% year over year, ahead of expectations, driven by slightly better performance and higher monetizing consumer markets.
+  - [Observed] Search and news advertising revenue, ex TAC, increased 8% and 7% in constant currency, relatively in line with expectations, driven by higher search volume, offset by negative impact from a third-party partnership.
+  - [Observed] Total gaming revenue was in line with expectations of stronger-than-expected performance from Activision was offset by the weaker-than-expected console market noted earlier.
+  - [Observed] Xbox content and services revenue increased 61% and 60% in constant currency, driven by 55 points of net impact from the Activision acquisition.
+  - [Observed] Xbox hardware revenue grew 3% and 1% in constant currency.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Revenue: $62.02B | vs prior quarter: $56.52B (+9.7%) | vs prior year: $52.75B (+17.6%)
+    - Cost of Revenue: $19.62B | vs prior quarter: $16.30B (+20.4%) | vs prior year: $17.49B (+12.2%)
+
+=== Q3 2024 ===
+Management said:
+  - Revenue was $26.7 billion, increasing 21%, ahead of expectations with better-than-expected results across all businesses.
+  - In more personal computing, we expect revenue to grow between 10% and 13% in constant currency or USD $15.2 billion to USD 15.6 billion.
+  - In Productivity and Business Processes, we expect revenue to grow between 9% and 11% in constant currency or USD 19.9 billion to USD 20.2 billion.
+  - Revenue from productivity and business processes was $19.6 billion and grew 12% and 11% in constant currency, in line with expectations.
+  - Our third quarter revenue was $61.9 billion, up 17% and earnings per share was $2.94, up 20%.
+  - Office Commercial revenue grew 13% and 12% in constant currency.
+  - Roughly 45% will be recognized in revenue in the next 12 months, up 20% year over year.
+  - Revenue was $15.6 billion, increasing 17% with 15 points of net impact from the Activision acquisition.
+  - Office consumer revenue increased 4%, slightly below expectations.
+  - Windows commercial products and cloud services revenue increased 13% and 12% in constant currency, below expectations with impact from the growth trends in new stand-alone business noted earlier, as well as lower in-period revenue recognition from a mix of contracts.
+  - In our on-premises server business, revenue increased 6%, ahead of expectations, driven by better-than-expected renewal strength, particularly for contracts with higher in-period revenue recognition.
+  - Dynamics revenue grew 19% and 17% in constant currency, ahead of expectations.
+  - LinkedIn revenue increased 10% and 9% in constant currency, ahead of expectations, driven by slightly better-than-expected performance in our premium subscriptions and talent solutions businesses.
+  - As a reminder, our quarterly revenue growth can have variability primarily from in-period revenue recognition depending on the mix of contracts.
+  - Revenue increased 51% and 50% in constant currency with 55 points of net impact from the Activision acquisition.
+  - It was a record third quarter powered by the continued strength of Microsoft Cloud, which surpassed $35 billion in revenue, up 23%.
+  - We also saw an acceleration of revenue from migrations to Azure.
+  - All up more than 90% of the Fortune 100 are now GitHub customers and revenue accelerated over 45% year over year.
+  - New AI features are also helping accelerate LinkedIn premium growth with revenue up 29% year over year.
+  - At a company level, Activision contributed a net impact of approximately 4 points to revenue growth, was a 2-point drag on operating income growth, and had a negative $0.04 impact to earnings per share.
+  - FX did not have a significant impact on our results and was roughly in line with our expectations on total company revenue, segment level revenue, COGS, and operating expense growth.
+  - Microsoft Cloud revenue was $35.1 billion and grew 23%, ahead of expectations.
+  - Office 365 commercial revenue increased 15%, in line with expectations, driven by healthy renewal execution, ARPU growth from continued E5 momentum, and early Copilot for Microsoft 365 progress.
+  - Overall, server products and cloud services revenue grew 24%.
+  - Azure and other cloud services revenue grew 31% ahead of expectations, while our AI services contributed 7 points of growth as expected.
+  - Enterprise and partner services revenue decreased 9% on a strong prior-year comparable for enterprise support services.
+  - Windows OEM revenue increased 11% year over year, ahead of expectations, primarily driven by the slightly better PC market noted earlier, as well as mix shift to higher monetizing markets.
+  - Devices revenue decreased 17% and 16% in constant currency as we remain focused on our higher-margin premium products.
+  - Search and news advertising revenue ex TAC increased 12% ahead of expectations with continued volume growth and increased engagement on Bing and Edge.
+  - Xbox content and services revenue increased 62% and 61% in constant currency with 61 points of net impact from the Activision acquisition.
+  - Xbox hardware revenue decreased 31% and 30% in constant currency.
+  - Based on current rates, which reflect the recent strengthening of the US dollar, we now expect FX to decrease total revenue and segment-level revenue growth by less than 1 point.
+  - When compared to our January guide for Q4, FX, this is a decrease to total revenue of roughly $700 million.
+  - In Office Commercial, revenue growth will again be driven by Office 365 with seat growth across customer segments and ARPU growth primarily through E5.
+  - We expect Office 365 revenue growth to be approximately 14% in constant currency.
+  - In our on-premises business, we expect revenue to decline in the mid- to high teens.
+  - In Office Consumer, we expect revenue growth in the low to mid-single digits, driven by Microsoft 365 subscriptions.
+  - For LinkedIn, we expect revenue growth in the mid- to high single digits driven by continued growth across all businesses.
+  - And in Dynamics, we expect revenue growth in the low to mid-teens, driven by Dynamics 365.
+  - For both LinkedIn and Dynamics, the continued bookings growth moderation noted earlier is a headwind to Q4 revenue growth.
+  - For Intelligent Cloud, we expect revenue to grow between 19% and 20% in constant currency or USD 28.4 billion to USD 28.7 billion.
+  - Revenue will continue to be driven by Azure, which, as a reminder, can have quarterly variability primarily from our per-user business and in-period revenue recognition depending on the mix of contracts.
+  - In Azure, we expect Q4 revenue growth to be 30% to 31% in constant currency or similar to our stronger-than-expected Q3 results.
+  - In our on-premises server business, we expect revenue growth in the low to mid-single digits with continued hybrid demand, including licenses running in multi-cloud environments.
+  - And in enterprise and partner services revenue should decline in the mid- to high single digits on a high prior-year comparable for enterprise support services.
+  - Windows OEM revenue growth should be in the low to mid-single digits as PC market unit volumes continue at pre-pandemic levels.
+  - In Windows commercial products and cloud services, customer demand for Microsoft 365 and our advanced security solutions should drive revenue growth in the mid-single digits.
+  - In devices, revenue should decline in the mid-teens as we continue to focus on our higher-margin premium products.
+  - search and news advertising ex TAC revenue growth should be in the low to mid-teens, driven by continued volume strength.
+  - This will be higher than overall search and news advertising revenue growth, which we expect to be relatively flat.
+  - And in gaming, we expect revenue growth in the low to mid-40s, including approximately 50 points of net impact from the Activision acquisition.
+  - We expect Xbox content and services revenue growth in the high 50s driven by approximately 60 points of net impact from the Activision acquisition.
+  - Hardware revenue will decline again year over year.
+  - In FY '25, that focus on execution should again lead to double-digit revenue and operating income growth to scale to meet the growing demand signal for our cloud and AI products, we expect FY '25 capital expenditures to be higher than FY '24.
+  - So, obviously, investments are coming well ahead of the revenue contribution.
+Guidance given:
+  - In more personal computing, we expect revenue to grow between 10% and 13% in constant currency or USD $15.2 billion to USD 15.6 billion. (target: Q4 2024; Unresolved)
+  - In Productivity and Business Processes, we expect revenue to grow between 9% and 11% in constant currency or USD 19.9 billion to USD 20.2 billion. (target: Q4 2024; Unresolved)
+  - Roughly 45% will be recognized in revenue in the next 12 months, up 20% year over year. (target: next 12 months; Unresolved)
+  - Based on current rates, which reflect the recent strengthening of the US dollar, we now expect FX to decrease total revenue and segment-level revenue growth by less than 1 point. (target: future period; Unresolved)
+  - When compared to our January guide for Q4, FX, this is a decrease to total revenue of roughly $700 million. (target: Q4 2024; Unresolved)
+  - In Office Commercial, revenue growth will again be driven by Office 365 with seat growth across customer segments and ARPU growth primarily through E5. (target: future period; Unresolved)
+  - We expect Office 365 revenue growth to be approximately 14% in constant currency. (target: future period; Unresolved)
+  - In our on-premises business, we expect revenue to decline in the mid- to high teens. (target: future period; Unresolved)
+  - In Office Consumer, we expect revenue growth in the low to mid-single digits, driven by Microsoft 365 subscriptions. (target: future period; Unresolved)
+  - For LinkedIn, we expect revenue growth in the mid- to high single digits driven by continued growth across all businesses. (target: Q4 2024; Unresolved)
+  - And in Dynamics, we expect revenue growth in the low to mid-teens, driven by Dynamics 365. (target: Q4 2024; Unresolved)
+  - For both LinkedIn and Dynamics, the continued bookings growth moderation noted earlier is a headwind to Q4 revenue growth. (target: Q4 2024; Unresolved)
+  - For Intelligent Cloud, we expect revenue to grow between 19% and 20% in constant currency or USD 28.4 billion to USD 28.7 billion. (target: Q4 2024; Exceeded)
+  - Revenue will continue to be driven by Azure, which, as a reminder, can have quarterly variability primarily from our per-user business and in-period revenue recognition depending on the mix of contracts. (target: ongoing; Unresolved)
+  - In Azure, we expect Q4 revenue growth to be 30% to 31% in constant currency or similar to our stronger-than-expected Q3 results. (target: Q4 2024; Missed)
+  - In our on-premises server business, we expect revenue growth in the low to mid-single digits with continued hybrid demand, including licenses running in multi-cloud environments. (target: Q4 2024; Unresolved)
+  - And in enterprise and partner services revenue should decline in the mid- to high single digits on a high prior-year comparable for enterprise support services. (target: Q4 2024; Unresolved)
+  - Windows OEM revenue growth should be in the low to mid-single digits as PC market unit volumes continue at pre-pandemic levels. (target: Q4 2024; Unresolved)
+  - In Windows commercial products and cloud services, customer demand for Microsoft 365 and our advanced security solutions should drive revenue growth in the mid-single digits. (target: Q4 2024; Unresolved)
+  - In devices, revenue should decline in the mid-teens as we continue to focus on our higher-margin premium products. (target: next period; Unresolved)
+  - search and news advertising ex TAC revenue growth should be in the low to mid-teens, driven by continued volume strength. (target: next period; Unresolved)
+  - This will be higher than overall search and news advertising revenue growth, which we expect to be relatively flat. (target: next period; Unresolved)
+  - And in gaming, we expect revenue growth in the low to mid-40s, including approximately 50 points of net impact from the Activision acquisition. (target: next period; Unresolved)
+  - We expect Xbox content and services revenue growth in the high 50s driven by approximately 60 points of net impact from the Activision acquisition. (target: next period; Unresolved)
+  - Hardware revenue will decline again year over year. (target: next period; Unresolved)
+  - In FY '25, that focus on execution should again lead to double-digit revenue and operating income growth to scale to meet the growing demand signal for our cloud and AI products, we expect FY '25 capital expenditures to be higher than FY '24. (target: FY 2025; Unresolved)
+Actual reported:
+  - [Exceeded, Unresolved] Revenue was $26.7 billion, increasing 21%, ahead of expectations with better-than-expected results across all businesses.
+  - [Observed] Revenue from productivity and business processes was $19.6 billion and grew 12% and 11% in constant currency, in line with expectations.
+  - [Observed] Our third quarter revenue was $61.9 billion, up 17% and earnings per share was $2.94, up 20%.
+  - [Observed] Office Commercial revenue grew 13% and 12% in constant currency.
+  - [Observed] Revenue was $15.6 billion, increasing 17% with 15 points of net impact from the Activision acquisition.
+  - [Observed] Office consumer revenue increased 4%, slightly below expectations.
+  - [Observed] Windows commercial products and cloud services revenue increased 13% and 12% in constant currency, below expectations with impact from the growth trends in new stand-alone business noted earlier, as well as lower in-period revenue recognition from a mix of contracts.
+  - [Observed] In our on-premises server business, revenue increased 6%, ahead of expectations, driven by better-than-expected renewal strength, particularly for contracts with higher in-period revenue recognition.
+  - [Observed] Dynamics revenue grew 19% and 17% in constant currency, ahead of expectations.
+  - [Observed] LinkedIn revenue increased 10% and 9% in constant currency, ahead of expectations, driven by slightly better-than-expected performance in our premium subscriptions and talent solutions businesses.
+  - [Observed] Revenue increased 51% and 50% in constant currency with 55 points of net impact from the Activision acquisition.
+  - [Observed] It was a record third quarter powered by the continued strength of Microsoft Cloud, which surpassed $35 billion in revenue, up 23%.
+  - [Observed] All up more than 90% of the Fortune 100 are now GitHub customers and revenue accelerated over 45% year over year.
+  - [Observed] New AI features are also helping accelerate LinkedIn premium growth with revenue up 29% year over year.
+  - [Observed] At a company level, Activision contributed a net impact of approximately 4 points to revenue growth, was a 2-point drag on operating income growth, and had a negative $0.04 impact to earnings per share.
+  - [Observed] Microsoft Cloud revenue was $35.1 billion and grew 23%, ahead of expectations.
+  - [Observed] Office 365 commercial revenue increased 15%, in line with expectations, driven by healthy renewal execution, ARPU growth from continued E5 momentum, and early Copilot for Microsoft 365 progress.
+  - [Observed] Overall, server products and cloud services revenue grew 24%.
+  - [Observed] Azure and other cloud services revenue grew 31% ahead of expectations, while our AI services contributed 7 points of growth as expected.
+  - [Observed] Enterprise and partner services revenue decreased 9% on a strong prior-year comparable for enterprise support services.
+  - [Observed] Windows OEM revenue increased 11% year over year, ahead of expectations, primarily driven by the slightly better PC market noted earlier, as well as mix shift to higher monetizing markets.
+  - [Observed] Devices revenue decreased 17% and 16% in constant currency as we remain focused on our higher-margin premium products.
+  - [Observed] Search and news advertising revenue ex TAC increased 12% ahead of expectations with continued volume growth and increased engagement on Bing and Edge.
+  - [Observed] Xbox content and services revenue increased 62% and 61% in constant currency with 61 points of net impact from the Activision acquisition.
+  - [Observed] Xbox hardware revenue decreased 31% and 30% in constant currency.
+Filing disclosures (SEC):
+  [MD&A]
+    - 7 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Revenue: $61.86B | vs prior quarter: $62.02B (-0.3%) | vs prior year: $52.86B (+17.0%)
+    - Cost of Revenue: $18.50B | vs prior quarter: $19.62B (-5.7%) | vs prior year: $16.13B (+14.7%)
+  [Footnotes]
+    - 7 real filing table(s) available (see the HTML report).
+
+=== Q4 2024 ===
+Management said:
+  - Revenue was $28.5 billion, increasing 19% and 20% in constant currency, in line with expectations.
+  - Revenue from Productivity and Business Processes was $20.3 billion and grew 11% and 12% in constant currency, slightly ahead of expectations, driven by better-than-expected results across all business units.
+  - This quarter, revenue was $64.7 billion, up 15% and 16% in constant currency.
+  - In productivity and business processes, we expect revenue to grow between 10% and 11% in constant currency or USD 20.3 billion to USD 20.6 billion.
+  - Office commercial revenue grew 12% and 13% in constant currency.
+  - Revenue was $15.9 billion, increasing 14% and 15% in constant currency, with 12 points of net impact from the Activision acquisition.
+  - Roughly 40% will be recognized in revenue in the next 12 months, up 18% year over year.
+  - Windows commercial products and cloud services revenue increased 11% and 12% in constant currency, ahead of expectations due to higher in-period revenue recognition from the mix of contracts.
+  - Overall, server products and cloud services revenue grew 21% and 22% in constant currency.
+  - In devices, revenue growth should be in the low to mid-single digits.
+  - And in enterprise and partner services revenue should decline in the low single digits.
+  - LinkedIn revenue increased 10% and 9% in constant currency, driven by better-than-expected performance across all businesses.
+  - In our on-premises server business, revenue increased 2% and 3% in constant currency.
+  - As a reminder, our quarterly revenue growth can have variability primarily from in-period revenue recognition depending on the mix of contracts.
+  - For LinkedIn, we expect revenue growth in the high single digits driven by continued growth across all businesses.
+  - All-up, annual revenue was more than $245 billion, up 15% year over year and Microsoft Cloud revenue surpassed $135 billion, up 23%.
+  - We continue to see sustained revenue growth from migrations.
+  - GitHub's annual revenue run rate is now $2 billion.
+  - Copilot accounted for over 40% of GitHub's revenue growth this year and is already a larger business than all of GitHub was when we acquired it.
+  - And Defender for Cloud, our cloud security solutions, surpassed $1 billion in revenue over the past 12 months as we protect customer workloads across multi-cloud and hybrid environments.
+  - Our overall revenue ex-TAC increased 19% year over year and we again took share across Bing and Edge.
+  - At a company level, Activision contributed a net impact of approximately 3 points to revenue growth, was a 2-point drag on operating income growth and had a negative $0.06 impact to earnings per share.
+  - FX did not have a significant impact on our results and was roughly in line with our expectations on total company revenue, segment-level revenue, COGS, and operating expense growth.
+  - Microsoft Cloud revenue was $36.8 billion and grew 21% and 22% in constant currency, roughly in line with expectations.
+  - Office 365 Commercial revenue increased 13% and 14% in constant currency with ARPU growth primarily from E5 momentum, as well as Copilot for Microsoft 365.
+  - Office consumer revenue increased 3% and 4% in constant currency, with continued momentum in Microsoft 365 subscriptions, which grew 10% to $82.5 million.
+  - Dynamics revenue grew 16%, driven by Dynamics 365, which grew 19% and 20% in constant currency.
+  - Dynamics 365 now represents roughly 90% of total Dynamics revenue.
+  - Azure and other cloud services revenue grew 29% and 30% in constant currency, in line with expectations and consistent with Q3 when adjusting for leap year.
+  - Enterprise and partner services revenue decreased 7% on a strong prior year comparable for enterprise support services.
+  - The PC market was as expected and Windows OEM revenue increased 4% year over year.
+  - Devices revenue decreased 11% and 9% in constant currency, roughly in line with expectations as we remain focused on our higher-margin premium products.
+  - search and news advertising revenue ex-TAC increased 19%, ahead of expectations, primarily due to improved execution.
+  - And in gaming, revenue increased 44% with 48 points of net impact from the Activision acquisition.
+  - Xbox content and services revenue increased 61%, slightly ahead of expectations with 58 points of net impact from the Activision acquisition.
+  - Xbox hardware revenue decreased 42% and 41% in constant currency.
+  - Assuming current rates remain stable, we expect FX to have no meaningful impact to full year revenue, COGS or operating expense growth.
+  - Next, we continue to expect double-digit revenue and operating income growth as we focus on delivering differentiated value for our customers.
+  - Based on current rates, we expect FX to decrease total revenue and segment-level revenue growth by less than 1 point.
+  - In Office Commercial, revenue growth will again be driven by Office 365 with seat growth across customer segments and ARPU growth through E5 and Copilot for Microsoft 365.
+  - We expect Office 365 revenue growth to be approximately 14% in constant currency.
+  - In our on-premises business, we expect revenue to decline in the mid- to high teens.
+  - In Office consumer, we expect revenue growth in the low to mid-single digits, driven by Microsoft 365 subscriptions.
+  - And in Dynamics, we expect revenue growth in the low to mid-teens, driven by Dynamics 365.
+  - For intelligent cloud, we expect revenue to grow between 18% and 20% in constant currency or USD 28.6 billion to USD 28.9 billion.
+  - Revenue will continue to be driven by Azure, which, as a reminder, can have quarterly variability primarily from our per-user business and in-period revenue recognition depending on the mix of contracts.
+  - In Azure, we expect Q1 revenue growth to be 28% to 29% in constant currency.
+  - In our on-premises server business, we expect revenue to decline in the low single digits as continued hybrid demand will be more than offset by lower transactional purchasing.
+  - And more personal computing, we expect revenue to grow between 9% and 12% in constant currency or USD 14.9 billion to USD 15.3 billion.
+  - Windows OEM revenue growth should be relatively flat, roughly in line with the PC market.
+  - In Windows Commercial products and Cloud services, customer demand for Microsoft 365 and our advanced security solutions should drive revenue growth in the mid-single digits.
+  - search and news advertising ex-TAC revenue growth should be in the mid- to high teens.
+  - This will be higher than overall search and news advertising revenue growth, which we expect to be in the low single digits.
+  - And in gaming, we expect revenue growth in the mid-30s, including approximately 40 points of net impact from the Activision acquisition.
+  - We expect Xbox content and services revenue growth in the low to mid-50s, driven by the net impact from the Activision acquisition.
+  - Hardware revenue will again decline year over year.
+  - And so, you're right that you could see relatively consistent revenue patterns and yet see these inconsistencies and capital spend quarter to quarter.
+  - And as Amy pointed out, you're guiding to accelerating Azure revenue growth rate, which, I guess, follows the capex surge.
+  - Xbox Content Services revenue grew 61%, 58 points held from Activision.
+  - And that ultimately will show up in that software plus services and transaction revenue for us, which is really our long-term KPI, and that's what we're building toward.
+Guidance given:
+  - In productivity and business processes, we expect revenue to grow between 10% and 11% in constant currency or USD 20.3 billion to USD 20.6 billion. (target: next period; Unresolved)
+  - In devices, revenue growth should be in the low to mid-single digits. (target: next period; Unresolved)
+  - And in enterprise and partner services revenue should decline in the low single digits. (target: next period; Unresolved)
+  - For LinkedIn, we expect revenue growth in the high single digits driven by continued growth across all businesses. (target: future period; Unresolved)
+  - Next, we continue to expect double-digit revenue and operating income growth as we focus on delivering differentiated value for our customers. (target: ongoing/future; Unresolved)
+  - Based on current rates, we expect FX to decrease total revenue and segment-level revenue growth by less than 1 point. (target: ongoing/future; Unresolved)
+  - In Office Commercial, revenue growth will again be driven by Office 365 with seat growth across customer segments and ARPU growth through E5 and Copilot for Microsoft 365. (target: ongoing/future; Unresolved)
+  - We expect Office 365 revenue growth to be approximately 14% in constant currency. (target: ongoing/future; Unresolved)
+  - In our on-premises business, we expect revenue to decline in the mid- to high teens. (target: ongoing/future; Unresolved)
+  - Assuming current rates remain stable, we expect FX to have no meaningful impact to full year revenue, COGS or operating expense growth. (target: full year 2024; Unresolved)
+  - In Office consumer, we expect revenue growth in the low to mid-single digits, driven by Microsoft 365 subscriptions. (target: Q1 2025; Unresolved)
+  - And in Dynamics, we expect revenue growth in the low to mid-teens, driven by Dynamics 365. (target: Q1 2025; Unresolved)
+  - For intelligent cloud, we expect revenue to grow between 18% and 20% in constant currency or USD 28.6 billion to USD 28.9 billion. (target: Q1 2025; Unresolved)
+  - In Azure, we expect Q1 revenue growth to be 28% to 29% in constant currency. (target: Q1 2025; Unresolved)
+  - In our on-premises server business, we expect revenue to decline in the low single digits as continued hybrid demand will be more than offset by lower transactional purchasing. (target: Q1 2025; Unresolved)
+  - And more personal computing, we expect revenue to grow between 9% and 12% in constant currency or USD 14.9 billion to USD 15.3 billion. (target: Q1 2025; Unresolved)
+  - Windows OEM revenue growth should be relatively flat, roughly in line with the PC market. (target: Q1 2025; Unresolved)
+  - In Windows Commercial products and Cloud services, customer demand for Microsoft 365 and our advanced security solutions should drive revenue growth in the mid-single digits. (target: Q1 2025; Unresolved)
+  - search and news advertising ex-TAC revenue growth should be in the mid- to high teens. (target: Q1 2025; Unresolved)
+  - This will be higher than overall search and news advertising revenue growth, which we expect to be in the low single digits. (target: future period (implied Q4 2024 or next quarter); Unresolved)
+  - And in gaming, we expect revenue growth in the mid-30s, including approximately 40 points of net impact from the Activision acquisition. (target: future period (implied Q4 2024 or next quarter); Unresolved)
+  - We expect Xbox content and services revenue growth in the low to mid-50s, driven by the net impact from the Activision acquisition. (target: future period (implied Q4 2024 or next quarter); Unresolved)
+  - Hardware revenue will again decline year over year. (target: future period (implied Q4 2024 or next quarter); Unresolved)
+Actual reported:
+  - [Unresolved, Exceeded, Missed] Revenue was $28.5 billion, increasing 19% and 20% in constant currency, in line with expectations.
+  - [Observed] Revenue from Productivity and Business Processes was $20.3 billion and grew 11% and 12% in constant currency, slightly ahead of expectations, driven by better-than-expected results across all business units.
+  - [Observed] This quarter, revenue was $64.7 billion, up 15% and 16% in constant currency.
+  - [Observed] Office commercial revenue grew 12% and 13% in constant currency.
+  - [Observed] Revenue was $15.9 billion, increasing 14% and 15% in constant currency, with 12 points of net impact from the Activision acquisition.
+  - [Observed] Windows commercial products and cloud services revenue increased 11% and 12% in constant currency, ahead of expectations due to higher in-period revenue recognition from the mix of contracts.
+  - [Observed] Overall, server products and cloud services revenue grew 21% and 22% in constant currency.
+  - [Observed] LinkedIn revenue increased 10% and 9% in constant currency, driven by better-than-expected performance across all businesses.
+  - [Observed] In our on-premises server business, revenue increased 2% and 3% in constant currency.
+  - [Observed] All-up, annual revenue was more than $245 billion, up 15% year over year and Microsoft Cloud revenue surpassed $135 billion, up 23%.
+  - [Observed] GitHub's annual revenue run rate is now $2 billion.
+  - [Observed] And Defender for Cloud, our cloud security solutions, surpassed $1 billion in revenue over the past 12 months as we protect customer workloads across multi-cloud and hybrid environments.
+  - [Observed] Our overall revenue ex-TAC increased 19% year over year and we again took share across Bing and Edge.
+  - [Observed] At a company level, Activision contributed a net impact of approximately 3 points to revenue growth, was a 2-point drag on operating income growth and had a negative $0.06 impact to earnings per share.
+  - [Observed] Microsoft Cloud revenue was $36.8 billion and grew 21% and 22% in constant currency, roughly in line with expectations.
+  - [Observed] Office 365 Commercial revenue increased 13% and 14% in constant currency with ARPU growth primarily from E5 momentum, as well as Copilot for Microsoft 365.
+  - [Observed] Office consumer revenue increased 3% and 4% in constant currency, with continued momentum in Microsoft 365 subscriptions, which grew 10% to $82.5 million.
+  - [Observed] Dynamics revenue grew 16%, driven by Dynamics 365, which grew 19% and 20% in constant currency.
+  - [Observed] Azure and other cloud services revenue grew 29% and 30% in constant currency, in line with expectations and consistent with Q3 when adjusting for leap year.
+  - [Observed] Enterprise and partner services revenue decreased 7% on a strong prior year comparable for enterprise support services.
+  - [Observed] Windows OEM revenue increased 4% year over year.
+  - [Observed] Devices revenue decreased 11% and 9% in constant currency, roughly in line with expectations as we remain focused on our higher-margin premium products.
+  - [Observed] search and news advertising revenue ex-TAC increased 19%, ahead of expectations, primarily due to improved execution.
+  - [Observed] And in gaming, revenue increased 44% with 48 points of net impact from the Activision acquisition.
+  - [Observed] Xbox content and services revenue increased 61%, slightly ahead of expectations with 58 points of net impact from the Activision acquisition.
+  - [Observed] Xbox hardware revenue decreased 42% and 41% in constant currency.
+  - [Observed] Xbox Content Services revenue grew 61%, 58 points held from Activision.
+Filing disclosures (SEC):
+  [MD&A]
+    - 7 real filing table(s) available (see the HTML report).
+    - We generate revenue by offering a wide range of cloud-based solutions, content, and other services to people and businesses; licensing and supporting an array of software products; delivering relevant online advertising to a global audience; and designing and selling devices.
+    - • Windows revenue increased 8% with Windows original equipment manufacturer licensing (“Windows OEM”) revenue growth of 7% and Windows Commercial products and cloud services revenue growth of 11%.
+    - • Office Commercial products and cloud services revenue increased 14% driven by Office 365 Commercial growth of 16%.
+    - • Office Consumer products and cloud services revenue increased 4% and Microsoft 365 Consumer subscribers grew to 82.5 million.
+    - • Devices revenue decreased 15%.
+    - Highlights from fiscal year 2024 compared with fiscal year 2023 included: • Microsoft Cloud revenue increased 23% to $137.4 billion.
+  [Financial Statements]
+    - Revenue: $245.12B | vs prior quarter: — | vs prior year: $211.91B (+15.7%)
+    - Cost of Revenue: $74.11B | vs prior quarter: — | vs prior year: $65.86B (+12.5%)
+  [Footnotes]
+    - 9 real filing table(s) available (see the HTML report).
+
+=== Q1 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 7 real filing table(s) available (see the HTML report).
+    - We generate revenue by offering a wide range of cloud-based solutions, content, and other services to people and businesses; licensing and supporting an array of software products; delivering relevant online advertising to a global audience; and designing and selling devices.
+    - • Windows OEM and Devices revenue increased 2%.
+    - • Server products and cloud services revenue increased 23% driven by Azure and other cloud services revenue growth of 33%.
+    - Highlights from the first quarter of fiscal year 2025 compared with the first quarter of fiscal year 2024 included: • Microsoft Cloud revenue increased 22% to $38.9 billion.
+    - • Microsoft 365 Commercial products and cloud services revenue increased 13% driven by Microsoft 365 Commercial cloud revenue growth of 15%.
+    - • Dynamics products and cloud services revenue increased 14% driven by Dynamics 365 revenue growth of 18%.
+  [Financial Statements]
+    - Revenue: $65.58B | vs prior quarter: — | vs prior year: $56.52B (+16.0%)
+    - Cost of Revenue: $20.10B | vs prior quarter: — | vs prior year: $16.30B (+23.3%)
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+
+=== Q2 2025 ===
+Management said:
+  - Revenue was $14.7 billion, relatively unchanged year over year, with better-than-expected results driven primarily by Windows OEM prebuilds, usage from a third-party partnership in search as well as Call of Duty launch performance in gaming.
+  - In More Personal Computing, we expect revenue to be USD 12.4 billion to USD 12.8 billion with continued prioritization of higher-margin opportunities.
+  - This quarter, revenue was $69.6 billion, up 12%.
+  - In Productivity and Business Processes, we expect revenue to grow between 11% and 12% in constant currency, or USD 29.4 billion to USD 29.7 billion.
+  - Roughly 40% will be recognized in revenue in the next 12 months, up 21% year over year.
+  - For Intelligent Cloud, we expect revenue to grow between 19% and 20% in constant currency, or USD 25.9 billion to USD 26.2 billion.
+  - Dynamics 365 revenue increased 19% and 18% in constant currency, slightly ahead of expectations with growth across all workloads.
+  - And usage doesn't directly impact revenue, but of course, indirectly does as people get more and more value added.
+  - And in Enterprise and Partner Services, we expect revenue growth to be in the low to mid-single digits.
+  - This quarter, we saw continued strength in Microsoft Cloud, which surpassed $40 billion in revenue for the first time, up 21% year over year.
+  - And our AI business has now surpassed an annual revenue run rate of $13 billion, up 175% year over year.
+  - From now on, it's a more continuous cycle governed by both revenue growth and capability growth thanks to the compounding effects of software-driven AI scaling laws and Moore's Law.
+  - In subscriptions, LinkedIn premiums surpassed $2 billion in annual revenue for the first time this quarter.
+  - All up, Game Pass set a new quarterly record for revenue and grew its PC subscriber base by over 30% as we focus on driving fully paid subscribers across endpoints.
+  - As you heard from Satya, our AI business annual revenue run rate surpassed $13 billion and was above expectations.
+  - FX did not have a significant impact on our results and was roughly in line with expectations on total company revenue, more personal computing revenue, total company COGS, and operating expense.
+  - FX decreased revenue more than expected in our commercial segments.
+  - Microsoft Cloud revenue was $40.9 billion and grew 21%.
+  - Revenue from Productivity and Business Processes was $29.4 billion and grew 14% and 13% in constant currency, even with the unfavorable FX impact noted earlier.
+  - Microsoft 365 Commercial Cloud revenue increased 16% and 15% in constant currency, slightly ahead of expectations due to better-than-expected performance in E5 and Microsoft 365 Copilot.
+  - M365 commercial products revenue increased 13%, significantly ahead of expectations, driven by higher-than-expected transactional purchasing with the launch of Office 2024 as well as the Windows commercial on-premises components from the better-than-expected performance of M365 suites noted earlier.
+  - M365 consumer cloud revenue increased 8%, slightly ahead of expectations.
+  - Revenue was $25.5 billion and grew 19% with more unfavorable FX impact than expected.
+  - Azure other cloud services revenue grew 31%.
+  - In our on-premises server business, revenue decreased 3%, slightly below expectations, driven by slower-than-expected purchasing around Windows Server 2025 launch.
+  - Enterprise and Partner Services revenue decreased 1%, below expectations, with lower-than-expected performance across Enterprise Support Services and Industry Solutions.
+  - Windows OEM and devices revenue increased 4% year over year, ahead of expectations, driven by commercial inventory builds in advance of Windows 10 end support as well as uncertainty around tariffs.
+  - Search and news advertising revenue ex-TAC increased 21% and 20% in constant currency, ahead of expectations, driven by usage from a third-party partnership.
+  - And in gaming, revenue decreased 7% and 8% in constant currency as content and services growth continued to be offset by hardware declines.
+  - Xbox content and services revenue increased 2%, ahead of expectations, driven by stronger-than-expected performance in Blizzard and Activision content, including Call of Duty.
+  - With the strengthening of the U.S. dollar since October, we now expect FX to decrease total revenue growth by two points.
+  - Within the segments, we expect FX to decrease revenue growth by two points in Productivity and Business Processes and Intelligent Cloud and roughly one point in More Personal Computing.
+  - Microsoft 365 commercial cloud revenue growth should be between 14% and 15% in constant currency, relatively stable compared to our better-than-expected Q2 results.
+  - M365 consumer cloud revenue growth should be in the mid- to high single digits, driven by M365 subscriptions.
+  - For LinkedIn, we expect revenue growth in the low to mid-single digits.
+  - And in Dynamics 365, we expect revenue growth to be in the mid-teens driven by continued growth across all workloads.
+  - Revenue will continue to be driven by Azure, which, as a reminder, can have quarterly variability primarily from in-period revenue recognition depending on the mix of contracts.
+  - In Azure, we expect Q3 revenue growth to be between 31% and 32% in constant currency driven by strong demand for our portfolio of services.
+  - In our on-premises server business, we expect revenue to decline in the mid-single digits, driven by a decrease in transactional purchasing.
+  - Windows OEM and devices revenue should decline in the low to mid-single digits.
+  - We expect revenue from Windows OEM to be relatively flat year over year as our outlook assumes inventory levels will normalize.
+  - Devices revenue will decline.
+  - Search and news advertising ex-TAC revenue growth should be in the mid-teens from continued growth in both volume and revenue per search with share gains across Edge and Bing.
+  - Search ex-TAC growth will be higher than overall search and news advertising revenue growth, which we expect to be in the mid- to high single digits.
+  - And in gaming, we expect revenue growth to be in the low single digits.
+  - We expect Xbox content and services revenue growth to be in the low to mid-single digits driven by first-party content as well as Xbox Game Pass.
+  - With the strengthening of the U.S. dollar since October, we now expect FX to decrease Q4 revenue and COGS growth by more than one point and operating expense growth by roughly one point.
+  - However, the growth rate will be lower than FY '25 and the mix of spend will begin to shift back to short-lived assets, which are more correlated to revenue growth.
+  - When you're capacity-constrained, weeks matter, and it was good execution by the team, and you see that in the revenue results.
+  - Our AI results that we had felt good about and talked about our ability to land that revenue is the same.
+  - And that pivot will more directly correlate to revenue, and it will be contracted either with the partnership that you asked about with OpenAI or with others.
+Guidance given:
+  - In More Personal Computing, we expect revenue to be USD 12.4 billion to USD 12.8 billion with continued prioritization of higher-margin opportunities. (target: Q3 2025 (implied next quarter); Unresolved)
+  - In Productivity and Business Processes, we expect revenue to grow between 11% and 12% in constant currency, or USD 29.4 billion to USD 29.7 billion. (target: Q3 2025; Unresolved)
+  - For Intelligent Cloud, we expect revenue to grow between 19% and 20% in constant currency, or USD 25.9 billion to USD 26.2 billion. (target: Q3 2025; Unresolved)
+  - And in Enterprise and Partner Services, we expect revenue growth to be in the low to mid-single digits. (target: Q3 2025; Unresolved)
+  - For the full fiscal year, we continue to expect double-digit revenue and operating income growth as we focus on delivering efficiencies across both COGS and operating expense. (target: FY 2025; Unresolved)
+  - When compared to our October guidance assumptions on Q3 FX impact, this is a decrease to total revenue of roughly $1 billion. (target: Q3 2025; Unresolved)
+  - For M365 commercial products, we expect revenue to be relatively unchanged year over year. (target: FY2025; Unresolved)
+  - Hardware revenue will decline year over year. (target: FY2025; Unresolved)
+  - With the strengthening of the U.S. dollar since October, we now expect FX to decrease total revenue growth by two points. (target: future periods; Unresolved)
+  - Within the segments, we expect FX to decrease revenue growth by two points in Productivity and Business Processes and Intelligent Cloud and roughly one point in More Personal Computing. (target: future periods; Unresolved)
+  - Microsoft 365 commercial cloud revenue growth should be between 14% and 15% in constant currency, relatively stable compared to our better-than-expected Q2 results. (target: future periods; Unresolved)
+  - M365 consumer cloud revenue growth should be in the mid- to high single digits, driven by M365 subscriptions. (target: future periods; Unresolved)
+  - For LinkedIn, we expect revenue growth in the low to mid-single digits. (target: future periods; Unresolved)
+  - And in Dynamics 365, we expect revenue growth to be in the mid-teens driven by continued growth across all workloads. (target: future periods; Unresolved)
+  - In Azure, we expect Q3 revenue growth to be between 31% and 32% in constant currency driven by strong demand for our portfolio of services. (target: Q3 2025; Unresolved)
+  - In our on-premises server business, we expect revenue to decline in the mid-single digits, driven by a decrease in transactional purchasing. (target: Q3 2025; Unresolved)
+  - Windows OEM and devices revenue should decline in the low to mid-single digits. (target: Q3 2025; Unresolved)
+  - We expect revenue from Windows OEM to be relatively flat year over year as our outlook assumes inventory levels will normalize. (target: FY2025; Unresolved)
+  - Devices revenue will decline. (target: FY2025; Unresolved)
+  - Search and news advertising ex-TAC revenue growth should be in the mid-teens from continued growth in both volume and revenue per search with share gains across Edge and Bing. (target: FY2025; Unresolved)
+  - Search ex-TAC growth will be higher than overall search and news advertising revenue growth, which we expect to be in the mid- to high single digits. (target: FY2025; Unresolved)
+  - And in gaming, we expect revenue growth to be in the low single digits. (target: FY2025; Unresolved)
+  - We expect Xbox content and services revenue growth to be in the low to mid-single digits driven by first-party content as well as Xbox Game Pass. (target: FY2025; Unresolved)
+Actual reported:
+  - [Unresolved] Revenue was $14.7 billion, relatively unchanged year over year, with better-than-expected results driven primarily by Windows OEM prebuilds, usage from a third-party partnership in search as well as Call of Duty launch performance in gaming.
+  - [Observed] This quarter, revenue was $69.6 billion, up 12%.
+  - [Observed] Dynamics 365 revenue increased 19% and 18% in constant currency, slightly ahead of expectations with growth across all workloads.
+  - [Observed] LinkedIn revenue increased 9% with continued growth across all lines of business.
+  - [Observed] This quarter, we saw continued strength in Microsoft Cloud, which surpassed $40 billion in revenue for the first time, up 21% year over year.
+  - [Observed] And our AI business has now surpassed an annual revenue run rate of $13 billion, up 175% year over year.
+  - [Observed] In subscriptions, LinkedIn premiums surpassed $2 billion in annual revenue for the first time this quarter.
+  - [Observed] Microsoft Cloud revenue was $40.9 billion and grew 21%.
+  - [Observed] Revenue from Productivity and Business Processes was $29.4 billion and grew 14% and 13% in constant currency, even with the unfavorable FX impact noted earlier.
+  - [Observed] Microsoft 365 Commercial Cloud revenue increased 16% and 15% in constant currency, slightly ahead of expectations due to better-than-expected performance in E5 and Microsoft 365 Copilot.
+  - [Observed] M365 commercial products revenue increased 13%, significantly ahead of expectations, driven by higher-than-expected transactional purchasing with the launch of Office 2024 as well as the Windows commercial on-premises components from the better-than-expected performance of M365 suites noted earlier.
+  - [Observed] M365 consumer cloud revenue increased 8%, slightly ahead of expectations.
+  - [Observed] Revenue was $25.5 billion and grew 19% with more unfavorable FX impact than expected.
+  - [Observed] Azure other cloud services revenue grew 31%.
+  - [Observed] In our on-premises server business, revenue decreased 3%, slightly below expectations, driven by slower-than-expected purchasing around Windows Server 2025 launch.
+  - [Observed] Enterprise and Partner Services revenue decreased 1%, below expectations, with lower-than-expected performance across Enterprise Support Services and Industry Solutions.
+  - [Observed] Windows OEM and devices revenue increased 4% year over year, ahead of expectations, driven by commercial inventory builds in advance of Windows 10 end support as well as uncertainty around tariffs.
+  - [Observed] Search and news advertising revenue ex-TAC increased 21% and 20% in constant currency, ahead of expectations, driven by usage from a third-party partnership.
+  - [Observed] And in gaming, revenue decreased 7% and 8% in constant currency as content and services growth continued to be offset by hardware declines.
+  - [Observed] Xbox content and services revenue increased 2%, ahead of expectations, driven by stronger-than-expected performance in Blizzard and Activision content, including Call of Duty.
+Filing disclosures (SEC):
+  [MD&A]
+    - 7 real filing table(s) available (see the HTML report).
+    - We generate revenue by offering a wide range of cloud-based solutions, content, and other services to people and businesses; licensing and supporting an array of software products; delivering relevant online advertising to a global audience; and designing and selling devices.
+    - • Windows OEM and Devices revenue increased 4%.
+    - • Server products and cloud services revenue increased 21% driven by Azure and other cloud services revenue growth of 31%.
+    - • Microsoft 365 Commercial products and cloud services revenue increased 15% driven by Microsoft 365 Commercial cloud revenue growth of 16%.
+    - Highlights from the second quarter of fiscal year 2025 compared with the second quarter of fiscal year 2024 included: • Microsoft Cloud revenue increased 21% to $40.9 billion.
+    - • Dynamics products and cloud services revenue increased 15% driven by Dynamics 365 revenue growth of 19%.
+  [Financial Statements]
+    - Revenue: $69.63B | vs prior quarter: $65.58B (+6.2%) | vs prior year: $62.02B (+12.3%)
+    - Cost of Revenue: $21.80B | vs prior quarter: $20.10B (+8.5%) | vs prior year: $19.62B (+11.1%)
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+
+=== Q3 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 7 real filing table(s) available (see the HTML report).
+    - We generate revenue by offering a wide range of cloud-based solutions, content, and other services to people and businesses; licensing and supporting an array of software products; delivering relevant online advertising to a global audience; and designing and selling devices.
+    - • Windows OEM and Devices revenue increased 3%.
+    - • Server products and cloud services revenue increased 22% driven by Azure and other cloud services revenue growth of 33%.
+    - • Microsoft 365 Commercial products and cloud services revenue increased 11% driven by Microsoft 365 Commercial cloud revenue growth of 12%.
+    - Highlights from the third quarter of fiscal year 2025 compared with the third quarter of fiscal year 2024 included: • Microsoft Cloud revenue increased 20% to $42.4 billion.
+    - • Dynamics products and cloud services revenue increased 11% driven by Dynamics 365 revenue growth of 16%.
+  [Financial Statements]
+    - Revenue: $70.07B | vs prior quarter: $69.63B (+0.6%) | vs prior year: $61.86B (+13.3%)
+    - Cost of Revenue: $21.92B | vs prior quarter: $21.80B (+0.6%) | vs prior year: $18.50B (+18.4%)
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+
+=== Q4 2025 ===
+Management said:
+  - And revenue itself and revenue growth, as you all know better, even perhaps than I do, is a durable way to see margin improvement.
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 7 real filing table(s) available (see the HTML report).
+    - We generate revenue by offering a wide range of cloud-based solutions, content, and other services to people and businesses; licensing and supporting an array of software products; delivering relevant online advertising to a global audience; and designing and selling devices.
+    - • Windows OEM and Devices revenue increased 3%.
+    - • Server products and cloud services revenue increased 23% driven by Azure and other cloud services revenue growth of 34%.
+    - • Microsoft 365 Commercial products and cloud services revenue increased 14% driven by Microsoft 365 Commercial cloud revenue growth of 15%.
+    - • Microsoft 365 Consumer products and cloud services revenue increased 11% driven by Microsoft 365 Consumer cloud revenue growth of 11%.
+    - • Dynamics products and cloud services revenue increased 15% driven by Dynamics 365 revenue growth of 19%.
+  [Financial Statements]
+    - Revenue: $281.72B | vs prior quarter: — | vs prior year: $245.12B (+14.9%)
+    - Cost of Revenue: $87.83B | vs prior quarter: — | vs prior year: $74.11B (+18.5%)
+  [Footnotes]
+    - 7 real filing table(s) available (see the HTML report).
+    - Critical Audit Matter Description The Company recognizes revenue upon transfer of control of promised products or services to customers in an amount that reflects the consideration the Company expects to receive in exchange for those products or services.
+    - • We tested the mathematical accuracy of management's calculations of revenue and the associated timing of revenue recognized in the financial statements.
+    - Significant judgment is exercised by the Company in determining revenue recognition for certain customer agreements, and includes the following: • Determination of whether products and services are considered distinct performance obligations that should be accounted for separately versus together, such as software licenses and related services that are sold with cloud-based services.
+    - • The pattern of delivery (i.e., timing of when revenue is recognized) for each distinct performance obligation.
+    - • Identification and treatment of contract terms that may impact the timing and amount of revenue recognized (e.g., variable consideration, optional purchases, and free services).
+    - How the Critical Audit Matter Was Addressed in the Audit Our principal audit procedures related to the Company's revenue recognition for certain customer agreements included the following: • We tested the effectiveness of controls related to the identification of distinct performance obligations, the determination of the timing of revenue recognition, and the estimation of variable consideration.
+    - Conclusions on recognizing and measuring uncertain tax positions involve significant estimates and management judgment and include complex considerations of the Internal Revenue Code, related regulations, tax case laws, and prior-year audit settlements.
+    - Critical Audit Matter Description The Company’s long-term income taxes liability includes uncertain tax positions related to transfer pricing issues that remain unresolved with the Internal Revenue Service (“IRS”).
+
+=== Q1 2026 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 7 real filing table(s) available (see the HTML report).
+    - We generate revenue by offering a wide range of cloud-based solutions, content, and other services to people and businesses; licensing and supporting an array of software products; delivering relevant online advertising to a global audience; and designing and selling devices.
+    - • Windows OEM and Devices revenue increased 6%.
+    - • Azure and other cloud services revenue increased 40%.
+    - Highlights from the first quarter of fiscal year 2026 compared with the first quarter of fiscal year 2025 included: • Microsoft Cloud revenue increased 26% to $49.1 billion.
+    - • Dynamics 365 revenue increased 18%.
+    - • Microsoft 365 Commercial cloud revenue increased 17%.
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+
+=== Q2 2026 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 7 real filing table(s) available (see the HTML report).
+    - We generate revenue by offering a wide range of cloud-based solutions, content, and other services to people and businesses; licensing and supporting an array of software products; delivering relevant online advertising to a global audience; and designing and selling devices.
+    - • Azure and other cloud services revenue increased 39%.
+    - • Windows OEM and Devices revenue increased 1%.
+    - Highlights from the second quarter of fiscal year 2026 compared with the second quarter of fiscal year 2025 included: • Microsoft Cloud revenue increased 26% to $51.5 billion.
+    - • Dynamics 365 revenue increased 19%.
+    - • LinkedIn revenue increased 11%.
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+
+
+======================================================================
+TOPIC: operating margin
+======================================================================
+
+[CORE RESEARCH] MSFT: operating margin
+
+Quarters searched: 6
+Filing sections searched: 430
+
+Over the reported periods from Q1 2024 through Q2 2026, operating margins showed a general trend of modest improvement despite ongoing investments in cloud and AI infrastructure, which management consistently noted as a cost pressure. Early in 2024, management expected flat to slight increases in full-year operating margins, but actual results often exceeded these conservative forecasts, with operating margins increasing by roughly 5 points in some quarters. However, guidance for FY 2024 and FY 2025 operating margins was sometimes missed or unresolved, reflecting challenges in forecasting amid significant investments and acquisitions such as Activision. Throughout, management emphasized disciplined cost control and operating leverage as drivers of margin expansion, while filings highlighted risks from new product profitability and competitive pressures potentially lowering margins. By mid-2025 and into 2026, filings reiterated that cloud and AI investments would continue to increase operating costs and may reduce margins, indicating ongoing margin pressure despite operational improvements.
+
+Forecasting credibility: Medium
+Management provided three guidance/actual pairs for full-year operating margin expectations in FY 2024, with one met and two missed, indicating some inconsistency in forecasting accuracy. The guidance for FY 2025 operating margins remains unresolved in the transcript evidence, limiting the ability to fully assess credibility for that period. The presence of both met and missed guidance points suggests management's forecasts are somewhat reliable but subject to variability due to external factors and investment impacts. The use of filing-sourced actuals supports the accuracy of reported results, but the mixed outcomes in guidance fulfillment temper confidence in forecasting precision.
+
+Trends:
+  - Operating margins generally increasing year over year
+  - Ongoing investments in cloud and AI infrastructure increasing operating costs
+  - Disciplined cost control and operating leverage driving margin improvements
+  - Acquisition impacts (Activision) influencing margin expectations
+  - Guidance for margin improvements often conservative or missed
+
+Recurring themes/risks:
+  - Cloud and AI investments increasing operating costs
+  - Competitive pressures potentially lowering margins
+  - New products and services may not achieve historical margin levels
+  - Accounting estimate changes affecting margin comparisons
+
+Key concerns:
+  - Inconsistencies between guidance and actual outcomes for full-year operating margins in FY 2024, with two misses and one met, raise questions about forecasting reliability.
+  - Repeated filing disclosures warn that cloud and AI investments may decrease operating margins, yet management often forecasts margin improvements, indicating potential optimism bias.
+  - Changes in accounting estimates and purchase accounting adjustments related to acquisitions complicate direct margin comparisons across periods.
+
+Conclusion:
+Operating margin performance over the periods reviewed shows a pattern of modest improvement driven by cost discipline and operating leverage, despite significant investments in cloud and AI infrastructure that exert downward pressure on margins. Management's guidance on operating margins has been somewhat conservative, with actual results occasionally exceeding expectations but also instances of missed forecasts, particularly in FY 2024. The impact of acquisitions and accounting changes adds complexity to margin analysis. Overall, operating margins have trended upward but with variability, and management's forecasting credibility is moderate, reflecting the challenges of balancing growth investments with margin management.
+
+Evidence Coverage: 99.2% complete; 474/478 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2024 ===
+Management said:
+  - Operating margins increased roughly 5 points year over year to 48%.
+  - Excluding the impact of the change in accounting estimate, operating margins increased roughly 6 points driven by improved operating leverage through cost management and the higher gross margin noted earlier.
+  - Operating expenses declined 1%, and operating income increased 23% and 22% in constant currency.
+  - Operating expenses increased 2% and operating income increased 20% and 19% in constant currency.
+  - Operating income increased 25% and 24% in constant currency.
+Guidance given:
+  - Therefore, as we add the net impact of Activision, inclusive of purchase accounting adjustments, as well as integration and transaction-related expenses, we continue to expect full year operating margins to remain flat year over year. (target: full year FY 2024; Met)
+Actual reported:
+  - [Observed] Operating margins increased roughly 5 points year over year to 48%.
+  - [Observed] Operating income increased 25% and 24% in constant currency.
+  - [Observed] Operating income grew 31% and 30% in constant currency.
+Filing disclosures (SEC):
+  [MD&A]
+    - The investments we are making in cloud and AI infrastructure and devices will continue to increase our operating costs and may decrease our operating margins.
+  [Financial Statements]
+    - Operating Income: $26.89B | vs prior quarter: — | vs prior year: $21.52B (+25.0%)
+
+=== Q2 2024 ===
+Management said:
+  - Operating margins increased roughly 5 points year over year to 44%.
+  - Excluding the impact of the change in accounting estimate, operating margins increased roughly 6 points driven by the higher gross margin noted earlier, the favorable impact from the prior-year Q2 charge, and improved operating leverage through disciplined cost control.
+  - Therefore, we expect full-year operating margins to be up 1 to 2 points year over year, even as AI capital investments drive COGS growth.
+  - Operating income increased 29% and 26% in constant currency.
+Guidance given:
+  - Therefore, we expect full-year operating margins to be up 1 to 2 points year over year, even as AI capital investments drive COGS growth. (target: full year FY 2024; Missed)
+Actual reported:
+  - [Observed] Operating margins increased roughly 5 points year over year to 44%.
+  - [Observed] Operating income increased 29% and 26% in constant currency.
+  - [Observed] Operating income increased 26% and 24% in constant currency.
+  - [Observed] Operating income grew 40% and 37% in constant currency.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Operating Income: $27.03B | vs prior quarter: $26.89B (+0.5%) | vs prior year: $20.40B (+32.5%)
+
+=== Q3 2024 ===
+Management said:
+  - Operating income increased 23% and operating margins increased roughly 2 points year over year to 45%, excluding the impact of the change in accounting estimate, operating margins increased roughly 3 points, driven by the higher gross margin noted earlier and improved operating leverage through continued cost discipline.
+  - Therefore, we now expect full year FY '24 operating margins to be up over 2 points year over year, even with our cloud and AI investments, the impact from the Activision acquisition, and the headwind from the change in useful lives last year.
+  - And therefore, we expect FY '25 operating margins to be down only about 1 point year over year, even with our significant cloud and AI investments, as well as a full year of impact from the Activision acquisition.
+  - Operating expenses increased 1% and operating income increased 17% and 16% in constant currency.
+Guidance given:
+  - Therefore, we now expect full year FY '24 operating margins to be up over 2 points year over year, even with our cloud and AI investments, the impact from the Activision acquisition, and the headwind from the change in useful lives last year. (target: full year FY 2024; Missed)
+  - And therefore, we expect FY '25 operating margins to be down only about 1 point year over year, even with our significant cloud and AI investments, as well as a full year of impact from the Activision acquisition. (target: FY '25; Unresolved)
+  - This operating margin expansion reflects the hard work across every team to drive efficiencies and maintain disciplined cost management, knowing we will continue to grow our cloud and AI investments next year. (target: current/ongoing; Unresolved)
+Actual reported:
+  - [Observed] Operating expenses increased 1% and operating income increased 17% and 16% in constant currency.
+Filing disclosures (SEC):
+  [MD&A]
+    - 4 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Operating Income: $27.58B | vs prior quarter: $27.03B (+2.0%) | vs prior year: $22.35B (+23.4%)
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
+=== Q4 2024 ===
+Management said:
+  - Operating income increased 15% and 16% in constant currency, and operating margins were 43%, relatively unchanged year over year.
+  - And given our focused commitment to managing at the operating margin level, we still expect FY '25 operating margins to be down only about 1 point year over year.
+  - We delivered operating margin growth of nearly 3 points year over year even as we accelerate our AI investments, completed the Activision acquisition and had a headwind from the change in useful lives last year.
+  - Operating expenses increased 5%, and operating income increased 12% and 13% in constant currency.
+  - Operating expenses increased 5%, and operating income grew 22% and 23% in constant currency.
+Guidance given:
+  - And given our focused commitment to managing at the operating margin level, we still expect FY '25 operating margins to be down only about 1 point year over year. (target: FY '25; Unresolved)
+Actual reported:
+  - [Met, Missed] Operating income increased 15% and 16% in constant currency, and operating margins were 43%, relatively unchanged year over year.
+  - [Observed] We delivered operating margin growth of nearly 3 points year over year even as we accelerate our AI investments, completed the Activision acquisition and had a headwind from the change in useful lives last year.
+Filing disclosures (SEC):
+  [MD&A]
+    - 4 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Operating Income: $109.43B | vs prior quarter: — | vs prior year: $88.52B (+23.6%)
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+
+=== Q1 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Operating Income: $30.55B | vs prior quarter: — | vs prior year: $26.89B (+13.6%)
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+
+=== Q2 2025 ===
+Management said:
+  - And given the operating leverage that we've delivered throughout the year, inclusive of efficiency gains as we scale our AI infrastructure and utilize our own AI solutions, we now expect FY '25 operating margins to be up slightly year over year.
+  - Operating expenses increased 5%, lower than expected, and operating margins increased two points year over year to 45%.
+  - Operating income increased 32% and 30% in constant currency, driven by continued prioritization of higher-margin opportunities.
+  - Gross margin dollars increased 13% and 12% in constant currency, while operating income increased 17% and 16% in constant currency.
+  - Operating expenses increased 6% and operating income increased 16% and 15% in constant currency.
+Guidance given:
+  - And given the operating leverage that we've delivered throughout the year, inclusive of efficiency gains as we scale our AI infrastructure and utilize our own AI solutions, we now expect FY '25 operating margins to be up slightly year over year. (target: FY '25; Unresolved)
+Actual reported:
+  - [Observed] Operating expenses increased 5%, lower than expected, and operating margins increased two points year over year to 45%.
+  - [Observed] Operating income increased 32% and 30% in constant currency, driven by continued prioritization of higher-margin opportunities.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Operating Income: $31.65B | vs prior quarter: $30.55B (+3.6%) | vs prior year: $27.03B (+17.1%)
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+
+=== Q3 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Operating Income: $32.00B | vs prior quarter: $31.65B (+1.1%) | vs prior year: $27.58B (+16.0%)
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+
+=== Q4 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Operating Income: $128.53B | vs prior quarter: — | vs prior year: $109.43B (+17.4%)
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
+=== Q1 2026 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+
+=== Q2 2026 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+
