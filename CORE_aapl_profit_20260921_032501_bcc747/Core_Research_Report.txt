@@ -1,0 +1,169 @@
+[CORE RESEARCH] AAPL: profit
+
+Quarters searched: 7
+Filing sections searched: 160
+
+Across 2021–2022, management’s discussion of profit remained largely qualitative, emphasizing variability of profit margins by product, segment, and channel and the competitive risk posed by rivals selling at low or negative margins. In Q1 2021, management’s explicit forward-looking statements were framed around revenue growth rather than profit, leaving profit specifically not guided in a way that can be paired to a later reported outcome. By Q4 2021 (from filing), the language focused on structural margin dispersion and competitive pricing pressure (competitors able to sell at little/no profit or even a loss). In the later evidence provided for Q3 2022, the company referenced shareholder returns and cash generation (diluted EPS and free cash flow) rather than providing profit-margin guidance or a profit-specific guidance/actual pair.
+
+Forecasting credibility: None
+No guidance/actual pairs were found for the specific topic of profit, so forecasting credibility cannot be evaluated on a Met/Exceeded vs Missed pattern. The available guidance excerpts are not profit-targeted (they address revenue and relative expense growth), and the actuals provided are largely qualitative profit-margins commentary without corresponding profit guidance for comparison.
+
+Trends:
+  - Profit/margin framing remained qualitative (varies by product/segment/channel)
+  - Competitive pricing pressure highlighted (competitors selling at little/no profit or at a loss)
+  - Later period commentary emphasized cash generation and diluted EPS rather than explicit profit guidance
+
+Recurring themes/risks:
+  - Margin variability across products, services, geographies, and distribution channels
+  - Competition risk from players with cost structures enabling low or negative profits
+
+Key concerns:
+  - No profit-specific forward guidance provided in the evidence set, preventing any guidance-vs-actual validation for profit.
+  - Provided actuals for Q3 2022 cite diluted EPS growth and free cash flow, which do not directly reconcile to a profit guidance metric, leaving profit performance only indirectly evidenced.
+
+Conclusion:
+Based on the provided evidence, management’s profit discussion centered on structural factors (margin dispersion) and competitive threats rather than on quantifiable profit forecasts. Filing excerpts in Q4 2021 state that profit margins vary across products, services, geographic segments, and distribution channels, and also note competitors that can offer products at little or no profit or even at a loss. In the provided Q3 2022 actual commentary, management highlighted diluted EPS growth (+9%) and free cash flow ($111 billion+, +20%), which are supportive of overall profitability/cash earnings power but are not a direct profit-margin or profit guidance outcome. Therefore, the evidence supports awareness of profit-mix variability and competitive risks, but it does not allow a guidance-validated conclusion about profit over time.
+
+Evidence Coverage: 95.0% complete; 301/317 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2021 ===
+Management said:
+Guidance given:
+  - The company this year is going to be well over $300 billion in revenue. (target: this year; Unresolved)
+Actual reported:
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Gross Profit: $44.33B | vs prior quarter: — | vs prior year: $35.22B (+25.9%)
+    - Operating Income: $33.53B | vs prior quarter: — | vs prior year: $25.57B (+31.2%)
+    - Net Income: $28.75B | vs prior quarter: — | vs prior year: $22.24B (+29.3%)
+
+=== Q2 2021 ===
+Management said:
+Guidance given:
+  - We are growing revenue this year much faster than our opex increase. (target: this year; Unresolved)
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $38.08B | vs prior quarter: $44.33B (-14.1%) | vs prior year: $22.37B (+70.2%)
+    - Operating Income: $27.50B | vs prior quarter: $33.53B (-18.0%) | vs prior year: $12.85B (+114.0%)
+    - Net Income: $23.63B | vs prior quarter: $28.75B (-17.8%) | vs prior year: $11.25B (+110.1%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+
+=== Q3 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $35.26B | vs prior quarter: $38.08B (-7.4%) | vs prior year: $22.68B (+55.4%)
+    - Operating Income: $24.13B | vs prior quarter: $27.50B (-12.3%) | vs prior year: $13.09B (+84.3%)
+    - Net Income: $21.74B | vs prior quarter: $23.63B (-8.0%) | vs prior year: $11.25B (+93.2%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+
+=== Q4 2021 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Unresolved] [from SEC filing] Certain competitors have the resources, experience or cost structures to provide products at little or no profit or even at a loss.
+  - [Observed] [from SEC filing] The Company’s profit margins vary across its products, services, geographic segments and distribution channels.
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $152.84B | vs prior quarter: — | vs prior year: $104.96B (+45.6%)
+    - Operating Income: $108.95B | vs prior quarter: — | vs prior year: $66.29B (+64.4%)
+    - Net Income: $94.68B | vs prior quarter: — | vs prior year: $57.41B (+64.9%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - The Company’s profit margins vary across its products, services, geographic segments and distribution channels.
+    - Certain competitors have the resources, experience or cost structures to provide products at little or no profit or even at a loss.
+
+=== Q1 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $54.24B | vs prior quarter: — | vs prior year: $44.33B (+22.4%)
+    - Operating Income: $41.49B | vs prior quarter: — | vs prior year: $33.53B (+23.7%)
+    - Net Income: $34.63B | vs prior quarter: — | vs prior year: $28.75B (+20.4%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+
+=== Q2 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $42.56B | vs prior quarter: $54.24B (-21.5%) | vs prior year: $38.08B (+11.8%)
+    - Operating Income: $29.98B | vs prior quarter: $41.49B (-27.7%) | vs prior year: $27.50B (+9.0%)
+    - Net Income: $25.01B | vs prior quarter: $34.63B (-27.8%) | vs prior year: $23.63B (+5.8%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+
+=== Q3 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $35.88B | vs prior quarter: $42.56B (-15.7%) | vs prior year: $35.26B (+1.8%)
+    - Operating Income: $23.08B | vs prior quarter: $29.98B (-23.0%) | vs prior year: $24.13B (-4.4%)
+    - Net Income: $19.44B | vs prior quarter: $25.01B (-22.3%) | vs prior year: $21.74B (-10.6%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+
+=== Q4 2022 ===
+Management said:
+  - And through today at Apple Creative Studios, we partnered with non-profits in cities around the world to help young diverse creatives pursue their passions and connect with local mentors.
+Guidance given:
+Actual reported:
+  - [Observed] We grew diluted earnings per share by 9% and generated over $111 billion of free cash flow, up 20% year over year.
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $170.78B | vs prior quarter: — | vs prior year: $152.84B (+11.7%)
+    - Operating Income: $119.44B | vs prior quarter: — | vs prior year: $108.95B (+9.6%)
+    - Net Income: $99.80B | vs prior quarter: — | vs prior year: $94.68B (+5.4%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - The Company’s profit margins vary across its products, services, geographic segments and distribution channels.
+    - Certain competitors have the resources, experience or cost structures to provide products at little or no profit or even at a loss.
+
+=== Q1 2023 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+
