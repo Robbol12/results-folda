@@ -1,0 +1,203 @@
+[CORE RESEARCH] TSLA: profit
+
+Quarters searched: 8
+Filing sections searched: 174
+
+Across 2021, management framed profit improvement as tied to execution (SNX), production increases, and cost reductions (including Model Y ramp in Shanghai), while acknowledging near-term headwinds from delivery declines and program impacts. The Q1 2021 guidance-to-actual comparison shows at least one explicit “should largely be driven…” profitability expectation for Q2/Q3 that later resolved as missed (per the provided outcome). In 2021 into Q4, management emphasized accumulating profitability and pointed to software/FSD as a long-run profitability driver, while filings show energy gross profit volatility (including negative gross profit at times). In 2022, management’s tone shifted toward realized strength—record or strongest-ever energy profitability and high automotive margins—consistent with reported improvements in segment gross profit and operating margin commentary, culminating in stronger year-over-year profitability metrics referenced in Q4 2022.
+
+Forecasting credibility: Low
+The provided guidance/actual pair set includes misses (notably Q2/Q3 2021 profitability evolution guidance in Q1 2021 marked as Missed). There are also several “Unresolved” items without a resolving actual-vs-target outcome in the evidence provided, limiting confirmation of predictive accuracy. With at least one clear Missed outcome in the guidance/actual pair data provided and no Met/Exceeded count stated, forecasting credibility is assessed as Low based strictly on the guidance/actual pair count information given.
+
+Trends:
+  - 2021 profit narrative moved from headwinds/program impacts toward improving profitability via utilization and volume/mix
+  - Energy segment gross profit remained volatile with negative gross profit in multiple quarters despite management optimism
+  - 2022 shifted to stronger realized profitability with record/strongest energy gross profit claims and higher automotive margins
+  - By late 2022, management highlighted broader profitability strength (operating income/margins) and continued GAAP margin performance
+
+Recurring themes/risks:
+  - Program transition and delivery/volume headwinds affecting near-term profit
+  - Energy profitability dependent on utilization/volumes and product mix (Megapack/Powerwall vs solar/service dynamics)
+  - Fixed-cost absorption and incremental-unit profitability as the mechanism for margin improvement
+  - Long-run reliance on software/FSD and reduction in materiality of regulatory credits as a profit driver
+
+Key concerns:
+  - Near-term profit guidance for 2021’s subsequent quarters was marked as Missed (Q1 2021 guidance: expected Q2/Q3 profitability evolution “in line with those improvements”).
+  - Energy segment results show repeated negative gross profit figures in filings in 2021 (e.g., energy gross profit of $(101) in Q1 2021 and $(81) in Q3 2021; Q4 2021 energy gross profit $(129)), which contrasts with optimistic profitability commentary.
+  - Accounting classification/disclosure changes appear in the excerpts in connection with profit-sharing and noncontrolling interests (HLBV method for substantive profit-sharing arrangements), which could affect presentation/interpretation of segment profitability, though specific quarter-by-quarter impacts are not quantified in the provided text.
+
+Conclusion:
+Profit improved meaningfully over the period, but with material quarter-to-quarter variability and at least one clear guidance miss. In 2021, management tied profitability to scaling/efficiency, yet filings show volatile and sometimes negative energy gross profit (e.g., Energy gross profit of $(101) in Q1 2021 and $(129) in Q4 2021) and references to delivery declines as headwinds to profit generation. By 2022, management reported stronger realized profitability, including strong energy profitability claims (record/strongest gross profit) and specific automotive margin metrics cited in Q3 2022 (GAAP operating margin 17.2%, automotive gross margin 27.9%). Additionally, Q4 2022 transcript commentary highlighted full-year strength: “operating income doubled” and “margins remained industry-leading,” supporting an overall positive profit outcome by the end of the period despite earlier forecasting shortcomings.
+
+Evidence Coverage: 95.8% complete; 343/358 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2021 ===
+Management said:
+  - For example, we incurred an estimated $200 million of direct P&L impact relating to this program in Q1, the majority of which is reflected in COGS and that’s before even considering the impact of lost revenue and profits as a result of the transition.
+  - On Services and other margins, these have recovered and are trending towards profitability, aided by strength in the used car business, operational improvements in service and additional service revenue opportunities that help absorb fixed overheads.
+  - As we think about Q2 and Q3, these quarters should largely be driven by execution on SNX, as we have discussed, continued ramp of Model Y in Shanghai and the associated cost reductions of these programs, and we expect profitability and cash generation to evolve over the course of the year in line with those improvements.
+Guidance given:
+  - We are working as fast as we can to increase production and this will aid in profitability of this business as those volumes increase. (target: ongoing; Unresolved)
+  - As we think about Q2 and Q3, these quarters should largely be driven by execution on SNX, as we have discussed, continued ramp of Model Y in Shanghai and the associated cost reductions of these programs, and we expect profitability and cash generation to evolve over the course of the year in line with those improvements. (target: Q2 and Q3 2021 / over the course of the year; Missed)
+Actual reported:
+  - [Observed] [from SEC filing] Gross profit total automotive $ 2,385 $ 1,311
+  - [Observed] [from SEC filing] Energy generation and storage segment Revenues $ 494 $ 293 Gross profit $ ( 101 ) $ 11
+  - [Observed] The reduction in Model S and X deliveries from Q4 to Q1 were a meaningful headwind to free cash flows and profit generation.
+  - [Observed] For example, we incurred an estimated $200 million of direct P&L impact relating to this program in Q1, the majority of which is reflected in COGS and that’s before even considering the impact of lost revenue and profits as a result of the transition.
+  - [Observed] On Services and other margins, these have recovered and are trending towards profitability, aided by strength in the used car business, operational improvements in service and additional service revenue opportunities that help absorb fixed overheads.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $2.21B | vs prior quarter: — | vs prior year: $1.23B (+79.5%)
+    - Operating Income: $594.0M | vs prior quarter: — | vs prior year: $283.0M (+109.9%)
+    - Net Income: $438.0M | vs prior quarter: — | vs prior year: $16.0M (+2637.5%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
+=== Q2 2021 ===
+Management said:
+  - Additionally, it's encouraging to see the progress made on profitability within our energy and services and other businesses.
+  - Andrew Baglino -- Senior Vice President, Powertrain and Energy Engineering I think it's also important to comment that increasing the utilization of the network actually reduces our costs, which allows us to lower charging prices for our customers and make the network more profitable, allows us to grow the network faster.
+Guidance given:
+Actual reported:
+  - [Unresolved, Missed] [from SEC filing] Energy generation and storage segment Revenues $ 801 $ 370 $ 1,295 $ 663 Gross profit $ 20 $ 21 $ ( 81 ) $ 32
+  - [Observed] By managing our overhead costs and driving higher volumes, our P&L is benefiting from the marginal profitability of each incremental unit.
+  - [Observed] Additionally, it's encouraging to see the progress made on profitability within our energy and services and other businesses.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $2.88B | vs prior quarter: $2.21B (+30.2%) | vs prior year: $1.27B (+127.6%)
+    - Operating Income: $1.31B | vs prior quarter: $594.0M (+120.9%) | vs prior year: $327.0M (+301.2%)
+    - Net Income: $1.14B | vs prior quarter: $438.0M (+160.7%) | vs prior year: $104.0M (+998.1%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
+=== Q3 2021 ===
+Management said:
+  - Overall, as I mentioned in our last call, our P&L continues to benefit from the marginal profitability of each incremental unit with higher fixed cost absorption.
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] Energy generation and storage segment Revenues $ 806 $ 579 $ 2,101 $ 1,242 Gross profit $ 3 $ 21 $ ( 78 ) $ 53
+  - [Observed] [from SEC filing] Total cost of revenues $ 10,097 $ 6,708 $ 3,389 51 % $ 27,345 $ 16,228 $ 11,117 69 %
+  - [Observed] Overall, as I mentioned in our last call, our P&L continues to benefit from the marginal profitability of each incremental unit with higher fixed cost absorption.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $3.66B | vs prior quarter: $2.88B (+26.9%) | vs prior year: $2.06B (+77.4%)
+    - Operating Income: $2.00B | vs prior quarter: $1.31B (+52.7%) | vs prior year: $809.0M (+147.7%)
+    - Net Income: $1.62B | vs prior quarter: $1.14B (+41.7%) | vs prior year: $331.0M (+388.8%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
+=== Q4 2021 ===
+Management said:
+  - So, over time, we think Full Self-Driving will become the most important source of profitability for Tesla.
+  - We also saw regulatory credits accounting for a relatively small portion of our 2021 profitability, which we expect to continue to reduce in materiality going forward.
+Guidance given:
+  - And with the rapid development of FSD, software-based profits will ultimately become a strong addition to the profits generated by selling hardware. (target: ongoing; Unresolved)
+  - So, over time, we think Full Self-Driving will become the most important source of profitability for Tesla. (target: over time; Unresolved)
+  - We also saw regulatory credits accounting for a relatively small portion of our 2021 profitability, which we expect to continue to reduce in materiality going forward. (target: going forward; Unresolved)
+Actual reported:
+  - [Observed] [from SEC filing] Energy generation and storage segment Revenues $ 2,789 $ 1,994 $ 1,531 Gross profit $ ( 129 ) $ 18 $ 190
+  - [Observed] Lastly, thanks to $5.5 billion of GAAP net income in 2021, our accumulated profitability since the inception of the Company became positive, which I think makes us a real company at this point.
+  - [Observed] And the reason that matters is the Model Y is a vehicle that carries a higher profit than the Model 3.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $13.61B | vs prior quarter: — | vs prior year: $6.63B (+105.2%)
+    - Operating Income: $6.52B | vs prior quarter: — | vs prior year: $1.99B (+227.1%)
+    - Net Income: $5.52B | vs prior quarter: — | vs prior year: $721.0M (+665.5%)
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+
+=== Q1 2022 ===
+Management said:
+  - Additionally, we saw a slight mix shift towards more profitable vehicles, including the Model Y.
+  - So, I’d really like to congratulate the Tesla team on achieving record profitability and output despite many, many difficult headwinds, and especially the Tesla China team in our Shanghai factory.
+  - Elon Musk Actually, on the price increase front, I should mention that it may seem like maybe we’re being unreasonable about increasing the prices of our vehicles, given that we had record profitability this quarter, but the wait list for our vehicles is quite long.
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] Gross profit energy generation and storage segment $ (72 ) $ (101 )
+  - [Observed] [from SEC filing] Gross profit total automotive $ 5,539 $ 2,385
+  - [Observed] Second question, obviously, the higher profitability that you guys have been able to experience over the last couple of quarters, a lot of that is reflecting sort of "real" improvement.
+  - [Observed] Q1 was once again a record quarter on many levels, by reaching the highest deliveries, profit and an operating margin of 19%.
+  - [Observed] Last quarter, we demonstrated a series of new financial records, including revenue, gross margins, operating margin and bottom line profitability.
+  - [Observed] Additionally, we saw a slight mix shift towards more profitable vehicles, including the Model Y.
+  - [Observed] So, I’d really like to congratulate the Tesla team on achieving record profitability and output despite many, many difficult headwinds, and especially the Tesla China team in our Shanghai factory.
+  - [Observed] Elon Musk Actually, on the price increase front, I should mention that it may seem like maybe we’re being unreasonable about increasing the prices of our vehicles, given that we had record profitability this quarter, but the wait list for our vehicles is quite long.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $5.46B | vs prior quarter: — | vs prior year: $2.21B (+146.5%)
+    - Operating Income: $3.60B | vs prior quarter: — | vs prior year: $594.0M (+506.6%)
+    - Net Income: $3.32B | vs prior quarter: — | vs prior year: $438.0M (+657.5%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
+=== Q2 2022 ===
+Management said:
+  - Zachary Kirkhorn Just to add on the profitability part of the question.
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] Energy generation and storage segment Revenues $ 866 $ 801 $ 1,482 $ 1,295 Gross profit $ 97 $ 20 $ 25 $ ( 81 )
+  - [Observed] Additionally, our energy business achieved record gross profit with the highest solar volumes in many years.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $4.23B | vs prior quarter: $5.46B (-22.5%) | vs prior year: $2.88B (+46.8%)
+    - Operating Income: $2.46B | vs prior quarter: $3.60B (-31.6%) | vs prior year: $1.31B (+87.8%)
+    - Net Income: $2.26B | vs prior quarter: $3.32B (-31.9%) | vs prior year: $1.14B (+97.8%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
+=== Q3 2022 ===
+Management said:
+  - On energy profitability, we achieved our strongest gross profit yet for this business, driven primarily by record volumes of our Megapack and Powerwall products.
+  - On automotive profitability, our GAAP operating margin was 17.2% with automotive gross margin at 27.9%.
+  - Note that while small and growing, each car we build in Austin and Berlin is contributing positively to profitability.
+Guidance given:
+Actual reported:
+  - [Observed] On energy profitability, we achieved our strongest gross profit yet for this business, driven primarily by record volumes of our Megapack and Powerwall products.
+  - [Observed] On automotive profitability, our GAAP operating margin was 17.2% with automotive gross margin at 27.9%.
+  - [Observed] Note that while small and growing, each car we build in Austin and Berlin is contributing positively to profitability.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $5.38B | vs prior quarter: $4.23B (+27.1%) | vs prior year: $3.66B (+47.0%)
+    - Operating Income: $3.69B | vs prior quarter: $2.46B (+49.7%) | vs prior year: $2.00B (+84.0%)
+    - Net Income: $3.29B | vs prior quarter: $2.26B (+45.7%) | vs prior year: $1.62B (+103.5%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
+=== Q4 2022 ===
+Management said:
+Guidance given:
+  - In that, we've priced our products with a view towards a longer-term cost structure. (target: longer-term; Unresolved)
+Actual reported:
+  - [Observed] [from SEC filing] Energy generation and storage segment Revenues $ 3,909 $ 2,789 $ 1,994 Gross profit $ 288 $ ( 129 ) $ 18
+  - [Observed] On a full year basis: revenue increased over 50%, operating income doubled, free cash flows increased over 50%, and our margins remained industry-leading.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Gross Profit: $20.85B | vs prior quarter: — | vs prior year: $13.61B (+53.3%)
+    - Operating Income: $13.66B | vs prior quarter: — | vs prior year: $6.52B (+109.4%)
+    - Net Income: $12.56B | vs prior quarter: — | vs prior year: $5.52B (+127.5%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+    - We have determined that the contractual provisions of the funds represent substantive profit-sharing arrangements.
+    - We have further determined that the methodology for calculating the noncontrolling interest and redeemable noncontrolling interest balances that reflects the substantive profit-sharing arrangements is a balance sheet approach using the hypothetical liquidation at book value (“HLBV”) method.
+
