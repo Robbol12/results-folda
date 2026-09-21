@@ -1,0 +1,2338 @@
+<!doctype html><html data-theme-default="light"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>TSLA Presentation Q1 2021</title><link rel="icon" type="image/png" sizes="128x128" href="/doculens_rounded_logo.png?v=3"><style>
+:root { color-scheme: light; }
+html, body { background: #dfe1e6; margin: 0; padding: 0; }
+/* Themed scrollbar matching this page's own light theme - same real user report as
+   the main report's dark-theme scrollbar (research_workflows._CORE_REPORT_CSS). */
+* { scrollbar-color: #c7cdd6 #eef0f3; scrollbar-width: thin; }
+::-webkit-scrollbar { width: 12px; height: 12px; }
+::-webkit-scrollbar-track { background: #eef0f3; }
+::-webkit-scrollbar-thumb { background: #c7cdd6; border-radius: 6px; border: 2px solid #eef0f3; }
+::-webkit-scrollbar-thumb:hover { background: #0a5ba8; }
+.dl-fv-shell { font-family: Arial, Helvetica, sans-serif; min-height: 100vh; }
+.dl-fv-head { max-width: 1360px; margin: 0 auto; padding: 32px 20px 0 20px; }
+.dl-fv-head h1 { font-size: 1.2rem; font-weight: 700; margin: 0 0 6px 0; color: #111; }
+.dl-fv-note { color: #666; font-size: 0.8rem; line-height: 1.5; margin: 0 0 20px 0; }
+.dl-fv-cols { max-width: 1360px; margin: 0 auto; padding: 0 20px 60px 20px; display: flex; gap: 22px; align-items: flex-start; }
+.dl-fv-native { flex: 1; min-width: 0; background: #fff; border: 1px solid #ccced4; box-shadow: 0 2px 14px rgba(0, 0, 0, 0.12); padding: 40px 48px; overflow-x: auto; }
+.dl-isolated-empty { margin: 18px 0; padding: 28px 22px; border: 1px dashed #b8c1cc; border-radius: 8px; background: #f8fafc; color: #667085; text-align: center; }
+/* Sidebar: a light "document viewer" panel (paper-toned, navy/blue accents), matching
+   the native filing pane's own light look next to it rather than standing apart as a
+   dark terminal - real user ask: the earlier black+amber Bloomberg-TERMINAL palette
+   read as a different product ("I don't like the Bloomberg color") from what was
+   actually wanted, a Bloomberg-DOCUMENT-VIEWER-style light reading pane. */
+/* Document-reader "boxes" layout - each sidebar section is its own bordered card,
+   rendered as a real <details>/<summary> (native collapse/expand, no JS needed) so
+   every section starts condensed and only the title bar shows until clicked open -
+   real user ask ("in the beginning they're all condensed, but you can open them
+   up"), since a sidebar with every section fully expanded got long fast on a wide
+   multi-quarter/multi-topic page. */
+.dl-fv-side { width: 380px; flex-shrink: 0; position: sticky; top: 20px; max-height: calc(100vh - 40px); overflow-y: auto; background: #fff; border: 1px solid #d7dee8; border-left: 3px solid #0a66c2; padding: 0 14px 14px 14px; box-shadow: 0 4px 18px rgba(20, 38, 64, 0.12); color: #243247; font-variant-numeric: tabular-nums; }
+.dl-fv-side-header { position: sticky; top: 0; z-index: 5; margin: 0 -14px 14px -14px; padding: 16px 16px 13px 16px; background: #fff; border-bottom: 1px solid #dfe6ee; }
+.dl-fv-side-header h2 { margin: 0; color: #142c48; font-size: 1.06rem; font-weight: 700; letter-spacing: -.01em; }
+.dl-fv-side-header p { margin: 4px 0 0 0; color: #6b7688; font-size: .72rem; line-height: 1.35; }
+/* Opt-in toggle for the primary "What management said" hover-scroll (see
+   _HOVER_PREVIEW_JS) - off by default. */
+.dl-hover-scroll-toggle-label { display: flex; align-items: center; gap: 7px; font-size: 0.72rem; color: #5b6472; margin: 0 2px 16px 2px; cursor: pointer; user-select: none; }
+.dl-hover-scroll-toggle-label input { cursor: pointer; }
+/* Real user report: after expanding one section (e.g. Key Financial Statements),
+   couldn't easily tell where it ended and the next collapsed section (Equity
+   Research Analyst Questions) began - 12px of gap plus an identical white
+   background/border on every card wasn't enough separation once one card grew
+   tall. Wider gap + each card now reads as its own distinct floating tile
+   (subtle shadow) instead of a seamless stack of same-colored boxes. */
+.dl-fv-side-section { margin-bottom: 14px; background: #fff; border: 1px solid #dfe6ee; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(20, 30, 50, 0.06); }
+.dl-fv-side-section:last-child { margin-bottom: 8px; }
+.dl-fv-side-section summary { cursor: pointer; list-style: none; font-size: 0.68rem; font-weight: 700; text-transform: none; letter-spacing: 0; color: #0a5ba8; padding: 9px 14px; background: #eef2f7; display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.dl-fv-side-section summary::-webkit-details-marker { display: none; }
+/* Icon-led section titles (_sidebar_icon/_sidebar_summary_html) - real user ask,
+   approved from a mockup: give each sidebar section a small leading icon instead
+   of plain text, same card shell otherwise. Icon inherits the summary's own text
+   color via currentColor, so it recolors for free with light/dark theme + the
+   per-topic multi-topic heading color override below. */
+.dl-fv-side-title { display: flex; align-items: center; gap: 8px; min-width: 0; }
+.dl-fv-side-icon { flex-shrink: 0; display: flex; }
+.dl-fv-side-icon svg { display: block; width: 14px; height: 14px; }
+/* Keyword sentences gets a teal accent (matches its own .dl-kwx-sentence link
+   color) instead of the shared blue every other section uses - real user
+   preference for this section over the old Company Keywords panel; a distinct
+   accent keeps it visually easy to find first in the sidebar. */
+.dl-fv-side-section-kwx summary { color: #0f766e; }
+.dl-fv-side-section-kwx[open] summary { border-bottom-color: #99e6d8; }
+.dl-fv-side-section-kwx summary::after { border-left-color: #0f766e; }
+/* A CSS-drawn triangle, not a Unicode glyph - a B8 escape here previously got
+   mangled (this CSS lives inside a Python string literal, and Python's OWN octal/hex
+   escape processing silently ate the backslash before the browser ever saw it -
+   confirmed via a real getComputedStyle(::after).content check showing garbage, not
+   a triangle). A border-triangle has no font-glyph-support or escaping risk at all. */
+.dl-fv-side-section summary::after {
+  content: ''; width: 0; height: 0; flex-shrink: 0;
+  border-top: 4px solid transparent; border-bottom: 4px solid transparent;
+  border-left: 5px solid #7a8a9a; transition: transform .15s ease;
+}
+.dl-fv-side-section[open] summary { border-bottom: 1px solid #dde1e7; }
+.dl-fv-side-section[open] summary::after { transform: rotate(90deg); }
+.dl-fv-side-section-body { padding: 12px 14px 14px 14px; }
+/* Universal three-level topic panel: topic-search evidence, statement locations,
+   then the compact metric summary. Keep the hierarchy explicit instead of nesting
+   filed-table controls beneath individual metrics. */
+.dl-fv-topic-section .dl-fv-side-summary { padding: 11px 14px; }
+.dl-fv-key-financial-statements > .dl-fv-side-section-body { padding: 10px; }
+.dl-fv-key-financial-statements > .dl-fv-side-section-body > .dl-fv-topic-section { margin-bottom: 12px; box-shadow: none; }
+.dl-fv-key-financial-statements > .dl-fv-side-section-body > .dl-fv-topic-section:last-child { margin-bottom: 0; }
+.dl-fv-topic-section .dl-fv-side-title { align-items: flex-start; }
+.dl-fv-topic-heading-wrap { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.dl-fv-topic-heading { display: flex; align-items: center; gap: 6px; line-height: 1.25; }
+.dl-fv-topic-subtitle { color: #596579; font-size: .68rem; font-weight: 400; text-transform: none; letter-spacing: 0; line-height: 1.35; }
+.dl-fv-topic-help { display: inline-grid; place-items: center; width: 13px; height: 13px; border-radius: 50%; background: #0a66c2; color: #fff; font-size: .58rem; font-weight: 700; text-transform: none; letter-spacing: 0; }
+.dl-fv-topic-list { margin: 0 !important; padding: 0 !important; list-style: none; }
+.dl-fv-topic-row { display: grid; grid-template-columns: 10px minmax(0, 1fr); gap: 7px; align-items: start; margin: 0 !important; padding: 8px 0; border-bottom: 1px solid #e5e8ed; }
+.dl-fv-topic-row:last-child { border-bottom: none; }
+.dl-fv-topic-row > a, .dl-fv-topic-row > span:not(.dl-fv-topic-row-icon):not(.dl-fv-topic-row-meta) { min-width: 0; }
+.dl-fv-topic-row-icon { width: 8px; height: 10px; margin-top: 3px; border: 1px solid #0a66c2; border-radius: 1px; position: relative; color: #0a66c2; }
+.dl-fv-topic-row-icon::after { content: ''; position: absolute; left: 2px; right: 2px; bottom: 2px; height: 1px; background: currentColor; box-shadow: 0 -3px 0 currentColor; }
+.dl-fv-topic-statement-icon { border-color: #16834c; color: #16834c; }
+.dl-fv-topic-row-meta { grid-column: 2; color: #6b7688; font-size: .65rem; line-height: 1.35; }
+.dl-fv-topic-empty { margin: 0 !important; padding: 4px 0; color: #7a8699; font-size: .74rem; font-style: italic; list-style: none; }
+.dl-fv-topic-metric-row { grid-template-columns: minmax(0, 1fr); padding: 4px 0; line-height: 1.25; }
+.dl-fv-topic-metric-row > a { display: flex; align-items: center; gap: 7px; color: #243247; line-height: 1.25; }
+.dl-fv-topic-metric-arrow { display: inline-flex; min-width: 13px; }
+.dl-fv-topic-metric-link { display: flex; align-items: center; gap: 7px; }
+.dl-fv-topic-metric-label { flex: 1 1 auto; min-width: 0; }
+.dl-fv-topic-metric-value { flex: 0 0 auto; font-weight: 700; white-space: nowrap; }
+.dl-fv-topic-metric-link:hover { border-bottom-color: transparent !important; }
+/* Multi-topic filing viewer (write_filing_viewer_report's extra_topic_bundles) - one
+   of these wraps each recognized sub-topic's own stack of boxed sections (What
+   management said / Key Financial Statements / MD&A / Footnotes / What was asked),
+   color-coded to match that topic's highlight marks in the filing text
+   (mark.dl-cited[data-topic-idx]). Single-topic pages (the overwhelmingly common
+   case) never render this wrapper at all - the boxed sections above are unwrapped. */
+.dl-fv-side-topic-group { margin-bottom: 16px; background: #fff; border: 1px solid #d7dee8; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 8px rgba(20, 38, 64, 0.07); }
+.dl-fv-side-topic-group:last-of-type { margin-bottom: 10px; }
+.dl-fv-side-topic-group > .dl-fv-side-section { margin: 0; border: 0; border-top: 1px solid #e5eaf0; border-radius: 0; box-shadow: none; }
+.dl-fv-side-topic-heading { font-size: 0.94rem; font-weight: 700; margin: 0; padding: 14px 14px 10px 14px; border-bottom: 2px solid; color: #1c2430; }
+.dl-fv-side-group { margin-bottom: 12px; }
+.dl-fv-side-group:last-child { margin-bottom: 0; }
+.dl-fv-side-group h3 { font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: .03em; color: #0a5ba8; margin: 0 0 6px 0; }
+.dl-fv-side ul { margin: 0; padding-left: 16px; }
+.dl-fv-side li { font-size: 0.8rem; line-height: 1.5; color: #384152; margin-bottom: 9px; }
+.dl-fv-side li:last-child { margin-bottom: 0; }
+.dl-fv-side-empty-note { font-size: 0.76rem; color: #7a8699; font-style: italic; margin: 0 0 8px 0; }
+/* "What was asked" - real analyst Q&A exchanges (research_workflows.parse_qa_exchanges),
+   the answer linked to filing evidence the same way "What management said" is. */
+.dl-fv-side-qa { margin-bottom: 14px; padding-bottom: 12px; border-bottom: 1px solid #e5e8ed; }
+.dl-fv-side-qa:last-child { margin-bottom: 0; padding-bottom: 0; border-bottom: none; }
+/* Line-clamp with hover-to-expand - REVERSED back from a prior "no clamp at all"
+   decision (that decision's own real user complaint - "hard to read the actual
+   answer" - is still honored: the full text is always present in the DOM, this only
+   visually collapses it, nothing is ever cut off or hidden behind a click). Real
+   follow-up user ask: "make it shorter and remember to only expand if mouse is
+   hovering." max-height clamps to roughly 3 lines; :hover lifts the clamp with a
+   smooth transition; the ::after gradient signals there's more to see without a
+   separate "show more" control to click. */
+.dl-fv-side-qa-q, .dl-fv-side-qa-a { max-height: 4.5em; overflow: hidden; position: relative; transition: max-height 0.25s ease; }
+.dl-fv-side-qa-q:hover, .dl-fv-side-qa-a:hover { max-height: 800px; }
+.dl-fv-side-qa-q::after, .dl-fv-side-qa-a::after { content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 1.4em; background: linear-gradient(to bottom, rgba(255,255,255,0), #fff); pointer-events: none; transition: opacity 0.15s ease; }
+.dl-fv-side-qa-q:hover::after, .dl-fv-side-qa-a:hover::after { opacity: 0; }
+.dl-fv-side-qa-q { font-size: 0.78rem; line-height: 1.5; color: #0a5ba8; font-weight: 600; margin-bottom: 5px; }
+.dl-fv-side-qa-a { font-size: 0.8rem; line-height: 1.5; color: #384152; }
+/* Honest note when a transcript genuinely has no per-question attribution (real
+   TSLA data characteristic for some quarters, not a bug - see parse_qa_exchanges's
+   docstring) - real user report: "not seeing names on the questions asked." */
+.dl-fv-qa-anon { font-style: italic; font-weight: 400; color: #8a93a3; }
+/* "Previously asked" - the same firm/analyst's other questions elsewhere in the
+   requested range (firm_question_history) - real user ask: "track who is asking
+   the questions so we can see a timeline of previous questions." Absent entirely
+   for anonymous-question transcripts (TSLA-style) or a firm that only asked once. */
+.dl-fv-side-qa-history { margin-top: 8px; padding: 8px 10px; background: #f3f5f8; border-left: 2px solid #c7cfda; }
+.dl-fv-side-qa-history-label { font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: #6b7688; margin-bottom: 5px; }
+.dl-fv-side-qa-history ul { margin: 0; padding-left: 14px; }
+.dl-fv-side-qa-history li { font-size: 0.74rem; line-height: 1.5; color: #4b5563; margin-bottom: 4px; }
+.dl-fv-side-qa-history li:last-child { margin-bottom: 0; }
+.dl-fv-side-qa-history-period { color: #0a5ba8; font-weight: 600; }
+/* Real user ask (enthusiastic reaction): a per-Q&A "Summarize" button - real
+   click-triggered gpt-4.1-mini call (_QA_SUMMARIZE_JS -> /api/summarize-qa ->
+   research_workflows.summarize_qa_exchange), not run automatically for every
+   entry in a report. */
+.dl-qa-toggle-btn, .dl-qa-summarize-btn, .dl-qa-summarize-all-btn { margin-top: 6px; padding: 3px 10px; font-size: 0.7rem; font-weight: 600; color: #0a5ba8; background: #eef4fb; border: 1px solid #c7d9ee; border-radius: 4px; cursor: pointer; }
+.dl-qa-toggle-btn:hover, .dl-qa-summarize-btn:hover, .dl-qa-summarize-all-btn:hover { background: #dfeaf9; }
+.dl-qa-toggle-btn:disabled, .dl-qa-summarize-btn:disabled, .dl-qa-summarize-all-btn:disabled { opacity: 0.6; cursor: default; }
+.dl-qa-toggle-btn { margin: 0 10px 10px 0; display: inline-block; }
+.dl-qa-summarize-all-btn { margin: 0 0 10px 0; display: inline-block; }
+.dl-qa-extra { display: none; }
+.dl-qa-group.dl-qa-expanded .dl-qa-extra { display: block; }
+.dl-qa-summary-result { margin-top: 6px; padding: 8px 10px; font-size: 0.76rem; line-height: 1.5; color: #1c2b3a; background: #f6f9fc; border-left: 2px solid #0a5ba8; white-space: pre-wrap; }
+.dl-qa-summary-result:empty { display: none; }
+.dl-qa-summary-result.dl-qa-summary-error { color: #a3311a; border-left-color: #a3311a; background: #fdf2ef; }
+/* Real user ask: after Summarize/Summarize all, the real question/answer text
+   shrinks down (still reachable via hover) instead of the summary just
+   tacking onto the bottom below the full original text. */
+.dl-qa-original { transition: max-height .25s ease, opacity .2s ease; }
+.dl-qa-summarized .dl-qa-original { max-height: 3em; overflow: hidden; opacity: 0.55; cursor: pointer; }
+.dl-qa-summarized .dl-qa-original:hover { max-height: 1000px; opacity: 1; }
+/* Real user concern: after a restored/persisted summary shows on top, it could
+   read as if it were the real verbatim quote instead of an AI-generated
+   condensation - this label removes the ambiguity. */
+.dl-qa-summary-badge { display: block; font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; opacity: 0.7; margin-bottom: 3px; }
+a.dl-fv-side-link { color: #0a5ba8; text-decoration: none; border-bottom: 1px solid transparent; }
+a.dl-fv-side-link:hover { border-bottom-color: #0a5ba8; }
+.dl-fv-metric-relationships { margin: 6px 0 0 0; padding: 6px 8px; background: #f3f6fa; border-left: 2px solid #9bb8d6; }
+.dl-fv-metric-relationship-group { margin: 0 0 6px 0; }
+.dl-fv-metric-relationship-group:last-child { margin-bottom: 0; }
+.dl-fv-metric-relationship-group > summary { cursor: pointer; list-style: none; color: #0a5ba8; font-size: 0.7rem; font-weight: 700; }
+.dl-fv-metric-relationship-group > summary::-webkit-details-marker { display: none; }
+.dl-fv-metric-relationship-group > summary::before { content: '▸'; display: inline-block; margin-right: 4px; }
+.dl-fv-metric-relationship-group[open] > summary::before { transform: rotate(90deg); }
+.dl-fv-metric-relationship-group ul { margin-top: 5px; padding-left: 14px; }
+.dl-fv-metric-relationship-item { margin-bottom: 6px !important; font-size: 0.74rem !important; line-height: 1.35 !important; }
+.dl-fv-metric-relationship-item:last-child { margin-bottom: 0 !important; }
+.dl-fv-metric-relationship-meta, .dl-fv-metric-relationship-why { display: block; color: #6b7688; font-size: 0.67rem; line-height: 1.35; }
+.dl-fv-metric-relationship-why { font-style: italic; }
+.dl-fv-related-topics { margin-top: 6px; padding-top: 6px; border-top: 1px solid #dbe3ec; }
+.dl-fv-related-topics-title { color: #0a5ba8; font-size: 0.7rem; font-weight: 700; margin-bottom: 3px; }
+.dl-fv-related-topics ul { margin: 0; padding-left: 10px; list-style: none; }
+.dl-fv-related-topic { margin: 2px 0 !important; font-size: 0.74rem !important; }
+.dl-fv-trend { display: inline-block; margin-right: 5px; font-size: 0.65rem; color: #0a5ba8; }
+.dl-fv-trend.dl-trend-good { color: #16a34a; }
+.dl-fv-trend.dl-trend-bad { color: #dc2626; }
+mark.dl-cited { background: #fff3a3; padding: 0 1px; border-radius: 2px; }
+mark.dl-cited[data-concept] { cursor: help; box-shadow: inset 0 -2px 0 rgba(10, 91, 168, 0.55); }
+mark.dl-memory-anchor { background: #c7f9d4; padding: 0 1px; border-radius: 2px; box-shadow: inset 0 -2px 0 rgba(22, 101, 52, 0.55); }
+/* Multi-topic Core Research (research_workflows.build_filing_highlight_plan tags each
+   item with data-topic-idx) - every recognized sub-topic gets its own pale
+   highlighter tint so multiple topics ('gross margin', 'cogs', ...) are visually
+   distinguishable in the real filing text at a glance. Single-topic pages never set
+   data-topic-idx at all, so they're unaffected and keep the plain yellow above.
+   Real, confirmed bug this replaces: these 4 tints (yellow/pink/mint/light-blue)
+   didn't correspond by hue to research_workflows._TOPIC_SECTION_COLORS_LIGHT's own
+   5 heading colors (blue/amber/purple/green/pink) at all - topic 3's heading is
+   green but its mark was blue, topic 1's heading is amber but its mark was pink -
+   so a reader couldn't tell which highlighted passage belonged to which sidebar
+   heading by color, real user report: "make sure it follows the color of the thing
+   on the sidebar." Each pale tint below is now that SAME index's heading color,
+   just lightened - order/count matches _TOPIC_SECTION_COLORS_LIGHT exactly
+   (5 entries, not 4 - MAX_SPLIT_TOPICS is 5). */
+mark.dl-cited[data-topic-idx="0"] { background: #c9e0ff; }
+mark.dl-cited[data-topic-idx="1"] { background: #ffe0b3; }
+mark.dl-cited[data-topic-idx="2"] { background: #e3d1ff; }
+mark.dl-cited[data-topic-idx="3"] { background: #c3f0d8; }
+mark.dl-cited[data-topic-idx="4"] { background: #ffd1e3; }
+.dl-fv-nav-footer { margin: 4px 0 0 0; padding: 14px 0 6px 0; border-top: 1px solid #dfe6ee; position: sticky; bottom: 0; background: #fff; }
+/* Was "a.dl-fv-nav-btn" (anchor-only) - real, pre-existing bug this touch also
+   fixes: several real <button class="dl-fv-nav-btn"> elements (#dl-tp-run "Search
+   now", #tv-compare-toggle) never actually matched this tag-scoped selector at
+   all, rendering as bare unstyled browser buttons. Untagged so both real element
+   types get the same look. */
+.dl-fv-nav-btn { display: block; width: 100%; text-align: center; font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: #0a5ba8; background: #fff; border: 1px solid #dde1e7; border-radius: 5px; padding: 9px 10px; text-decoration: none; margin-bottom: 8px; font-family: inherit; cursor: pointer; }
+.dl-fv-nav-btn:hover { border-color: #0a5ba8; background: #eef2f7; }
+.dl-fv-nav-btn:last-child { margin-bottom: 0; }
+.dl-fv-nav-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+.dl-fv-nav-btn.dl-fv-nav-btn-active { color: #fff; background: #0a5ba8; border-color: #0a5ba8; }
+.dl-fv-nav-quarters { display: flex; gap: 8px; }
+.dl-fv-nav-quarters a.dl-fv-nav-btn { flex: 1; margin-bottom: 0; }
+:target { scroll-margin-top: 20px; }
+.dl-fv-native *:target { background: #ffde59 !important; }
+/* Hover-to-preview (_HOVER_PREVIEW_JS) - real user ask: hovering a "What management
+   said" quote should scroll to show where it's said, then return the reader to
+   where they were once they stop hovering, instead of a click that navigates away
+   and leaves them to scroll back manually themselves. .dl-preview-flash reuses the
+   same highlight color as the real :target flash above for one consistent "here's
+   what you're looking at" visual language. scroll-margin-top matters here too -
+   without it the sticky search bar can cover the very top of a freshly-scrolled-to
+   passage. */
+.dl-preview-flash { background: #ffde59 !important; scroll-margin-top: 20px; }
+.dl-hover-tip { position: absolute; z-index: 1000; background: #1c1c1c; color: #fff; font-family: Arial, Helvetica, sans-serif; font-size: 0.78rem; line-height: 1.5; padding: 10px 12px; border-radius: 6px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3); max-width: 260px; pointer-events: none; }
+.dl-hover-tip strong { display: block; margin-bottom: 4px; font-size: 0.8rem; }
+
+/* Hover-to-reveal multiple real matches for a "What management said" quote
+   (_semantic_filing_matches) - real user ask: "hover over it... it'll open the four
+   different things... you can click them and it'll send you to them." Shared by both
+   the filing viewer (matches are OTHER passages in this SAME filing) and the
+   transcript viewer (matches are passages on that quarter's filing-viewer page) -
+   same trigger badge + tooltip markup either way, just a different href target.
+   .dl-quote-match-tip reuses .dl-hover-tip's box styling but overrides pointer-events
+   so the reader can actually move into it and click a link, unlike the read-only
+   financial-figure comparison tooltip above. */
+.dl-quote-match-trigger { display: inline-block; margin-left: 6px; font-size: 0.72rem; font-weight: 600; color: #0a66c2; cursor: help; white-space: nowrap; }
+/* position: fixed (viewport-relative), not the base .dl-hover-tip's absolute
+   (document-relative) - real bug this fixes: hovering one of this tooltip's own
+   related links triggers _HOVER_PREVIEW_JS's auto-scroll-to-preview, which moves
+   the document out from under an absolutely-positioned tooltip, taking the
+   tooltip (and its other related links the reader wanted to hover next) off
+   screen with it. Fixed positioning means the tooltip stays exactly where the
+   reader is looking regardless of how far the underlying page scrolls. */
+.dl-quote-match-tip { position: fixed; pointer-events: auto; max-width: 320px; }
+.dl-quote-match-tip ul { list-style: none; margin: 0; padding: 0; }
+.dl-quote-match-tip li { margin-top: 8px; }
+.dl-quote-match-tip li:first-child { margin-top: 0; }
+.dl-quote-match-tip a { color: #8ec4ff; text-decoration: none; }
+.dl-quote-match-tip a:hover { text-decoration: underline; }
+.dl-quote-match-tip .dl-quote-match-score { color: #9aa3b0; font-size: 0.72rem; }
+mark.dl-cited[id] { cursor: pointer; }
+tr.dl-table-hit td, tr.dl-table-hit th { background: #fff3a3 !important; }
+/* Real user ask: move the search control out of the page header and into the
+   sidebar itself, below the prev/next-quarter nav buttons, in its own visually
+   distinct box - the sidebar is already position:sticky, so living inside it
+   means the search control naturally stays reachable while scrolling the native
+   pane without needing its own separate sticky logic (an earlier, now-removed
+   version of this fix pinned .dl-fv-search to the viewport directly). */
+.dl-fv-search-box { margin-top: 16px; padding: 12px; background: #fbfcfe; border: 1px solid #d7dee8; border-radius: 8px; }
+.dl-fv-search-box-label { display: flex; align-items: center; gap: 8px; font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; color: #6b7688; margin: 0 0 8px 0; }
+.dl-fv-search { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.dl-fv-search input { flex: 1; min-width: 0; padding: 8px 12px; border: 1px solid #ccced4; border-radius: 6px; font-size: 0.85rem; font-family: inherit; }
+.dl-fv-search input:focus { outline: none; border-color: #0a5ba8; }
+.dl-fv-search button { padding: 7px 11px; border: 1px solid #ccced4; background: #fff; border-radius: 6px; cursor: pointer; font-size: 0.85rem; color: #333; }
+.dl-fv-search button:hover { background: #f0f5fa; }
+.dl-fv-search-counter { font-size: 0.78rem; color: #666; min-width: 52px; }
+/* "Explore financial statements" quick-topic picker (_topic_picker_html) - real
+   user ask, lives directly above the search box (same .dl-fv-search-box shell
+   for visual consistency, just extra content). */
+.dl-tp-group { border: 1px solid #e5e8ed; border-radius: 6px; margin-bottom: 6px; }
+.dl-tp-group summary { padding: 7px 10px; font-size: 0.8rem; font-weight: 600; color: #1c2430; cursor: pointer; }
+.dl-tp-group-body { padding: 2px 10px 8px 10px; display: flex; flex-direction: column; gap: 4px; }
+.dl-tp-item { font-size: 0.8rem; color: #333; display: flex; align-items: center; gap: 6px; cursor: pointer; }
+.dl-tp-item input { cursor: pointer; }
+.dl-tp-item.dl-tp-item-disabled { color: #aaa; cursor: not-allowed; }
+#dl-tp-custom { width: 100%; padding: 7px 10px; border: 1px solid #ccced4; border-radius: 6px; font-size: 0.8rem; font-family: inherit; box-sizing: border-box; }
+#dl-tp-custom:focus { outline: none; border-color: #0a5ba8; }
+.dl-tp-count { font-size: 0.74rem; color: #6b7688; margin: 6px 0 8px 0; }
+.dl-tp-count.dl-tp-count-full { color: #a3311a; font-weight: 600; }
+#dl-tp-run { width: 100%; text-align: center; }
+#dl-tp-run:disabled { opacity: 0.5; cursor: not-allowed; }
+.dl-tp-status { font-size: 0.78rem; color: #6b7688; margin-top: 8px; min-height: 1.2em; }
+.dl-tp-status.dl-tp-status-error { color: #a3311a; }
+/* Real loading bar (mirrors static/app.js's own progress-track/progress-fill,
+   re-themed for this light sidebar background instead of that page's dark shell)
+   - real user ask: "I want an actual loading bar... like we have on the when you
+   first run the core research... doesn't have to be very descriptive... but I
+   want it to be pretty accurate" - _TOPIC_PICKER_JS drives the fill width from
+   the SAME real progress_cb stage list app.js already uses for /api/core-
+   research, not a fake/cycling animation. */
+.dl-tp-progress-track { height: 4px; background: #e5e8ed; border-radius: 999px; overflow: hidden; margin: 8px 0; display: none; }
+.dl-tp-progress-track.dl-tp-progress-active { display: block; }
+.dl-tp-progress-fill { height: 100%; width: 4%; border-radius: 999px; background: linear-gradient(90deg, #0a66c2, #44c8ff); transition: width 0.7s cubic-bezier(0.16, 1, 0.3, 1); }
+span.dl-search-hit { background: #cfe8ff; padding: 0 1px; border-radius: 2px; }
+/* "Keyword sentences" (_keyword_sentence_explorer_html) - real user ask: turn each
+   auto-derived company keyword into a real, expandable list of its own most
+   relevant real sentences on THIS page (not every raw occurrence - a common word
+   can appear hundreds of times), so a reader can read the sentences behind a
+   keyword without manually stepping through the in-page search one hit at a time.
+   Outer shell reuses .dl-fv-side-section's own <details>/chevron - real user ask
+   was specifically "a drop down." Nested .dl-kwx-row is a second, per-keyword
+   <details> inside that. Replaces the earlier standalone "Company keywords" chip
+   panel entirely (real user preference - "I like keyword sentences way more than
+   company keywords"). */
+.dl-kwx-rows { display: flex; flex-direction: column; gap: 6px; }
+.dl-kwx-row { background: #f4f6f9; border: 1px solid #e3e6eb; border-radius: 6px; }
+.dl-kwx-row summary { display: flex; align-items: center; justify-content: space-between; padding: 8px 12px; cursor: pointer; list-style: none; font-size: 0.82rem; color: #1c2430; }
+.dl-kwx-row summary::-webkit-details-marker { display: none; }
+.dl-kwx-name { font-weight: 600; }
+.dl-kwx-count { font-size: 0.72rem; color: #6b7688; font-weight: 600; font-variant-numeric: tabular-nums; }
+.dl-kwx-sentences { padding: 0 12px 12px 12px; border-top: 1px solid #e3e6eb; }
+/* .dl-kwx-sentence is a real <a href="#dl-kwx-N-M"> (hover-scrolls to that exact
+   sentence in the native document, via the same .dl-hover-scroll-link mechanism
+   MD&A/Footnote links already use) - real user ask: "make each of them be a
+   hyperlink thing, but don't make it blue like the other stuff." Teal, not the
+   site's usual link blue (#0a5ba8/.dl-fv-side-link) or the red/green trend colors
+   or the #ffde59 hover-scroll flash, so it reads as its own distinct affordance. */
+a.dl-kwx-sentence, p.dl-kwx-sentence { display: block; font-size: 0.82rem; line-height: 1.5; margin: 10px 0 0 0; padding-left: 10px; border-left: 2px solid #99e6d8; }
+a.dl-kwx-sentence { color: #0f766e; text-decoration: none; cursor: pointer; }
+a.dl-kwx-sentence:hover { text-decoration: underline; border-left-color: #0f766e; }
+p.dl-kwx-sentence-plain { color: #33394a; cursor: default; }
+.dl-kwx-caption { font-size: 0.7rem; color: #9aa4b2; margin: 10px 0 0 0; font-style: italic; }
+/* .dl-kwx-anchor marks where a Keyword Sentence actually sits in the native
+   document, real id only (for the hover-scroll target + the .dl-preview-flash
+   this mechanism already applies on hover) - no persistent visual treatment by
+   default, so these don't compete with real topic-evidence highlights
+   (.dl-cited) already marked in this same document. dl-kwx-anchor-active
+   (_KEYWORD_SENTENCE_HIGHLIGHT_JS) is the one exception - real user ask: "if
+   cost is closed then dont have any [highlight] but when cost is open make it
+   highlight the ones that relate to it" - toggled on only while that keyword's
+   own .dl-kwx-row is expanded, in the same teal as the sidebar link itself. */
+mark.dl-kwx-anchor { background: none; color: inherit; }
+mark.dl-kwx-anchor.dl-kwx-anchor-active { background: #99e6d8; color: #04342c; }
+/* Draw panel (_draw_annotation_panel_html/_DRAW_ANNOTATION_JS) - real, repeated
+   user ask: freehand annotation over the real filing/transcript document, saved
+   to a real per-document PDF. #dl-draw-canvas is appended INSIDE .dl-fv-native
+   (which gets position:relative from the JS) sized to its full scrollWidth/
+   scrollHeight (not just the viewport) so strokes stay anchored to the real
+   content position regardless of scroll. pointer-events stays "none" until Draw
+   mode is on, so normal reading/clicking/scrolling is completely unaffected the
+   rest of the time. */
+#dl-draw-canvas { position: absolute; top: 0; left: 0; pointer-events: none; touch-action: none; z-index: 5; }
+#dl-draw-canvas.dl-draw-canvas-active { pointer-events: auto; cursor: crosshair; }
+.dl-draw-row { display: flex; gap: 8px; margin-bottom: 10px; }
+.dl-draw-row .dl-fv-nav-btn { margin-bottom: 0; }
+.dl-draw-swatches { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 10px; }
+.dl-draw-swatch { width: 22px; height: 22px; border-radius: 50%; border: 2px solid transparent; padding: 0; cursor: pointer; }
+.dl-draw-swatch.dl-draw-swatch-active { border-color: #1c2430; box-shadow: 0 0 0 1px #fff; }
+.dl-draw-hint { font-size: 0.72rem; color: #6b7688; margin: 0 0 10px 0; }
+.dl-draw-status { font-size: 0.72rem; color: #6b7688; min-height: 1em; }
+span.dl-search-hit.dl-search-hit-active { background: #ffb347; }
+.dl-toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); background: #1c1c1c; color: #fff; padding: 10px 18px; border-radius: 6px; font-family: Arial, Helvetica, sans-serif; font-size: 0.85rem; z-index: 2000; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3); }
+@media (max-width: 980px) {
+  .dl-fv-cols { flex-direction: column; }
+  .dl-fv-side { width: 100%; position: static; max-height: none; }
+  .dl-fv-native { padding: 24px; }
+}
+
+.dl-theme-toggle { position: fixed; bottom: 20px; right: 20px; z-index: 3000; display: flex; gap: 2px; background: #1c1c1c; border-radius: 999px; padding: 4px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35); font-family: Arial, Helvetica, sans-serif; }
+.dl-theme-btn { border: none; background: transparent; color: #9aa4b2; font-size: 0.72rem; font-weight: 600; padding: 7px 14px; border-radius: 999px; cursor: pointer; line-height: 1; }
+.dl-theme-btn.dl-theme-btn-active { background: #44c8ff; color: #10131a; }
+.dl-theme-btn:hover:not(.dl-theme-btn-active) { color: #fff; }
+@media (max-width: 600px) { .dl-theme-toggle { bottom: 12px; right: 12px; } }
+
+html[data-theme="dark"] { color-scheme: dark; background: #1b1e24; }
+html[data-theme="dark"] body { background: #1b1e24; }
+html[data-theme="dark"] * { scrollbar-color: #3a3f4a #1c1f26; }
+html[data-theme="dark"] ::-webkit-scrollbar-track { background: #1c1f26; }
+html[data-theme="dark"] ::-webkit-scrollbar-thumb { background: #3a3f4a; border-color: #1c1f26; }
+html[data-theme="dark"] ::-webkit-scrollbar-thumb:hover { background: #44c8ff; }
+html[data-theme="dark"] .dl-fv-head h1 { color: #fff; }
+html[data-theme="dark"] .dl-fv-note { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-native { background: #23272f; border: 1px solid #333844; box-shadow: 0 2px 14px rgba(0, 0, 0, 0.4); color: #dfe4ea; }
+html[data-theme="dark"] .dl-fv-side { background: #262a33; border: 1px solid #333844; border-left: 3px solid #44c8ff; color: #dfe4ea; }
+html[data-theme="dark"] .dl-fv-side-header { background: #262a33; border-bottom-color: #333844; }
+html[data-theme="dark"] .dl-fv-side-header h2 { color: #f4f7fb; }
+html[data-theme="dark"] .dl-fv-side-header p { color: #9aa4b2; }
+html[data-theme="dark"] .dl-hover-scroll-toggle-label { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-side-section { background: #2a2e39; border: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-side-section summary { color: #44c8ff; background: #2f333f; }
+html[data-theme="dark"] .dl-fv-side-section summary::after { border-left-color: #7a8699; }
+html[data-theme="dark"] .dl-fv-side-section[open] summary { border-bottom: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-topic-subtitle { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-topic-row { border-bottom-color: #3a3f4a; }
+html[data-theme="dark"] .dl-fv-topic-row-meta, html[data-theme="dark"] .dl-fv-topic-empty { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-topic-row-icon { border-color: #44c8ff; color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-topic-statement-icon { border-color: #5eead4; color: #5eead4; }
+html[data-theme="dark"] .dl-fv-topic-metric-row > a { color: #dfe4ea; }
+html[data-theme="dark"] .dl-fv-topic-help { background: #44c8ff; color: #1c2430; }
+/* Same rationale as the report's own topic-badge filter above: this heading's
+   color/border-color are inline styles from _TOPIC_SECTION_COLORS_LIGHT
+   (tuned for a light sidebar) - brighten instead of darken since going the
+   opposite direction (usable-on-light -> usable-on-dark). */
+html[data-theme="dark"] .dl-fv-side-topic-heading { filter: brightness(1.5) saturate(1.05); }
+html[data-theme="dark"] .dl-fv-side-topic-group { background: #2a2e39; border-color: #333844; }
+html[data-theme="dark"] .dl-fv-side-topic-group > .dl-fv-side-section { border: 0; border-top: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-side-group h3 { color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-side li { color: #cdd6e0; }
+html[data-theme="dark"] .dl-fv-side-empty-note { color: #7a8699; }
+html[data-theme="dark"] .dl-fv-side-qa { border-bottom: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-side-qa-q::after, html[data-theme="dark"] .dl-fv-side-qa-a::after { background: linear-gradient(to bottom, rgba(42,46,57,0), #2a2e39); }
+html[data-theme="dark"] .dl-fv-side-qa-q { color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-side-qa-a { color: #cdd6e0; }
+html[data-theme="dark"] .dl-fv-qa-anon { color: #7a8699; }
+html[data-theme="dark"] .dl-fv-side-qa-history { background: #262a33; border-left: 2px solid #3a3f4a; }
+html[data-theme="dark"] .dl-fv-side-qa-history-label { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-side-qa-history li { color: #cdd6e0; }
+html[data-theme="dark"] .dl-fv-side-qa-history-period { color: #44c8ff; }
+html[data-theme="dark"] .dl-qa-summarize-btn, html[data-theme="dark"] .dl-qa-summarize-all-btn { color: #44c8ff; background: #23272f; border: 1px solid #333844; }
+html[data-theme="dark"] .dl-qa-summarize-btn:hover, html[data-theme="dark"] .dl-qa-summarize-all-btn:hover { background: #2f333f; }
+html[data-theme="dark"] .dl-qa-summary-result { color: #dfe4ea; background: #23272f; border-left: 2px solid #44c8ff; }
+html[data-theme="dark"] .dl-qa-summary-result.dl-qa-summary-error { color: #f87171; border-left-color: #f87171; background: #2a2223; }
+html[data-theme="dark"] a.dl-fv-side-link { color: #44c8ff; }
+html[data-theme="dark"] a.dl-fv-side-link:hover { border-bottom-color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-metric-relationships { background: #23272f; border-left-color: #4a6b89; }
+html[data-theme="dark"] .dl-fv-metric-relationship-group > summary, html[data-theme="dark"] .dl-fv-related-topics-title { color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-metric-relationship-meta, html[data-theme="dark"] .dl-fv-metric-relationship-why { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-related-topics { border-top-color: #3a3f4a; }
+html[data-theme="dark"] .dl-fv-trend { color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-trend.dl-trend-good { color: #4ade80; }
+html[data-theme="dark"] .dl-fv-trend.dl-trend-bad { color: #f87171; }
+html[data-theme="dark"] .dl-quote-match-trigger { color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-nav-footer { border-top: 1px solid #333844; background: #262a33; }
+html[data-theme="dark"] .dl-fv-nav-btn { color: #44c8ff; background: #23272f; border: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-nav-btn:hover { border-color: #44c8ff; background: #2f333f; }
+html[data-theme="dark"] .dl-fv-nav-btn.dl-fv-nav-btn-active { color: #1c2430; background: #44c8ff; border-color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-search-box { background: #2a2e39; border: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-search-box-label { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-search input { background: #1c1f26; color: #dfe4ea; border: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-search input:focus { border-color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-search button { background: #1c1f26; border: 1px solid #333844; color: #dfe4ea; }
+html[data-theme="dark"] .dl-fv-search button:hover { background: #2f333f; }
+html[data-theme="dark"] .dl-fv-search-counter { color: #9aa4b2; }
+html[data-theme="dark"] .dl-tp-group { border: 1px solid #333844; }
+html[data-theme="dark"] .dl-tp-group summary { color: #dfe4ea; }
+html[data-theme="dark"] .dl-tp-item { color: #cdd6e0; }
+html[data-theme="dark"] .dl-tp-item.dl-tp-item-disabled { color: #5a6270; }
+html[data-theme="dark"] #dl-tp-custom { background: #1c1f26; color: #dfe4ea; border: 1px solid #333844; }
+html[data-theme="dark"] #dl-tp-custom:focus { border-color: #44c8ff; }
+html[data-theme="dark"] .dl-tp-count { color: #9aa4b2; }
+html[data-theme="dark"] .dl-kwx-row { background: #23272f; border: 1px solid #333844; }
+html[data-theme="dark"] .dl-kwx-row summary { color: #dfe4ea; }
+html[data-theme="dark"] .dl-kwx-count { color: #9aa4b2; }
+html[data-theme="dark"] .dl-kwx-sentences { border-top: 1px solid #333844; }
+html[data-theme="dark"] a.dl-kwx-sentence, html[data-theme="dark"] p.dl-kwx-sentence { border-left: 2px solid #1f8a76; }
+html[data-theme="dark"] a.dl-kwx-sentence { color: #5eead4; }
+html[data-theme="dark"] a.dl-kwx-sentence:hover { border-left-color: #5eead4; }
+html[data-theme="dark"] p.dl-kwx-sentence-plain { color: #cdd6e0; }
+html[data-theme="dark"] .dl-kwx-caption { color: #7a8699; }
+html[data-theme="dark"] .dl-fv-side-section-kwx summary { color: #5eead4; }
+html[data-theme="dark"] .dl-fv-side-section-kwx[open] summary { border-bottom-color: #1f8a76; }
+html[data-theme="dark"] .dl-fv-side-section-kwx summary::after { border-left-color: #5eead4; }
+html[data-theme="dark"] mark.dl-kwx-anchor.dl-kwx-anchor-active { background: #1f8a76; color: #eafff9; }
+html[data-theme="dark"] .dl-draw-swatch.dl-draw-swatch-active { border-color: #dfe4ea; box-shadow: 0 0 0 1px #23272f; }
+html[data-theme="dark"] .dl-draw-hint { color: #9aa4b2; }
+html[data-theme="dark"] .dl-draw-status { color: #9aa4b2; }
+html[data-theme="dark"] .dl-tp-status { color: #9aa4b2; }
+html[data-theme="dark"] .dl-tp-progress-track { background: #333844; }
+/* Pale "highlighter" backgrounds (mark.dl-cited, :target flash, search hits,
+   the transcript-compare diff highlight) work fine unchanged in dark mode -
+   pale-on-dark reads as a bright highlight, if anything more legible than
+   pale-on-light. What does NOT work unchanged is their TEXT: none of these
+   set their own color, so without this override they'd inherit the ambient
+   dark-mode text color (#dfe4ea, light gray) and land pale-gray-on-pale-
+   yellow - a real, direct repeat of the earlier illegible-highlight bug had
+   this been skipped. Force dark text specifically inside these highlighted
+   spans; their (unchanged) pale backgrounds do the rest. */
+html[data-theme="dark"] mark.dl-cited,
+html[data-theme="dark"] mark.dl-memory-anchor,
+html[data-theme="dark"] mark.dl-cited[data-topic-idx="1"],
+html[data-theme="dark"] mark.dl-cited[data-topic-idx="2"],
+html[data-theme="dark"] mark.dl-cited[data-topic-idx="3"],
+html[data-theme="dark"] mark.dl-cited[data-topic-idx="4"],
+html[data-theme="dark"] .dl-fv-native *:target,
+html[data-theme="dark"] .dl-preview-flash,
+html[data-theme="dark"] span.dl-search-hit,
+html[data-theme="dark"] span.dl-search-hit.dl-search-hit-active,
+html[data-theme="dark"] .dl-diff-chg,
+html[data-theme="dark"] .dl-diff-para-chg,
+html[data-theme="dark"] tr.dl-table-hit td,
+html[data-theme="dark"] tr.dl-table-hit th { color: #1c2430; }
+html[data-theme="dark"] .dl-tv-speaker { color: #8ec4ff; }
+html[data-theme="dark"] .dl-fv-side-xref { color: #44c8ff; }
+html[data-theme="dark"] .tv-compare-panel-inner { background: #23272f; border: 1px solid #333844; box-shadow: 0 2px 14px rgba(0, 0, 0, 0.4); }
+html[data-theme="dark"] .tv-compare-panel-inner h3 { color: #fff; }
+html[data-theme="dark"] .tv-compare-controls select { background: #1c1f26; color: #dfe4ea; border: 1px solid #333844; }
+html[data-theme="dark"] .tv-compare-col { background: #2a2e39; border: 1px solid #333844; color: #dfe4ea; }
+html[data-theme="dark"] .tv-compare-col-heading { color: #44c8ff; background: #2a2e39; }
+.dl-deck-slide{scroll-margin-top:24px;margin-bottom:32px}.dl-deck-slide img{display:block;width:100%;height:auto;border:1px solid #d9e2ef}.dl-deck-text{white-space:pre-wrap;padding:16px;line-height:1.6}.dl-deck-slide summary{cursor:pointer;padding:12px}</style></head><body><div class="dl-fv-shell"><div class="dl-fv-head"><h1>TSLA Presentation Q1 2021</h1><p class="dl-fv-note">Original earnings presentation. Select evidence to open its highlighted slide text.</p></div><div class="dl-fv-cols"><div class="dl-fv-native"><section class="dl-deck-slide" id="slide-1"><h2>Slide 1</h2><img alt="Original presentation slide 1" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-1.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">Q1 2021 Update</div></details></section><section class="dl-deck-slide" id="slide-2"><h2>Slide 2</h2><img alt="Original presentation slide 2" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-2.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">Highlights 03
+Financial Summary 04
+Operational Summary 06
+Vehicle Capacity 07
+Core Technology 08
+Other Highlights 09
+Outlook 10
+Photos 11
+Key Metrics 21
+Financial Statements 23
+Additional Information 29</div></details></section><section class="dl-deck-slide" id="slide-3"><h2>Slide 3</h2><img alt="Original presentation slide 3" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-3.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">In Q1, we achieved our highest ever vehicle production and deliveries. 
+This was in spite of multiple challenges, including seasonality, supply 
+chain instability and the transition to the new Model S and Model X. Our 
+GAAP net income reached $438M, and our non -GAAP net income 
+surpassed $1B for the first time in our history.
+While the ASP2 of our vehicles declined in Q1, our auto gross margin 
+increased sequentially, as our costs decreased even faster. Reducing the 
+average cost of the vehicles we produce is essential to our mission. In 
+2017, as we began production of Model 3, our average cost per vehicle 
+across the fleet was ~$84,000. Due to the launch of new products and 
+new factories and the reduced mix of Model S and Model X, our average 
+cost declined to sub -$38,000 per vehicle in Q1.
+About three and a half years into its production, and even without a 
+European factory, Model 3 was the best -selling premium sedan in the 
+world,3 outselling long-time industry leaders such as the 3 Series and E -
+Class. This demonstrates that an electric vehicle can be a category 
+leader and outsell its gas -powered counterparts. We believe Model Y 
+can become not just a category leader, but also the best -selling vehicle 
+of any kind globally.
+First deliveries of the new Model S should start very shortly, Model Y 
+production rate in Shanghai continues to improve quickly and two new 
+factories 
+ Berlin and Texas 
+ are making progress. There is a lot to be 
+excited about in 2021.
+Operating cash flow less capex (free cash flow) of $293M in Q1
+Debt and finance lease reduction of $1.2B in Q1
+Net cash outflow of $1.2B related to Bitcoin in Q1
+In total, $2.2B decrease in our cash and cash equivalents in Q1 to $17.1B
+Cash
+Model 3 was the best-selling premium sedan in the world3
+Production ramp of Model Y in Shanghai progressing well
+Record vehicle production and deliveries in Q1
+Profitability $594M GAAP operating income; 5.7% operating margin in Q1
+$438M GAAP net income; $1.1B non -GAAP net income (ex -SBC1) in Q1
+SBC expense of $614M in Q1
+Operations
+S U M M A R YH I G H L I G H T S  
+3
+(1) SBC = stock-based compensation
+(2) ASP = average selling price
+(3) Based on most recent comparable publicly available OEM data</div></details></section><section class="dl-deck-slide" id="slide-4"><h2>Slide 4</h2><img alt="Original presentation slide 4" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-4.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">F I N A N C I A L S U M M A R Y
+(Unaudited)
+4
+($ in millions, except percentages and per share data) Q1-2020 Q2-2020 Q3-2020 Q4-2020 Q1-2021 YoY
+Automotive revenues 5,132 5,179 7,611 9,314 9,002 75%
+of which regulatory credits 354 428 397 401 518 46%
+Automotive gross profit 1,311 1,317 2,105 2,244 2,385 82%
+Automotive gross margin 25.5% 25.4% 27.7% 24.1% 26.5% 95 bp
+Total revenues 5,985 6,036 8,771 10,744 10,389 74%
+Total gross profit 1,234 1,267 2,063 2,066 2,215 79%
+Total GAAP gross margin 20.6% 21.0% 23.5% 19.2% 21.3% 70 bp
+Operating expenses 951 940 1,254 1,491 1,621 70%
+Income from operations 283 327 809 575 594 110%
+Operating margin 4.7% 5.4% 9.2% 5.4% 5.7% 99 bp
+Net income attributable to common stockholders (GAAP) 16 104 331 270 438 2638%
+Net income attributable to common stockholders (non-GAAP) 227 451 874 903 1,052 363%
+EPS attributable to common stockholders, diluted (GAAP)(1) 0.02 0.10 0.27 0.24 0.39 1850%
+EPS attributable to common stockholders, diluted (non-GAAP)(1) 0.23 0.44 0.76 0.80 0.93 304%
+Adjusted EBITDA 951 1,209 1,807 1,850 1,841 94%
+Net cash (used in) provided by operating activities (440) 964 2,400 3,019 1,641 N/A
+Capital expenditures (455) (546) (1,005) (1,151) (1,348) 196%
+Free cash flow (895) 418 1,395 1,868 293 N/A
+Cash and cash equivalents 8,080 8,615 14,531 19,384 17,141 112%
+(1) Prior period results have been retroactively adjusted to reflect the five-for-one stock split effected in the form of a stock dividend in August 2020.
+EPS = Earnings per share</div></details></section><section class="dl-deck-slide" id="slide-5"><h2>Slide 5</h2><img alt="Original presentation slide 5" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-5.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">F I N A N C I A L S U M M A R Y
+Revenue
+Profitability
+Cash
+Total revenue grew 74% YoY in Q1. This was primarily achieved through substantial growth in vehicle deliveries, as well as growth in other 
+parts of the business. At the same time, vehicle ASP declined by 13% YoY as Model S and Model X deliveries reduced in Q1 due to the 
+product updates and as lower ASP China-made vehicles became a larger percentage of our mix.
+Our operating income improved in Q1 compared to the same period last year to $594M, resulting in a 5.7% operating margin. This profit 
+level was reached while incurring SBC expense attributable to the 2018 CEO award of $299M in Q1, driven by an increase in market
+capitalization and a new operational milestone becoming probable.
+Year over year, positive impacts from volume growth, regulatory credit revenue growth, gross margin improvement driven by further 
+ne) were 
+mainly offset by a lower ASP, increased SBC, additional supply chain costs, R&amp;D investments and other items. Model S and Model X
+changeover costs negatively impacted both gross profit as well as R&amp;D expenses.
+Quarter-end cash and cash equivalents decreased to $17.1B in Q1, driven mainly by a net cash outflow of $1.2B in cryptocurrency 
+(Bitcoin) purchases, net debt and finance lease repayments of $1.2B, partially offset by free cash flow of $293M.
+5</div></details></section><section class="dl-deck-slide" id="slide-6"><h2>Slide 6</h2><img alt="Original presentation slide 6" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-6.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">Q1-2020 Q2-2020 Q3-2020 Q4-2020 Q1-2021 YoY
+Model S/X production 15,390 6,326 16,992 16,097 0 -100%
+Model 3/Y production 87,282 75,946 128,044 163,660 180,338 107%
+Total production 102,672 82,272 145,036 179,757 180,338 76%
+Model S/X deliveries 12,230 10,614 15,275 18,966 2,030 -83%
+Model 3/Y deliveries 76,266 80,277 124,318 161,701 182,847 140%
+Total deliveries 88,496 90,891 139,593 180,667 184,877 109%
+of which subject to operating lease accounting 6,104 4,716 10,014 13,636 13,602 123%
+Total end of quarter operating lease vehicle count 53,159 54,519 61,638 72,089 83,032 56%
+Global vehicle inventory (days of supply)(1) 25 17 14 11 8 -68%
+Solar deployed (MW) 35 27 57 86 92 163%
+Storage deployed (MWh) 260 419 759 1,584 445 71%
+Store and service locations 438 446 466 523 561 28%
+Mobile service fleet 756 769 780 823 923 22%
+Supercharger stations 1,917 2,035 2,181 2,564 2,699 41%
+Supercharger connectors 17,007 18,100 19,437 23,277 24,515 44%
+(1) 
+ ays (aligned with Automotive News definition).
+6
+O P E R A T I O N A L S U M M A R Y
+(Unaudited)</div></details></section><section class="dl-deck-slide" id="slide-7"><h2>Slide 7</h2><img alt="Original presentation slide 7" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-7.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">V E H I C L E C A P A C I T Y
+ICE vehicles comprised 97% of cars sold globally in 2020 and 98% of Tesla trade-
+ins.1 As more OEMs join our mission by launching EVs, we believe consumer 
+confidence in EVs continues to increase and more customers are willing to make the 
+switch. Our Q1 order rate2 was the strongest in our history and we are moving as 
+quickly as possible to add more production capacity.
+US: California and Texas
+In Fremont, Model Y production continued to ramp successfully and is approaching 
+full capacity. In Texas, the factory buildout continues to progress quickly, remaining 
+on track to start production and deliveries late this year. We recently began moving 
+equipment into the building and are in the process of commissioning them in certain 
+areas.
+China: Shanghai
+Model Y ramp in Shanghai is progressing well. We expect that our Shanghai factory 
+will continue to increase quarterly production output through the year. We recently 
+improved our domestic supply sourcing ratio to over 90%. Vehicle exports to Europe 
+and APAC continue to progress as planned. 
+Europe: Berlin -Brandenburg
+In Europe, buildout of Gigafactory Berlin is continuing to move forward, with 
+production and deliveries remaining on track for late 2021. Machinery for paint, 
+stamping, castings, etc., continues to be moved into the building. In the meantime, 
+we will continue to increase import volumes to Europe.
+Installed Annual Capacity Current Status
+California Model S / Model X 100,000 Production
+Model 3 / Model Y 500,000 Production
+Shanghai Model 3 / Model Y 450,000 Production
+Berlin Model Y - Construction
+Texas Model Y - Construction
+Cybertruck - In development
+TBD Tesla Semi - In development
+Roadster - In development
+Future Product - In development
+7
+Installed capacity ≠ Current production rate. Production rate depends on pace of factory ramp, 
+supply chain ramp, downtime related to factory upgrades, national holidays and other factors. 
+(1) Trade-ins for Model 3 and Model Y in the US over the past 2 years, excluding Tesla trade-ins
+(2) Net orders for vehicles in production
+What cars do Tesla buyers trade in? 1
+Toyota
+Honda
+Ford
+Other
+non-premium
+brands
+BMW
+Lexus
+Audi
+Other 
+premium 
+brands
+EV
+Our competitors are 
+98% ICE</div></details></section><section class="dl-deck-slide" id="slide-8"><h2>Slide 8</h2><img alt="Original presentation slide 8" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-8.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">0
+20,000
+40,000
+60,000
+80,000
+100,000
+120,000
+140,000
+Tesla Model 3 BMW 3 Series Mercedes E-Class Audi Q5 Audi A6
+C O R E T E C H N O L O G Y
+Autopilot and Full Self Driving (FSD)
+Our team continues to focus on the V9 version of FSD City Streets beta, which will 
+soon become more widely available in the United States.
+We believe that a vision-only system is ultimately all that is needed for full autonomy. 
+Our AI-based software architecture has been increasingly reliant on cameras, to the 
+point where radar is becoming unnecessary earlier than expected. As a result, our 
+FSD team is fully focused on evolving to a vision-based autonomous system and we 
+are nearly ready to switch the US market to Tesla Vision.
+Vehicle Software
+While over-the-air software updates of maps and infotainment systems are becoming 
+more common, firmware updates remain rare in the automotive industry. In Q1, we 
+were able to navigate through global chip supply shortage issues in part by pivoting 
+extremely quickly to new microcontrollers, while simultaneously developing firmware 
+for new chips made by new suppliers.
+Battery and Powertrain
+The range of our vehicles has increased significantly over the years and will continue 
+to increase thanks to improvements in cell chemistry, cell design, battery pack 
+architecture, powertrain efficiency, new thermal systems and vehicle platform design. 
+Because achieving longer range is essential for converting more ICE vehicle owners 
+to EVs, range improvements remain one of our main priorities.
+Global premium vehicle sales 1
+8
+Improvements of Model S EPA -estimated range continue to accelerate
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+Jul-12 Jul-13 Jul-14 Jul-15 Jul-16 Jul-17 Jul-18 Jul-19 Jul-20
+(1) Reflects currently publicly available data from OEMs</div></details></section><section class="dl-deck-slide" id="slide-9"><h2>Slide 9</h2><img alt="Original presentation slide 9" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-9.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">0
+5,000
+10,000
+15,000
+20,000
+25,000
+30,000
+2018 2019 2020 Q1-2021
+annualized
+O T H E R   H I G H L I G H T S
+Energy Storage
+Energy storage deployments grew 71% YoY in Q1, mainly driven by the popularity of 
+Powerwall. Demand for Powerwall continues to far exceed our production rate. As a 
+result, we recently shifted Powerwall deliveries to solar customers only. As we 
+increase our production rate, we may make it available once again as a stand-alone 
+product. The recent snowstorm in Texas and other blackout events continue to drive 
+customers toward home energy storage solutions.
+Energy storage deployments can vary meaningfully quarter to quarter depending on 
+the timing of specific project milestones, which is the driver behind the sequential 
+decline in MWh. Production of energy storage products improved further 
+sequentially as our backlog remains long.
+Solar Retrofit and Solar Roof
+Solar deployments reached 92 MW in Q1 
+ our strongest quarter in 2.5 years. Solar 
+Roof deployments grew 9x compared to the same period last year.
+Service and Other
+Our used Tesla vehicle business continues to grow in total volume and improve 
+financially. The volume in this business is a function of historical new car deliveries, 
+which suggests our used car business has a strong foundation for growth. 
+Additionally, we remain focused on global growth in service capacity, reduced 
+customer wait times and improved operational efficiency.
+9
+Used Tesla vehicle sales
+ -
+ 10
+ 20
+ 30
+ 40
+ 50
+ 60
+ 70
+ 80
+ 90
+ 100
+Recovery of Tesla Solar deployments in MW
+0</div></details></section><section class="dl-deck-slide" id="slide-10"><h2>Slide 10</h2><img alt="Original presentation slide 10" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-10.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">O U T L O O K
+Volume
+Cash 
+Profit
+Product
+We plan to grow our manufacturing capacity as quickly as possible. Over a multi-year horizon, we expect to achieve 
+50% average annual growth in vehicle deliveries. In some years we may grow faster, which we expect to be the case in 
+2021. The rate of growth will depend on our equipment capacity, operational efficiency and capacity and stability of 
+the supply chain.
+We have sufficient liquidity to fund our product roadmap, long-term capacity expansion plans and other expenses.
+We expect our operating margin will continue to grow over time, continuing to reach industry-leading levels with 
+capacity expansion and localization plans underway.
+We are currently building Model Y capacity at Gigafactory Berlin and Gigafactory Texas and remain on track to start 
+production and deliveries from each location in 2021. Gigafactory Shanghai will continue to expand further over time. 
+Tesla Semi deliveries will also begin in 2021.
+10</div></details></section><section class="dl-deck-slide" id="slide-11"><h2>Slide 11</h2><img alt="Original presentation slide 11" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-11.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">P H O T O S</div></details></section><section class="dl-deck-slide" id="slide-12"><h2>Slide 12</h2><img alt="Original presentation slide 12" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-12.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">12
+G I G A F A C T O R Y   B E R L I N   - M O D E L   Y   F A C T O R Y   C O N S T R U C T I O N</div></details></section><section class="dl-deck-slide" id="slide-13"><h2>Slide 13</h2><img alt="Original presentation slide 13" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-13.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">13
+G I G A F A C T O R Y   B E R L I N   - G I G A   C A S T I N G</div></details></section><section class="dl-deck-slide" id="slide-14"><h2>Slide 14</h2><img alt="Original presentation slide 14" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-14.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">14
+G I G A F A C T O R Y   B E R L I N   - S T A M P I N G   P R E S S</div></details></section><section class="dl-deck-slide" id="slide-15"><h2>Slide 15</h2><img alt="Original presentation slide 15" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-15.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">G I G A F A C T O R Y   T E X A S  - M O D E L   Y   F A C T O R Y   C O N S T R U C T I O N
+15</div></details></section><section class="dl-deck-slide" id="slide-16"><h2>Slide 16</h2><img alt="Original presentation slide 16" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-16.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">16
+G I G A F A C T O R Y   T E X A S  - M O D E L   Y   F A C T O R Y   C O N S T R U C T I O N</div></details></section><section class="dl-deck-slide" id="slide-17"><h2>Slide 17</h2><img alt="Original presentation slide 17" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-17.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">17
+G I G A F A C T O R Y   T E X A S  - M O D E L   Y   F A C T O R Y   I N T E R I O R</div></details></section><section class="dl-deck-slide" id="slide-18"><h2>Slide 18</h2><img alt="Original presentation slide 18" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-18.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">18
+G I G A F A C T O R Y   T E X A S  - M O D E L   Y   F A C T O R Y   I N T E R I O R</div></details></section><section class="dl-deck-slide" id="slide-19"><h2>Slide 19</h2><img alt="Original presentation slide 19" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-19.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">G I G A F A C T O R Y S H A N G H A I - E X P A N S I O N   C O N T I N U E S
+19</div></details></section><section class="dl-deck-slide" id="slide-20"><h2>Slide 20</h2><img alt="Original presentation slide 20" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-20.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">T E S L A   S E M I  - P R O T O T Y P E   T E S T I N G
+20</div></details></section><section class="dl-deck-slide" id="slide-21"><h2>Slide 21</h2><img alt="Original presentation slide 21" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-21.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">-2.0
+-1.5
+-1.0
+-0.5
+0.0
+0.5
+1.0
+1.5
+2.0
+2Q-2018
+3Q-2018
+4Q-2018
+1Q-2019
+2Q-2019
+3Q-2019
+4Q-2019
+1Q-2020
+2Q-2020
+3Q-2020
+4Q-2020
+1Q-2021
+0
+20,000
+40,000
+60,000
+80,000
+100,000
+120,000
+140,000
+160,000
+180,000
+200,000
+2Q-2018
+3Q-2018
+4Q-2018
+1Q-2019
+2Q-2019
+3Q-2019
+4Q-2019
+1Q-2020
+2Q-2020
+3Q-2020
+4Q-2020
+1Q-2021
+Vehicle Deliveries (units)
+K E Y M E T R I C S Q U A R T E R L Y
+(Unaudited)
+21
+Operating Cash Flow ($B)
+Free Cash Flow ($B)
+-4.0
+-3.0
+-2.0
+-1.0
+0.0
+1.0
+2.0
+3.0
+4.0
+2Q-2018
+3Q-2018
+4Q-2018
+1Q-2019
+2Q-2019
+3Q-2019
+4Q-2019
+1Q-2020
+2Q-2020
+3Q-2020
+4Q-2020
+1Q-2021
+Net income ($B)
+Adjusted EBITDA ($B)</div></details></section><section class="dl-deck-slide" id="slide-22"><h2>Slide 22</h2><img alt="Original presentation slide 22" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-22.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">0
+100,000
+200,000
+300,000
+400,000
+500,000
+600,000
+2Q-2018
+3Q-2018
+4Q-2018
+1Q-2019
+2Q-2019
+3Q-2019
+4Q-2019
+1Q-2020
+2Q-2020
+3Q-2020
+4Q-2020
+1Q-2021
+-8.0
+-6.0
+-4.0
+-2.0
+0.0
+2.0
+4.0
+6.0
+8.0
+2Q-2018
+3Q-2018
+4Q-2018
+1Q-2019
+2Q-2019
+3Q-2019
+4Q-2019
+1Q-2020
+2Q-2020
+3Q-2020
+4Q-2020
+1Q-2021
+-8.0
+-6.0
+-4.0
+-2.0
+0.0
+2.0
+4.0
+6.0
+8.0
+2Q-2018
+3Q-2018
+4Q-2018
+1Q-2019
+2Q-2019
+3Q-2019
+4Q-2019
+1Q-2020
+2Q-2020
+3Q-2020
+4Q-2020
+1Q-2021
+Vehicle Deliveries (units) Operating Cash Flow ($B)
+Free Cash Flow ($B)
+K E Y M E T R I C S T R A I L I N G 1 2 M O N T H S ( T T M )
+(Unaudited)
+22
+Net income ($B)
+Adjusted EBITDA ($B)</div></details></section><section class="dl-deck-slide" id="slide-23"><h2>Slide 23</h2><img alt="Original presentation slide 23" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-23.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">F I N A N C I A L     S T A T E M E N T S</div></details></section><section class="dl-deck-slide" id="slide-24"><h2>Slide 24</h2><img alt="Original presentation slide 24" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-24.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">In millions of USD or shares as applicable, except per share data Q1-2020 Q2-2020 Q3-2020 Q4-2020 Q1-2021
+REVENUES
+Automotive sales 4,893 4,911 7,346 9,034 8,705
+Automotive leasing 239 268 265 280 297
+Total automotive revenue 5,132 5,179 7,611 9,314 9,002
+Energy generation and storage 293 370 579 752 494
+Services and other 560 487 581 678 893
+Total revenues 5,985 6,036 8,771 10,744 10,389
+COST OF REVENUES
+Automotive sales 3,699 3,714 5,361 6,922 6,457
+Automotive leasing 122 148 145 148 160
+Total automotive cost of revenues 3,821 3,862 5,506 7,070 6,617
+Energy generation and storage 282 349 558 787 595
+Services and other 648 558 644 821 962
+Total cost of revenues 4,751 4,769 6,708 8,678 8,174
+Gross profit 1,234 1,267 2,063 2,066 2,215
+OPERATING EXPENSES
+Research and development 324 279 366 522 666
+Selling, general and administrative 627 661 888 969 1,056
+Restructuring and other — — — — (101)
+Total operating expenses 951 940 1,254 1,491 1,621
+INCOME FROM OPERATIONS 283 327 809 575 594
+Interest income 10 8 6 6 10
+Interest expense (169) (170) (163) (246) (99)
+Other (expense) income, net (54) (15) (97) 44 28
+INCOME BEFORE INCOME TAXES 70 150 555 379 533
+Provision for income taxes 2 21 186 83 69
+NET INCOME 68 129 369 296 464
+Net income attributable to noncontrolling interests and redeemable noncontrolling interests in subsidiaries 52 25 38 26 26
+NET INCOME ATTRIBUTABLE TO COMMON STOCKHOLDERS 16 104 331 270 438
+Less: Buy-out of noncontrolling interest — — 31 — —
+NET INCOME USED IN COMPUTING NET INCOME PER SHARE OF COMMON STOCK 16 104 300 270 438
+Net income per share of common stock attributable to common stockholders (1)
+Basic $     0.02 $      0.11 $     0.32 $     0.28 $     0.46 
+Diluted $     0.02 $     0.10 $     0.27 $     0.24 $     0.39 
+Weighted average shares used in computing net income per share of common stock (1)
+Basic 915 928 937 951 961
+Diluted 994 1,036 1,105 1,124 1,133
+S T A T E M E N T   O F   O P E R A T I O N S 
+(Unaudited)
+24 (1)Prior period results have been retroactively adjusted to reflect the five-for-one stock split effected in the form of a stock dividend in August 2020.</div></details></section><section class="dl-deck-slide" id="slide-25"><h2>Slide 25</h2><img alt="Original presentation slide 25" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-25.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">B A L A N C E S H E E T
+(Unaudited)
+In millions of USD 31-Mar-20 30-Jun-20 30-Sep-20 31-Dec-20 31-Mar-21
+ASSETS
+Current assets
+Cash and cash equivalents 8,080 8,615 14,531 19,384 17,141
+Accounts receivable, net 1,274 1,485 1,757 1,886 1,890
+Inventory 4,494 4,018 4,218 4,101 4,132
+Prepaid expenses and other current assets 1,045 1,218 1,238 1,346 1,542
+Total current assets 14,893 15,336 21,744 26,717 24,705
+Operating lease vehicles, net 2,527 2,524 2,742 3,091 3,396
+Solar energy systems, net 6,106 6,069 6,025 5,979 5,933
+Property, plant and equipment, net 10,638 11,009 11,848 12,747 13,868
+Operating lease right-of-use assets 1,197 1,274 1,375 1,558 1,647
+Digital assets, net — — — — 1,331
+Goodwill and intangible assets, net 516 508 521 520 505
+Other non-current assets 1,373 1,415 1,436 1,536 1,587
+Total assets 37,250 38,135 45,691 52,148 52,972
+LIABILITIES AND EQUITY
+Current liabilities
+Accounts payable 3,970 3,638 4,958 6,051 6,648
+Accrued liabilities and other 2,825 3,110 3,252 3,855 4,073
+Deferred revenue 1,186 1,130 1,258 1,458 1,592
+Customer deposits 788 713 708 752 745
+Current portion of debt and finance leases (1) 3,217 3,679 3,126 2,132 1,819
+Total current liabilities 11,986 12,270 13,302 14,248 14,877
+Debt and finance leases, net of current portion (1) 10,666 10,416 10,559 9,556 9,053
+Deferred revenue, net of current portion 1,199 1,198 1,233 1,284 1,294
+Other long-term liabilities 2,667 2,870 3,049 3,330 3,283
+Total liabilities 26,518 26,754 28,143 28,418 28,507
+Redeemable noncontrolling interests in subsidiaries 632 613 608 604 601
+Convertible senior notes 60 44 48 51 —
+Total stockholders' equity 9,173 9,855 16,031 22,225 23,017
+Noncontrolling interests in subsidiaries 867 869 861 850 847
+Total liabilities and equity 37,250 38,135 45,691 52,148 52,972
+(1) Breakdown of our debt is as follows:
+Vehicle and energy product financing (non -recourse) 4,022 4,043 4,141 3,930 4,323
+Other non-recourse debt 708 1,415 605 630 628
+Recourse debt 7,600 7,106 7,448 5,660 4,483
+Total debt excluding vehicle and energy product financing 8,308 8,521 8,053 6,290 5,111
+Days sales outstanding 20 21 17 16 17
+Days payable outstanding 75 73 60 59 71
+25</div></details></section><section class="dl-deck-slide" id="slide-26"><h2>Slide 26</h2><img alt="Original presentation slide 26" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-26.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">In millions of USD Q1-2020 Q2-2020 Q3-2020 Q4-2020 Q1-2021
+CASH FLOWS FROM OPERATING ACTIVITIES
+Net income 68 129 369 296 464 
+Adjustments to reconcile net income to net cash (used in) provided by operating activities:
+Depreciation, amortization and impairment 553 567 584 618 621 
+Stock-based compensation 211 347 543 633 614 
+Other 175 167 269 230 (46)
+Changes in operating assets and liabilities, net of effect of business combinations (1,447) (246) 635 1,242 (12)
+Net cash (used in) provided by operating activities (440) 964 2,400 3,019 1,641
+CASH FLOWS FROM INVESTING ACTIVITIES
+Capital expenditures (455) (546) (1,005) (1,151) (1,348)
+Purchases of solar energy systems, net of sales (26) (20) (16) (13) (12)
+Purchase of intangible assets
+ (5) (5)
+Receipt of government grants 1
+ 122 6 
+Purchases of digital assets
+ (1,500)
+Proceeds from sales of digital assets
+ 272 
+Business combinations, net of cash acquired
+ (13)
+Net cash used in investing activities (480) (566) (1,039) (1,047) (2,582)
+CASH FLOWS FROM FINANCING ACTIVITIES
+Net cash flows from other debt activities 544 164 (630) (2,074) (1,557)
+Collateralized lease repayments (97) (71) (56) (16) (6)
+Net (repayments) borrowings under vehicle and solar financing (160) 18 99 (215) 396 
+Net cash flows from noncontrolling interests - Auto (8) (3) (31) — —
+Net cash flows from noncontrolling interests - Solar (40) (42) (49) (46) (32)
+Proceeds from issuances of common stock in public offerings, net of issuance costs 2,309
+ 4,973 4,987 
+Other 160 57 144 56 183 
+Net cash provided by (used in) financing activities 2,708 123 4,450 2,692 (1,016)
+Effect of exchange rate changes on cash and cash equivalents and restricted cash (24) 38 86 234 (221)
+Net increase (decrease) in cash and cash equivalents and restricted cash 1,764 559 5,897 4,898 (2,178)
+Cash and cash equivalents and restricted cash at beginning of period 6,783 8,547 9,106 15,003 19,901 
+Cash and cash equivalents and restricted cash at end of period 8,547 9,106 15,003 19,901 17,723 
+S T A T E M E N T O F C A S H F L O W S
+(Unaudited)
+26</div></details></section><section class="dl-deck-slide" id="slide-27"><h2>Slide 27</h2><img alt="Original presentation slide 27" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-27.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">In millions of USD or shares as applicable, except per share data Q1-2020 Q2-2020 Q3-2020 Q4-2020 Q1-2021
+Net income attributable to common stockholders (GAAP) 16 104 331 270 438
+Stock-based compensation expense 211 347 543 633 614
+Net income attributable to common stockholders (non -GAAP) 227 451 874 903 1,052
+Less: Buy-out of noncontrolling interest — — 31 — —
+Less: Dilutive convertible debt — — — — (5)
+Net income used in computing diluted EPS attributable to common stockholders (non -GAAP) 227 451 843 903 1,057
+EPS attributable to common stockholders, diluted (GAAP)
+(1)
+0.02 0.10 0.27 0.24 0.39
+Stock-based compensation expense per share
+(1)
+0.21 0.34 0.49 0.56 0.54
+EPS attributable to common stockholders, diluted (non -GAAP)
+(1)
+0.23 0.44 0.76 0.80 0.93
+Shares used in EPS calculation, diluted (GAAP and non-GAAP)
+(1)
+994 1,036 1,105 1,124 1,133
+Net income attributable to common stockholders (GAAP) 16 104 331 270 438
+Interest expense 169 170 163 246 99
+Provision for income taxes 2 21 186 83 69
+Depreciation, amortization and impairment 553 567 584 618 621
+Stock-based compensation expense 211 347 543 633 614
+Adjusted EBITDA (non -GAAP) 951 1,209 1,807 1,850 1,841
+Automotive gross margin (GAAP) 25.5% 25.4% 27.7% 24.1% 26.5%
+Less: Total regulatory credit revenue recognized 5.5% 6.7% 4.0% 3.4% 4.5%
+Automotive gross margin excluding regulatory credits (non -GAAP) 20.0% 18.7% 23.7% 20.7% 22.0%
+R E C O N C I L I A T I O N O F G A A P T O N O N 
+ G A A P F I N A N C I A L I N F O R M A T I O N 
+(Unaudited)
+27
+(1)  Prior period results have been retroactively adjusted to reflect the five-for-one stock split effected in the form of a stock dividend in August 2020</div></details></section><section class="dl-deck-slide" id="slide-28"><h2>Slide 28</h2><img alt="Original presentation slide 28" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-28.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">R E C O N C I L I A T I O N O F G A A P T O N O N 
+ G A A P F I N A N C I A L I N F O R M A T I O N 
+(Unaudited)
+28
+In millions of USD 2Q-2018 3Q-2018 4Q-2018 1Q-2019 2Q-2019 3Q-2019 4Q-2019 1Q-2020 2Q-2020 3Q-2020 4Q-2020 1Q-2021
+Net cash (used in) provided by operating activities - TTM (GAAP) (319) 1,373 2,098 1,856 2,850 2,215 2,405 2,605 2,705 4,349 5,943 8,024 
+Capital expenditures 
+ TTM (3,169) (2,563) (2,101) (1,725) (1,365) (1,240) (1,327) (1,502) (1,798) (2,418) (3,157) (4,050)
+Free cash flow - TTM (non-GAAP) (3,488) (1,190) (3) 131 1,485 975 1,078 1,103 907 1,931 2,786 3,974 
+In millions of USD 2Q-2018 3Q-2018 4Q-2018 1Q-2019 2Q-2019 3Q-2019 4Q-2019 1Q-2020 2Q-2020 3Q-2020 4Q-2020 1Q-2021
+Net (loss) income attributable to common stockholders - TTM (GAAP) (2,721) (1,791) (976) (969) (659) (827) (862) (144) 368 556 721 1,143 
+Interest expense - TTM 576 634 663 672 680 690 685 696 694 672 748 678 
+Provision for income taxes - TTM 10 27 58 76 81 90 110 89 91 251 292 359 
+Depreciation, amortization and impairment - TTM 1,772 1,874 1,901 1,953 2,047 2,074 2,154 2,239 2,227 2,281 2,322 2,390 
+Stock-based compensation expense - TTM 586 678 749 815 828 822 898 901 1,038 1,382 1,734 2,137 
+Adjusted EBITDA - TTM (non-GAAP) 223 1,422 2,395 2,547 2,977 2,849 2,985 3,781 4,418 5,142 5,817 6,707 
+TTM = Trailing twelve months
+In millions of USD 3Q-2017 4Q-2017 1Q-2018 2Q-2018 3Q-2018 4Q-2018 1Q-2019 2Q-2019 3Q-2019 4Q-2019 1Q-2020 2Q-2020 3Q-2020 4Q-2020 1Q-2021
+Net cash (used in) provided by operating activities (GAAP) (301) 510 (398) (130) 1,391 1,235 (640) 864 756 1,425 (440) 964 2,400 3,019 1,641 
+Capital expenditures (1,116) (787) (656) (610) (510) (325) (280) (250) (385) (412) (455) (546) (1,005) (1,151) (1,348)
+Free cash flow (non-GAAP) (1,417) (277) (1,054) (740) 881 910 (920) 614 371 1,013 (895) 418 1,395 1,868 293 
+In millions of USD 3Q-2017 4Q-2017 1Q-2018 2Q-2018 3Q-2018 4Q-2018 1Q-2019 2Q-2019 3Q-2019 4Q-2019 1Q-2020 2Q-2020 3Q-2020 4Q-2020 1Q-2021
+Net (loss) income attributable to common stockholders (GAAP) (619) (675) (709) (718) 311 140 (702) (408) 143 105 16 104 331 270 438 
+Interest expense 117 146 149 164 175 175 158 172 185 170 169 170 163 246 99 
+Provision for income taxes — (9) 5 14 17 22 23 19 26 42 2 21 186 83 69 
+Depreciation, amortization and impairment 401 470 416 485 503 497 468 579 530 577 553 567 584 618 621 
+Stock-based compensation expense 113 134 142 197 205 205 208 210 199 281 211 347 543 633 614 
+Adjusted EBITDA (non-GAAP) 12 66 3 142 1,211 1,039 155 572 1,083 1,175 951 1,209 1,807 1,850 1,841</div></details></section><section class="dl-deck-slide" id="slide-29"><h2>Slide 29</h2><img alt="Original presentation slide 29" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-29.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">A D D I T I O N A L I N F O R M A T I O N
+WEBCAST INFORMATION
+Tesla will provide a live webcast of its first quarter 2021 financial results conference call beginning at 2:30 p.m. PT on April 26, 2021 at ir.tesla.com. This webcast will also be available for replay for approximately one year 
+thereafter.
+CERTAIN TERMS
+When used in this update, certain terms have the following meanings. Our vehicle deliveries include only vehicles that have been transferred to end customers with all paperwork correctly completed. Our energy product
+deployment volume includes both customer units installed and equipment sales; we report installations at time of commissioning for storage projects or inspection for solar projects, and equipment sales at time of delivery.
+"Adjusted EBITDA" is equal to (i) net income (loss) attributable to common stockholders before (ii)(a) interest expense, (b) provision for income taxes, (c) depreciation, amortization and impairment and (d) stock-based
+compensation expense, which is the same measurement for this term pursuant to the performance-based stock option award granted to our CEO in 2018. "Free cash flow" is operating cash flow less capital expenditures.
+means configured orders for vehicles in production minus cancellations. Average cost per vehicle is cost of revenues
+ automotive sales divided by vehicle deliveries (excluding leases).
+NON-GAAP FINANCIAL INFORMATION
+Consolidated financial information has been presented in accordance with GAAP as well as on a non-GAAP basis to supplement our consolidated financial results. Our non-GAAP financial measures include non-GAAP automotive 
+gross margin, non-GAAP net income (loss) attributable to common stockholders, non-GAAP net income (loss) attributable to common stockholders on a diluted per share basis (calculated using weighted average shares for 
+GAAP diluted net income (loss) attributable to common stockholders), Adjusted EBITDA, Adjusted EBITDA margin and free cash flow. These non-
+t is useful to supplement its GAAP financial statements with this non-GAAP information because 
+management uses such information internally for its operating, budgeting and financial planning purposes. Management also believes that presentation of the non-GAAP financial measures provides useful information to our 
+investors regarding our financial condition and results of operations, so that investors can see through the eyes of Tesla management regarding important financial metrics that Tesla uses to run the business and allowing 
+-GAAP information is not prepared under a comprehensive set of accountingrules and therefore, should only be read in conjunction with financial information reported 
+-GAAP financial information is provided above.
+FORWARD-LOOKING STATEMENTS
+nt, production capacity and output rates, demand and market growth, deliveries, deployment, 
+availability, range and other features and improvements and timing of existing and future Tesla products and technologies such as Model 3, Model Y, Model X, Model S, Tesla Semi, Autopilot and Full Self Driving software, 
+hardware and equipment, our energy storage products and the battery and powertrain technologies we are developing; statementsregarding operating margin, spending and liquidity; and statements regarding construction, 
+expansion, improvements and/or ramp and related timing at the Tesla Factory, Gigafactory Shanghai, Gigafactory Berlin and Gigafa
+ -
+forward-
+ ctual results may differ materially from those projected. The following important factors, without 
+limitation, could cause actual results to differ materially from those in the forward-looking statements: uncertainties in future macroeconomic and regulatory conditions arising from the current global pandemic; the risk of delays 
+in launching and manufacturing our products and features cost-effectively; our ability to grow our sales, delivery, installation
+electric vehicles generally and our vehicles specifically; the ability of suppliers to deliver components according to schedules, prices, quality and volumes acceptable to us, and our ability to manage such components effectively; 
+any issues with lithium-ion cells or other components manufactured at Gigafactory Nevada; our ability to build and ramp Gigafactory Shanghai, Gigafactory Berlin and Gigafactory Texas in accordance with our plans; our ability to 
+procure supply of battery cells, including through our own manufacturing; risks relating to international expansion; any failures by Tesla products to perform as expected or if product recalls occur; the risk of product liability 
+claims; competition in the automotive and energy product markets; our ability to maintain public credibility and confidence in our long-term business prospects; our ability to manage risks relating to our various product 
+financing programs; the status of government and economic incentives for electric vehicles and energy products; our ability to attract, hire and retain key employees and qualified personnel and ramp our installation teams; our 
+ability to maintain the security of our information and production and product systems; our compliance with various regulations and laws applicable to our operations and products, which may evolve from time to time; risks 
+relating to our indebtedness and financing strategies; and adverse foreign exchange movements. More information on potential factors that could affect our financial results is included from time to time in our Securities and 
+ual report on Form 10-K filed with the SEC on February 8, 2021. Tesla disclaims any obligation to 
+update information contained in these forward-looking statements whether as a result of new information, future events, or otherwise. 
+29</div></details></section><section class="dl-deck-slide" id="slide-30"><h2>Slide 30</h2><img alt="Original presentation slide 30" height="1247" loading="lazy" src="Presentation_f44e64fbf5157a9f-slide-30.jpg" width="2217"/><details><summary>Searchable slide text</summary><div class="dl-deck-text">No extractable text on this slide.</div></details></section></div><div class="dl-fv-side"><div class='dl-fv-side-header'><h2>Evidence</h2><p>Evidence linked to this filing and transcript</p></div><label class='dl-hover-scroll-toggle-label'><input type='checkbox' id='dl-hover-scroll-toggle'> Auto-scroll on hover</label><div class="dl-fv-side-topic-group"><h2 class="dl-fv-side-topic-heading">profit</h2><p class="empty-note">No topic-matching quotes were found in this deck.</p></div><details class="dl-fv-side-section"><summary>Slides</summary><div class="dl-fv-side-section-body"><ul><li><a class="dl-fv-side-link" href="#slide-1">Slide 1</a></li><li><a class="dl-fv-side-link" href="#slide-2">Slide 2</a></li><li><a class="dl-fv-side-link" href="#slide-3">Slide 3</a></li><li><a class="dl-fv-side-link" href="#slide-4">Slide 4</a></li><li><a class="dl-fv-side-link" href="#slide-5">Slide 5</a></li><li><a class="dl-fv-side-link" href="#slide-6">Slide 6</a></li><li><a class="dl-fv-side-link" href="#slide-7">Slide 7</a></li><li><a class="dl-fv-side-link" href="#slide-8">Slide 8</a></li><li><a class="dl-fv-side-link" href="#slide-9">Slide 9</a></li><li><a class="dl-fv-side-link" href="#slide-10">Slide 10</a></li><li><a class="dl-fv-side-link" href="#slide-11">Slide 11</a></li><li><a class="dl-fv-side-link" href="#slide-12">Slide 12</a></li><li><a class="dl-fv-side-link" href="#slide-13">Slide 13</a></li><li><a class="dl-fv-side-link" href="#slide-14">Slide 14</a></li><li><a class="dl-fv-side-link" href="#slide-15">Slide 15</a></li><li><a class="dl-fv-side-link" href="#slide-16">Slide 16</a></li><li><a class="dl-fv-side-link" href="#slide-17">Slide 17</a></li><li><a class="dl-fv-side-link" href="#slide-18">Slide 18</a></li><li><a class="dl-fv-side-link" href="#slide-19">Slide 19</a></li><li><a class="dl-fv-side-link" href="#slide-20">Slide 20</a></li><li><a class="dl-fv-side-link" href="#slide-21">Slide 21</a></li><li><a class="dl-fv-side-link" href="#slide-22">Slide 22</a></li><li><a class="dl-fv-side-link" href="#slide-23">Slide 23</a></li><li><a class="dl-fv-side-link" href="#slide-24">Slide 24</a></li><li><a class="dl-fv-side-link" href="#slide-25">Slide 25</a></li><li><a class="dl-fv-side-link" href="#slide-26">Slide 26</a></li><li><a class="dl-fv-side-link" href="#slide-27">Slide 27</a></li><li><a class="dl-fv-side-link" href="#slide-28">Slide 28</a></li><li><a class="dl-fv-side-link" href="#slide-29">Slide 29</a></li><li><a class="dl-fv-side-link" href="#slide-30">Slide 30</a></li></ul></div></details><div class='dl-fv-nav-footer'><a class="dl-fv-nav-btn" href="filing_10-q-q1-2021.html">View SEC filing</a><a class="dl-fv-nav-btn" href="transcript_tsla-q1-2021.html">View transcript</a><a class="dl-fv-nav-btn" href="Presentation_f44e64fbf5157a9f.pdf" download target="_blank" rel="noopener">Download original deck</a><a class="dl-fv-nav-btn" href="https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q1-2021-Update.pdf" target="_blank" rel="noopener">Company IR source</a><a class='dl-fv-nav-btn dl-fv-nav-back' href='Core_Research_Report.html'>&larr; Back to report</a></div><details class='dl-fv-side-section'><summary class='dl-fv-side-summary'><span class='dl-fv-side-title'><span class='dl-fv-side-icon'><svg viewBox='0 0 24 24' width='14' height='14'><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M15 5l4 4L8 20H4v-4z M13.5 6.5l4 4"/></svg></span>Draw</span></summary><div class='dl-fv-side-section-body'><div class='dl-draw-row'><button type='button' id='dl-draw-toggle' class='dl-fv-nav-btn'>Start drawing</button><button type='button' id='dl-draw-clear' class='dl-fv-nav-btn'>Clear</button></div><div class='dl-draw-swatches'><button type='button' class='dl-draw-swatch dl-draw-swatch-active' style='background:#e11d48;' data-color='#e11d48' aria-label='Color #e11d48'></button><button type='button' class='dl-draw-swatch' style='background:#f59e0b;' data-color='#f59e0b' aria-label='Color #f59e0b'></button><button type='button' class='dl-draw-swatch' style='background:#22c55e;' data-color='#22c55e' aria-label='Color #22c55e'></button><button type='button' class='dl-draw-swatch' style='background:#0ea5e9;' data-color='#0ea5e9' aria-label='Color #0ea5e9'></button><button type='button' class='dl-draw-swatch' style='background:#a855f7;' data-color='#a855f7' aria-label='Color #a855f7'></button><button type='button' class='dl-draw-swatch' style='background:#111827;' data-color='#111827' aria-label='Color #111827'></button></div><div class='dl-draw-row'><button type='button' class='dl-fv-nav-btn dl-draw-width-btn dl-draw-width-active' data-width='3'>Pen</button><button type='button' class='dl-fv-nav-btn dl-draw-width-btn' data-width='16'>Highlighter</button></div><p class='dl-draw-hint'>Save as PDF only exports the pages you've marked.</p><button type='button' id='dl-draw-save-pdf' class='dl-fv-nav-btn'>Save as PDF</button><button type='button' id='dl-draw-print-pdf' class='dl-fv-nav-btn'>Print / vector PDF</button><div class='dl-draw-status' id='dl-draw-status'></div></div></details><div class='dl-fv-search-box'><div class='dl-fv-search-box-label'><span class='dl-fv-side-icon'><svg viewBox='0 0 24 24' width='14' height='14'><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M10 4a6 6 0 1 0 0 12 6 6 0 0 0 0-12Z M15 15l5 5"/></svg></span>Search</div><div class='dl-fv-search'><input type='text' id='dl-search-input' placeholder='Search this presentation…' aria-label='Search this presentation…'><button type='button' id='dl-search-prev' aria-label='Previous match'>&uarr;</button><button type='button' id='dl-search-next' aria-label='Next match'>&darr;</button><span class='dl-fv-search-counter' id='dl-search-counter'>0 / 0</span></div></div></div></div></div><div class='dl-theme-toggle' role='group' aria-label='Color theme'><button type='button' class='dl-theme-btn' data-theme-choice='dark'>Dark</button><button type='button' class='dl-theme-btn' data-theme-choice='light'>Light</button></div><script>window.__DL_DRAW_META__ = {"ticker": "TSLA", "docLabel": "TSLA Presentation Q1 2021", "topic": "profit"};</script><script>
+(function() {
+  var originalScrollY = null, revertTimer = null, flashEl = null;
+  // ONE toggle now gates every .dl-hover-scroll-link on the page (What management
+  // said, MD&A, Footnotes, Equity Research Analyst Questions, the semantic-match
+  // tooltip's own links) - real follow-up user ask: "fix the autoscroll make it
+  // apply to everything." Earlier version split this into an always-on group and
+  // a toggle-gated group, which read as inconsistent (some links auto-scrolled,
+  // others didn't, for no visible reason) - a single on/off switch is simpler and
+  // matches what was actually asked. Off by default - the ORIGINAL real user
+  // complaint this checkbox exists for was that auto-scroll-on-every-hover was
+  // too intrusive while just reading normally.
+  var gateToggle = document.getElementById('dl-hover-scroll-toggle');
+
+  function clearFlash() {
+    if (flashEl) { flashEl.classList.remove('dl-preview-flash'); flashEl = null; }
+  }
+
+  function revert() {
+    clearFlash();
+    if (originalScrollY !== null) {
+      window.scrollTo({ top: originalScrollY, behavior: 'smooth' });
+      originalScrollY = null;
+    }
+    window.__DL_PREVIEW_ACTIVE__ = false;
+  }
+
+  function findLink(e) {
+    if (!gateToggle || !gateToggle.checked) return null;
+    return e.target.closest && e.target.closest('.dl-hover-scroll-link[href^="#"]');
+  }
+
+  document.addEventListener('mouseover', function(e) {
+    var link = findLink(e);
+    if (!link) return;
+    var target;
+    try { target = document.querySelector(link.getAttribute('href')); } catch (err) { return; }
+    if (!target) return;
+    clearTimeout(revertTimer);
+    if (originalScrollY === null) originalScrollY = window.scrollY;
+    clearFlash();
+    flashEl = target;
+    flashEl.classList.add('dl-preview-flash');
+    // Tells _QUOTE_MATCH_TOOLTIP_JS's scroll listener this scroll is OUR OWN
+    // intentional preview, not the reader scrolling away - so it doesn't close
+    // the very tooltip whose related link just triggered this scroll.
+    window.__DL_PREVIEW_ACTIVE__ = true;
+    target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  });
+
+  document.addEventListener('mouseout', function(e) {
+    // Not gated on the toggle here (unlike findLink) - once a preview has
+    // started, moving off it should always revert even if the toggle flipped
+    // mid-hover.
+    var link = e.target.closest && e.target.closest('.dl-hover-scroll-link[href^="#"]');
+    if (!link) return;
+    clearTimeout(revertTimer);
+    revertTimer = setTimeout(revert, 200);
+  });
+})();
+</script><script>
+(function() {
+  function showToast(msg) {
+    var existing = document.querySelector('.dl-toast');
+    if (existing) existing.remove();
+    var toast = document.createElement('div');
+    toast.className = 'dl-toast';
+    toast.textContent = msg;
+    document.body.appendChild(toast);
+    setTimeout(function() { toast.remove(); }, 1800);
+  }
+
+  document.addEventListener('click', function(e) {
+    var mark = e.target.closest && e.target.closest('mark.dl-cited[id]');
+    if (!mark) return;
+    var url = location.origin + location.pathname + '#' + mark.id;
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(url).then(function() {
+        showToast('Link to this passage copied');
+      }, function() {
+        showToast('Could not copy link');
+      });
+    }
+  });
+})();
+</script><script>
+(function() {
+  function openBySummaryText(text) {
+    document.querySelectorAll('details.dl-fv-side-section > summary').forEach(function(s) {
+      if (s.textContent.trim() === text) s.parentElement.open = true;
+    });
+  }
+
+  function openContainingDetails() {
+    if (!location.hash) return;
+    var target;
+    try { target = document.querySelector(location.hash); } catch (err) { return; }
+    if (!target) return;
+    var details = target.closest && target.closest('details');
+    while (details) {
+      details.open = true;
+      details = details.parentElement && details.parentElement.closest('details');
+    }
+    // The mark this hash lands on lives in the main/native transcript or filing
+    // body, NOT inside a sidebar <details> - the sidebar is a SEPARATE list of
+    // links pointing at these same marks, so the ancestor walk above never
+    // actually reaches it. Real user bug: landing via a "Previously asked"
+    // cross-page Q&A link showed the right spot in the main pane (already
+    // working) but left "Equity Research Analyst Questions" collapsed, so the
+    // curated question/answer view wasn't visible without a manual click -
+    // matched here by the real dl-qaj-N-q/dl-qaj-N-a id scheme those jump links
+    // use (see write_transcript_viewer_report).
+    if (/^#dl-qaj-/.test(location.hash)) {
+      openBySummaryText('Equity Research Analyst Questions');
+    }
+    target.scrollIntoView({ block: 'center' });
+  }
+  // The transcript viewer's analyst-question section is also a navigation target:
+  // clicking its summary should take the reader to the first real Q&A exchange in
+  // the native transcript pane, not merely expand/collapse the sidebar card.
+  document.addEventListener('click', function(e) {
+    var summary = e.target.closest && e.target.closest('summary[data-qa-jump-target]');
+    if (!summary) return;
+    var targetId = summary.getAttribute('data-qa-jump-target');
+    var target = targetId && document.getElementById(targetId);
+    if (!target) return;
+    e.preventDefault();
+    if (summary.parentElement) summary.parentElement.open = true;
+    if (location.hash !== '#' + targetId) history.pushState(null, '', '#' + targetId);
+    target.scrollIntoView({ block: 'center' });
+  });
+  // 'load' (not 'DOMContentLoaded') for the initial jump - real bug: DOMContentLoaded
+  // fires before a real SEC filing's embedded images/tables finish loading and the
+  // page's layout has fully settled, so scrollIntoView computed against that
+  // still-shifting layout landed short of the real target (looked like "jumps to the
+  // top of the Item instead of the highlighted quote" - the quote is further down the
+  // page than the position computed before layout stabilized). hashchange (in-page,
+  // no reload) already fires long after the page has settled, so it's unaffected.
+  window.addEventListener('load', openContainingDetails);
+  window.addEventListener('hashchange', openContainingDetails);
+})();
+</script><script>
+(function() {
+  var container = document.querySelector('.dl-fv-native');
+  if (!container) return;
+  var MAX_MATCHES = 300;
+  var state = { matches: [], current: -1 };
+
+  function clearHighlights() {
+    var hits = container.querySelectorAll('span.dl-search-hit');
+    hits.forEach(function(hit) {
+      var parent = hit.parentNode;
+      if (!parent) return;
+      parent.replaceChild(document.createTextNode(hit.textContent), hit);
+      parent.normalize();
+    });
+    state.matches = [];
+    state.current = -1;
+  }
+
+  function getTextNodes() {
+    var walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT, {
+      acceptNode: function(node) {
+        var el = node.parentNode;
+        while (el && el !== container) {
+          if (el.classList && el.classList.contains('dl-search-hit')) return NodeFilter.FILTER_REJECT;
+          var tag = el.nodeName ? el.nodeName.toLowerCase() : '';
+          if (tag === 'script' || tag === 'style') return NodeFilter.FILTER_REJECT;
+          el = el.parentNode;
+        }
+        return NodeFilter.FILTER_ACCEPT;
+      }
+    });
+    var nodes = [];
+    var n;
+    while ((n = walker.nextNode())) nodes.push(n);
+    return nodes;
+  }
+
+  function bisectRight(arr, x) {
+    var lo = 0, hi = arr.length;
+    while (lo < hi) {
+      var mid = (lo + hi) >> 1;
+      if (arr[mid] <= x) lo = mid + 1; else hi = mid;
+    }
+    return lo;
+  }
+
+  function wrapOne(nodes, texts, startNode, startLocal, endNode, endLocal) {
+    if (startNode === endNode) {
+      var raw = texts[startNode];
+      var before = raw.slice(0, startLocal), matched = raw.slice(startLocal, endLocal), after = raw.slice(endLocal);
+      var span = document.createElement('span');
+      span.className = 'dl-search-hit';
+      span.textContent = matched;
+      var frag = document.createDocumentFragment();
+      if (before) frag.appendChild(document.createTextNode(before));
+      frag.appendChild(span);
+      if (after) frag.appendChild(document.createTextNode(after));
+      nodes[startNode].parentNode.replaceChild(frag, nodes[startNode]);
+      return span;
+    }
+    var firstRaw = texts[startNode];
+    var firstBefore = firstRaw.slice(0, startLocal), firstTail = firstRaw.slice(startLocal);
+    var firstSpan = document.createElement('span');
+    firstSpan.className = 'dl-search-hit';
+    firstSpan.textContent = firstTail;
+    var firstFrag = document.createDocumentFragment();
+    if (firstBefore) firstFrag.appendChild(document.createTextNode(firstBefore));
+    firstFrag.appendChild(firstSpan);
+    nodes[startNode].parentNode.replaceChild(firstFrag, nodes[startNode]);
+
+    for (var i = startNode + 1; i < endNode; i++) {
+      var midRaw = texts[i];
+      if (!midRaw) continue;
+      var midSpan = document.createElement('span');
+      midSpan.className = 'dl-search-hit';
+      midSpan.textContent = midRaw;
+      nodes[i].parentNode.replaceChild(midSpan, nodes[i]);
+    }
+
+    var lastRaw = texts[endNode];
+    var lastHead = lastRaw.slice(0, endLocal), lastAfter = lastRaw.slice(endLocal);
+    var lastSpan = document.createElement('span');
+    lastSpan.className = 'dl-search-hit';
+    lastSpan.textContent = lastHead;
+    var lastFrag = document.createDocumentFragment();
+    lastFrag.appendChild(lastSpan);
+    if (lastAfter) lastFrag.appendChild(document.createTextNode(lastAfter));
+    nodes[endNode].parentNode.replaceChild(lastFrag, nodes[endNode]);
+    return firstSpan;
+  }
+
+  function updateCounter() {
+    var counter = document.getElementById('dl-search-counter');
+    if (!counter) return;
+    counter.textContent = state.matches.length ? (state.current + 1) + ' / ' + state.matches.length : '0 / 0';
+  }
+
+  function setActive(idx) {
+    state.matches.forEach(function(el, i) { el.classList.toggle('dl-search-hit-active', i === idx); });
+    updateCounter();
+  }
+
+  function goTo(delta) {
+    if (!state.matches.length) return;
+    state.current = (state.current + delta + state.matches.length) % state.matches.length;
+    setActive(state.current);
+    state.matches[state.current].scrollIntoView({ block: 'center' });
+  }
+
+  function runSearch(query) {
+    clearHighlights();
+    query = query.trim();
+    if (query.length < 2) { updateCounter(); return; }
+    var q = query.toLowerCase();
+    var matches = [];
+    for (var iter = 0; iter < MAX_MATCHES; iter++) {
+      var nodes = getTextNodes();
+      var texts = nodes.map(function(n) { return n.textContent; });
+      var combined = texts.join('').toLowerCase();
+      var idx = combined.indexOf(q);
+      if (idx === -1) break;
+      var starts = [];
+      var pos = 0;
+      for (var i = 0; i < texts.length; i++) { starts.push(pos); pos += texts[i].length; }
+      var startNode = bisectRight(starts, idx) - 1;
+      var endNode = bisectRight(starts, idx + q.length - 1) - 1;
+      var startLocal = idx - starts[startNode];
+      var endLocal = idx + q.length - starts[endNode];
+      matches.push(wrapOne(nodes, texts, startNode, startLocal, endNode, endLocal));
+    }
+    state.matches = matches;
+    state.current = -1;
+    if (matches.length) goTo(1); else updateCounter();
+  }
+
+  var input = document.getElementById('dl-search-input');
+  var nextBtn = document.getElementById('dl-search-next');
+  var prevBtn = document.getElementById('dl-search-prev');
+  if (input) {
+    var debounceTimer = null;
+    input.addEventListener('input', function() {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(function() { runSearch(input.value); }, 250);
+    });
+    input.addEventListener('keydown', function(e) {
+      if (e.key !== 'Enter') return;
+      e.preventDefault();
+      goTo(e.shiftKey ? -1 : 1);
+    });
+  }
+  if (nextBtn) nextBtn.addEventListener('click', function() { goTo(1); });
+  if (prevBtn) prevBtn.addEventListener('click', function() { goTo(-1); });
+})();
+</script><script>
+(function() {
+  var native = document.querySelector('.dl-fv-native');
+  if (!native) return;
+  native.style.position = 'relative';
+
+  var canvas = document.createElement('canvas');
+  canvas.id = 'dl-draw-canvas';
+   // Keep the annotation surface viewport-sized. A full-document transparent
+   // canvas works for short 10-Qs but can exceed Chrome's compositor budget on a
+   // long 10-K, turning the filing pane white as soon as drawing is enabled.
+   // Strokes remain in native-document coordinates and are projected into this
+   // small surface while the page scrolls.
+   canvas.style.display = 'none';
+   canvas.style.position = 'fixed';
+   canvas.style.top = '0';
+   function sizeCanvas() {
+     if (canvas.style.display === 'none') return;
+     var rect = native.getBoundingClientRect();
+     var dpr = Math.min(2, window.devicePixelRatio || 1);
+     canvas.style.left = rect.left + 'px';
+     canvas.style.width = rect.width + 'px';
+     canvas.style.height = window.innerHeight + 'px';
+     canvas.width = Math.max(1, Math.ceil(rect.width * dpr));
+     canvas.height = Math.max(1, Math.ceil(window.innerHeight * dpr));
+     ctx = canvas.getContext('2d');
+     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+     redraw();
+   }
+  native.appendChild(canvas);
+  var ctx = canvas.getContext('2d');
+
+  var strokes = [];
+  var currentStroke = null;
+  var activeColor = '#e11d48';
+  var activeWidth = 3;
+  var drawing = false;
+
+  // Real user report: drawing "lags behind." redraw() used to run on EVERY
+  // pointermove - clearing the WHOLE canvas (which can be 50,000+ px tall for
+  // a real full filing) and repainting every past stroke from scratch, on
+  // every single mouse-move event. Only ever needed for sizeCanvas (fresh
+  // canvas) and Clear (nothing left to paint) - normal drawing now paints just
+  // the ONE new line segment directly onto the existing bitmap (drawSegment),
+  // which is O(1) per move instead of O(total strokes so far) and doesn't
+  // touch pixels outside that segment at all - no full-canvas clear/redraw in
+  // the hot path, without changing what actually gets recorded/exported.
+  function redraw() {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    strokes.forEach(function(s) { paintStroke(s); });
+  }
+
+  function paintStroke(s) {
+    if (s.points.length < 2) return;
+    var rect = native.getBoundingClientRect();
+    var scrollX = native.scrollLeft || 0;
+    ctx.strokeStyle = s.color;
+    ctx.lineWidth = s.width;
+    ctx.lineCap = 'round';
+    ctx.lineJoin = 'round';
+    ctx.globalAlpha = s.width > 8 ? 0.4 : 1;
+    ctx.beginPath();
+    ctx.moveTo(s.points[0].x - scrollX, s.points[0].y + rect.top);
+    for (var i = 1; i < s.points.length; i++) ctx.lineTo(s.points[i].x - scrollX, s.points[i].y + rect.top);
+    ctx.stroke();
+    ctx.globalAlpha = 1;
+  }
+
+  function drawSegment(color, width, p0, p1) {
+    var rect = native.getBoundingClientRect();
+    var scrollX = native.scrollLeft || 0;
+    ctx.strokeStyle = color;
+    ctx.lineWidth = width;
+    ctx.lineCap = 'round';
+    ctx.lineJoin = 'round';
+    ctx.globalAlpha = width > 8 ? 0.4 : 1;
+    ctx.beginPath();
+    ctx.moveTo(p0.x - scrollX, p0.y + rect.top);
+    ctx.lineTo(p1.x - scrollX, p1.y + rect.top);
+    ctx.stroke();
+    ctx.globalAlpha = 1;
+  }
+
+  function pointFromEvent(e) {
+    var rect = canvas.getBoundingClientRect();
+    var nativeRect = native.getBoundingClientRect();
+    return { x: e.clientX - nativeRect.left + (native.scrollLeft || 0), y: e.clientY - nativeRect.top };
+  }
+
+  canvas.addEventListener('pointerdown', function(e) {
+    if (!drawing) return;
+    var r = native.getBoundingClientRect();
+    if (e.clientX < r.left || e.clientX > r.right || e.clientY < r.top || e.clientY > r.bottom) return;
+    currentStroke = { color: activeColor, width: activeWidth, points: [pointFromEvent(e)] };
+    canvas.setPointerCapture(e.pointerId);
+  });
+  canvas.addEventListener('pointermove', function(e) {
+    if (!drawing || !currentStroke) return;
+    var prev = currentStroke.points[currentStroke.points.length - 1];
+    var pt = pointFromEvent(e);
+    currentStroke.points.push(pt);
+    drawSegment(currentStroke.color, currentStroke.width, prev, pt);
+  });
+  function endStroke() {
+    if (currentStroke && currentStroke.points.length > 1) strokes.push(currentStroke);
+    currentStroke = null;
+  }
+  canvas.addEventListener('pointerup', endStroke);
+  canvas.addEventListener('pointercancel', endStroke);
+
+  var toggleBtn = document.getElementById('dl-draw-toggle');
+  var clearBtn = document.getElementById('dl-draw-clear');
+  var swatches = document.querySelectorAll('.dl-draw-swatch');
+  var widthBtns = document.querySelectorAll('.dl-draw-width-btn');
+  var saveBtn = document.getElementById('dl-draw-save-pdf');
+  var printBtn = document.getElementById('dl-draw-print-pdf');
+  var statusEl = document.getElementById('dl-draw-status');
+
+  if (toggleBtn) {
+    toggleBtn.addEventListener('click', function() {
+    drawing = !drawing;
+      if (drawing) {
+        canvas.style.display = 'block';
+        sizeCanvas();
+      } else if (!strokes.length) {
+        canvas.style.display = 'none';
+      }
+      canvas.classList.toggle('dl-draw-canvas-active', drawing);
+      toggleBtn.textContent = drawing ? 'Stop drawing' : 'Start drawing';
+      toggleBtn.classList.toggle('dl-fv-nav-btn-active', drawing);
+    });
+  }
+  if (clearBtn) {
+    clearBtn.addEventListener('click', function() {
+      strokes = [];
+      redraw();
+    });
+  }
+  swatches.forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      activeColor = btn.dataset.color;
+      swatches.forEach(function(b) { b.classList.remove('dl-draw-swatch-active'); });
+      btn.classList.add('dl-draw-swatch-active');
+    });
+  });
+  widthBtns.forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      activeWidth = parseInt(btn.dataset.width, 10);
+      widthBtns.forEach(function(b) { b.classList.remove('dl-draw-width-active'); });
+      btn.classList.add('dl-draw-width-active');
+    });
+  });
+
+  window.addEventListener('resize', sizeCanvas);
+  window.addEventListener('scroll', function() { if (drawing) sizeCanvas(); }, { passive: true });
+  native.addEventListener('scroll', function() { if (drawing) sizeCanvas(); }, { passive: true });
+  canvas.width = 1;
+  canvas.height = 1;
+
+  function loadScript(src) {
+    return new Promise(function(resolve, reject) {
+      var s = document.createElement('script');
+      s.src = src;
+      s.onload = resolve;
+      s.onerror = reject;
+      document.head.appendChild(s);
+    });
+  }
+
+  function safeFilePart(s) {
+    return (s || '').toString().trim().replace(/[^a-z0-9]+/gi, '_').replace(/^_+|_+$/g, '') || 'untitled';
+  }
+
+  // Real user ask (repeated): "it saves every page when i just want it to save
+  // the pages you highlighted" - only pages containing a real stroke are ever
+  // exported now (not an opt-in checkbox anymore). Finding those page ranges
+  // first, BEFORE rendering anything, is also what makes rendering each one at
+  // real print resolution (scale: DPR below) safe/fast - one giant scale-2
+  // capture of a 50+ page filing would be tens of thousands of pixels tall and
+  // either crash or take minutes; capturing just the handful of marked pages,
+  // one at a time via html2canvas's own x/y/width/height crop options, never
+  // renders more than a few real page-heights at once.
+  function pagesWithStrokes(pageHeightCss, totalHeightCss) {
+    var totalPages = Math.max(1, Math.ceil(totalHeightCss / pageHeightCss));
+    var pages = [];
+    for (var p = 0; p < totalPages; p++) {
+      var y0 = p * pageHeightCss, y1 = Math.min(totalHeightCss, y0 + pageHeightCss);
+      var has = strokes.some(function(s) {
+        return s.points.some(function(pt) { return pt.y >= y0 && pt.y < y1; });
+      });
+      if (has) pages.push({ y0: y0, y1: y1 });
+    }
+    return pages;
+  }
+
+  // Repaint only vectors intersecting the exported page. Sampling the full
+  // document overlay canvas is very expensive for long 10-K filings.
+  function paintStrokeSlice(cctx, s, y0, y1, scale) {
+    if (!s || !s.points || s.points.length < 2) return;
+    if (!s.points.some(function(pt) { return pt.y >= y0 && pt.y < y1; })) return;
+    cctx.strokeStyle = s.color;
+    cctx.lineWidth = s.width * scale;
+    cctx.lineCap = 'round';
+    cctx.lineJoin = 'round';
+    cctx.globalAlpha = s.width > 8 ? 0.4 : 1;
+    cctx.beginPath();
+    cctx.moveTo(s.points[0].x * scale, (s.points[0].y - y0) * scale);
+    for (var i = 1; i < s.points.length; i++) {
+      cctx.lineTo(s.points[i].x * scale, (s.points[i].y - y0) * scale);
+    }
+    cctx.stroke();
+    cctx.globalAlpha = 1;
+  }
+
+  function filingContentWidthCss() {
+    var nativeRect = native.getBoundingClientRect();
+    var maxRight = 0;
+    // Measure actual text ink rather than the raw filing wrapper, which often
+    // reserves a much wider column than the filing itself and created the large
+    // blank strip on the right side of exported PDFs.
+    var walker = document.createTreeWalker(native, NodeFilter.SHOW_TEXT);
+    var node;
+    while ((node = walker.nextNode())) {
+      if (!node.nodeValue || !node.nodeValue.trim()) continue;
+      var range = document.createRange();
+      range.selectNodeContents(node);
+      var rect = range.getBoundingClientRect();
+      if (rect.width > 0 && rect.height > 0) {
+        maxRight = Math.max(maxRight, rect.right - nativeRect.left + (native.scrollLeft || 0));
+      }
+    }
+    return Math.min(native.scrollWidth, Math.max(1, Math.ceil(maxRight + 24)));
+  }
+
+  function openVectorPrint() {
+    if (!strokes.length) {
+      statusEl.textContent = 'Nothing to print - draw on the document first.';
+      return;
+    }
+    var cssWidth = native.scrollWidth;
+    var cssHeight = native.scrollHeight;
+    var contentWidth = filingContentWidthCss();
+    var pageWpx = 816, pageHpx = 1056;
+    var pageHeightCss = pageHpx * (cssWidth / pageWpx);
+    var pages = pagesWithStrokes(pageHeightCss, cssHeight);
+    var printWin = window.open('', '_blank');
+    if (!printWin) {
+      statusEl.textContent = 'Allow pop-ups for this site to use vector PDF export.';
+      return;
+    }
+    var headStyles = '';
+    document.querySelectorAll('style').forEach(function(style) {
+      headStyles += style.outerHTML;
+    });
+    var meta = window.__DL_DRAW_META__ || {};
+    var printName = [safeFilePart(meta.ticker), safeFilePart(meta.docLabel), safeFilePart(meta.topic), 'vector'].join('_');
+    var html = '<!doctype html><html><head><meta charset="utf-8"><title>' + printName + '</title>' + headStyles +
+      '<style>@page{size:' + contentWidth + 'px ' + pageHeightCss + 'px;margin:0}' +
+      'html,body{margin:0;padding:0;background:#fff}' +
+      '.dl-print-page{position:relative;width:' + contentWidth + 'px;height:' + pageHeightCss +
+      'px;overflow:hidden;page-break-after:always;background:#fff}' +
+      '.dl-print-clip{position:relative;width:' + contentWidth + 'px;height:' + pageHeightCss +
+      'px;overflow:hidden}' +
+      '.dl-print-clip .dl-fv-native{position:relative!important;left:0;margin:0!important;' +
+      'width:' + cssWidth + 'px!important;max-width:none!important;overflow:visible!important;' +
+      'border:0!important;box-shadow:none!important}' +
+      '.dl-print-annotations{position:absolute;left:0;top:0;z-index:20;pointer-events:none}' +
+      '@media print{.dl-print-page:last-child{page-break-after:auto}}' +
+      '</style></head><body>';
+    pages.forEach(function(pg) {
+      var clone = native.cloneNode(true);
+      var oldCanvas = clone.querySelector('#dl-draw-canvas');
+      if (oldCanvas) oldCanvas.remove();
+      clone.style.position = 'relative';
+      clone.style.top = '0';
+      clone.style.left = '0';
+      clone.style.height = cssHeight + 'px';
+      clone.style.transform = 'translateY(' + (-pg.y0) + 'px)';
+      clone.style.transformOrigin = 'top left';
+      var paths = strokes.map(function(s) {
+        if (!s.points || s.points.length < 2) return '';
+        if (!s.points.some(function(pt) { return pt.y >= pg.y0 && pt.y < pg.y1; })) return '';
+        var d = s.points.map(function(pt, i) {
+          return (i ? 'L' : 'M') + ' ' + pt.x + ' ' + (pt.y - pg.y0);
+        }).join(' ');
+        var opacity = s.width > 8 ? '0.4' : '1';
+        return '<path d="' + d + '" fill="none" stroke="' + s.color +
+          '" stroke-width="' + s.width + '" stroke-linecap="round" stroke-linejoin="round" opacity="' + opacity + '"/>';
+      }).join('');
+      html += '<section class="dl-print-page"><div class="dl-print-clip">' +
+        clone.outerHTML + '<svg class="dl-print-annotations" width="' + contentWidth +
+        '" height="' + (pg.y1 - pg.y0) + '" viewBox="0 0 ' + contentWidth + ' ' +
+        (pg.y1 - pg.y0) + '">' + paths + '</svg></div></section>';
+    });
+    html += '</body></html>';
+    printWin.document.open();
+    printWin.document.write(html);
+    printWin.document.close();
+    printWin.focus();
+    statusEl.textContent = 'Print preview opened - choose Save to PDF.';
+    setTimeout(function() { printWin.print(); }, 900);
+  }
+
+  if (printBtn) printBtn.addEventListener('click', openVectorPrint);
+
+  if (saveBtn) {
+    saveBtn.addEventListener('click', function() {
+      if (!strokes.length) {
+        statusEl.textContent = 'Nothing to export - draw on the document first.';
+        return;
+      }
+      saveBtn.disabled = true;
+      statusEl.textContent = 'Rendering pages…';
+      Promise.all([
+        loadScript('https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js'),
+        loadScript('https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js'),
+      ]).then(function() {
+        // Real, confirmed quality bug (twice): capturing at scale:1 (raw CSS
+        // pixels) produced visibly blurry/low-res exported pages. The first
+        // fix tied this to window.devicePixelRatio, which was itself the real
+        // remaining bug - a real user report of "still low res" traced to a
+        // real standard (non-Retina) display reporting devicePixelRatio 1, so
+        // the "fix" was a no-op there. A PDF is for reading/printing later, on
+        // ANY device, not just whatever screen happened to trigger the export
+        // - fixed at a flat 2x (real, verified print-quality output:
+        // ~192dpi-equivalent for an 8.5x11 page) regardless of the exporting
+        // screen's own pixel density. Cheap to afford unconditionally since
+        // this only ever renders the marked pages, never the whole document.
+        // 1.5x gives approximately 144-DPI Letter output, which keeps filing
+        // text readable when zoomed or printed while remaining far smaller than
+        // the old 2x lossless-PNG exporter.
+        var DPR = 1.5;
+        var pageWpx = 816, pageHpx = 1056; // US Letter @ 96dpi
+        var cssWidth = native.scrollWidth;
+        var cssHeight = native.scrollHeight;
+        var contentWidth = filingContentWidthCss();
+        var pageHeightCss = pageHpx * (cssWidth / pageWpx);
+        // Use a page width that matches the cropped filing aspect ratio. The
+        // previous code cropped the right margin and then stretched the crop
+        // back to a full Letter rectangle, which made text visibly blurry.
+        var pdfPageW = Math.max(1, Math.round(pageHpx * contentWidth / pageHeightCss));
+        var pages = pagesWithStrokes(pageHeightCss, cssHeight);
+        if (!pages.length) {
+          statusEl.textContent = 'Nothing to export - draw on the document first.';
+          saveBtn.disabled = false;
+          return;
+        }
+        var wasActive = canvas.classList.contains('dl-draw-canvas-active');
+        canvas.classList.remove('dl-draw-canvas-active');
+        var wasVisible = canvas.style.display !== 'none';
+        canvas.style.display = 'none';
+        var jsPDF = window.jspdf.jsPDF;
+        var pdf = null;
+        var chain = Promise.resolve();
+        pages.forEach(function(pg) {
+          chain = chain.then(function() {
+            var sliceH = pg.y1 - pg.y0;
+            return html2canvas(native, {
+              backgroundColor: '#ffffff',
+              scale: DPR, x: 0, y: pg.y0, width: cssWidth, height: sliceH,
+            }).then(function(pageCanvas) {
+              var comp = document.createElement('canvas');
+              var cropWidth = Math.min(pageCanvas.width, Math.max(1, Math.ceil(contentWidth * DPR)));
+              comp.width = cropWidth;
+              comp.height = pageCanvas.height;
+              var cctx = comp.getContext('2d');
+              // Make the composition opaque. Otherwise jsPDF carries a full
+              // alpha mask alongside every page image.
+              cctx.fillStyle = '#ffffff';
+              cctx.fillRect(0, 0, comp.width, comp.height);
+              cctx.drawImage(pageCanvas, 0, 0, cropWidth, pageCanvas.height, 0, 0, cropWidth, pageCanvas.height);
+              // Repaint only vectors for this marked page. Avoid sampling the
+              // full-document annotation canvas (often 100k+ px tall).
+              strokes.forEach(function(s) { paintStrokeSlice(cctx, s, pg.y0, pg.y1, DPR); });
+              var imgData = comp.toDataURL('image/jpeg', 0.9);
+              var destH = pageHpx * (sliceH / pageHeightCss);
+              if (!pdf) {
+                 pdf = new jsPDF({ unit: 'px', format: [pdfPageW, pageHpx] });
+               } else {
+                 pdf.addPage([pdfPageW, pageHpx]);
+               }
+               pdf.addImage(imgData, 'JPEG', 0, 0, pdfPageW, destH, undefined, 'FAST');
+            });
+          });
+        });
+        return chain.then(function() {
+          if (wasActive) canvas.classList.add('dl-draw-canvas-active');
+          canvas.style.display = wasVisible ? 'block' : 'none';
+          var meta = window.__DL_DRAW_META__ || {};
+          var filename = [safeFilePart(meta.ticker), safeFilePart(meta.docLabel), safeFilePart(meta.topic), 'annotated'].join('_') + '.pdf';
+          pdf.save(filename);
+          statusEl.textContent = '';
+          saveBtn.disabled = false;
+        });
+      }).catch(function(err) {
+        canvas.style.display = 'block';
+        statusEl.textContent = 'Could not export - check your connection and try again.';
+        saveBtn.disabled = false;
+      });
+    });
+  }
+})();
+</script><script>
+(function() {
+  var KEY = 'dl-theme';
+  var root = document.documentElement;
+  var buttons = Array.prototype.slice.call(document.querySelectorAll('.dl-theme-btn'));
+  if (!buttons.length) return;
+
+  function applyTheme(theme) {
+    var effective = theme || root.getAttribute('data-theme-default');
+    if (theme) { root.setAttribute('data-theme', theme); } else { root.removeAttribute('data-theme'); }
+    buttons.forEach(function(b) {
+      b.classList.toggle('dl-theme-btn-active', b.getAttribute('data-theme-choice') === effective);
+    });
+  }
+
+  var saved = null;
+  try { saved = localStorage.getItem(KEY); } catch (e) {}
+  applyTheme(saved);
+
+  buttons.forEach(function(b) {
+    b.addEventListener('click', function() {
+      var choice = b.getAttribute('data-theme-choice');
+      try { localStorage.setItem(KEY, choice); } catch (e) {}
+      applyTheme(choice);
+    });
+  });
+})();
+</script><style id="dl-mobile-reader-assets">/* Shared, self-contained filing/transcript reader. Version 2.7.53. */
+.dl-mobile-nav, .dl-mobile-close { display: none; }
+.dl-viewer-version { position: fixed; bottom: 3px; left: 10px; z-index: 1001; font: 10px Arial, sans-serif; color: #596a80; background: #f5f8fc; padding: 2px 5px; border-radius: 3px; }
+@media screen and (max-width: 980px) {
+  html.dl-mobile-reader { scroll-padding-bottom: 100px; overflow-x: hidden; }
+  .dl-mobile-reader body { overflow-x: clip; width: 100%; }
+  .dl-mobile-reader .dl-fv-shell { padding-bottom: calc(92px + env(safe-area-inset-bottom)); }
+  .dl-mobile-reader .dl-fv-head { padding: 18px 14px 0; }
+  .dl-mobile-reader .dl-fv-head h1 { padding-right: 125px; line-height: 1.4; }
+  .dl-mobile-reader .dl-theme-toggle { top: 10px; right: 10px; bottom: auto; }
+  .dl-mobile-reader[data-mobile-panel="research"] .dl-theme-toggle,
+  .dl-mobile-reader[data-mobile-panel="find"] .dl-theme-toggle { display: none; }
+  .dl-mobile-reader .dl-hover-scroll-toggle-label { display: none; }
+  .dl-mobile-reader .dl-fv-note { font-size: 12px; margin-bottom: 14px; }
+  .dl-mobile-reader .dl-fv-cols { display: block; padding: 0 10px 20px; }
+  .dl-mobile-reader .dl-fv-native { box-sizing: border-box; width: 100%; padding: 18px 12px; overflow-x: auto; overscroll-behavior-x: contain; border-radius: 10px; }
+  .dl-mobile-reader .dl-fv-side { display: none; box-sizing: border-box; position: fixed; top: 12px; bottom: calc(84px + env(safe-area-inset-bottom)); left: 10px; right: 10px; width: auto; max-height: none; z-index: 990; overflow: auto; overscroll-behavior: contain; border-radius: 18px; border-left-width: 1px; padding: 0 14px 20px; box-shadow: 0 8px 48px #142c4840; }
+  .dl-mobile-reader[data-mobile-panel="research"] .dl-fv-side,
+  .dl-mobile-reader[data-mobile-panel="find"] .dl-fv-side { display: block; }
+  .dl-mobile-reader .dl-fv-side-header { position: sticky; top: 0; z-index: 5; margin: 0 -14px 14px; padding: 16px 65px 14px 16px; background: #fff; border-bottom: 1px solid #dfe6ee; }
+  .dl-mobile-reader .dl-fv-side-header h2 { margin: 0; font-size: 18px; color: #142c48; }
+  .dl-mobile-reader .dl-fv-side-header p { margin: 5px 0 0; font-size: 12px; line-height: 1.5; color: #6b7688; }
+  .dl-mobile-reader .dl-mobile-close { display: block; position: absolute; right: 10px; top: 10px; width: 44px; height: 44px; border: 1px solid #d7dee8; border-radius: 12px; color: #243247; background: #f2f6fb; font-size: 24px; cursor: pointer; }
+  .dl-mobile-reader .dl-fv-side summary { min-height: 44px; box-sizing: border-box; display: flex; align-items: center; }
+  .dl-mobile-reader .dl-fv-side a { overflow-wrap: anywhere; }
+  .dl-mobile-reader .dl-fv-search input { font-size: 16px; min-height: 44px; box-sizing: border-box; }
+  .dl-mobile-reader .dl-fv-search button, .dl-mobile-reader .dl-fv-nav-btn { min-height: 44px; }
+  .dl-mobile-reader[data-mobile-panel="find"] .dl-fv-side { top: auto; max-height: 45dvh; }
+  .dl-mobile-reader[data-mobile-panel="find"] .dl-fv-side > :not(.dl-mobile-search-box):not(.dl-fv-side-header) { display: none; }
+  .dl-mobile-reader[data-mobile-panel="find"] .dl-fv-search-box { margin-top: 0; }
+  .dl-mobile-reader .dl-mobile-nav { display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px; position: fixed; bottom: 0; left: 0; right: 0; z-index: 1000; padding: 8px 12px calc(23px + env(safe-area-inset-bottom)); background: #f5f8fc; border-top: 1px solid #d7dee8; box-shadow: 0 -4px 24px #142c4814; font: 600 13px Arial, sans-serif; }
+  .dl-mobile-nav button { border: 0; border-radius: 12px; min-height: 48px; padding: 7px; color: #53647a; background: transparent; font: inherit; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 7px; }
+  .dl-mobile-nav svg { width: 19px; height: 19px; fill: none; stroke: currentColor; stroke-width: 1.8; }
+  .dl-mobile-nav button[aria-pressed="true"] { background: #dcecff; color: #0759a7; }
+  .dl-mobile-nav button:focus-visible, .dl-mobile-close:focus-visible { outline: 3px solid #0a66c2; outline-offset: 2px; }
+  .dl-mobile-reader .dl-viewer-version { bottom: calc(3px + env(safe-area-inset-bottom)); }
+  html[data-theme="dark"] .dl-mobile-nav, html[data-theme="dark"] .dl-viewer-version { background: #202630; color: #bac8dc; border-color: #3a4554; }
+  html[data-theme="dark"] .dl-mobile-nav button { color: #bac8dc; }
+  html[data-theme="dark"] .dl-mobile-nav button[aria-pressed="true"] { background: #173e59; color: #7cdbff; }
+  html[data-theme="dark"] .dl-mobile-close { background: #202630; color: #dfe4ea; border-color: #3a4554; }
+  html[data-theme="dark"] .dl-fv-side-header { background: #262a33; border-color: #3a4554; }
+  html[data-theme="dark"] .dl-fv-side-header h2 { color: #f4f7fb; }
+  html[data-theme="dark"] .dl-fv-side-header p { color: #bac8dc; }
+}
+@media print { .dl-mobile-nav, .dl-mobile-close { display: none !important; } }
+</style><script>/* Version 2.7.53. Embedded in generated reports so downloaded copies work too. */
+(function () {
+  'use strict';
+  var root = document.documentElement;
+  var side = document.querySelector('.dl-fv-side');
+  var native = document.querySelector('.dl-fv-native');
+  if (!side || !native || document.querySelector('.dl-mobile-nav')) return;
+  var media = window.matchMedia('(max-width: 980px)');
+  var panel = 'document';
+  var searchInput = side.querySelector('#dl-search-input');
+  if (searchInput) searchInput.closest('.dl-fv-search-box').classList.add('dl-mobile-search-box');
+  var savedOverflow = '';
+  var locked = false;
+  var nav = document.createElement('nav');
+  nav.className = 'dl-mobile-nav';
+  nav.setAttribute('aria-label', 'Report reader');
+  var icons = ['<path d="M5 3h9l5 5v13H5z M14 3v6h5 M8 13h8 M8 17h6"/>', '<path d="M4 5h16v14H4z M9 5v14 M12 9h5 M12 13h5"/>', '<circle cx="10" cy="10" r="6"/><path d="m15 15 6 6"/>'];
+  ['Document', 'Research', 'Find'].forEach(function (label, i) {
+    var button = document.createElement('button');
+    button.type = 'button';
+    button.dataset.panel = label.toLowerCase();
+    button.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true">' + icons[i] + '</svg><span>' + label + '</span>';
+    button.addEventListener('click', function () { setPanel(button.dataset.panel, true); });
+    nav.appendChild(button);
+  });
+  if (!side.id) side.id = 'dl-mobile-research';
+  var close = document.createElement('button');
+  close.type = 'button';
+  close.className = 'dl-mobile-close';
+  close.setAttribute('aria-label', 'Return to document');
+  close.textContent = '×';
+  close.addEventListener('click', function () { setPanel('document', true); });
+  var header = side.querySelector('.dl-fv-side-header');
+  if (!header) {
+    header = document.createElement('div');
+    header.className = 'dl-fv-side-header';
+    header.innerHTML = '<h2>Research</h2><p>Explore the evidence. Tap a quote to read its source.</p>';
+    side.prepend(header);
+  }
+  header.appendChild(close);
+  document.body.appendChild(nav);
+  var version = document.createElement('div');
+  version.className = 'dl-viewer-version';
+  version.textContent = 'DocuLens v2.7.53';
+  document.body.appendChild(version);
+  root.classList.add('dl-mobile-reader');
+
+  function setPanel(next, focus) {
+    panel = next;
+    root.dataset.mobilePanel = next;
+    var active = media.matches && next !== 'document';
+    // Research owns scrolling while open. Find leaves the document scrollable.
+    if (media.matches && next === 'research' && !locked) {
+      savedOverflow = document.body.style.overflow;
+      document.body.style.overflow = 'hidden';
+      locked = true;
+    } else if ((!media.matches || next !== 'research') && locked) {
+      document.body.style.overflow = savedOverflow;
+      locked = false;
+    }
+    native.inert = media.matches && next === 'research';
+    nav.querySelectorAll('button').forEach(function (button) {
+      button.setAttribute('aria-pressed', String(button.dataset.panel === next));
+      if (button.dataset.panel !== 'document') {
+        button.setAttribute('aria-controls', side.id);
+        button.setAttribute('aria-expanded', String(active && button.dataset.panel === next));
+      }
+    });
+    if (focus && media.matches) {
+      var target = next === 'find' ? side.querySelector('#dl-search-input') : next === 'research' ? close : nav.querySelector('button');
+      if (target) target.focus({preventScroll: true});
+    }
+  }
+  // Close BEFORE native anchor navigation / existing citation click handlers.
+  side.addEventListener('click', function (event) {
+    var link = event.target.closest('a[href]');
+    if (!link || !media.matches) return;
+    var url = new URL(link.href, location.href);
+    if (url.pathname !== location.pathname || url.search !== location.search || !url.hash) return;
+    var target;
+    try { target = document.getElementById(decodeURIComponent(url.hash.slice(1))); } catch (_) { return; }
+    if (target && native.contains(target)) setPanel('document', true);
+  }, true);
+  document.addEventListener('keydown', function (event) {
+    if (event.key === 'Escape' && media.matches && panel !== 'document') setPanel('document', true);
+  });
+  media.addEventListener('change', function () { setPanel('document', false); });
+  setPanel('document', false);
+})();
+</script><style id="dl-evidence-sidebar-assets">/* Approved mixed sidebar design. DocuLens v2.7.59. */
+.dl-fv-side[data-evidence-design] { box-sizing: border-box; width: 420px; border: 1px solid #d9e2ef; border-radius: 10px; padding: 0 20px 20px; box-shadow: 0 3px 16px #142c480a; background: #fff; color: #182e4c; font-size: 14px; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-header { display: grid; grid-template-columns: 1fr auto; align-items: center; margin: 0; padding: 18px 0 12px; background: #fff; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-header h2 { font-size: 19px; margin: 0; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-header p { grid-column: 1 / -1; grid-row: 2; font-size: 12px; line-height: 1.5; margin: 5px 0 0; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-header .dl-fv-nav-cross { grid-column: 2; grid-row: 1; width: auto; min-height: 0; margin: 0; border: 0; padding: 3px 0 3px 10px; font-size: 12px; background: transparent; }
+.dl-fv-side[data-evidence-design] .dl-hover-scroll-toggle-label { font-size: 12px; margin: 8px 0 10px; }
+.dl-sidebar-content { min-width: 0; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-section { box-shadow: none; margin: 0 0 10px; border: 1px solid #d9e2ef; border-radius: 8px; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-section > summary { min-height: 48px; box-sizing: border-box; padding: 12px 15px; background: #f5f8fc; color: #0960b8; font-size: 15px; line-height: 1.35; text-transform: none; letter-spacing: 0; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-title { gap: 12px; flex: 1; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-icon svg { width: 19px; height: 19px; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-section-body { padding: 12px 15px 16px; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-section-body li { font-size: 13px; line-height: 1.55; overflow-wrap: anywhere; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-topic-group { margin-bottom: 14px; border: 0; background: transparent; box-shadow: none; overflow: visible; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-topic-group > .dl-evidence-card { margin-bottom: 0; }
+.dl-evidence-card { border: 1px solid #d9e2ef; border-radius: 9px; margin-bottom: 14px; background: #fff; overflow: hidden; }
+.dl-evidence-heading { display: flex; align-items: center; gap: 12px; padding: 17px 16px; cursor: pointer; list-style: none; }
+.dl-evidence-heading::-webkit-details-marker { display: none; }
+.dl-fv-side[data-evidence-design] .dl-evidence-heading .dl-fv-side-topic-heading { flex: 1; min-width: 0; font-size: 18px; line-height: 1.35; font-weight: 700; margin: 0; padding: 0; border: 0; color: #0877ed; overflow-wrap: anywhere; }
+.dl-evidence-count { display: inline-flex; align-items: center; justify-content: center; background: #f0f2f5; color: #233751; min-width: 29px; height: 25px; padding: 0 7px; box-sizing: border-box; border-radius: 20px; font-size: 13px; line-height: 1; font-weight: 600; flex: 0 0 auto; }
+.dl-evidence-heading > .dl-evidence-count { color: #1475e6; background: #eaf3ff; }
+.dl-evidence-heading::after, .dl-fv-side[data-evidence-design] .dl-evidence-row > summary::after { content: ''; display: block; width: 7px; height: 7px; border: solid #39516d; border-width: 0 2px 2px 0; transform: rotate(-45deg); flex: 0 0 auto; margin-left: 4px; }
+.dl-evidence-card[open] > .dl-evidence-heading::after, .dl-fv-side[data-evidence-design] .dl-evidence-row[open] > summary::after { transform: rotate(45deg); }
+.dl-evidence-body { padding: 0 10px 3px; }
+.dl-evidence-highlights { display: flex; gap: 12px; background: #f2f7fd; border: 1px solid #e0e7f0; border-radius: 6px; padding: 14px 12px; margin: 0 0 5px; }
+.dl-evidence-highlights > svg { flex: 0 0 19px; width: 19px; height: 21px; fill: none; stroke: #1682f5; stroke-width: 1.8; stroke-linecap: round; }
+.dl-evidence-highlights > div { min-width: 0; }
+.dl-evidence-highlights strong { display: block; font-size: 14px; margin: 0 0 6px; }
+.dl-evidence-excerpt { color: #354b69; font-size: 13px; line-height: 1.55; text-decoration: none; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.dl-evidence-excerpt:hover { color: #0960b8; text-decoration: underline; }
+.dl-fv-side[data-evidence-design] .dl-evidence-row { border: 0; border-bottom: 1px solid #dfe6ef; border-radius: 0; margin: 0; }
+.dl-fv-side[data-evidence-design] .dl-evidence-row:last-child { border-bottom: 0; }
+.dl-fv-side[data-evidence-design] .dl-evidence-row > summary { background: #fff; color: #172e4c; padding: 12px 7px; min-height: 48px; font-size: 14px; }
+.dl-fv-side[data-evidence-design] .dl-evidence-row > summary:hover { background: #f7faff; }
+.dl-fv-side[data-evidence-design] .dl-evidence-row > summary .dl-fv-side-icon { color: #426284; }
+.dl-fv-side[data-evidence-design] .dl-fv-search-box { background: #fff; margin: 10px 0 0; padding: 14px; border: 1px solid #d9e2ef; border-radius: 8px; }
+.dl-fv-side[data-evidence-design] .dl-fv-search-box-label { color: #354b69; font-size: 15px; font-weight: 500; text-transform: none; letter-spacing: 0; gap: 10px; margin-bottom: 11px; }
+.dl-fv-side[data-evidence-design] .dl-fv-search { display: grid; grid-template-columns: minmax(0,1fr) 34px 34px auto; gap: 7px; }
+.dl-fv-side[data-evidence-design] .dl-fv-search input { width: 100%; box-sizing: border-box; font-size: 13px; height: 38px; padding: 8px 10px; border-color: #d1dbea; }
+.dl-fv-side[data-evidence-design] .dl-fv-search button { padding: 0; height: 38px; color: #465a75; border-color: #d1dbea; font-size: 17px; }
+.dl-fv-side[data-evidence-design] .dl-fv-search-counter { font-size: 12px; min-width: 33px; text-align: right; color: #51627b; }
+.dl-fv-side[data-evidence-design] .dl-fv-nav-footer { position: static; margin: 0; padding: 16px 0 0; border: 0; background: #fff; }
+.dl-fv-side[data-evidence-design] .dl-fv-nav-btn { box-sizing: border-box; min-width: 0; min-height: 44px; padding: 12px 8px; border: 1px solid #c6d2e2; border-radius: 6px; font-size: 14px; font-weight: 500; line-height: 1.35; color: #0867d3; text-transform: none; letter-spacing: 0; }
+.dl-fv-side[data-evidence-design] .dl-fv-nav-btn:hover { border-color: #1678ed; background: #f3f8ff; }
+.dl-fv-side[data-evidence-design] .dl-fv-nav-btn.dl-fv-nav-btn-active { color: #fff; background: #0968d4; border-color: #0968d4; }
+.dl-fv-side[data-evidence-design] .dl-fv-nav-quarters { gap: 10px; }
+.dl-fv-side[data-evidence-design] .dl-fv-nav-back, .dl-fv-side[data-evidence-design] .dl-fv-nav-cross { margin-bottom: 10px; }
+.dl-fv-side[data-evidence-design] :is(summary,button,a,input):focus-visible { outline: 2px solid #1678ed; outline-offset: 2px; }
+@media screen and (min-width: 981px) {
+  /* Let the reader end after its actual evidence/tools instead of stretching to
+     the viewport when MD&A and Footnotes are collapsed. Long panels still get
+     their own scroll container, so a filing with many results remains usable. */
+  .dl-fv-side[data-evidence-design] { display: block; height: auto; max-height: calc(100dvh - 40px); overflow-y: auto; overflow-x: hidden; }
+  .dl-fv-side[data-evidence-design] .dl-sidebar-content { overflow: visible; scrollbar-gutter: auto; padding-right: 5px; }
+  .dl-fv-side[data-evidence-design] .dl-sidebar-tools { max-height: 35dvh; overflow-y: auto; overflow-x: hidden; padding-top: 10px; }
+  .dl-fv-side[data-evidence-design] .dl-sidebar-tools > .dl-fv-side-section { margin-bottom: 8px; }
+  .dl-fv-side[data-evidence-design] .dl-sidebar-tools > .dl-fv-side-section > summary { min-height: 44px; padding-top: 10px; padding-bottom: 10px; }
+  .dl-fv-side[data-evidence-design] .dl-sidebar-tools > :last-child { margin-bottom: 0; }
+  /* Keep long evidence sections compact: five entries are visible at rest. Hover
+     or keyboard focus reveals the remaining entries inside that section's own
+     scroll window, so the surrounding filing viewer layout does not grow. */
+  .dl-fv-side[data-evidence-design] .dl-evidence-row.dl-evidence-preview .dl-evidence-extra { display: none; }
+  .dl-fv-side[data-evidence-design] .dl-evidence-row.dl-evidence-preview:hover ul > li.dl-evidence-extra,
+  .dl-fv-side[data-evidence-design] .dl-evidence-row.dl-evidence-preview:focus-within ul > li.dl-evidence-extra { display: list-item; }
+  .dl-fv-side[data-evidence-design] .dl-evidence-row.dl-evidence-preview:hover .dl-fv-side-qa.dl-evidence-extra,
+  .dl-fv-side[data-evidence-design] .dl-evidence-row.dl-evidence-preview:focus-within .dl-fv-side-qa.dl-evidence-extra { display: block; }
+  .dl-fv-side[data-evidence-design] .dl-evidence-row.dl-evidence-preview:hover > .dl-fv-side-section-body,
+  .dl-fv-side[data-evidence-design] .dl-evidence-row.dl-evidence-preview:focus-within > .dl-fv-side-section-body {
+    max-height: min(42rem, calc(100vh - 260px));
+    overflow-y: auto;
+    scrollbar-gutter: stable;
+  }
+  .dl-evidence-reader .dl-theme-toggle { top: 16px; bottom: auto; }
+}
+@media screen and (min-width: 981px) and (max-width: 1180px) { .dl-fv-side[data-evidence-design] { width: 370px; padding: 0 14px 14px; } }
+@media screen and (max-width: 980px) {
+  .dl-fv-side[data-evidence-design] .dl-evidence-row.dl-evidence-preview .dl-evidence-extra { display: revert; }
+  .dl-mobile-reader .dl-fv-side[data-evidence-design] { width: auto; padding: 0 14px 20px; }
+  .dl-mobile-reader .dl-fv-side[data-evidence-design] .dl-fv-side-header { padding: 16px 50px 14px 0; }
+  .dl-mobile-reader .dl-fv-side[data-evidence-design] .dl-fv-side-header .dl-fv-nav-cross { grid-column: 1 / -1; grid-row: 3; justify-self: start; padding: 6px 0 0; }
+  .dl-mobile-reader .dl-fv-side[data-evidence-design] .dl-fv-search input { font-size: 16px; }
+  .dl-mobile-reader .dl-fv-side[data-evidence-design] .dl-fv-search { grid-template-columns: minmax(0,1fr) 38px 38px auto; }
+  .dl-mobile-reader .dl-fv-side[data-evidence-design] .dl-fv-search button { min-height: 44px; }
+  .dl-fv-side[data-evidence-design] .dl-evidence-heading { padding: 14px 12px; }
+}
+html[data-theme="dark"] .dl-fv-side[data-evidence-design] { color: #e1eaf5; background: #222a36; border-color: #3d4a5d; }
+html[data-theme="dark"] .dl-fv-side[data-evidence-design] :is(.dl-fv-side-header,.dl-evidence-card,.dl-evidence-row > summary,.dl-fv-nav-footer,.dl-fv-search-box) { background: #222a36; color: #e1eaf5; border-color: #3d4a5d; }
+html[data-theme="dark"] .dl-fv-side[data-evidence-design] .dl-fv-side-section > summary, html[data-theme="dark"] .dl-evidence-highlights { background: #293648; color: #dcecff; border-color: #43536a; }
+html[data-theme="dark"] .dl-fv-side[data-evidence-design] :is(.dl-evidence-excerpt,.dl-fv-search-box-label,.dl-fv-search-counter) { color: #c5d5eb; }
+html[data-theme="dark"] .dl-evidence-count { background: #35455e; color: #d3e6ff; }
+html[data-theme="dark"] .dl-fv-side[data-evidence-design] .dl-fv-nav-btn { background: #263347; color: #84bdff; border-color: #50617b; }
+@media print { .dl-fv-side[data-evidence-design] { display: none; } }
+</style><script>/* DocuLens evidence sidebar, v2.7.61. Move existing controls; preserve their listeners and source links. */
+(function () {
+  'use strict';
+  function init() {
+  var side = document.querySelector('.dl-fv-side');
+  if (!side || side.dataset.evidenceDesign) return !!side;
+  side.dataset.evidenceDesign = '2.7.59';
+  document.documentElement.classList.add('dl-evidence-reader');
+  var meta = window.__DL_DRAW_META__ || {};
+  var search = side.querySelector('#dl-search-input');
+  var searchBox = search && search.closest('.dl-fv-search-box');
+  var nav = side.querySelector('.dl-fv-nav-footer');
+  var header = side.querySelector('.dl-fv-side-header');
+  if (header) {
+    var headingText = header.querySelector('h2');
+    var note = header.querySelector('p');
+    if (headingText) headingText.textContent = 'Evidence';
+    if (note) note.textContent = 'Evidence linked to this source document';
+    var crossView = nav && nav.querySelector('.dl-fv-nav-cross');
+    if (crossView) header.appendChild(crossView);
+  }
+  var hover = side.querySelector('.dl-hover-scroll-toggle-label');
+  var content = document.createElement('div');
+  content.className = 'dl-sidebar-content';
+  content.setAttribute('aria-label', 'Evidence and research tools');
+  Array.from(side.children).forEach(function (child) {
+    if (child !== searchBox && child !== nav && child !== header && child !== hover) content.appendChild(child);
+  });
+  side.appendChild(content);
+  if (searchBox) side.appendChild(searchBox);
+  if (nav) side.appendChild(nav);
+
+  // The manifest is written before the report is made available. This shared
+  // reader runs in both server and browser-rendered filing/transcript viewers.
+  fetch('presentation_sources.json').then(function (response) {
+    if (!response.ok) return [];
+    return response.json();
+  }).then(function (decks) {
+    if (!Array.isArray(decks) || !decks.length) return;
+    var doc = String(meta.docLabel || '').replace(/_/g, ' ');
+    var year = (doc.match(/\b20\d{2}\b/) || [])[0];
+    var quarter = (doc.match(/\bQ([1-4])\b/i) || [])[1];
+    var matches = decks.filter(function (deck) {
+      return String(deck.year) === year && String(deck.quarter) === quarter &&
+        deck.url !== location.pathname.split('/').pop();
+    });
+    if (!matches.length) return;
+    var section = document.createElement('details');
+    section.className = 'dl-fv-side-section';
+    section.open = true;
+    var summary = document.createElement('summary');
+    summary.textContent = 'Earnings presentations';
+    section.appendChild(summary);
+    var body = document.createElement('div');
+    body.className = 'dl-fv-side-section-body';
+    matches.forEach(function (deck) {
+      if (!/^Presentation_[a-f0-9]{16}\.html$/.test(deck.url)) return;
+      var link = document.createElement('a');
+      link.className = 'dl-fv-nav-btn';
+      link.href = deck.url;
+      link.textContent = deck.label;
+      body.appendChild(link);
+    });
+    section.appendChild(body);
+    content.prepend(section);
+  }).catch(function () {});
+
+  function label(section) {
+    var summary = section.querySelector(':scope > summary');
+    return summary ? summary.textContent.replace(/\s+/g, ' ').trim() : '';
+  }
+  function cleanEntryText(text) {
+    return String(text || '')
+      .replace(/\b((?:Note|Item)\s+\d+)\s*[-–—]\s*/gi, '$1 — ')
+      .replace(/\s{2,}/g, ' ')
+      .trim();
+  }
+  function isKeyFinancialStatements(section) {
+    return section.classList.contains('dl-fv-key-financial-statements') ||
+      /^key financial statements$/i.test(label(section));
+  }
+  function isEvidence(section) {
+    if (isKeyFinancialStatements(section) ||
+        section.classList.contains('dl-tp-box') ||
+        section.classList.contains('dl-fv-side-section-kwx')) return false;
+    var title = label(section).replace(/[\u00a0\s]+/g, ' ').trim();
+    return /^(presentation evidence|what management said|management said|md&a|mda|footnotes?|equity research analyst questions|analyst questions|filing passages?)$/i.test(title) ||
+      (!!section.querySelector('a.dl-fv-side-link') && /^(what|management|md|foot|analyst|filing)/i.test(title));
+  }
+  function badge(count) {
+    var span = document.createElement('span');
+    span.className = 'dl-evidence-count';
+    span.textContent = String(count);
+    span.setAttribute('aria-label', count + ' evidence entries');
+    return span;
+  }
+  function rowCount(section) {
+    if (isKeyFinancialStatements(section)) return section.querySelectorAll('li').length;
+    var questions = section.querySelectorAll('.dl-fv-side-qa');
+    if (questions.length) return questions.length;
+    return Array.from(section.querySelectorAll('li')).filter(function (li) {
+      return li.closest('.dl-fv-side-section') === section && !li.parentElement.closest('li');
+    }).length;
+  }
+  function markPreviewEntries(section) {
+    var lists = section.querySelectorAll(':scope > .dl-fv-side-section-body > ul');
+    var visible = 0;
+    Array.from(lists).forEach(function (list) {
+      Array.from(list.children).forEach(function (item) {
+        if (visible < 5) visible += 1;
+        else item.classList.add('dl-evidence-extra');
+      });
+    });
+    var questions = section.querySelectorAll(':scope > .dl-fv-side-section-body > .dl-fv-side-qa');
+    Array.from(questions).forEach(function (item) {
+      if (visible < 5) visible += 1;
+      else item.classList.add('dl-evidence-extra');
+    });
+  }
+  function makeCard(container, name, heading) {
+    var sections = Array.from(container.children).filter(function (child) {
+      return child.matches('.dl-fv-side-section') && (isEvidence(child) || isKeyFinancialStatements(child));
+    });
+    if (!sections.length) return;
+    var card = document.createElement('details');
+    card.className = 'dl-evidence-card';
+    card.open = true;
+    var summary = document.createElement('summary');
+    summary.className = 'dl-evidence-heading';
+    if (!heading) {
+      heading = document.createElement('h2');
+      heading.className = 'dl-fv-side-topic-heading';
+      heading.textContent = name || 'Evidence';
+    }
+    summary.appendChild(heading);
+    var total = sections.reduce(function (n, section) { return n + rowCount(section); }, 0);
+    summary.appendChild(badge(total));
+    card.appendChild(summary);
+    var body = document.createElement('div');
+    body.className = 'dl-evidence-body';
+    sections.forEach(function (section) {
+      section.classList.add('dl-evidence-row');
+      section.open = true;
+      if (rowCount(section) > 5) {
+        section.classList.add('dl-evidence-preview');
+        markPreviewEntries(section);
+      }
+      var rowSummary = section.querySelector(':scope > summary');
+      var title = rowSummary.querySelector('.dl-fv-side-title');
+      if (title && /^what management said$/i.test(label(section))) {
+        Array.from(title.childNodes).forEach(function (node) {
+          if (node.nodeType === Node.TEXT_NODE) node.textContent = node.textContent.replace(/What management said/i, 'Management said');
+        });
+      }
+      rowSummary.appendChild(badge(rowCount(section)));
+      body.appendChild(section);
+    });
+    body.querySelectorAll('details').forEach(function (detail) { detail.open = true; });
+    card.appendChild(body);
+    container.prepend(card);
+  }
+
+  var groups = Array.from(content.querySelectorAll(':scope > .dl-fv-side-topic-group'));
+  if (groups.length) {
+    groups.forEach(function (group, i) {
+      var heading = group.querySelector(':scope > .dl-fv-side-topic-heading');
+      makeCard(group, heading && heading.textContent.trim(), heading);
+    });
+  } else {
+    makeCard(content, meta.topic, null);
+  }
+
+  var toolsPanel = document.createElement('div');
+  toolsPanel.className = 'dl-sidebar-tools';
+  Array.from(content.children).forEach(function (child) {
+    if (!child.matches('.dl-evidence-card,.dl-fv-side-topic-group')) toolsPanel.appendChild(child);
+  });
+  side.insertBefore(toolsPanel, searchBox || nav || null);
+
+  // Normalize generated viewer headings without touching evidence excerpts or
+  // stable IDs. Older saved viewers used all-caps topic headings, while newer
+  // viewers use title case; both should read consistently after this upgrade.
+  function normalizeHeadingText(root) {
+    var walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+    var nodes = [], node;
+    while ((node = walker.nextNode())) nodes.push(node);
+    nodes.forEach(function (textNode) {
+      textNode.textContent = textNode.textContent
+        .replace(/\bTOPIC SEARCH RESULTS\b/gi, 'Topic search results')
+        .replace(/\bIN KEY FINANCIAL STATEMENTS\b/gi, 'in key financial statements')
+        .replace(/\bKEY FINANCIAL STATEMENT METRICS\b/gi, 'Key financial statement metrics')
+        .replace(/\bKEY FINANCIAL STATEMENTS\b/gi, 'Key financial statements')
+        .replace(/^(\s*(?:\d+\.\s*)?)([a-z])/, function (_, prefix, letter) {
+          return prefix + letter.toUpperCase();
+        });
+    });
+  }
+  side.querySelectorAll('.dl-fv-side-title, .dl-fv-side-topic-heading, .dl-evidence-heading').forEach(normalizeHeadingText);
+  side.querySelectorAll('.dl-fv-side-link').forEach(function (link) {
+    link.textContent = cleanEntryText(link.textContent);
+    link.title = link.textContent;
+  });
+  side.querySelectorAll('summary').forEach(function (summary) {
+    summary.querySelectorAll('svg').forEach(function (svg) { svg.setAttribute('aria-hidden', 'true'); });
+  });
+  var version = document.querySelector('.dl-viewer-version');
+  if (!version) {
+    version = document.createElement('div');
+    version.className = 'dl-viewer-version';
+    document.body.appendChild(version);
+  }
+  version.textContent = 'DocuLens v2.7.114';
+
+  // At the top of a report the reader starts below its title; reserve that space too.
+  function fitSidebar() {
+    if (window.innerWidth <= 980) return;
+    var top = Math.max(20, side.getBoundingClientRect().top);
+    side.style.setProperty('--dl-sidebar-height', Math.max(240, window.innerHeight - top - 20) + 'px');
+  }
+  var pending = false;
+  function scheduleFit() {
+    if (pending) return;
+    pending = true;
+    window.requestAnimationFrame(function () { pending = false; fitSidebar(); });
+  }
+  window.addEventListener('scroll', scheduleFit, {passive: true});
+  window.addEventListener('resize', scheduleFit);
+  fitSidebar();
+  return true;
+  }
+
+  // Some served/client-rendered viewers append the filing shell after the
+  // inline assets execute.  A one-shot initializer silently left those pages
+  // with utility controls but no Evidence card or reader wiring.  Retry on
+  // DOM readiness and mutations, then disconnect once the shell is upgraded.
+  if (!init()) {
+    var observer = new MutationObserver(function () {
+      if (init()) observer.disconnect();
+    });
+    observer.observe(document.documentElement, {childList: true, subtree: true});
+    document.addEventListener('DOMContentLoaded', function () {
+      if (init()) observer.disconnect();
+    }, {once: true});
+  }
+})();
+</script></body></html>
