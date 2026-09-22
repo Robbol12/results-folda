@@ -1,0 +1,1551 @@
+<!doctype html><html class="dl-presentation-viewer" data-presentation-viewer="true" data-theme-default="light"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>TSLA Presentation Q3 2024</title><link rel="icon" type="image/png" sizes="128x128" href="/doculens_rounded_logo.png?v=3"><style>
+:root { color-scheme: light; }
+html, body { background: #dfe1e6; margin: 0; padding: 0; }
+/* Themed scrollbar matching this page's own light theme - same real user report as
+   the main report's dark-theme scrollbar (research_workflows._CORE_REPORT_CSS). */
+* { scrollbar-color: #c7cdd6 #eef0f3; scrollbar-width: thin; }
+::-webkit-scrollbar { width: 12px; height: 12px; }
+::-webkit-scrollbar-track { background: #eef0f3; }
+::-webkit-scrollbar-thumb { background: #c7cdd6; border-radius: 6px; border: 2px solid #eef0f3; }
+::-webkit-scrollbar-thumb:hover { background: #0a5ba8; }
+.dl-fv-shell { font-family: Arial, Helvetica, sans-serif; min-height: 100vh; }
+.dl-fv-head { max-width: 1360px; margin: 0 auto; padding: 32px 20px 0 20px; }
+.dl-fv-head h1 { font-size: 1.2rem; font-weight: 700; margin: 0 0 6px 0; color: #111; }
+.dl-fv-note { color: #666; font-size: 0.8rem; line-height: 1.5; margin: 0 0 20px 0; }
+.dl-fv-cols { max-width: 1360px; margin: 0 auto; padding: 0 20px 60px 20px; display: flex; gap: 22px; align-items: flex-start; }
+.dl-fv-native { flex: 1; min-width: 0; background: #fff; border: 1px solid #ccced4; box-shadow: 0 2px 14px rgba(0, 0, 0, 0.12); padding: 40px 48px; overflow-x: auto; }
+.dl-isolated-empty { margin: 18px 0; padding: 28px 22px; border: 1px dashed #b8c1cc; border-radius: 8px; background: #f8fafc; color: #667085; text-align: center; }
+/* Sidebar: a light "document viewer" panel (paper-toned, navy/blue accents), matching
+   the native filing pane's own light look next to it rather than standing apart as a
+   dark terminal - real user ask: the earlier black+amber Bloomberg-TERMINAL palette
+   read as a different product ("I don't like the Bloomberg color") from what was
+   actually wanted, a Bloomberg-DOCUMENT-VIEWER-style light reading pane. */
+/* Document-reader "boxes" layout - each sidebar section is its own bordered card,
+   rendered as a real <details>/<summary> (native collapse/expand, no JS needed) so
+   every section starts condensed and only the title bar shows until clicked open -
+   real user ask ("in the beginning they're all condensed, but you can open them
+   up"), since a sidebar with every section fully expanded got long fast on a wide
+   multi-quarter/multi-topic page. */
+.dl-fv-side { width: 380px; flex-shrink: 0; position: sticky; top: 20px; max-height: calc(100vh - 40px); overflow-y: auto; background: #fff; border: 1px solid #d7dee8; border-left: 3px solid #0a66c2; padding: 0 14px 14px 14px; box-shadow: 0 4px 18px rgba(20, 38, 64, 0.12); color: #243247; font-variant-numeric: tabular-nums; }
+.dl-fv-side-header { position: sticky; top: 0; z-index: 5; margin: 0 -14px 14px -14px; padding: 16px 16px 13px 16px; background: #fff; border-bottom: 1px solid #dfe6ee; }
+.dl-fv-side-header h2 { margin: 0; color: #142c48; font-size: 1.06rem; font-weight: 700; letter-spacing: -.01em; }
+.dl-fv-side-header p { margin: 4px 0 0 0; color: #6b7688; font-size: .72rem; line-height: 1.35; }
+/* Opt-in toggle for the primary "What management said" hover-scroll (see
+   _HOVER_PREVIEW_JS) - off by default. */
+.dl-hover-scroll-toggle-label { display: flex; align-items: center; gap: 7px; font-size: 0.72rem; color: #5b6472; margin: 0 2px 16px 2px; cursor: pointer; user-select: none; }
+.dl-hover-scroll-toggle-label input { cursor: pointer; }
+/* Real user report: after expanding one section (e.g. Key Financial Statements),
+   couldn't easily tell where it ended and the next collapsed section (Equity
+   Research Analyst Questions) began - 12px of gap plus an identical white
+   background/border on every card wasn't enough separation once one card grew
+   tall. Wider gap + each card now reads as its own distinct floating tile
+   (subtle shadow) instead of a seamless stack of same-colored boxes. */
+.dl-fv-side-section { margin-bottom: 14px; background: #fff; border: 1px solid #dfe6ee; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(20, 30, 50, 0.06); }
+.dl-fv-side-section:last-child { margin-bottom: 8px; }
+.dl-fv-side-section summary { cursor: pointer; list-style: none; font-size: 0.68rem; font-weight: 700; text-transform: none; letter-spacing: 0; color: #0a5ba8; padding: 9px 14px; background: #eef2f7; display: flex; align-items: center; justify-content: space-between; gap: 8px; }
+.dl-fv-side-section summary::-webkit-details-marker { display: none; }
+/* Icon-led section titles (_sidebar_icon/_sidebar_summary_html) - real user ask,
+   approved from a mockup: give each sidebar section a small leading icon instead
+   of plain text, same card shell otherwise. Icon inherits the summary's own text
+   color via currentColor, so it recolors for free with light/dark theme + the
+   per-topic multi-topic heading color override below. */
+.dl-fv-side-title { display: flex; align-items: center; gap: 8px; min-width: 0; }
+.dl-fv-side-icon { flex-shrink: 0; display: flex; }
+.dl-fv-side-icon svg { display: block; width: 14px; height: 14px; }
+/* Keyword sentences gets a teal accent (matches its own .dl-kwx-sentence link
+   color) instead of the shared blue every other section uses - real user
+   preference for this section over the old Company Keywords panel; a distinct
+   accent keeps it visually easy to find first in the sidebar. */
+.dl-fv-side-section-kwx summary { color: #0f766e; }
+.dl-fv-side-section-kwx[open] summary { border-bottom-color: #99e6d8; }
+.dl-fv-side-section-kwx summary::after { border-left-color: #0f766e; }
+/* A CSS-drawn triangle, not a Unicode glyph - a B8 escape here previously got
+   mangled (this CSS lives inside a Python string literal, and Python's OWN octal/hex
+   escape processing silently ate the backslash before the browser ever saw it -
+   confirmed via a real getComputedStyle(::after).content check showing garbage, not
+   a triangle). A border-triangle has no font-glyph-support or escaping risk at all. */
+.dl-fv-side-section summary::after {
+  content: ''; width: 0; height: 0; flex-shrink: 0;
+  border-top: 4px solid transparent; border-bottom: 4px solid transparent;
+  border-left: 5px solid #7a8a9a; transition: transform .15s ease;
+}
+.dl-fv-side-section[open] summary { border-bottom: 1px solid #dde1e7; }
+.dl-fv-side-section[open] summary::after { transform: rotate(90deg); }
+.dl-fv-side-section-body { padding: 12px 14px 14px 14px; }
+/* Universal three-level topic panel: topic-search evidence, statement locations,
+   then the compact metric summary. Keep the hierarchy explicit instead of nesting
+   filed-table controls beneath individual metrics. */
+.dl-fv-topic-section .dl-fv-side-summary { padding: 11px 14px; }
+.dl-fv-key-financial-statements > .dl-fv-side-section-body { padding: 10px; }
+.dl-fv-key-financial-statements > .dl-fv-side-section-body > .dl-fv-topic-section { margin-bottom: 12px; box-shadow: none; }
+.dl-fv-key-financial-statements > .dl-fv-side-section-body > .dl-fv-topic-section:last-child { margin-bottom: 0; }
+.dl-fv-topic-section .dl-fv-side-title { align-items: flex-start; }
+.dl-fv-topic-heading-wrap { display: flex; flex-direction: column; gap: 3px; min-width: 0; }
+.dl-fv-topic-heading { display: flex; align-items: center; gap: 6px; line-height: 1.25; }
+.dl-fv-topic-subtitle { color: #596579; font-size: .68rem; font-weight: 400; text-transform: none; letter-spacing: 0; line-height: 1.35; }
+.dl-fv-topic-help { display: inline-grid; place-items: center; width: 13px; height: 13px; border-radius: 50%; background: #0a66c2; color: #fff; font-size: .58rem; font-weight: 700; text-transform: none; letter-spacing: 0; }
+.dl-fv-topic-list { margin: 0 !important; padding: 0 !important; list-style: none; }
+.dl-fv-topic-row { display: grid; grid-template-columns: 10px minmax(0, 1fr); gap: 7px; align-items: start; margin: 0 !important; padding: 8px 0; border-bottom: 1px solid #e5e8ed; }
+.dl-fv-topic-row:last-child { border-bottom: none; }
+.dl-fv-topic-row > a, .dl-fv-topic-row > span:not(.dl-fv-topic-row-icon):not(.dl-fv-topic-row-meta) { min-width: 0; }
+.dl-fv-topic-row-icon { width: 8px; height: 10px; margin-top: 3px; border: 1px solid #0a66c2; border-radius: 1px; position: relative; color: #0a66c2; }
+.dl-fv-topic-row-icon::after { content: ''; position: absolute; left: 2px; right: 2px; bottom: 2px; height: 1px; background: currentColor; box-shadow: 0 -3px 0 currentColor; }
+.dl-fv-topic-statement-icon { border-color: #16834c; color: #16834c; }
+.dl-fv-topic-row-meta { grid-column: 2; color: #6b7688; font-size: .65rem; line-height: 1.35; }
+.dl-fv-topic-empty { margin: 0 !important; padding: 4px 0; color: #7a8699; font-size: .74rem; font-style: italic; list-style: none; }
+.dl-fv-topic-metric-row { grid-template-columns: minmax(0, 1fr); padding: 4px 0; line-height: 1.25; }
+.dl-fv-topic-metric-row > a { display: flex; align-items: center; gap: 7px; color: #243247; line-height: 1.25; }
+.dl-fv-topic-metric-arrow { display: inline-flex; min-width: 13px; }
+.dl-fv-topic-metric-link { display: flex; align-items: center; gap: 7px; }
+.dl-fv-topic-metric-label { flex: 1 1 auto; min-width: 0; }
+.dl-fv-topic-metric-value { flex: 0 0 auto; font-weight: 700; white-space: nowrap; }
+.dl-fv-topic-metric-link:hover { border-bottom-color: transparent !important; }
+/* Multi-topic filing viewer (write_filing_viewer_report's extra_topic_bundles) - one
+   of these wraps each recognized sub-topic's own stack of boxed sections (What
+   management said / Key Financial Statements / MD&A / Footnotes / What was asked),
+   color-coded to match that topic's highlight marks in the filing text
+   (mark.dl-cited[data-topic-idx]). Single-topic pages (the overwhelmingly common
+   case) never render this wrapper at all - the boxed sections above are unwrapped. */
+.dl-fv-side-topic-group { margin-bottom: 16px; background: #fff; border: 1px solid #d7dee8; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 8px rgba(20, 38, 64, 0.07); }
+.dl-fv-side-topic-group:last-of-type { margin-bottom: 10px; }
+.dl-fv-side-topic-group > .dl-fv-side-section { margin: 0; border: 0; border-top: 1px solid #e5eaf0; border-radius: 0; box-shadow: none; }
+.dl-fv-side-topic-heading { font-size: 0.94rem; font-weight: 700; margin: 0; padding: 14px 14px 10px 14px; border-bottom: 2px solid; color: #1c2430; }
+.dl-fv-side-group { margin-bottom: 12px; }
+.dl-fv-side-group:last-child { margin-bottom: 0; }
+.dl-fv-side-group h3 { font-size: 0.7rem; font-weight: 700; text-transform: uppercase; letter-spacing: .03em; color: #0a5ba8; margin: 0 0 6px 0; }
+.dl-fv-side ul { margin: 0; padding-left: 16px; }
+.dl-fv-side li { font-size: 0.8rem; line-height: 1.5; color: #384152; margin-bottom: 9px; }
+.dl-fv-side li:last-child { margin-bottom: 0; }
+.dl-fv-side-empty-note { font-size: 0.76rem; color: #7a8699; font-style: italic; margin: 0 0 8px 0; }
+/* "What was asked" - real analyst Q&A exchanges (research_workflows.parse_qa_exchanges),
+   the answer linked to filing evidence the same way "What management said" is. */
+.dl-fv-side-qa { margin-bottom: 14px; padding-bottom: 12px; border-bottom: 1px solid #e5e8ed; }
+.dl-fv-side-qa:last-child { margin-bottom: 0; padding-bottom: 0; border-bottom: none; }
+/* Line-clamp with hover-to-expand - REVERSED back from a prior "no clamp at all"
+   decision (that decision's own real user complaint - "hard to read the actual
+   answer" - is still honored: the full text is always present in the DOM, this only
+   visually collapses it, nothing is ever cut off or hidden behind a click). Real
+   follow-up user ask: "make it shorter and remember to only expand if mouse is
+   hovering." max-height clamps to roughly 3 lines; :hover lifts the clamp with a
+   smooth transition; the ::after gradient signals there's more to see without a
+   separate "show more" control to click. */
+.dl-fv-side-qa-q, .dl-fv-side-qa-a { max-height: 4.5em; overflow: hidden; position: relative; transition: max-height 0.25s ease; }
+.dl-fv-side-qa-q:hover, .dl-fv-side-qa-a:hover { max-height: 800px; }
+.dl-fv-side-qa-q::after, .dl-fv-side-qa-a::after { content: ''; position: absolute; left: 0; right: 0; bottom: 0; height: 1.4em; background: linear-gradient(to bottom, rgba(255,255,255,0), #fff); pointer-events: none; transition: opacity 0.15s ease; }
+.dl-fv-side-qa-q:hover::after, .dl-fv-side-qa-a:hover::after { opacity: 0; }
+.dl-fv-side-qa-q { font-size: 0.78rem; line-height: 1.5; color: #0a5ba8; font-weight: 600; margin-bottom: 5px; }
+.dl-fv-side-qa-a { font-size: 0.8rem; line-height: 1.5; color: #384152; }
+/* Honest note when a transcript genuinely has no per-question attribution (real
+   TSLA data characteristic for some quarters, not a bug - see parse_qa_exchanges's
+   docstring) - real user report: "not seeing names on the questions asked." */
+.dl-fv-qa-anon { font-style: italic; font-weight: 400; color: #8a93a3; }
+/* "Previously asked" - the same firm/analyst's other questions elsewhere in the
+   requested range (firm_question_history) - real user ask: "track who is asking
+   the questions so we can see a timeline of previous questions." Absent entirely
+   for anonymous-question transcripts (TSLA-style) or a firm that only asked once. */
+.dl-fv-side-qa-history { margin-top: 8px; padding: 8px 10px; background: #f3f5f8; border-left: 2px solid #c7cfda; }
+.dl-fv-side-qa-history-label { font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: #6b7688; margin-bottom: 5px; }
+.dl-fv-side-qa-history ul { margin: 0; padding-left: 14px; }
+.dl-fv-side-qa-history li { font-size: 0.74rem; line-height: 1.5; color: #4b5563; margin-bottom: 4px; }
+.dl-fv-side-qa-history li:last-child { margin-bottom: 0; }
+.dl-fv-side-qa-history-period { color: #0a5ba8; font-weight: 600; }
+/* Real user ask (enthusiastic reaction): a per-Q&A "Summarize" button - real
+   click-triggered gpt-4.1-mini call (_QA_SUMMARIZE_JS -> /api/summarize-qa ->
+   research_workflows.summarize_qa_exchange), not run automatically for every
+   entry in a report. */
+.dl-qa-toggle-btn, .dl-qa-summarize-btn, .dl-qa-summarize-all-btn { margin-top: 6px; padding: 3px 10px; font-size: 0.7rem; font-weight: 600; color: #0a5ba8; background: #eef4fb; border: 1px solid #c7d9ee; border-radius: 4px; cursor: pointer; }
+.dl-qa-toggle-btn:hover, .dl-qa-summarize-btn:hover, .dl-qa-summarize-all-btn:hover { background: #dfeaf9; }
+.dl-qa-toggle-btn:disabled, .dl-qa-summarize-btn:disabled, .dl-qa-summarize-all-btn:disabled { opacity: 0.6; cursor: default; }
+.dl-qa-toggle-btn { margin: 0 10px 10px 0; display: inline-block; }
+.dl-qa-summarize-all-btn { margin: 0 0 10px 0; display: inline-block; }
+.dl-qa-extra { display: none; }
+.dl-qa-group.dl-qa-expanded .dl-qa-extra { display: block; }
+.dl-qa-summary-result { margin-top: 6px; padding: 8px 10px; font-size: 0.76rem; line-height: 1.5; color: #1c2b3a; background: #f6f9fc; border-left: 2px solid #0a5ba8; white-space: pre-wrap; }
+.dl-qa-summary-result:empty { display: none; }
+.dl-qa-summary-result.dl-qa-summary-error { color: #a3311a; border-left-color: #a3311a; background: #fdf2ef; }
+/* Real user ask: after Summarize/Summarize all, the real question/answer text
+   shrinks down (still reachable via hover) instead of the summary just
+   tacking onto the bottom below the full original text. */
+.dl-qa-original { transition: max-height .25s ease, opacity .2s ease; }
+.dl-qa-summarized .dl-qa-original { max-height: 3em; overflow: hidden; opacity: 0.55; cursor: pointer; }
+.dl-qa-summarized .dl-qa-original:hover { max-height: 1000px; opacity: 1; }
+/* Real user concern: after a restored/persisted summary shows on top, it could
+   read as if it were the real verbatim quote instead of an AI-generated
+   condensation - this label removes the ambiguity. */
+.dl-qa-summary-badge { display: block; font-size: 0.65rem; font-weight: 700; text-transform: uppercase; letter-spacing: .05em; opacity: 0.7; margin-bottom: 3px; }
+a.dl-fv-side-link { color: #0a5ba8; text-decoration: none; border-bottom: 1px solid transparent; }
+a.dl-fv-side-link:hover { border-bottom-color: #0a5ba8; }
+.dl-fv-metric-relationships { margin: 6px 0 0 0; padding: 6px 8px; background: #f3f6fa; border-left: 2px solid #9bb8d6; }
+.dl-fv-metric-relationship-group { margin: 0 0 6px 0; }
+.dl-fv-metric-relationship-group:last-child { margin-bottom: 0; }
+.dl-fv-metric-relationship-group > summary { cursor: pointer; list-style: none; color: #0a5ba8; font-size: 0.7rem; font-weight: 700; }
+.dl-fv-metric-relationship-group > summary::-webkit-details-marker { display: none; }
+.dl-fv-metric-relationship-group > summary::before { content: '▸'; display: inline-block; margin-right: 4px; }
+.dl-fv-metric-relationship-group[open] > summary::before { transform: rotate(90deg); }
+.dl-fv-metric-relationship-group ul { margin-top: 5px; padding-left: 14px; }
+.dl-fv-metric-relationship-item { margin-bottom: 6px !important; font-size: 0.74rem !important; line-height: 1.35 !important; }
+.dl-fv-metric-relationship-item:last-child { margin-bottom: 0 !important; }
+.dl-fv-metric-relationship-meta, .dl-fv-metric-relationship-why { display: block; color: #6b7688; font-size: 0.67rem; line-height: 1.35; }
+.dl-fv-metric-relationship-why { font-style: italic; }
+.dl-fv-related-topics { margin-top: 6px; padding-top: 6px; border-top: 1px solid #dbe3ec; }
+.dl-fv-related-topics-title { color: #0a5ba8; font-size: 0.7rem; font-weight: 700; margin-bottom: 3px; }
+.dl-fv-related-topics ul { margin: 0; padding-left: 10px; list-style: none; }
+.dl-fv-related-topic { margin: 2px 0 !important; font-size: 0.74rem !important; }
+.dl-fv-trend { display: inline-block; margin-right: 5px; font-size: 0.65rem; color: #0a5ba8; }
+.dl-fv-trend.dl-trend-good { color: #16a34a; }
+.dl-fv-trend.dl-trend-bad { color: #dc2626; }
+mark.dl-cited { background: #fff3a3; padding: 0 1px; border-radius: 2px; }
+mark.dl-cited[data-concept] { cursor: help; box-shadow: inset 0 -2px 0 rgba(10, 91, 168, 0.55); }
+mark.dl-memory-anchor { background: #c7f9d4; padding: 0 1px; border-radius: 2px; box-shadow: inset 0 -2px 0 rgba(22, 101, 52, 0.55); }
+/* Multi-topic Core Research (research_workflows.build_filing_highlight_plan tags each
+   item with data-topic-idx) - every recognized sub-topic gets its own pale
+   highlighter tint so multiple topics ('gross margin', 'cogs', ...) are visually
+   distinguishable in the real filing text at a glance. Single-topic pages never set
+   data-topic-idx at all, so they're unaffected and keep the plain yellow above.
+   Real, confirmed bug this replaces: these 4 tints (yellow/pink/mint/light-blue)
+   didn't correspond by hue to research_workflows._TOPIC_SECTION_COLORS_LIGHT's own
+   5 heading colors (blue/amber/purple/green/pink) at all - topic 3's heading is
+   green but its mark was blue, topic 1's heading is amber but its mark was pink -
+   so a reader couldn't tell which highlighted passage belonged to which sidebar
+   heading by color, real user report: "make sure it follows the color of the thing
+   on the sidebar." Each pale tint below is now that SAME index's heading color,
+   just lightened - order/count matches _TOPIC_SECTION_COLORS_LIGHT exactly
+   (5 entries, not 4 - MAX_SPLIT_TOPICS is 5). */
+mark.dl-cited[data-topic-idx="0"] { background: #c9e0ff; }
+mark.dl-cited[data-topic-idx="1"] { background: #ffe0b3; }
+mark.dl-cited[data-topic-idx="2"] { background: #e3d1ff; }
+mark.dl-cited[data-topic-idx="3"] { background: #c3f0d8; }
+mark.dl-cited[data-topic-idx="4"] { background: #ffd1e3; }
+.dl-fv-nav-footer { margin: 4px 0 0 0; padding: 14px 0 6px 0; border-top: 1px solid #dfe6ee; position: sticky; bottom: 0; background: #fff; }
+/* Was "a.dl-fv-nav-btn" (anchor-only) - real, pre-existing bug this touch also
+   fixes: several real <button class="dl-fv-nav-btn"> elements (#dl-tp-run "Search
+   now", #tv-compare-toggle) never actually matched this tag-scoped selector at
+   all, rendering as bare unstyled browser buttons. Untagged so both real element
+   types get the same look. */
+.dl-fv-nav-btn { display: block; width: 100%; text-align: center; font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; color: #0a5ba8; background: #fff; border: 1px solid #dde1e7; border-radius: 5px; padding: 9px 10px; text-decoration: none; margin-bottom: 8px; font-family: inherit; cursor: pointer; }
+.dl-fv-nav-btn:hover { border-color: #0a5ba8; background: #eef2f7; }
+.dl-fv-nav-btn:last-child { margin-bottom: 0; }
+.dl-fv-nav-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+.dl-fv-nav-btn.dl-fv-nav-btn-active { color: #fff; background: #0a5ba8; border-color: #0a5ba8; }
+.dl-fv-nav-quarters { display: flex; gap: 8px; }
+.dl-fv-nav-quarters a.dl-fv-nav-btn { flex: 1; margin-bottom: 0; }
+:target { scroll-margin-top: 20px; }
+.dl-fv-native *:target { background: #ffde59 !important; }
+/* Hover-to-preview (_HOVER_PREVIEW_JS) - real user ask: hovering a "What management
+   said" quote should scroll to show where it's said, then return the reader to
+   where they were once they stop hovering, instead of a click that navigates away
+   and leaves them to scroll back manually themselves. .dl-preview-flash reuses the
+   same highlight color as the real :target flash above for one consistent "here's
+   what you're looking at" visual language. scroll-margin-top matters here too -
+   without it the sticky search bar can cover the very top of a freshly-scrolled-to
+   passage. */
+.dl-preview-flash { background: #ffde59 !important; scroll-margin-top: 20px; }
+.dl-hover-tip { position: absolute; z-index: 1000; background: #1c1c1c; color: #fff; font-family: Arial, Helvetica, sans-serif; font-size: 0.78rem; line-height: 1.5; padding: 10px 12px; border-radius: 6px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3); max-width: 260px; pointer-events: none; }
+.dl-hover-tip strong { display: block; margin-bottom: 4px; font-size: 0.8rem; }
+
+/* Hover-to-reveal multiple real matches for a "What management said" quote
+   (_semantic_filing_matches) - real user ask: "hover over it... it'll open the four
+   different things... you can click them and it'll send you to them." Shared by both
+   the filing viewer (matches are OTHER passages in this SAME filing) and the
+   transcript viewer (matches are passages on that quarter's filing-viewer page) -
+   same trigger badge + tooltip markup either way, just a different href target.
+   .dl-quote-match-tip reuses .dl-hover-tip's box styling but overrides pointer-events
+   so the reader can actually move into it and click a link, unlike the read-only
+   financial-figure comparison tooltip above. */
+.dl-quote-match-trigger { display: inline-block; margin-left: 6px; font-size: 0.72rem; font-weight: 600; color: #0a66c2; cursor: help; white-space: nowrap; }
+/* position: fixed (viewport-relative), not the base .dl-hover-tip's absolute
+   (document-relative) - real bug this fixes: hovering one of this tooltip's own
+   related links triggers _HOVER_PREVIEW_JS's auto-scroll-to-preview, which moves
+   the document out from under an absolutely-positioned tooltip, taking the
+   tooltip (and its other related links the reader wanted to hover next) off
+   screen with it. Fixed positioning means the tooltip stays exactly where the
+   reader is looking regardless of how far the underlying page scrolls. */
+.dl-quote-match-tip { position: fixed; pointer-events: auto; max-width: 320px; }
+.dl-quote-match-tip ul { list-style: none; margin: 0; padding: 0; }
+.dl-quote-match-tip li { margin-top: 8px; }
+.dl-quote-match-tip li:first-child { margin-top: 0; }
+.dl-quote-match-tip a { color: #8ec4ff; text-decoration: none; }
+.dl-quote-match-tip a:hover { text-decoration: underline; }
+.dl-quote-match-tip .dl-quote-match-score { color: #9aa3b0; font-size: 0.72rem; }
+mark.dl-cited[id] { cursor: pointer; }
+tr.dl-table-hit td, tr.dl-table-hit th { background: #fff3a3 !important; }
+/* Real user ask: move the search control out of the page header and into the
+   sidebar itself, below the prev/next-quarter nav buttons, in its own visually
+   distinct box - the sidebar is already position:sticky, so living inside it
+   means the search control naturally stays reachable while scrolling the native
+   pane without needing its own separate sticky logic (an earlier, now-removed
+   version of this fix pinned .dl-fv-search to the viewport directly). */
+.dl-fv-search-box { margin-top: 16px; padding: 12px; background: #fbfcfe; border: 1px solid #d7dee8; border-radius: 8px; }
+.dl-fv-search-box-label { display: flex; align-items: center; gap: 8px; font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: .08em; color: #6b7688; margin: 0 0 8px 0; }
+.dl-fv-search { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; }
+.dl-fv-search input { flex: 1; min-width: 0; padding: 8px 12px; border: 1px solid #ccced4; border-radius: 6px; font-size: 0.85rem; font-family: inherit; }
+.dl-fv-search input:focus { outline: none; border-color: #0a5ba8; }
+.dl-fv-search button { padding: 7px 11px; border: 1px solid #ccced4; background: #fff; border-radius: 6px; cursor: pointer; font-size: 0.85rem; color: #333; }
+.dl-fv-search button:hover { background: #f0f5fa; }
+.dl-fv-search-counter { font-size: 0.78rem; color: #666; min-width: 52px; }
+/* "Explore financial statements" quick-topic picker (_topic_picker_html) - real
+   user ask, lives directly above the search box (same .dl-fv-search-box shell
+   for visual consistency, just extra content). */
+.dl-tp-group { border: 1px solid #e5e8ed; border-radius: 6px; margin-bottom: 6px; }
+.dl-tp-group summary { padding: 7px 10px; font-size: 0.8rem; font-weight: 600; color: #1c2430; cursor: pointer; }
+.dl-tp-group-body { padding: 2px 10px 8px 10px; display: flex; flex-direction: column; gap: 4px; }
+.dl-tp-item { font-size: 0.8rem; color: #333; display: flex; align-items: center; gap: 6px; cursor: pointer; }
+.dl-tp-item input { cursor: pointer; }
+.dl-tp-item.dl-tp-item-disabled { color: #aaa; cursor: not-allowed; }
+#dl-tp-custom { width: 100%; padding: 7px 10px; border: 1px solid #ccced4; border-radius: 6px; font-size: 0.8rem; font-family: inherit; box-sizing: border-box; }
+#dl-tp-custom:focus { outline: none; border-color: #0a5ba8; }
+.dl-tp-count { font-size: 0.74rem; color: #6b7688; margin: 6px 0 8px 0; }
+.dl-tp-count.dl-tp-count-full { color: #a3311a; font-weight: 600; }
+#dl-tp-run { width: 100%; text-align: center; }
+#dl-tp-run:disabled { opacity: 0.5; cursor: not-allowed; }
+.dl-tp-status { font-size: 0.78rem; color: #6b7688; margin-top: 8px; min-height: 1.2em; }
+.dl-tp-status.dl-tp-status-error { color: #a3311a; }
+/* Real loading bar (mirrors static/app.js's own progress-track/progress-fill,
+   re-themed for this light sidebar background instead of that page's dark shell)
+   - real user ask: "I want an actual loading bar... like we have on the when you
+   first run the core research... doesn't have to be very descriptive... but I
+   want it to be pretty accurate" - _TOPIC_PICKER_JS drives the fill width from
+   the SAME real progress_cb stage list app.js already uses for /api/core-
+   research, not a fake/cycling animation. */
+.dl-tp-progress-track { height: 4px; background: #e5e8ed; border-radius: 999px; overflow: hidden; margin: 8px 0; display: none; }
+.dl-tp-progress-track.dl-tp-progress-active { display: block; }
+.dl-tp-progress-fill { height: 100%; width: 4%; border-radius: 999px; background: linear-gradient(90deg, #0a66c2, #44c8ff); transition: width 0.7s cubic-bezier(0.16, 1, 0.3, 1); }
+span.dl-search-hit { background: #cfe8ff; padding: 0 1px; border-radius: 2px; }
+/* "Keyword sentences" (_keyword_sentence_explorer_html) - real user ask: turn each
+   auto-derived company keyword into a real, expandable list of its own most
+   relevant real sentences on THIS page (not every raw occurrence - a common word
+   can appear hundreds of times), so a reader can read the sentences behind a
+   keyword without manually stepping through the in-page search one hit at a time.
+   Outer shell reuses .dl-fv-side-section's own <details>/chevron - real user ask
+   was specifically "a drop down." Nested .dl-kwx-row is a second, per-keyword
+   <details> inside that. Replaces the earlier standalone "Company keywords" chip
+   panel entirely (real user preference - "I like keyword sentences way more than
+   company keywords"). */
+.dl-kwx-rows { display: flex; flex-direction: column; gap: 6px; }
+.dl-kwx-row { background: #f4f6f9; border: 1px solid #e3e6eb; border-radius: 6px; }
+.dl-kwx-row summary { display: flex; align-items: center; justify-content: space-between; padding: 8px 12px; cursor: pointer; list-style: none; font-size: 0.82rem; color: #1c2430; }
+.dl-kwx-row summary::-webkit-details-marker { display: none; }
+.dl-kwx-name { font-weight: 600; }
+.dl-kwx-count { font-size: 0.72rem; color: #6b7688; font-weight: 600; font-variant-numeric: tabular-nums; }
+.dl-kwx-sentences { padding: 0 12px 12px 12px; border-top: 1px solid #e3e6eb; }
+/* .dl-kwx-sentence is a real <a href="#dl-kwx-N-M"> (hover-scrolls to that exact
+   sentence in the native document, via the same .dl-hover-scroll-link mechanism
+   MD&A/Footnote links already use) - real user ask: "make each of them be a
+   hyperlink thing, but don't make it blue like the other stuff." Teal, not the
+   site's usual link blue (#0a5ba8/.dl-fv-side-link) or the red/green trend colors
+   or the #ffde59 hover-scroll flash, so it reads as its own distinct affordance. */
+a.dl-kwx-sentence, p.dl-kwx-sentence { display: block; font-size: 0.82rem; line-height: 1.5; margin: 10px 0 0 0; padding-left: 10px; border-left: 2px solid #99e6d8; }
+a.dl-kwx-sentence { color: #0f766e; text-decoration: none; cursor: pointer; }
+a.dl-kwx-sentence:hover { text-decoration: underline; border-left-color: #0f766e; }
+p.dl-kwx-sentence-plain { color: #33394a; cursor: default; }
+.dl-kwx-caption { font-size: 0.7rem; color: #9aa4b2; margin: 10px 0 0 0; font-style: italic; }
+/* .dl-kwx-anchor marks where a Keyword Sentence actually sits in the native
+   document, real id only (for the hover-scroll target + the .dl-preview-flash
+   this mechanism already applies on hover) - no persistent visual treatment by
+   default, so these don't compete with real topic-evidence highlights
+   (.dl-cited) already marked in this same document. dl-kwx-anchor-active
+   (_KEYWORD_SENTENCE_HIGHLIGHT_JS) is the one exception - real user ask: "if
+   cost is closed then dont have any [highlight] but when cost is open make it
+   highlight the ones that relate to it" - toggled on only while that keyword's
+   own .dl-kwx-row is expanded, in the same teal as the sidebar link itself. */
+mark.dl-kwx-anchor { background: none; color: inherit; }
+mark.dl-kwx-anchor.dl-kwx-anchor-active { background: #99e6d8; color: #04342c; }
+/* Draw panel (_draw_annotation_panel_html/_DRAW_ANNOTATION_JS) - real, repeated
+   user ask: freehand annotation over the real filing/transcript document, saved
+   to a real per-document PDF. #dl-draw-canvas is appended INSIDE .dl-fv-native
+   (which gets position:relative from the JS) sized to its full scrollWidth/
+   scrollHeight (not just the viewport) so strokes stay anchored to the real
+   content position regardless of scroll. pointer-events stays "none" until Draw
+   mode is on, so normal reading/clicking/scrolling is completely unaffected the
+   rest of the time. */
+#dl-draw-canvas { position: absolute; top: 0; left: 0; pointer-events: none; touch-action: none; z-index: 5; }
+#dl-draw-canvas.dl-draw-canvas-active { pointer-events: auto; cursor: crosshair; }
+.dl-draw-row { display: flex; gap: 8px; margin-bottom: 10px; }
+.dl-draw-row .dl-fv-nav-btn { margin-bottom: 0; }
+.dl-draw-swatches { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 10px; }
+.dl-draw-swatch { width: 22px; height: 22px; border-radius: 50%; border: 2px solid transparent; padding: 0; cursor: pointer; }
+.dl-draw-swatch.dl-draw-swatch-active { border-color: #1c2430; box-shadow: 0 0 0 1px #fff; }
+.dl-draw-hint { font-size: 0.72rem; color: #6b7688; margin: 0 0 10px 0; }
+.dl-draw-status { font-size: 0.72rem; color: #6b7688; min-height: 1em; }
+span.dl-search-hit.dl-search-hit-active { background: #ffb347; }
+.dl-toast { position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%); background: #1c1c1c; color: #fff; padding: 10px 18px; border-radius: 6px; font-family: Arial, Helvetica, sans-serif; font-size: 0.85rem; z-index: 2000; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3); }
+@media (max-width: 980px) {
+  .dl-fv-cols { flex-direction: column; }
+  .dl-fv-side { width: 100%; position: static; max-height: none; }
+  .dl-fv-native { padding: 24px; }
+}
+
+.dl-theme-toggle { position: fixed; bottom: 20px; right: 20px; z-index: 3000; display: flex; gap: 2px; background: #1c1c1c; border-radius: 999px; padding: 4px; box-shadow: 0 4px 16px rgba(0, 0, 0, 0.35); font-family: Arial, Helvetica, sans-serif; }
+.dl-theme-btn { border: none; background: transparent; color: #9aa4b2; font-size: 0.72rem; font-weight: 600; padding: 7px 14px; border-radius: 999px; cursor: pointer; line-height: 1; }
+.dl-theme-btn.dl-theme-btn-active { background: #44c8ff; color: #10131a; }
+.dl-theme-btn:hover:not(.dl-theme-btn-active) { color: #fff; }
+@media (max-width: 600px) { .dl-theme-toggle { bottom: 12px; right: 12px; } }
+
+html[data-theme="dark"] { color-scheme: dark; background: #1b1e24; }
+html[data-theme="dark"] body { background: #1b1e24; }
+html[data-theme="dark"] * { scrollbar-color: #3a3f4a #1c1f26; }
+html[data-theme="dark"] ::-webkit-scrollbar-track { background: #1c1f26; }
+html[data-theme="dark"] ::-webkit-scrollbar-thumb { background: #3a3f4a; border-color: #1c1f26; }
+html[data-theme="dark"] ::-webkit-scrollbar-thumb:hover { background: #44c8ff; }
+html[data-theme="dark"] .dl-fv-head h1 { color: #fff; }
+html[data-theme="dark"] .dl-fv-note { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-native { background: #23272f; border: 1px solid #333844; box-shadow: 0 2px 14px rgba(0, 0, 0, 0.4); color: #dfe4ea; }
+html[data-theme="dark"] .dl-fv-side { background: #262a33; border: 1px solid #333844; border-left: 3px solid #44c8ff; color: #dfe4ea; }
+html[data-theme="dark"] .dl-fv-side-header { background: #262a33; border-bottom-color: #333844; }
+html[data-theme="dark"] .dl-fv-side-header h2 { color: #f4f7fb; }
+html[data-theme="dark"] .dl-fv-side-header p { color: #9aa4b2; }
+html[data-theme="dark"] .dl-hover-scroll-toggle-label { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-side-section { background: #2a2e39; border: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-side-section summary { color: #44c8ff; background: #2f333f; }
+html[data-theme="dark"] .dl-fv-side-section summary::after { border-left-color: #7a8699; }
+html[data-theme="dark"] .dl-fv-side-section[open] summary { border-bottom: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-topic-subtitle { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-topic-row { border-bottom-color: #3a3f4a; }
+html[data-theme="dark"] .dl-fv-topic-row-meta, html[data-theme="dark"] .dl-fv-topic-empty { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-topic-row-icon { border-color: #44c8ff; color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-topic-statement-icon { border-color: #5eead4; color: #5eead4; }
+html[data-theme="dark"] .dl-fv-topic-metric-row > a { color: #dfe4ea; }
+html[data-theme="dark"] .dl-fv-topic-help { background: #44c8ff; color: #1c2430; }
+/* Same rationale as the report's own topic-badge filter above: this heading's
+   color/border-color are inline styles from _TOPIC_SECTION_COLORS_LIGHT
+   (tuned for a light sidebar) - brighten instead of darken since going the
+   opposite direction (usable-on-light -> usable-on-dark). */
+html[data-theme="dark"] .dl-fv-side-topic-heading { filter: brightness(1.5) saturate(1.05); }
+html[data-theme="dark"] .dl-fv-side-topic-group { background: #2a2e39; border-color: #333844; }
+html[data-theme="dark"] .dl-fv-side-topic-group > .dl-fv-side-section { border: 0; border-top: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-side-group h3 { color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-side li { color: #cdd6e0; }
+html[data-theme="dark"] .dl-fv-side-empty-note { color: #7a8699; }
+html[data-theme="dark"] .dl-fv-side-qa { border-bottom: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-side-qa-q::after, html[data-theme="dark"] .dl-fv-side-qa-a::after { background: linear-gradient(to bottom, rgba(42,46,57,0), #2a2e39); }
+html[data-theme="dark"] .dl-fv-side-qa-q { color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-side-qa-a { color: #cdd6e0; }
+html[data-theme="dark"] .dl-fv-qa-anon { color: #7a8699; }
+html[data-theme="dark"] .dl-fv-side-qa-history { background: #262a33; border-left: 2px solid #3a3f4a; }
+html[data-theme="dark"] .dl-fv-side-qa-history-label { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-side-qa-history li { color: #cdd6e0; }
+html[data-theme="dark"] .dl-fv-side-qa-history-period { color: #44c8ff; }
+html[data-theme="dark"] .dl-qa-summarize-btn, html[data-theme="dark"] .dl-qa-summarize-all-btn { color: #44c8ff; background: #23272f; border: 1px solid #333844; }
+html[data-theme="dark"] .dl-qa-summarize-btn:hover, html[data-theme="dark"] .dl-qa-summarize-all-btn:hover { background: #2f333f; }
+html[data-theme="dark"] .dl-qa-summary-result { color: #dfe4ea; background: #23272f; border-left: 2px solid #44c8ff; }
+html[data-theme="dark"] .dl-qa-summary-result.dl-qa-summary-error { color: #f87171; border-left-color: #f87171; background: #2a2223; }
+html[data-theme="dark"] a.dl-fv-side-link { color: #44c8ff; }
+html[data-theme="dark"] a.dl-fv-side-link:hover { border-bottom-color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-metric-relationships { background: #23272f; border-left-color: #4a6b89; }
+html[data-theme="dark"] .dl-fv-metric-relationship-group > summary, html[data-theme="dark"] .dl-fv-related-topics-title { color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-metric-relationship-meta, html[data-theme="dark"] .dl-fv-metric-relationship-why { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-related-topics { border-top-color: #3a3f4a; }
+html[data-theme="dark"] .dl-fv-trend { color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-trend.dl-trend-good { color: #4ade80; }
+html[data-theme="dark"] .dl-fv-trend.dl-trend-bad { color: #f87171; }
+html[data-theme="dark"] .dl-quote-match-trigger { color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-nav-footer { border-top: 1px solid #333844; background: #262a33; }
+html[data-theme="dark"] .dl-fv-nav-btn { color: #44c8ff; background: #23272f; border: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-nav-btn:hover { border-color: #44c8ff; background: #2f333f; }
+html[data-theme="dark"] .dl-fv-nav-btn.dl-fv-nav-btn-active { color: #1c2430; background: #44c8ff; border-color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-search-box { background: #2a2e39; border: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-search-box-label { color: #9aa4b2; }
+html[data-theme="dark"] .dl-fv-search input { background: #1c1f26; color: #dfe4ea; border: 1px solid #333844; }
+html[data-theme="dark"] .dl-fv-search input:focus { border-color: #44c8ff; }
+html[data-theme="dark"] .dl-fv-search button { background: #1c1f26; border: 1px solid #333844; color: #dfe4ea; }
+html[data-theme="dark"] .dl-fv-search button:hover { background: #2f333f; }
+html[data-theme="dark"] .dl-fv-search-counter { color: #9aa4b2; }
+html[data-theme="dark"] .dl-tp-group { border: 1px solid #333844; }
+html[data-theme="dark"] .dl-tp-group summary { color: #dfe4ea; }
+html[data-theme="dark"] .dl-tp-item { color: #cdd6e0; }
+html[data-theme="dark"] .dl-tp-item.dl-tp-item-disabled { color: #5a6270; }
+html[data-theme="dark"] #dl-tp-custom { background: #1c1f26; color: #dfe4ea; border: 1px solid #333844; }
+html[data-theme="dark"] #dl-tp-custom:focus { border-color: #44c8ff; }
+html[data-theme="dark"] .dl-tp-count { color: #9aa4b2; }
+html[data-theme="dark"] .dl-kwx-row { background: #23272f; border: 1px solid #333844; }
+html[data-theme="dark"] .dl-kwx-row summary { color: #dfe4ea; }
+html[data-theme="dark"] .dl-kwx-count { color: #9aa4b2; }
+html[data-theme="dark"] .dl-kwx-sentences { border-top: 1px solid #333844; }
+html[data-theme="dark"] a.dl-kwx-sentence, html[data-theme="dark"] p.dl-kwx-sentence { border-left: 2px solid #1f8a76; }
+html[data-theme="dark"] a.dl-kwx-sentence { color: #5eead4; }
+html[data-theme="dark"] a.dl-kwx-sentence:hover { border-left-color: #5eead4; }
+html[data-theme="dark"] p.dl-kwx-sentence-plain { color: #cdd6e0; }
+html[data-theme="dark"] .dl-kwx-caption { color: #7a8699; }
+html[data-theme="dark"] .dl-fv-side-section-kwx summary { color: #5eead4; }
+html[data-theme="dark"] .dl-fv-side-section-kwx[open] summary { border-bottom-color: #1f8a76; }
+html[data-theme="dark"] .dl-fv-side-section-kwx summary::after { border-left-color: #5eead4; }
+html[data-theme="dark"] mark.dl-kwx-anchor.dl-kwx-anchor-active { background: #1f8a76; color: #eafff9; }
+html[data-theme="dark"] .dl-draw-swatch.dl-draw-swatch-active { border-color: #dfe4ea; box-shadow: 0 0 0 1px #23272f; }
+html[data-theme="dark"] .dl-draw-hint { color: #9aa4b2; }
+html[data-theme="dark"] .dl-draw-status { color: #9aa4b2; }
+html[data-theme="dark"] .dl-tp-status { color: #9aa4b2; }
+html[data-theme="dark"] .dl-tp-progress-track { background: #333844; }
+/* Pale "highlighter" backgrounds (mark.dl-cited, :target flash, search hits,
+   the transcript-compare diff highlight) work fine unchanged in dark mode -
+   pale-on-dark reads as a bright highlight, if anything more legible than
+   pale-on-light. What does NOT work unchanged is their TEXT: none of these
+   set their own color, so without this override they'd inherit the ambient
+   dark-mode text color (#dfe4ea, light gray) and land pale-gray-on-pale-
+   yellow - a real, direct repeat of the earlier illegible-highlight bug had
+   this been skipped. Force dark text specifically inside these highlighted
+   spans; their (unchanged) pale backgrounds do the rest. */
+html[data-theme="dark"] mark.dl-cited,
+html[data-theme="dark"] mark.dl-memory-anchor,
+html[data-theme="dark"] mark.dl-cited[data-topic-idx="1"],
+html[data-theme="dark"] mark.dl-cited[data-topic-idx="2"],
+html[data-theme="dark"] mark.dl-cited[data-topic-idx="3"],
+html[data-theme="dark"] mark.dl-cited[data-topic-idx="4"],
+html[data-theme="dark"] .dl-fv-native *:target,
+html[data-theme="dark"] .dl-preview-flash,
+html[data-theme="dark"] span.dl-search-hit,
+html[data-theme="dark"] span.dl-search-hit.dl-search-hit-active,
+html[data-theme="dark"] .dl-diff-chg,
+html[data-theme="dark"] .dl-diff-para-chg,
+html[data-theme="dark"] tr.dl-table-hit td,
+html[data-theme="dark"] tr.dl-table-hit th { color: #1c2430; }
+html[data-theme="dark"] .dl-tv-speaker { color: #8ec4ff; }
+html[data-theme="dark"] .dl-fv-side-xref { color: #44c8ff; }
+html[data-theme="dark"] .tv-compare-panel-inner { background: #23272f; border: 1px solid #333844; box-shadow: 0 2px 14px rgba(0, 0, 0, 0.4); }
+html[data-theme="dark"] .tv-compare-panel-inner h3 { color: #fff; }
+html[data-theme="dark"] .tv-compare-controls select { background: #1c1f26; color: #dfe4ea; border: 1px solid #333844; }
+html[data-theme="dark"] .tv-compare-col { background: #2a2e39; border: 1px solid #333844; color: #dfe4ea; }
+html[data-theme="dark"] .tv-compare-col-heading { color: #44c8ff; background: #2a2e39; }
+.dl-deck-slide{scroll-margin-top:24px;margin:0 auto 22px;max-width:100%}.dl-deck-page{position:relative;max-width:100%;margin:0 auto;line-height:0}.dl-deck-page>img{display:block;width:100%;height:auto;border:1px solid #d9e2ef;box-sizing:border-box}.dl-deck-highlights{position:absolute;inset:0;pointer-events:none}.dl-deck-highlight{position:absolute;display:block;background:rgba(245,158,11,.30);border:2px solid rgba(217,119,6,.82);border-radius:3px;box-shadow:0 0 0 1px rgba(255,255,255,.38),0 2px 8px rgba(125,75,0,.22);box-sizing:border-box}.dl-deck-highlight[data-topic-idx="1"]{background:rgba(124,58,237,.24);border-color:rgba(109,40,217,.75)}.dl-deck-highlight[data-topic-idx="2"]{background:rgba(21,128,61,.24);border-color:rgba(21,128,61,.75)}.dl-deck-highlight[data-topic-idx="3"]{background:rgba(14,116,144,.24);border-color:rgba(14,116,144,.75)}.dl-deck-highlight[data-topic-idx="4"]{background:rgba(190,24,93,.24);border-color:rgba(190,24,93,.75)}</style></head><body><div class="dl-fv-shell"><div class="dl-fv-head"><h1>TSLA Presentation Q3 2024</h1><p class="dl-fv-note">Original earnings presentation. Highlighted bands mark the exact cited text on the slide.</p></div><div class="dl-fv-cols"><div class="dl-fv-native"><section class="dl-deck-slide" id="slide-1"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-1.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-2"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-2.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-3"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-3.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-4"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-4.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-5"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-5.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"><span class="dl-deck-highlight" id="dl-thl-0-3" data-topic-idx="0" style="left:64.0838%;top:45.5087%;width:17.8764%;height:1.8212%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:66.2617%;top:46.6710%;width:15.9850%;height:0.5356%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:19.3093%;top:48.3830%;width:15.7772%;height:1.8576%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:23.8716%;top:49.8404%;width:8.3162%;height:0.5000%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:19.3104%;top:54.2043%;width:51.8057%;height:1.8576%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:19.9600%;top:55.4030%;width:47.2575%;height:0.5356%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:19.3104%;top:57.1150%;width:38.8488%;height:1.8576%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:19.9600%;top:58.5723%;width:35.5691%;height:0.5000%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:19.3104%;top:60.0257%;width:61.5337%;height:1.8576%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:19.9600%;top:61.4830%;width:61.2081%;height:0.5000%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:19.3104%;top:62.9727%;width:14.1470%;height:1.8212%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:19.9600%;top:64.3936%;width:8.8938%;height:0.5000%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:19.3104%;top:65.8833%;width:16.6089%;height:1.8212%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:19.9600%;top:67.3043%;width:12.0403%;height:0.5000%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:19.3104%;top:68.7576%;width:32.3018%;height:1.8576%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:19.9600%;top:70.2150%;width:28.4358%;height:0.5000%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:19.3161%;top:71.6804%;width:13.9847%;height:1.4695%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:24.1458%;top:73.1256%;width:7.0750%;height:0.5000%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:4.5835%;top:80.5653%;width:49.4950%;height:2.0718%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:23.1139%;top:81.5961%;width:0.3957%;height:0.5000%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:25.4255%;top:81.9943%;width:28.9193%;height:0.5356%" aria-label="Highlighted presentation evidence"></span></div></div></section><section class="dl-deck-slide" id="slide-6"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-6.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-7"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-7.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-8"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-8.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-9"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-9.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"><span class="dl-deck-highlight" id="dl-thl-0-0" data-topic-idx="0" style="left:4.6210%;top:32.1107%;width:15.7780%;height:1.8475%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:8.1185%;top:33.5559%;width:8.2780%;height:0.5000%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:4.6293%;top:37.9199%;width:44.3204%;height:1.8576%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:6.4588%;top:39.1185%;width:42.7956%;height:0.5356%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:4.6395%;top:40.8305%;width:22.3250%;height:1.8576%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:5.6094%;top:42.0292%;width:21.6223%;height:0.5356%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" id="dl-thl-0-2" data-topic-idx="0" style="left:4.5755%;top:65.8303%;width:9.6715%;height:1.4695%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:8.9220%;top:67.2755%;width:2.3797%;height:0.5000%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:4.6293%;top:71.6395%;width:43.5631%;height:1.8576%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:6.4585%;top:72.8381%;width:42.0599%;height:0.5356%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:4.6179%;top:74.9908%;width:6.4539%;height:1.4008%" aria-label="Highlighted presentation evidence"></span><span class="dl-deck-highlight" data-topic-idx="0" style="left:11.1662%;top:75.7569%;width:0.2000%;height:0.5000%" aria-label="Highlighted presentation evidence"></span></div></div></section><section class="dl-deck-slide" id="slide-10"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-10.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-11"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-11.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-12"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-12.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-13"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-13.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-14"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-14.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-15"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-15.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-16"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-16.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-17"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-17.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-18"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-18.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-19"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-19.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-20"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-20.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-21"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-21.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-22"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-22.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-23"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-23.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-24"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-24.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-25"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-25.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-26"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-26.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-27"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-27.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-28"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-28.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-29"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-29.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-30"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-30.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-31"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-31.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section><section class="dl-deck-slide" id="slide-32"><div class="dl-deck-page" style="width:3167px"><img src="Presentation_bd9905d9a5067047-slide-32.jpg" width="3167" height="1782" loading="lazy" alt="Original earnings presentation page"><div class="dl-deck-highlights"></div></div></section></div><div class="dl-fv-side"><div class='dl-fv-side-header'><h2>Evidence</h2><p>Evidence linked to this filing and transcript</p></div><label class='dl-hover-scroll-toggle-label'><input type='checkbox' id='dl-hover-scroll-toggle'> Auto-scroll on hover</label><div class="dl-fv-side-topic-group"><h2 class="dl-fv-side-topic-heading">gross margin</h2><details class='dl-fv-side-section' open><summary class='dl-fv-side-summary'><span class='dl-fv-side-title'><span class='dl-fv-side-icon'><svg viewBox='0 0 24 24' width='14' height='14'><path fill="currentColor" d="M9.5 6C7 6 5 8.2 5 11v5.5c0 .8.7 1.5 1.5 1.5H10c.8 0 1.5-.7 1.5-1.5V13c0-.8-.7-1.5-1.5-1.5H7.5C7.7 9 8.5 8 9.5 8V6zm9 0C16 6 14 8.2 14 11v5.5c0 .8.7 1.5 1.5 1.5H19c.8 0 1.5-.7 1.5-1.5V13c0-.8-.7-1.5-1.5-1.5h-2.5c.2-2.5 1-3.5 2-3.5V6z"/></svg></span>Presentation evidence</span></summary><div class='dl-fv-side-section-body'><ul><li><a class="dl-fv-side-link dl-hover-scroll-link" href="#dl-thl-0-0">&ldquo;Energy Generation and Storage The Energy business achieved a record gross margin of 30.5% in Q3, a sequential increase of 596 bps, despite lower Megapack volumes.&rdquo;</a></li><li>&ldquo;Cash Operating cash flow of $6.3B in Q3 Free cash flow 2 of $2.7B in Q3 $2.9B increase in our cash and investments 3 in Q3 to $33.6B Operations Increased AI training compute by over 75% in Q3 Cybertruck became the third best -selling EV in Q3 in the U.S. (behind only Model Y and Model 3) Over two billion miles driven cumulatively on FSD (Supervised) 4 as of Q3 with more than 50% on V12 3 [Page 4] F I N A N C I A L S U M M A R Y (Unaudited) ($ in millions, except percentages and per share data) Q3-2023 Q4-2023 Q1-2024 Q2-2024 Q3-2024 YoY Total automotive revenues 19,625 21,563 17,378 19,878 20,016 2% Energy generation and storage revenue 1,559 1,438 1,635 3,014 2,376 52% Services and other revenue 2,166 2,166 2,288 2,608 2,790 29% Total revenues 23,350 25,167 21,301 25,500 25,182 8% Total gross profit 4,178 4,438 3,696 4,578 4,997 20% Total GAAP gross margin 17.9% 17.6% 17.4% 18.0% 19.8% 195 bp Operating expenses 2,414 2,374 2,525 2,973 2,280 -6% Income from operations 1,764 2,064 1,171 1,605 2,717 54% Operating margin 7.6% 8.2% 5.5% 6.3% 10.8% 323 bp Adjusted EBITDA 3,758 3,953 3,384 3,674 4,665 24% Adjusted EBITDA margin 16.1% 15.7% 15.9% 14.4% 18.5% 243 bp Net income attributable to common stockholders (GAAP) 1,853 7,928 1,129 1,478 2,167 17% Net income attributable to common stockholders (non-GAAP) 2,318 2,485 1,536 1,812 2,505 8% EPS attributable to common stockholders, diluted (GAAP) 0.53 2.27 0.34 0.42 0.62 17% EPS attributable to common stockholders, diluted (non-GAAP) 0.66 0.71 0.45 0.52 0.72 9% Net cash provided by operating activities 3,308 4,370 242 3,612 6,255 89% Capital expenditures (2,460) (2,306) (2,773) (2,270) (3,513) 43% Free cash flow 848 2,064 (2,531) 1,342 2,742 223% Cash, cash equivalents and investments 26,077 29,094 26,863 30,720 33,648 29% 4 [Page 5] F I N A N C I A L S U M M A R Y Revenue Total revenue increased 8% YoY in Q3 to $25.2B.&rdquo;</li><li><a class="dl-fv-side-link dl-hover-scroll-link" href="#dl-thl-0-2">&ldquo;Services and Other The Services and Other business achieved a record gross profit in Q3, growing over 90% year-on-year.&rdquo;</a></li><li><a class="dl-fv-side-link dl-hover-scroll-link" href="#dl-thl-0-3">&ldquo;YoY, operating income was primarily impacted by the following items: + lower cost per vehicle, including lower raw material costs, freight and duties and other one -time charges + growth in Energy Generation and Storage and Services and Other gross profit + higher FSD revenue recognition YoY for releases related to Cybertruck and certain features such as Actually Smart Summon + growth in vehicle deliveries + higher regulatory credit revenue + decrease in operating expenses including cost -reduction efforts - reduced S3XY vehicle ASP Cash Quarter-end cash, cash equivalents and investments in Q3 was $33.6B.&rdquo;</a></li></ul></div></details></div><div class='dl-fv-nav-footer'><a class="dl-fv-nav-btn" href="filing_10-q-q3-2024.html">View SEC filing</a><a class="dl-fv-nav-btn" href="transcript_tsla-q3-2024.html">View transcript</a><a class="dl-fv-nav-btn" href="Presentation_bd9905d9a5067047.pdf" download target="_blank" rel="noopener">Download original deck</a><a class="dl-fv-nav-btn" href="https://digitalassets.tesla.com/tesla-contents/image/upload/IR/TSLA-Q3-2024-Update.pdf" target="_blank" rel="noopener">Company IR source</a><a class='dl-fv-nav-btn dl-fv-nav-back' href='Core_Research_Report.html'>&larr; Back to report</a></div><details class='dl-fv-side-section'><summary class='dl-fv-side-summary'><span class='dl-fv-side-title'><span class='dl-fv-side-icon'><svg viewBox='0 0 24 24' width='14' height='14'><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M15 5l4 4L8 20H4v-4z M13.5 6.5l4 4"/></svg></span>Draw</span></summary><div class='dl-fv-side-section-body'><div class='dl-draw-row'><button type='button' id='dl-draw-toggle' class='dl-fv-nav-btn'>Start drawing</button><button type='button' id='dl-draw-clear' class='dl-fv-nav-btn'>Clear</button></div><div class='dl-draw-swatches'><button type='button' class='dl-draw-swatch dl-draw-swatch-active' style='background:#e11d48;' data-color='#e11d48' aria-label='Color #e11d48'></button><button type='button' class='dl-draw-swatch' style='background:#f59e0b;' data-color='#f59e0b' aria-label='Color #f59e0b'></button><button type='button' class='dl-draw-swatch' style='background:#22c55e;' data-color='#22c55e' aria-label='Color #22c55e'></button><button type='button' class='dl-draw-swatch' style='background:#0ea5e9;' data-color='#0ea5e9' aria-label='Color #0ea5e9'></button><button type='button' class='dl-draw-swatch' style='background:#a855f7;' data-color='#a855f7' aria-label='Color #a855f7'></button><button type='button' class='dl-draw-swatch' style='background:#111827;' data-color='#111827' aria-label='Color #111827'></button></div><div class='dl-draw-row'><button type='button' class='dl-fv-nav-btn dl-draw-width-btn dl-draw-width-active' data-width='3'>Pen</button><button type='button' class='dl-fv-nav-btn dl-draw-width-btn' data-width='16'>Highlighter</button></div><p class='dl-draw-hint'>Save as PDF only exports the pages you've marked.</p><button type='button' id='dl-draw-save-pdf' class='dl-fv-nav-btn'>Save as PDF</button><button type='button' id='dl-draw-print-pdf' class='dl-fv-nav-btn'>Print / vector PDF</button><div class='dl-draw-status' id='dl-draw-status'></div></div></details></div></div></div><div class='dl-theme-toggle' role='group' aria-label='Color theme'><button type='button' class='dl-theme-btn' data-theme-choice='dark'>Dark</button><button type='button' class='dl-theme-btn' data-theme-choice='light'>Light</button></div><script>window.__DL_DRAW_META__ = {"ticker": "TSLA", "docLabel": "TSLA Presentation Q3 2024", "topic": "gross margin"};</script><div class="dl-report-version">DocuLens v2.7.130</div><script>
+(function() {
+  var originalScrollY = null, revertTimer = null, flashEl = null;
+  // ONE toggle now gates every .dl-hover-scroll-link on the page (What management
+  // said, MD&A, Footnotes, Equity Research Analyst Questions, the semantic-match
+  // tooltip's own links) - real follow-up user ask: "fix the autoscroll make it
+  // apply to everything." Earlier version split this into an always-on group and
+  // a toggle-gated group, which read as inconsistent (some links auto-scrolled,
+  // others didn't, for no visible reason) - a single on/off switch is simpler and
+  // matches what was actually asked. Off by default - the ORIGINAL real user
+  // complaint this checkbox exists for was that auto-scroll-on-every-hover was
+  // too intrusive while just reading normally.
+  var gateToggle = document.getElementById('dl-hover-scroll-toggle');
+
+  function clearFlash() {
+    if (flashEl) { flashEl.classList.remove('dl-preview-flash'); flashEl = null; }
+  }
+
+  function revert() {
+    clearFlash();
+    if (originalScrollY !== null) {
+      window.scrollTo({ top: originalScrollY, behavior: 'smooth' });
+      originalScrollY = null;
+    }
+    window.__DL_PREVIEW_ACTIVE__ = false;
+  }
+
+  function findLink(e) {
+    if (!gateToggle || !gateToggle.checked) return null;
+    return e.target.closest && e.target.closest('.dl-hover-scroll-link[href^="#"]');
+  }
+
+  document.addEventListener('mouseover', function(e) {
+    var link = findLink(e);
+    if (!link) return;
+    var target;
+    try { target = document.querySelector(link.getAttribute('href')); } catch (err) { return; }
+    if (!target) return;
+    clearTimeout(revertTimer);
+    if (originalScrollY === null) originalScrollY = window.scrollY;
+    clearFlash();
+    flashEl = target;
+    flashEl.classList.add('dl-preview-flash');
+    // Tells _QUOTE_MATCH_TOOLTIP_JS's scroll listener this scroll is OUR OWN
+    // intentional preview, not the reader scrolling away - so it doesn't close
+    // the very tooltip whose related link just triggered this scroll.
+    window.__DL_PREVIEW_ACTIVE__ = true;
+    target.scrollIntoView({ behavior: 'smooth', block: 'center' });
+  });
+
+  document.addEventListener('mouseout', function(e) {
+    // Not gated on the toggle here (unlike findLink) - once a preview has
+    // started, moving off it should always revert even if the toggle flipped
+    // mid-hover.
+    var link = e.target.closest && e.target.closest('.dl-hover-scroll-link[href^="#"]');
+    if (!link) return;
+    clearTimeout(revertTimer);
+    revertTimer = setTimeout(revert, 200);
+  });
+})();
+</script><script>
+(function() {
+  function showToast(msg) {
+    var existing = document.querySelector('.dl-toast');
+    if (existing) existing.remove();
+    var toast = document.createElement('div');
+    toast.className = 'dl-toast';
+    toast.textContent = msg;
+    document.body.appendChild(toast);
+    setTimeout(function() { toast.remove(); }, 1800);
+  }
+
+  document.addEventListener('click', function(e) {
+    var mark = e.target.closest && e.target.closest('mark.dl-cited[id]');
+    if (!mark) return;
+    var url = location.origin + location.pathname + '#' + mark.id;
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(url).then(function() {
+        showToast('Link to this passage copied');
+      }, function() {
+        showToast('Could not copy link');
+      });
+    }
+  });
+})();
+</script><script>
+(function() {
+  function openBySummaryText(text) {
+    document.querySelectorAll('details.dl-fv-side-section > summary').forEach(function(s) {
+      if (s.textContent.trim() === text) s.parentElement.open = true;
+    });
+  }
+
+  function openContainingDetails() {
+    if (!location.hash) return;
+    var target;
+    try { target = document.querySelector(location.hash); } catch (err) { return; }
+    if (!target) return;
+    var details = target.closest && target.closest('details');
+    while (details) {
+      details.open = true;
+      details = details.parentElement && details.parentElement.closest('details');
+    }
+    // The mark this hash lands on lives in the main/native transcript or filing
+    // body, NOT inside a sidebar <details> - the sidebar is a SEPARATE list of
+    // links pointing at these same marks, so the ancestor walk above never
+    // actually reaches it. Real user bug: landing via a "Previously asked"
+    // cross-page Q&A link showed the right spot in the main pane (already
+    // working) but left "Equity Research Analyst Questions" collapsed, so the
+    // curated question/answer view wasn't visible without a manual click -
+    // matched here by the real dl-qaj-N-q/dl-qaj-N-a id scheme those jump links
+    // use (see write_transcript_viewer_report).
+    if (/^#dl-qaj-/.test(location.hash)) {
+      openBySummaryText('Equity Research Analyst Questions');
+    }
+    target.scrollIntoView({ block: 'center' });
+  }
+  // The transcript viewer's analyst-question section is also a navigation target:
+  // clicking its summary should take the reader to the first real Q&A exchange in
+  // the native transcript pane, not merely expand/collapse the sidebar card.
+  document.addEventListener('click', function(e) {
+    var summary = e.target.closest && e.target.closest('summary[data-qa-jump-target]');
+    if (!summary) return;
+    var targetId = summary.getAttribute('data-qa-jump-target');
+    var target = targetId && document.getElementById(targetId);
+    if (!target) return;
+    e.preventDefault();
+    if (summary.parentElement) summary.parentElement.open = true;
+    if (location.hash !== '#' + targetId) history.pushState(null, '', '#' + targetId);
+    target.scrollIntoView({ block: 'center' });
+  });
+  // 'load' (not 'DOMContentLoaded') for the initial jump - real bug: DOMContentLoaded
+  // fires before a real SEC filing's embedded images/tables finish loading and the
+  // page's layout has fully settled, so scrollIntoView computed against that
+  // still-shifting layout landed short of the real target (looked like "jumps to the
+  // top of the Item instead of the highlighted quote" - the quote is further down the
+  // page than the position computed before layout stabilized). hashchange (in-page,
+  // no reload) already fires long after the page has settled, so it's unaffected.
+  window.addEventListener('load', openContainingDetails);
+  window.addEventListener('hashchange', openContainingDetails);
+})();
+</script><script>
+(function() {
+  var native = document.querySelector('.dl-fv-native');
+  if (!native) return;
+  native.style.position = 'relative';
+
+  var canvas = document.createElement('canvas');
+  canvas.id = 'dl-draw-canvas';
+   // Keep the annotation surface viewport-sized. A full-document transparent
+   // canvas works for short 10-Qs but can exceed Chrome's compositor budget on a
+   // long 10-K, turning the filing pane white as soon as drawing is enabled.
+   // Strokes remain in native-document coordinates and are projected into this
+   // small surface while the page scrolls.
+   canvas.style.display = 'none';
+   canvas.style.position = 'fixed';
+   canvas.style.top = '0';
+   function sizeCanvas() {
+     if (canvas.style.display === 'none') return;
+     var rect = native.getBoundingClientRect();
+     var dpr = Math.min(2, window.devicePixelRatio || 1);
+     canvas.style.left = rect.left + 'px';
+     canvas.style.width = rect.width + 'px';
+     canvas.style.height = window.innerHeight + 'px';
+     canvas.width = Math.max(1, Math.ceil(rect.width * dpr));
+     canvas.height = Math.max(1, Math.ceil(window.innerHeight * dpr));
+     ctx = canvas.getContext('2d');
+     ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+     redraw();
+   }
+  native.appendChild(canvas);
+  var ctx = canvas.getContext('2d');
+
+  var strokes = [];
+  var currentStroke = null;
+  var activeColor = '#e11d48';
+  var activeWidth = 3;
+  var drawing = false;
+
+  // Real user report: drawing "lags behind." redraw() used to run on EVERY
+  // pointermove - clearing the WHOLE canvas (which can be 50,000+ px tall for
+  // a real full filing) and repainting every past stroke from scratch, on
+  // every single mouse-move event. Only ever needed for sizeCanvas (fresh
+  // canvas) and Clear (nothing left to paint) - normal drawing now paints just
+  // the ONE new line segment directly onto the existing bitmap (drawSegment),
+  // which is O(1) per move instead of O(total strokes so far) and doesn't
+  // touch pixels outside that segment at all - no full-canvas clear/redraw in
+  // the hot path, without changing what actually gets recorded/exported.
+  function redraw() {
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    strokes.forEach(function(s) { paintStroke(s); });
+  }
+
+  function paintStroke(s) {
+    if (s.points.length < 2) return;
+    var rect = native.getBoundingClientRect();
+    var scrollX = native.scrollLeft || 0;
+    ctx.strokeStyle = s.color;
+    ctx.lineWidth = s.width;
+    ctx.lineCap = 'round';
+    ctx.lineJoin = 'round';
+    ctx.globalAlpha = s.width > 8 ? 0.4 : 1;
+    ctx.beginPath();
+    ctx.moveTo(s.points[0].x - scrollX, s.points[0].y + rect.top);
+    for (var i = 1; i < s.points.length; i++) ctx.lineTo(s.points[i].x - scrollX, s.points[i].y + rect.top);
+    ctx.stroke();
+    ctx.globalAlpha = 1;
+  }
+
+  function drawSegment(color, width, p0, p1) {
+    var rect = native.getBoundingClientRect();
+    var scrollX = native.scrollLeft || 0;
+    ctx.strokeStyle = color;
+    ctx.lineWidth = width;
+    ctx.lineCap = 'round';
+    ctx.lineJoin = 'round';
+    ctx.globalAlpha = width > 8 ? 0.4 : 1;
+    ctx.beginPath();
+    ctx.moveTo(p0.x - scrollX, p0.y + rect.top);
+    ctx.lineTo(p1.x - scrollX, p1.y + rect.top);
+    ctx.stroke();
+    ctx.globalAlpha = 1;
+  }
+
+  function pointFromEvent(e) {
+    var rect = canvas.getBoundingClientRect();
+    var nativeRect = native.getBoundingClientRect();
+    return { x: e.clientX - nativeRect.left + (native.scrollLeft || 0), y: e.clientY - nativeRect.top };
+  }
+
+  canvas.addEventListener('pointerdown', function(e) {
+    if (!drawing) return;
+    var r = native.getBoundingClientRect();
+    if (e.clientX < r.left || e.clientX > r.right || e.clientY < r.top || e.clientY > r.bottom) return;
+    currentStroke = { color: activeColor, width: activeWidth, points: [pointFromEvent(e)] };
+    canvas.setPointerCapture(e.pointerId);
+  });
+  canvas.addEventListener('pointermove', function(e) {
+    if (!drawing || !currentStroke) return;
+    var prev = currentStroke.points[currentStroke.points.length - 1];
+    var pt = pointFromEvent(e);
+    currentStroke.points.push(pt);
+    drawSegment(currentStroke.color, currentStroke.width, prev, pt);
+  });
+  function endStroke() {
+    if (currentStroke && currentStroke.points.length > 1) strokes.push(currentStroke);
+    currentStroke = null;
+  }
+  canvas.addEventListener('pointerup', endStroke);
+  canvas.addEventListener('pointercancel', endStroke);
+
+  var toggleBtn = document.getElementById('dl-draw-toggle');
+  var clearBtn = document.getElementById('dl-draw-clear');
+  var swatches = document.querySelectorAll('.dl-draw-swatch');
+  var widthBtns = document.querySelectorAll('.dl-draw-width-btn');
+  var saveBtn = document.getElementById('dl-draw-save-pdf');
+  var printBtn = document.getElementById('dl-draw-print-pdf');
+  var statusEl = document.getElementById('dl-draw-status');
+
+  if (toggleBtn) {
+    toggleBtn.addEventListener('click', function() {
+    drawing = !drawing;
+      if (drawing) {
+        canvas.style.display = 'block';
+        sizeCanvas();
+      } else if (!strokes.length) {
+        canvas.style.display = 'none';
+      }
+      canvas.classList.toggle('dl-draw-canvas-active', drawing);
+      toggleBtn.textContent = drawing ? 'Stop drawing' : 'Start drawing';
+      toggleBtn.classList.toggle('dl-fv-nav-btn-active', drawing);
+    });
+  }
+  if (clearBtn) {
+    clearBtn.addEventListener('click', function() {
+      strokes = [];
+      redraw();
+    });
+  }
+  swatches.forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      activeColor = btn.dataset.color;
+      swatches.forEach(function(b) { b.classList.remove('dl-draw-swatch-active'); });
+      btn.classList.add('dl-draw-swatch-active');
+    });
+  });
+  widthBtns.forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      activeWidth = parseInt(btn.dataset.width, 10);
+      widthBtns.forEach(function(b) { b.classList.remove('dl-draw-width-active'); });
+      btn.classList.add('dl-draw-width-active');
+    });
+  });
+
+  window.addEventListener('resize', sizeCanvas);
+  window.addEventListener('scroll', function() { if (drawing) sizeCanvas(); }, { passive: true });
+  native.addEventListener('scroll', function() { if (drawing) sizeCanvas(); }, { passive: true });
+  canvas.width = 1;
+  canvas.height = 1;
+
+  function loadScript(src) {
+    return new Promise(function(resolve, reject) {
+      var s = document.createElement('script');
+      s.src = src;
+      s.onload = resolve;
+      s.onerror = reject;
+      document.head.appendChild(s);
+    });
+  }
+
+  function safeFilePart(s) {
+    return (s || '').toString().trim().replace(/[^a-z0-9]+/gi, '_').replace(/^_+|_+$/g, '') || 'untitled';
+  }
+
+  // Real user ask (repeated): "it saves every page when i just want it to save
+  // the pages you highlighted" - only pages containing a real stroke are ever
+  // exported now (not an opt-in checkbox anymore). Finding those page ranges
+  // first, BEFORE rendering anything, is also what makes rendering each one at
+  // real print resolution (scale: DPR below) safe/fast - one giant scale-2
+  // capture of a 50+ page filing would be tens of thousands of pixels tall and
+  // either crash or take minutes; capturing just the handful of marked pages,
+  // one at a time via html2canvas's own x/y/width/height crop options, never
+  // renders more than a few real page-heights at once.
+  function pagesWithStrokes(pageHeightCss, totalHeightCss) {
+    var totalPages = Math.max(1, Math.ceil(totalHeightCss / pageHeightCss));
+    var pages = [];
+    for (var p = 0; p < totalPages; p++) {
+      var y0 = p * pageHeightCss, y1 = Math.min(totalHeightCss, y0 + pageHeightCss);
+      var has = strokes.some(function(s) {
+        return s.points.some(function(pt) { return pt.y >= y0 && pt.y < y1; });
+      });
+      if (has) pages.push({ y0: y0, y1: y1 });
+    }
+    return pages;
+  }
+
+  // Repaint only vectors intersecting the exported page. Sampling the full
+  // document overlay canvas is very expensive for long 10-K filings.
+  function paintStrokeSlice(cctx, s, y0, y1, scale) {
+    if (!s || !s.points || s.points.length < 2) return;
+    if (!s.points.some(function(pt) { return pt.y >= y0 && pt.y < y1; })) return;
+    cctx.strokeStyle = s.color;
+    cctx.lineWidth = s.width * scale;
+    cctx.lineCap = 'round';
+    cctx.lineJoin = 'round';
+    cctx.globalAlpha = s.width > 8 ? 0.4 : 1;
+    cctx.beginPath();
+    cctx.moveTo(s.points[0].x * scale, (s.points[0].y - y0) * scale);
+    for (var i = 1; i < s.points.length; i++) {
+      cctx.lineTo(s.points[i].x * scale, (s.points[i].y - y0) * scale);
+    }
+    cctx.stroke();
+    cctx.globalAlpha = 1;
+  }
+
+  function filingContentWidthCss() {
+    var nativeRect = native.getBoundingClientRect();
+    var maxRight = 0;
+    // Measure actual text ink rather than the raw filing wrapper, which often
+    // reserves a much wider column than the filing itself and created the large
+    // blank strip on the right side of exported PDFs.
+    var walker = document.createTreeWalker(native, NodeFilter.SHOW_TEXT);
+    var node;
+    while ((node = walker.nextNode())) {
+      if (!node.nodeValue || !node.nodeValue.trim()) continue;
+      var range = document.createRange();
+      range.selectNodeContents(node);
+      var rect = range.getBoundingClientRect();
+      if (rect.width > 0 && rect.height > 0) {
+        maxRight = Math.max(maxRight, rect.right - nativeRect.left + (native.scrollLeft || 0));
+      }
+    }
+    return Math.min(native.scrollWidth, Math.max(1, Math.ceil(maxRight + 24)));
+  }
+
+  function openVectorPrint() {
+    if (!strokes.length) {
+      statusEl.textContent = 'Nothing to print - draw on the document first.';
+      return;
+    }
+    var cssWidth = native.scrollWidth;
+    var cssHeight = native.scrollHeight;
+    var contentWidth = filingContentWidthCss();
+    var pageWpx = 816, pageHpx = 1056;
+    var pageHeightCss = pageHpx * (cssWidth / pageWpx);
+    var pages = pagesWithStrokes(pageHeightCss, cssHeight);
+    var printWin = window.open('', '_blank');
+    if (!printWin) {
+      statusEl.textContent = 'Allow pop-ups for this site to use vector PDF export.';
+      return;
+    }
+    var headStyles = '';
+    document.querySelectorAll('style').forEach(function(style) {
+      headStyles += style.outerHTML;
+    });
+    var meta = window.__DL_DRAW_META__ || {};
+    var printName = [safeFilePart(meta.ticker), safeFilePart(meta.docLabel), safeFilePart(meta.topic), 'vector'].join('_');
+    var html = '<!doctype html><html><head><meta charset="utf-8"><title>' + printName + '</title>' + headStyles +
+      '<style>@page{size:' + contentWidth + 'px ' + pageHeightCss + 'px;margin:0}' +
+      'html,body{margin:0;padding:0;background:#fff}' +
+      '.dl-print-page{position:relative;width:' + contentWidth + 'px;height:' + pageHeightCss +
+      'px;overflow:hidden;page-break-after:always;background:#fff}' +
+      '.dl-print-clip{position:relative;width:' + contentWidth + 'px;height:' + pageHeightCss +
+      'px;overflow:hidden}' +
+      '.dl-print-clip .dl-fv-native{position:relative!important;left:0;margin:0!important;' +
+      'width:' + cssWidth + 'px!important;max-width:none!important;overflow:visible!important;' +
+      'border:0!important;box-shadow:none!important}' +
+      '.dl-print-annotations{position:absolute;left:0;top:0;z-index:20;pointer-events:none}' +
+      '@media print{.dl-print-page:last-child{page-break-after:auto}}' +
+      '</style></head><body>';
+    pages.forEach(function(pg) {
+      var clone = native.cloneNode(true);
+      var oldCanvas = clone.querySelector('#dl-draw-canvas');
+      if (oldCanvas) oldCanvas.remove();
+      clone.style.position = 'relative';
+      clone.style.top = '0';
+      clone.style.left = '0';
+      clone.style.height = cssHeight + 'px';
+      clone.style.transform = 'translateY(' + (-pg.y0) + 'px)';
+      clone.style.transformOrigin = 'top left';
+      var paths = strokes.map(function(s) {
+        if (!s.points || s.points.length < 2) return '';
+        if (!s.points.some(function(pt) { return pt.y >= pg.y0 && pt.y < pg.y1; })) return '';
+        var d = s.points.map(function(pt, i) {
+          return (i ? 'L' : 'M') + ' ' + pt.x + ' ' + (pt.y - pg.y0);
+        }).join(' ');
+        var opacity = s.width > 8 ? '0.4' : '1';
+        return '<path d="' + d + '" fill="none" stroke="' + s.color +
+          '" stroke-width="' + s.width + '" stroke-linecap="round" stroke-linejoin="round" opacity="' + opacity + '"/>';
+      }).join('');
+      html += '<section class="dl-print-page"><div class="dl-print-clip">' +
+        clone.outerHTML + '<svg class="dl-print-annotations" width="' + contentWidth +
+        '" height="' + (pg.y1 - pg.y0) + '" viewBox="0 0 ' + contentWidth + ' ' +
+        (pg.y1 - pg.y0) + '">' + paths + '</svg></div></section>';
+    });
+    html += '</body></html>';
+    printWin.document.open();
+    printWin.document.write(html);
+    printWin.document.close();
+    printWin.focus();
+    statusEl.textContent = 'Print preview opened - choose Save to PDF.';
+    setTimeout(function() { printWin.print(); }, 900);
+  }
+
+  if (printBtn) printBtn.addEventListener('click', openVectorPrint);
+
+  if (saveBtn) {
+    saveBtn.addEventListener('click', function() {
+      if (!strokes.length) {
+        statusEl.textContent = 'Nothing to export - draw on the document first.';
+        return;
+      }
+      saveBtn.disabled = true;
+      statusEl.textContent = 'Rendering pages…';
+      Promise.all([
+        loadScript('https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js'),
+        loadScript('https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js'),
+      ]).then(function() {
+        // Real, confirmed quality bug (twice): capturing at scale:1 (raw CSS
+        // pixels) produced visibly blurry/low-res exported pages. The first
+        // fix tied this to window.devicePixelRatio, which was itself the real
+        // remaining bug - a real user report of "still low res" traced to a
+        // real standard (non-Retina) display reporting devicePixelRatio 1, so
+        // the "fix" was a no-op there. A PDF is for reading/printing later, on
+        // ANY device, not just whatever screen happened to trigger the export
+        // - fixed at a flat 2x (real, verified print-quality output:
+        // ~192dpi-equivalent for an 8.5x11 page) regardless of the exporting
+        // screen's own pixel density. Cheap to afford unconditionally since
+        // this only ever renders the marked pages, never the whole document.
+        // 1.5x gives approximately 144-DPI Letter output, which keeps filing
+        // text readable when zoomed or printed while remaining far smaller than
+        // the old 2x lossless-PNG exporter.
+        var DPR = 1.5;
+        var pageWpx = 816, pageHpx = 1056; // US Letter @ 96dpi
+        var cssWidth = native.scrollWidth;
+        var cssHeight = native.scrollHeight;
+        var contentWidth = filingContentWidthCss();
+        var pageHeightCss = pageHpx * (cssWidth / pageWpx);
+        // Use a page width that matches the cropped filing aspect ratio. The
+        // previous code cropped the right margin and then stretched the crop
+        // back to a full Letter rectangle, which made text visibly blurry.
+        var pdfPageW = Math.max(1, Math.round(pageHpx * contentWidth / pageHeightCss));
+        var pages = pagesWithStrokes(pageHeightCss, cssHeight);
+        if (!pages.length) {
+          statusEl.textContent = 'Nothing to export - draw on the document first.';
+          saveBtn.disabled = false;
+          return;
+        }
+        var wasActive = canvas.classList.contains('dl-draw-canvas-active');
+        canvas.classList.remove('dl-draw-canvas-active');
+        var wasVisible = canvas.style.display !== 'none';
+        canvas.style.display = 'none';
+        var jsPDF = window.jspdf.jsPDF;
+        var pdf = null;
+        var chain = Promise.resolve();
+        pages.forEach(function(pg) {
+          chain = chain.then(function() {
+            var sliceH = pg.y1 - pg.y0;
+            return html2canvas(native, {
+              backgroundColor: '#ffffff',
+              scale: DPR, x: 0, y: pg.y0, width: cssWidth, height: sliceH,
+            }).then(function(pageCanvas) {
+              var comp = document.createElement('canvas');
+              var cropWidth = Math.min(pageCanvas.width, Math.max(1, Math.ceil(contentWidth * DPR)));
+              comp.width = cropWidth;
+              comp.height = pageCanvas.height;
+              var cctx = comp.getContext('2d');
+              // Make the composition opaque. Otherwise jsPDF carries a full
+              // alpha mask alongside every page image.
+              cctx.fillStyle = '#ffffff';
+              cctx.fillRect(0, 0, comp.width, comp.height);
+              cctx.drawImage(pageCanvas, 0, 0, cropWidth, pageCanvas.height, 0, 0, cropWidth, pageCanvas.height);
+              // Repaint only vectors for this marked page. Avoid sampling the
+              // full-document annotation canvas (often 100k+ px tall).
+              strokes.forEach(function(s) { paintStrokeSlice(cctx, s, pg.y0, pg.y1, DPR); });
+              var imgData = comp.toDataURL('image/jpeg', 0.9);
+              var destH = pageHpx * (sliceH / pageHeightCss);
+              if (!pdf) {
+                 pdf = new jsPDF({ unit: 'px', format: [pdfPageW, pageHpx] });
+               } else {
+                 pdf.addPage([pdfPageW, pageHpx]);
+               }
+               pdf.addImage(imgData, 'JPEG', 0, 0, pdfPageW, destH, undefined, 'FAST');
+            });
+          });
+        });
+        return chain.then(function() {
+          if (wasActive) canvas.classList.add('dl-draw-canvas-active');
+          canvas.style.display = wasVisible ? 'block' : 'none';
+          var meta = window.__DL_DRAW_META__ || {};
+          var filename = [safeFilePart(meta.ticker), safeFilePart(meta.docLabel), safeFilePart(meta.topic), 'annotated'].join('_') + '.pdf';
+          pdf.save(filename);
+          statusEl.textContent = '';
+          saveBtn.disabled = false;
+        });
+      }).catch(function(err) {
+        canvas.style.display = 'block';
+        statusEl.textContent = 'Could not export - check your connection and try again.';
+        saveBtn.disabled = false;
+      });
+    });
+  }
+})();
+</script><script>
+(function() {
+  var KEY = 'dl-theme';
+  var root = document.documentElement;
+  var buttons = Array.prototype.slice.call(document.querySelectorAll('.dl-theme-btn'));
+  if (!buttons.length) return;
+
+  function applyTheme(theme) {
+    var effective = theme || root.getAttribute('data-theme-default');
+    if (theme) { root.setAttribute('data-theme', theme); } else { root.removeAttribute('data-theme'); }
+    buttons.forEach(function(b) {
+      b.classList.toggle('dl-theme-btn-active', b.getAttribute('data-theme-choice') === effective);
+    });
+  }
+
+  var saved = null;
+  try { saved = localStorage.getItem(KEY); } catch (e) {}
+  applyTheme(saved);
+
+  buttons.forEach(function(b) {
+    b.addEventListener('click', function() {
+      var choice = b.getAttribute('data-theme-choice');
+      try { localStorage.setItem(KEY, choice); } catch (e) {}
+      applyTheme(choice);
+    });
+  });
+})();
+</script><style id="dl-mobile-reader-assets">/* Shared, self-contained filing/transcript reader. Version 2.7.128. */
+.dl-mobile-nav, .dl-mobile-close { display: none; }
+.dl-viewer-version { position: fixed; bottom: 3px; left: 10px; z-index: 1001; font: 10px Arial, sans-serif; color: #596a80; background: #f5f8fc; padding: 2px 5px; border-radius: 3px; }
+@media screen and (max-width: 980px) {
+  html.dl-mobile-reader { scroll-padding-bottom: 100px; overflow-x: hidden; }
+  .dl-mobile-reader body { overflow-x: clip; width: 100%; }
+  .dl-mobile-reader .dl-fv-shell { padding-bottom: calc(92px + env(safe-area-inset-bottom)); }
+  .dl-mobile-reader .dl-fv-head { padding: 18px 14px 0; }
+  .dl-mobile-reader .dl-fv-head h1 { padding-right: 125px; line-height: 1.4; }
+  .dl-mobile-reader .dl-theme-toggle { top: 10px; right: 10px; bottom: auto; }
+  .dl-mobile-reader[data-mobile-panel="research"] .dl-theme-toggle,
+  .dl-mobile-reader[data-mobile-panel="find"] .dl-theme-toggle { display: none; }
+  .dl-mobile-reader .dl-hover-scroll-toggle-label { display: none; }
+  .dl-mobile-reader .dl-fv-note { font-size: 12px; margin-bottom: 14px; }
+  .dl-mobile-reader .dl-fv-cols { display: block; padding: 0 10px 20px; }
+  .dl-mobile-reader .dl-fv-native { box-sizing: border-box; width: 100%; padding: 18px 12px; overflow-x: auto; overscroll-behavior-x: contain; border-radius: 10px; }
+  .dl-mobile-reader .dl-fv-side { display: none; box-sizing: border-box; position: fixed; top: 12px; bottom: calc(84px + env(safe-area-inset-bottom)); left: 10px; right: 10px; width: auto; max-height: none; z-index: 990; overflow: auto; overscroll-behavior: contain; border-radius: 18px; border-left-width: 1px; padding: 0 14px 20px; box-shadow: 0 8px 48px #142c4840; }
+  .dl-mobile-reader[data-mobile-panel="research"] .dl-fv-side,
+  .dl-mobile-reader[data-mobile-panel="find"] .dl-fv-side { display: block; }
+  .dl-mobile-reader .dl-fv-side-header { position: sticky; top: 0; z-index: 5; margin: 0 -14px 14px; padding: 16px 65px 14px 16px; background: #fff; border-bottom: 1px solid #dfe6ee; }
+  .dl-mobile-reader .dl-fv-side-header h2 { margin: 0; font-size: 18px; color: #142c48; }
+  .dl-mobile-reader .dl-fv-side-header p { margin: 5px 0 0; font-size: 12px; line-height: 1.5; color: #6b7688; }
+  .dl-mobile-reader .dl-mobile-close { display: block; position: absolute; right: 10px; top: 10px; width: 44px; height: 44px; border: 1px solid #d7dee8; border-radius: 12px; color: #243247; background: #f2f6fb; font-size: 24px; cursor: pointer; }
+  .dl-mobile-reader .dl-fv-side summary { min-height: 44px; box-sizing: border-box; display: flex; align-items: center; }
+  .dl-mobile-reader .dl-fv-side a { overflow-wrap: anywhere; }
+  .dl-mobile-reader .dl-fv-search input { font-size: 16px; min-height: 44px; box-sizing: border-box; }
+  .dl-mobile-reader .dl-fv-search button, .dl-mobile-reader .dl-fv-nav-btn { min-height: 44px; }
+  .dl-mobile-reader[data-mobile-panel="find"] .dl-fv-side { top: auto; max-height: 45dvh; }
+  .dl-mobile-reader[data-mobile-panel="find"] .dl-fv-side > :not(.dl-mobile-search-box):not(.dl-fv-side-header) { display: none; }
+  .dl-mobile-reader[data-mobile-panel="find"] .dl-fv-search-box { margin-top: 0; }
+  .dl-mobile-reader .dl-mobile-nav { display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px; position: fixed; bottom: 0; left: 0; right: 0; z-index: 1000; padding: 8px 12px calc(23px + env(safe-area-inset-bottom)); background: #f5f8fc; border-top: 1px solid #d7dee8; box-shadow: 0 -4px 24px #142c4814; font: 600 13px Arial, sans-serif; }
+  .dl-mobile-nav button { border: 0; border-radius: 12px; min-height: 48px; padding: 7px; color: #53647a; background: transparent; font: inherit; cursor: pointer; display: flex; align-items: center; justify-content: center; gap: 7px; }
+  .dl-mobile-nav svg { width: 19px; height: 19px; fill: none; stroke: currentColor; stroke-width: 1.8; }
+  .dl-mobile-nav button[aria-pressed="true"] { background: #dcecff; color: #0759a7; }
+  .dl-mobile-nav button:focus-visible, .dl-mobile-close:focus-visible { outline: 3px solid #0a66c2; outline-offset: 2px; }
+  .dl-mobile-reader .dl-viewer-version { bottom: calc(3px + env(safe-area-inset-bottom)); }
+  html[data-theme="dark"] .dl-mobile-nav, html[data-theme="dark"] .dl-viewer-version { background: #202630; color: #bac8dc; border-color: #3a4554; }
+  html[data-theme="dark"] .dl-mobile-nav button { color: #bac8dc; }
+  html[data-theme="dark"] .dl-mobile-nav button[aria-pressed="true"] { background: #173e59; color: #7cdbff; }
+  html[data-theme="dark"] .dl-mobile-close { background: #202630; color: #dfe4ea; border-color: #3a4554; }
+  html[data-theme="dark"] .dl-fv-side-header { background: #262a33; border-color: #3a4554; }
+  html[data-theme="dark"] .dl-fv-side-header h2 { color: #f4f7fb; }
+  html[data-theme="dark"] .dl-fv-side-header p { color: #bac8dc; }
+}
+@media print { .dl-mobile-nav, .dl-mobile-close { display: none !important; } }
+</style><script>/* Version 2.7.53. Embedded in generated reports so downloaded copies work too. */
+(function () {
+  'use strict';
+  var root = document.documentElement;
+  var side = document.querySelector('.dl-fv-side');
+  var native = document.querySelector('.dl-fv-native');
+  if (!side || !native || document.querySelector('.dl-mobile-nav')) return;
+  var media = window.matchMedia('(max-width: 980px)');
+  var panel = 'document';
+  var searchInput = side.querySelector('#dl-search-input');
+  if (searchInput) searchInput.closest('.dl-fv-search-box').classList.add('dl-mobile-search-box');
+  var savedOverflow = '';
+  var locked = false;
+  var nav = document.createElement('nav');
+  nav.className = 'dl-mobile-nav';
+  nav.setAttribute('aria-label', 'Report reader');
+  var icons = ['<path d="M5 3h9l5 5v13H5z M14 3v6h5 M8 13h8 M8 17h6"/>', '<path d="M4 5h16v14H4z M9 5v14 M12 9h5 M12 13h5"/>', '<circle cx="10" cy="10" r="6"/><path d="m15 15 6 6"/>'];
+  var labels = root.dataset.presentationViewer === 'true' ? ['Document', 'Research'] : ['Document', 'Research', 'Find'];
+  labels.forEach(function (label, i) {
+    var button = document.createElement('button');
+    button.type = 'button';
+    button.dataset.panel = label.toLowerCase();
+    button.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true">' + icons[i] + '</svg><span>' + label + '</span>';
+    button.addEventListener('click', function () { setPanel(button.dataset.panel, true); });
+    nav.appendChild(button);
+  });
+  if (!side.id) side.id = 'dl-mobile-research';
+  var close = document.createElement('button');
+  close.type = 'button';
+  close.className = 'dl-mobile-close';
+  close.setAttribute('aria-label', 'Return to document');
+  close.textContent = '×';
+  close.addEventListener('click', function () { setPanel('document', true); });
+  var header = side.querySelector('.dl-fv-side-header');
+  if (!header) {
+    header = document.createElement('div');
+    header.className = 'dl-fv-side-header';
+    header.innerHTML = '<h2>Research</h2><p>Explore the evidence. Tap a quote to read its source.</p>';
+    side.prepend(header);
+  }
+  header.appendChild(close);
+  document.body.appendChild(nav);
+  var version = document.createElement('div');
+  version.className = 'dl-viewer-version';
+  version.textContent = 'DocuLens v2.7.128';
+  document.body.appendChild(version);
+  root.classList.add('dl-mobile-reader');
+
+  function setPanel(next, focus) {
+    panel = next;
+    root.dataset.mobilePanel = next;
+    var active = media.matches && next !== 'document';
+    // Research owns scrolling while open. Find leaves the document scrollable.
+    if (media.matches && next === 'research' && !locked) {
+      savedOverflow = document.body.style.overflow;
+      document.body.style.overflow = 'hidden';
+      locked = true;
+    } else if ((!media.matches || next !== 'research') && locked) {
+      document.body.style.overflow = savedOverflow;
+      locked = false;
+    }
+    native.inert = media.matches && next === 'research';
+    nav.querySelectorAll('button').forEach(function (button) {
+      button.setAttribute('aria-pressed', String(button.dataset.panel === next));
+      if (button.dataset.panel !== 'document') {
+        button.setAttribute('aria-controls', side.id);
+        button.setAttribute('aria-expanded', String(active && button.dataset.panel === next));
+      }
+    });
+    if (focus && media.matches) {
+      var target = next === 'find' ? side.querySelector('#dl-search-input') : next === 'research' ? close : nav.querySelector('button');
+      if (target) target.focus({preventScroll: true});
+    }
+  }
+  // Close BEFORE native anchor navigation / existing citation click handlers.
+  side.addEventListener('click', function (event) {
+    var link = event.target.closest('a[href]');
+    if (!link || !media.matches) return;
+    var url = new URL(link.href, location.href);
+    if (url.pathname !== location.pathname || url.search !== location.search || !url.hash) return;
+    var target;
+    try { target = document.getElementById(decodeURIComponent(url.hash.slice(1))); } catch (_) { return; }
+    if (target && native.contains(target)) setPanel('document', true);
+  }, true);
+  document.addEventListener('keydown', function (event) {
+    if (event.key === 'Escape' && media.matches && panel !== 'document') setPanel('document', true);
+  });
+  media.addEventListener('change', function () { setPanel('document', false); });
+  setPanel('document', false);
+})();
+</script><style id="dl-evidence-sidebar-assets">/* Approved mixed sidebar design. DocuLens v2.7.128. */
+.dl-fv-side[data-evidence-design] { box-sizing: border-box; width: 420px; border: 1px solid #d9e2ef; border-radius: 10px; padding: 0 20px 20px; box-shadow: 0 3px 16px #142c480a; background: #fff; color: #182e4c; font-size: 14px; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-header { display: grid; grid-template-columns: 1fr auto; align-items: center; margin: 0; padding: 18px 0 12px; background: #fff; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-header h2 { font-size: 19px; margin: 0; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-header p { grid-column: 1 / -1; grid-row: 2; font-size: 12px; line-height: 1.5; margin: 5px 0 0; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-header .dl-fv-nav-cross { grid-column: 2; grid-row: 1; width: auto; min-height: 0; margin: 0; border: 0; padding: 3px 0 3px 10px; font-size: 12px; background: transparent; }
+.dl-fv-side[data-evidence-design] .dl-hover-scroll-toggle-label { font-size: 12px; margin: 8px 0 10px; }
+.dl-sidebar-content { min-width: 0; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-section { box-shadow: none; margin: 0 0 10px; border: 1px solid #d9e2ef; border-radius: 8px; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-section > summary { min-height: 48px; box-sizing: border-box; padding: 12px 15px; background: #f5f8fc; color: #0960b8; font-size: 15px; line-height: 1.35; text-transform: none; letter-spacing: 0; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-title { gap: 12px; flex: 1; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-icon svg { width: 19px; height: 19px; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-section-body { padding: 12px 15px 16px; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-section-body li { font-size: 13px; line-height: 1.55; overflow-wrap: anywhere; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-topic-group { margin-bottom: 14px; border: 0; background: transparent; box-shadow: none; overflow: visible; }
+.dl-fv-side[data-evidence-design] .dl-fv-side-topic-group > .dl-evidence-card { margin-bottom: 0; }
+.dl-evidence-card { border: 1px solid #d9e2ef; border-radius: 9px; margin-bottom: 14px; background: #fff; overflow: hidden; }
+.dl-evidence-heading { display: flex; align-items: center; gap: 12px; padding: 17px 16px; cursor: pointer; list-style: none; }
+.dl-evidence-heading::-webkit-details-marker { display: none; }
+.dl-fv-side[data-evidence-design] .dl-evidence-heading .dl-fv-side-topic-heading { flex: 1; min-width: 0; font-size: 18px; line-height: 1.35; font-weight: 700; margin: 0; padding: 0; border: 0; color: #0877ed; overflow-wrap: anywhere; }
+.dl-evidence-count { display: inline-flex; align-items: center; justify-content: center; background: #f0f2f5; color: #233751; min-width: 29px; height: 25px; padding: 0 7px; box-sizing: border-box; border-radius: 20px; font-size: 13px; line-height: 1; font-weight: 600; flex: 0 0 auto; }
+.dl-evidence-heading > .dl-evidence-count { color: #1475e6; background: #eaf3ff; }
+.dl-evidence-heading::after, .dl-fv-side[data-evidence-design] .dl-evidence-row > summary::after { content: ''; display: block; width: 7px; height: 7px; border: solid #39516d; border-width: 0 2px 2px 0; transform: rotate(-45deg); flex: 0 0 auto; margin-left: 4px; }
+.dl-evidence-card[open] > .dl-evidence-heading::after, .dl-fv-side[data-evidence-design] .dl-evidence-row[open] > summary::after { transform: rotate(45deg); }
+.dl-evidence-body { padding: 0 10px 3px; }
+.dl-evidence-highlights { display: flex; gap: 12px; background: #f2f7fd; border: 1px solid #e0e7f0; border-radius: 6px; padding: 14px 12px; margin: 0 0 5px; }
+.dl-evidence-highlights > svg { flex: 0 0 19px; width: 19px; height: 21px; fill: none; stroke: #1682f5; stroke-width: 1.8; stroke-linecap: round; }
+.dl-evidence-highlights > div { min-width: 0; }
+.dl-evidence-highlights strong { display: block; font-size: 14px; margin: 0 0 6px; }
+.dl-evidence-excerpt { color: #354b69; font-size: 13px; line-height: 1.55; text-decoration: none; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.dl-evidence-excerpt:hover { color: #0960b8; text-decoration: underline; }
+.dl-fv-side[data-evidence-design] .dl-evidence-row { border: 0; border-bottom: 1px solid #dfe6ef; border-radius: 0; margin: 0; }
+.dl-fv-side[data-evidence-design] .dl-evidence-row:last-child { border-bottom: 0; }
+.dl-fv-side[data-evidence-design] .dl-evidence-row > summary { background: #fff; color: #172e4c; padding: 12px 7px; min-height: 48px; font-size: 14px; }
+.dl-fv-side[data-evidence-design] .dl-evidence-row > summary:hover { background: #f7faff; }
+.dl-fv-side[data-evidence-design] .dl-evidence-row > summary .dl-fv-side-icon { color: #426284; }
+.dl-fv-side[data-evidence-design] .dl-fv-search-box { background: #fff; margin: 10px 0 0; padding: 14px; border: 1px solid #d9e2ef; border-radius: 8px; }
+.dl-fv-side[data-evidence-design] .dl-fv-search-box-label { color: #354b69; font-size: 15px; font-weight: 500; text-transform: none; letter-spacing: 0; gap: 10px; margin-bottom: 11px; }
+.dl-fv-side[data-evidence-design] .dl-fv-search { display: grid; grid-template-columns: minmax(0,1fr) 34px 34px auto; gap: 7px; }
+.dl-fv-side[data-evidence-design] .dl-fv-search input { width: 100%; box-sizing: border-box; font-size: 13px; height: 38px; padding: 8px 10px; border-color: #d1dbea; }
+.dl-fv-side[data-evidence-design] .dl-fv-search button { padding: 0; height: 38px; color: #465a75; border-color: #d1dbea; font-size: 17px; }
+.dl-fv-side[data-evidence-design] .dl-fv-search-counter { font-size: 12px; min-width: 33px; text-align: right; color: #51627b; }
+.dl-fv-side[data-evidence-design] .dl-fv-nav-footer { position: static; margin: 0; padding: 16px 0 0; border: 0; background: #fff; }
+.dl-fv-side[data-evidence-design] .dl-fv-nav-btn { box-sizing: border-box; min-width: 0; min-height: 44px; padding: 12px 8px; border: 1px solid #c6d2e2; border-radius: 6px; font-size: 14px; font-weight: 500; line-height: 1.35; color: #0867d3; text-transform: none; letter-spacing: 0; }
+.dl-fv-side[data-evidence-design] .dl-fv-nav-btn:hover { border-color: #1678ed; background: #f3f8ff; }
+.dl-fv-side[data-evidence-design] .dl-fv-nav-btn.dl-fv-nav-btn-active { color: #fff; background: #0968d4; border-color: #0968d4; }
+.dl-fv-side[data-evidence-design] .dl-fv-nav-quarters { gap: 10px; }
+.dl-fv-side[data-evidence-design] .dl-fv-nav-back, .dl-fv-side[data-evidence-design] .dl-fv-nav-cross { margin-bottom: 10px; }
+.dl-fv-side[data-evidence-design] :is(summary,button,a,input):focus-visible { outline: 2px solid #1678ed; outline-offset: 2px; }
+@media screen and (min-width: 981px) {
+  /* Let the reader end after its actual evidence/tools instead of stretching to
+     the viewport when MD&A and Footnotes are collapsed. Long panels still get
+     their own scroll container, so a filing with many results remains usable. */
+  .dl-fv-side[data-evidence-design] { display: block; height: auto; max-height: calc(100dvh - 40px); overflow-y: auto; overflow-x: hidden; }
+  .dl-fv-side[data-evidence-design] .dl-sidebar-content { overflow: visible; scrollbar-gutter: auto; padding-right: 5px; }
+  .dl-fv-side[data-evidence-design] .dl-sidebar-tools { max-height: 35dvh; overflow-y: auto; overflow-x: hidden; padding-top: 10px; }
+  .dl-fv-side[data-evidence-design] .dl-sidebar-tools > .dl-fv-side-section { margin-bottom: 8px; }
+  .dl-fv-side[data-evidence-design] .dl-sidebar-tools > .dl-fv-side-section > summary { min-height: 44px; padding-top: 10px; padding-bottom: 10px; }
+  .dl-fv-side[data-evidence-design] .dl-sidebar-tools > :last-child { margin-bottom: 0; }
+  /* Keep long evidence sections compact: five entries are visible at rest. Hover
+     or keyboard focus reveals the remaining entries inside that section's own
+     scroll window, so the surrounding filing viewer layout does not grow. */
+  .dl-fv-side[data-evidence-design] .dl-evidence-row.dl-evidence-preview .dl-evidence-extra { display: none; }
+  .dl-fv-side[data-evidence-design] .dl-evidence-row.dl-evidence-preview:hover ul > li.dl-evidence-extra,
+  .dl-fv-side[data-evidence-design] .dl-evidence-row.dl-evidence-preview:focus-within ul > li.dl-evidence-extra { display: list-item; }
+  .dl-fv-side[data-evidence-design] .dl-evidence-row.dl-evidence-preview:hover .dl-fv-side-qa.dl-evidence-extra,
+  .dl-fv-side[data-evidence-design] .dl-evidence-row.dl-evidence-preview:focus-within .dl-fv-side-qa.dl-evidence-extra { display: block; }
+  .dl-fv-side[data-evidence-design] .dl-evidence-row.dl-evidence-preview:hover > .dl-fv-side-section-body,
+  .dl-fv-side[data-evidence-design] .dl-evidence-row.dl-evidence-preview:focus-within > .dl-fv-side-section-body {
+    max-height: min(42rem, calc(100vh - 260px));
+    overflow-y: auto;
+    scrollbar-gutter: stable;
+  }
+  .dl-evidence-reader .dl-theme-toggle { top: 16px; bottom: auto; }
+}
+@media screen and (min-width: 981px) and (max-width: 1180px) { .dl-fv-side[data-evidence-design] { width: 370px; padding: 0 14px 14px; } }
+@media screen and (max-width: 980px) {
+  .dl-fv-side[data-evidence-design] .dl-evidence-row.dl-evidence-preview .dl-evidence-extra { display: revert; }
+  .dl-mobile-reader .dl-fv-side[data-evidence-design] { width: auto; padding: 0 14px 20px; }
+  .dl-mobile-reader .dl-fv-side[data-evidence-design] .dl-fv-side-header { padding: 16px 50px 14px 0; }
+  .dl-mobile-reader .dl-fv-side[data-evidence-design] .dl-fv-side-header .dl-fv-nav-cross { grid-column: 1 / -1; grid-row: 3; justify-self: start; padding: 6px 0 0; }
+  .dl-mobile-reader .dl-fv-side[data-evidence-design] .dl-fv-search input { font-size: 16px; }
+  .dl-mobile-reader .dl-fv-side[data-evidence-design] .dl-fv-search { grid-template-columns: minmax(0,1fr) 38px 38px auto; }
+  .dl-mobile-reader .dl-fv-side[data-evidence-design] .dl-fv-search button { min-height: 44px; }
+  .dl-fv-side[data-evidence-design] .dl-evidence-heading { padding: 14px 12px; }
+}
+html[data-theme="dark"] .dl-fv-side[data-evidence-design] { color: #e1eaf5; background: #222a36; border-color: #3d4a5d; }
+html[data-theme="dark"] .dl-fv-side[data-evidence-design] :is(.dl-fv-side-header,.dl-evidence-card,.dl-evidence-row > summary,.dl-fv-nav-footer,.dl-fv-search-box) { background: #222a36; color: #e1eaf5; border-color: #3d4a5d; }
+html[data-theme="dark"] .dl-fv-side[data-evidence-design] .dl-fv-side-section > summary, html[data-theme="dark"] .dl-evidence-highlights { background: #293648; color: #dcecff; border-color: #43536a; }
+html[data-theme="dark"] .dl-fv-side[data-evidence-design] :is(.dl-evidence-excerpt,.dl-fv-search-box-label,.dl-fv-search-counter) { color: #c5d5eb; }
+html[data-theme="dark"] .dl-evidence-count { background: #35455e; color: #d3e6ff; }
+html[data-theme="dark"] .dl-fv-side[data-evidence-design] .dl-fv-nav-btn { background: #263347; color: #84bdff; border-color: #50617b; }
+@media print { .dl-fv-side[data-evidence-design] { display: none; } }
+</style><script>/* DocuLens evidence sidebar, v2.7.61. Move existing controls; preserve their listeners and source links. */
+(function () {
+  'use strict';
+  function init() {
+  var side = document.querySelector('.dl-fv-side');
+  if (!side || side.dataset.evidenceDesign) return !!side;
+  side.dataset.evidenceDesign = '2.7.59';
+  document.documentElement.classList.add('dl-evidence-reader');
+  var meta = window.__DL_DRAW_META__ || {};
+  var search = side.querySelector('#dl-search-input');
+  var searchBox = search && search.closest('.dl-fv-search-box');
+  var nav = side.querySelector('.dl-fv-nav-footer');
+  var header = side.querySelector('.dl-fv-side-header');
+  if (header) {
+    var headingText = header.querySelector('h2');
+    var note = header.querySelector('p');
+    if (headingText) headingText.textContent = 'Evidence';
+    if (note) note.textContent = 'Evidence linked to this source document';
+    var crossView = nav && nav.querySelector('.dl-fv-nav-cross');
+    if (crossView) header.appendChild(crossView);
+  }
+  var hover = side.querySelector('.dl-hover-scroll-toggle-label');
+  var content = document.createElement('div');
+  content.className = 'dl-sidebar-content';
+  content.setAttribute('aria-label', 'Evidence and research tools');
+  Array.from(side.children).forEach(function (child) {
+    if (child !== searchBox && child !== nav && child !== header && child !== hover) content.appendChild(child);
+  });
+  side.appendChild(content);
+  if (searchBox) side.appendChild(searchBox);
+  if (nav) side.appendChild(nav);
+
+  // The manifest is written before the report is made available. This shared
+  // reader runs in both server and browser-rendered filing/transcript viewers.
+  fetch('presentation_sources.json').then(function (response) {
+    if (!response.ok) return [];
+    return response.json();
+  }).then(function (decks) {
+    if (!Array.isArray(decks) || !decks.length) return;
+    var doc = String(meta.docLabel || '').replace(/_/g, ' ');
+    var year = (doc.match(/\b20\d{2}\b/) || [])[0];
+    var quarter = (doc.match(/\bQ([1-4])\b/i) || [])[1];
+    var matches = decks.filter(function (deck) {
+      return String(deck.year) === year && String(deck.quarter) === quarter &&
+        deck.url !== location.pathname.split('/').pop();
+    });
+    if (!matches.length) return;
+    var section = document.createElement('details');
+    section.className = 'dl-fv-side-section';
+    section.open = true;
+    var summary = document.createElement('summary');
+    summary.textContent = 'Earnings presentations';
+    section.appendChild(summary);
+    var body = document.createElement('div');
+    body.className = 'dl-fv-side-section-body';
+    matches.forEach(function (deck) {
+      if (!/^Presentation_[a-f0-9]{16}\.html$/.test(deck.url)) return;
+      var link = document.createElement('a');
+      link.className = 'dl-fv-nav-btn';
+      link.href = deck.url;
+      link.textContent = deck.label;
+      body.appendChild(link);
+    });
+    section.appendChild(body);
+    content.prepend(section);
+  }).catch(function () {});
+
+  function label(section) {
+    var summary = section.querySelector(':scope > summary');
+    return summary ? summary.textContent.replace(/\s+/g, ' ').trim() : '';
+  }
+  function cleanEntryText(text) {
+    return String(text || '')
+      .replace(/\b((?:Note|Item)\s+\d+)\s*[-–—]\s*/gi, '$1 — ')
+      .replace(/\s{2,}/g, ' ')
+      .trim();
+  }
+  function isKeyFinancialStatements(section) {
+    return section.classList.contains('dl-fv-key-financial-statements') ||
+      /^key financial statements$/i.test(label(section));
+  }
+  function isEvidence(section) {
+    if (isKeyFinancialStatements(section) ||
+        section.classList.contains('dl-tp-box') ||
+        section.classList.contains('dl-fv-side-section-kwx')) return false;
+    var title = label(section).replace(/[\u00a0\s]+/g, ' ').trim();
+    return /^(presentation evidence|what management said|management said|md&a|mda|footnotes?|equity research analyst questions|analyst questions|filing passages?)$/i.test(title) ||
+      (!!section.querySelector('a.dl-fv-side-link') && /^(what|management|md|foot|analyst|filing)/i.test(title));
+  }
+  function badge(count) {
+    var span = document.createElement('span');
+    span.className = 'dl-evidence-count';
+    span.textContent = String(count);
+    span.setAttribute('aria-label', count + ' evidence entries');
+    return span;
+  }
+  function rowCount(section) {
+    if (isKeyFinancialStatements(section)) return section.querySelectorAll('li').length;
+    var questions = section.querySelectorAll('.dl-fv-side-qa');
+    if (questions.length) return questions.length;
+    return Array.from(section.querySelectorAll('li')).filter(function (li) {
+      return li.closest('.dl-fv-side-section') === section && !li.parentElement.closest('li');
+    }).length;
+  }
+  function markPreviewEntries(section) {
+    var lists = section.querySelectorAll(':scope > .dl-fv-side-section-body > ul');
+    var visible = 0;
+    Array.from(lists).forEach(function (list) {
+      Array.from(list.children).forEach(function (item) {
+        if (visible < 5) visible += 1;
+        else item.classList.add('dl-evidence-extra');
+      });
+    });
+    var questions = section.querySelectorAll(':scope > .dl-fv-side-section-body > .dl-fv-side-qa');
+    Array.from(questions).forEach(function (item) {
+      if (visible < 5) visible += 1;
+      else item.classList.add('dl-evidence-extra');
+    });
+  }
+  function makeCard(container, name, heading) {
+    var sections = Array.from(container.children).filter(function (child) {
+      return child.matches('.dl-fv-side-section') && (isEvidence(child) || isKeyFinancialStatements(child));
+    });
+    if (!sections.length) return;
+    var card = document.createElement('details');
+    card.className = 'dl-evidence-card';
+    card.open = true;
+    var summary = document.createElement('summary');
+    summary.className = 'dl-evidence-heading';
+    if (!heading) {
+      heading = document.createElement('h2');
+      heading.className = 'dl-fv-side-topic-heading';
+      heading.textContent = name || 'Evidence';
+    }
+    summary.appendChild(heading);
+    var total = sections.reduce(function (n, section) { return n + rowCount(section); }, 0);
+    summary.appendChild(badge(total));
+    card.appendChild(summary);
+    var body = document.createElement('div');
+    body.className = 'dl-evidence-body';
+    sections.forEach(function (section) {
+      section.classList.add('dl-evidence-row');
+      section.open = true;
+      if (rowCount(section) > 5) {
+        section.classList.add('dl-evidence-preview');
+        markPreviewEntries(section);
+      }
+      var rowSummary = section.querySelector(':scope > summary');
+      var title = rowSummary.querySelector('.dl-fv-side-title');
+      if (title && /^what management said$/i.test(label(section))) {
+        Array.from(title.childNodes).forEach(function (node) {
+          if (node.nodeType === Node.TEXT_NODE) node.textContent = node.textContent.replace(/What management said/i, 'Management said');
+        });
+      }
+      rowSummary.appendChild(badge(rowCount(section)));
+      body.appendChild(section);
+    });
+    body.querySelectorAll('details').forEach(function (detail) { detail.open = true; });
+    card.appendChild(body);
+    container.prepend(card);
+  }
+
+  var groups = Array.from(content.querySelectorAll(':scope > .dl-fv-side-topic-group'));
+  if (groups.length) {
+    groups.forEach(function (group, i) {
+      var heading = group.querySelector(':scope > .dl-fv-side-topic-heading');
+      makeCard(group, heading && heading.textContent.trim(), heading);
+    });
+  } else {
+    makeCard(content, meta.topic, null);
+  }
+
+  var toolsPanel = document.createElement('div');
+  toolsPanel.className = 'dl-sidebar-tools';
+  Array.from(content.children).forEach(function (child) {
+    if (!child.matches('.dl-evidence-card,.dl-fv-side-topic-group')) toolsPanel.appendChild(child);
+  });
+  side.insertBefore(toolsPanel, searchBox || nav || null);
+
+  // Normalize generated viewer headings without touching evidence excerpts or
+  // stable IDs. Older saved viewers used all-caps topic headings, while newer
+  // viewers use title case; both should read consistently after this upgrade.
+  function normalizeHeadingText(root) {
+    var walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
+    var nodes = [], node;
+    while ((node = walker.nextNode())) nodes.push(node);
+    nodes.forEach(function (textNode) {
+      textNode.textContent = textNode.textContent
+        .replace(/\bTOPIC SEARCH RESULTS\b/gi, 'Topic search results')
+        .replace(/\bIN KEY FINANCIAL STATEMENTS\b/gi, 'in key financial statements')
+        .replace(/\bKEY FINANCIAL STATEMENT METRICS\b/gi, 'Key financial statement metrics')
+        .replace(/\bKEY FINANCIAL STATEMENTS\b/gi, 'Key financial statements')
+        .replace(/^(\s*(?:\d+\.\s*)?)([a-z])/, function (_, prefix, letter) {
+          return prefix + letter.toUpperCase();
+        });
+    });
+  }
+  side.querySelectorAll('.dl-fv-side-title, .dl-fv-side-topic-heading, .dl-evidence-heading').forEach(normalizeHeadingText);
+  side.querySelectorAll('.dl-fv-side-link').forEach(function (link) {
+    link.textContent = cleanEntryText(link.textContent);
+    link.title = link.textContent;
+  });
+  side.querySelectorAll('summary').forEach(function (summary) {
+    summary.querySelectorAll('svg').forEach(function (svg) { svg.setAttribute('aria-hidden', 'true'); });
+  });
+  var version = document.querySelector('.dl-viewer-version');
+  if (!version) {
+    version = document.createElement('div');
+    version.className = 'dl-viewer-version';
+    document.body.appendChild(version);
+  }
+  version.textContent = 'DocuLens v2.7.128';
+
+  // At the top of a report the reader starts below its title; reserve that space too.
+  function fitSidebar() {
+    if (window.innerWidth <= 980) return;
+    var top = Math.max(20, side.getBoundingClientRect().top);
+    side.style.setProperty('--dl-sidebar-height', Math.max(240, window.innerHeight - top - 20) + 'px');
+  }
+  var pending = false;
+  function scheduleFit() {
+    if (pending) return;
+    pending = true;
+    window.requestAnimationFrame(function () { pending = false; fitSidebar(); });
+  }
+  window.addEventListener('scroll', scheduleFit, {passive: true});
+  window.addEventListener('resize', scheduleFit);
+  fitSidebar();
+  return true;
+  }
+
+  // Some served/client-rendered viewers append the filing shell after the
+  // inline assets execute.  A one-shot initializer silently left those pages
+  // with utility controls but no Evidence card or reader wiring.  Retry on
+  // DOM readiness and mutations, then disconnect once the shell is upgraded.
+  if (!init()) {
+    var observer = new MutationObserver(function () {
+      if (init()) observer.disconnect();
+    });
+    observer.observe(document.documentElement, {childList: true, subtree: true});
+    document.addEventListener('DOMContentLoaded', function () {
+      if (init()) observer.disconnect();
+    }, {once: true});
+  }
+})();
+</script></body></html>

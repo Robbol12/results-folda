@@ -1,0 +1,291 @@
+[CORE RESEARCH] TSLA: gross margin
+
+Quarters searched: 12
+Filing sections searched: 278
+
+Could not synthesize a conclusion (LLM error: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}). Review the evidence trail directly.
+
+Forecasting credibility: None
+Unavailable due to an error.
+
+Conclusion:
+Unavailable due to an error - review the per-period evidence directly.
+
+Evidence Coverage: 99.5% complete; 557/560 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2023 ===
+Management said:
+  - We generally look to mid-20% gross margins for any program that we launch.
+  - Back on the automotive gross margins.
+  - First, automotive gross margin and operating margin reduced sequentially.
+  - In particular, automotive gross margin was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve vehicle pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as increased deferred revenue for certain Autopilot features as we transition technologies.
+Investor presentation deck:
+  - Cash Operating cash flow of $2.5B Free cash flow 2 of $0.4B in Q1 $0.2B increase in our cash and investments 3 in Q1 to $22.4B Operations Cybertruck factory tooling on track; producing Alpha versions Model Y was the best -selling vehicle in Europe in Q1 Model Y was the best -selling vehicle in the US in Q1 (ex -pickups) [Page 4] F I N A N C I A L S U M M A R Y (Unaudited) ($ in millions, except percentages and per share data) Q1-2022 Q2-2022 Q3-2022 Q4-2022 Q1-2023 YoY Total automotive revenues 16,861 14,602 18,692 21,307 19,963 18% Energy generation and storage revenue 616 866 1,117 1,310 1,529 148% Services and other revenue 1,279 1,466 1,645 1,701 1,837 44% Total revenues 18,756 16,934 21,454 24,318 23,329 24% Total gross profit 5,460 4,234 5,382 5,777 4,511 -17% Total GAAP gross margin 29.1% 25.0% 25.1% 23.8% 19.3% -977 bp Operating expenses 1,857 1,770 1,694 1,876 1,847 -1% Income from operations 3,603 2,464 3,688 3,901 2,664 -26% Operating margin 19.2% 14.6% 17.2% 16.0% 11.4% -779 bp Adjusted EBITDA 5,023 3,791 4,968 5,404 4,267 -15% Adjusted EBITDA margin 26.8% 22.4% 23.2% 22.2% 18.3% -849 bp Net income attributable to common stockholders (GAAP) 3,318 2,259 3,292 3,687 2,513 -24% Net income attributable to common stockholders (non-GAAP) 3,736 2,620 3,654 4,106 2,931 -22% EPS attributable to common stockholders, diluted (GAAP)(1) 0.95 0.65 0.95 1.07 0.73 -23% EPS attributable to common stockholders, diluted (non-GAAP)(1) 1.07 0.76 1.05 1.19 0.85 -21% Net cash provided by operating activities 3,995 2,351 5,100 3,278 2,513 -37% Capital expenditures (1,767) (1,730) (1,803) (1,858) (2,072) 17% Free cash flow 2,228 621 3,297 1,420 441 -80% Cash, cash equivalents and investments 18,013 18,915 21,107 22,185 22,402 24% (1)EPS = earnings per share. [Presentation_2c65e745f95c464d.html]
+Guidance given:
+Actual reported:
+  - [Observed] In particular, automotive gross margin was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve vehicle pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as increased deferred revenue for certain Autopilot features as we transition technologies.
+  - [Observed] Based on actual results inclusive of trim/region/production mix, normalized to 2018 for changes in market rates of lithium, nickel, steel and aluminum [Page 9] 0 1 2 3 4 O T H E R H I G H L I G H T S 9 Services & Other gross margin Energy Storage deployments (GWh) Energy Storage Energy storage deployments increased by 360% YoY in Q1 to 3.9 GWh, the highest level of deployments we have achieved due to ongoing Megafactory ramp.
+  - [Observed] YoY, operating income was primarily impacted by the following items: + growth in vehicle deliveries (despite margin headwind from underutilization of new factories) + gross profit growth in Energy business as well as Services & Other - reduced ASP YoY - higher raw material, commodity, logistics and warranty costs - cost of production ramp of 4680 cells - lower credit revenue Cash Quarter-end cash, cash equivalents and investments increased sequentially by $217M to $22.4B in Q1, driven mainly by free cash flow of $441M, partially offset by other financing activities, including debt repayments.
+  - [Observed] Services and Other Both revenue and gross profit from Services and Other reached an all -time high in Q1 2023.
+Filing disclosures (SEC):
+  [MD&A]
+    - Gross margin for total automotive & services and other segment decreased from 30.5% to 19.9% in the three months ended March 31, 2023 as compared to the three months ended March 31, 2022, primarily due to the automotive gross margin decrease discussed above, partially offset by an improvement in our services and other gross margin.
+    - Gross margin for total automotive decreased from 32.9% to 21.1% in the three months ended March 31, 2023 as compared to the three months ended March 31, 2022.
+    - Gross margin for energy generation and storage improved from -11.7% to 11.0% in the three months ended March 31, 2023 as compared to the three months ended March 31, 2022.
+    - Additionally, services and other was a higher percentage of the segment gross margin during the first quarter of 2023 as compared to the prior year.
+    - Additionally, there was a higher proportion of energy storage sales, which operated at a higher gross margin, within the segment.
+  [Financial Statements]
+    - Gross Profit: $4.51B | vs prior quarter: — | vs prior year: $5.46B (-17.4%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+
+=== Q2 2023 ===
+Management said:
+  - If we look specifically at our automotive business, our gross margin showed a modest reduction and remained healthy, despite action taken to further improve vehicle affordability early in the quarter.
+  - If I may, look, the short-term variances in gross margin and profitability really are minor relative to the long-term picture.
+Investor presentation deck:
+  - Cash Operating cash flow of $3.1B Free cash flow 2 of $1.0B $0.7B increase in our cash and investments 3 QoQ to $23.1B Operations Cybertruck factory tooling on track; producing RC4 builds Model Y became the best -selling vehicle globally in Q1 [Page 4] F I N A N C I A L S U M M A R Y (Unaudited) ($ in millions, except percentages and per share data) Q2-2022 Q3-2022 Q4-2022 Q1-2023 Q2-2023 YoY Total automotive revenues 14,602 18,692 21,307 19,963 21,268 46% Energy generation and storage revenue 866 1,117 1,310 1,529 1,509 74% Services and other revenue 1,466 1,645 1,701 1,837 2,150 47% Total revenues 16,934 21,454 24,318 23,329 24,927 47% Total gross profit 4,234 5,382 5,777 4,511 4,533 7% Total GAAP gross margin 25.0% 25.1% 23.8% 19.3% 18.2% -682 bp Operating expenses 1,770 1,694 1,876 1,847 2,134 21% Income from operations 2,464 3,688 3,901 2,664 2,399 -3% Operating margin 14.6% 17.2% 16.0% 11.4% 9.6% -493 bp Adjusted EBITDA 3,791 4,968 5,404 4,267 4,653 23% Adjusted EBITDA margin 22.4% 23.2% 22.2% 18.3% 18.7% -372 bp Net income attributable to common stockholders (GAAP) 2,259 3,292 3,687 2,513 2,703 20% Net income attributable to common stockholders (non-GAAP) 2,620 3,654 4,106 2,931 3,148 20% EPS attributable to common stockholders, diluted (GAAP)(1) 0.65 0.95 1.07 0.73 0.78 20% EPS attributable to common stockholders, diluted (non-GAAP)(1) 0.76 1.05 1.19 0.85 0.91 20% Net cash provided by operating activities 2,351 5,100 3,278 2,513 3,065 30% Capital expenditures (1,730) (1,803) (1,858) (2,072) (2,060) 19% Free cash flow 621 3,297 1,420 441 1,005 62% Cash, cash equivalents and investments 18,915 21,107 22,185 22,402 23,075 22% (1)EPS = earnings per share. [Presentation_033c7a7c490ba69b.html]
+Guidance given:
+Actual reported:
+  - [Observed] YoY, operating income was primarily impacted by the following items: - reduced ASP due to mix and pricing - cost of production ramp of 4680 cells and other related charges - increase in Operating expenses driven by Cybertruck, AI and other large projects - negative FX impact + growth in vehicle deliveries (despite margin headwind from underutilization of new factories) + lower cost per vehicle, which includes lower raw material costs and IRA credit + gross profit growth in Energy business as well as Services & Other Other income (below operating income line) was positively impacted by FX movements on certain intercompany balances.
+Filing disclosures (SEC):
+  [MD&A]
+    - Gross margin for total automotive & services and other segment decreased from 28.3% to 19.0% in the six months ended June 30, 2023 as compared to the six months ended June 30, 2022, primarily due to the automotive gross margin decrease discussed above, partially offset by an improvement in our services and other gross margin.
+    - Gross margin for total automotive decreased from 27.9% to 19.2% in the three months ended June 30, 2023 as compared to the three months ended June 30, 2022.
+    - Gross margin for total automotive decreased from 30.6% to 20.1% in the six months ended June 30, 2023 as compared to the six months ended June 30, 2022.
+    - Gross margin for total automotive & services and other segment decreased from 25.7% to 18.2% in the three months ended June 30, 2023 as compared to the three months ended June 30, 2022.
+    - Gross margin for energy generation and storage improved from 1.7% to 14.7% in the six months ended June 30, 2023 as compared to the six months ended June 30, 2022.
+  [Financial Statements]
+    - Gross Profit: $4.53B | vs prior quarter: $4.51B (+0.5%) | vs prior year: $4.23B (+7.1%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+
+=== Q3 2023 ===
+Management said:
+  - It’s about like your gross margin in the quarter.
+  - So, if you can give us the background on that and tell us how we should think about that gross margin going forward.
+Investor presentation deck:
+  - Cash Operating cash flow of $3.3B in Q3 Free cash flow 2 of $0.8B in Q3 $3.0B increase in our cash and investments 3 QoQ to $26.1B Operations 4.0 GWh of Energy Storage deployed in Q3 More than doubled AI training compute [Page 4] F I N A N C I A L S U M M A R Y (Unaudited) ($ in millions, except percentages and per share data) Q3-2022 Q4-2022 Q1-2023 Q2-2023 Q3-2023 YoY Total automotive revenues 18,692 21,307 19,963 21,268 19,625 5% Energy generation and storage revenue 1,117 1,310 1,529 1,509 1,559 40% Services and other revenue 1,645 1,701 1,837 2,150 2,166 32% Total revenues 21,454 24,318 23,329 24,927 23,350 9% Total gross profit 5,382 5,777 4,511 4,533 4,178 -22% Total GAAP gross margin 25.1% 23.8% 19.3% 18.2% 17.9% -719 bp Operating expenses 1,694 1,876 1,847 2,134 2,414 43% Income from operations 3,688 3,901 2,664 2,399 1,764 -52% Operating margin 17.2% 16.0% 11.4% 9.6% 7.6% -964 bp Adjusted EBITDA 4,968 5,404 4,267 4,653 3,758 -24% Adjusted EBITDA margin 23.2% 22.2% 18.3% 18.7% 16.1% -706 bp Net income attributable to common stockholders (GAAP) 3,292 3,687 2,513 2,703 1,853 -44% Net income attributable to common stockholders (non-GAAP) 3,654 4,106 2,931 3,148 2,318 -37% EPS attributable to common stockholders, diluted (GAAP) 0.95 1.07 0.73 0.78 0.53 -44% EPS attributable to common stockholders, diluted (non-GAAP) 1.05 1.19 0.85 0.91 0.66 -37% Net cash provided by operating activities 5,100 3,278 2,513 3,065 3,308 -35% Capital expenditures (1,803) (1,858) (2,072) (2,060) (2,460) 36% Free cash flow 3,297 1,420 441 1,005 848 -74% Cash, cash equivalents and investments 21,107 22,185 22,402 23,075 26,077 24% 4 [Page 5] F I N A N C I A L S U M M A R Y 5 Revenue Total revenue grew 9% YoY in Q3 to $23.4B. [Presentation_3a67f2aa7d8f2a70.html]
+Guidance given:
+  - So, if you can give us the background on that and tell us how we should think about that gross margin going forward. (Unresolved)
+Actual reported:
+  - [Observed] YoY, operating income was primarily impacted by the following items: - reduced ASP due to pricing and mix - increase in operating expenses driven by Cybertruck, AI and other R&D projects - cost of production ramp and idle cost related to factory upgrades - negative FX impact + growth in vehicle deliveries (despite the margin headwind from underutilization from new factories) + lower cost per vehicle and IRA credit benefit + gross profit growth in Energy Generation and Storage as well as Services and Other + growth in regulatory credit sales Cash Quarter-end cash, cash equivalents and investments increased sequentially by $3.0B to $26.1B in Q3, driven by financing activities of $2.3B and free cash flow of $0.8B.
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive & services and other segment decreased from 27.4% to 18.5% in the nine months ended September 30, 2023 as compared to the nine months ended September 30, 2022, primarily due to the automotive gross margin decrease discussed above while there was an improvement in our services and other gross margin.
+    - Gross margin for total automotive decreased from 29.6% to 19.7% in the nine months ended September 30, 2023 as compared to the nine months ended September 30, 2022.
+    - Gross margin for total automotive & services and other segment decreased from 26.0% to 17.4% in the three months ended September 30, 2023 as compared to the three months ended September 30, 2022.
+    - 31 Table of Contents Gross margin for total automotive decreased from 27.9% to 18.7% in the three months ended September 30, 2023 as compared to the three months ended September 30, 2022.
+    - Gross margin for energy generation and storage increased from 9.3% to 24.4% in the three months ended September 30, 2023 as compared to the three months ended September 30, 2022.
+  [Financial Statements]
+    - Gross Profit: $4.18B | vs prior quarter: $4.53B (-7.8%) | vs prior year: $5.38B (-22.4%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+
+=== Q4 2023 ===
+Management said:
+  - That said, predicting auto gross margins is extremely challenging since there are many moving parts to this equation, some of which are out of our control like the change in tariffs or local incentives to name a few.
+  - As a result, our auto gross margin improved sequentially.
+Investor presentation deck:
+  - Cash Operating cash flow of $13.3B; free cash flow 2 of $4.4B in 2023 Operating cash flow of $4.4B; free cash flow of $2.1B in Q4 $3.0B increase in our cash and investments 3 in Q4 to $29.1B Operations Model Y became the best -selling vehicle in the world 4 Energy storage deployment of 14.7 GWh in 2023, 125% growth [Page 4] F I N A N C I A L S U M M A R Y (Unaudited) ($ in millions, except percentages and per share data) Q4-2022 Q1-2023 Q2-2023 Q3-2023 Q4-2023 YoY Total automotive revenues 21,307 19,963 21,268 19,625 21,563 1% Energy generation and storage revenue 1,310 1,529 1,509 1,559 1,438 10% Services and other revenue 1,701 1,837 2,150 2,166 2,166 27% Total revenues 24,318 23,329 24,927 23,350 25,167 3% Total gross profit 5,777 4,511 4,533 4,178 4,438 -23% Total GAAP gross margin 23.8% 19.3% 18.2% 17.9% 17.6% -612 bp Operating expenses 1,876 1,847 2,134 2,414 2,374 27% Income from operations 3,901 2,664 2,399 1,764 2,064 -47% Operating margin 16.0% 11.4% 9.6% 7.6% 8.2% -784 bp Adjusted EBITDA 5,404 4,267 4,653 3,758 3,953 -27% Adjusted EBITDA margin 22.2% 18.3% 18.7% 16.1% 15.7% -652 bp Net income attributable to common stockholders (GAAP) 3,687 2,513 2,703 1,853 7,928 115% Net income attributable to common stockholders (non-GAAP) 4,106 2,931 3,148 2,318 2,485 -39% EPS attributable to common stockholders, diluted (GAAP) 1.07 0.73 0.78 0.53 2.27 112% EPS attributable to common stockholders, diluted (non-GAAP) 1.19 0.85 0.91 0.66 0.71 -40% Net cash provided by operating activities 3,278 2,513 3,065 3,308 4,370 33% Capital expenditures (1,858) (2,072) (2,060) (2,460) (2,306) 24% Free cash flow 1,420 441 1,005 848 2,064 45% Cash, cash equivalents and investments 22,185 22,402 23,075 26,077 29,094 31% 4 [Page 5] F I N A N C I A L S U M M A R Y (Unaudited) ($ in millions, except percentages and per share data) 2019 2020 2021 2022 2023 YoY Total automotive revenues 20,821 27,236 47,232 71,462 82,419 15% Energy generation and storage revenue 1,531 1,994 2,789 3,909 6,035 54% Services and other revenue 2,226 2,306 3,802 6,091 8,319 37% Total revenues 24,578 31,536 53,823 81,462 96,773 19% Total gross profit 4,069 6,630 13,606 20,853 17,660 -15% Total GAAP gross margin 16.6% 21.0% 25.3% 25.6% 18.2% -735 bp Operating expenses 4,138 4,636 7,083 7,197 8,769 22% (Loss) income from operations (69) 1,994 6,523 13,656 8,891 -35% Operating margin -0.3% 6.3% 12.1% 16.8% 9.2% -758 bp Adjusted EBITDA 2,985 5,817 11,621 19,186 16,631 -13% Adjusted EBITDA margin 12.1% 18.4% 21.6% 23.6% 17.2% -637 bp Net (loss) income attributable to common stockholders (GAAP) (862) 721 5,519 12,556 14,997 19% Net income attributable to common stockholders (non-GAAP) 36 2,455 7,640 14,116 10,882 -23% EPS attributable to common stockholders, diluted (GAAP) (0.33) 0.21 1.63 3.62 4.30 19% EPS attributable to common stockholders, diluted (non-GAAP) 0.01 0.75 2.26 4.07 3.12 -23% Net cash provided by operating activities 2,405 5,943 11,497 14,724 13,256 -10% Capital expenditures (1,327) (3,157) (6,482) (7,158) (8,898) 24% Free cash flow 1,078 2,786 5,015 7,566 4,358 -42% Cash, cash equivalents and investments 6,268 19,384 17,707 22,185 29,094 31% 5 [Page 6] F I N A N C I A L S U M M A R Y 6 Revenue Total revenue grew 3% YoY in Q4 to $25.2B. [Presentation_892ed095df14659f.html]  - Services and Other business The Services and Other business continued to grow alongside our fleet in 2023, achieving record revenue and gross profit generation. [Presentation_892ed095df14659f.html]
+Guidance given:
+Actual reported:
+  - [Unresolved] As a result, our auto gross margin improved sequentially.
+  - [Observed] YoY, operating income was primarily impacted by the following items: - reduced vehicle ASP due to pricing and mix - increase in operating expenses partly driven by AI and other R&D projects - lower FSD revenue recognition YoY due to FSD Beta wide release in North America in Q4`22 - cost of Cybertruck production ramp + lower cost per vehicle, including lower raw material costs, logistics costs and IRA credit benefit + growth in vehicle deliveries + gross profit growth in Energy Generation and Storage While it did not impact Operating Income, we did record a one -time non-cash tax benefit of $5.9B in Q4 for the release of valuation allowance on certain deferred tax assets.
+  - [Observed] Gross profit of our Services & Other business increased from a ~$500M loss in 2019 to a ~$500M profit in 2023.
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive decreased from 28.5% to 19.4% in the year ended December 31, 2023 as compared to the year ended December 31, 2022.
+    - Gross margin for total automotive & services and other segment decreased from 26.5% to 18.2% in the year ended December 31, 2023 as compared to the year ended December 31, 2022, primarily due to the automotive gross margin decrease discussed above.
+    - 40 Gross margin for energy generation and storage increased from 7.4% to 18.9% in the year ended December 31, 2023 as compared to the year ended December 31, 2022.
+    - The increase was driven by an improvement in our Megapack gross margin from lower average cost per MWh and a higher proportion of Megapack, which operated at a higher gross margin, within the segment as compared to the prior year periods.
+  [Financial Statements]
+    - Gross Profit: $17.66B | vs prior quarter: — | vs prior year: $20.85B (-15.3%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+
+=== Q1 2024 ===
+Management said:
+Investor presentation deck:
+  - Cash Operating cash flow of $0.2B in Q1 Free cash flow2 of negative $2.5B in Q1 (AI infrastructure capex was $1.0B in Q1) $2.2B decrease in our cash and investments 3 in Q1 to $26.9B Operations Increased AI training compute by more than 130% in Q1 Record energy storage deployment of 4.1 GWh in Q1 Produced over 1,000 Cybertrucks in a single week in April [Page 4] F I N A N C I A L S U M M A R Y (Unaudited) ($ in millions, except percentages and per share data) Q1-2023 Q2-2023 Q3-2023 Q4-2023 Q1-2024 YoY Total automotive revenues 19,963 21,268 19,625 21,563 17,378 -13% Energy generation and storage revenue 1,529 1,509 1,559 1,438 1,635 7% Services and other revenue 1,837 2,150 2,166 2,166 2,288 25% Total revenues 23,329 24,927 23,350 25,167 21,301 -9% Total gross profit 4,511 4,533 4,178 4,438 3,696 -18% Total GAAP gross margin 19.3% 18.2% 17.9% 17.6% 17.4% -199 bp Operating expenses 1,847 2,134 2,414 2,374 2,525 37% Income from operations 2,664 2,399 1,764 2,064 1,171 -56% Operating margin 11.4% 9.6% 7.6% 8.2% 5.5% -592 bp Adjusted EBITDA 4,267 4,653 3,758 3,953 3,384 -21% Adjusted EBITDA margin 18.3% 18.7% 16.1% 15.7% 15.9% -240 bp Net income attributable to common stockholders (GAAP) 2,513 2,703 1,853 7,928 1,129 -55% Net income attributable to common stockholders (non-GAAP) 2,931 3,148 2,318 2,485 1,536 -48% EPS attributable to common stockholders, diluted (GAAP) 0.73 0.78 0.53 2.27 0.34 -53% EPS attributable to common stockholders, diluted (non-GAAP) 0.85 0.91 0.66 0.71 0.45 -47% Net cash provided by operating activities 2,513 3,065 3,308 4,370 242 -90% Capital expenditures (2,072) (2,060) (2,460) (2,306) (2,773) 34% Free cash flow 441 1,005 848 2,064 (2,531) -674% Cash, cash equivalents and investments 22,402 23,075 26,077 29,094 26,863 20% 4 [Page 5] F I N A N C I A L S U M M A R Y 5 Revenue Total revenue declined 9% YoY in Q1 to $21.3B. [Presentation_5d8639a70bd038f4.html]  - Services and Other Services and Other revenue grew 25% YoY in Q1, while gross profit was down 40% YoY. [Presentation_5d8639a70bd038f4.html]
+Guidance given:
+Actual reported:
+  - [Observed] Services and Other Services and Other revenue grew 25% YoY in Q1, while gross profit was down 40% YoY.
+  - [Observed] Revenues were up 7% YoY and gross profit was up 140% YoY, driven by increased Megapack deployments, partially offset by a decrease in solar deployments.
+  - [Observed] YoY, operating income was primarily impacted by the following items: - reduced vehicle ASP due to pricing and mix - increase in operating expenses partly driven by AI, cell advancements and other R&D projects - cost of Cybertruck production ramp - decline in vehicle deliveries, partially due to the Model 3 update in the Fremont factory and Giga Berlin production disruptions + lower cost per vehicle, including lower raw material costs, freight and duties + gross profit growth in Energy Generation and Storage including IRA credit benefit + higher FSD revenue recognition YoY due to release of Autopark feature in North America Cash Quarter-end cash, cash equivalents and investments in Q1 was $26.9B.
+  - [Observed] Energy Generation and Storage revenue and gross profit also achieved an all- time high in Q1.
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive decreased from 21.1% to 18.5% in the three months ended March 31, 2024 as compared to the three months ended March 31, 2023.
+    - Gross margin for total automotive & services and other segment decreased from 19.9% to 16.7% in the three months ended March 31, 2024 as compared to the three months ended March 31, 2023, primarily due to the automotive gross margin decrease discussed above.
+    - Gross margin for energy generation and storage increased from 11.0% to 24.6% in the three months ended March 31, 2024 as compared to the three months ended March 31, 2023.
+  [Financial Statements]
+    - Gross Profit: $3.70B | vs prior quarter: — | vs prior year: $4.51B (-18.1%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+
+=== Q2 2024 ===
+Management said:
+Investor presentation deck:
+  - Cash Operating cash flow of $3.6B in Q2 Free cash flow 2 of $1.3B in Q2 (AI infrastructure capex was $0.6B in Q2) $3.9B increase in our cash and investments 3 in Q2 to $30.7B Operations Record energy storage deployment of 9.4 GWh in Q2 Optimus began performing tasks autonomously in one of our facilities Cybertruck became the best -selling EV pickup in the U.S. in Q2 3 [Page 4] F I N A N C I A L S U M M A R Y (Unaudited) ($ in millions, except percentages and per share data) Q2-2023 Q3-2023 Q4-2023 Q1-2024 Q2-2024 YoY Total automotive revenues 21,268 19,625 21,563 17,378 19,878 -7% Energy generation and storage revenue 1,509 1,559 1,438 1,635 3,014 100% Services and other revenue 2,150 2,166 2,166 2,288 2,608 21% Total revenues 24,927 23,350 25,167 21,301 25,500 2% Total gross profit 4,533 4,178 4,438 3,696 4,578 1% Total GAAP gross margin 18.2% 17.9% 17.6% 17.4% 18.0% -23 bp Operating expenses 2,134 2,414 2,374 2,525 2,973 39% Income from operations 2,399 1,764 2,064 1,171 1,605 -33% Operating margin 9.6% 7.6% 8.2% 5.5% 6.3% -333 bp Adjusted EBITDA 4,653 3,758 3,953 3,384 3,674 -21% Adjusted EBITDA margin 18.7% 16.1% 15.7% 15.9% 14.4% -426 bp Net income attributable to common stockholders (GAAP) 2,703 1,853 7,928 1,129 1,478 -45% Net income attributable to common stockholders (non-GAAP) 3,148 2,318 2,485 1,536 1,812 -42% EPS attributable to common stockholders, diluted (GAAP) 0.78 0.53 2.27 0.34 0.42 -46% EPS attributable to common stockholders, diluted (non-GAAP) 0.91 0.66 0.71 0.45 0.52 -43% Net cash provided by operating activities 3,065 3,308 4,370 242 3,612 18% Capital expenditures (2,060) (2,460) (2,306) (2,773) (2,270) 10% Free cash flow 1,005 848 2,064 (2,531) 1,342 34% Cash, cash equivalents and investments 23,075 26,077 29,094 26,863 30,720 33% 4 [Page 5] F I N A N C I A L S U M M A R Y Revenue Total revenue increased 2% YoY in Q2 to $25.5B. [Presentation_2f7fd954eb9545bf.html]
+Guidance given:
+Actual reported:
+  - [Observed] Powerwall 3 rollout continued successfully, and is now available in Canada, the U.K. and Germany, in addition to the U.S. Services and Other Sequential profit growth for the Services and Other business was driven mostly by service center margin improvement and higher gross profit generation from collision repair.
+  - [Observed] YoY, operating income was primarily impacted by the following items: - reduced S3XY vehicle ASP as noted above - restructuring charges - increase in operating expenses largely driven by AI projects - decline in S3XY vehicle deliveries + higher regulatory credit revenue + growth in Energy Generation and Storage gross profit + lower cost per vehicle, including lower raw material costs, freight and duties + lower cost of production ramp of 4680 cells and other related charges Cash Quarter-end cash, cash equivalents and investments in Q2 was $30.7B.
+  - [Observed] Overall, the Energy business achieved record revenues and gross profit in Q2.
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive & services and other segment decreased from 19.0% to 16.9% in the six months ended June 30, 2024 as compared to the six months ended June 30, 2023, primarily due to the automotive gross margin decreases discussed above.
+    - Gross margin for total automotive decreased from 19.2% to 18.5% in the three months ended June 30, 2024 as compared to the three months ended June 30, 2023.
+    - Gross margin for total automotive decreased from 20.1% to 18.5% in the six months ended June 30, 2024 as compared to the six months ended June 30, 2023.
+    - 30 Table of Contents Gross margin for total automotive & services and other segment decreased from 18.2% to 17.1% in the three months ended June 30, 2024 as compared to the three months ended June 30, 2023.
+    - Gross margin for energy generation and storage increased from 18.4% to 24.6% in the three months ended June 30, 2024 as compared to the three months ended June 30, 2023.
+  [Financial Statements]
+    - Gross Profit: $4.58B | vs prior quarter: $3.70B (+23.9%) | vs prior year: $4.53B (+1.0%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+
+=== Q3 2024 ===
+Management said:
+Investor presentation deck:
+  - Energy Generation and Storage The Energy business achieved a record gross margin of 30.5% in Q3, a sequential increase of 596 bps, despite lower Megapack volumes. [Presentation_bd9905d9a5067047.html]  - Cash Operating cash flow of $6.3B in Q3 Free cash flow 2 of $2.7B in Q3 $2.9B increase in our cash and investments 3 in Q3 to $33.6B Operations Increased AI training compute by over 75% in Q3 Cybertruck became the third best -selling EV in Q3 in the U.S. (behind only Model Y and Model 3) Over two billion miles driven cumulatively on FSD (Supervised) 4 as of Q3 with more than 50% on V12 3 [Page 4] F I N A N C I A L S U M M A R Y (Unaudited) ($ in millions, except percentages and per share data) Q3-2023 Q4-2023 Q1-2024 Q2-2024 Q3-2024 YoY Total automotive revenues 19,625 21,563 17,378 19,878 20,016 2% Energy generation and storage revenue 1,559 1,438 1,635 3,014 2,376 52% Services and other revenue 2,166 2,166 2,288 2,608 2,790 29% Total revenues 23,350 25,167 21,301 25,500 25,182 8% Total gross profit 4,178 4,438 3,696 4,578 4,997 20% Total GAAP gross margin 17.9% 17.6% 17.4% 18.0% 19.8% 195 bp Operating expenses 2,414 2,374 2,525 2,973 2,280 -6% Income from operations 1,764 2,064 1,171 1,605 2,717 54% Operating margin 7.6% 8.2% 5.5% 6.3% 10.8% 323 bp Adjusted EBITDA 3,758 3,953 3,384 3,674 4,665 24% Adjusted EBITDA margin 16.1% 15.7% 15.9% 14.4% 18.5% 243 bp Net income attributable to common stockholders (GAAP) 1,853 7,928 1,129 1,478 2,167 17% Net income attributable to common stockholders (non-GAAP) 2,318 2,485 1,536 1,812 2,505 8% EPS attributable to common stockholders, diluted (GAAP) 0.53 2.27 0.34 0.42 0.62 17% EPS attributable to common stockholders, diluted (non-GAAP) 0.66 0.71 0.45 0.52 0.72 9% Net cash provided by operating activities 3,308 4,370 242 3,612 6,255 89% Capital expenditures (2,460) (2,306) (2,773) (2,270) (3,513) 43% Free cash flow 848 2,064 (2,531) 1,342 2,742 223% Cash, cash equivalents and investments 26,077 29,094 26,863 30,720 33,648 29% 4 [Page 5] F I N A N C I A L S U M M A R Y Revenue Total revenue increased 8% YoY in Q3 to $25.2B. [Presentation_bd9905d9a5067047.html]  - Services and Other The Services and Other business achieved a record gross profit in Q3, growing over 90% year-on-year. [Presentation_bd9905d9a5067047.html]  - YoY, operating income was primarily impacted by the following items: + lower cost per vehicle, including lower raw material costs, freight and duties and other one -time charges + growth in Energy Generation and Storage and Services and Other gross profit + higher FSD revenue recognition YoY for releases related to Cybertruck and certain features such as Actually Smart Summon + growth in vehicle deliveries + higher regulatory credit revenue + decrease in operating expenses including cost -reduction efforts - reduced S3XY vehicle ASP Cash Quarter-end cash, cash equivalents and investments in Q3 was $33.6B. [Presentation_bd9905d9a5067047.html]
+Guidance given:
+Actual reported:
+  - [Observed] Energy Generation and Storage The Energy business achieved a record gross margin of 30.5% in Q3, a sequential increase of 596 bps, despite lower Megapack volumes.
+  - [Observed] The Energy business achieved another strong quarter with a record gross margin.
+  - [Observed] Cybertruck production increased sequentially and achieved a positive gross margin for the first time.
+  - [Observed] Services and Other The Services and Other business achieved a record gross profit in Q3, growing over 90% year-on-year.
+  - [Observed] YoY, operating income was primarily impacted by the following items: + lower cost per vehicle, including lower raw material costs, freight and duties and other one -time charges + growth in Energy Generation and Storage and Services and Other gross profit + higher FSD revenue recognition YoY for releases related to Cybertruck and certain features such as Actually Smart Summon + growth in vehicle deliveries + higher regulatory credit revenue + decrease in operating expenses including cost -reduction efforts - reduced S3XY vehicle ASP Cash Quarter-end cash, cash equivalents and investments in Q3 was $33.6B.
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive & services and other segment increased from 17.4% to 18.7% in the three months ended September 30, 2024 as compared to the three months ended September 30, 2023.
+    - Gross margin for total automotive & services and other segment decreased from 18.5% to 17.6% in the nine months ended September 30, 2024 as compared to the nine months ended September 30, 2023.
+    - 30 Table of Contents Gross margin for total automotive increased from 18.7% to 20.1% in the three months ended September 30, 2024 as compared to the three months ended September 30, 2023 primarily due to lower average combined cost per unit of our vehicles, an increase in FSD revenue and an increase in regulatory credits revenue, partially offset by lower average selling price on our vehicles, as discussed above.
+    - Gross margin for energy generation and storage increased from 24.4% to 30.5% in the three months ended September 30, 2024 as compared to the three months ended September 30, 2023.
+    - Gross margin for energy generation and storage increased from 18.0% to 26.6% in the nine months ended September 30, 2024 as compared to the nine months ended September 30, 2023.
+  [Financial Statements]
+    - Gross Profit: $5.00B | vs prior quarter: $4.58B (+9.2%) | vs prior year: $4.18B (+19.6%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+
+=== Q4 2024 ===
+Management said:
+Investor presentation deck:
+  - Cash Operating cash flow of $14.9B in 2024; $4.8B in Q4 Free cash flow 2 of $3.6B in 2024; $2.0B in Q4 $7.5B increase in our cash and investments 3 in 2024 to $36.6B Operations Increased AI training compute by over 400% in 2024 Over three billion miles driven cumulatively on FSD (Supervised) 4 as of January Completed construction of Megafactory Shanghai 3 [Page 4] F I N A N C I A L S U M M A R Y (Unaudited) ($ in millions, except percentages and per share data) Q4-2023 Q1-2024 Q2-2024 Q3-2024 Q4-2024 YoY Total automotive revenues 21,563 17,378 19,878 20,016 19,798 -8% Energy generation and storage revenue 1,438 1,635 3,014 2,376 3,061 113% Services and other revenue 2,166 2,288 2,608 2,790 2,848 31% Total revenues 25,167 21,301 25,500 25,182 25,707 2% Total gross profit 4,438 3,696 4,578 4,997 4,179 -6% Total GAAP gross margin 17.6% 17.4% 18.0% 19.8% 16.3% -138 bp Operating expenses 2,374 2,525 2,973 2,280 2,596 9% Income from operations 2,064 1,171 1,605 2,717 1,583 -23% Operating margin 8.2% 5.5% 6.3% 10.8% 6.2% -204 bp Adjusted EBITDA 3,953 3,384 3,674 4,665 4,922 25% Adjusted EBITDA margin 15.7% 15.9% 14.4% 18.5% 19.1% 344 bp Net income attributable to common stockholders (GAAP) 7,928 1,129 1,478 2,167 2,317 -71% Net income attributable to common stockholders (non-GAAP) 2,485 1,536 1,812 2,505 2,566 3% EPS attributable to common stockholders, diluted (GAAP) 2.27 0.34 0.42 0.62 0.66 -71% EPS attributable to common stockholders, diluted (non-GAAP) 0.71 0.45 0.52 0.72 0.73 3% Net cash provided by operating activities 4,370 242 3,612 6,255 4,814 10% Capital expenditures (2,306) (2,773) (2,270) (3,513) (2,783) 21% Free cash flow 2,064 (2,531) 1,342 2,742 2,031 -2% Cash, cash equivalents and investments 29,094 26,863 30,720 33,648 36,563 26% 4 [Page 5] F I N A N C I A L S U M M A R Y (Unaudited) ($ in millions, except percentages and per share data) 2020 2021 2022 2023 2024 YoY Total automotive revenues 27,236 47,232 71,462 82,419 77,070 -6% Energy generation and storage revenue 1,994 2,789 3,909 6,035 10,086 67% Services and other revenue 2,306 3,802 6,091 8,319 10,534 27% Total revenues 31,536 53,823 81,462 96,773 97,690 1% Total gross profit 6,630 13,606 20,853 17,660 17,450 -1% Total GAAP gross margin 21.0% 25.3% 25.6% 18.2% 17.9% -39 bp Operating expenses 4,636 7,083 7,197 8,769 10,374 18% Income from operations 1,994 6,523 13,656 8,891 7,076 -20% Operating margin 6.3% 12.1% 16.8% 9.2% 7.2% -194 bp Adjusted EBITDA 5,817 11,621 19,186 16,631 16,645 0% Adjusted EBITDA margin 18.4% 21.6% 23.6% 17.2% 17.0% -15 bp Net income attributable to common stockholders (GAAP) 721 5,519 12,556 14,997 7,091 -53% Net income attributable to common stockholders (non-GAAP) 2,455 7,640 14,116 10,882 8,419 -23% EPS attributable to common stockholders, diluted (GAAP) 0.21 1.63 3.62 4.30 2.04 -53% EPS attributable to common stockholders, diluted (non-GAAP) 0.75 2.26 4.07 3.12 2.42 -22% Net cash provided by operating activities 5,943 11,497 14,724 13,256 14,923 13% Capital expenditures (3,157) (6,482) (7,158) (8,898) (11,339) 27% Free cash flow 2,786 5,015 7,566 4,358 3,584 -18% Cash, cash equivalents and investments 19,384 17,707 22,185 29,094 36,563 26% 5 [Page 6] F I N A N C I A L S U M M A R Y Revenue Total revenue increased 2% YoY in Q4 to $25.7B. [Presentation_2a4dadc9249d8a6c.html]
+Guidance given:
+Actual reported:
+  - [Observed] Energy Generation and Storage The Energy business achieved record deployments for both Powerwall and Megapack at a combined 11.0 GWh, resulting in a record gross profit in Q4.
+  - [Observed] YoY, operating income was primarily impacted by the following items: - reduced S3XY vehicle ASP - increase in operating expenses driven by AI and other R&D projects + growth in Energy Generation and Storage and Services and Other gross profit + lower cost per vehicle, including lower raw material costs partially offset by lower fixed cost absorption from production decrease YoY + higher regulatory credit revenue Cash Quarter-end cash, cash equivalents and investments in Q4 was $36.6B.
+  - [Observed] The Energy business achieved another record in Q4 with its highest -ever gross profit generation.
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive & services and other segment decreased from 18.2% to 16.9% in the year ended December 31, 2024 as compared to the year ended December 31, 2023.
+    - Gross margin for total automotive decreased from 19.4% to 18.4% in the year ended December 31, 2024 as compared to the year ended December 31, 2023 due to lower average selling price on our vehicles and Cybertruck ramp, partially offset by lower average combined cost per unit of our vehicles and increases in regulatory credit and FSD (Supervised) revenue, as discussed above.
+    - 39 Gross margin for energy generation and storage increased from 18.9% to 26.2% in the year ended December 31, 2024 as compared to the year ended December 31, 2023, primarily due to margin improvements for our energy storage products driven by cost reductions, including benefits from IRA manufacturing credits, and a higher proportion of our storage business, which operated at a higher gross margin, within the segment as compared to the prior periods.
+    - The changes in gross margin are primarily due to the automotive gross margin factors discussed above.
+  [Financial Statements]
+    - Gross Profit: $17.45B | vs prior quarter: — | vs prior year: $17.66B (-1.2%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+    - The CODM uses gross profit to allocate operating and capital resources and assesses performance of each segment by comparing actual gross profit results to historical results and previously forecasted financial information.
+
+=== Q1 2025 ===
+Management said:
+Investor presentation deck:
+  - Cash Operating cash flow of $2.2B Free cash flow 2 of $0.7B $0.4B increase in our cash and investments 3 to $37.0B Operations New Model Y ramp outpacing all past ramps Megafactory Shanghai produced >100 Megapacks Model 3, Model Y and Cybertruck now drive autonomously from production line to outbound lots in Fremont and Gigafactory Texas 3 [Page 4] F I N A N C I A L S U M M A R Y (Unaudited) ($ in millions, except percentages and per share data) Q1-2024 Q2-2024 Q3-2024 Q4-2024 Q1-2025 YoY Total automotive revenues 17,378 19,878 20,016 19,798 13,967 -20% Energy generation and storage revenue 1,635 3,014 2,376 3,061 2,730 67% Services and other revenue 2,288 2,608 2,790 2,848 2,638 15% Total revenues 21,301 25,500 25,182 25,707 19,335 -9% Total gross profit 3,696 4,578 4,997 4,179 3,153 -15% Total GAAP gross margin 17.4% 18.0% 19.8% 16.3% 16.3% -104 bp Operating expenses 2,525 2,973 2,280 2,596 2,754 9% Income from operations 1,171 1,605 2,717 1,583 399 -66% Operating margin 5.5% 6.3% 10.8% 6.2% 2.1% -343 bp Adjusted EBITDA (1) (2) 3,384 3,674 4,665 4,333 2,814 -17% Adjusted EBITDA margin (1) (2) 15.9% 14.4% 18.5% 16.9% 14.6% -133 bp Net income attributable to common stockholders (GAAP) (1) 1,390 1,400 2,173 2,128 409 -71% Net income attributable to common stockholders (non-GAAP) (1) (3) 1,536 1,812 2,505 2,107 934 -39% EPS attributable to common stockholders, diluted (GAAP) (1) 0.41 0.40 0.62 0.60 0.12 -71% EPS attributable to common stockholders, diluted (non-GAAP) (1) (3) 0.45 0.52 0.72 0.60 0.27 -40% Net cash provided by operating activities 242 3,612 6,255 4,814 2,156 791% Capital expenditures (4) (2,777) (2,272) (3,513) (2,780) (1,492) -46% Free cash flow (4) (2,535) 1,340 2,742 2,034 664 126% Cash, cash equivalents and investments 26,863 30,720 33,648 36,563 36,996 38% 4 (1) As a result of the adoption of the new crypto assets standard, the previously reported quarterly periods in 2024 have been re cast. [Presentation_b964f1818a03b79b.html]  - With a highly localized supply chain, 20 GWh of current annual capacity and the ability to double to 40 GWh, Megafactory Shanghai will be an important asset for meeting global energy storage demand during a time of uncertain cost structure in the U.S. Services and Other Services and Other gross profit grew 25% year -over-year, thanks to improvement in non- warranty maintenance service and collision gross profit. [Presentation_b964f1818a03b79b.html]
+Guidance given:
+Actual reported:
+  - [Observed] Gross margin for the Energy Business improved sequentially.
+  - [Observed] With a highly localized supply chain, 20 GWh of current annual capacity and the ability to double to 40 GWh, Megafactory Shanghai will be an important asset for meeting global energy storage demand during a time of uncertain cost structure in the U.S. Services and Other Services and Other gross profit grew 25% year -over-year, thanks to improvement in non- warranty maintenance service and collision gross profit.
+  - [Observed] YoY, operating income was primarily impac ted by the following items: - reduced vehicle ASP - decline in vehicle deliveries - increase in operating expenses driven by AI and other R&D projects partially offset by a decrease in SG&A + growth in Energy Generation and Storage gross profit + lower cost associated with Cybertruck production ramp in Q1’24 + lower cost per vehicle, including lower raw material costs partially offset by lower fixed cost absorption primarily from M odel Y production decrease YoY + higher regulatory credit revenue Cash Quarter-end cash, cash equivalents and investments was $37.0B.
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive & services and other segment decreased from 16.7% to 14.3% in the three months ended March 31, 2025 as compared to the three months ended March 31, 2024.
+    - Gross margin for total automotive decreased from 18.5% to 16.2% in the three months ended March 31, 2025 as compared to the three months ended March 31, 2024 primarily due to lower average selling price per unit, partially offset by lower average cost per unit and an increase in regulatory credits revenue, as discussed above.
+    - Gross margin for energy generation and storage increased from 24.6% to 28.8% in the three months ended March 31, 2025 as compared to the three months ended March 31, 2024.
+    - The change in gross margin is primarily due to the automotive gross margin factors discussed above.
+    - The increase was primarily due to a higher proportion of our storage business, which operated at a higher gross margin, within the segment as compared to the prior period.
+  [Financial Statements]
+    - Gross Profit: $3.15B | vs prior quarter: — | vs prior year: $3.70B (-14.7%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+
+=== Q2 2025 ===
+Management said:
+Investor presentation deck:
+  - Cash Operating cash flow of $2.5B Free cash flow 2 of $0.1B $0.2B decrease in our cash and investments 3 to $36.8B Operations Launched our Robotaxi service in Austin Delivered first customer vehicle fully autonomously Deployed first Megapacks from Megafactory Shanghai 3 [Page 4] F I N A N C I A L S U M M A R Y (Unaudited) ($ in millions, except percentages and per share data) Q2-2024 Q3-2024 Q4-2024 Q1-2025 Q2-2025 YoY Total automotive revenues 19,878 20,016 19,798 13,967 16,661 -16% Energy generation and storage revenue 3,014 2,376 3,061 2,730 2,789 -7% Services and other revenue 2,608 2,790 2,848 2,638 3,046 17% Total revenues 25,500 25,182 25,707 19,335 22,496 -12% Total gross profit 4,578 4,997 4,179 3,153 3,878 -15% Total GAAP gross margin 18.0% 19.8% 16.3% 16.3% 17.2% -71 bp Operating expenses 2,973 2,280 2,596 2,754 2,955 -1% Income from operations 1,605 2,717 1,583 399 923 -42% Operating margin 6.3% 10.8% 6.2% 2.1% 4.1% -219 bp Adjusted EBITDA (1) (2) 3,674 4,665 4,333 2,814 3,401 -7% Adjusted EBITDA margin (1) (2) 14.4% 18.5% 16.9% 14.6% 15.1% 71 bp Net income attributable to common stockholders (GAAP) (1) 1,400 2,173 2,128 409 1,172 -16% Net income attributable to common stockholders (non-GAAP) (1) (3) 1,812 2,505 2,107 934 1,393 -23% EPS attributable to common stockholders, diluted (GAAP) (1) 0.40 0.62 0.60 0.12 0.33 -18% EPS attributable to common stockholders, diluted (non-GAAP) (1) (3) 0.52 0.72 0.60 0.27 0.40 -23% Net cash provided by operating activities 3,612 6,255 4,814 2,156 2,540 -30% Capital expenditures (4) (2,272) (3,513) (2,780) (1,492) (2,394) 5% Free cash flow (4) 1,340 2,742 2,034 664 146 -89% Cash, cash equivalents and investments 30,720 33,648 36,563 36,996 36,782 20% 4 (1) As a result of the adoption of the new crypto assets standard, the previously reported quarterly periods in 2024 have been re cast. [Presentation_59740fd9776165b3.html]  - Services and Other Services and Other gross profit grew 64% sequentially, partly due to improved Supercharging gross profit generation from increased volume. [Presentation_59740fd9776165b3.html]
+Guidance given:
+Actual reported:
+  - [Observed] Services and Other Services and Other gross profit grew 64% sequentially, partly due to improved Supercharging gross profit generation from increased volume.
+  - [Observed] restructuring and SBC) driven by AI and other R&D projects - decline in vehicle deliveries - increase in SBC + decrease in restructuring charges + lower cost per vehicle, due to mix and lower raw materials partially offset by lower fixed cost absorption and an increase in tariffs + growth in Energy Generation and Storage gross profit Cash Quarter-end cash, cash equivalents and investments was $36.8B.
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive & services and other segment decreased from 16.9% to 14.9% in the six months ended June 30, 2025 as compared to the six months ended June 30, 2024.
+    - Gross margin for total automotive & services and other segment decreased from 17.1% to 15.4% in the three months ended June 30, 2025 as compared to the three months ended June 30, 2024.
+    - Gross margin for total automotive decreased from 18.5% to 16.8% in the six months ended June 30, 2025 as compared to the six months ended June 30, 2024 primarily due to lower average selling price per unit and a decrease in regulatory credits revenue as described above.
+    - Gross margin for total automotive decreased from 18.5% to 17.2% in the three months ended June 30, 2025 as compared to the three months ended June 30, 2024 primarily due to a decrease in regulatory credits revenue, as discussed above.
+    - Gross margin for energy generation and storage increased from 24.6% to 30.3% in the three months ended June 30, 2025 as compared to the three months ended June 30, 2024.
+  [Financial Statements]
+    - Gross Profit: $3.88B | vs prior quarter: $3.15B (+23.0%) | vs prior year: $4.58B (-15.3%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+
+=== Q3 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive decreased from 19.0% to 16.9% in the nine months ended September 30, 2025 as compared to the nine months ended September 30, 2024.
+    - Gross margin for total automotive decreased from 20.1% to 17.0% in the three months ended September 30, 2025 as compared to the three months ended September 30, 2024.
+    - Gross margin for total automotive & services and other segment decreased from 17.6% to 15.4% in the nine months ended September 30, 2025 as compared to the nine months ended September 30, 2024.
+    - 33 Table of Contents Gross margin for total automotive & services and other segment decreased from 18.7% to 16.1% in the three months ended September 30, 2025 as compared to the three months ended September 30, 2024.
+    - Gross margin for energy generation and storage increased from 30.5% to 31.4% in the three months ended September 30, 2025 as compared to the three months ended September 30, 2024.
+  [Financial Statements]
+    - Gross Profit: $5.05B | vs prior quarter: $3.88B (+30.3%) | vs prior year: $5.00B (+1.1%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+
+=== Q4 2025 ===
+Management said:
+  - Summary Tesla ( TSLA 0.87% ) delivered sequential improvement in automotive margins, record gross margins, and strong revenue growth in energy, while preparing for a transformative shift with higher future capital expenditures and the wind-down of legacy vehicle production.
+  - On total gross margin front, we ended the quarter with over 20.1%, something which we haven't achieved for over the last two years.
+Guidance given:
+Actual reported:
+  - [Observed] Summary Tesla ( TSLA 0.87% ) delivered sequential improvement in automotive margins, record gross margins, and strong revenue growth in energy, while preparing for a transformative shift with higher future capital expenditures and the wind-down of legacy vehicle production.
+  - [Observed] On total gross margin front, we ended the quarter with over 20.1%, something which we haven't achieved for over the last two years.
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive & services and other segment decreased from 16.9% to 16.2% in the year ended December 31, 2025 as compared to the year ended December 31, 2024 primarily due to a decrease in regulatory credits revenue, partially offset by an improvement in services and other margins.
+    - Gross margin for total automotive decreased from 18.4% to 17.8% in the year ended December 31, 2025 as compared to the year ended December 31, 2024 primarily due to a decrease in regulatory credits revenue as well as the changes in automotive sales revenue and cost of automotive sales revenue, as discussed above.
+    - Gross margin for energy generation and storage increased from 26.2% to 29.8% in the year ended December 31, 2025 as compared to the year ended December 31, 2024, primarily due the changes in energy generation and storage revenue and cost of energy generation and storage revenue, as discussed above.
+  [Financial Statements]
+    - Gross Profit: $17.09B | vs prior quarter: — | vs prior year: $17.45B (-2.0%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+    - The CODM uses gross profit to allocate operating and capital resources and assesses performance of each segment by comparing actual gross profit results to historical results and previously forecasted financial information.
+
