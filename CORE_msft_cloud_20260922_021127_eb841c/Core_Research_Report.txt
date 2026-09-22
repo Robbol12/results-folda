@@ -1,0 +1,296 @@
+[CORE RESEARCH] MSFT: cloud
+
+Quarters searched: 6
+Filing sections searched: 652
+
+Could not synthesize a conclusion (LLM error: Error code: 429 - {'error': {'message': 'You have no credits remaining. Add credits to continue using the API at https://platform.openai.com/settings/organization/billing/.', 'type': 'insufficient_quota', 'param': None, 'code': 'credit_balance_exhausted'}}). Review the evidence trail directly.
+
+Forecasting credibility: None
+Unavailable due to an error.
+
+Conclusion:
+Unavailable due to an error - review the per-period evidence directly.
+
+Evidence Coverage: 99.7% complete; 1343/1347 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2023 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - • Server products and cloud services revenue increased 17% driven by Azure and other cloud services growth of 27%.
+    - • Windows Commercial products and cloud services revenue increased 14%.
+    - • Office Commercial products and cloud services revenue increased 13% driven by Office 365 Commercial growth of 14%.
+    - • Office Consumer products and cloud services revenue increased 1% and Microsoft 365 Consumer subscribers increased to 65.4 million.
+    - • Dynamics products and cloud services revenue increased 17% driven by Dynamics 365 growth of 25%.
+    - Highlights from the third quarter of fiscal year 2023 compared with the third quarter of fiscal year 2022 included: • Microsoft Cloud revenue increased 22% to $28.5 billion.
+
+=== Q4 2023 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - • Server products and cloud services revenue increased 19% driven by Azure and other cloud services growth of 29%.
+    - Highlights from fiscal year 2023 compared with fiscal year 2022 included: • Microsoft Cloud revenue increased 22% to $111.6 billion.
+    - • Windows Commercial products and cloud services revenue increased 5%.
+    - • Office Consumer products and cloud services revenue increased 2% and Microsoft 365 Consumer subscribers increased to 67.0 million.
+    - • Office Commercial products and cloud services revenue increased 10% driven by Office 365 Commercial growth of 13%.
+    - • Dynamics products and cloud services revenue increased 16% driven by Dynamics 365 growth of 24%.
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+
+=== Q1 2024 ===
+Management said:
+  - We are off to a strong start to the fiscal year driven by the continued strength of Microsoft Cloud, which surpassed $31.8 billion in quarterly revenue, up 24%.
+  - Microsoft Cloud revenue was $31.8 billion and grew 24% and 23% in constant currency, ahead of expectations.
+  - For Intelligent Cloud, we expect revenue to grow between 17% and 18% or USD 25.1 billion to USD 25.4 billion.
+  - Azure and other cloud services revenue grew 29% and 28% in constant currency, including roughly 3 points from AI services.
+  - We have the most comprehensive cloud footprint with more than 60 data center regions worldwide, as well as the best AI infrastructure for both training and inference.
+  - Finally, with Windows 365 Boot and Switch, we are making it easier than ever for employees at companies like Crocs, Hamburg Commercial Bank, and the ING Bank to get a personalized Windows 365 Cloud PC with Copilot on any device.
+  - Cash flow from operations was $30.6 billion, up 32% year over year, driven by strong cloud billings and collections.
+  - Excluding the impact from the accounting estimate change, Q2 cloud gross margin percentage will be up roughly 1 point, primarily driven by improvement in Azure and Office 365, partially offset by the impact of scaling our AI infrastructure to meet growing demand.
+  - In closing, with our strong start to FY '24, I am confident that as a team, we will continue to deliver healthy growth in the year ahead, driven by our leadership in commercial cloud and our commitment to lead the AI platform wave.
+Guidance given:
+  - For Intelligent Cloud, we expect revenue to grow between 17% and 18% or USD 25.1 billion to USD 25.4 billion. (Unresolved)
+  - Excluding the impact from the accounting estimate change, Q2 cloud gross margin percentage will be up roughly 1 point, primarily driven by improvement in Azure and Office 365, partially offset by the impact of scaling our AI infrastructure to meet growing demand. (Unresolved)
+  - In closing, with our strong start to FY '24, I am confident that as a team, we will continue to deliver healthy growth in the year ahead, driven by our leadership in commercial cloud and our commitment to lead the AI platform wave. (Unresolved)
+Actual reported:
+  - [Observed] Microsoft Cloud revenue was $31.8 billion and grew 24% and 23% in constant currency, ahead of expectations.
+  - [Observed] Azure and other cloud services revenue grew 29% and 28% in constant currency, including roughly 3 points from AI services.
+  - [Observed] Overall, server products and cloud services revenue grew 21%.
+  - [Observed] Microsoft Cloud gross margin percentage increased slightly year over year to 73%, a point better than expected, primarily driven by improvement in Azure.
+  - [Observed] Capital expenditures, including finance leases, were $11.2 billion to support cloud demand, including investments to scale our AI infrastructure.
+  - [Observed] Windows Commercial products and cloud services revenue increased 8%, driven by demand for Microsoft 365 E5.
+  - [Observed] Office commercial licensing declined 17%, in line with the continued customer shift to cloud offerings.
+  - [Observed] Excluding the impact of the change in accounting estimate for useful lives, Microsoft Cloud gross margin percentage increased roughly 2 points driven by the improvement just mentioned in Azure, as well as Office 365, partially offset by the impact of scaling our AI infrastructure to meet growing demand.
+  - [Observed] Finally, with Windows 365 Boot and Switch, we are making it easier than ever for employees at companies like Crocs, Hamburg Commercial Bank, and the ING Bank to get a personalized Windows 365 Cloud PC with Copilot on any device.
+  - [Observed] Cash flow from operations was $30.6 billion, up 32% year over year, driven by strong cloud billings and collections.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - • Server products and cloud services revenue increased 21% driven by Azure and other cloud services growth of 29%.
+    - • Office Commercial products and cloud services revenue increased 15% driven by Office 365 Commercial growth of 18%.
+    - • Dynamics products and cloud services revenue increased 22% driven by Dynamics 365 growth of 28%.
+    - • Office Consumer products and cloud services revenue increased 3% and Microsoft 365 Consumer subscribers grew to 76.7 million.
+    - Highlights from the first quarter of fiscal year 2024 compared with the first quarter of fiscal year 2023 included: • Microsoft Cloud revenue increased 24% to $31.8 billion.
+    - • Windows revenue increased 5% with Windows original equipment manufacturer licensing (“Windows OEM”) revenue growth of 4% and Windows Commercial products and cloud services revenue growth of 8%.
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+
+=== Q2 2024 ===
+Management said:
+  - It was a record quarter, driven by the continued strength of Microsoft Cloud, which surpassed $33 billion in revenue, up 24%.
+  - Cloud computing changed the tech stack in ways that we could not imagine 10 years back, the nature of the database layer or the operating system layer, every layer just changed dramatically.
+  - Microsoft Cloud revenue was $33.7 billion, ahead of expectations, and grew 24% and 22% in constant currency.
+  - Data stored in Fabric's multi-cloud data lake, OneLake, increased 46% quarter over quarter.
+  - We also continue to transform how Windows is experienced and managed with Azure Virtual Desktop and Windows 365, introducing new features that make it simpler for employees to access and IT teams to secure their cloud PCs.
+Guidance given:
+  - For Intelligent Cloud, we expect revenue of $26 billion to $26.3 billion or growth between 18% and 19%. (Unresolved)
+  - Microsoft Cloud gross margin percentage should decrease roughly 1 point year over year, excluding the impact from the accounting estimate change, Q3 cloud gross margin percentage will be relatively flat as improvement in Office 365 and Azure will be offset by sales mix shift to Azure, as well as the impact of scaling our AI infrastructure to meet growing demand. (Unresolved)
+Actual reported:
+  - [Unresolved] It was a record quarter, driven by the continued strength of Microsoft Cloud, which surpassed $33 billion in revenue, up 24%.
+  - [Observed] Microsoft Cloud revenue was $33.7 billion, ahead of expectations, and grew 24% and 22% in constant currency.
+  - [Observed] Azure and other cloud services revenue grew 30% and 28% in constant currency, including 6 points of growth from AI services.
+  - [Observed] Usage of cloud-delivered Windows increased over 50% year over year.
+  - [Observed] Overall server products and cloud services revenue grew 22% and 20% in constant currency.
+  - [Observed] Next, the Intelligent Cloud segment revenue was $25.9 billion, increasing 20% and 19% in constant currency, ahead of expectations, with better-than-expected results across all businesses.
+  - [Observed] Microsoft Cloud gross margin percentage was 72%, relatively unchanged year over year.
+  - [Observed] Office commercial licensing declined 17% and 18% in constant currency with continued customer shift to cloud offerings.
+  - [Observed] Windows commercial products and cloud services revenue increased 9% and 7% in constant currency, below expectations primarily [Technical difficulty] period revenue recognition from the mix of contracts.
+  - [Observed] Cash flow from operations was $18.9 billion, up 69% driven by strong cloud billings and collections on a prior-year comparable that was impacted by lower operating income.
+  - [Observed] Data stored in Fabric's multi-cloud data lake, OneLake, increased 46% quarter over quarter.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - • Server products and cloud services revenue increased 22% driven by Azure and other cloud services growth of 30%.
+    - • Office Commercial products and cloud services revenue increased 15% driven by Office 365 Commercial growth of 17%.
+    - • Dynamics products and cloud services revenue increased 21% driven by Dynamics 365 growth of 27%.
+    - • Office Consumer products and cloud services revenue increased 5% and Microsoft 365 Consumer subscribers grew to 78.4 million.
+    - Highlights from the second quarter of fiscal year 2024 compared with the second quarter of fiscal year 2023 included: • Microsoft Cloud revenue increased 24% to $33.7 billion.
+    - • Windows revenue increased 9% with Windows original equipment manufacturer licensing (“Windows OEM”) revenue growth of 11% and Windows Commercial products and cloud services revenue growth of 9%.
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+
+=== Q3 2024 ===
+Management said:
+  - It was a record third quarter powered by the continued strength of Microsoft Cloud, which surpassed $35 billion in revenue, up 23%.
+  - Microsoft Cloud revenue was $35.1 billion and grew 23%, ahead of expectations.
+  - Therefore, we now expect full year FY '24 operating margins to be up over 2 points year over year, even with our cloud and AI investments, the impact from the Activision acquisition, and the headwind from the change in useful lives last year.
+  - And therefore, we expect FY '25 operating margins to be down only about 1 point year over year, even with our significant cloud and AI investments, as well as a full year of impact from the Activision acquisition.
+Guidance given:
+  - For Intelligent Cloud, we expect revenue to grow between 19% and 20% in constant currency or USD 28.4 billion to USD 28.7 billion. (Unresolved)
+  - In FY '25, that focus on execution should again lead to double-digit revenue and operating income growth to scale to meet the growing demand signal for our cloud and AI products, we expect FY '25 capital expenditures to be higher than FY '24. (Unresolved)
+  - Therefore, we now expect full year FY '24 operating margins to be up over 2 points year over year, even with our cloud and AI investments, the impact from the Activision acquisition, and the headwind from the change in useful lives last year. (Unresolved)
+  - And therefore, we expect FY '25 operating margins to be down only about 1 point year over year, even with our significant cloud and AI investments, as well as a full year of impact from the Activision acquisition. (Unresolved)
+Actual reported:
+  - [Unresolved] It was a record third quarter powered by the continued strength of Microsoft Cloud, which surpassed $35 billion in revenue, up 23%.
+  - [Observed] Microsoft Cloud revenue was $35.1 billion and grew 23%, ahead of expectations.
+  - [Observed] Azure and other cloud services revenue grew 31% ahead of expectations, while our AI services contributed 7 points of growth as expected.
+  - [Observed] Overall, server products and cloud services revenue grew 24%.
+  - [Observed] Windows commercial products and cloud services revenue increased 13% and 12% in constant currency, below expectations with impact from the growth trends in new stand-alone business noted earlier, as well as lower in-period revenue recognition from a mix of contracts.
+  - [Observed] Office commercial licensing declined 20% and 18% in constant currency, with continued customer shift to cloud offerings.
+  - [Observed] Microsoft Cloud gross margin percentage decreased slightly year over year to 72%, a bit better than expected.
+  - [Observed] Capital expenditures, including finance leases, were $14 billion to support our cloud demand, inclusive of the need to scale our AI infrastructure.
+  - [Observed] Cash flow from operations was $31.9 billion, up 31%, driven by strong cloud billings and collections.
+  - [Observed] Free cash flow was $21 billion, up 18% year over year, reflecting higher capital expenditures to support our cloud and AI offerings.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - • Server products and cloud services revenue increased 24% driven by Azure and other cloud services growth of 31%.
+    - • Office Commercial products and cloud services revenue increased 13% driven by Office 365 Commercial growth of 15%.
+    - • Office Consumer products and cloud services revenue increased 4% and Microsoft 365 Consumer subscribers grew to 80.8 million.
+    - • Dynamics products and cloud services revenue increased 19% driven by Dynamics 365 growth of 23%.
+    - Highlights from the third quarter of fiscal year 2024 compared with the third quarter of fiscal year 2023 included: • Microsoft Cloud revenue increased 23% to $35.1 billion.
+    - • Windows revenue increased 11% with Windows original equipment manufacturer licensing (“Windows OEM”) revenue growth of 11% and Windows Commercial products and cloud services revenue growth of 13%.
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+
+=== Q4 2024 ===
+Management said:
+  - And Defender for Cloud, our cloud security solutions, surpassed $1 billion in revenue over the past 12 months as we protect customer workloads across multi-cloud and hybrid environments.
+  - Free cash flow was $23.3 billion, up 18% year over year, reflecting higher capital expenditures to support our cloud and AI offerings.
+Guidance given:
+  - For intelligent cloud, we expect revenue to grow between 18% and 20% in constant currency or USD 28.6 billion to USD 28.9 billion. (Unresolved)
+  - So, as we begin FY '25, we will continue to invest in the cloud and AI opportunity ahead. (Unresolved)
+  - To meet the growing demand signal for our AI and cloud products, we will scale our infrastructure investments with FY '25 capital expenditures expected to be higher than FY '24. (Unresolved)
+Actual reported:
+  - [Unresolved] All-up, annual revenue was more than $245 billion, up 15% year over year and Microsoft Cloud revenue surpassed $135 billion, up 23%.
+  - [Observed] Microsoft Cloud revenue was $36.8 billion and grew 21% and 22% in constant currency, roughly in line with expectations.
+  - [Observed] Azure and other cloud services revenue grew 29% and 30% in constant currency, in line with expectations and consistent with Q3 when adjusting for leap year.
+  - [Observed] Overall, server products and cloud services revenue grew 21% and 22% in constant currency.
+  - [Observed] Windows commercial products and cloud services revenue increased 11% and 12% in constant currency, ahead of expectations due to higher in-period revenue recognition from the mix of contracts.
+  - [Observed] Office commercial licensing declined 9% and 7% in constant currency with continued customer shift to cloud offerings.
+  - [Observed] Microsoft Cloud gross margin percentage decreased roughly 2 points year over year to 69%, in line with expectations.
+  - [Observed] Cash flow from operations was $37.2 billion, up 29% driven by strong cloud billings and collections.
+  - [Observed] Free cash flow was $23.3 billion, up 18% year over year, reflecting higher capital expenditures to support our cloud and AI offerings.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - • Server products and cloud services revenue increased 22% driven by Azure and other cloud services growth of 30%.
+    - Highlights from fiscal year 2024 compared with fiscal year 2023 included: • Microsoft Cloud revenue increased 23% to $137.4 billion.
+    - • Office Commercial products and cloud services revenue increased 14% driven by Office 365 Commercial growth of 16%.
+    - • Office Consumer products and cloud services revenue increased 4% and Microsoft 365 Consumer subscribers grew to 82.5 million.
+    - • Dynamics products and cloud services revenue increased 19% driven by Dynamics 365 growth of 24%.
+    - • Windows revenue increased 8% with Windows original equipment manufacturer licensing (“Windows OEM”) revenue growth of 7% and Windows Commercial products and cloud services revenue growth of 11%.
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+
+=== Q1 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - • Server products and cloud services revenue increased 23% driven by Azure and other cloud services revenue growth of 33%.
+    - • Microsoft 365 Consumer products and cloud services revenue increased 5% driven by Microsoft 365 Consumer cloud revenue growth of 6%.
+    - • Microsoft 365 Commercial products and cloud services revenue increased 13% driven by Microsoft 365 Commercial cloud revenue growth of 15%.
+    - Highlights from the first quarter of fiscal year 2025 compared with the first quarter of fiscal year 2024 included: • Microsoft Cloud revenue increased 22% to $38.9 billion.
+    - • Dynamics products and cloud services revenue increased 14% driven by Dynamics 365 revenue growth of 18%.
+    - We generate revenue by offering a wide range of cloud-based solutions, content, and other services to people and businesses; licensing and supporting an array of software products; delivering relevant online advertising to a global audience; and designing and selling devices.
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+
+=== Q2 2025 ===
+Management said:
+  - This quarter, we saw continued strength in Microsoft Cloud, which surpassed $40 billion in revenue for the first time, up 21% year over year.
+  - We also continue to see strong momentum for Xbox Cloud Gaming with a record 140 million hours streamed this quarter.
+  - For Intelligent Cloud, we expect revenue to grow between 19% and 20% in constant currency, or USD 25.9 billion to USD 26.2 billion.
+  - Microsoft Cloud revenue was $40.9 billion and grew 21%.
+  - Microsoft 365 Commercial Cloud revenue increased 16% and 15% in constant currency, slightly ahead of expectations due to better-than-expected performance in E5 and Microsoft 365 Copilot.
+  - Microsoft Cloud gross margin percentage was 70%, in line with expectations, and decreased two points year over year, driven by scaling our AI infrastructure.
+Guidance given:
+  - For Intelligent Cloud, we expect revenue to grow between 19% and 20% in constant currency, or USD 25.9 billion to USD 26.2 billion. (Unresolved)
+  - Microsoft 365 commercial cloud revenue growth should be between 14% and 15% in constant currency, relatively stable compared to our better-than-expected Q2 results. (Unresolved)
+  - In FY '26, we expect to continue investing against strong demand signals, including customer contracted backlog we need to deliver against across the entirety of our Microsoft Cloud. (Unresolved)
+Actual reported:
+  - [Unresolved] Microsoft Cloud revenue was $40.9 billion and grew 21%.
+  - [Observed] Microsoft 365 Commercial Cloud revenue increased 16% and 15% in constant currency, slightly ahead of expectations due to better-than-expected performance in E5 and Microsoft 365 Copilot.
+  - [Observed] Microsoft Cloud gross margin percentage was 70%, in line with expectations, and decreased two points year over year, driven by scaling our AI infrastructure.
+  - [Observed] Azure other cloud services revenue grew 31%.
+  - [Observed] M365 consumer cloud revenue increased 8%, slightly ahead of expectations.
+  - [Observed] More than half of our cloud and AI-related spend was on long-lived assets that will support monetization over the next 15 years and beyond.
+  - [Observed] Cash flow from operations was $22.3 billion, up 18%, driven by strong cloud billings and collections, partially offset by higher supplier, employee, and tax payments.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - • Server products and cloud services revenue increased 21% driven by Azure and other cloud services revenue growth of 31%.
+    - • Microsoft 365 Consumer products and cloud services revenue increased 8% driven by Microsoft 365 Consumer cloud revenue growth of 8%.
+    - • Microsoft 365 Commercial products and cloud services revenue increased 15% driven by Microsoft 365 Commercial cloud revenue growth of 16%.
+    - Highlights from the second quarter of fiscal year 2025 compared with the second quarter of fiscal year 2024 included: • Microsoft Cloud revenue increased 21% to $40.9 billion.
+    - • Dynamics products and cloud services revenue increased 15% driven by Dynamics 365 revenue growth of 19%.
+    - We generate revenue by offering a wide range of cloud-based solutions, content, and other services to people and businesses; licensing and supporting an array of software products; delivering relevant online advertising to a global audience; and designing and selling devices.
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+
+=== Q3 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - • Server products and cloud services revenue increased 22% driven by Azure and other cloud services revenue growth of 33%.
+    - • Microsoft 365 Consumer products and cloud services revenue increased 10% driven by Microsoft 365 Consumer cloud revenue growth of 10%.
+    - • Microsoft 365 Commercial products and cloud services revenue increased 11% driven by Microsoft 365 Commercial cloud revenue growth of 12%.
+    - Highlights from the third quarter of fiscal year 2025 compared with the third quarter of fiscal year 2024 included: • Microsoft Cloud revenue increased 20% to $42.4 billion.
+    - • Dynamics products and cloud services revenue increased 11% driven by Dynamics 365 revenue growth of 16%.
+    - We generate revenue by offering a wide range of cloud-based solutions, content, and other services to people and businesses; licensing and supporting an array of software products; delivering relevant online advertising to a global audience; and designing and selling devices.
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+
+=== Q4 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - • Server products and cloud services revenue increased 23% driven by Azure and other cloud services revenue growth of 34%.
+    - Highlights from fiscal year 2025 compared with fiscal year 2024 included: • Microsoft Cloud revenue increased 23% to $168.9 billion.
+    - • Microsoft 365 Consumer products and cloud services revenue increased 11% driven by Microsoft 365 Consumer cloud revenue growth of 11%.
+    - • Microsoft 365 Commercial products and cloud services revenue increased 14% driven by Microsoft 365 Commercial cloud revenue growth of 15%.
+    - • Dynamics products and cloud services revenue increased 15% driven by Dynamics 365 revenue growth of 19%.
+    - We generate revenue by offering a wide range of cloud-based solutions, content, and other services to people and businesses; licensing and supporting an array of software products; delivering relevant online advertising to a global audience; and designing and selling devices.
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+    - The Company offers customers the ability to acquire multiple licenses of software products and services, including cloud-based services, in its customer agreements through its volume licensing programs.
+    - Significant judgment is exercised by the Company in determining revenue recognition for certain customer agreements, and includes the following: • Determination of whether products and services are considered distinct performance obligations that should be accounted for separately versus together, such as software licenses and related services that are sold with cloud-based services.
+
+=== Q1 2026 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - • Azure and other cloud services revenue increased 40%.
+    - • Microsoft 365 Consumer cloud revenue increased 26%.
+    - • Microsoft 365 Commercial cloud revenue increased 17%.
+    - Highlights from the first quarter of fiscal year 2026 compared with the first quarter of fiscal year 2025 included: • Microsoft Cloud revenue increased 26% to $49.1 billion.
+    - We generate revenue by offering a wide range of cloud-based solutions, content, and other services to people and businesses; licensing and supporting an array of software products; delivering relevant online advertising to a global audience; and designing and selling devices.
+    - Our most significant expenses are related to compensating employees; supporting and investing in our cloud-based services, including datacenter operations; designing, manufacturing, marketing, and selling our other products and services; and income taxes.
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+
+=== Q2 2026 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - • Azure and other cloud services revenue increased 39%.
+    - • Microsoft 365 Consumer cloud revenue increased 29%.
+    - • Microsoft 365 Commercial cloud revenue increased 17%.
+    - Highlights from the second quarter of fiscal year 2026 compared with the second quarter of fiscal year 2025 included: • Microsoft Cloud revenue increased 26% to $51.5 billion.
+    - We generate revenue by offering a wide range of cloud-based solutions, content, and other services to people and businesses; licensing and supporting an array of software products; delivering relevant online advertising to a global audience; and designing and selling devices.
+    - Our most significant expenses are related to compensating employees; supporting and investing in our cloud-based services, including datacenter operations; designing, manufacturing, marketing, and selling our other products and services; and income taxes.
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+
