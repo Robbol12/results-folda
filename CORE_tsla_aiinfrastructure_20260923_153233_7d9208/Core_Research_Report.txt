@@ -1,0 +1,189 @@
+[CORE RESEARCH] TSLA: ai infrastructure
+
+Quarters searched: 8
+Filing sections searched: 189
+
+Across 2024, the company progressively expanded AI-related infrastructure, with the “AI infrastructure” line item increasing from 2,255 (Q1 2024) to 2,468 (Q2 2024) and then to 3,693 (Q3 2024). In Q4 2024, “AI infrastructure” rose to 5,152, and the filing clarifies that it includes owned data centers; management also referenced accumulated AI-related capex (including infrastructure) of approximately $5 billion. During 2025, “AI infrastructure” remained elevated and then increased modestly to 5,420 in Q1 2025 (vs. 5,152), while management’s narrative tied AI infrastructure to broader platform investments such as Robotaxi and “scalable mobility infrastructure.” By Q4 2025, capital expenditure expectations shifted higher for 2026, with guidance pointing to >$20 billion driven by AI initiatives including compute infrastructure and data centers, indicating continued and potentially accelerating AI infrastructure buildout.
+
+Forecasting credibility: None
+No guidance/actual pairs specific to “AI infrastructure” (as a forecasted metric) were provided for comparison, so forecasting credibility cannot be evaluated using the requested Met/Missed framework. The evidence instead shows contemporaneous disclosure of AI infrastructure amounts in filings and qualitative/related capex outlooks that later manifested in actual AI infrastructure balances, but these do not constitute guidance-vs-actual pairs for the same metric.
+
+Trends:
+  - AI infrastructure balance rose steadily through 2024 (2,255 to 5,152)
+  - Owned data centers explicitly included within AI infrastructure by Q4 2024
+  - AI infrastructure remained high into 2025 (5,152 to 5,420 by Q1 2025)
+  - 2026 capex outlook increased sharply in late 2025, attributed to AI compute and data centers
+
+Recurring themes/risks:
+  - Heavy, ongoing capex for AI infrastructure and compute/data-center buildout
+  - Capacity ramp and production/facilities expansion tied to AI programs
+  - Interdependence between AI infrastructure and service/platform growth (e.g., Robotaxi), implying execution and scaling risk
+
+Key concerns:
+  - The topic’s disclosed “AI infrastructure” line item appears in filings with a step-change in Q4 2024; while the filing notes data centers are included, the excerpt does not explicitly state whether any reclassification/accounting change occurred beyond that inclusion wording.
+  - Because no explicit forward guidance metric for “AI infrastructure” is provided (only qualitative statements and capex outlooks), it is not possible to determine whether management’s AI-infrastructure build rate was forecast accurately versus actual results.
+
+Conclusion:
+The record shows a clear expansion of AI infrastructure over time: the filing “AI infrastructure” balance increased from 2,255 (Q1 2024) to 3,693 (Q3 2024) and then to 5,152 by Q4 2024. The Q4 2024 disclosure further specifies that “AI infrastructure includes our owned data centers,” supporting that the buildout is not only construction-in-progress but also owned compute/data-center assets. In early 2025, AI infrastructure remained elevated (5,420 in Q1 2025), and management connected AI infrastructure to load growth and platform/service scaling narratives. By Q4 2025, the company guided to >$20 billion of 2026 capex driven by AI initiatives, explicitly including investments in compute infrastructure and data centers—signaling sustained intent to keep expanding AI infrastructure even as it links those investments to broader operational scaling.
+
+Evidence Coverage: 99.7% complete; 323/324 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] AI infrastructure 2,255 1,510
+  - [Observed] [from SEC filing] Construction in progress is primarily comprised of ongoing construction and expansion of our facilities, equipment and tooling related to the manufacturing of our products as well as construction related to our AI infrastructure.
+Filing disclosures (SEC):
+  [MD&A]
+    - Owing and subject to the foregoing as well as the pipeline of announced projects under development, all other continuing infrastructure growth and varying levels of inflation, we currently expect our capital expenditures to exceed $10.00 billion in 2024 and be between $8.00 to $10.00 billion in each of the following two fiscal years.
+    - Cash Flows from Investing Activities Cash flows from investing activities and their variability across each period related primarily to capital expenditures, which were $2.77 billion for the three months ended March 31, 2024 and $2.07 billion for the three months ended March 31, 2023, mainly for global factory expansion, machinery and equipment and AI related capital expenditures as we expand or enhance our product roadmap.
+    - Additionally, we are increasingly focused on products and services based on AI, robotics and automation.
+    - The overall increase was primarily driven by additional costs year over year related to AI, advancement of our proprietary battery cell technologies and other programs.
+    - We continue to ramp production and build and optimize our manufacturing capacity, expand our operations while focusing on further cost reductions and operational efficiencies to enable increased deliveries and deployments of our products, and invest in research and development to accelerate our AI, software, and fleet-based profits for further revenue growth.
+    - We are focused on profitable growth, including by leveraging existing factories and production lines to introduce new and more affordable products, increasing vehicle production, utilized capacity and delivery capabilities, reducing costs, improving and developing our vehicles and battery technologies, vertically integrating and localizing our supply chain, further improving and deploying our FSD capabilities, including through our planned robotaxi product, and expanding our global infrastructure, including our service and charging infrastructure.
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+
+=== Q2 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] AI infrastructure 2,468 1,510
+  - [Observed] [from SEC filing] Construction in progress is primarily comprised of ongoing construction and expansion of our facilities, equipment and tooling related to the manufacturing of our products as well as AI-related assets which have not yet been placed in service.
+Filing disclosures (SEC):
+  [MD&A]
+    - Owing and subject to the foregoing as well as the pipeline of announced projects under development, all other continuing infrastructure growth and varying levels of inflation, we currently expect our capital expenditures to exceed $10.00 billion in 2024 and be between $8.00 to $10.00 billion in each of the following two fiscal years.
+    - Cash Flows from Investing Activities Cash flows from investing activities and their variability across each period related primarily to capital expenditures, which were $5.04 billion for the six months ended June 30, 2024 and $4.13 billion for the six months ended June 30, 2023, mainly for global factory expansion, machinery and equipment and AI-related capital expenditures as we expand and enhance our product roadmap.
+    - Additionally, we are increasingly focused on products and services based on AI, robotics and automation.
+    - The overall increases were primarily driven by additional costs year over year related to AI and other programs.
+    - We continue to ramp production and build and optimize our manufacturing capacity, expand our operations while focusing on further cost reductions and operational efficiencies to enable increased deliveries and deployments of our products, and invest in research and development to accelerate our AI, software, and fleet-based profits for further revenue growth.
+    - We are focused on profitable growth, including by leveraging existing factories and production lines to introduce new and more affordable products, further improving and deploying our FSD capabilities, including through our planned robotaxi product, reducing costs, increasing vehicle production, utilized capacity and delivery capabilities, improving and developing our vehicles and battery technologies, vertically integrating and localizing our supply chain, and expanding our global infrastructure, including our service and charging infrastructure.
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+    - Certain Derivative Lawsuits in Delaware Before converting from a Delaware to Texas corporation on June 13, 2024, three separate derivative actions brought by purported Tesla stockholders were filed in the Delaware Court of Chancery on May 24, June 10 and June 13, 2024, purportedly on behalf of Tesla, against current and former directors regarding topics involving Elon Musk and others, X Corp. (formerly Twitter) and x.AI.
+
+=== Q3 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] AI infrastructure 3,693 1,510
+Filing disclosures (SEC):
+  [MD&A]
+    - Owing and subject to the foregoing as well as the pipeline of announced projects under development, all other continuing infrastructure growth and varying levels of inflation, we currently expect our capital expenditures to exceed $11.00 billion in 2024 and be between $8.00 to $10.00 billion in each of the following two fiscal years.
+    - Cash Flows from Investing Activities Net cash flows from investing activities and their variability across each period related primarily to capital expenditures, which were $8.56 billion and $6.59 billion for the nine months ended September 30, 2024 and 2023, respectively, mainly for AI-related capital expenditures, global factory expansion, machinery and equipment as we expand and enhance our product roadmap.
+    - The overall increases were primarily driven by additional costs year over year related to AI programs.
+    - Additionally, we are increasingly focused on products and services based on AI, robotics and automation.
+    - We continue to ramp production and build and optimize our manufacturing capacity, expand our operations while focusing on further cost reductions and operational efficiencies to enable increased deliveries and deployments of our products, and invest in research and development to accelerate our AI, software, and fleet-based profits for further revenue growth.
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+    - Certain Derivative Lawsuits in Delaware Before converting from a Delaware to Texas corporation on June 13, 2024, three separate derivative actions brought by purported Tesla stockholders were filed in the Delaware Court of Chancery on May 24, June 10 and June 13, 2024, purportedly on behalf of Tesla, against current and former directors regarding topics involving Elon Musk and others, X Corp. (formerly Twitter) and x.AI.
+
+=== Q4 2024 ===
+Management said:
+  - Accumulated AI-related capex, including infrastructure, so far has been approximately $5 billion.
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] AI infrastructure 5,152 1,510
+  - [Observed] [from SEC filing] AI infrastructure includes our owned data centers.
+  - [Observed] Accumulated AI-related capex, including infrastructure, so far has been approximately $5 billion.
+Filing disclosures (SEC):
+  [MD&A]
+    - Owing and subject to the foregoing as well as the pipeline of announced projects under development, all other continuing infrastructure growth and varying levels of inflation, we currently expect our capital expenditures to exceed $11.00 billion in 2025 and in each of the following two fiscal years.
+    - Cash Flows from Investing Activities Net cash flows from investing activities and their variability across each period related primarily to capital expenditures, which were $11.34 billion and $8.90 billion for the years ended December 31, 2024 and 2023, respectively, mainly for AI-related capital expenditures, global factory expansion and machinery and equipment as we expand and enhance our product roadmap.
+    - In 2024, our net income attributable to common stockholders was $7.09 billion, representing a decrease of $7.91 billion compared to the prior year, primarily due to the impact of releasing $6.54 billion of our valuation allowance associated with U.S. federal and state deferred tax assets in the fourth quarter of 2023.We continue to ramp production and build and optimize our manufacturing capacity, expand our operations while focusing on further cost reductions and operational efficiencies to enable increased deliveries and deployments of our products, and invest in research and development to accelerate our AI, software, and fleet-based profits for further revenue growth.
+    - The overall increases were primarily driven by additional costs year over year related to AI programs.
+    - Additionally, we are increasingly focused on products and services based on AI, robotics and automation.
+  [Footnotes]
+    - 2 real filing table(s) available (see the HTML report).
+    - Depreciation is generally computed using the straight-line method over the estimated useful lives of the respective assets, as follows: Machinery, equipment, vehicles and office furniture 3 to 15 years Tooling 4 to 7 years Building and building improvements 15 to 30 years Computer equipment and software 3 to 6 years AI infrastructure 5 to 30 years Leasehold improvements are depreciated on a straight-line basis over their estimated useful lives.
+    - AI infrastructure includes our owned data centers.
+    - Certain Derivative Lawsuits in Delaware Before converting from a Delaware to Texas corporation on June 13, 2024, three separate derivative actions brought by purported Tesla stockholders were filed in the Delaware Court of Chancery on May 24, June 10 and June 13, 2024, purportedly on behalf of Tesla, against current and former directors regarding topics involving Elon Musk and others, X Corp. (formerly Twitter) and x.AI.
+    - Tesla periodically does business with certain entities with which its CEO and directors are affiliated, such as x.AI, SpaceX, The Boring Company, X Corp. and Redwood Materials, in accordance with our Related Person Transactions Policy.
+  [Risk Factors]
+    - For example: Mr. Musk also currently holds management positions at Space Exploration Technologies Corp., X Corp., X.AI Corp., Neuralink Corp. and The Boring Company, and is involved in other ventures and with the Department of Government Efficiency.
+    - There is no assurance that we will be able to ramp our business to meet our sales, delivery, installation, servicing and vehicle charging targets globally, that our projections on which such targets are based will prove accurate or that the pace of growth or coverage of our customer infrastructure network will meet customer expectations.
+    - Ultimately, we continue to monitor macroeconomic conditions to remain flexible and to optimize and evolve our business as appropriate, and attempt to accurately project demand and infrastructure requirements globally and deploy our production, workforce and other resources accordingly.
+
+=== Q1 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] AI infrastructure 5,420 5,152
+Filing disclosures (SEC):
+  [MD&A]
+    - Owing and subject to the foregoing as well as the pipeline of announced projects under development, all other continuing infrastructure growth and varying levels of inflation, we currently expect our capital expenditures to exceed $10.00 billion in 2025.
+    - Despite these challenges, as AI infrastructure drives rapid load growth, we see opportunities for our energy storage products to stabilize the grid, shift energy when it is needed most and provide additional power capacity.
+    - Cash Flows from Investing Activities Net cash flows from investing activities and their variability across each period related primarily to capital expenditures, which were $1.49 billion and $2.78 billion for the three months ended March 31, 2025 and 2024, respectively, mainly for AI-related capital expenditures, global factory expansion, machinery and equipment as we expand and enhance our product roadmap.
+    - Additionally, we are increasingly focused on products and services based on AI, robotics and automation.
+    - We continue to ramp production and build and optimize our manufacturing capacity, expand our operations while focusing on further cost reductions and operational efficiencies to enable increased deliveries and deployments of our products, and invest in research and development to accelerate our AI, software, and fleet-based profits for further revenue growth.
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+    - Certain Derivative Lawsuits in Delaware Before converting from a Delaware to Texas corporation on June 13, 2024, three separate derivative actions brought by purported Tesla stockholders were filed in the Delaware Court of Chancery on May 24, June 10 and June 13, 2024, purportedly on behalf of Tesla, against current and former directors regarding topics involving Elon Musk and others, X Corp. (formerly Twitter) and x.AI.
+
+=== Q2 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - In June 2025, we launched our Robotaxi service in Austin, capitalizing on our AI investments and scalable mobility infrastructure to advance a service-driven business model.
+    - Owing and subject to the foregoing as well as the pipeline of announced projects under development, all other continuing infrastructure growth and varying levels of inflation, we currently expect our capital expenditures to exceed $9.00 billion in 2025.
+    - Despite these challenges, as AI infrastructure drives rapid load growth, we see opportunities for our energy storage products to stabilize the grid, shift energy when it is needed most and provide additional power capacity.
+    - Cash Flows from Investing Activities Net cash flows from investing activities and their variability across each period related primarily to capital expenditures, which were $3.89 billion and $5.05 billion for the six months ended June 30, 2025 and 2024, respectively, mainly for AI-related capital expenditures, global factory expansion, machinery and equipment as we expand and enhance our product roadmap.
+    - We are focused on profitable growth, including by leveraging existing factories and production lines to introduce new and more affordable products and services, further improving and deploying our FSD (Supervised) capabilities, including future autonomous capabilities through our purpose-built Robotaxi product, Cybercab, reducing costs, increasing vehicle production, utilized capacity and delivery capabilities, improving and developing our vehicles, battery and AI compute technologies, vertically integrating and localizing our supply chain, and expanding our global infrastructure, including our service and charging infrastructure.
+    - Additionally, we are increasingly focused on products and services based on AI, robotics and automation.
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+    - Certain Derivative Lawsuits in Delaware Before converting from a Delaware to Texas corporation on June 13, 2024, three separate derivative actions brought by purported Tesla stockholders were filed in the Delaware Court of Chancery on May 24, June 10 and June 13, 2024, purportedly on behalf of Tesla, against current and former directors regarding topics involving Elon Musk and others, X Corp. (formerly Twitter) and x.AI.
+  [Risk Factors]
+    - Specifically, recent governmental and regulatory actions have repealed and/or restricted consumer, manufacturing and charging infrastructure tax credits, and certain regulatory credit programs tied to our products.
+
+=== Q3 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - We have continued to expand and refine our Robotaxi service after its June 2025 launch, capitalizing on our AI investments and scalable mobility infrastructure to advance a service-driven business model.
+    - Owing and subject to the foregoing as well as the pipeline of announced projects under development, all other continuing infrastructure growth and varying levels of inflation, we currently expect our capital expenditures to be approximately $9.00 billion in 2025.
+    - Despite these challenges, as AI infrastructure drives rapid load growth, we see opportunities for our energy storage products to stabilize the grid, shift energy when it is needed most and provide additional power capacity.
+    - Cash Flows from Investing Activities Net cash flows from investing activities and their variability across each period related primarily to capital expenditures, which were $6.13 billion and $8.56 billion for the nine months ended September 30, 2025 and 2024, respectively, mainly for AI-related capital expenditures, global factory expansion, machinery and equipment as we expand and enhance our product roadmap.
+    - 28 Table of Contents Management Opportunities, Challenges and Uncertainties and 2025 Outlook Automotive and AI Enabled Products—Production The following is a summary of the status of production of each of our announced vehicle models in production and under development, as of the date of this Quarterly Report on Form 10-Q: Production Location Vehicle Model(s) Production Status Fremont Factory Model S / Model X Active Model 3 / Model Y Active Gigafactory Shanghai Model 3 / Model Y Active Gigafactory Berlin-Brandenburg Model Y Active Gigafactory Texas Model Y Active Cybertruck Active Cybercab Construction Gigafactory Nevada Tesla Semi Construction TBD Roadster In development We are focused on growing and optimizing our manufacturing capacity, which includes capacity for manufacturing newer vehicle models and future vehicles utilizing aspects of our next generation platform, while maximizing production rate and efficiency at our Gigafactories.
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+    - Certain Derivative Lawsuits in Delaware Before converting from a Delaware to Texas corporation on June 13, 2024, three separate derivative actions brought by purported Tesla stockholders were filed in the Delaware Court of Chancery on May 24, June 10 and June 13, 2024, purportedly on behalf of Tesla, against current and former directors regarding topics involving Elon Musk and others, X Corp. (formerly Twitter) and x.AI.
+    - In the third quarter of 2025, we initiated certain actions in order to reduce costs and improve efficiency through convergence of AI chip design efforts.
+
+=== Q4 2025 ===
+Management said:
+  - Robotaxi deployment exceeded 500 vehicles in service and is reportedly doubling monthly, with substantial infrastructure and service network investment to support growth.
+Guidance given:
+Actual reported:
+  - [Observed] Robotaxi deployment exceeded 500 vehicles in service and is reportedly doubling monthly, with substantial infrastructure and service network investment to support growth.
+Filing disclosures (SEC):
+  [MD&A]
+    - We currently expect our capital expenditures to be in excess of $20 billion in 2026, driven by our AI initiatives, including investments in compute infrastructure and data centers, the expansion and ramp of our manufacturing and R&D production lines and facilities, and growth in our fleet of company-operated AI-enabled assets and our retail, service and charging footprint.
+    - We have continued to expand and refine our Robotaxi service after its June 2025 launch, capitalizing on our AI investments and scalable mobility infrastructure to advance a service-driven business model.
+    - 41 As discussed in and subject to the considerations referenced in Part II, Item 7, Management's Discussion and Analysis of Financial Condition and Results of Operations—Management Opportunities, Challenges and Uncertainties and 2026 Outlook—Cash Flow and Capital Expenditure Trends in this Annual Report on Form 10-K, we currently expect our capital expenditures to exceed $20 billion in 2026 driven by our AI initiatives, including investments in compute infrastructure and data centers, the expansion and ramp of our manufacturing and R&D production lines and facilities, and growth in our fleet of company-operated AI-enabled assets and our retail, service and charging footprint.
+    - Cash Flows from Investing Activities Net cash flows from investing activities and their variability across each period related primarily to capital expenditures, which were $8.53 billion and $11.34 billion for the years ended December 31, 2025 and 2024, respectively, mainly for global AI and operational infrastructure and factory expansion, as well as machinery and equipment as we expand and enhance our product roadmap.
+    - Despite these challenges, as AI infrastructure drives rapid load growth, we see opportunities for our energy storage products to stabilize the grid, shift energy when it is needed most and provide additional power capacity.
+    - 31 Management Opportunities, Challenges and Uncertainties and 2026 Outlook Automotive and AI Enabled Products—Production We are focused on growing and optimizing our manufacturing capacity, which includes capacity for manufacturing newer vehicle models and future vehicles utilizing aspects of our next generation platform, while maximizing production rate and efficiency at our Gigafactories.
+  [Footnotes]
+    - 2 real filing table(s) available (see the HTML report).
+    - We are focused on bringing artificial intelligence (“AI”) into the real world, through products and services like Full Self-Driving (“FSD”) (Supervised) and Robotaxi, as well as working to develop and commercialize AI robots (“Bots”) (including Optimus).
+    - We intend to leverage our current operations, in which we design, develop, manufacture, sell and lease high-performance fully electric vehicles and energy generation and storage systems that increasingly deliver AI-related and enhanced software and services to our customers, to achieve that objective.
+    - Depreciation is generally computed using the straight-line method over the estimated useful lives of the respective assets, as follows: Machinery, equipment, vehicles and office furniture 3 to 15 years Tooling 4 to 7 years Building and building improvements 15 to 30 years Computer equipment and software 3 to 6 years AI infrastructure 5 to 30 years Leasehold improvements are depreciated on a straight-line basis over their estimated useful lives.
+    - AI infrastructure includes our owned data centers.
+    - In July 2025, we entered into a supply agreement for semiconductor contract manufacturing of our AI chips, which is expected to commence in 2027 or later.
+    - In 2025, we initiated certain actions in order to reduce costs and improve efficiency through convergence of AI chip design efforts.
+  [Risk Factors]
+    - Our business and our future plans for expansion, supporting infrastructure for our businesses, and AI innovations, including growth in our fleet of AI-enabled company-operated assets and new businesses, such as our development and production of Bots, are capital-intensive, and the specific timing of cash inflows and outflows may fluctuate substantially from period to period.
+    - In order to be successful, we will need to further advance our capabilities in AI, and implement, maintain and ramp efficient and cost-effective manufacturing capabilities, processes and supply chains and achieve the design tolerances, high quality and output rates we have planned at our manufacturing facilities.
+    - For example, as companies, including Tesla, have made rapid advancements in AI in recent years, such innovation demands exponentially greater compute, memory, energy and thermal resources, which may prove insufficient in scale or affordability to meet our requirements.
+    - For example: Mr. Musk also currently holds management positions at Space Exploration Technologies Corp., X.AI Holdings Corp. (“xAI”), Neuralink Corp. and The Boring Company, and is involved in other ventures.
+    - Our business operations are and will continue to be subject to complex environmental, occupational, health and safety laws and regulations at numerous jurisdictional levels in the U.S., China, Germany and other locations abroad, including laws relating to the use, handling, storage, recycling, disposal and/or human exposure to hazardous materials, product material inputs and post-consumer products and with respect to constructing, expanding and maintaining our facilities and other infrastructure.
+    - There is no assurance that we will be able to ramp our business to meet our sales, delivery, installation, servicing and vehicle charging targets globally, that our projections on which such targets are based will prove accurate or that the pace of growth or coverage of our customer infrastructure network will meet customer expectations.
+
