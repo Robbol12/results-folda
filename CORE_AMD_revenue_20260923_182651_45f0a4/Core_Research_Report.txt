@@ -1,0 +1,385 @@
+[CORE RESEARCH] AMD: revenue
+
+Quarters searched: 3
+Filing sections searched: 44
+
+Across FY2024, revenue recovered from weaker segments (notably gaming and embedded) while data center and client drove most of the upside. In Q1, net revenue was $5.5B, up 2% y/y, aligning with management’s broader narrative of segment mix benefits. In Q2, management guided revenue to ~$6.7B ±$300M, but actual revenue was $5.8B (below the guidance range), while segment commentary continued to emphasize improving order patterns. In Q3, management again referenced far lower revenue ("perhaps $2 billion"), yet reported $6.8B net revenue, indicating that the specific implied full-year framing missed while quarterly results were much stronger than that remark. In Q4, revenue landed at $7.7B, within the stated $7.1B ±$300M range (forecast resolution shown only for the quarterly figure).
+
+Forecasting credibility: Low
+From the provided guidance/actual pairs with verdicts, management missed key revenue targets at least twice (Q2 full-quarter revenue level and Q3 “$2 billion” reference) and only met once (Q4 quarterly revenue within ~$7.1B ±$300M). This miss-heavy pattern reduces confidence in management’s revenue forecasting accuracy for the year/quarterly levels, even though the company’s underlying trend (data center/client strength) was directionally consistent.
+
+Trends:
+  - Data center and client drove growth while gaming/embedded acted as offsets
+  - Seasonality/second-half strength reiterated across the year
+  - Quarterly net revenue swung materially around management’s guidance
+
+Recurring themes/risks:
+  - Segment mix volatility (gaming/embedded declines offsetting data center/client gains)
+  - Order-pattern uncertainty and timing impacts on revenue
+  - Reliance on data center GPU ramp assumptions for year-level expectations
+
+Key concerns:
+  - Guidance-to-actual mismatch for Q2 revenue level: guided approximately $6.7B ±$300M versus actual $5.8B (below the guided range).
+  - Q3 included a much lower revenue expectation reference (“perhaps $2 billion” for 2024) while the quarterly reported revenue was $6.8B; this suggests risk of confusion/misaligned framing for full-year implications.
+  - Year-level GPU revenue guidance was revised upward multiple times and still marked as missed in the provided pair set, implying uncertainty in ramp timing.
+
+Conclusion:
+Revenue in FY2024 showed a strong rebound driven by data center and client strength, but management’s specific revenue forecasts were less reliable. Reported net revenue was $5.5B in Q1 (up 2% y/y) and $5.8B in Q2 (up 9% y/y) against Q2 guidance of ~$6.7B ±$300M (missed the implied range). Q3 net revenue was $6.8B (up 18% y/y per filing excerpt), despite management’s “perhaps $2 billion” reference for 2024 being marked missed in the guidance/actual set. Q4 revenue was $7.7B (up 24% y/y), and the provided pair set indicates the $7.1B ±$300M guidance was met, suggesting better forecasting precision later in the year despite earlier misses.
+
+Evidence Coverage: 97.3% complete; 358/368 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Observed] [from presentation deck] Data Center Segment Revenue $2.3B Up 80% y/y Gross Margin 47% Non-GAAP Gross Margin 52% EPS $0.07 Non-GAAP EPS $0.62 Revenue $5.5B Up 2% y/y Q1 2024 SUMMARY 1 RECORD DATA CENTER SEGMENT REVENUE DRIVEN BY STRONG AMD INSTINCT GPU RAMP 1.
+  - [Observed] [from presentation deck] See Appendices for GAAP to Non-GAAP reconciliation ▪ Increase driven by higher revenue contribution from Data Center and Client segments, partially offset by lower Embedded and Gaming segments revenue Non-GAAP 1 44% 47% Q1 2023 Q1 2024 GAAP ▪ Increase driven by higher revenue contribution from Data Center and Client segments, lower amortization of acquisition-related intangible assets, partially offset by lower Embedded and Gaming segments revenue 50% 52% Q1 2023 Q1 2024 [Page 9] Q1 2024 FINANCIAL RESULTS – APRIL 30, 2024 9 Q1 2023 Q1 2024 $(0.14)B $0.04B OPERATING INCOME (LOSS) Q1 2024 1.
+Filing disclosures (SEC):
+  [MD&A]
+    - Net revenue for the three months ended March 30, 2024 was $5.5 billion, a 2% increase compared to the prior year period.
+    - Historically, our net revenue has been generally higher in the second half of the year than in the first half of the year, although market conditions and product transitions could impact this trend.
+    - Client Client net revenue of $1.4 billion for the three months ended March 30, 2024 increased by 85%, compared to net revenue of $739 million for the prior year period, primarily driven by a 58% increase in unit shipments and a 16% increase in average selling price of Ryzen processors, resulting from a recovery of weak PC market conditions and inventory corrections across the PC supply chain experienced in the first half of fiscal year 2023.
+    - Embedded Embedded net revenue of $846 million for the three months ended March 30, 2024 decreased by 46%, compared to net revenue of $1.6 billion for the prior year period, as customers continued to manage their inventory levels.
+    - 21 Table of Contents Gaming Gaming net revenue of $922 million for the three months ended March 30, 2024 decreased by 48%, compared to net revenue of $1.8 billion for the prior year period, primarily due to a decrease in semi-custom revenue and lower Radeon GPU sales.
+  [Financial Statements]
+    - Revenue: $5.47B | vs prior quarter: — | vs prior year: $5.35B (+2.2%)
+    - Cost of Revenue: $2.91B | vs prior quarter: — | vs prior year: $2.99B (-2.7%)
+    - 1 real filing table(s) available (see the HTML report).
+    - Revenue recognized over time associated with custom products and development services accounted for 16 % and 29 % of the Company’s revenue for the three months ended March 30, 2024 and April 1, 2023, respectively.
+    - The revenue allocated to remaining performance obligations does not include amounts which have an original expected duration of one year or less.
+  [Footnotes]
+    - 3 real filing table(s) available (see the HTML report).
+    - Areas where management uses judgment include, but are not limited to, revenue allowances, inventory valuation, valuation of goodwill, long-lived and intangible assets, and income taxes.
+    - Unbilled accounts receivable primarily represents work completed on development services and on custom products for which revenue has been recognized but not yet invoiced.
+  [Risk Factors]
+    - For example, historically, our net revenue has been generally higher in the second half of the year than in the first half of the year, although market conditions and product transitions could impact these trends.
+    - Also, in our Client segment revenue is focused on the consumer desktop and notebook PC segments, which decreased in the first half of 2023 due to a decline in the PC market.
+    - International sales, as a percent of net revenue, were 60% for the three months ended March 30, 2024.
+    - We depend on a small number of customers for a substantial portion of our business and we expect that a small number of customers will continue to account for a significant part of our revenue in the future.
+    - This uneven sales pattern makes prediction of revenue for each financial period difficult and increases the risk of unanticipated variations in quarterly results and financial condition.
+    - The markets in which our products are sold are highly competitive and delivering the latest and best products to market on a timely basis is critical to achieving revenue growth.
+
+=== Q2 2024 ===
+Management said:
+  - We expect revenue to be approximately $6.7 billion, plus or minus $300 million.
+  - For the second quarter of 2024, revenue was $5.8 billion, up 9% year over year as revenue growth in the data center and the client segments was partially offset by lower revenue in our gaming and embedded segment.
+  - Revenue increased 7% sequentially, primarily driven by growth in the data center and client segments revenue.
+  - Revenue decreased 41% year over year to $861 million.
+  - Gaming segment revenue was $648 million, down 59% year over year and 30% sequentially.
+  - Embedded segment revenue was $861 million, down 41% year over year as customers continued to normalize their inventory levels.
+  - As a result, second-quarter revenue increased 9% year over year to $5.8 billion as significantly higher sales of our data center and client processors more than offset declines in gaming and embedded product sales.
+  - Sequentially, we expect revenue to grow approximately 15%, primarily driven by strong growth in the data center and client segment.
+  - Client segment revenue was $1.5 billion, up 49% year over year and 9% sequentially, driven primarily by AMD Ryzen processor sales.
+  - Starting with data center, data center delivered record quarterly segment revenue of $2.8 billion, up 115%, a $1.5 billion increase year over year.
+  - Data center segment revenue increased 115% year over year to a record $2.8 billion, driven by the steep ramp of Instinct MI300 GPU shipments and a strong double-digit percentage increase in EPYC CPU sales.
+  - We delivered our third straight quarter of record data center GPU revenue with MI300 quarterly revenue exceeding $1 billion for the first time.
+  - As a result, we now expect data center GPU revenue to exceed $4.5 billion in 2024, up from the $4 billion we guided in April.
+  - Revenue was $1.5 billion, an increase of 49% year over year, driven by strong demand for our prior-generation Ryzen processors and initial shipments of our next-generation Zen 5 processors.
+  - Customer excitement for our new Ryzen processors is very strong, and we are well positioned for ongoing revenue share gains based on the strength of our leadership portfolio and design win momentum.
+  - Revenue declined 59% year over year to $648 million as semi-custom SoC sales declined in line with our projections.
+  - In gaming graphics, revenue increased year over year, driven by improved sales of our Radeon 6000 and 7000 Series GPUs in the channel.
+  - The first quarter marked the bottom for our embedded segment revenue.
+  - Although second-quarter revenue was flattish sequentially, we saw early signs of order patterns improving and expect embedded revenue to gradually recover in the second half of the year.
+  - In summary, we delivered strong second-quarter results and are well-positioned to grow revenue significantly in the second half of the year, driven by our data center and client segments.
+  - On a year-over-year basis, data center segment revenue more than doubled, client segment revenue grew significantly, and we expanded the gross margin by 340 basis points.
+  - Gross margin was 53%, up 340 basis points year over year, primarily driven by higher data center revenue.
+  - The data center segment accounted for nearly 50% of total revenue, led primarily by the steep ramp of AMD Instinct GPUs and a strong double-digit percentage EPYC server revenue growth.
+  - On a sequential basis, revenue increased 21%, driven primarily by strong momentum in AMD Instinct GPUs.
+  - Data center segment operating income was $743 million or 26% of revenue compared to $147 million or 11% a year ago.
+  - Operating income was up more than five times from the prior year, driven by higher revenue and operating leverage even as we significantly increased our investment in R&D.
+  - Embedded segment operating income was $345 million or 40% of revenue compared to $757 million or 52% a year ago.
+  - We expect embedded segment revenue to be up and the gaming segment to decline by double-digit percentage.
+  - Year over year, we expect revenue to grow approximately 16%, driven by the steep ramp of our AMD Instinct processors and strong server and client revenue growth to more than offset the declines in the gaming and the embedded segment.
+  - We delivered record MI300 revenue that exceeded $1 billion and demonstrated solid traction with our next-gen Ryzen and EPYC product.
+  - As we look into the second half of the year, I think we would expect that MI300 revenue would continue to ramp in the third quarter and the fourth quarter.
+  - We'll see some revenue of Turin in the second half of the year contributing as well.
+  - From a revenue standpoint, there will be a small contribution in the fourth quarter, but it really is still mostly the MI300 capabilities.
+  - So, overall, I would say the PC market is a good revenue growth opportunity for us.
+  - If you look at our data center platform, especially both the server and the data center GPU side, we are ramping the revenue.
+  - Because the revenue ramp has been quite significant, the operating margin continued to expand.
+  - So, with gaming down double digits, it probably means you've got close to $1 billion of growth revenue across data center, client, and embedded.
+  - If you look at the data center business as a percentage of revenue from 37% in Q4 last year to now close to 50%.
+  - When you look at the second half, we'll continue to see data center to be the major driver of our top-line revenue growth, will help with the margin expansion.
+Guidance given:
+  - As a result, we now expect data center GPU revenue to exceed $4.5 billion in 2024, up from the $4 billion we guided in April. (target: FY2024; Missed)
+  - Although second-quarter revenue was flattish sequentially, we saw early signs of order patterns improving and expect embedded revenue to gradually recover in the second half of the year. (target: second half of the year; Unresolved)
+  - In summary, we delivered strong second-quarter results and are well-positioned to grow revenue significantly in the second half of the year, driven by our data center and client segments. (target: second half of the year; Unresolved)
+  - We expect embedded segment revenue to be up and the gaming segment to decline by double-digit percentage. (target: ongoing (future period referenced as upcoming/expected in the remainder context of the call); Unresolved)
+  - Year over year, we expect revenue to grow approximately 16%, driven by the steep ramp of our AMD Instinct processors and strong server and client revenue growth to more than offset the declines in the gaming and the embedded segment. (target: year-over-year; Unresolved)
+  - As we look into the second half of the year, I think we would expect that MI300 revenue would continue to ramp in the third quarter and the fourth quarter. (target: Q3 2024 and Q4 2024; Missed)
+  - We'll see some revenue of Turin in the second half of the year contributing as well. (target: second half of the year (ongoing); Unresolved)
+  - From a revenue standpoint, there will be a small contribution in the fourth quarter, but it really is still mostly the MI300 capabilities. (target: Q4 2024; Missed)
+  - If you look at our data center platform, especially both the server and the data center GPU side, we are ramping the revenue. (target: ongoing; Unresolved)
+  - When you look at the second half, we'll continue to see data center to be the major driver of our top-line revenue growth, will help with the margin expansion. (target: second half; Unresolved)
+  - Strategic Highlights $0.9B Q2 2023 Q2 2024 52% 40% Q2 2023 Q2 2024 Revenue Operating Margin Revenue $861 Million Down 41% y/y Primarily due to customers continuing to normalize their inventory levels Operating Income $345 Million vs. $757 Million a year ago $1.5B Primarily due to lower revenue [Page 20] 20 Q2 2024 FINANCIAL RESULTS – JULY 30, 2024 20 ($ in millions) Q3’24 Revenue ~$6.7 Billion, +/- $300 Million Gross Margin ~53.5% Operating Expenses ~$1.9 Billion Effective Tax Rate ~13% of pre-tax income Diluted Share Count² ~1.64 Billion shares FINANCIAL OUTLOOK – NON-GAAP 1 1. (target: Q3'24; Unresolved)
+  - We expect revenue to be approximately $6.7 billion, plus or minus $300 million. (target: Q2 2024; Unresolved)
+  - Sequentially, we expect revenue to grow approximately 15%, primarily driven by strong growth in the data center and client segment. (target: next sequential quarter (following Q2 2024); Unresolved)
+Actual reported:
+  - [Observed] For the second quarter of 2024, revenue was $5.8 billion, up 9% year over year as revenue growth in the data center and the client segments was partially offset by lower revenue in our gaming and embedded segment.
+  - [Observed] Revenue increased 7% sequentially, primarily driven by growth in the data center and client segments revenue.
+  - [Observed] Revenue decreased 41% year over year to $861 million.
+  - [Observed] Gaming segment revenue was $648 million, down 59% year over year and 30% sequentially.
+  - [Observed] Embedded segment revenue was $861 million, down 41% year over year as customers continued to normalize their inventory levels.
+  - [Observed] As a result, second-quarter revenue increased 9% year over year to $5.8 billion as significantly higher sales of our data center and client processors more than offset declines in gaming and embedded product sales.
+  - [Observed] Client segment revenue was $1.5 billion, up 49% year over year and 9% sequentially, driven primarily by AMD Ryzen processor sales.
+  - [Observed] Starting with data center, data center delivered record quarterly segment revenue of $2.8 billion, up 115%, a $1.5 billion increase year over year.
+  - [Observed] The decrease in revenue was primarily due to semi-custom inventory digestion and the lower-end market demand.
+  - [Observed] On a sequential basis, embedded segment revenue was up 2%.
+  - [Observed] We delivered strong second-quarter financial results, with revenue coming in above the midpoint of guidance and profitability increasing by a double-digit percentage driven by higher-than-expected sales of our Instinct, Ryzen, and EPYC processors.
+  - [Observed] Data center segment revenue increased 115% year over year to a record $2.8 billion, driven by the steep ramp of Instinct MI300 GPU shipments and a strong double-digit percentage increase in EPYC CPU sales.
+  - [Observed] We delivered our third straight quarter of record data center GPU revenue with MI300 quarterly revenue exceeding $1 billion for the first time.
+  - [Observed] Revenue was $1.5 billion, an increase of 49% year over year, driven by strong demand for our prior-generation Ryzen processors and initial shipments of our next-generation Zen 5 processors.
+  - [Observed] Revenue declined 59% year over year to $648 million as semi-custom SoC sales declined in line with our projections.
+  - [Observed] In gaming graphics, revenue increased year over year, driven by improved sales of our Radeon 6000 and 7000 Series GPUs in the channel.
+  - [Observed] The first quarter marked the bottom for our embedded segment revenue.
+  - [Observed] On a year-over-year basis, data center segment revenue more than doubled, client segment revenue grew significantly, and we expanded the gross margin by 340 basis points.
+  - [Observed] The data center segment accounted for nearly 50% of total revenue, led primarily by the steep ramp of AMD Instinct GPUs and a strong double-digit percentage EPYC server revenue growth.
+  - [Observed] On a sequential basis, revenue increased 21%, driven primarily by strong momentum in AMD Instinct GPUs.
+  - [Observed] We delivered record MI300 revenue that exceeded $1 billion and demonstrated solid traction with our next-gen Ryzen and EPYC product.
+  - [Observed] So, with gaming down double digits, it probably means you've got close to $1 billion of growth revenue across data center, client, and embedded.
+  - [Observed] If you look at the data center business as a percentage of revenue from 37% in Q4 last year to now close to 50%.
+  - [Observed] [from presentation deck] Strategic Highlights$1.6B $0.6B Q2 2023 Q2 2024 Revenue Operating Margin Revenue $648 Million Down 59% y/y Operating Income $77 Million vs. $225 Million a year ago Primarily due to lower revenuePrimarily due to lower semi-custom revenue [Page 19] Q2 2024 FINANCIAL RESULTS – JULY 30, 2024 19 EMBEDDED SEGMENT Q2 2024 ▪ Announced AlveoTM V80 accelerators delivering leadership capabilities in memory intensive workloads.
+  - [Observed] [from presentation deck] Strategic Highlights $0.9B Q2 2023 Q2 2024 52% 40% Q2 2023 Q2 2024 Revenue Operating Margin Revenue $861 Million Down 41% y/y Primarily due to customers continuing to normalize their inventory levels Operating Income $345 Million vs. $757 Million a year ago $1.5B Primarily due to lower revenue [Page 20] 20 Q2 2024 FINANCIAL RESULTS – JULY 30, 2024 20 ($ in millions) Q3’24 Revenue ~$6.7 Billion, +/- $300 Million Gross Margin ~53.5% Operating Expenses ~$1.9 Billion Effective Tax Rate ~13% of pre-tax income Diluted Share Count² ~1.64 Billion shares FINANCIAL OUTLOOK – NON-GAAP 1 1.
+  - [Observed] [from presentation deck] Strategic Highlights $1.0B $1.5B Q2 2023 Q2 2024 (7)% 6% Q2 2023 Q2 2024 Revenue Operating Margin Revenue $1.5 Billion Up 49% y/y Primarily driven by higher AMD Ryzen processor sales Operating Income $89 Million vs. $69 Million Loss a year ago Driven by higher revenue, partially offset by higher operating expenses [Page 18] Q2 2024 FINANCIAL RESULTS – JULY 30, 2024 18 14% 12% Q2 2023 Q2 2024 GAMING SEGMENT Q2 2024 ▪ Launched Radeon PRO W7900 Dual Slot GPU for high-performance AI workstations.
+  - [Observed] [from presentation deck] Data Center Segment Revenue $2.8B Up 115% y/y Gross Margin 49% Non-GAAP Gross Margin 53% EPS $0.16 Non-GAAP EPS $0.69 Revenue $5.8B Up 9% y/y Q2 2024 SUMMARY 1 RECORD DATA CENTER SEGMENT REVENUE DRIVEN BY AMD INSTINCT GPUS AND 4TH GEN AMD EPYC CPUS 1.
+  - [Observed] [from presentation deck] Q2 2024 SEGMENT RESULTS ($ in millions) Q2’24 Q2’23 Y/Y Q1’24 Q/Q Data Center Net Revenue $2,834 $1,321 Up 115% $2,337 Up 21% Operating Income $743 $147 Up 405% $541 Up 37% Client 
+Filing disclosures (SEC):
+  [MD&A]
+    - Net revenue for the three months ended June 29, 2024 was $5.8 billion, a 9% increase compared to the prior year period.
+    - Embedded net revenue of $1.7 billion for the six months ended June 29, 2024 decreased by 43%, compared to net revenue of $3.0 billion for the prior year period.
+    - Data Center net revenue of $5.2 billion for the six months ended June 29, 2024 increased by 98%, compared to net revenue of $2.6 billion for the prior year period.
+    - Historically, our net revenue has been generally higher in the second half of the year than in the first half of the year, although market conditions and product transitions could impact this trend.
+    - Gaming net revenue of $1.6 billion for the six months ended June 29, 2024 decreased by 53%, compared to net revenue of $3.3 billion for the prior year period.
+  [Financial Statements]
+    - Revenue: $5.83B | vs prior quarter: $5.47B (+6.6%) | vs prior year: $5.36B (+8.9%)
+    - Cost of Revenue: $2.97B | vs prior quarter: $2.91B (+2.0%) | vs prior year: $2.92B (+1.9%)
+    - 1 real filing table(s) available (see the HTML report).
+    - Revenue recognized over time associated with custom products and development services accounted for 8 % and 12 % of the Company’s revenue for the three and six months ended June 29, 2024, respectively and 27 % and 28 % of the Company’s revenue for the three and six months ended July 1, 2023, respectively.
+    - The revenue allocated to remaining performance obligations does not include amounts which have an original expected duration of one year or less.
+  [Footnotes]
+    - 2 real filing table(s) available (see the HTML report).
+    - Areas where management uses judgment include, but are not limited to, revenue allowances, inventory valuation, valuation of goodwill, long-lived and intangible assets, and income taxes.
+    - Unbilled accounts receivable primarily represent work completed on development services and on custom products for which revenue has been recognized but not yet invoiced.
+  [Risk Factors]
+    - For example, historically, our net revenue has been generally higher in the second half of the year than in the first half of the year, although market conditions and product transitions could impact these trends.
+    - International sales, as a percent of net revenue, were 60% for the three months ended June 29, 2024.
+    - We depend on a small number of customers for a substantial portion of our business and we expect that a small number of customers will continue to account for a significant part of our revenue in the future.
+    - Also, our Client segment revenue is focused on the consumer desktop and notebook PC segments, each of which decreased in the first half of 2023 due to a decline in the PC market.
+    - This uneven sales pattern makes prediction of revenue for each financial period difficult and increases the risk of unanticipated variations in quarterly results and financial condition.
+    - In the past, revenues from the Client and Gaming segments have experienced a decline driven by, among other factors, the adoption of smaller and other form factors, increased competition and changes in replacement cycles.
+
+=== Q3 2024 ===
+Management said:
+  - Revenue declined 69% year-over-year to $462 million.
+  - I -- For the third quarter of 2024, revenue was $6.8 billion, up 18% year-over-year and the revenue -- as revenue growth in our Data Center and Client segment was partially offset by lower revenue in our Gaming and Embedded segment.
+  - We had talked about perhaps $2 billion of revenue in 2024.
+  - Revenue increased 17% sequentially, primarily driven by growth in our Data Center and Client segment.
+  - Third quarter revenue decreased 25% year-over-year to $927 million.
+  - Third-quarter revenue increased 18% year-over-year to a record $6.8 billion as significantly higher Data Center and Client Processor sales more than offset declines in Gaming and Embedded product sales.
+  - Revenue increased 8% sequentially as demand improved in several end markets.
+  - Gaming segment revenue was $462 million, down 69% year-over-year and 29% sequentially, primarily due to a decrease in semi customer revenue.
+  - We expect revenue to be up approximately 10% sequentially, driven primarily by growth across Data Center, Client, and the Gaming segment.
+  - Data Center delivered record quarterly segment revenue of $3.5 billion, up 122%, nearly a $2 billion increase year-over-year and an increase of 25% sequentially.
+  - We delivered record revenue, along with the strong year-over-year expansion in gross margin and earnings-per-share growth.
+  - Client segment operating income was $276 million or 15% of revenue compared to operating income of $140 million a year ago or 10% of revenue.
+  - And obviously, it shows in the revenue results.
+  - The Data Center segment accounted for 52% of total revenue in the third quarter.
+  - Gaming segment operating income was $12 million or 2% of revenue compared to $208 million or 14% a year ago.
+  - We delivered strong top and bottom line growth in the third quarter with revenue coming in above expectations, driven by record Instinct and EPYC product sales and robust demand for our Ryzen PC processors.
+  - We expanded gross margin by 2.5 percentage points and increased earnings per share by 31% year-over-year as Data Center segment revenue more than doubled.
+  - Data Center segment revenue increased 122% to a record $3.5 billion.
+  - Turning to our Data Center AI business Data Center GPU revenue ramped as MI300X adoption expanded with cloud, OEM and AI customers.
+  - As a result, we now expect Data Center GPU revenue to exceed $5 billion in 2024, up from $4.5 billion we guided in July and our expectation of $2 billion when we started the year.
+  - Revenue was $1.9 billion, an increase of 29% year-over-year, driven by strong demand for our latest generation Zen 5 notebook and desktop processors.
+  - In Gaming Graphics, revenue declined year-over-year as we prepare for a transition to our next-gen Radeon GPUs based on our RDNA 4 architecture.
+  - On a year-over-year basis, Data Center segment revenue more than doubled and the Client segment revenue grew 29%.
+  - Gross margin was 54%, up 250 basis points year-over-year, primarily driven by higher data center segment revenue.
+  - Growth in revenue was led primarily by the strong ramp of AMD Instinct GPU shipment and growth in AMD EPYC CPU sales.
+  - Data Center segment operating income was $1 billion or 29% of revenue compared to $306 million or 19% a year ago.
+  - Data Center segment operating income more than tripled compared to the prior year, driven by higher revenue and operating leverage.
+  - Client segment revenue was $1.9 billion, up 29% year-over-year and 26% sequentially, driven primarily by strong demand for our Zen 5 AMD Ryzen processors.
+  - primarily driven by higher revenue, partially offset by higher operating expenses.
+  - Embedded segment revenue was $927 million, down 25% year-over-year as customers continue to normalize their inventory levels.
+  - Embedded segment operating income was $372 million or 40% of revenue compared to $612 million or 49% a year ago.
+  - We expect revenue to be approximately $7.5 billion, plus or minus $300 million, up 22% year-over-year, driven by strong growth in our Data Center and Client segment, more than offset decline in the Gaming and Embedded segments.
+  - Looking ahead, we are very well positioned to deliver another record quarter of revenue in the fourth quarter, driven by continued momentum in our data center and client segments.
+  - In general, when you look at 2024, our gross margin improvement has been primarily driven by the mix, especially Data Center business continue to be the strong growth driver of our business, it's accounting for more than 50% of our revenue mix, that helps us to improve gross margin.
+  - Again, that was part of the reason for the higher revenue in the third quarter around our Instinct business, just both customer demand as well supply chain improvement.
+  - And then as a quick follow-up, when I look at the sequential guidance in revenue at the midpoint, let's call it about $680 million up sequentially.
+  - And being able to talk about exceeding $5 billion of revenue in 2024, I think we feel really good about that.
+  - I wonder if you could talk about the $5 billion of AI revenue, how that breaks down between training and inference, if you're able to assess that and just I know you sort of started off with most of the traction in inference, but you've seen some traction on the training side.
+  - But the question earlier was the revenue of $1.5 billion, and I said that it was greater than $1.5 billion.
+  - And also congratulations on $5 billion in Instinct revenues.
+  - I know you probably won't give us a revenue level or a time frame, but maybe you could help us frame in some manner that we could try and understand it.
+  - We are very pleased with our overall revenue ramp of our Data Center GPU business, and our team not only support the revenue ramp and continue to improve the gross margin.
+  - On the gross margin side, once we continue to ramp the revenue, we do think we'll have the opportunity to continue to improve gross margin.
+  - But when you look at our Data Center segment performance, we more than doubled the revenue year-over-year, but we tripled the operating income year-over-year.
+Guidance given:
+  - We had talked about perhaps $2 billion of revenue in 2024. (target: FY2024; Missed)
+  - We expect revenue to be up approximately 10% sequentially, driven primarily by growth across Data Center, Client, and the Gaming segment. (target: Q4 2024 (sequential); Met)
+  - As a result, we now expect Data Center GPU revenue to exceed $5 billion in 2024, up from $4.5 billion we guided in July and our expectation of $2 billion when we started the year. (target: FY 2024; Missed)
+  - We expect revenue to be approximately $7.5 billion, plus or minus $300 million, up 22% year-over-year, driven by strong growth in our Data Center and Client segment, more than offset decline in the Gaming and Embedded segments. (target: next period (implied near-term outlook; not explicitly stated); Unresolved)
+  - Looking ahead, we are very well positioned to deliver another record quarter of revenue in the fourth quarter, driven by continued momentum in our data center and client segments. (target: Q4 2024; Met)
+  - And then as a quick follow-up, when I look at the sequential guidance in revenue at the midpoint, let's call it about $680 million up sequentially. (target: next quarter sequential revenue change (midpoint); Unresolved)
+Actual reported:
+  - [Unresolved, Missed] Revenue declined 69% year-over-year to $462 million.
+  - [Observed] For the third quarter of 2024, revenue was $6.8 billion, up 18% year-over-year and the revenue -- as revenue growth in our Data Center and Client segment was partially offset by lower revenue in our Gaming and Embedded segment.
+  - [Observed] Revenue increased 17% sequentially, primarily driven by growth in our Data Center and Client segment.
+  - [Observed] Third quarter revenue decreased 25% year-over-year to $927 million.
+  - [Observed] Third-quarter revenue increased 18% year-over-year to a record $6.8 billion as significantly higher Data Center and Client Processor sales more than offset declines in Gaming and Embedded product sales.
+  - [Observed] Revenue increased 8% sequentially as demand improved in several end markets.
+  - [Observed] Gaming segment revenue was $462 million, down 69% year-over-year and 29% sequentially, primarily due to a decrease in semi customer revenue.
+  - [Observed] Data Center delivered record quarterly segment revenue of $3.5 billion, up 122%, nearly a $2 billion increase year-over-year and an increase of 25% sequentially.
+  - [Observed] The Data Center segment accounted for 52% of total revenue in the third quarter.
+  - [Observed] We delivered strong top and bottom line growth in the third quarter with revenue coming in above expectations, driven by record Instinct and EPYC product sales and robust demand for our Ryzen PC processors.
+  - [Observed] Data Center segment revenue increased 122% to a record $3.5 billion.
+  - [Observed] Revenue was $1.9 billion, an increase of 29% year-over-year, driven by strong demand for our latest generation Zen 5 notebook and desktop processors.
+  - [Observed] On a year-over-year basis, Data Center segment revenue more than doubled and the Client segment revenue grew 29%.
+  - [Observed] Growth in revenue was led primarily by the strong ramp of AMD Instinct GPU shipment and growth in AMD EPYC CPU sales.
+  - [Observed] Client segment revenue was $1.9 billion, up 29% year-over-year and 26% sequentially, driven primarily by strong demand for our Zen 5 AMD Ryzen processors.
+  - [Observed] Embedded segment revenue was $927 million, down 25% year-over-year as customers continue to normalize their inventory levels.
+  - [Observed] Again, that was part of the reason for the higher revenue in the third quarter around our Instinct business, just both customer demand as well supply chain improvement.
+  - [Observed] And being able to talk about exceeding $5 billion of revenue in 2024, I think we feel really good about that.
+  - [Observed] But the question earlier was the revenue of $1.5 billion, and I said that it was greater than $1.5 billion.
+  - [Observed] But when you look at our Data Center segment performance, we more than doubled the revenue year-over-year, but we tripled the operating income year-over-year.
+  - [Observed] [from presentation deck] [Page 8] Q3 2024 FINANCIAL RESULTS – OCTOBER 29, 2024 8 REVENUE Q3 2024 ▪ Revenue of $6.8 billion increased 18% y/y ▪ Revenue growth in Data Center and Client segments partially offset by lower revenue in Gaming and Embedded segments $5.8B $6.8B Q3 2023 Q3 2024 [Page 9] Q3 2024 FINANCIAL RESULTS – OCTOBER 29, 2024 9 GROSS MARGIN Q3 2024 1.
+  - [Observed] [from presentation deck] 21 Q3 2024 FINANCIAL RESULTS – OCTOBER 29, 2024 21 21 Data Center Segment Revenue $3.5B Up 122% y/y Gross Margin 50% Non-GAAP Gross Margin 54% EPS $0.47 Non-GAAP EPS $0.92 Revenue $6.8B Up 18% y/y Q3 2024 SUMMARY 1 RECORD DATA CENTER SEGMENT REVENUE DRIVEN BY AMD INSTINCT GPU AND AMD EPYC CPU PORTFOLIOS 1.
+  - [Observed] [from presentation deck] 15 Q3 2024 FINANCIAL RESULTS – OCTOBER 29, 2024 15 Q3 2024 SEGMENT RESULTS ($ in millions) Q3’24 Q3’23 Y/Y Q2’24 Q/Q Data Center Net Revenue $3,549 $1,598 Up 122% $2,834 Up 25% Operating Income $1,041 $306 Up 240% $743 Up 40% Cli
+Filing disclosures (SEC):
+  [MD&A]
+    - Net revenue for the three months ended September 28, 2024 was $6.8 billion, an 18% increase compared to the prior year period.
+    - Client Client net revenue of $1.9 billion for the three months ended September 28, 2024 increased by 29%, compared to net revenue of $1.5 billion for the prior year period.
+    - Data Center net revenue of $8.7 billion for the nine months ended September 28, 2024 increased by 107%, compared to net revenue of $4.2 billion for the prior year period.
+    - Embedded net revenue of $2.6 billion for the nine months ended September 28, 2024 decreased by 38%, compared to net revenue of $4.3 billion for the prior year period.
+    - Historically, our net revenue has been generally higher in the second half of the year than in the first half of the year, although market conditions and product transitions could impact this trend.
+  [Financial Statements]
+    - Revenue: $6.82B | vs prior quarter: $5.83B (+16.9%) | vs prior year: $5.80B (+17.6%)
+    - Cost of Revenue: $3.40B | vs prior quarter: $2.97B (+14.4%) | vs prior year: $3.05B (+11.4%)
+    - 1 real filing table(s) available (see the HTML report).
+    - Revenue recognized over time associated with custom products and development services accounted for 5 % and 10 % of the Company’s revenue for the three and nine months ended September 28, 2024, respectively and 25 % and 27 % of the Company’s revenue for the three and nine months ended September 30, 2023, respectively.
+    - The revenue allocated to remaining performance obligations does not include amounts which have an original expected duration of one year or less.
+    - Unbilled accounts receivable primarily represent work completed on development services and on custom products for which revenue has been recognized but not yet invoiced.
+  [Footnotes]
+    - 2 real filing table(s) available (see the HTML report).
+    - Areas where management uses judgment include, but are not limited to, revenue allowances, inventory valuation, valuation of goodwill, long-lived and intangible assets, and income taxes.
+  [Risk Factors]
+    - For example, historically, our net revenue has been generally higher in the second half of the year than in the first half of the year, although market conditions and product transitions could impact these trends.
+    - International sales, as a percent of net revenue, were 72% for the three months ended September 28, 2024.
+    - We depend on a small number of customers for a substantial portion of our business and we expect that a small number of customers will continue to account for a significant part of our revenue in the future.
+    - This uneven sales pattern makes prediction of revenue for each financial period difficult and increases the risk of unanticipated variations in quarterly results and financial condition.
+    - In the past, revenues from the Client and Gaming segments have experienced a decline driven by, among other factors, the adoption of smaller and other form factors, increased competition and changes in replacement cycles.
+    - The revenue that we receive from our semi-custom SoC products is in the form of non-recurring engineering fees charged to third parties for design and development services and revenue received in connection with sales of our semi-custom SoC products to these third parties.
+
+=== Q4 2024 ===
+Management said:
+  - Revenue increased 58% year over year to a record $2.3 billion.
+  - We expect revenue to be approximately $7.1 billion plus or minus $300 million, up 30% year over year, driven by strong growth in our data center and the client business.
+  - Revenue declined 59% year over year to $563 million.
+  - For the fourth quarter of 2024, Revenue was a record $7.7 billion, growing 24% year over year as strong revenue growth in the data center and client segment was partially offset by lower revenue in our gaming and embedded segments.
+  - Revenue was up 12% sequentially, primarily driven by the growth of client, data center, and the gaming segments.
+  - Fourth quarter revenue increased 24% year over year to a record $7.7 billion, led by record quarterly data center and client segment revenue both of which grew by a significant double-digit percentage.
+  - On a full-year basis, annual revenue grew 14% to $25.8 billion as data center revenue nearly doubled and client segment revenue grew 52%, more than offsetting declines in our Gaming and Embedded segments.
+  - Revenue was a record of $3.9 billion, up 69% year over year, driven by strong growth, both AMD Instinct GPU and the fourth and the fifth generation AMD EPYC CPU sales.
+  - Fourth quarter revenue decreased 13% year over year to $923 million.
+  - We expect revenue to be down sequentially approximately 7%, driven primarily by seasonality across our businesses.
+  - Gaming segment revenue was $563 million, down 59% year over year primarily due to a decrease in semi customer revenue.
+  - Importantly, the data center segment contributed roughly 50% of annual revenue, as Instinct and EPYC processor adoption expanded significantly with cloud, enterprise, and supercomputing customers.
+  - 2024 was an outstanding year, as we accelerated our AI hardware road map to deliver an annual cadence of new Instinct accelerators, expanded our ROCm software suite with significant uplifts in inferencing and training performance, built strong customer relationships with key industry leaders, and delivered greater than $5 billion of data center AI revenue for the year.
+  - We gained client revenue share for the fourth straight quarter, driven by significantly higher demand for both Ryzen desktop and mobile processors.
+  - Based on the breadth of our leadership client CPU portfolio and strong design win momentum, we believe we can grow client segment revenue well ahead of the market.
+  - In Gaming Graphics, revenue declined year over year, as we accelerated channel sellout in preparation for the launch of our next-gen Radeon 9000 series GPUs.
+  - In summary, we ended 2024 with significant momentum, delivering record quarterly and full-year revenue.
+  - Against this backdrop, we believe we can deliver strong double-digit percentage revenue and EPS growth year over year.
+  - And we believe this places AMD on a steep long-term growth trajectory, led by the rapid scaling of our data center AI franchise for more than $5 billion of revenue in 2024 to tens of billions of dollars of annual revenue over the coming years.
+  - AMD executed very well in 2024, delivering record revenue of $25.8 billion, up 14%, driven by 94% growth in our data center segment and a 52% growth in our client segment, which more than offset headwinds in our gaming and embedded segments.
+  - Gross margin was 54%, up 330 basis points year over year due to a favorable shift in revenue mix with higher data center and client revenues lower gaming revenue, partially offset by the impact of lower embedded revenue.
+  - Data Center segment operating income was $1.2 billion or 30% of revenue compared to $666 million or 29% a year ago.
+  - Client segment revenue was a record of $2.3 billion, up 58% year over year, driven by strong demand for AMD Ryzen processors.
+  - Gaming segment operating income was $50 million or 9% of revenue compared to $224 million or 16% a year ago.
+  - Embedded segment operating income was $362 million or 39% of revenue compared to $461 million or 44% a year ago.
+  - We'll continue to provide distinct revenue disclosures for our data center, client, gaming, and embedded businesses, consistent with our current reporting.
+  - In closing, 2024 was a strong year for AMD, demonstrating our disciplined execution to deliver revenue growth and expand earnings at a faster rate than revenue.
+  - Looking ahead, we will build on the momentum to drive double-digit percentage revenue growth and further accelerated earnings in 2025 and beyond.
+  - I guess I'll just ask it right out of the gate is, as we think about the GPU business, and I appreciate you talked about delivering north of $5 billion of revenue, which is extremely impressive in 2024.
+  - And any kind of color you can provide us as far as kind of the progression of revenue, the pace of revenue first half versus second half as we think about some of the product cycle dynamics.
+  - And from the shape of the revenue you would expect that the second half would be stronger than the first half, just given MI350 will be a catalyst for the data center GPU business.
+  - Our gross margin is primarily driven by our revenue mix, I think when you look at looking to 2025, Q1 guide, not only data center continued to grow significantly year over year.
+  - So, overall, the revenue mix is quite consistent with the Q4.
+  - I think for the first half, if the revenue mix is at this level, we do feel the gross margin will be consistent with 54%.
+Investor presentation deck:
+  - 26 Q4 2024 FINANCIAL RESULTS FEBRUARY 4, 2025 [Page 27] –27 FINANCIAL OUTLOOK – NON-GAAP 1 ($ in millions) Q1’25 Revenue ~$7.1 Billion, +/- $300 Million Gross Margin ~54% Operating Expenses ~$2.1 Billion Interest Expense/Other Income (Expense), net ~$24 Million Effective Tax Rate ~13% of pre-tax income Diluted Share Count² ~1.64 Billion shares 1. [Presentation_7604e21dc5626ff5.html]
+Guidance given:
+  - We expect revenue to be approximately $7.1 billion plus or minus $300 million, up 30% year over year, driven by strong growth in our data center and the client business. (target: Q4 2024; Unresolved)
+  - We expect revenue to be down sequentially approximately 7%, driven primarily by seasonality across our businesses. (target: next quarter (sequential); Unresolved)
+  - Based on the breadth of our leadership client CPU portfolio and strong design win momentum, we believe we can grow client segment revenue well ahead of the market. (target: ongoing; Unresolved)
+  - Against this backdrop, we believe we can deliver strong double-digit percentage revenue and EPS growth year over year. (target: year over year; Unresolved)
+  - And we believe this places AMD on a steep long-term growth trajectory, led by the rapid scaling of our data center AI franchise for more than $5 billion of revenue in 2024 to tens of billions of dollars of annual revenue over the coming years. (target: over the coming years; Unresolved)
+  - Looking ahead, we will build on the momentum to drive double-digit percentage revenue growth and further accelerated earnings in 2025 and beyond. (target: 2025 and beyond; Unresolved)
+  - Q1’25 Revenue ~$7.1 Billion, +/- $300 Million (target: Q1’25; Unresolved)
+Actual reported:
+  - [Missed, Met, Unresolved] Revenue increased 58% year over year to a record $2.3 billion.
+  - [Observed] Revenue declined 59% year over year to $563 million.
+  - [Observed] For the fourth quarter of 2024, Revenue was a record $7.7 billion, growing 24% year over year as strong revenue growth in the data center and client segment was partially offset by lower revenue in our gaming and embedded segments.
+  - [Observed] Revenue was up 12% sequentially, primarily driven by the growth of client, data center, and the gaming segments.
+  - [Observed] Fourth quarter revenue increased 24% year over year to a record $7.7 billion, led by record quarterly data center and client segment revenue both of which grew by a significant double-digit percentage.
+  - [Observed] On a full-year basis, annual revenue grew 14% to $25.8 billion as data center revenue nearly doubled and client segment revenue grew 52%, more than offsetting declines in our Gaming and Embedded segments.
+  - [Observed] Fourth quarter revenue decreased 13% year over year to $923 million.
+  - [Observed] Gaming segment revenue was $563 million, down 59% year over year primarily due to a decrease in semi customer revenue.
+  - [Observed] Embedded segment revenue was $923 million, down 13% year over year, as end market demand continues to be mixed.
+  - [Observed] Data center segment revenue increased 69% year over year to a record $3.9 billion.
+  - [Observed] As a result, we delivered record annual revenue, grew net income 26% for the year, and more than doubled free cash flow from 2023.
+  - [Observed] Importantly, the data center segment contributed roughly 50% of annual revenue, as Instinct and EPYC processor adoption expanded significantly with cloud, enterprise, and supercomputing customers.
+  - [Observed] 2024 was an outstanding year, as we accelerated our AI hardware road map to deliver an annual cadence of new Instinct accelerators, expanded our ROCm software suite with significant uplifts in inferencing and training performance, built strong customer relationships with key industry leaders, and delivered greater than $5 billion of data center AI revenue for the year.
+  - [Observed] In Gaming Graphics, revenue declined year over year, as we accelerated channel sellout in preparation for the launch of our next-gen Radeon 9000 series GPUs.
+  - [Observed] In summary, we ended 2024 with significant momentum, delivering record quarterly and full-year revenue.
+  - [Observed] AMD executed very well in 2024, delivering record revenue of $25.8 billion, up 14%, driven by 94% growth in our data center segment and a 52% growth in our client segment, which more than offset headwinds in our gaming and embedded segments.
+  - [Observed] Client segment revenue was a record of $2.3 billion, up 58% year over year, driven by strong demand for AMD Ryzen processors.
+  - [Observed] In closing, 2024 was a strong year for AMD, demonstrating our disciplined execution to deliver revenue growth and expand earnings at a faster rate than revenue.
+  - [Observed] I guess I'll just ask it right out of the gate is, as we think about the GPU business, and I appreciate you talked about delivering north of $5 billion of revenue, which is extremely impressive in 2024.
+  - [Observed] [from presentation deck] Client Net Revenue $7,054 $4,651 Up 52%
+  - [Observed] [from presentation deck] Gaming Net Revenue $2,595 $6,212 Down 58%
+  - [Observed] [from presentation deck] Embedded Net Revenue $3,557 $5,321 Down 33%
+  - [Observed] [from presentation deck] Data Center Net Revenue $12,579 $6,496 Up 94%
+  - [Observed] [from presentation deck] Data Center Net Revenue $3,859 $2,282 Up 69% $3,549 Up 9%
+  - [Observed] [from presentation deck] Client Net Revenue $2,313 $1,461 Up 58% $1,881 Up 23%
+  - [Observed] [from presentation deck] Gaming Net Revenue $563 $1,368 Down 59% $462 Up 22%
+  - [Observed] [from presentation deck] Embedded Net Revenue $923 $1,057 Down 13% $927 Flat
+  - [Observed] [from presentation deck] Q4 2024 Revenue $2.3 Billion Up 58% y/y
+  - [Observed] [from presentation deck] Q4 2024 Revenue $923 Million Down 13% y/y
+  - [Observed] [from presentation deck] Data Center Segment Revenue $3.9B Up 69% y/y
+  - [Observed] [from presentation deck] Record Revenue $7.7B Up 24% y/y
+  - [Observed] [from presentation deck] 24 Q4 2024 FINANCIAL RESULTS FEBRUARY 4, 2025 [Page 25] – - GAMING SEGMENT Q4 2024 Revenue Operating Margin $1.4B $0.6B 16% 9% Q4 2023 Q4 2024
+  - [Observed] [from presentation deck] $2.3B Q4 2023 Revenue $3.9 Billion Up 69% y/y $3.9B Q4 2024 Revenue
+  - [Observed] [from presentation deck] Q4 2024 FINANCIAL RESULTS FEBRUARY 4, 2025 Operating Margin 29% 30% Q4 2023 Q4 2024 Operating Income
+  - [Observed] [from presentation deck] Data Center Segment Revenue Up 94% y/y, Client Up 52% y/y
+  - [Observed] [from presentation deck] 1 FY 2024 SUMMARY Record Revenue $25.8B Up 14% y/y
+Filing disclosures (SEC):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - Revenue contracts with our customers include variable amounts which we evaluate under ASC 606-10-32-8 through 14 in order to determine the net amount of consideration to which we are entitled and which we recognize as revenue.
+    - Overview In 2024, we delivered strong annual revenue growth with net revenue increasing 14% to $25.8 billion, compared to $22.7 billion in 2023.
+    - Historically, our net revenue has been generally higher in the second half of the year than in the first half of the year, although market conditions and product transitions could impact these trends.
+    - Embedded net revenue of $3.6 billion decreased by 33% compared to net revenue of $5.3 billion in 2023, as customers normalized their inventory levels.
+    - Client Client net revenue of $7.1 billion in 2024 increased by 52%, compared to net revenue of $4.7 billion in 2023, primarily due to a 34% increase in unit shipments and a 13% increase in average selling price driven by strong demand for AMD mobile and desktop Ryzen processors.
+  [Financial Statements]
+    - Revenue: $25.79B | vs prior quarter: — | vs prior year: $22.68B (+13.7%)
+    - Cost of Revenue: $13.06B | vs prior quarter: — | vs prior year: $12.22B (+6.9%)
+    - 1 real filing table(s) available (see the HTML report).
+    - Revenue is recognized upon the transfer of control, over time or at a point in time, depending on the nature of the arrangements.
+    - Revenue Recognition Revenue is recognized when a customer obtains control of promised goods or services and is recognized in an amount that reflects the consideration which the Company expects to receive in exchange for those goods or services.
+    - Sales, value-added, and other taxes collected concurrently with the provision of goods or services are excluded from revenue.
+    - Accordingly, revenue is recognized at a point in time when the customer has the ability to benefit from the license.
+    - If the license is distinct, revenue is recognized at a point in time when the customer has the ability to benefit from the license.
+    - Revenue recognized over time associated with custom products and development services accounted for approximately 8 %, 25 % and 24 % of the Company’s revenue in 2024, 2023 and 2022, respectively.
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - For example, historically, our net revenue has been generally higher in the second half of the year than in the first half of the year, although market conditions and product transitions could impact these trends.
+    - International sales, as a percent of net revenue, were 66% for the year ended December 28, 2024.
+    - This uneven sales pattern makes prediction of revenue for each financial period difficult and increases the risk of unanticipated variations in quarterly results and financial condition.
+    - In the past, revenues from the Client and Gaming segments have experienced a decline driven by, among other factors, the adoption of smaller and other form factors, increased competition and changes in replacement cycles.
+    - The revenue that we receive from our semi-custom SoC products is in the form of non-recurring engineering fees charged to third parties for design and development services and revenue received in connection with sales of our semi-custom SoC products to these third parties.
+    - Also, our Client segment revenue is focused on the consumer desktop and notebook PC segments and will depend in part on the market’s adoption of AI PCs.
+
