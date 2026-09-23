@@ -1,0 +1,37 @@
+{
+  "request_id": "1dcfaf27-378d-41c2-8057-9bd8f2ca2aa3",
+  "used_tokens": 7710,
+  "reserved_tokens": 0,
+  "used_calls": 2,
+  "reserved_calls": 0,
+  "token_limit": 30000,
+  "call_limit": 32,
+  "blocked_reason": null,
+  "audit_schema_version": 1,
+  "calls": [
+    {
+      "sequence": 1,
+      "requested_model": "gpt-5.4-nano",
+      "message_count": 2,
+      "prompt_chars": 11742,
+      "prompt_sha256": "8231c10afcb14c746058cde16f45f78e2f6dd7dd9f72caa607d7deda348724c9",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 5158,
+      "status": "completed",
+      "routed_model": "gpt-5.4-nano",
+      "actual_tokens": 4331
+    },
+    {
+      "sequence": 2,
+      "requested_model": "gpt-5.4-nano",
+      "message_count": 2,
+      "prompt_chars": 11048,
+      "prompt_sha256": "0b9c8d6f545f02152fe2192ec6caa59a6f714c6f445fef357dc3e723c644f172",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 4614,
+      "status": "completed",
+      "routed_model": "gpt-5.4-nano",
+      "actual_tokens": 3379
+    }
+  ]
+}
