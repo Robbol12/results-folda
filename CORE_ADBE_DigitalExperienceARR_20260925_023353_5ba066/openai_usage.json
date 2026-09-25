@@ -1,0 +1,25 @@
+{
+  "request_id": "codex-autonomy-20260925-adbe-digital-experience-arr-001",
+  "used_tokens": 3785,
+  "reserved_tokens": 0,
+  "used_calls": 1,
+  "reserved_calls": 0,
+  "token_limit": 30000,
+  "call_limit": 32,
+  "blocked_reason": null,
+  "audit_schema_version": 1,
+  "calls": [
+    {
+      "sequence": 1,
+      "requested_model": "gpt-5.4-nano",
+      "message_count": 2,
+      "prompt_chars": 12693,
+      "prompt_sha256": "1f669824e0d30699b7c0a9cb871cf59ee8c4dc05484de1c31d14a7792c6d5819",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 5050,
+      "status": "completed",
+      "routed_model": "gpt-5.4-nano",
+      "actual_tokens": 3785
+    }
+  ]
+}
