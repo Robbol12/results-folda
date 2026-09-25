@@ -1,0 +1,148 @@
+[CORE RESEARCH] NVDA: gross margin
+
+Quarters searched: 3
+Filing sections searched: 87
+
+Across FY2024 quarterly reporting, management guided gross margin upward each quarter (GAAP and non-GAAP) while actuals trended up but generally landed below the guided GAAP level and slightly below the non-GAAP level (Q1–Q3: 64.6% vs 68.6% guided GAAP; 70.1% vs 71.5% guided GAAP; 74.0% vs 74.5% guided GAAP). The gap narrowed by Q3, with actual GAAP 74% matching the qualitative drivers cited (data center mix and lower net inventory reserves, including an Ampere-related benefit). In FY2024 full-year, filings attribute gross margin expansion to data center growth and lower net inventory provisions, with GAAP gross margin reported at 72.7% for FY2024 versus 56.9% for FY2023. By FY2025 filings, gross margin trajectory remained strong in aggregate (mid-70s expectation; Q2/Q3 showing solid realized margins), but management disclosed an offsetting risk from inventory provisions tied to low-yielding Blackwell materials.
+
+Forecasting credibility: None
+No guidance/actual pairs for gross margin were found from the provided evidence set as a basis for judging forecasting accuracy (rating must therefore be null). While quarterly transcripts include management stated expectations for GAAP/non-GAAP gross margin and subsequent actual outcomes, the instruction overrides any inference because the dataset itself indicates zero guidance/actual pairs for this topic.
+
+Trends:
+  - Strong gross margin recovery through FY2024 (driven by data center mix and lower net inventory provisions)
+  - Quarterly GAAP gross margin improved from Q1 2024 to Q3 2024, though below initial GAAP guidance levels in the provided quarters
+  - FY2025 gross margin remained in mid-to-high 70% range early, with inventory provision risks (Blackwell materials) highlighted
+
+Recurring themes/risks:
+  - Data center revenue mix supporting higher gross margin
+  - Inventory provisions/reserves as a key swing factor (inventory reserve releases vs low-yielding materials provisions)
+  - Software/complexity in data center products contributing to margin profile
+
+Key concerns:
+  - Guidance vs realized gross margin in the provided quarterly periods appears consistently below the guided GAAP/non-GAAP levels, but forecasting credibility cannot be rated per the zero guidance/actual-pair constraint in the instructions.
+  - FY2025 disclosed potential continued gross margin pressure from inventory provisions for low-yielding Blackwell material, implying margin could be volatile near product ramps.
+
+Conclusion:
+Gross margin improved materially over the period, from 56.9% in FY2023 to 72.7% in FY2024, according to the filings. The quarterly evidence shows continued strengthening in FY2024 (GAAP gross margin rising from 64.6% in Q1 to 70.1% in Q2 and 74.0% in Q3), with management attributing the gains to data center mix and lower net inventory reserves, including a one-percentage-point Ampere-related benefit. In FY2025, filings show gross margins of 78.4% (Q1) and 75.1% (Q2), and 75.8% (Q3), while also warning that inventory provisions for low-yielding Blackwell material may further pressure margins. Overall, gross margin performance is supported by mix and inventory reserve dynamics, with product-ramp-related inventory provisions representing the recurring downside risk.
+
+Evidence Coverage: 99.0% complete; 194/196 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2024 ===
+Management said:
+  - GAAP gross margins was 64.6%, and non-GAAP gross margins were 66.8%.
+  - GAAP and non-GAAP gross margins are expected to be 68.6% and 70%, respectively, plus or minus 50 basis points.
+  - Gross margins have now largely recovered to prior peak levels as we have absorbed higher costs and offset them by innovating and delivering higher-valued products, as well as products incorporating more and more software.
+Guidance given:
+  - GAAP and non-GAAP gross margins are expected to be 68.6% and 70%, respectively, plus or minus 50 basis points. (target: next quarter (not specified); Unresolved)
+Actual reported:
+  - [Observed] GAAP gross margins was 64.6%, and non-GAAP gross margins were 66.8%.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Gross Profit: $4.65B | vs prior quarter: — | vs prior year: $5.43B (-14.4%)
+
+=== Q2 2024 ===
+Management said:
+  - GAAP and non-GAAP gross margins are expected to be 71.5% and 72.5%, respectively, plus or minus 50 basis points.
+  - GAAP gross margins expanded to 70.1% and non-GAAP gross margin to 71.2% driven by higher data center sales.
+  - Our data center products include a significant amount of software and complexity, which is also helping drive our gross margins.
+  - And if you can talk about the incremental profitability or gross margin contribution from this product.
+Guidance given:
+  - GAAP and non-GAAP gross margins are expected to be 71.5% and 72.5%, respectively, plus or minus 50 basis points. (target: next quarter (not specified); Unresolved)
+Actual reported:
+  - [Unresolved] GAAP gross margins expanded to 70.1% and non-GAAP gross margin to 71.2% driven by higher data center sales.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Gross Profit: $9.46B | vs prior quarter: $4.65B (+103.6%) | vs prior year: $2.92B (+224.6%)
+
+=== Q3 2024 ===
+Management said:
+  - GAAP and non-GAAP gross margins are expected to be 74.5% and 75.5%, respectively, plus or minus 50 basis points.
+  - GAAP gross margin expanded to 74% and non-GAAP gross margin to 75%, driven by higher data center sales and lower net inventory reserves, including a one percentage point benefit from the release of previously reserved inventory related to the Ampere GPU architecture products.
+Guidance given:
+  - GAAP and non-GAAP gross margins are expected to be 74.5% and 75.5%, respectively, plus or minus 50 basis points. (target: next quarter (not specified); Unresolved)
+Actual reported:
+  - [Unresolved] GAAP gross margin expanded to 74% and non-GAAP gross margin to 75%, driven by higher data center sales and lower net inventory reserves, including a one percentage point benefit from the release of previously reserved inventory related to the Ampere GPU architecture products.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Gross Profit: $13.40B | vs prior quarter: $9.46B (+41.6%) | vs prior year: $3.18B (+321.8%)
+
+=== Q4 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - Gross margin increased in fiscal year 2024, primarily driven by Data Center revenue growth and lower net inventory provisions as a percentage of revenue.
+    - Our overall gross margin increased to 72.7% in fiscal year 2024 from 56.9% in fiscal year 2023.
+    - The net effect on our gross margin was an unfavorable impact of 2.7% and 7.5% in fiscal years 2024 and 2023, respectively.
+    - The net effect on our gross margin from inventory provisions and sales of items previously written down was an unfavorable impact of 2.7% in fiscal year 2024 and 7.5% in fiscal year 2023.
+  [Financial Statements]
+    - Gross Profit: $44.30B | vs prior quarter: — | vs prior year: $15.36B (+188.5%)
+  [Footnotes]
+    - 7 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - All of these factors may negatively impact our gross margins and financial results.
+    - An error or defect in new products, releases or related software drivers after commencement of commercial shipments could result in failure to achieve market acceptance, loss of design wins, temporary or permanent withdrawal from a product or market and harm to our relationships with existing and prospective customers and partners and consumers’ perceptions of our brand, which would in turn negatively impact our business operations, gross margin, revenue and/or financial results.
+    - We face several risks which have adversely affected or could adversely affect our ability to meet customer demand and scale our supply chain, negatively impact longer-term demand for our products and services, and adversely affect our business operations, gross margin, revenue and/or financial results, including: • lack of guaranteed supply of wafer, component and capacity or decommitment and potential higher wafer and component prices, from incorrectly estimating demand and failing to place orders with our suppliers with sufficient quantities or in a timely manner; • failure by our foundries or contract manufacturers to procure raw materials or provide adequate levels of manufacturing or test capacity for our products; • failure by our foundries to develop, obtain or successfully implement high quality process technologies, including transitions to smaller geometry process technologies such as advanced process node technologies and memory designs needed to manufacture our products; • failure by our suppliers to comply with our policies and expectations and emerging regulatory requirements; • limited number and geographic concentration of global suppliers, foundries, contract manufacturers, assembly and test providers and memory manufacturers; • loss of a supplier and additional expense and/or production delays as a result of qualifying a new foundry or subcontractor and commencing volume production or testing in the event of a loss, addition or change of a supplier; • lack of direct control over product quantity, quality and delivery schedules; • suppliers or their suppliers failing to supply high quality products and/or making changes to their products without our qualification; • delays in product shipments, shortages, a decrease in product quality and/or higher expenses in the event our subcontractors or foundries prioritize our competitors’ or other customers’ orders over ours; • requirements to place orders that are not cancellable upon changes in demand or requirements to prepay for supply in advance; • low manufacturing yields resulting from a failure in our product design or a foundry’s proprietary process technology; and • disruptions in manufacturing, assembly and other processes due to closures related to heat waves, earthquakes, fires, or other natural disasters and electricity conservation efforts.
+    - Economic and industry uncertainty or changes, including recession or slowing growth, inflation, changes or uncertainty in fiscal, monetary or trade policy, disruptions to capital markets and the banking system, currency fluctuations, higher interest rates, tighter credit, lower capital expenditures by businesses, including on IT infrastructure, increases in unemployment, labor shortages, and lower consumer confidence and spending, global supply chain constraints and global economic and geopolitical developments have in the past and/or could in the future have adverse, wide-ranging effects on our business and financial results, including: • increased costs for wafers, components, logistics, and other supply chain expenses, which have negatively impacted our gross margin in the past and may do so in the future; • increased supply, employee, facilities and infrastructure costs and volatility in the financial markets, which have reduced and may in the future reduce our margins; • decrease in demand for our products, services and technologies and those of our customers, partners or licensees; • the inability of our suppliers to deliver on their supply commitments to us and our customers’ or our licensees’ inability to supply products to customers and/or end users; • limits on our ability to forecast operating results and make business decisions; • the insolvency of key suppliers, distributors, customers, cloud service providers, data center providers, licensing parties or other third parties we rely on; • reduced profitability of customers, which may cause them to scale back operations, exit businesses, file for bankruptcy protection and potentially cease operations, or lead to mergers, consolidations or strategic alliances among other companies, which could adversely affect our ability to compete effectively; and • increased credit and collectability risks, higher borrowing costs or reduced availability of capital markets, reduced liquidity, adverse impacts on our customers and suppliers, failures of counterparties, including financial institutions and insurers, asset impairments, and declines in the value of our financial instruments.
+
+=== Q1 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - For fiscal year 2025, we expect gross margins to be in the mid-70% range.
+    - Our overall gross margin increased to 78.4% for the first quarter of fiscal year 2025 from 64.6% for the first quarter of fiscal year 2024.
+    - The net effect on our gross margin was an unfavorable impact of 1.1% and 1.2% in the first quarter of fiscal years 2025 and 2024, respectively.
+    - Gross Profit and Gross Margin Gross profit consists of total net revenue less cost of revenue.
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - All of these factors may negatively impact our gross margins and financial results.
+
+=== Q2 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - For fiscal year 2025, we expect gross margins to be in the mid-70% range.
+    - Our gross margins in the second quarter of fiscal year 2025 were negatively impacted by inventory provisions for low-yielding Blackwell material and they may continue to be impacted in the future.
+    - Our overall gross margin increased to 75.1% and 76.6% for the second quarter and first half of fiscal year 2025, respectively, from 70.1% and 68.2% for the second quarter and first half of fiscal year 2024, respectively.
+    - The net effect on our gross margin was an unfavorable impact of 3.6% and 2.8% in the second quarter and first half of fiscal year 2024, respectively.
+    - The net effect on our 29 gross margin was an unfavorable impact of 2.7% and 2.0% in the second quarter and first half of fiscal year 2025, respectively.
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - Our gross margins in the second quarter of fiscal year 2025 were negatively impacted by inventory provisions for low-yielding Blackwell material and they may continue to be impacted in the future.
+    - All of these factors may negatively impact our gross margins and financial results.
+
+=== Q3 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - Gross margins increased to 75.8% for the first nine months of fiscal year 2025 compared to 70.9% for the first nine months of fiscal year 2024, primarily due to higher mix of Data Center revenue.
+    - Gross margins increased to 74.6% for the third quarter of fiscal year 2025 compared to 74.0% for the third quarter of fiscal year 2024, due to a higher mix of Data Center revenue.
+    - The net effect on our gross margin was an unfavorable impact of 2.4% and 2.6% in the third quarter and first nine months of fiscal year 2024, respectively.
+    - The net effect on our gross margin was an unfavorable impact of 2.2% and 2.0% in the third quarter and first nine months of fiscal year 2025, respectively.
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - For example, our gross margins in the second quarter of fiscal year 2025 were negatively impacted by inventory provisions for low-yielding Blackwell material.
+    - All of these factors may negatively impact our gross margins and financial results.
+

@@ -1,0 +1,25 @@
+{
+  "request_id": "codex-autonomy-20260925-nvda-gross-margin-002",
+  "used_tokens": 2523,
+  "reserved_tokens": 0,
+  "used_calls": 1,
+  "reserved_calls": 0,
+  "token_limit": 30000,
+  "call_limit": 32,
+  "blocked_reason": null,
+  "audit_schema_version": 1,
+  "calls": [
+    {
+      "sequence": 1,
+      "requested_model": "gpt-5.4-nano",
+      "message_count": 2,
+      "prompt_chars": 7187,
+      "prompt_sha256": "2e5471d145828cbddf124507a00f82268f984c75ab8e350ffec4771e1118896e",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 3807,
+      "status": "completed",
+      "routed_model": "gpt-5.4-nano",
+      "actual_tokens": 2523
+    }
+  ]
+}
