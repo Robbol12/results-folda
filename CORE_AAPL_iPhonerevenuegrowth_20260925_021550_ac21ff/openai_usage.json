@@ -1,0 +1,25 @@
+{
+  "request_id": "codex-autonomy-20260925-aapl-iphone-revenue-growth-001",
+  "used_tokens": 2544,
+  "reserved_tokens": 0,
+  "used_calls": 1,
+  "reserved_calls": 0,
+  "token_limit": 30000,
+  "call_limit": 32,
+  "blocked_reason": null,
+  "audit_schema_version": 1,
+  "calls": [
+    {
+      "sequence": 1,
+      "requested_model": "gpt-5.4-nano",
+      "message_count": 2,
+      "prompt_chars": 7635,
+      "prompt_sha256": "fdf476dc955664c7c8c06efab6d541d65446d254bcfe580036a270ebe6f639d1",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 3754,
+      "status": "completed",
+      "routed_model": "gpt-5.4-nano",
+      "actual_tokens": 2544
+    }
+  ]
+}
