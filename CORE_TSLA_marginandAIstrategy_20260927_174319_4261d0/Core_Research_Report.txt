@@ -1,0 +1,445 @@
+[CORE RESEARCH - MULTIPLE TOPICS] TSLA: margin | AI strategy
+
+
+======================================================================
+TOPIC: margin
+======================================================================
+
+[CORE RESEARCH] TSLA: margin
+
+Quarters searched: 8
+Filing sections searched: 186
+
+Across 2023, management repeatedly characterized auto margin forecasting as difficult due to multiple moving parts, while reporting sequential declines and citing pricing actions, one-time warranty adjustments, and accounting-related changes (e.g., deferred revenue). Through Q2-Q4 2023, energy margins rose (ultimately reaching strongly positive levels in filings) while automotive gross margins remained depressed versus prior-year periods. In Q1 2024, management highlighted energy margins reaching a record (24.6%) and described slight improvement/exclusions affecting auto margin optics, but filings show auto gross margin still declined sequentially (21.1% to 18.5%). In Q3 2024, management guided that sustaining margins in Q4 would be challenging; the subsequent Q4 commentary acknowledged ramp/idle capacity impacts, and filings attribute the full-year auto gross margin decline to lower ASPs and Cybertruck ramp, partially offset by lower unit costs and higher regulatory credit/FSD revenue.
+
+Forecasting credibility: Low
+The guidance/actual verdict pattern includes one explicit Missed item: Q3 2024 guidance that sustaining margins in Q4 would be challenging was later accompanied by an automotive margin outcome that the transcript flags as missed (Q4 commentary: quarter-over-quarter decline primarily due to lower ASPs vs expected recognition effects). The Q1 2023 items were largely non-quantitative/unresolved, and Q4 2024 guidance about ramp-related margin impacts was not paired with a specific numeric “target” verdict. Overall, with at least one Missed and no clear Met/Exceeded guidance paired to subsequent precision, forecasting credibility for margin is low based on the provided guidance/actual verdict evidence.
+
+Trends:
+  - Automotive gross margins declined through 2023 versus prior-year periods and stayed pressured in 2024
+  - Energy gross margins improved materially over 2023 and remained high into 2024 (record levels)
+  - Sequential auto margin volatility: slight stabilization in parts of 2024 but Q4 faced further declines
+  - Management increasingly framed margin outcomes around ramp costs, ASPs, and product/feature timing
+
+Recurring themes/risks:
+  - Difficulty predicting automotive margins due to moving parts (tariffs, incentives, pricing, mix)
+  - Rising/ramp-related costs and idle capacity impacting launch-quarter margins
+  - ASP/mix sensitivity as a dominant driver of auto gross margin changes
+  - Accounting/timing effects tied to FSD-related revenue recognition and feature releases
+  - Cost-reduction lags relative to when savings are expected
+
+Key concerns:
+  - Guidance was often non-quantitative for auto margin, making “accuracy” hard to evaluate; only limited guidance/actual verdict pairs were provided.
+  - Potential over-reliance on timing/accounting effects (e.g., FSD-related revenue recognition) to explain margin movements, which can lead to missed expectations if market forecasts assume steadier cash gross margin dynamics.
+  - In Q4 2024, the transcript indicates a Missed versus the prior expectation, while the filing attributes margin changes largely to lower ASPs and Cybertruck ramp (partially offset by lower costs and regulatory credit/FSD revenue), suggesting that key margin drivers were not fully under control.
+
+Conclusion:
+Margin trends show a persistent squeeze in automotive gross margin while energy margins expanded strongly. Filing-sourced actuals confirm automotive gross margin contraction: Q1 2024 total automotive gross margin decreased from 21.1% to 18.5% (three months ended March 31, 2024 vs March 31, 2023), and full-year 2024 decreased from 19.4% to 18.4% (year ended December 31, 2024 vs December 31, 2023). Energy margins rose substantially and reached 24.6% (three months ended March 31, 2024) and 18.9% for full-year 2023, supporting a mix-driven margin divergence. Given the single provided Missed verdict in the guidance/actual pair set and otherwise unresolved/non-quantified guidance, management’s margin forecasting credibility is assessed as low based strictly on the evidence provided.
+
+Evidence Coverage: 98.8% complete; 422/427 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2023 ===
+Management said:
+  - But it's difficult to say what the margin will be.
+  - First, automotive gross margin and operating margin reduced sequentially.
+  - Just one other thing I wanted to mention on margin.
+  - While we're not providing specific guidance there, I mean, just to set expectations of where we think this business will go in terms of margins, probably generally in the ballpark of what we've seen historically on the vehicle business.
+  - And I think that what happens to margins over the next couple of quarters that only matters in the context of what that means for our ability to reinvest into 2024 and 2025.
+  - And then just on the margins associated with Austin and Berlin.
+  - Actually, this one -- assuming I could wax on about for a while because really, people didn't understand that the best short-selling argument against Tesla for the longest time was the fact that Tesla does not have an existing fleet and that the auto industry, the reason incumbents succeed and newcomers fail, the biggest reason is that the incumbents have a large fleet, and they're able to sell new cars at close to zero margin and then sell spare parts at a very high margin, sort of razors and blades type thing.
+Guidance given:
+  - But it's difficult to say what the margin will be. (target: future; Unresolved)
+  - We generally look to mid-20% gross margins for any program that we launch. (target: ongoing (for any program launched); Unresolved)
+  - So if you took that to the extreme, it would seem that you'd be comfortable with a relatively low initial margin. (target: initial phase after launching a program; Unresolved)
+  - So we do believe we're like laying the groundwork here, and then it's better to ship a large number of cars at a lower margin, and subsequently, harvest that margin in the future as we perfect autonomy. (target: future; Unresolved)
+  - However, these factories still provide a margin headwind and will likely continue to do so until after we reach and stabilize at our intended volumes. (target: until after reaching and stabilizing at intended volumes; Unresolved)
+  - We've taken a view that pushing for higher volumes and a larger fleet is the right choice here versus a lower volume and higher margin. (target: ongoing; Unresolved)
+  - While we're not providing specific guidance there, I mean, just to set expectations of where we think this business will go in terms of margins, probably generally in the ballpark of what we've seen historically on the vehicle business. (target: ongoing; Unresolved)
+  - And I think that what happens to margins over the next couple of quarters that only matters in the context of what that means for our ability to reinvest into 2024 and 2025. (target: next couple of quarters; Unresolved)
+  - And then just on the margins associated with Austin and Berlin. (target: ongoing; Unresolved)
+Actual reported:
+  - [Observed] First, automotive gross margin and operating margin reduced sequentially.
+  - [Observed] Just one other thing I wanted to mention on margin.
+  - [Observed] In particular, automotive gross margin was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve vehicle pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as increased deferred revenue for certain Autopilot features as we transition technologies.
+  - [Observed] And while we reduced prices considerably in early Q1, it's worth noting that our operating margin remains among the best in the industry.
+  - [Observed] You mentioned Austin want to have the margin drag until you reach intended volumes.
+Filing disclosures (SEC):
+  [MD&A]
+    - Gross margin for total automotive decreased from 32.9% to 21.1% in the three months ended March 31, 2023 as compared to the three months ended March 31, 2022.
+    - Gross margin for total automotive & services and other segment decreased from 30.5% to 19.9% in the three months ended March 31, 2023 as compared to the three months ended March 31, 2022, primarily due to the automotive gross margin decrease discussed above, partially offset by an improvement in our services and other gross margin.
+    - Gross margin for energy generation and storage improved from -11.7% to 11.0% in the three months ended March 31, 2023 as compared to the three months ended March 31, 2022.
+    - Additionally, services and other was a higher percentage of the segment gross margin during the first quarter of 2023 as compared to the prior year.
+    - Additionally, there was a higher proportion of energy storage sales, which operated at a higher gross margin, within the segment.
+  [Financial Statements]
+    - Gross Profit: $4.51B | vs prior quarter: — | vs prior year: $5.46B (-17.4%)
+    - Operating Income: $2.66B | vs prior quarter: — | vs prior year: $3.60B (-26.1%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+
+=== Q2 2023 ===
+Management said:
+  - And nonetheless, we managed to achieve operating margin of about 10%.
+  - For our energy business, we improved margins and gross profit driven by cost reductions and deal economics, particularly with Megapack.
+  - Autobidder does have software margins and is an enabler for hardware sales, but it’s a relatively small contributor to revenues, given how much deployment growth on the Megapack hardware side is occurring.
+  - So, I think it’s sort of, it would be -- I think it -- it does make sense to sacrifice margins in favor of making more vehicles because we think in the not too distant future, they will have a dramatic valuation increase.
+Guidance given:
+  - So, I think it’s sort of, it would be -- I think it -- it does make sense to sacrifice margins in favor of making more vehicles because we think in the not too distant future, they will have a dramatic valuation increase. (target: not too distant future; Unresolved)
+Actual reported:
+  - [Unresolved] And nonetheless, we managed to achieve operating margin of about 10%.
+  - [Observed] As stated last quarter, Megapack margins are in a reasonable place, in line with our target – vehicle target margins.
+  - [Observed] So, that’s why I recommend against margin loans in times that are turbulent.
+  - [Observed] For our energy business, we improved margins and gross profit driven by cost reductions and deal economics, particularly with Megapack.
+  - [Observed] Autobidder does have software margins and is an enabler for hardware sales, but it’s a relatively small contributor to revenues, given how much deployment growth on the Megapack hardware side is occurring.
+Filing disclosures (SEC):
+  [MD&A]
+    - Gross margin for total automotive decreased from 27.9% to 19.2% in the three months ended June 30, 2023 as compared to the three months ended June 30, 2022.
+    - Gross margin for total automotive decreased from 30.6% to 20.1% in the six months ended June 30, 2023 as compared to the six months ended June 30, 2022.
+    - Gross margin for total automotive & services and other segment decreased from 25.7% to 18.2% in the three months ended June 30, 2023 as compared to the three months ended June 30, 2022.
+    - Gross margin for total automotive & services and other segment decreased from 28.3% to 19.0% in the six months ended June 30, 2023 as compared to the six months ended June 30, 2022, primarily due to the automotive gross margin decrease discussed above, partially offset by an improvement in our services and other gross margin.
+    - Gross margin for energy generation and storage improved from 1.7% to 14.7% in the six months ended June 30, 2023 as compared to the six months ended June 30, 2022.
+    - Gross margin for energy generation and storage improved from 11.2% to 18.4% in the three months ended June 30, 2023 as compared to the three months ended June 30, 2022.
+  [Financial Statements]
+    - Gross Profit: $4.53B | vs prior quarter: $4.51B (+0.5%) | vs prior year: $4.23B (+7.1%)
+    - Operating Income: $2.40B | vs prior quarter: $2.66B (-9.9%) | vs prior year: $2.46B (-2.6%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+
+=== Q3 2023 ===
+Management said:
+  - So just in terms of product margins, there are lots of puts and takes when you look at this.
+  - However, there is an inherent lag in cost reductions, which in turn impacts margins.
+  - You’ve increased the value of that by 5, but it still costs the same, like you have something -- then we’re a hardware company with software margins.
+  - When it comes to energy margins, Megapack deployment was the key driver there.
+Guidance given:
+Actual reported:
+  - [Unresolved] So just in terms of product margins, there are lots of puts and takes when you look at this.
+  - [Observed] And as this business grows, the energy division is becoming our highest margin business.
+  - [Observed] However, there is an inherent lag in cost reductions, which in turn impacts margins.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive decreased from 29.6% to 19.7% in the nine months ended September 30, 2023 as compared to the nine months ended September 30, 2022.
+    - Gross margin for total automotive & services and other segment decreased from 26.0% to 17.4% in the three months ended September 30, 2023 as compared to the three months ended September 30, 2022.
+    - 31 Table of Contents Gross margin for total automotive decreased from 27.9% to 18.7% in the three months ended September 30, 2023 as compared to the three months ended September 30, 2022.
+    - Gross margin for total automotive & services and other segment decreased from 27.4% to 18.5% in the nine months ended September 30, 2023 as compared to the nine months ended September 30, 2022, primarily due to the automotive gross margin decrease discussed above while there was an improvement in our services and other gross margin.
+    - Gross margin for energy generation and storage increased from 9.3% to 24.4% in the three months ended September 30, 2023 as compared to the three months ended September 30, 2022.
+    - Gross margin for energy generation and storage increased from 5.0% to 18.0% in the nine months ended September 30, 2023 as compared to the nine months ended September 30, 2022.
+  [Financial Statements]
+    - Gross Profit: $4.18B | vs prior quarter: $4.53B (-7.8%) | vs prior year: $5.38B (-22.4%)
+    - Operating Income: $1.76B | vs prior quarter: $2.40B (-26.5%) | vs prior year: $3.69B (-52.2%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+
+=== Q4 2023 ===
+Management said:
+  - That said, predicting auto gross margins is extremely challenging since there are many moving parts to this equation, some of which are out of our control like the change in tariffs or local incentives to name a few.
+Guidance given:
+  - If the interest rates come down quickly, I think margins will be good. (target: ongoing; Unresolved)
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive decreased from 28.5% to 19.4% in the year ended December 31, 2023 as compared to the year ended December 31, 2022.
+    - Gross margin for total automotive & services and other segment decreased from 26.5% to 18.2% in the year ended December 31, 2023 as compared to the year ended December 31, 2022, primarily due to the automotive gross margin decrease discussed above.
+    - 40 Gross margin for energy generation and storage increased from 7.4% to 18.9% in the year ended December 31, 2023 as compared to the year ended December 31, 2022.
+    - Additionally, there was a margin benefit from IRA manufacturing credits earned.
+    - These macroeconomic and industry trends have had, and will likely continue to have, an impact on the pricing of, and order rate for our vehicles, and in turn our operating margin.
+  [Financial Statements]
+    - Gross Profit: $17.66B | vs prior quarter: — | vs prior year: $20.85B (-15.3%)
+    - Operating Income: $8.89B | vs prior quarter: — | vs prior year: $13.66B (-34.9%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+    - Standalone selling prices are estimated based on estimated costs plus margin or by using market data for comparable products.
+    - The applicable margin will be based on the rating assigned to our senior, unsecured long-term indebtedness (the “Credit Rating”) from time to time.
+    - Borrowed funds accrue interest at a variable rate equal to: (i) for dollar-denominated loans, at our election, (a) Term SOFR (the forward-looking secured overnight financing rate) plus 0.10 %, or (b) an alternate base rate; (ii) for loans denominated in pounds sterling, SONIA (the sterling overnight index average reference rate); or (iii) for loans denominated in euros, an adjusted EURIBOR (euro interbank offered rate); in each case, plus an applicable margin.
+
+=== Q1 2024 ===
+Management said:
+  - In fact, if we exclude Cybertruck and Fremont Model 3 ramp costs, the revenue from Autopark, auto margins improved slightly.
+  - Our Energy business continues to make meaningful progress with margins reaching a record of 24.6%.
+  - These new vehicles we built on our existing lines and open capacity, and that’s a major shift to utilize all our capacity with marginal CapEx before we go spend high CapEx to do anything.
+  - Elon Musk I think… Lars Moravy So we’re finalizing the engineering of the semi to enable like a super cost-effective high-volume production with our learnings from our fleet and our pilot fleet and Pepsi’s fleet, which we are expanding this year marginally.
+Guidance given:
+Actual reported:
+  - [Unresolved] Auto margins declined from 18.9% to 18.5%.
+  - [Observed] Our Energy business continues to make meaningful progress with margins reaching a record of 24.6%.
+Filing disclosures (SEC):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive decreased from 21.1% to 18.5% in the three months ended March 31, 2024 as compared to the three months ended March 31, 2023.
+    - Gross margin for total automotive & services and other segment decreased from 19.9% to 16.7% in the three months ended March 31, 2024 as compared to the three months ended March 31, 2023, primarily due to the automotive gross margin decrease discussed above.
+    - Gross margin for energy generation and storage increased from 11.0% to 24.6% in the three months ended March 31, 2024 as compared to the three months ended March 31, 2023.
+    - These macroeconomic and industry trends have had, and will likely continue to have, an impact on the pricing of, and order rate for our vehicles, and in turn our operating margin.
+  [Financial Statements]
+    - Gross Profit: $3.70B | vs prior quarter: — | vs prior year: $4.51B (-18.1%)
+    - Operating Income: $1.17B | vs prior quarter: — | vs prior year: $2.66B (-56.0%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+
+=== Q2 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Observed] On net, our auto margins remained flat sequentially.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive decreased from 19.2% to 18.5% in the three months ended June 30, 2024 as compared to the three months ended June 30, 2023.
+    - Gross margin for total automotive decreased from 20.1% to 18.5% in the six months ended June 30, 2024 as compared to the six months ended June 30, 2023.
+    - Gross margin for total automotive & services and other segment decreased from 19.0% to 16.9% in the six months ended June 30, 2024 as compared to the six months ended June 30, 2023, primarily due to the automotive gross margin decreases discussed above.
+    - 30 Table of Contents Gross margin for total automotive & services and other segment decreased from 18.2% to 17.1% in the three months ended June 30, 2024 as compared to the three months ended June 30, 2023.
+    - Gross margin for energy generation and storage increased from 18.4% to 24.6% in the three months ended June 30, 2024 as compared to the three months ended June 30, 2023.
+    - Gross margin for energy generation and storage increased from 14.7% to 24.6% in the six months ended June 30, 2024 as compared to the six months ended June 30, 2023.
+  [Financial Statements]
+    - Gross Profit: $4.58B | vs prior quarter: $3.70B (+23.9%) | vs prior year: $4.53B (+1.0%)
+    - Operating Income: $1.60B | vs prior quarter: $1.17B (+37.1%) | vs prior year: $2.40B (-33.1%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+
+=== Q3 2024 ===
+Management said:
+  - Automotive margins improved quarter over quarter as a result of a feature release discussed before.
+  - Energy margins in Q3 were a record at more than 30%.
+Guidance given:
+  - Sustaining these margins in Q4, however, will be challenging, given the current economic environment. (target: Q4 2024; Missed)
+Actual reported:
+  - [Observed] Automotive margins improved quarter over quarter as a result of a feature release discussed before.
+  - [Observed] Energy margins in Q3 were a record at more than 30%.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive & services and other segment increased from 17.4% to 18.7% in the three months ended September 30, 2024 as compared to the three months ended September 30, 2023.
+    - The changes in gross margin are primarily due to the automotive gross margin factors discussed above.
+    - Gross margin for total automotive & services and other segment decreased from 18.5% to 17.6% in the nine months ended September 30, 2024 as compared to the nine months ended September 30, 2023.
+    - 30 Table of Contents Gross margin for total automotive increased from 18.7% to 20.1% in the three months ended September 30, 2024 as compared to the three months ended September 30, 2023 primarily due to lower average combined cost per unit of our vehicles, an increase in FSD revenue and an increase in regulatory credits revenue, partially offset by lower average selling price on our vehicles, as discussed above.
+    - Gross margin for total automotive decreased from 19.7% to 19.0% in the nine months ended September 30, 2024 as compared to the nine months ended September 30, 2023 primarily due to lower average selling price on our vehicles and temporary under-utilization of manufacturing capacity during production ramps, partially offset by lower average combined cost per unit of our vehicles, an increase in regulatory credits revenue and an increase in FSD revenue, as discussed above.
+    - Gross margin for energy generation and storage increased from 24.4% to 30.5% in the three months ended September 30, 2024 as compared to the three months ended September 30, 2023.
+  [Financial Statements]
+    - Gross Profit: $5.00B | vs prior quarter: $4.58B (+9.2%) | vs prior year: $4.18B (+19.6%)
+    - Operating Income: $2.72B | vs prior quarter: $1.60B (+69.3%) | vs prior year: $1.76B (+54.0%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+
+=== Q4 2024 ===
+Management said:
+  - As a result, margins will be impacted due to idle capacity and other ramp-related costs, as is common in any launch but will be overcome as production is ramped.
+  - Gross profit and margins in the service and other business was up year over year but declined sequentially.
+Guidance given:
+  - Therefore, while we manage them to be positive on a GAAP basis, we do not expect similar margins as the rest of the business. (target: ongoing; Unresolved)
+  - And then as a follow-up, in the past, Elon, you had made a comment that you'd be willing to sell cars at effectively no margin to get the cars out there. (target: ongoing; Unresolved)
+  - As a result, margins will be impacted due to idle capacity and other ramp-related costs, as is common in any launch but will be overcome as production is ramped. (target: as production is ramped; Unresolved)
+Actual reported:
+  - [Missed] On the automotive margin front, we saw a quarter-over-quarter decline primarily due to lower ASPs than due to the recognition of FSD-related revenue in Q3 from feature releases.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive & services and other segment decreased from 18.2% to 16.9% in the year ended December 31, 2024 as compared to the year ended December 31, 2023.
+    - The changes in gross margin are primarily due to the automotive gross margin factors discussed above.
+    - Gross margin for total automotive decreased from 19.4% to 18.4% in the year ended December 31, 2024 as compared to the year ended December 31, 2023 due to lower average selling price on our vehicles and Cybertruck ramp, partially offset by lower average combined cost per unit of our vehicles and increases in regulatory credit and FSD (Supervised) revenue, as discussed above.
+    - 39 Gross margin for energy generation and storage increased from 18.9% to 26.2% in the year ended December 31, 2024 as compared to the year ended December 31, 2023, primarily due to margin improvements for our energy storage products driven by cost reductions, including benefits from IRA manufacturing credits, and a higher proportion of our storage business, which operated at a higher gross margin, within the segment as compared to the prior periods.
+    - These macroeconomic and industry trends have had, and will likely continue to have, an impact on the pricing of, and order rate for our vehicles, and in turn our operating margin.
+  [Financial Statements]
+    - Gross Profit: $17.45B | vs prior quarter: — | vs prior year: $17.66B (-1.2%)
+    - Operating Income: $7.08B | vs prior quarter: — | vs prior year: $8.89B (-20.4%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+    - Standalone selling prices are estimated based on estimated costs plus margin or by using market data for comparable products.
+    - The applicable margin will be based on the rating assigned to our senior, unsecured long-term indebtedness (the “Credit Rating”) from time to time.
+    - Borrowed funds accrue interest at a variable rate equal to: (i) for dollar-denominated loans, at our election, (a) Term SOFR (the forward-looking secured overnight financing rate) plus 0.10 %, or (b) an alternate base rate; (ii) for loans denominated in pounds sterling, SONIA (the sterling overnight index average reference rate); or (iii) for loans denominated in euros, an adjusted EURIBOR (euro interbank offered rate); in each case, plus an applicable margin.
+
+
+======================================================================
+TOPIC: AI strategy
+======================================================================
+
+[CORE RESEARCH] TSLA: AI strategy
+
+Quarters searched: 8
+Filing sections searched: 186
+
+Across 2023, management’s AI strategy language centered on applying AI learnings from self-driving to robotics (e.g., Optimus) and continued ramping of AI-related product and program efforts, with filings attributing cost increases to pre-production phases for “Cybertruck, AI and other programs.” In 2024, the disclosures became more specific and operational, linking AI strategy to growing AI infrastructure and AI-related capital expenditures, while repeatedly stating they are investing in research and development to accelerate AI/software/fleet-based profits. Filings quantify AI infrastructure growth (e.g., “AI infrastructure 2,255” in Q1 2024, “2,468” in Q2 2024, and “3,693” in Q3 2024). By Q4 2024, management further emphasized differentiation, stating they believe their AI capabilities and “deployment of Cortex” at Gigafactory Texas differentiates them from competitors. Overall, the evolution shows a shift from broad AI strategy framing (vertical integration/product roadmap/financing plus AI programs) to clearer operationalization (AI infrastructure buildout, named systems like Cortex, and quantified related capital spending drivers).
+
+Forecasting credibility: None
+No guidance/actual pairs specifically tied to AI strategy were identified in the provided evidence, so a Met/Missed forecasting credibility assessment cannot be calculated. Management did provide strategy-oriented commentary (e.g., applying AI learnings, investing in AI infrastructure, and differentiating via Cortex), but those statements are not paired with explicit forward guidance targets that later reconcile to specific realized AI strategy metrics.
+
+Trends:
+  - AI strategy messaging moves from general roadmap/vertical integration toward operational buildout
+  - AI-related costs repeatedly tied to program phases (e.g., pre-production) and year-over-year AI program cost increases
+  - AI infrastructure levels increase quarter over quarter in 2024 (2,255 -> 2,468 -> 3,693)
+  - Increasing specificity by late 2024 (named deployment: Cortex at Gigafactory Texas)
+
+Recurring themes/risks:
+  - High and ongoing AI-related capital expenditure and R&D intensity
+  - AI program execution costs concentrated in ramp/pre-production phases
+  - Differentiation claims rely on continued deployment/capability progress (Cortex)
+
+Key concerns:
+  - The provided excerpts largely describe investments and cost drivers tied to AI programs but do not present measurable AI strategy outcome metrics (e.g., performance targets) that could be validated later against guidance.
+  - AI strategy is repeatedly associated with “additional costs” and AI-related capital spending, implying execution and timing risk, but the excerpts do not show forward guidance for those items to assess whether management’s expectations were met.
+
+Conclusion:
+The evidence supports that management’s AI strategy is being executed through (1) ongoing AI program development and R&D, (2) expanding AI infrastructure and related capital expenditures, and (3) leveraging AI learnings from self-driving into robotics (Optimus) while improving vehicle functions via over-the-air updates. By 2024, the disclosures more directly connect strategy to tangible scale-up, including increasing “AI infrastructure” values (2,255 in Q1 2024, 2,468 in Q2 2024, 3,693 in Q3 2024) and repeated characterization of investing as being “mainly for AI-related capital expenditures.” In Q4 2024, management explicitly frames differentiation around “deployment of Cortex” at Gigafactory Texas. Because the provided data includes no guidance/actual pairs specifically for AI strategy, forecasting credibility cannot be assessed; the best-supported view is that management is prioritizing AI capability buildout and integration into product/robotics roadmaps, with costs and capital spending reflecting that emphasis.
+
+Evidence Coverage: 99.8% complete; 451/452 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2023 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - We continue adapting our strategy to meet our liquidity and risk objectives, such as investing in U.S. government and other investments, to do more vertical integration, expand our product roadmap and provide financing options to our customers.
+  [Financial Statements]
+    - 4 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 7 real filing table(s) available (see the HTML report).
+
+=== Q2 2023 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] The overall increases were primarily driven by additional costs in the current period related to the pre-production phase for Cybertruck, AI and other programs.
+Filing disclosures (SEC):
+  [MD&A]
+    - The overall increases were primarily driven by additional costs in the current period related to the pre-production phase for Cybertruck, AI and other programs.
+    - We continue adapting our strategy to meet our liquidity and risk objectives, such as investing in U.S. government and other investments, to do more vertical integration, expand our product roadmap and provide financing options to our customers.
+  [Financial Statements]
+    - 4 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 7 real filing table(s) available (see the HTML report).
+
+=== Q3 2023 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - 34 Table of Contents We continue adapting our strategy to meet our liquidity and risk objectives, such as investing in U.S. government and other investments, to do more vertical integration, expand our product roadmap and provide financing options to our customers.
+    - The overall increases were primarily driven by additional costs in the current period related to the pre-production phase for Cybertruck, AI and other programs.
+  [Financial Statements]
+    - 7 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 9 real filing table(s) available (see the HTML report).
+
+=== Q4 2023 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] We are also applying our artificial intelligence learnings from self-driving technology to the field of robotics, such as through Optimus, a robotic humanoid in development, which is controlled by the same AI system.
+  - [Observed] [from SEC filing] As with other vehicle systems, we improve these functions in our vehicles over time through over-the-air updates.
+  - [Observed] [from SEC filing] R&D expenses increased $894 million, or 29%, in the year ended December 31, 2023 as compared to the year ended December 31, 2022.
+  - [Observed] [from SEC filing] The overall increase was primarily driven by additional costs in the current year related to the pre-production phase for Cybertruck, AI and other programs.
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - For details regarding our indebtedness, refer to Note 11, Debt , to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K. We continue adapting our strategy to meet our liquidity and risk objectives, such as investing in U.S. government securities and other investments, to do more vertical integration, expand our product roadmap and provide financing options to our customers.
+    - We continue to ramp production, build new manufacturing capacity and expand our operations to enable increased deliveries and deployments of our products, and invest in research and development to accelerate our AI, software and fleet-based profits for further revenue growth.
+    - The overall increase was primarily driven by additional costs in the current year related to the pre-production phase for Cybertruck, AI and other programs.
+  [Financial Statements]
+    - 5 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 14 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - Our insurance coverage strategy may not be adequate to protect us from all business risks.
+
+=== Q1 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] AI infrastructure 2,255 1,510
+  - [Observed] [from SEC filing] Construction in progress is primarily comprised of ongoing construction and expansion of our facilities, equipment and tooling related to the manufacturing of our products as well as construction related to our AI infrastructure.
+  - [Observed] [from SEC filing] Cash flows provided by operating activities during the three months ended March 31, 2024 and 2023 were $242 million and $2.51 billion, respectively, representing a decrease of $2.27 billion.
+  - [Observed] [from SEC filing] capital expenditures, which were $2.77 billion for the three months ended March 31, 2024 and $2.07 billion for the three months ended March 31, 2023, mainly for global factory expansion, machinery and equipment and AI related capital expenditures as we expand or enhance our product roadmap.
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Cash Flows from Investing Activities Cash flows from investing activities and their variability across each period related primarily to capital expenditures, which were $2.77 billion for the three months ended March 31, 2024 and $2.07 billion for the three months ended March 31, 2023, mainly for global factory expansion, machinery and equipment and AI related capital expenditures as we expand or enhance our product roadmap.
+    - We continue to ramp production and build and optimize our manufacturing capacity, expand our operations while focusing on further cost reductions and operational efficiencies to enable increased deliveries and deployments of our products, and invest in research and development to accelerate our AI, software, and fleet-based profits for further revenue growth.
+    - Additionally, we are increasingly focused on products and services based on AI, robotics and automation.
+    - The overall increase was primarily driven by additional costs year over year related to AI, advancement of our proprietary battery cell technologies and other programs.
+    - We continue adapting our strategy to meet our liquidity and risk objectives, such as investing in U.S. government securities and other investments, to do more vertical integration, expand our product roadmap and provide financing options to our customers.
+  [Financial Statements]
+    - 5 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 10 real filing table(s) available (see the HTML report).
+
+=== Q2 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] AI infrastructure 2,468 1,510
+  - [Observed] [from SEC filing] The overall increases were primarily driven by additional costs year over year related to AI and other programs.
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Cash Flows from Investing Activities Cash flows from investing activities and their variability across each period related primarily to capital expenditures, which were $5.04 billion for the six months ended June 30, 2024 and $4.13 billion for the six months ended June 30, 2023, mainly for global factory expansion, machinery and equipment and AI-related capital expenditures as we expand and enhance our product roadmap.
+    - We continue to ramp production and build and optimize our manufacturing capacity, expand our operations while focusing on further cost reductions and operational efficiencies to enable increased deliveries and deployments of our products, and invest in research and development to accelerate our AI, software, and fleet-based profits for further revenue growth.
+    - Additionally, we are increasingly focused on products and services based on AI, robotics and automation.
+    - The overall increases were primarily driven by additional costs year over year related to AI and other programs.
+    - We continue adapting our strategy to meet our liquidity and risk objectives, such as investing in U.S. government securities and other investments, invest in autonomy, do more vertical integration, expand our product roadmap and provide financing options to our customers.
+  [Financial Statements]
+    - 7 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 10 real filing table(s) available (see the HTML report).
+    - Certain Derivative Lawsuits in Delaware Before converting from a Delaware to Texas corporation on June 13, 2024, three separate derivative actions brought by purported Tesla stockholders were filed in the Delaware Court of Chancery on May 24, June 10 and June 13, 2024, purportedly on behalf of Tesla, against current and former directors regarding topics involving Elon Musk and others, X Corp. (formerly Twitter) and x.AI.
+
+=== Q3 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] AI infrastructure 3,693 1,510
+  - [Observed] [from SEC filing] Depreciation expense during the three and nine months ended September 30, 2024 was $ 1.05 billion and $ 2.96 billion, respectively.
+  - [Observed] [from SEC filing] R&D expenses increased $389 million, or 14%, in the nine months ended September 30, 2024 as compared to the nine months ended September 30, 2023. The overall increases were primarily driven by additional costs year over year related to AI programs.
+  - [Observed] [from SEC filing] Gross margin for energy generation and storage increased from 18.0% to 26.6% in the nine months ended September 30, 2024 as compared to the nine months ended September 30, 2023.
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Cash Flows from Investing Activities Net cash flows from investing activities and their variability across each period related primarily to capital expenditures, which were $8.56 billion and $6.59 billion for the nine months ended September 30, 2024 and 2023, respectively, mainly for AI-related capital expenditures, global factory expansion, machinery and equipment as we expand and enhance our product roadmap.
+    - We continue to ramp production and build and optimize our manufacturing capacity, expand our operations while focusing on further cost reductions and operational efficiencies to enable increased deliveries and deployments of our products, and invest in research and development to accelerate our AI, software, and fleet-based profits for further revenue growth.
+    - The overall increases were primarily driven by additional costs year over year related to AI programs.
+    - Additionally, we are increasingly focused on products and services based on AI, robotics and automation.
+    - We continue adapting our strategy to meet our liquidity and risk objectives, such as investing in U.S. government securities and other investments, invest in autonomy, do more vertical integration, expand our product roadmap and provide financing options to our customers.
+  [Financial Statements]
+    - 7 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 10 real filing table(s) available (see the HTML report).
+    - Certain Derivative Lawsuits in Delaware Before converting from a Delaware to Texas corporation on June 13, 2024, three separate derivative actions brought by purported Tesla stockholders were filed in the Delaware Court of Chancery on May 24, June 10 and June 13, 2024, purportedly on behalf of Tesla, against current and former directors regarding topics involving Elon Musk and others, X Corp. (formerly Twitter) and x.AI.
+
+=== Q4 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] We believe our capabilities and advancements in AI, including the deployment of Cortex, our training cluster at Gigafactory Texas, differentiates us from our competitors.
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Cash Flows from Investing Activities Net cash flows from investing activities and their variability across each period related primarily to capital expenditures, which were $11.34 billion and $8.90 billion for the years ended December 31, 2024 and 2023, respectively, mainly for AI-related capital expenditures, global factory expansion and machinery and equipment as we expand and enhance our product roadmap.
+    - For details regarding our indebtedness, refer to Note 10, Debt , to the consolidated financial statements included elsewhere in this Annual Report on Form 10-K. We continue adapting our strategy to meet our liquidity and risk objectives, such as investing in U.S. government securities and other investments, invest in autonomy, do more vertical integration, expand our product roadmap and provide financing options to our customers.
+    - In 2024, our net income attributable to common stockholders was $7.09 billion, representing a decrease of $7.91 billion compared to the prior year, primarily due to the impact of releasing $6.54 billion of our valuation allowance associated with U.S. federal and state deferred tax assets in the fourth quarter of 2023.We continue to ramp production and build and optimize our manufacturing capacity, expand our operations while focusing on further cost reductions and operational efficiencies to enable increased deliveries and deployments of our products, and invest in research and development to accelerate our AI, software, and fleet-based profits for further revenue growth.
+    - The overall increases were primarily driven by additional costs year over year related to AI programs.
+    - Additionally, we are increasingly focused on products and services based on AI, robotics and automation.
+  [Financial Statements]
+    - 5 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 17 real filing table(s) available (see the HTML report).
+    - Depreciation is generally computed using the straight-line method over the estimated useful lives of the respective assets, as follows: Machinery, equipment, vehicles and office furniture 3 to 15 years Tooling 4 to 7 years Building and building improvements 15 to 30 years Computer equipment and software 3 to 6 years AI infrastructure 5 to 30 years Leasehold improvements are depreciated on a straight-line basis over their estimated useful lives.
+    - AI infrastructure includes our owned data centers.
+    - Certain Derivative Lawsuits in Delaware Before converting from a Delaware to Texas corporation on June 13, 2024, three separate derivative actions brought by purported Tesla stockholders were filed in the Delaware Court of Chancery on May 24, June 10 and June 13, 2024, purportedly on behalf of Tesla, against current and former directors regarding topics involving Elon Musk and others, X Corp. (formerly Twitter) and x.AI.
+    - Tesla periodically does business with certain entities with which its CEO and directors are affiliated, such as x.AI, SpaceX, The Boring Company, X Corp. and Redwood Materials, in accordance with our Related Person Transactions Policy.
+  [Risk Factors]
+    - For example: Mr. Musk also currently holds management positions at Space Exploration Technologies Corp., X Corp., X.AI Corp., Neuralink Corp. and The Boring Company, and is involved in other ventures and with the Department of Government Efficiency.
+    - Our insurance coverage strategy may not be adequate to protect us from all business risks.
+
