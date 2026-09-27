@@ -1,0 +1,721 @@
+[CORE RESEARCH - MULTIPLE TOPICS] NVDA: Data Center revenue | Gross margin
+
+
+======================================================================
+TOPIC: Data Center revenue
+======================================================================
+
+[CORE RESEARCH] NVDA: Data Center revenue
+
+Quarters searched: 7
+Filing sections searched: 173
+
+Across fiscal 2023, management framed Data Center results around hyperscale demand strength while highlighting geopolitical and regional headwinds (notably Russia absence affecting guidance for a subsequent quarter, and softness in China). By Q4 2023, the SEC-reported outcome showed Data Center revenue ended fiscal 2023 at $15.01 billion (+41% y/y), supported by hyperscale and CSP-related multi-year cloud agreements. In fiscal 2024, reported Data Center revenue accelerated sharply—$4.28 billion (+14% y/y) in Q1, $10.32 billion (+171% y/y) in Q2, and $14.51 billion (+279% y/y) in Q3—while management emphasized generative AI/HGX ramp and continued manageability of China/license-constrained volumes. In fiscal 2024 full-year and into fiscal 2025, the filings show further expansion to $47.5 billion (+217% y/y) in FY2024 and continued strong growth in Q1–Q3 2025, indicating that the earlier headwind framing did not derail the long-duration upswing. Over the period, the most concrete filing-sourced “actuals” consistently corroborate a sustained uptrend in Data Center revenue, with qualitative guidance largely focused on mix and timing rather than precise numerical quarter targets.
+
+Forecasting credibility: None
+Only one guidance/actual pair with a clear Met/Exceeded/Missed verdict was identified across the full period: the claim about launching the first Data Center CPU (Grace) in the first half of 2023 was met. Other guidance items for Data Center (e.g., growth rates or sequential dynamics) were marked unresolved, and the Russia impact guidance lacked a resolved “actual” in the provided evidence. Because the required guidance/actual pair count with a verdict is effectively 1, but the dataset labels most as unresolved, a reliable forecasting-credibility rating cannot be established from a pattern (and the provided instruction requires a null rating when the pattern count is not sufficient/does not meet the stated condition).
+
+Trends:
+  - Shift from headwind-focused narrative (Russia/China) toward sustained AI-driven growth
+  - Large step-up in quarterly Data Center revenue from FY2024 Q2 onward
+  - CSP/hyperscaler strength increasingly highlighted as a core driver
+  - Continued full-year surge into FY2025
+
+Recurring themes/risks:
+  - Geopolitical/regulatory exposure (Russia absence; China destination licensing requirements)
+  - Supply/demand balance and inventory effects (inventory charges/reserves referenced in FY2023 filings and later inventory release benefits)
+  - Product/platform ramp dependency (HGX/Hopper networking and GPU platform transitions)
+  - Concentration and channel/distributor dynamics (noted distributor customer revenue contribution in Q2 FY2024)
+
+Key concerns:
+  - Several Data Center growth guidance statements (e.g., low- to mid-single-digit sequential growth or ~70% y/y growth) were left unresolved in the provided evidence, limiting the ability to judge timing/forecast accuracy versus actuals.
+  - FY2023 filings highlight substantial inventory charges ($2.17B) tied to excess Ampere architecture supply versus demand expectations for China, implying forecast/model risk around regional demand assumptions.
+  - Early-cycle guidance included estimates of impacts (e.g., $100M Russia absence impact on a subsequent quarter), but the provided excerpt does not include the corresponding filed actual for that specific datapoint.
+
+Conclusion:
+Data Center revenue evolved from a strong-but-headwind-aware setup in fiscal 2023 to a sustained, AI-led acceleration across fiscal 2024 and into fiscal 2025. Filing-sourced results show Data Center revenue of $15.01 billion (+41% y/y) for FY2023, rising to $47.5 billion (+217% y/y) for FY2024. Quarterly filings further confirm the step-up: $4.28B (+14% y/y) in Q1 FY2024, $10.32B (+171% y/y) in Q2 FY2024, and $14.51B (+279% y/y) in Q3 FY2024. In fiscal 2025, the filings report continued momentum with Data Center revenue of $22.6B in Q1 (+427% y/y), $26.3B in Q2 (+154% y/y), and rising further into Q3 FY2025 (+112% y/y).
+
+Evidence Coverage: 99.5% complete; 580/583 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2023 ===
+Management said:
+  - Furthermore, we estimate the absence of sales to Russia to have a $100 million impact on Q2 in Data Center.
+  - You're still guiding Data Center to a very strong, I think, close to 70% or so year-on-year growth, despite all the headwinds.
+  - Building on the H100 product side, we are on track to launch our first ever Data Center CPU, Grace, in the first half of 2023.
+  - We accelerate Rapids, we accelerate which is the Python version a Data Center scale version of Pandas, we accelerate Spark 3.0.
+  - We delivered a strong quarter driven by record revenue in both Data Center and Gaming with strong fundamentals and execution against a challenging macro backdrop.
+  - We had a record Data Center business this last quarter.
+  - Built for AI and video Spectrum 4 arrives as data centers are growing exponentially and demanding extreme performance, advanced security and powerful features to enable high-performance advanced virtualization and simulation at scale.
+  - And then on the other end, you're seeing data centers at the edge that are going to be robotics or autonomous data centers that are running 24/7.
+  - Overall, Data Center growth was driven primarily by strong adoption of our A100 GPU for both training and inference with large volume deployments by hyperscale customers and broadening adoption across the vertical industries.
+  - Data Center has become our largest market platform, and we see continued strong momentum going forward.
+  - A good percentage of our purchase commitments is for our Data Center business, which you can imagine, are much larger systems, much more complex systems and those things that we are procuring to make sure we can feed the demand both in the upcoming quarters and further.
+  - Our Data Center demand is strong and remains strong.
+  - Jensen, I wanted to ask a bit of a question on the Data Center business.
+  - And so we expect to see Data Center demand remain strong.
+  - It is surely going to be the next major Data Center segment.
+Guidance given:
+  - Furthermore, we estimate the absence of sales to Russia to have a $100 million impact on Q2 in Data Center. (target: Q2 (Data Center); Unresolved)
+  - You're still guiding Data Center to a very strong, I think, close to 70% or so year-on-year growth, despite all the headwinds. (target: ongoing / next quarter (year-on-year); Unresolved)
+  - We are on track to launch our first ever Data Center CPU, Grace, in the first half of 2023. (target: first half of 2023; Met)
+  - Data Center has become our largest market platform, and we see continued strong momentum going forward. (target: going forward; Unresolved)
+  - A good percentage of our purchase commitments is for our Data Center business, which you can imagine, are much larger systems, much more complex systems and those things that we are procuring to make sure we can feed the demand both in the upcoming quarters and further. (target: upcoming quarters and further; Unresolved)
+  - And so we expect to see Data Center demand remain strong. (target: future; Unresolved)
+Actual reported:
+  - [Observed] We had a record Data Center business this last quarter.
+  - [Observed] We delivered a strong quarter driven by record revenue in both Data Center and Gaming with strong fundamentals and execution against a challenging macro backdrop.
+  - [Observed] Overall, Data Center growth was driven primarily by strong adoption of our A100 GPU for both training and inference with large volume deployments by hyperscale customers and broadening adoption across the vertical industries.
+  - [Observed] Our Data Center demand is strong and remains strong.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Revenue: $8.29B | vs prior quarter: — | vs prior year: $5.66B (+46.4%)
+
+=== Q2 2023 ===
+Management said:
+  - I guess based on the guidance commentary, where I've come up thinking about would be as like a 30-plus percent sequential decline in Gaming and Professional Visualization and maybe kind of low- to mid-single-digit growth in Data Center and Auto.
+  - Regarding our split between our hyperscalers and data centers and what we refer to as our vertical industries, they always tend to be about the same, 50% for one, 50% for the others.
+  - And with that, and with Hopper coming down the pipeline, we're going to have a lot of questions around kind of the deceleration of year-over-year growth in Data Center, I believe.
+  - We do expect that Data Center will assist in our gross margins, but we also have growth plans in Auto.
+  - Even with the current macroeconomic headwinds, demand for our Data Center products have never been stronger.
+  - Additionally, the value of our inventory for Data Center is much different than the value of what we have for Gaming from an overall cost perspective.
+  - And so what is happening here for the Data Center, we had great, high expectations.
+  - I wanted to go back to that Data Center inventory charge.
+  - We expect that decline to be partially offset by sequential growth in Data Center and Automotive.
+  - We still have very strong, solid growth projection for Data Center as well.
+  - Sales are pretty strong right now, but there is a concern that Data Center capex could be the next shoe to drop in this rolling correction in semiconductors.
+  - In Data Center, AI, where computers are helping us write software that was impossible before, is driving a computing revolution and transforming every industry.
+  - So we're creating capacity opportunities, putting together all of those systems in terms of Data Center.
+Guidance given:
+  - I guess based on the guidance commentary, where I've come up thinking about would be as like a 30-plus percent sequential decline in Gaming and Professional Visualization and maybe kind of low- to mid-single-digit growth in Data Center and Auto. (target: next period (sequential); Unresolved)
+  - And with that, and with Hopper coming down the pipeline, we're going to have a lot of questions around kind of the deceleration of year-over-year growth in Data Center, I believe. (target: future; Unresolved)
+  - We expect that decline to be partially offset by sequential growth in Data Center and Automotive. (target: ongoing / next quarter sequentially; Unresolved)
+  - We still have very strong, solid growth projection for Data Center as well. (target: ongoing; Unresolved)
+  - Sales are pretty strong right now, but there is a concern that Data Center capex could be the next shoe to drop in this rolling correction in semiconductors. (target: near term / during the rolling correction in semiconductors; Unresolved)
+Actual reported:
+  - [Observed] Regarding our split between our hyperscalers and data centers and what we refer to as our vertical industries, they always tend to be about the same, 50% for one, 50% for the others.
+  - [Observed] Even with the current macroeconomic headwinds, demand for our Data Center products have never been stronger.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Revenue: $6.70B | vs prior quarter: $8.29B (-19.1%) | vs prior year: $6.51B (+3.0%)
+
+=== Q3 2023 ===
+Management said:
+  - Your data center networking business, I believe, is driving about $800 million per quarter in sales, very, very strong growth over the past few years.
+  - Gross margins reflect $702 million in inventory charges largely related to lower data center demand in China, partially offset by a warranty benefit of approximately $70 million.
+  - Year-on-year, GAAP operating expenses were up 31%, and non-GAAP operating expenses were up 30%, primarily due to higher compensation expenses related to headcount growth and salary increases and higher data center infrastructure expenses.
+  - If you're going to spend $20 billion on an infrastructure and the efficiency of that overall data center is improved by 10%.
+  - We started shipping our flagship 100 data center GPU based on the new hopper architecture in Q3.
+  - We delivered record data center and automotive revenue.
+  - NVIDIA networking is synonymous with the highest data center throughput and enjoying record results.
+  - We expect our data center revenue to reflect early production shipments of the A100, offset by continued softness in China.
+  - I guess, Colette, I heard in your script that you had talked about maybe a new way of commenting on or reporting hyperscaler revenue in your data center business.
+  - Our data center business is becoming larger and larger and our customers are complex.
+  - Most of that, primarily, all of it is related to our data center business, just due to the change in expected demand looking forward for China.
+  - Jen-Hsun Huang -- President and Chief Executive Officer Vivek, our data center business is indexed to two fundamental dynamics.
+  - Most of our data center business that we see is we're working with customers specifically on their needs to build out accelerated computing and AI.
+  - Let me clarify a little bit in terms of what we believe we should be looking at when we go forward and discussing our data center business.
+  - We will align our data center customer commentary going forward accordingly.
+Guidance given:
+  - We expect our data center revenue to reflect early production shipments of the A100, offset by continued softness in China. (target: next quarter; Unresolved)
+  - If you're going to spend $20 billion on an infrastructure and the efficiency of that overall data center is improved by 10%. (target: ongoing; Unresolved)
+Actual reported:
+  - [Observed] Your data center networking business, I believe, is driving about $800 million per quarter in sales, very, very strong growth over the past few years.
+  - [Observed] We started shipping our flagship 100 data center GPU based on the new hopper architecture in Q3.
+  - [Observed] We delivered record data center and automotive revenue.
+  - [Observed] NVIDIA networking is synonymous with the highest data center throughput and enjoying record results.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Revenue: $5.93B | vs prior quarter: $6.70B (-11.5%) | vs prior year: $7.10B (-16.5%)
+
+=== Q4 2023 ===
+Management said:
+  - On a trailing four-quarter basis, CSP customers drove about 40% of our data center revenue.
+  - Year on year, Q4 GAAP operating expenses were up 21%, and non-GAAP operating expenses were up 23%, primarily due to the higher compensation and data center infrastructure expenses.
+  - The total data center sequential revenue decline was driven by lower sales in China, which was largely in line with our expectations, reflecting COVID and other domestic issues.
+  - Revenue growth from CSP customers last year significantly outpaced that of data center as a whole as more enterprise customers moved to a cloud-first approach.
+  - First of all, as you know, our data center business is a GPU business only in the context of a conceptual GPU because what we actually sell to the cloud service providers is a panel, a fairly large computing panel of eight Hoppers or eight Amperes that's connected with NVLink switches that are connected with NVLink.
+  - The opportunity is significant and driving strong growth in the data center that will accelerate through the year.
+  - If our year-over-year growth in data center probably accelerated past Q1.
+  - First, talking about our data center guidance that we provided for Q1.
+  - And we are also expecting a growth year over year for our data center.
+  - But I think we've been kind of watching and wondering when your data center business might transition to more of a systems level business, meaning pairing and D-Link InfiniBand with your Hopper product, with your Grace product, and selling things more on a systems level.
+  - Starting with data center.
+  - That data center does exactly one thing and one thing only.
+  - We expect sequential growth to be driven by each of our four major market platforms led by strong growth in data center and gaming.
+  - Colette, I have a question on data center.
+  - We do expect a sequential growth in terms of our data center, strong sequential growth.
+Guidance given:
+  - First, talking about our data center guidance that we provided for Q1. (target: Q1; Unresolved)
+  - And we are also expecting a growth year over year for our data center. (target: Q1 (year-over-year basis); Unresolved)
+  - We expect sequential growth to be driven by each of our four major market platforms led by strong growth in data center and gaming. (target: ongoing/next period (sequential growth); Unresolved)
+  - We do expect a sequential growth in terms of our data center, strong sequential growth. (target: ongoing/next period (sequential growth); Unresolved)
+Actual reported:
+  - [Unresolved] [from SEC filing] Data Center revenue for fiscal year 2023 was $15.01 billion, up 41% from fiscal year 2022.
+  - [Met] On a trailing four-quarter basis, CSP customers drove about 40% of our data center revenue.
+  - [Observed] [from SEC filing] Data Center revenue was up 41% from a year ago led by strong growth from hyperscale customers and also reflects purchases made by several CSP partners to support multi-year cloud service agreements for our new NVIDIA AI cloud service offerings and our research and development activities.
+  - [Observed] The total data center sequential revenue decline was driven by lower sales in China, which was largely in line with our expectations, reflecting COVID and other domestic issues.
+  - [Observed] Revenue growth from CSP customers last year significantly outpaced that of data center as a whole as more enterprise customers moved to a cloud-first approach.
+  - [Observed] The opportunity is significant and driving strong growth in the data center that will accelerate through the year.
+  - [Observed] If our year-over-year growth in data center probably accelerated past Q1.
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Market Platform Highlights Data Center revenue for fiscal year 2023 was $15.01 billion, up 41% from fiscal year 2022.
+    - 37 Table of Contents Data Center revenue was up 41% from a year ago led by strong growth from hyperscale customers and also reflects purchases made by several CSP partners to support multi-year cloud service agreements for our new NVIDIA AI cloud service offerings and our research and development activities.
+    - Gross margin for fiscal year 2023 declined from a year ago, driven by $2.17 billion of inventory charges largely relating to excess supply of NVIDIA Ampere architecture Gaming and Data Center products as compared to the demand expectations for these products, particularly for the expected demand in China.
+    - The strong growth in Data Center revenue was influenced by hyperscaler and cloud usage of our accelerated computing platforms and networking portfolio.
+    - The decline in revenue outside the U.S. was primarily driven by China and Taiwan related to Data Center and Gaming.
+  [Financial Statements]
+    - Revenue: $26.97B | vs prior quarter: — | vs prior year: $26.91B (+0.2%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 7 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - 21 Table of Contents For example, a defect was identified in a third-party component embedded in certain Data Center products.
+    - NVIDIA has partnered with leading cloud service providers to host these services in their data centers, and we entered into multi-year cloud service agreements in the second half of fiscal year 2023 to support these offerings and our research and development activities.
+    - Additionally, restrictions imposed by the Chinese government on the duration of gaming activities and access to games may adversely affect our Gaming revenue, and increased oversight of digital platform companies may adversely affect our Data Center revenue.
+    - Our corporate headquarters, a large portion of our current data center capacity, and a portion of our research and development activities are located in California, and other critical business operations, finished goods inventory, and some of our suppliers are located in Asia, making our operations vulnerable to natural disasters such as earthquakes, wildfires, or other business disruptions occurring in these geographical areas.
+    - Our architecture transitions of Data Center, Professional Visualization, and Gaming products may impair our ability to predict demand and impact our supply mix.
+    - If we are found not to comply, we could be subject to penalties of up to €20 million or 4% of worldwide revenue, whichever is greater, and classes of individuals or consumer protection organizations may initiate litigation related to our processing of their personal data.
+
+=== Q1 2024 ===
+Management said:
+  - I think your data center networking business is driving about $1 billion of revenues per quarter, plus or minus.
+  - If that data center is running a few applications for a few people for a specific use case and is doing it continuously, and that infrastructure costs you, pick a number, $500 million.
+  - The easiest way to think about that is, over the next four, five, 10 years, most of that $1 trillion and then compensating, adjusting for all the growth in data center still, it will be largely generative AI.
+  - There's $1 trillion installed in the global data center infrastructure based on the general purpose computing method of the last era.
+  - And so, now, we see ourselves in two simultaneous transitions: the world's $1 trillion data center is nearly populated entirely by CPUs today.
+  - The simple way to think about it in the end is that the world has a $1 trillion of data center installed, and it used to be 100% CPUs.
+  - With the combination of in-network computing technology and the industry's only end-to-end data center scale optimized software stack, customers routinely enjoy a 20% increase in throughput for their sizable infrastructure investment.
+  - But if you could successfully do it in a large number of application domain that's taken us 15 years, it's sufficiently that almost the entire data centers' major applications could be accelerated, you could reduce the amount of energy consumed and the amount of cost for our data center substantially by an order of magnitude.
+  - Strong sequential growth was driven by record data center revenue with our gaming and professional visualization platforms emerging from channel inventory corrections.
+  - Colette, you mentioned the vast majority of the sequential increase in revenue this quarter will come from data center.
+  - We're going through that moment right now as we speak while the world's data center capex budget is limited.
+  - And as we look forward over the next number of quarters, as Colette discussed, the high visibility in the data center business, maybe you could talk a little bit about the mix you're seeing of hyperscale customers buying for their own first-party internal workloads versus their own sort of third party, their own customers versus what of that big upside in data center going forward is systems that you're selling in with potential to support your DGX Cloud offerings and what you've learned since you've launched it about the potential of that business.
+  - This demand has extended our data center visibility out a few quarters, and we have procured substantially higher supply for the second half of the year.
+  - As we kind of think about unpacking the various different growth drivers of the data center business going forward, I'm curious, Colette, of just how we should think about the monetization effect of software considering that the expansion of your cloud service agreements continues to grow.
+  - Starting with data center.
+Guidance given:
+  - And as we look forward over the next number of quarters, as Colette discussed, the high visibility in the data center business, maybe you could talk a little bit about the mix you're seeing of hyperscale customers buying for their own first-party internal workloads versus their own sort of third party, their own customers versus what of that big upside in data center going forward is systems that you're selling in with potential to support your DGX Cloud offerings and what you've learned since you've launched it about the potential of that business. (target: next number of quarters; Unresolved)
+  - As we kind of think about unpacking the various different growth drivers of the data center business going forward, I'm curious, Colette, of just how we should think about the monetization effect of software considering that the expansion of your cloud service agreements continues to grow. (target: going forward; Unresolved)
+Actual reported:
+  - [Observed] [from SEC filing] Data Center revenue for the first quarter of fiscal year 2024 was $4.28 billion, up 14% from a year ago, led by growing demand for generative AI and large language models using GPUs based on our NVIDIA Hopper and Ampere architectures.
+  - [Observed] [from SEC filing] Data Center revenue was up 14% from a year ago and up 18% sequentially, led by growing demand for generative AI and large language models using GPUs based on our NVIDIA Hopper and Ampere architectures.
+  - [Observed] Strong sequential growth was driven by record data center revenue with our gaming and professional visualization platforms emerging from channel inventory corrections.
+  - [Observed] I think your data center networking business is driving about $1 billion of revenues per quarter, plus or minus.
+  - [Observed] Colette, you mentioned the vast majority of the sequential increase in revenue this quarter will come from data center.
+  - [Observed] We're going through that moment right now as we speak while the world's data center capex budget is limited.
+  - [Observed] This demand has extended our data center visibility out a few quarters, and we have procured substantially higher supply for the second half of the year.
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - 25 Market Platform Highlights Data Center revenue for the first quarter of fiscal year 2024 was $4.28 billion, up 14% from a year ago, led by growing demand for generative AI and large language models using GPUs based on our NVIDIA Hopper and Ampere architectures.
+    - Data Center revenue was up 14% from a year ago and up 18% sequentially, led by growing demand for generative AI and large language models using GPUs based on our NVIDIA Hopper and Ampere architectures.
+    - We have procured substantially higher Data Center supply for the second half compared to the first half of fiscal year 2024.
+    - The year-on-year decline reflects lower Gaming margins and a higher contribution from Automotive, partially offset by higher Data Center margins.
+    - The sequential increase reflects lower costs in Gaming and higher Data Center margins as we ramp our Hopper architecture.
+  [Financial Statements]
+    - Revenue: $7.19B | vs prior quarter: — | vs prior year: $8.29B (-13.2%)
+    - 2 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+    - Our lease obligations primarily consist of operating leases for our headquarters complex, domestic and international office facilities, and data center space, with lease periods expiring between fiscal years 2024 and 2035.
+    - The Compute & Networking segment includes our Data Center accelerated computing platform; networking; automotive artificial intelligence, or AI, Cockpit, autonomous driving development agreements, and 20 autonomous vehicle solutions; electric vehicle computing platforms; Jetson for robotics and other embedded platforms; NVIDIA AI Enterprise and other software; and cryptocurrency mining processors, or CMP.
+  [Risk Factors]
+    - We have procured substantially higher Data Center supply for the second half compared to the first half of fiscal year 2024.
+    - Economic and industry uncertainty or changes, including recession or slowing growth, inflation, changes or uncertainty in fiscal, monetary, or trade policy, disruptions to capital markets and the banking system, currency fluctuations, higher interest rates, tighter credit, lower capital expenditures by businesses, including on IT infrastructure, increases in unemployment, labor shortages, and lower consumer confidence and spending, have in the past and/or could in the future have adverse, wide-ranging effects on our business and financial results, including: 35 • increased costs for wafers, components, logistics, and other supply chain expenses, which have negatively impacted our gross margin and may continue to do so; • increased supply, employee, facilities and infrastructure costs and volatility in the financial markets, which have reduced and may in the future reduce our margins; • decrease in demand for our products, services and technologies and those of our customers, partners or licensees; • the inability of our suppliers to deliver on their supply commitments to us and our customers’ or our licensees’ inability to supply products to customers and/or end users; • limits on our ability to forecast operating results and make business decisions; • the insolvency of key suppliers, distributors, customers, cloud service providers, data center providers, licensing parties, or other third parties we rely on; reduced profitability may also cause some customers to scale back operations, exit businesses, or file for bankruptcy protection and potentially cease operations; lead to mergers, consolidations or strategic alliances among other companies, which could adversely affect our ability to compete effectively; and • increased credit and collectability risks, higher borrowing costs or reduced availability of capital markets, reduced liquidity, adverse impacts on our suppliers, failures of counterparties including financial institutions and insurers, asset impairments, and declines in the value of our financial instruments.
+    - Additionally, restrictions imposed by the Chinese government on the duration of gaming activities and access to games may adversely affect our Gaming revenue, and increased oversight of digital platform companies may adversely affect our Data Center revenue.
+    - Additionally, since some of our products are part of a complex data center buildout, supply constraints or availability issues with respect to any one component have had and may have a broader revenue impact.
+    - Our corporate headquarters, a large portion of our current data center capacity, and a portion of our research and development activities are located in California, and other critical business operations, finished goods inventory, and some of our suppliers are located in Asia, making our operations vulnerable to natural disasters such as earthquakes, wildfires, or other business disruptions occurring in these geographical areas.
+    - Additionally, interruptions or delays in services from cloud service providers, data center co-location partners, and other third parties on which we rely for any reason, including the events described above or other events such as the insolvency of these parties, could impair our ability to provide our products and services and harm our business.
+
+=== Q2 2024 ===
+Management said:
+  - Colette, I think, last quarter, you had said CSPs were about 40% of your data center revenue; consumer internet, 30%; enterprise, 30%.
+  - China's demand was within the historical range of 20% to 25% of our data center revenue, including compute and networking solutions.
+  - GAAP gross margins expanded to 70.1% and non-GAAP gross margin to 71.2% driven by higher data center sales.
+  - Our data center supply chain, including HGX, with 35,000 parts and highly complex networking, has been built up over the past decade.
+  - We also announced new NVIDIA AI Enterprise-ready servers featuring the new NVIDIA L40S GPU built for the industry-standard data center server ecosystem and BlueField-3 DPU data center infrastructure processor.
+  - There's about $1 trillion worth of data centers, call it, a quarter of trillion dollars of -- of capital spend each year.
+  - Jensen Huang -- President and Chief Executive Officer The world has something along the lines of about $1 trillion worth of data centers installed in the cloud and enterprise and otherwise.
+  - Data center compute revenue nearly tripled year on year driven primarily by accelerating demand for cloud from cloud service providers and large consumer internet companies for our HGX platform, the engine of generative and large language models.
+  - So, both of these things are the drivers of the revenue inside data center.
+  - By geography, data center growth was strongest in the U.S. as customers direct their capital investments to AI and accelerated computing.
+  - Our data center products include a significant amount of software and complexity, which is also helping drive our gross margins.
+  - Their investments in data center infrastructure purpose-built for AI are already generating significant returns.
+  - Going forward, the best way to invest in a data center is to divert the capital investment from general-purpose computing and focus it on generative AI and accelerated computing.
+  - Given the strength of demand for our products worldwide, we do not anticipate that additional export restrictions on our data center GPUs, if adopted, would have an immediate material impact to our financial results.
+Guidance given:
+  - Going forward, the best way to invest in a data center is to divert the capital investment from general-purpose computing and focus it on generative AI and accelerated computing. (target: going forward; Unresolved)
+  - Given the strength of demand for our products worldwide, we do not anticipate that additional export restrictions on our data center GPUs, if adopted, would have an immediate material impact to our financial results. (target: ongoing / immediate; Unresolved)
+Actual reported:
+  - [Unresolved] Colette, I think, last quarter, you had said CSPs were about 40% of your data center revenue; consumer internet, 30%; enterprise, 30%.
+  - [Observed] China's demand was within the historical range of 20% to 25% of our data center revenue, including compute and networking solutions.
+  - [Observed] Data center compute revenue nearly tripled year on year driven primarily by accelerating demand for cloud from cloud service providers and large consumer internet companies for our HGX platform, the engine of generative and large language models.
+  - [Observed] By geography, data center growth was strongest in the U.S. as customers direct their capital investments to AI and accelerated computing.
+  - [Observed] There's about $1 trillion worth of data centers, call it, a quarter of trillion dollars of -- of capital spend each year.
+  - [Observed] The world has something along the lines of about $1 trillion worth of data centers installed in the cloud and enterprise and otherwise.
+  - [Observed] So, both of these things are the drivers of the revenue inside data center.
+  - [Observed] Their investments in data center infrastructure purpose-built for AI are already generating significant returns.
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Data Center revenue was up 171% from a year ago and up 141% sequentially, led by CSPs and large consumer internet companies.
+    - Market Platform Highlights Data Center revenue for the second quarter of fiscal year 2024 was $10.32 billion, up 171% from a year ago.
+    - One data center distributor customer represented approximately 17% and 13% of total revenue for the second quarter and first half of fiscal year 2024, respectively, and was attributable to the Compute & Networking segment.
+    - The increase in revenue to the United States for the second quarter and first half of fiscal year 2024 was primarily due to higher U.S.-based Data Center end demand.
+    - In the second quarter of fiscal year 2024, CSPs represented slightly more than half of our estimated Data Center end demand, with large consumer internet companies being the next largest end demand, followed by enterprise and high performance computing.
+  [Financial Statements]
+    - Revenue: $13.51B | vs prior quarter: $7.19B (+87.8%) | vs prior year: $6.70B (+101.5%)
+    - 3 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+    - Our lease obligations primarily consist of operating leases for our headquarters complex, domestic and international office facilities, and data center space, with lease periods expiring between fiscal years 2024 and 2035.
+    - The Compute & Networking segment includes our Data Center accelerated computing platform; networking; automotive artificial intelligence, or AI, Cockpit, autonomous driving development agreements, and autonomous vehicle solutions; electric vehicle computing platforms; Jetson for robotics and other embedded platforms; NVIDIA AI Enterprise and other software; and cryptocurrency mining processors, or CMP.
+  [Risk Factors]
+    - For example, one data center distributor customer represented approximately 17% and 13% of total revenue for the second quarter and first half of fiscal year 2024, respectively.
+    - New technologies such as generative AI models have emerged, and while they have driven increased demand for Data Center compute infrastructure, the long-term trajectory is 37 unknown.
+    - Additionally, restrictions imposed by the Chinese government on the duration of gaming activities and access to games may adversely affect our Gaming revenue, and increased oversight of digital platform companies may adversely affect our Data Center revenue.
+    - Additionally, since some of our products are part of a complex data center buildout, supply constraints or availability issues with respect to any one component have had and may have a broader revenue impact.
+    - Our corporate headquarters, a large portion of our current data center capacity, and a portion of our research and development activities are located in California, and other critical business operations, finished goods inventory, and some of our suppliers are located in Asia, making our operations vulnerable to natural disasters such as earthquakes, wildfires, or other business disruptions occurring in these geographical areas.
+    - Demand for our data center systems and products has surged over the last two quarters and our demand visibility extends into next year.
+
+=== Q3 2024 ===
+Management said:
+  - Starting with data center, the continued ramp of the NVIDIA HGX platform based on our Hopper Tensor Core GPU architecture, along with InfiniBand end-to-end networking drove record revenue of $14.5 billion, up 41% sequentially and up 279% year on year.
+  - We had seen historically over the last several quarters that China and some of the other impacted destinations to be about 20% to 25% of our data center revenue.
+  - Our sales to China and other affected destinations derived from products that are now subject to licensing requirements have consistently contributed approximately 20% to 25% of data center revenue over the past few quarters.
+  - GAAP gross margin expanded to 74% and non-GAAP gross margin to 75%, driven by higher data center sales and lower net inventory reserves, including a one percentage point benefit from the release of previously reserved inventory related to the Ampere GPU architecture products.
+  - Because when I just look at the trajectory of your data center, its growth, it will be close to nearly 30% of all the spending in data center next year.
+  - Jen-Hsun Huang -- President and Chief Executive Officer Absolutely believe that data center can grow through 2025.
+  - AI factories run copilots and AI assistants, which are significant software TAM expansion and are driving significant new investment, expanding the $1 trillion traditional data center infrastructure installed base, empowering the AI industrial revolution.
+  - Our data center compute revenue quadrupled from last year and networking revenue nearly tripled.
+  - Cloud service providers drove roughly the other half of our data center revenue in the quarter.
+  - Consumer Internet companies and enterprises drove exceptional sequential growth in Q3, comprising approximately half of our data center revenue and outpacing total growth.
+  - Following the government's clear guidelines, we are working to expand our data center product portfolio to offer compliant solutions for each regulatory category, including products for which the U.S. government does not wish to have advanced notice before each shipment.
+  - The U.S. government designed the regulation to allow the U.S. industry to provide data center compute products to markets worldwide, including China.
+  - We are on a very, very fast ramp with our first data center CPU to a multibillion-dollar product line.
+Guidance given:
+  - Because when I just look at the trajectory of your data center, its growth, it will be close to nearly 30% of all the spending in data center next year. (target: next year; Unresolved)
+  - Jen-Hsun Huang -- President and Chief Executive Officer Absolutely believe that data center can grow through 2025. (target: through 2025; Unresolved)
+Actual reported:
+  - [Unresolved] We had seen historically over the last several quarters that China and some of the other impacted destinations to be about 20% to 25% of our data center revenue.
+  - [Observed] Our sales to China and other affected destinations derived from products that are now subject to licensing requirements have consistently contributed approximately 20% to 25% of data center revenue over the past few quarters.
+  - [Observed] Cloud service providers drove roughly the other half of our data center revenue in the quarter.
+  - [Observed] Consumer Internet companies and enterprises drove exceptional sequential growth in Q3, comprising approximately half of our data center revenue and outpacing total growth.
+  - [Observed] Starting with data center, the continued ramp of the NVIDIA HGX platform based on our Hopper Tensor Core GPU architecture, along with InfiniBand end-to-end networking drove record revenue of $14.5 billion, up 41% sequentially and up 279% year on year.
+  - [Observed] Our data center compute revenue quadrupled from last year and networking revenue nearly tripled.
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Market Platform Highlights Data Center revenue for the third quarter of fiscal year 2024 was $14.51 billion, up 279% from a year ago and up 41% from the previous quarter.
+    - Data Center revenue was up 279% from a year ago and up 41% sequentially.
+    - Our sales to China and other affected destinations, derived from products that are now subject to licensing requirements, have consistently contributed approximately 20-25% of Data Center revenue over the past few quarters.
+    - The year over year increase in the third quarter and first nine months of fiscal year 2024 was primarily due to improved product mix from Data Center revenue growth of 279% and 156%, respectively, and lower net inventory provisions and related charges.
+    - Data Center compute grew 324% from a year ago and 38% sequentially, largely reflecting the strong ramp of our Hopper GPU architecture-based HGX platform from cloud service providers, or CSPs, including GPU-specialized CSPs; consumer internet companies; and enterprises.
+  [Financial Statements]
+    - Revenue: $18.12B | vs prior quarter: $13.51B (+34.2%) | vs prior year: $5.93B (+205.5%)
+    - 3 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+    - Our lease obligations primarily consist of operating leases for our headquarters complex, domestic and international office facilities, and data center space, with lease periods expiring between fiscal years 2024 and 2035.
+    - The increase in revenue to the United States for the third quarter and first nine months of fiscal year 2024 was primarily due to higher U.S.-based Data Center end demand.
+    - The Compute & Networking segment includes our Data Center accelerated computing platform; networking; automotive artificial intelligence, or AI, Cockpit, autonomous driving development agreements, and autonomous vehicle solutions; electric vehicle computing platforms; Jetson for robotics and other embedded platforms; NVIDIA AI Enterprise and other software; and DGX Cloud.
+  [Risk Factors]
+    - Additionally, since some of our products are part of a 37 complex data center buildout, supply constraints or availability issues with respect to any one component have had and may have a broader revenue impact.
+    - Additionally, restrictions imposed by the Chinese government on the duration of gaming activities and access to games may adversely affect our Gaming revenue, and increased oversight of digital platform companies may adversely affect our Data Center revenue.
+    - Our corporate headquarters, a large portion of our current data center capacity, and a portion of our research and development activities are located in California, and other critical business operations, finished goods inventory, and some of our suppliers are located in Asia, making our operations vulnerable to natural disasters such as earthquakes, wildfires, or other business disruptions occurring in these geographical areas.
+    - Demand for our data center systems and products has surged over the last three quarters and our demand visibility extends into next year.
+    - Additionally, interruptions or delays in services from CSPs, data center co-location partners, and other third parties on which we rely, including due to the events described above or other events such as the insolvency of these parties, could impair our ability to provide our products and services and harm our business.
+    - We are working to expand our Data Center product portfolio to offer new regulation-compliant solutions, including those for which the USG does not wish to have any advance notice before each shipment.
+
+=== Q4 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Market Platform Highlights Data Center revenue for fiscal year 2024 was $47.5 billion, up 217% from fiscal year 2023.
+    - Data Center revenue for fiscal year 2024 was up 217%.
+    - Data Center compute revenue was up 244% in the fiscal year.
+    - We estimate that in fiscal year 2024, approximately 40% of Data Center revenue was for AI inference.
+    - Our sales to China decreased as a percentage of total Data Center revenue from 19% in fiscal year 2023 to 14% in fiscal year 2024.
+    - The year over year increase was primarily due to strong Data Center revenue growth of 217% and lower net inventory provisions as a percentage of revenue.
+  [Financial Statements]
+    - Revenue: $60.92B | vs prior quarter: — | vs prior year: $26.97B (+125.9%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - Our sales to China decreased as a percentage of total Data Center revenue from 19% in fiscal year 2023 to 14% in fiscal year 2024.
+    - China represented a mid-single digit percentage of our Data Center revenue in the fourth quarter of fiscal year 2024 due to USG licensing requirements and we expect China to be in a similar range in the first quarter of fiscal year 2025.
+    - Demand for our data center systems and products surged in fiscal year 2024.
+    - We have demand visibility for our new data center products ramping later in fiscal year 2025.
+    - For example, in fiscal year 2023, a defect was identified in a third-party component embedded in certain Data Center products.
+    - Our success depends on our ability to: • timely identify industry changes, adapt our strategies, and develop new or enhance and maintain existing products and technologies that meet the evolving needs of these markets, including due to unexpected changes in industry standards or disruptive technological innovation that could render our products incompatible with products developed by other companies; 14 Table of Contents • develop or acquire new products and technologies through investments in research and development; • launch new offerings with new business models including software, services, and cloud solutions, as well as software-, infrastructure-, or platform-as-a-service solutions; • expand the ecosystem for our products and technologies; • meet evolving and prevailing customer and industry safety, security, reliability expectations, and compliance standards; • manage product and software lifecycles to maintain customer and end-user satisfaction; • develop, acquire, maintain, and secure access to the internal and external infrastructure needed to scale our business, including sufficient energy for powering data centers using our products, acquisition integrations, customer support, e-commerce, IP licensing capabilities and cloud service capacity; and • complete technical, financial, operational, compliance, sales and marketing investments for the above activities.
+
+=== Q1 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Market Platform Highlights Data Center revenue for the first quarter of fiscal year 2025 was $22.6 billion, up 427% from a year ago and up 23% from the previous quarter.
+    - Data Center compute revenue was $19.4 billion, up 478% from a year ago and up 29% sequentially.
+    - Data Center revenue was up 427% from a year ago and up 23% sequentially.
+    - The year over year increase was primarily due to strong Data Center revenue growth of 427%.
+    - In our trailing 4 quarters, we estimate that inference drove about 40% of our Data Center revenue.
+    - Our Data Center revenue in China is down significantly from the level prior to the imposition of new export control restrictions in October 2023.
+  [Financial Statements]
+    - 2 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+    - Our lease obligations primarily consist of operating leases for our headquarters complex, domestic and international office facilities, and data center space, with lease periods expiring between fiscal years 2025 and 2035.
+    - The Compute & Networking segment includes our Data Center accelerated computing platform; networking; automotive artificial intelligence, or AI, Cockpit, autonomous driving development agreements, and autonomous vehicle solutions; electric vehicle computing platforms; Jetson for robotics and other embedded platforms; NVIDIA AI Enterprise and other software; and DGX Cloud.
+  [Risk Factors]
+    - Our Data Center revenue in China is down significantly from the level prior to the imposition of new export control restrictions in October 2023.
+    - Our overall revenue, driven by data center compute, continued to grow through the first quarter of fiscal year 2025.
+    - Additionally, restrictions imposed by the Chinese government on the duration of gaming activities and access to games may adversely affect our Gaming revenue, and increased oversight of digital platform companies may adversely affect our Data Center revenue.
+    - Additionally, since some of our products are part of a complex data center buildout, supply constraints or availability issues with respect to any one component have had and may have a broader revenue impact.
+    - Many additional factors have caused and/or could in the future cause us to either underestimate or overestimate our customers’ future demand for our products, or otherwise cause a mismatch between supply and demand for our products and impact the timing and volume of our revenue, including: • changes in product development cycles and time to market; • competing technologies and competitor product releases, announcements or other actions; • changes in business and economic conditions; • sudden or sustained government lockdowns or public health issues; • rapidly changing technology or customer requirements; • the availability of sufficient data center capacity and energy for customers to procure; • new product introductions and transitions resulting in less demand for existing products; • new or unexpected end-use cases; • increase in demand for competitive products ; • business decisions made by third parties; • the demand for accelerated computing or AI-related cloud services; • changes that impact the ecosystem for the architectures underlying our products and technologies; • the demand for our products; or • government actions or changes in governmental policies, such as export controls or increased restrictions on gaming usage.
+    - We expanded our Data Center product portfolio to offer new solutions, including those for which the USG does not require a license or advance notice before each shipment.
+
+=== Q2 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Market Platform Highlights Data Center revenue for the second quarter of fiscal year 2025 was $26.3 billion, up 16% from the previous quarter and up 154% from a year ago.
+    - Data Center compute revenue was $22.6 billion, up 162% from a year ago and up 17% sequentially.
+    - Data Center revenue was up 154% from a year ago and up 16% sequentially.
+    - Cloud service providers represented roughly 45% of our Data Center revenue, and more than 50% stemmed from consumer internet and enterprise companies.
+    - Our Data Center revenue in China grew sequentially in the second quarter of fiscal year 2025 and is a significant contributor to our Data Center revenue.
+    - Over the trailing four quarters, we estimate that inference drove over 40% of our Data Center revenue.
+  [Financial Statements]
+    - 3 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+    - Our lease obligations primarily consist of operating leases for our headquarters complex, domestic and international office facilities, and data center space, with lease periods expiring between fiscal years 2025 and 2035.
+    - The Compute & Networking segment includes our Data Center accelerated computing platforms and artificial intelligence, or AI, solutions and software; networking; automotive platforms and autonomous and electric vehicle solutions; Jetson for robotics and other embedded platforms; and DGX Cloud computing services.
+  [Risk Factors]
+    - Many additional factors have caused and/or could in the future cause us to either underestimate or overestimate our customers’ future demand for our products, or otherwise cause a mismatch between supply and demand for our products and impact the timing and volume of our revenue, including: • changes in product development cycles and time to market; • competing technologies and competitor product releases, announcements or other actions; • changes in business and economic conditions; • sudden or sustained government lockdowns or public health issues; • rapidly changing technology or customer requirements; • the availability of sufficient data center capacity or energy for customers to procure; • new product introductions and transitions resulting in less demand for existing products; • new or unexpected end-use cases; • increase in demand for competitive products; • business decisions made by third parties; • the demand for accelerated computing, AI-related cloud services, or large language models; 34 • changes that impact the ecosystem for the architectures underlying our products and technologies; • the demand for our products; or • government actions or changes in governmental policies, such as export controls or increased restrictions on gaming usage.
+    - Additionally, restrictions imposed by the Chinese government on the duration of gaming activities and access to games may adversely affect our Gaming revenue, and increased oversight of digital platform companies may adversely affect our Data Center revenue.
+    - Additionally, since some of our products are part of a complex data center buildout, supply constraints or availability issues with respect to any one component have had and may have a broader revenue impact.
+    - We expanded our Data Center product portfolio to offer new solutions, including those for which the USG does not require a license or advance notice before each shipment.
+    - If the Chinese government modifies or implements the Action Plan in a way that effectively prevents us from being able to design products to meet the new standard, this may restrict the ability of customers to use some of our data center products and may have a material and adverse impact on our business, operating results and financial condition.
+    - Changes in our partners' or customers' business models or their ownership can reduce the number of partners available to us and harm our ability to sell our advanced data center systems to customers.
+
+=== Q3 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Data Center compute revenue was $27.6 billion, up 132% from a year ago and up 22% sequentially.
+    - Data Center revenue was up 112% from a year ago and up 17% sequentially.
+    - Revenue from Data Center computing grew 133% year-on-year and 195% compared to the first nine months of fiscal year 2024 driven by demand for our Hopper computing platform for training and inferencing of large language models, recommendation engines, and generative AI applications.
+    - Cloud service providers represented approximately 50% of our Data Center revenue, and the remainder was represented by consumer internet and enterprise companies.
+    - Our Data Center revenue in China grew sequentially in the third quarter of fiscal year 2025.
+    - As a percentage of total Data Center revenue, it remains below levels seen prior to the imposition of export controls in October 2023.
+  [Financial Statements]
+    - 3 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+    - Our lease obligations primarily consist of operating leases for our headquarters' campus and domestic and international offices and data centers, with lease periods expiring between fiscal years 2025 and 2036.
+    - 20 NVIDIA Corporation and Subsidiaries Notes to Condensed Consolidated Financial Statements (Continued) (Unaudited) The Compute & Networking segment includes our Data Center accelerated computing platforms and artificial intelligence, or AI, solutions and software; networking; automotive platforms and autonomous and electric vehicle solutions; Jetson for robotics and other embedded platforms; and DGX Cloud computing services.
+  [Risk Factors]
+    - Many additional factors have caused and/or could in the future cause us to either underestimate or overestimate our customers’ future demand for our products, or otherwise cause a mismatch between supply and demand for our products and impact the timing and volume of our revenue, including: • changes in product development cycles and time to market; • competing technologies and competitor product releases, announcements or other actions; • changes in business and economic conditions; • sudden or sustained government lockdowns or public health issues; • rapidly changing technology or customer requirements; • the availability of sufficient data center capacity or energy for customers to procure; • new product introductions and transitions resulting in less demand for existing products; • new or unexpected end-use cases; • increase in demand for competitive products; • business decisions made by third parties; 34 • the demand for accelerated computing, AI-related cloud services, or large language models; • changes that impact the ecosystem for the architectures underlying our products and technologies; • the demand for our products; or • government actions or changes in governmental policies, such as export controls or increased restrictions on gaming usage.
+    - Additionally, restrictions imposed by the Chinese government on the duration of gaming activities and access to games may adversely affect our Gaming revenue, and increased oversight of digital platform companies may adversely affect our Data Center revenue.
+    - Additionally, since some of our products are part of a complex data center buildout, supply constraints or availability issues with respect to any one component have had and may have a broader revenue impact.
+    - We expanded our Data Center product portfolio to offer new solutions, including those for which the USG does not require a license or advance notice before each shipment.
+    - If the Chinese government modifies or implements the Action Plan in a way that effectively prevents us from being able to design products to meet the new standard, this may restrict the ability of customers to use some of our data center products and may have a material and adverse impact on our business, operating results and financial condition.
+    - We have introduced a new architecture cadence of our Data Center solutions where we seek to complete a new computing architecture each year and we are providing a greater variety of Data Center offerings.
+
+
+======================================================================
+TOPIC: Gross margin
+======================================================================
+
+[CORE RESEARCH] NVDA: Gross margin
+
+Quarters searched: 7
+Filing sections searched: 173
+
+Across FY2023, management’s gross margin trajectory was heavily influenced by large inventory and warranty reserve movements: GAAP gross margin fell to 43.5% in Q2 2023 versus a guided 62.4% (±50 bps) and then improved materially in later quarters (e.g., GAAP 53.6% in Q3 2023 and 63.3% in Q4 2023). By FY2024, gross margin rebounded and stabilized at high levels, with Q3 2024 GAAP gross margin reported at 74% (versus guided 74.5%) and FY2024 ending at 72.7% GAAP after Data Center growth and lower inventory provisions. In FY2025, gross margin remained strong in the mid-to-high 70% range overall (e.g., 78.4% GAAP in Q1 2025), though management disclosed continuing risk from inventory provisions tied to Blackwell low-yielding materials. Overall, the period shows gross margin recovering as inventory reserve overhangs eased and mix shifted toward higher-margin Data Center, while ongoing inventory provisioning risk remained a key swing factor.
+
+Forecasting credibility: None
+No guidance/actual pairs were found for the topic per the provided evidence rules, so a Met/Missed-based forecasting credibility rating cannot be computed. Any apparent guidance provided in earlier periods cannot be evaluated under the required guidance-vs-actual pairing count because that count is treated as zero.
+
+Trends:
+  - FY2023 gross margin depressed by inventory and warranty reserve charges, especially Q2 2023
+  - FY2024 gross margin recovered sharply alongside Data Center mix and lower net inventory provisions
+  - FY2025 gross margin stayed elevated (mid-70%+), despite risk from inventory provisions for low-yielding Blackwell materials
+
+Recurring themes/risks:
+  - Inventory provision / inventory reserve adjustments as a primary driver of period-to-period gross margin swings
+  - Data Center mix and software contribution supporting higher gross margins
+  - Warranty reserve effects partially offsetting inventory charges
+
+Key concerns:
+  - Accounting sensitivity: filing excerpts repeatedly attribute gross margin swings to large inventory charges/provisions (e.g., FY2023 driven by $2.17B of inventory charges and Q2 2023 GAAP 43.5% tied to inventory/warranty reserves per transcript), creating volatility versus smoother operating margin expectations.
+  - Forward-looking risk disclosure: FY2025 results were described as negatively impacted by inventory provisions for low-yielding Blackwell material with potential for continued impact, indicating ongoing uncertainty in forecasting gross margin drivers even when headline gross margin is strong.
+  - Metric consistency: both GAAP and non-GAAP gross margin are discussed across periods, and guidance/actual comparisons (where provided) differ in type and presentation, requiring careful alignment when interpreting performance.
+
+Conclusion:
+Gross margin performance evolved from a reserve-driven trough in FY2023 to a recovered, more stable level in FY2024 and elevated levels in FY2025. The filing excerpts attribute FY2023 weakness to substantial inventory charges ($2.17B) related to excess supply versus demand expectations (including China), and FY2024 improvement to Data Center revenue growth plus lower net inventory provisions as a percentage of revenue, resulting in FY2024 GAAP gross margin of 72.7% versus 56.9% in FY2023. In FY2025, gross margin remained high (e.g., GAAP 78.4% in Q1 2025 and 75.1% in Q2 2025), but management disclosed continued downside risk from inventory provisions for low-yielding Blackwell material. Overall, the evidence suggests gross margin is primarily a function of inventory provisioning dynamics and Data Center mix, rather than a steadily predictable margin stream.
+
+Evidence Coverage: 99.0% complete; 404/408 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2023 ===
+Management said:
+  - GAAP and non-GAAP gross margins are expected to be 65.1% and 67.1%, respectively, plus or minus 50 basis points.
+  - GAAP gross margin for the first quarter was 65.5% and non-GAAP gross margin was up 67.1%, up 90 basis points from a year ago and up 10 basis points sequentially.
+  - We expect to maintain gross margins at current levels in Q2.
+  - Going forward, as new products ramp and software becomes a larger percent of revenue, we have opportunities to increase gross margins longer term.
+Guidance given:
+  - GAAP and non-GAAP gross margins are expected to be 65.1% and 67.1%, respectively, plus or minus 50 basis points. (target: Q2; Unresolved)
+  - We expect to maintain gross margins at current levels in Q2. (target: Q2; Unresolved)
+  - Going forward, as new products ramp and software becomes a larger percent of revenue, we have opportunities to increase gross margins longer term. (target: longer term; Unresolved)
+Actual reported:
+  - [Observed] GAAP gross margin for the first quarter was 65.5% and non-GAAP gross margin was up 67.1%, up 90 basis points from a year ago and up 10 basis points sequentially.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Gross Profit: $5.43B | vs prior quarter: — | vs prior year: $3.63B (+49.7%)
+
+=== Q2 2023 ===
+Management said:
+  - GAAP and non-GAAP gross margins are expected to be 62.4% and 65%, respectively, plus or minus 50 basis points.
+  - Gross margin includes $1.22 billion in charges for inventory and related reserves based on revised expectations of future demand and $122 million for warranty reserves.
+  - GAAP gross margin was 43.5%, and non-GAAP gross margin was 45.9%.
+  - So my clarification is whether October gross margins are benefiting at all from the sale of previously written down inventory.
+  - I have a question on gross margins, Colette.
+  - And I'm just wondering, are there any other offsets because I would have thought gross margins could actually be better than your longer-term model because of the mix tailwinds.
+  - And then just to expand on that, your mix is probably a tailwind to gross margins given that Gaming is down significantly and that Data Center is up a little bit.
+  - So our gross margins outside of the inventory charges in Q2, as well as going into Q3 is really about our sales mix that we have and probably also to understand that our sales mix in the next quarter for GPUs is not in the high end.
+  - So nothing material is planned, but there is small scraps that may occur from quarter to quarter that are included in our gross margins.
+  - We do expect that Data Center will assist in our gross margins, but we also have growth plans in Auto.
+  - We believe our long-term gross margin profile is intact.
+  - And so that has impacted our gross margin as we move into Q3.
+  - From time to time, there's always a small amount of scraps that we will have in our gross margin estimates.
+Guidance given:
+  - GAAP and non-GAAP gross margins are expected to be 62.4% and 65%, respectively, plus or minus 50 basis points. (target: Q3; Unresolved)
+  - So our gross margins outside of the inventory charges in Q2, as well as going into Q3 is really about our sales mix that we have and probably also to understand that our sales mix in the next quarter for GPUs is not in the high end. (target: into Q3; Unresolved)
+  - So nothing material is planned, but there is small scraps that may occur from quarter to quarter that are included in our gross margins. (target: quarter to quarter; Unresolved)
+  - We do expect that Data Center will assist in our gross margins, but we also have growth plans in Auto. (target: ongoing / future periods; Unresolved)
+  - We believe our long-term gross margin profile is intact. (target: long term; Unresolved)
+  - From time to time, there's always a small amount of scraps that we will have in our gross margin estimates. (target: ongoing; Unresolved)
+  - And then just to expand on that, your mix is probably a tailwind to gross margins given that Gaming is down significantly and that Data Center is up a little bit. (target: Q2 2023 and into Q3; Unresolved)
+Actual reported:
+  - [Unresolved] GAAP gross margin was 43.5%, and non-GAAP gross margin was 45.9%.
+  - [Observed] And so that has impacted our gross margin as we move into Q3.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Gross Profit: $2.92B | vs prior quarter: $5.43B (-46.3%) | vs prior year: $4.21B (-30.8%)
+
+=== Q3 2023 ===
+Management said:
+  - GAAP and non-GAAP gross margins are expected to be $63.2 million and 66%, respectively, plus or minus 50 basis points.
+  - Gross margins reflect $702 million in inventory charges largely related to lower data center demand in China, partially offset by a warranty benefit of approximately $70 million.
+  - GAAP gross margin was 53.6% and and non-GAAP gross margin was 56.1%.
+Guidance given:
+  - GAAP and non-GAAP gross margins are expected to be $63.2 million and 66%, respectively, plus or minus 50 basis points. (target: Q3 2023; Unresolved)
+Actual reported:
+  - [Unresolved] Gross margins reflect $702 million in inventory charges largely related to lower data center demand in China, partially offset by a warranty benefit of approximately $70 million.
+  - [Observed] GAAP gross margin was 53.6% and and non-GAAP gross margin was 56.1%.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Gross Profit: $3.18B | vs prior quarter: $2.92B (+9.0%) | vs prior year: $4.63B (-31.4%)
+
+=== Q4 2023 ===
+Management said:
+  - GAAP and non-GAAP gross margins are expected to be 64.1% and 66.5%, respectively, plus or minus 50 basis points.
+  - GAAP gross margin was 63.3%, and non-GAAP gross margin was 66.1%.
+  - Fiscal year GAAP gross margin was 56.9%, and non-GAAP gross margin was 59.2%.
+Guidance given:
+  - GAAP and non-GAAP gross margins are expected to be 64.1% and 66.5%, respectively, plus or minus 50 basis points. (target: next quarter (implied); Unresolved)
+Actual reported:
+  - [Observed] GAAP gross margin was 63.3%, and non-GAAP gross margin was 66.1%.
+  - [Observed] Fiscal year GAAP gross margin was 56.9%, and non-GAAP gross margin was 59.2%.
+Filing disclosures (SEC):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - Gross margin was 56.9% and 64.9% for fiscal years 2023 and 2022, respectively.
+    - As a result, the overall net effect on our gross margin was an unfavorable impact of 7.5% and 0.9% in fiscal years 2023 and 2022, respectively.
+    - Gross margin for fiscal year 2023 declined from a year ago, driven by $2.17 billion of inventory charges largely relating to excess supply of NVIDIA Ampere architecture Gaming and Data Center products as compared to the demand expectations for these products, particularly for the expected demand in China.
+    - The overall net effect on our gross margin from inventory provisions and sales of items previously written down was an unfavorable impact of 7.5% in fiscal year 2023 and 0.9% in fiscal year 2022.
+    - Graphics - The gross margin of our Graphics segment decreased during fiscal year 2023 when compared to fiscal year 2022, primarily due to inventory and related provisions and lower margins of GeForce GPUs.
+    - Compute & Networking - The gross margin of our Compute & Networking segment decreased during fiscal year 2023 when compared to fiscal year 2022, primarily due to inventory provisions.
+  [Financial Statements]
+    - Gross Profit: $15.36B | vs prior quarter: — | vs prior year: $17.48B (-12.1%)
+  [Footnotes]
+    - 9 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - We face several risks which have adversely affected or could adversely affect our ability to meet customer demand and scale our supply chain, negatively impact longer-term demand for our products and services, and adversely affect our business operations, gross margin, revenue and/or financial results, including: • lack of guaranteed supply of wafer, component and capacity or decommitment and potential higher wafer and component prices, from incorrectly estimating demand and failing to place orders with our suppliers with sufficient quantities or in a timely manner; 20 Table of Contents • failure by our foundries or contract manufacturers to procure raw materials or to provide adequate levels of manufacturing or test capacity for our products; • failure by our foundries to develop, obtain or successfully implement high quality process technologies, including transitions to smaller geometry process technologies such as advanced process node technologies and memory designs needed to manufacture our products; • limited number and geographic concentration of global suppliers, foundries, contract manufacturers, assembly and test providers, and memory manufacturers; • loss of a supplier and additional expense and/or production delays as a result of qualifying a new foundry or subcontractor and commencing volume production or testing in the event of a loss of or a decision to add or change a supplier; • lack of direct control over product quantity, quality and delivery schedules; • suppliers or their suppliers failing to supply high quality products and/or making changes to their products without our qualification; • delays in product shipments, shortages, a decrease in product quality and/or higher expenses in the event our subcontractors or foundries prioritize our competitors’ or other customers’ orders over ours; • requirements to place orders that are not cancellable upon changes in demand or requirements to prepay for supply in advance; • low manufacturing yields resulting from a failure in our product design or a foundry’s proprietary process technology; and • disruptions in manufacturing, assembly and other processes due to closures related to heat waves or other natural disasters and electricity conservation efforts.
+    - All of these factors may negatively impact our gross margins and financial results.
+    - An error or defect in new products, releases, or related software drivers after commencement of commercial shipments could result in failure to achieve market acceptance, loss of design wins, temporary or permanent withdrawal from a product or market, and harm to our relationships with existing and prospective customers and partners and consumers’ perceptions of our brand, which would in turn negatively impact our business operations, gross margin, revenue and/or financial results.
+    - Economic and industry uncertainty or changes, including recession or slowing growth, inflation, changes or uncertainty in fiscal, monetary, or trade policy, disruptions to capital markets, currency fluctuations, higher interest rates, tighter credit, lower capital expenditures by businesses, including on IT infrastructure, increases in unemployment, labor shortages, and lower consumer confidence and spending, have in the past and/or could in the future have adverse, wide-ranging effects on our business and financial results, including: • increased costs for wafers, components, logistics, and other supply chain expenses, which have negatively impacted our gross margin and may continue to do so; • increased supply, employee, facilities and infrastructure costs and volatility in the financial markets, which have reduced and may in the future reduce our margins; • decrease in demand for our products, services and technologies and those of our customers, partners or licensees; • the inability of our suppliers to deliver on their supply commitments to us and our customers’ or our licensees’ inability to supply products to customers and/or end users; • limits on our ability to forecast operating results and make business decisions; • the insolvency of key suppliers, distributors, customers or licensing parties; reduced profitability may also cause some customers to scale back operations, exit businesses, or file for bankruptcy protection and potentially cease operations; lead to mergers, consolidations or strategic alliances among other companies, which could adversely affect our ability to compete effectively; and • increased credit and collectability risks, higher borrowing costs or reduced availability of capital markets, reduced liquidity, adverse impacts on our suppliers, failures of counterparties including financial institutions and insurers, asset impairments, and declines in the value of our financial instruments.
+
+=== Q1 2024 ===
+Management said:
+  - GAAP gross margins was 64.6%, and non-GAAP gross margins were 66.8%.
+  - GAAP and non-GAAP gross margins are expected to be 68.6% and 70%, respectively, plus or minus 50 basis points.
+  - Gross margins have now largely recovered to prior peak levels as we have absorbed higher costs and offset them by innovating and delivering higher-valued products, as well as products incorporating more and more software.
+Guidance given:
+  - GAAP and non-GAAP gross margins are expected to be 68.6% and 70%, respectively, plus or minus 50 basis points. (target: next quarter (implied); Unresolved)
+Actual reported:
+  - [Unresolved] GAAP gross margins was 64.6%, and non-GAAP gross margins were 66.8%.
+  - [Observed] Gross margins have now largely recovered to prior peak levels as we have absorbed higher costs and offset them by innovating and delivering higher-valued products, as well as products incorporating more and more software.
+Filing disclosures (SEC):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - Gross Margin Our overall gross margin decreased to 64.6% for the first quarter of fiscal year 2024 from 65.5% for the first quarter of fiscal year 2023, reflecting lower margins of GeForce GPUs within our Graphics segment partially offset by higher margins and increased contribution from compute products within our Compute & Networking segment.
+    - As a result, the overall net effect on our gross margin was an unfavorable impact of 1.2% and 0.9% in the first quarter of fiscal years 2024 and 2023, respectively.
+    - Compute & Networking - Segment gross margin increased during the first quarter of fiscal year 2024 compared to the first quarter of fiscal year 2023, primarily due to higher margins and increased contribution from compute products.
+    - Graphics - Segment gross margin decreased during the first quarter of fiscal year 2024 compared to the first quarter of fiscal year 2023 primarily due to lower margins of GeForce GPUs.
+  [Financial Statements]
+    - Gross Profit: $4.65B | vs prior quarter: — | vs prior year: $5.43B (-14.4%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - Economic and industry uncertainty or changes, including recession or slowing growth, inflation, changes or uncertainty in fiscal, monetary, or trade policy, disruptions to capital markets and the banking system, currency fluctuations, higher interest rates, tighter credit, lower capital expenditures by businesses, including on IT infrastructure, increases in unemployment, labor shortages, and lower consumer confidence and spending, have in the past and/or could in the future have adverse, wide-ranging effects on our business and financial results, including: 35 • increased costs for wafers, components, logistics, and other supply chain expenses, which have negatively impacted our gross margin and may continue to do so; • increased supply, employee, facilities and infrastructure costs and volatility in the financial markets, which have reduced and may in the future reduce our margins; • decrease in demand for our products, services and technologies and those of our customers, partners or licensees; • the inability of our suppliers to deliver on their supply commitments to us and our customers’ or our licensees’ inability to supply products to customers and/or end users; • limits on our ability to forecast operating results and make business decisions; • the insolvency of key suppliers, distributors, customers, cloud service providers, data center providers, licensing parties, or other third parties we rely on; reduced profitability may also cause some customers to scale back operations, exit businesses, or file for bankruptcy protection and potentially cease operations; lead to mergers, consolidations or strategic alliances among other companies, which could adversely affect our ability to compete effectively; and • increased credit and collectability risks, higher borrowing costs or reduced availability of capital markets, reduced liquidity, adverse impacts on our suppliers, failures of counterparties including financial institutions and insurers, asset impairments, and declines in the value of our financial instruments.
+    - All of these factors may negatively impact our gross margins and financial results.
+
+=== Q2 2024 ===
+Management said:
+  - GAAP and non-GAAP gross margins are expected to be 71.5% and 72.5%, respectively, plus or minus 50 basis points.
+  - GAAP gross margins expanded to 70.1% and non-GAAP gross margin to 71.2% driven by higher data center sales.
+  - Our data center products include a significant amount of software and complexity, which is also helping drive our gross margins.
+  - And if you can talk about the incremental profitability or gross margin contribution from this product.
+Guidance given:
+  - GAAP and non-GAAP gross margins are expected to be 71.5% and 72.5%, respectively, plus or minus 50 basis points. (target: next quarter (implied); Unresolved)
+Actual reported:
+  - [Unresolved] GAAP gross margins expanded to 70.1% and non-GAAP gross margin to 71.2% driven by higher data center sales.
+  - [Observed] Our data center products include a significant amount of software and complexity, which is also helping drive our gross margins.
+Filing disclosures (SEC):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - Gross Margin Our overall gross margin increased to 70.1% and 68.2% for the second quarter and first half of fiscal year 2024, respectively, from 43.5% and 55.7% for the second quarter and first half of fiscal year 2023, respectively.
+    - As a result, the overall net effect on our gross margin was an unfavorable impact of 3.6% and 2.8% in the second quarter and first half of fiscal year 2024, respectively.
+    - As a result, the overall net effect on our gross margin was an unfavorable impact of 17.8% and 8.5% in the second quarter and first half of fiscal year 2023, respectively.
+    - The year-on-year increase also reflects the impact on the year-ago gross margin from $1.34 billion in inventory provisions and related charges.
+  [Financial Statements]
+    - Gross Profit: $9.46B | vs prior quarter: $4.65B (+103.6%) | vs prior year: $2.92B (+224.6%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - We face several risks which have adversely affected or could adversely affect our ability to meet customer demand and scale our supply chain, negatively impact longer-term demand for our products and services, and adversely affect our business operations, gross margin, revenue and/or financial results, including: • lack of guaranteed supply of wafer, component and capacity or decommitment and potential higher wafer and component prices, from incorrectly estimating demand and failing to place orders with our suppliers with sufficient quantities or in a timely manner; • failure by our foundries or contract manufacturers to procure raw materials or to provide adequate levels of manufacturing or test capacity for our products; 38 • failure by our foundries to develop, obtain or successfully implement high quality process technologies, including transitions to smaller geometry process technologies such as advanced process node technologies and memory designs needed to manufacture our products; • limited number and geographic concentration of global suppliers, foundries, contract manufacturers, assembly and test providers, and memory manufacturers; • loss of a supplier and additional expense and/or production delays as a result of qualifying a new foundry or subcontractor and commencing volume production or testing in the event of a loss of or a decision to add or change a supplier; • lack of direct control over product quantity, quality and delivery schedules; • suppliers or their suppliers failing to supply high quality products and/or making changes to their products without our qualification; • delays in product shipments, shortages, a decrease in product quality and/or higher expenses in the event our subcontractors or foundries prioritize our competitors’ or other customers’ orders over ours; • requirements to place orders that are not cancellable upon changes in demand or requirements to prepay for supply in advance; • low manufacturing yields resulting from a failure in our product design or a foundry’s proprietary process technology; and • disruptions in manufacturing, assembly and other processes due to closures related to heat waves or other natural disasters and electricity conservation efforts.
+    - All of these factors may negatively impact our gross margins and financial results.
+
+=== Q3 2024 ===
+Management said:
+  - GAAP and non-GAAP gross margins are expected to be 74.5% and 75.5%, respectively, plus or minus 50 basis points.
+  - GAAP gross margin expanded to 74% and non-GAAP gross margin to 75%, driven by higher data center sales and lower net inventory reserves, including a one percentage point benefit from the release of previously reserved inventory related to the Ampere GPU architecture products.
+Guidance given:
+  - GAAP and non-GAAP gross margins are expected to be 74.5% and 75.5%, respectively, plus or minus 50 basis points. (target: next quarter (as implied by the guidance context); Unresolved)
+Actual reported:
+  - [Unresolved] GAAP gross margin expanded to 74% and non-GAAP gross margin to 75%, driven by higher data center sales and lower net inventory reserves, including a one percentage point benefit from the release of previously reserved inventory related to the Ampere GPU architecture products.
+Filing disclosures (SEC):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - Gross Margin Our overall gross margin increased to 74.0% and 70.9% for the third quarter and first nine months of fiscal year 2024, respectively, from 53.6% and 55.1% for the third quarter and first nine months of fiscal year 2023, 30 respectively.
+    - The net effect on our gross margin was an unfavorable impact of 2.4% and 2.6% in the third quarter and first nine months of fiscal year 2024.
+    - The net effect on our gross margin was an unfavorable impact of 11.5% and 9.3% in the third quarter and first nine months of fiscal year 2023, respectively.
+    - The net inventory provisions were $681 million and the unfavorable effect on our gross margin was 11.5 percentage points.
+    - The net inventory provisions were $442 million and the unfavorable effect on our gross margin was 2.4 percentage points.
+  [Financial Statements]
+    - Gross Profit: $13.40B | vs prior quarter: $9.46B (+41.6%) | vs prior year: $3.18B (+321.8%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - All of these factors may negatively impact our gross margins and financial results.
+
+=== Q4 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - Gross margin increased in fiscal year 2024, primarily driven by Data Center revenue growth and lower net inventory provisions as a percentage of revenue.
+    - Our overall gross margin increased to 72.7% in fiscal year 2024 from 56.9% in fiscal year 2023.
+    - The net effect on our gross margin was an unfavorable impact of 2.7% and 7.5% in fiscal years 2024 and 2023, respectively.
+    - The net effect on our gross margin from inventory provisions and sales of items previously written down was an unfavorable impact of 2.7% in fiscal year 2024 and 7.5% in fiscal year 2023.
+  [Financial Statements]
+    - Gross Profit: $44.30B | vs prior quarter: — | vs prior year: $15.36B (+188.5%)
+  [Footnotes]
+    - 7 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - All of these factors may negatively impact our gross margins and financial results.
+    - An error or defect in new products, releases or related software drivers after commencement of commercial shipments could result in failure to achieve market acceptance, loss of design wins, temporary or permanent withdrawal from a product or market and harm to our relationships with existing and prospective customers and partners and consumers’ perceptions of our brand, which would in turn negatively impact our business operations, gross margin, revenue and/or financial results.
+    - We face several risks which have adversely affected or could adversely affect our ability to meet customer demand and scale our supply chain, negatively impact longer-term demand for our products and services, and adversely affect our business operations, gross margin, revenue and/or financial results, including: • lack of guaranteed supply of wafer, component and capacity or decommitment and potential higher wafer and component prices, from incorrectly estimating demand and failing to place orders with our suppliers with sufficient quantities or in a timely manner; • failure by our foundries or contract manufacturers to procure raw materials or provide adequate levels of manufacturing or test capacity for our products; • failure by our foundries to develop, obtain or successfully implement high quality process technologies, including transitions to smaller geometry process technologies such as advanced process node technologies and memory designs needed to manufacture our products; • failure by our suppliers to comply with our policies and expectations and emerging regulatory requirements; • limited number and geographic concentration of global suppliers, foundries, contract manufacturers, assembly and test providers and memory manufacturers; • loss of a supplier and additional expense and/or production delays as a result of qualifying a new foundry or subcontractor and commencing volume production or testing in the event of a loss, addition or change of a supplier; • lack of direct control over product quantity, quality and delivery schedules; • suppliers or their suppliers failing to supply high quality products and/or making changes to their products without our qualification; • delays in product shipments, shortages, a decrease in product quality and/or higher expenses in the event our subcontractors or foundries prioritize our competitors’ or other customers’ orders over ours; • requirements to place orders that are not cancellable upon changes in demand or requirements to prepay for supply in advance; • low manufacturing yields resulting from a failure in our product design or a foundry’s proprietary process technology; and • disruptions in manufacturing, assembly and other processes due to closures related to heat waves, earthquakes, fires, or other natural disasters and electricity conservation efforts.
+    - Economic and industry uncertainty or changes, including recession or slowing growth, inflation, changes or uncertainty in fiscal, monetary or trade policy, disruptions to capital markets and the banking system, currency fluctuations, higher interest rates, tighter credit, lower capital expenditures by businesses, including on IT infrastructure, increases in unemployment, labor shortages, and lower consumer confidence and spending, global supply chain constraints and global economic and geopolitical developments have in the past and/or could in the future have adverse, wide-ranging effects on our business and financial results, including: • increased costs for wafers, components, logistics, and other supply chain expenses, which have negatively impacted our gross margin in the past and may do so in the future; • increased supply, employee, facilities and infrastructure costs and volatility in the financial markets, which have reduced and may in the future reduce our margins; • decrease in demand for our products, services and technologies and those of our customers, partners or licensees; • the inability of our suppliers to deliver on their supply commitments to us and our customers’ or our licensees’ inability to supply products to customers and/or end users; • limits on our ability to forecast operating results and make business decisions; • the insolvency of key suppliers, distributors, customers, cloud service providers, data center providers, licensing parties or other third parties we rely on; • reduced profitability of customers, which may cause them to scale back operations, exit businesses, file for bankruptcy protection and potentially cease operations, or lead to mergers, consolidations or strategic alliances among other companies, which could adversely affect our ability to compete effectively; and • increased credit and collectability risks, higher borrowing costs or reduced availability of capital markets, reduced liquidity, adverse impacts on our customers and suppliers, failures of counterparties, including financial institutions and insurers, asset impairments, and declines in the value of our financial instruments.
+
+=== Q1 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - For fiscal year 2025, we expect gross margins to be in the mid-70% range.
+    - Our overall gross margin increased to 78.4% for the first quarter of fiscal year 2025 from 64.6% for the first quarter of fiscal year 2024.
+    - The net effect on our gross margin was an unfavorable impact of 1.1% and 1.2% in the first quarter of fiscal years 2025 and 2024, respectively.
+    - Gross Profit and Gross Margin Gross profit consists of total net revenue less cost of revenue.
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 4 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - All of these factors may negatively impact our gross margins and financial results.
+
+=== Q2 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - For fiscal year 2025, we expect gross margins to be in the mid-70% range.
+    - Our gross margins in the second quarter of fiscal year 2025 were negatively impacted by inventory provisions for low-yielding Blackwell material and they may continue to be impacted in the future.
+    - Our overall gross margin increased to 75.1% and 76.6% for the second quarter and first half of fiscal year 2025, respectively, from 70.1% and 68.2% for the second quarter and first half of fiscal year 2024, respectively.
+    - The net effect on our gross margin was an unfavorable impact of 3.6% and 2.8% in the second quarter and first half of fiscal year 2024, respectively.
+    - The net effect on our 29 gross margin was an unfavorable impact of 2.7% and 2.0% in the second quarter and first half of fiscal year 2025, respectively.
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - Our gross margins in the second quarter of fiscal year 2025 were negatively impacted by inventory provisions for low-yielding Blackwell material and they may continue to be impacted in the future.
+    - All of these factors may negatively impact our gross margins and financial results.
+
+=== Q3 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - Gross margins increased to 75.8% for the first nine months of fiscal year 2025 compared to 70.9% for the first nine months of fiscal year 2024, primarily due to higher mix of Data Center revenue.
+    - Gross margins increased to 74.6% for the third quarter of fiscal year 2025 compared to 74.0% for the third quarter of fiscal year 2024, due to a higher mix of Data Center revenue.
+    - The net effect on our gross margin was an unfavorable impact of 2.4% and 2.6% in the third quarter and first nine months of fiscal year 2024, respectively.
+    - The net effect on our gross margin was an unfavorable impact of 2.2% and 2.0% in the third quarter and first nine months of fiscal year 2025, respectively.
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - For example, our gross margins in the second quarter of fiscal year 2025 were negatively impacted by inventory provisions for low-yielding Blackwell material.
+    - All of these factors may negatively impact our gross margins and financial results.
+
