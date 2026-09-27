@@ -1,0 +1,61 @@
+{
+  "request_id": "codex-autonomy-20260927-jnj-pharma-margin-2023-2024-001",
+  "used_tokens": 7516,
+  "reserved_tokens": 0,
+  "used_calls": 4,
+  "reserved_calls": 0,
+  "token_limit": 30000,
+  "call_limit": 32,
+  "blocked_reason": null,
+  "audit_schema_version": 1,
+  "calls": [
+    {
+      "sequence": 1,
+      "requested_model": "gpt-5.4-nano",
+      "message_count": 2,
+      "prompt_chars": 1782,
+      "prompt_sha256": "eefa851c478eb9716ac868e4ad251bbf52b8a96fc882a8ed191eae329c0c6baa",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 2449,
+      "status": "completed",
+      "routed_model": "gpt-5.4-nano",
+      "actual_tokens": 414
+    },
+    {
+      "sequence": 2,
+      "requested_model": "gpt-5.4-nano",
+      "message_count": 2,
+      "prompt_chars": 11882,
+      "prompt_sha256": "1f3dffb4a72ff7f32be6d20673f24cc744f035ba1c88fde7788fa417383c8c9e",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 4982,
+      "status": "completed",
+      "routed_model": "gpt-5.4-nano",
+      "actual_tokens": 3901
+    },
+    {
+      "sequence": 3,
+      "requested_model": "gpt-5.4-nano",
+      "message_count": 2,
+      "prompt_chars": 2824,
+      "prompt_sha256": "865725f13c318f726bce0a8f97357c457337c1936c96bc6d360531694ebbd4b2",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 2711,
+      "status": "completed",
+      "routed_model": "gpt-5.4-nano",
+      "actual_tokens": 897
+    },
+    {
+      "sequence": 4,
+      "requested_model": "gpt-5.4-nano",
+      "message_count": 2,
+      "prompt_chars": 7293,
+      "prompt_sha256": "e3c64fdd4d3622a141c25bb487db5f5c4f21c8898a3022175d520bc0c8d2a913",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 3611,
+      "status": "completed",
+      "routed_model": "gpt-5.4-nano",
+      "actual_tokens": 2304
+    }
+  ]
+}
