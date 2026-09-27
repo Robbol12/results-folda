@@ -1,0 +1,49 @@
+{
+  "request_id": "codex-autonomy-20260927-mcd-compsales-margin-2023-2024-001",
+  "used_tokens": 6346,
+  "reserved_tokens": 0,
+  "used_calls": 3,
+  "reserved_calls": 0,
+  "token_limit": 30000,
+  "call_limit": 32,
+  "blocked_reason": null,
+  "audit_schema_version": 1,
+  "calls": [
+    {
+      "sequence": 1,
+      "requested_model": "gpt-5.4-nano",
+      "message_count": 2,
+      "prompt_chars": 1776,
+      "prompt_sha256": "e7c232864da9147edd7c68746e15c788baf2fe39ba6d64ad6a009edc8f41d780",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 2445,
+      "status": "completed",
+      "routed_model": "gpt-5.4-nano",
+      "actual_tokens": 408
+    },
+    {
+      "sequence": 2,
+      "requested_model": "gpt-5.4-nano",
+      "message_count": 2,
+      "prompt_chars": 9748,
+      "prompt_sha256": "893420add023daf05e2a8a26503c2fd4cbd1519e31a7df96f169460efb0f89d8",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 4170,
+      "status": "completed",
+      "routed_model": "gpt-5.4-nano",
+      "actual_tokens": 2947
+    },
+    {
+      "sequence": 3,
+      "requested_model": "gpt-5.4-nano",
+      "message_count": 2,
+      "prompt_chars": 9338,
+      "prompt_sha256": "934d1dfd4081c3deee95987dc6e389426183b144894becdcb7d292e3605a2862",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 4160,
+      "status": "completed",
+      "routed_model": "gpt-5.4-nano",
+      "actual_tokens": 2991
+    }
+  ]
+}
