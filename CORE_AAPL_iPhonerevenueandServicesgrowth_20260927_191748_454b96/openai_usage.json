@@ -1,0 +1,49 @@
+{
+  "request_id": "codex-autonomy-20260927-aapl-iphone-services-2023-2024-001",
+  "used_tokens": 6773,
+  "reserved_tokens": 0,
+  "used_calls": 3,
+  "reserved_calls": 0,
+  "token_limit": 30000,
+  "call_limit": 32,
+  "blocked_reason": null,
+  "audit_schema_version": 1,
+  "calls": [
+    {
+      "sequence": 1,
+      "requested_model": "gpt-5.4-nano",
+      "message_count": 2,
+      "prompt_chars": 1770,
+      "prompt_sha256": "bb1981048e83c296a4b4302762743152fe64a282f276ba4e3a0055ff72a4ab68",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 2445,
+      "status": "completed",
+      "routed_model": "gpt-5.4-nano",
+      "actual_tokens": 411
+    },
+    {
+      "sequence": 2,
+      "requested_model": "gpt-5.4-nano",
+      "message_count": 2,
+      "prompt_chars": 9243,
+      "prompt_sha256": "3539902d0489a9b81bb552caec2bde8f256aba7e487ad55a38ff7d9e3e32797e",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 4186,
+      "status": "completed",
+      "routed_model": "gpt-5.4-nano",
+      "actual_tokens": 3069
+    },
+    {
+      "sequence": 3,
+      "requested_model": "gpt-5.4-nano",
+      "message_count": 2,
+      "prompt_chars": 11294,
+      "prompt_sha256": "fdf9ef4a60f9e3db305e89c7f2ee7ed9bd4efea9d4091c74fefbc7fa5e7bd321",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 4591,
+      "status": "completed",
+      "routed_model": "gpt-5.4-nano",
+      "actual_tokens": 3293
+    }
+  ]
+}
