@@ -1,0 +1,250 @@
+[CORE RESEARCH] AAPL: revenue
+
+Quarters searched: 4
+Filing sections searched: 82
+
+Across 2021, management repeatedly reported record revenue quarters (Q1: $111.4B; Q2: $89.6B; Q3: $81.4B; Q4: September quarter $83.4B) alongside double-digit year-over-year growth. Guidance on revenue was largely not provided due to COVID-19 uncertainty in the near term, leaving only limited, narrower quantitative guidance such as supply-constrained revenue impact in Q2. Where revenue-related guidance was given (FY2021 “well over $300B” in Q1 2021, and a Q2 supply-constrained impact of $3–$4B), the later realized results were consistent with upside/strong performance, with FY2021 revenue reported as $366B in Q4 2021 filings. By the end of the period, revenue momentum remained strong, supported by record services and resilient product demand despite supply constraints referenced in the call.
+
+Forecasting credibility: High
+There is 1 guidance/actual pair with a verdict: “well over $300B in revenue” for FY2021, and the actual FY2021 revenue was $366B. This is an Exceeded outcome, which is consistent with credible forecasting on the limited quantitative guidance provided. Other revenue guidance items were explicitly left without a specific range or were unresolved in the evidence provided, so they do not add to the Met/Miss pattern count.
+
+Trends:
+  - Quarterly revenue repeatedly set records through 2021
+  - Strong year-over-year growth persisted despite supply constraints
+  - Services revenue also scaled to record levels alongside product revenue
+
+Recurring themes/risks:
+  - Supply constraints materially affect revenue but demand remained strong
+  - COVID-related uncertainty led management to avoid specific revenue ranges
+  - Deferred revenue swings reflected timing of revenue recognition/shipments
+
+Key concerns:
+  - Revenue guidance was frequently not provided in a measurable range due to uncertainty, limiting the number of testable forecast/actual comparisons.
+  - Multiple quarters referenced supply constraints with estimated impact ranges, but the evidence provided does not include resolved outcomes for each estimate (beyond the overall FY2021 total).
+  - The excerpts emphasize recognition timing (deferred revenue) but do not quantify how much revenue variance vs. operational demand drove results for each quarter.
+
+Conclusion:
+Revenue increased and remained exceptionally strong throughout the period, with management reporting all-time/record revenue for each 2021 quarter cited (Q1 $111.4B; Q2 $89.6B; Q3 June quarter $81.4B; Q4 September quarter $83.4B). The only explicitly testable FY revenue guidance was “well over $300B,” which was later confirmed as FY2021 revenue of $366B. This indicates revenue outperformance versus the provided full-year target, with strong products and record services offsetting or outpacing COVID and supply-constraint risks referenced during guidance.
+
+Evidence Coverage: 98.6% complete; 288/292 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2021 ===
+Management said:
+  - Our revenue reached an all-time record of $111.4 billion, an increase of nearly $20 billion or 21% from a year ago.
+  - We set a December quarter record for revenue at $8.7 billion, up 21% over last year.
+  - Products revenue was an all-time record of $95.7 billion, up 21% over a year ago.
+  - We achieved an all-time revenue record of $111.4 billion.
+  - The company this year is going to be well over $300 billion in revenue.
+  - As I said, we reached an all-time revenue record of $15.8 billion and set all-time records in App Store, cloud services, Music, advertising, AppleCare, and payment services.
+  - iPhone revenue was a record $65.6 billion, growing 17% year over year as demand for the iPhone 12 family was very strong despite COVID-19 and social distancing measures, which have impacted store operations in a significant manner.
+  - Wearables, Home and Accessories grew 30% year over year to $13 billion, setting new all-time revenue records in every geographic segment.
+  - Please note that some of the information you'll hear during our discussion today will consist of forward-looking statements, including, without limitation, those regarding revenue, gross margin, operating expenses, other income and expense, taxes, capital allocation, and future business outlook, including the potential impact of COVID-19 on the company's business and results of operations.
+  - As always, we could not have made so many holidays special without our talented and dedicated retail teams who helped us achieve a new all-time revenue record for retail, driven by very strong performance in our online store.
+  - We grew strong double-digits in each geographic segment and set all-time revenue records in Europe and rest of Asia Pacific as well as December quarter records in the Americas, Greater China, and in Japan.
+  - And then I was also curious, you had a number of stores closed at least later in the quarter, and that typically has impacted some of your AppleCare revenue and -- and yet you outperformed.
+  - So maybe if you could talk about a bit more about the drivers of -- of the Services revenue.
+  - We just set an all-time Services record, and we have that installed base to compound that, and particularly with the added services that we've had over the last year or so, that as they grow and mature, will contribute even more to the Services revenue stream.
+  - Luca Maestri -- Chief Financial Officer So as I said earlier, we grew iPhone revenue 17%, and that growth came from both unit sales and ASPs because of the strong mix that I mentioned before.
+Guidance given:
+  - The company this year is going to be well over $300 billion in revenue. (target: FY2021; Exceeded)
+  - For total company revenue, we believe growth will accelerate on a year-over-year basis and in aggregate, follow typical seasonality on a sequential basis. (target: ongoing; Unresolved)
+  - Given the continued uncertainty around the world in the near term, we will not be guiding to a specific revenue range. (target: near term; Unresolved)
+  - We just set an all-time Services record, and we have that installed base to compound that, and particularly with the added services that we've had over the last year or so, that as they grow and mature, will contribute even more to the Services revenue stream. (target: ongoing; Unresolved)
+Actual reported:
+  - [Observed] Our revenue reached an all-time record of $111.4 billion, an increase of nearly $20 billion or 21% from a year ago.
+  - [Observed] We achieved an all-time revenue record of $111.4 billion.
+  - [Observed] We saw strong double-digit growth across every product category, and we achieved all-time revenue records in each of our geographic segments.
+  - [Observed] iPad performance was also very impressive with revenue of $8.4 billion, up 41%.
+  - [Observed] This broad strength across the category led to new revenue records for each of its three subgroups, and we're very excited about the road ahead for these products.
+  - [Observed] We started our fiscal 2021 with exceptional business and financial performance during the December quarter as we set all-time records for revenue, operating income, net income, earnings per share, and operating cash flow.
+  - [Observed] As always, we could not have made so many holidays special without our talented and dedicated retail teams who helped us achieve a new all-time revenue record for retail, driven by very strong performance in our online store.
+  - [Observed] We grew strong double-digits in each geographic segment and set all-time revenue records in Europe and rest of Asia Pacific as well as December quarter records in the Americas, Greater China, and in Japan.
+  - [Observed] So as I said earlier, we grew iPhone revenue 17%, and that growth came from both unit sales and ASPs because of the strong mix that I mentioned before.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Revenue: $111.44B | vs prior quarter: — | vs prior year: $91.82B (+21.4%)
+    - Cost of Revenue: $67.11B | vs prior quarter: — | vs prior year: $56.60B (+18.6%)
+
+=== Q2 2021 ===
+Management said:
+  - And so, the revenue that you're seeing is a function of unit growth and revenue -- revenue per unit growth.
+  - Our revenue reached a March quarter record of $89.6 billion an increase of over $31 billion or 54% from a year ago.
+  - We set an all-time revenue record of $9.1 billion, up 70% over last year, and grew very strongly in each geographic segment with all-time revenue records in Europe and rest of Asia Pacific and March quarter records in the Americas, Greater China and Japan.
+  - Products revenue was a March quarter record of $72.7 billion, up 62% over a year ago.
+  - We reached an all-time revenue record of $16.9 billion with all-time records for the App Store, cloud services, music, video, advertising and payment services.
+  - Please note that some of the information you'll hear during our discussion today will consist of forward-looking statements, including, without limitation, those regarding revenue, gross margin, operating expenses, other income and expense, taxes, capital allocation and future business outlook, including the potential impact of COVID-19 on the company's business results of operation.
+  - Apple is proud to report another strong quarter, one where we set new March quarter records for both revenue and earnings, besting our year ago revenue performance by 54%.
+  - This has helped iPad grow very strong double digits to its highest March quarter revenue in nearly a decade.
+  - iPhone revenues had a March quarter record of $47.9 billion, growing 66% year over year as the iPhone 12 family continued to be in high demand.
+  - This is one of those years we said many times, sometimes our opex grows faster than revenue, and there are some other cycles where the opposite happens.
+  - We are growing revenue this year much faster than our opex increase.
+Guidance given:
+  - Given the continued uncertainty around the world in the near term, we are not providing revenue guidance, but we are sharing some directional insights assuming that the COVID-related impacts to our business do not worsen from what we are seeing today for the current quarter. (target: current quarter; Unresolved)
+  - Second, we believe supply constraints will have a revenue impact of 3 to $4 billion in the June quarter. (target: June quarter; Unresolved)
+  - We expect our June quarter revenue to grow strong double digits year over year. (target: June quarter; Unresolved)
+  - However, we believe that the sequential revenue decline from the March quarter to the June quarter will be greater than in prior years for two reasons. (target: from March quarter to June quarter; Unresolved)
+Actual reported:
+  - [Unresolved] Our revenue reached a March quarter record of $89.6 billion an increase of over $31 billion or 54% from a year ago.
+  - [Observed] We set an all-time revenue record of $9.1 billion, up 70% over last year, and grew very strongly in each geographic segment with all-time revenue records in Europe and rest of Asia Pacific and March quarter records in the Americas, Greater China and Japan.
+  - [Observed] Products revenue was a March quarter record of $72.7 billion, up 62% over a year ago.
+  - [Observed] We reached an all-time revenue record of $16.9 billion with all-time records for the App Store, cloud services, music, video, advertising and payment services.
+  - [Observed] Wearables, home and accessories grew 25% year over year to $7.8 billion, setting new March quarter revenue records in every geographic segment.
+  - [Observed] IPad performance was also outstanding with revenue of $7.8 billion, up 79%.
+  - [Observed] We set a March quarter revenue record and grew strong double digits across each of the product categories.
+  - [Observed] On Mac, fueled by the M1, we set an all-time revenue record continuing the momentum for the product category.
+  - [Observed] Apple is proud to report another strong quarter, one where we set new March quarter records for both revenue and earnings, besting our year ago revenue performance by 54%.
+  - [Observed] This has helped iPad grow very strong double digits to its highest March quarter revenue in nearly a decade.
+  - [Observed] iPhone revenues had a March quarter record of $47.9 billion, growing 66% year over year as the iPhone 12 family continued to be in high demand.
+  - [Observed] We are growing revenue this year much faster than our opex increase.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Revenue: $89.58B | vs prior quarter: $111.44B (-19.6%) | vs prior year: $58.31B (+53.6%)
+    - Cost of Revenue: $51.51B | vs prior quarter: $67.11B (-23.3%) | vs prior year: $35.94B (+43.3%)
+    - 3 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 3 real filing table(s) available (see the HTML report).
+    - The Company recognizes revenue at the amount to which it expects to be entitled when control of the products or services is transferred to its customers.
+    - (4) Includes $ 2.7 billion of revenue recognized in the three months ended March 27, 2021 that was included in deferred revenue as of December 26, 2020, $ 1.9 billion of revenue recognized in the three months ended March 28, 2020 that was included in deferred revenue as of December 28, 2019, $ 4.1 billion of revenue recognized in the six months ended March 27, 2021 that was included in deferred revenue as of September 26, 2020, and $ 3.0 billion of revenue recognized in the six months ended March 28, 2020 that was included in deferred revenue as of September 28, 2019.
+    - Deferred Revenue As of March 27, 2021 and September 26, 2020, the Company had total deferred revenue of $ 11.9 billion and $ 10.2 billion, respectively.
+    - For the sale of third-party products where the Company obtains control of the product before transferring it to the customer, the Company recognizes revenue based on the gross amount billed to customers.
+    - Revenue allocated to the delivered hardware and bundled software is recognized when control has transferred to the customer, which generally occurs when the product is shipped.
+    - The Company has elected to record revenue net of taxes collected from customers that are remitted to governmental authorities, with the collected taxes recorded within other current liabilities until remitted to the relevant government authority.
+    - Deferred gains and losses associated with cash flow hedges of foreign currency revenue are recognized as a component of net sales in the same period as the related revenue is recognized, and deferred gains and losses related to cash flow hedges of inventory purchases are recognized as a component of cost of sales in the same period as the related costs are recognized.
+    - The Company generally hedges portions of its forecasted foreign currency exposure associated with revenue and inventory purchases, typically for up to 12 months.
+    - To protect gross margins from fluctuations in foreign currency exchange rates, certain of the Company’s subsidiaries whose functional currency is the U.S. dollar may hedge a portion of forecasted foreign currency revenue, and subsidiaries whose functional currency is not the U.S. dollar may hedge a portion of forecasted inventory purchases not denominated in the subsidiaries’ functional currencies.
+    - The U.S. Internal Revenue Service concluded its review of the years 2013 through 2015 in 2018, and all years before 2016 are closed.
+    - The Company accounts for the trade-in right as a guarantee liability and recognizes arrangement revenue net of the fair value of such right, with subsequent changes to the guarantee liability recognized within net sales.
+
+=== Q3 2021 ===
+Management said:
+  - Our revenue reached a June quarter record of $81.4 billion, an increase of nearly $22 billion or 36% from a year ago.
+  - We set a new June quarter revenue record of $81.4 billion, up 36% from last year, and the vast majority of markets we track grew double digits, with especially strong growth in emerging markets, including India, Latin America, and Vietnam.
+  - Products revenue was a June quarter record of $63.9 billion, up 37% over a year ago.
+  - Our services set an all-time revenue record of $17.5 billion, up 33% over a year ago with June quarter records in each geographic segment.
+  - As I mentioned, we reached an all-time revenue record of $17.5 billion with all-time records for cloud services, music, video, advertising, and payment services and June quarter records for the App Store and AppleCare.
+  - iPhone revenue set a June quarter record of $39.6 billion, growing 50% year over year and exceeding our own expectations as the iPhone 12 family continues to be in very high demand.
+  - Wearables, home, and accessories grew 36% year over year to $8.8 billion, setting new June quarter revenue records in every geographic segment.
+  - Let me get into more detail for each of our revenue categories.
+  - Please note that some of the information you'll hear during our discussion today will consist of forward-looking statements, including, without limitation, those regarding revenue, gross margin, operating expenses, other income and expenses, taxes, capital allocation, and future business outlook, including the potential impact of COVID-19 on the company's business and results of operations.
+  - Today, Apple is reporting a very strong quarter with double-digit revenue growth across our product and services categories and in every geographic segment.
+  - We expect very strong double-digit year-over-year revenue growth during the September quarter.
+  - It set a June quarter revenue record for Greater China for us, and so we're very proud of that and doing the best job we can to serve customers there.
+  - If you look historically after a really strong product cycle, which you've experienced this year with iPhone 12, iPhone revenues come under pressure because the upgrade rate slows, the mix often shifts to the lower end of the portfolio.
+  - And if that's the case and that continues, that could be a larger force than most other forces for your revenues to continue to grow as people migrate to the 5G family of phones.
+  - To begin with, Luca, you noted significant product revenue deleverage, but yet your product gross margins were roughly flat.
+Guidance given:
+  - Given the continued uncertainty around the world in the near term, we are not providing revenue guidance, but we are sharing some directional insights assuming that the COVID-related impacts to our business do not worsen from what we are projecting today for the current quarter. (target: current quarter; Unresolved)
+  - We expect revenue growth to be lower than our June quarter year-over-year growth of 36% for three reasons. (target: ongoing/next quarter relative to June quarter; Unresolved)
+  - We expect very strong double-digit year-over-year revenue growth during the September quarter. (target: September quarter; Unresolved)
+Actual reported:
+  - [Unresolved] Our revenue reached a June quarter record of $81.4 billion, an increase of nearly $22 billion or 36% from a year ago.
+  - [Observed] We set a new June quarter revenue record of $81.4 billion, up 36% from last year, and the vast majority of markets we track grew double digits, with especially strong growth in emerging markets, including India, Latin America, and Vietnam.
+  - [Observed] Products revenue was a June quarter record of $63.9 billion, up 37% over a year ago.
+  - [Observed] Our services set an all-time revenue record of $17.5 billion, up 33% over a year ago with June quarter records in each geographic segment.
+  - [Observed] As I mentioned, we reached an all-time revenue record of $17.5 billion with all-time records for cloud services, music, video, advertising, and payment services and June quarter records for the App Store and AppleCare.
+  - [Observed] iPhone revenue set a June quarter record of $39.6 billion, growing 50% year over year and exceeding our own expectations as the iPhone 12 family continues to be in very high demand.
+  - [Observed] Wearables, home, and accessories grew 36% year over year to $8.8 billion, setting new June quarter revenue records in every geographic segment.
+  - [Observed] iPad performance was also strong with revenue of $7.4 billion, up 12% in spite of significant supply constraints.
+  - [Observed] For Mac, despite supply constraints, we set a June quarter record of $8.2 billion, up 16% over last year, with June quarter revenue records in most markets we track around the world.
+  - [Observed] Turning to services, which set a new all-time revenue record as we continue to roll out innovative new features and programming.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Revenue: $81.43B | vs prior quarter: $89.58B (-9.1%) | vs prior year: $59.69B (+36.4%)
+    - Cost of Revenue: $46.18B | vs prior quarter: $51.51B (-10.3%) | vs prior year: $37.01B (+24.8%)
+    - 3 real filing table(s) available (see the HTML report).
+    - Apple Inc. | Q3 2021 Form 10-Q | 2 Apple Inc. CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited) (In millions, except number of shares which are reflected in thousands and par value) June 26, 2021 September 26, 2020 ASSETS: Current assets: Cash and cash equivalents $ 34,050 $ 38,016 Marketable securities 27,646 52,927 Accounts receivable, net 17,475 16,120 Inventories 5,178 4,061 Vendor non-trade receivables 16,433 21,325 Other current assets 13,641 11,264 Total current assets 114,423 143,713 Non-current assets: Marketable securities 131,948 100,887 Property, plant and equipment, net 38,615 36,766 Other non-current assets 44,854 42,522 Total non-current assets 215,417 180,175 Total assets $ 329,840 $ 323,888 LIABILITIES AND SHAREHOLDERS’ EQUITY: Current liabilities: Accounts payable $ 40,409 $ 42,296 Other current liabilities 43,625 42,684 Deferred revenue 7,681 6,643 Commercial paper 8,000 4,996 Term debt 8,039 8,773 Total current liabilities 107,754 105,392 Non-current liabilities: Term debt 105,752 98,667 Other non-current liabilities 52,054 54,490 Total non-current liabilities 157,806 153,157 Total liabilities 265,560 258,549 Commitments and contingencies Shareholders’ equity: Common stock and additional paid-in capital, $ 0.00001 par value: 50,400,000 shares authorized; 16,556,942 and 16,976,763 shares issued and outstanding, respectively 54,989 50,779 Retained earnings 9,233 14,966 Accumulated other comprehensive income/(loss) 58 ( 406 ) Total shareholders’ equity 64,280 65,339 Total liabilities and shareholders’ equity $ 329,840 $ 323,888 See accompanying Notes to Condensed Consolidated Financial Statements.
+  [Footnotes]
+    - 3 real filing table(s) available (see the HTML report).
+    - The Company recognizes revenue at the amount to which it expects to be entitled when control of the products or services is transferred to its customers.
+    - (4) Includes $ 3.0 billion of revenue recognized in the three months ended June 26, 2021 that was included in deferred revenue as of March 27, 2021, $ 2.1 billion of revenue recognized in the three months ended June 27, 2020 that was included in deferred revenue as of March 28, 2020, $ 5.5 billion of revenue recognized in the nine months ended June 26, 2021 that was included in deferred revenue as of September 26, 2020, and $ 4.0 billion of revenue recognized in the nine months ended June 27, 2020 that was included in deferred revenue as of September 28, 2019.
+    - Deferred Revenue As of June 26, 2021 and September 26, 2020, the Company had total deferred revenue of $ 12.0 billion and $ 10.2 billion, respectively.
+    - For the sale of third-party products where the Company obtains control of the product before transferring it to the customer, the Company recognizes revenue based on the gross amount billed to customers.
+    - Revenue allocated to the delivered hardware and bundled software is recognized when control has transferred to the customer, which generally occurs when the product is shipped.
+    - The Company has elected to record revenue net of taxes collected from customers that are remitted to governmental authorities, with the collected taxes recorded within other current liabilities until remitted to the relevant government authority.
+    - Deferred gains and losses associated with cash flow hedges of foreign currency revenue are recognized as a component of net sales in the same period as the related revenue is recognized, and deferred gains and losses related to cash flow hedges of inventory purchases are recognized as a component of cost of sales in the same period as the related costs are recognized.
+    - The Company generally hedges portions of its forecasted foreign currency exposure associated with revenue and inventory purchases, typically for up to 12 months.
+    - To protect gross margins from fluctuations in foreign currency exchange rates, certain of the Company’s subsidiaries whose functional currency is the U.S. dollar may hedge a portion of forecasted foreign currency revenue, and subsidiaries whose functional currency is not the U.S. dollar may hedge a portion of forecasted inventory purchases not denominated in the subsidiaries’ functional currencies.
+    - The Company accounts for the trade-in right as a guarantee liability and recognizes arrangement revenue net of the fair value of such right, with subsequent changes to the guarantee liability recognized within net sales.
+
+=== Q4 2021 ===
+Management said:
+  - On the product side, revenue was $65.1 billion, up 30 percent over a year ago as we experienced better-than-expected demand for our products despite supply constraints that we estimated at around $6 billion.
+  - This fiscal year, we reported $366 billion in revenue, which represents 33 percent annual growth.
+  - Our services set an all-time revenue record of $18.3 billion, up 26 percent over a year ago with September quarter records in every geographic segment and in every services category.
+  - We set a September quarter revenue record of $83.4 billion, an increase of nearly $19 billion or 29 percent from a year ago despite larger-than-expected supply constraints.
+  - As I mentioned, we reached an all-time revenue record of $18.3 billion with all-time records for cloud services, music, video, advertising, Apple Care, and payment services, and a September quarter record for the App Store.
+  - During the past 12 months, we grew our business by 33 percent or $91 billion, reaching nearly $366 billion of revenue with record-level performance across the board.
+  - Every product category and every geographic segment set a new annual revenue record and was up at least 20 percent over fiscal 2020.
+  - Our continued investment and strong execution in services has helped us deliver a record $68 billion in revenue during fiscal 2021, nearly tripling this category in six years.
+  - IPhone revenue grew 47 percent year over year and set a September quarter record of $38.9 billion despite supply constraints as customer demand was very strong.
+  - For Mac, we set an all-time revenue record of $9.2 billion despite supply constraints, driven by strong demand for our M1-powered MacBook Air.
+  - Let me get into more detail for each of our revenue categories.
+  - Please note that some of the information you'll hear during our discussion today will consist of forward-looking statements, including without limitation those regarding revenue, gross margin, operating expenses, other income and expense, taxes, capital allocation, and future business outlook, including the potential impact of COVID-19 on the company's business and results of operations.
+  - We estimate these constraints had around a $6 billion revenue dollar impact, driven primarily by industrywide silicon shortages and COVID-related manufacturing disruptions.
+  - During fiscal 2021, we aren't nearly one-third of our revenue from emerging markets and doubled our business in India and Vietnam.
+  - iPad performance was also strong with a September quarter revenue record of $8.3 billion, up 21 percent in spite of significant supply constraints as customer demand for the iPad Pro, also powered by M1, was very strong.
+  - Given the continued uncertainty around the world in the near term, we are not providing revenue guidance, but we are sharing some directional insights based on the assumption that the COVID-related impacts to our business do not worsen from what we are projecting today for the current quarter.
+  - And I don't know if you want to tell us how much revenue is now under a recurring nature.
+  - You know, maybe just about -- because I think, historically, I would have expected gross margins to be up in December given how much revenue leverage you end up with.
+Guidance given:
+  - Despite this challenge, we are seeing high demands for our products and expect to achieve very solid year-over-year revenue growth and to set a new revenue record during the September the December quarter. (target: September through December quarter; Unresolved)
+  - We expect revenue for each product category to grow on a year-over-year basis, except for iPad, which we expect to decline year over year due to supply constraints. (target: September through December quarter; Unresolved)
+  - Given the continued uncertainty around the world in the near term, we are not providing revenue guidance, but we are sharing some directional insights based on the assumption that the COVID-related impacts to our business do not worsen from what we are projecting today for the current quarter. (target: current quarter; Unresolved)
+Actual reported:
+  - [Exceeded, Unresolved] On the product side, revenue was $65.1 billion, up 30 percent over a year ago as we experienced better-than-expected demand for our products despite supply constraints that we estimated at around $6 billion.
+  - [Observed] This fiscal year, we reported $366 billion in revenue, which represents 33 percent annual growth.
+  - [Observed] Our services set an all-time revenue record of $18.3 billion, up 26 percent over a year ago with September quarter records in every geographic segment and in every services category.
+  - [Observed] We set a September quarter revenue record of $83.4 billion, an increase of nearly $19 billion or 29 percent from a year ago despite larger-than-expected supply constraints.
+  - [Observed] As I mentioned, we reached an all-time revenue record of $18.3 billion with all-time records for cloud services, music, video, advertising, Apple Care, and payment services, and a September quarter record for the App Store.
+  - [Observed] During the past 12 months, we grew our business by 33 percent or $91 billion, reaching nearly $366 billion of revenue with record-level performance across the board.
+  - [Observed] Every product category and every geographic segment set a new annual revenue record and was up at least 20 percent over fiscal 2020.
+  - [Observed] Our continued investment and strong execution in services has helped us deliver a record $68 billion in revenue during fiscal 2021, nearly tripling this category in six years.
+  - [Observed] IPhone revenue grew 47 percent year over year and set a September quarter record of $38.9 billion despite supply constraints as customer demand was very strong.
+  - [Observed] For Mac, we set an all-time revenue record of $9.2 billion despite supply constraints, driven by strong demand for our M1-powered MacBook Air.
+  - [Observed] As we mentioned earlier, during the September quarter, supply constraints impacted our revenue by around $6 billion.
+  - [Observed] We estimate these constraints had around a $6 billion revenue dollar impact, driven primarily by industrywide silicon shortages and COVID-related manufacturing disruptions.
+  - [Observed] During fiscal 2021, we aren't nearly one-third of our revenue from emerging markets and doubled our business in India and Vietnam.
+  - [Observed] iPad performance was also strong with a September quarter revenue record of $8.3 billion, up 21 percent in spite of significant supply constraints as customer demand for the iPad Pro, also powered by M1, was very strong.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Revenue: $365.82B | vs prior quarter: — | vs prior year: $274.51B (+33.3%)
+    - Cost of Revenue: $212.98B | vs prior quarter: — | vs prior year: $169.56B (+25.6%)
+    - 3 real filing table(s) available (see the HTML report).
+    - Apple Inc. | 2021 Form 10-K | 30 Apple Inc. CONSOLIDATED BALANCE SHEETS (In millions, except number of shares which are reflected in thousands and par value) September 25, 2021 September 26, 2020 ASSETS: Current assets: Cash and cash equivalents $ 34,940 $ 38,016 Marketable securities 27,699 52,927 Accounts receivable, net 26,278 16,120 Inventories 6,580 4,061 Vendor non-trade receivables 25,228 21,325 Other current assets 14,111 11,264 Total current assets 134,836 143,713 Non-current assets: Marketable securities 127,877 100,887 Property, plant and equipment, net 39,440 36,766 Other non-current assets 48,849 42,522 Total non-current assets 216,166 180,175 Total assets $ 351,002 $ 323,888 LIABILITIES AND SHAREHOLDERS’ EQUITY: Current liabilities: Accounts payable $ 54,763 $ 42,296 Other current liabilities 47,493 42,684 Deferred revenue 7,612 6,643 Commercial paper 6,000 4,996 Term debt 9,613 8,773 Total current liabilities 125,481 105,392 Non-current liabilities: Term debt 109,106 98,667 Other non-current liabilities 53,325 54,490 Total non-current liabilities 162,431 153,157 Total liabilities 287,912 258,549 Commitments and contingencies Shareholders’ equity: Common stock and additional paid-in capital, $ 0.00001 par value: 50,400,000 shares authorized; 16,426,786 and 16,976,763 shares issued and outstanding, respectively 57,365 50,779 Retained earnings 5,562 14,966 Accumulated other comprehensive income/(loss) 163 ( 406 ) Total shareholders’ equity 63,090 65,339 Total liabilities and shareholders’ equity $ 351,002 $ 323,888 See accompanying Notes to Consolidated Financial Statements.
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+    - The Company recognizes revenue at the amount to which it expects to be entitled when control of the products or services is transferred to its customers.
+    - (4) Includes $ 6.7 billion of revenue recognized in 2021 that was included in deferred revenue as of September 26, 2020, $ 5.0 billion of revenue recognized in 2020 that was included in deferred revenue as of September 28, 2019, and $ 5.9 billion of revenue recognized in 2019 that was included in deferred revenue as of September 29, 2018.
+    - For the sale of third-party products where the Company obtains control of the product before transferring it to the customer, the Company recognizes revenue based on the gross amount billed to customers.
+    - Revenue allocated to the delivered hardware and bundled software is recognized when control has transferred to the customer, which generally occurs when the product is shipped.
+    - Apple Inc. | 2021 Form 10-K | 36 Deferred Revenue As of September 25, 2021 and September 26, 2020, the Company had total deferred revenue of $ 11.9 billion and $ 10.2 billion, respectively.
+    - The Company has elected to record revenue net of taxes collected from customers that are remitted to governmental authorities, with the collected taxes recorded within other current liabilities until remitted to the relevant government authority.
+    - The Company generally hedges portions of its forecasted foreign currency exposure associated with revenue and inventory purchases, typically for up to 12 months.
+    - Under the 401(k) Plan, participating U.S. employees may defer a portion of their pretax earnings, up to the U.S. Internal Revenue Service annual contribution limit ($ 19,500 for calendar year 2021).
+    - 401(k) Plan The Company’s 401(k) Plan is a deferred salary arrangement under Section 401(k) of the Internal Revenue Code.
+    - The Company accounts for the trade-in right as a guarantee liability and recognizes arrangement revenue net of the fair value of such right, with subsequent changes to the guarantee liability recognized within net sales.
+  [Risk Factors]
+    - For example, the Company earns revenue from licensing arrangements with other companies to offer their search services on the Company’s platforms and apps, and certain of these arrangements are currently subject to government investigations and legal proceedings.
+    - The Company is also subject to the examination of its tax returns and other tax matters by the U.S. Internal Revenue Service and other tax authorities and governmental bodies.
+    - For the vast majority of applications, developers keep all of the revenue they generate on the App Store.
+    - This analysis may be based on factors such as the market position of the Company and its products, the anticipated revenue that may be generated, expected future growth of product sales, and the costs of developing such applications and services.
+    - Further, such an outcome can result in significant compensatory, punitive or trebled monetary damages, disgorgement of revenue or profits, remedial corporate measures or injunctive relief against the Company, and can require the Company to change its business practices and limit the Company’s ability to offer certain products and services, all of which could materially adversely affect the Company’s business, results of operations and financial condition.
+
+=== Q1 2022 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Financial Statements]
+    - 3 real filing table(s) available (see the HTML report).
+    - Apple Inc. | Q1 2022 Form 10-Q | 2 Apple Inc. CONDENSED CONSOLIDATED BALANCE SHEETS (Unaudited) (In millions, except number of shares which are reflected in thousands and par value) December 25, 2021 September 25, 2021 ASSETS: Current assets: Cash and cash equivalents $ 37,119 $ 34,940 Marketable securities 26,794 27,699 Accounts receivable, net 30,213 26,278 Inventories 5,876 6,580 Vendor non-trade receivables 35,040 25,228 Other current assets 18,112 14,111 Total current assets 153,154 134,836 Non-current assets: Marketable securities 138,683 127,877 Property, plant and equipment, net 39,245 39,440 Other non-current assets 50,109 48,849 Total non-current assets 228,037 216,166 Total assets $ 381,191 $ 351,002 LIABILITIES AND SHAREHOLDERS’ EQUITY: Current liabilities: Accounts payable $ 74,362 $ 54,763 Other current liabilities 49,167 47,493 Deferred revenue 7,876 7,612 Commercial paper 5,000 6,000 Term debt 11,169 9,613 Total current liabilities 147,574 125,481 Non-current liabilities: Term debt 106,629 109,106 Other non-current liabilities 55,056 53,325 Total non-current liabilities 161,685 162,431 Total liabilities 309,259 287,912 Commitments and contingencies Shareholders’ equity: Common stock and additional paid-in capital, $ 0.00001 par value: 50,400,000 shares authorized; 16,340,851 and 16,426,786 shares issued and outstanding, respectively 58,424 57,365 Retained earnings 14,435 5,562 Accumulated other comprehensive income/(loss) ( 927 ) 163 Total shareholders’ equity 71,932 63,090 Total liabilities and shareholders’ equity $ 381,191 $ 351,002 See accompanying Notes to Condensed Consolidated Financial Statements.
+  [Footnotes]
+    - 3 real filing table(s) available (see the HTML report).
+    - (4) Includes $ 3.0 billion of revenue recognized in the three months ended December 25, 2021 that was included in deferred revenue as of September 25, 2021 and $ 2.5 billion of revenue recognized in the three months ended December 26, 2020 that was included in deferred revenue as of September 26, 2020.
+    - As of December 25, 2021 and September 25, 2021, the Company had total deferred revenue of $ 12.4 billion and $ 11.9 billion, respectively.
+    - As of December 25, 2021, the Company expects 64 % of total deferred revenue to be realized in less than a year, 27 % within one-to-two years, 8 % within two-to-three years and 1 % in greater than three years.
+    - The Company’s proportion of net sales by disaggregated revenue source was generally consistent for each reportable segment in Note 9, “Segment Information and Geographic Data” for the three months ended December 25, 2021 and December 26, 2020, except in Greater China, where iPhone revenue represented a moderately higher proportion of net sales.
+    - The Company generally hedges portions of its forecasted foreign currency exposure associated with revenue and inventory purchases, typically for up to 12 months.
+
