@@ -1,0 +1,333 @@
+[CORE RESEARCH - MULTIPLE TOPICS] JPM: Net interest income | Credit quality
+
+
+======================================================================
+TOPIC: Net interest income
+======================================================================
+
+[CORE RESEARCH] JPM: Net interest income
+
+Quarters searched: 4
+Filing sections searched: 77
+
+Across the period, the topic labeled as net interest income (NII) / net interest revenue (NIR) shows volatility largely tied to net investment securities results and deposit margin dynamics rather than a steady directional NII trend. In Q3 2023, management referenced guidance language for net interest income implying a $22.9 billion fourth-quarter exit run rate, but the provided evidence does not include a resolved FY/Vs-exit-run-rate outcome in the transcript or filing excerpts for that specific metric. Q1 2024 commentary indicates deposit margin compression partially offset NII (consistent with pressure on NII), and Q3 2024/ Q4 2024 commentary shows improvement in NIR driven predominantly by lower net investment securities losses. Overall, the observed variation in NIR/NII is repeatedly attributed to investment securities losses/gains and market-related items, with management also acknowledging a shift away from the view of being “materially overearning on net interest income.”
+
+Forecasting credibility: None
+No guidance/actual pairs for net interest income were found for this topic that can be used to assess a Met/Missed forecasting pattern. While Q3 2023 includes a guidance statement implying a $22.9 billion fourth-quarter exit run rate for net interest income, the provided evidence does not include a later disclosed actual (from transcript or filing excerpt) resolving that specific exit run-rate figure for comparison.
+
+Trends:
+  - Net interest income/revenue appears pressured by deposit margin compression (Q1 2024 transcript).
+  - Net interest revenue improved as net investment securities losses declined (Q3 2024 and Q4 2024 transcripts).
+  - Management’s framing shifted away from being materially overearning on net interest income (Q4 2024 transcript).
+
+Recurring themes/risks:
+  - Deposit margin compression reducing NII (explicitly referenced in Q1 2024).
+  - Net investment securities losses/gains heavily influence NIR (explicitly stated multiple quarters).
+  - Interest rate environment drives NIM risk (compressions in low/negative rates; higher rates generally supportive per filings).
+
+Key concerns:
+  - Guidance credibility cannot be assessed because no complete guidance-vs-actual pair for net interest income is provided; the only specific figure given ($22.9 billion implied exit run rate in Q3 2023) has no corresponding resolved actual in the provided excerpts.
+  - Quarterly net interest revenue outcomes are described as driven by net investment securities losses, implying that NIR is not purely a “rates/NII” run-rate story and may complicate forecasting.
+
+Conclusion:
+The evidence provided indicates net interest income/revenue (NII/NIR) moved materially quarter to quarter, with drivers repeatedly attributed to net investment securities losses and deposit margin compression rather than a stable NII trajectory. In Q1 2024, commentary states revenue was partially offset by lower NII due to deposit margin compression, and NIR was a net loss of $188 million (from transcript). In Q3 2024, NIR was a net gain of $155 million, predominantly driven by lower net investment securities losses, and NIR ex-markets rose sharply (from transcript). In Q4 2024, NIR remained a net loss of $30 million (from transcript), again attributed to lower net investment securities losses versus the prior year; management also noted it had backed off the view that it was materially overearning on net interest income (from transcript).
+
+Evidence Coverage: 99.2% complete; 392/395 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2023 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Net Income: $12.62B | vs prior quarter: — | vs prior year: $8.28B (+52.4%)
+    - 7 real filing table(s) available (see the HTML report).
+    - Consolidated Financial Statements – JPMorgan Chase & Co.: Consolidated statements of income (unaudited) for the three months ended March 31, 202 3 and 202 2 79 Consolidated statements of comprehensive income (unaudited) for the thr ee months ended March 31, 2023 and 202 2 80 Consolidated balance sheets (unaudited) at March 31, 2023 and December 31, 202 2 81 Consolidated statements of changes in stockholders’ equity (unaudited) for the thre e months ended M arch 31, 2023 and 202 2 82 Consolidated statements of cash flows (unaudited) for the three months ended March 31, 2023 and 202 2 83 Notes to Consolidated Financial Statements (unaudited) 84 Report of Independent Registered Public Accounting Firm 166 Consolidated Average Balance Sheets, Interest and Rates (unaudited) for the three months ended March 31, 2023 and 202 2 167 Glossary of Terms and Acronyms and Line of Business Metrics 168
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
+=== Q2 2023 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Net Income: $14.47B | vs prior quarter: $12.62B (+14.7%) | vs prior year: $8.65B (+67.3%)
+    - 8 real filing table(s) available (see the HTML report).
+    - Consolidated Financial Statements – JPMorgan Chase & Co.: Consolidated statements of income (unaudited) for the three and six months ended June 3 0 , 2023 and 2022 96 Consolidated statements of comprehensive income (unaudited) for the three and six months ended June 3 0 , 2023 and 2022 97 Consolidated balance sheets (unaudited) at June 3 0 , 2023 and December 31, 2022 98 Consolidated statements of changes in stockholders’ equity (unaudited) for the three and six months ended June 3 0 , 2023 and 2022 99 Consolidated statements of cash flows (unaudited) for the six months ended June 3 0 , 2023 and 2022 100 Notes to Consolidated Financial Statements (unaudited) 101 Report of Independent Registered Public Accounting Firm 197 Consolidated Average Balance Sheets, Interest and Rates (unaudited) for the three months ended June 3 0 , 2023 and 2022 198 Glossary of Terms and Acronyms and Line of Business Metrics 200
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+
+=== Q3 2023 ===
+Management said:
+  - Your new guide for net interest income for this year would imply an exit run rate of $22.9 billion in the fourth quarter.
+  - The outlook for revenue is obviously pressure at least on net interest income, a few might help.
+  - Asset and Wealth Management reported net income of $1.1 billion with a pre-tax margin of 31%.
+  - Commercial Banking reported net income of $1.7 billion.
+  - The firm reported net income of $13.2 billion, EPS of $4.33 on revenue of $40.7 billion, and delivered an ROTCE of 22%.
+  - Corporate reported net income of $911 million.
+  - CIB reported net income of $3.1 billion on revenue of $11.7 billion.
+  - CCB reported net income of $5.3 billion on revenue of $17 billion, which was up 19% year on year.
+  - And NIR was a net loss of $506 million and included the net investment securities losses I mentioned upfront.
+Guidance given:
+  - Your new guide for net interest income for this year would imply an exit run rate of $22.9 billion in the fourth quarter. (target: Q4 2023 (exit run rate implied by FY guidance); Unresolved)
+Actual reported:
+  - [Observed] And NIR was a net loss of $506 million and included the net investment securities losses I mentioned upfront.
+  - [Observed] NIR ex-markets was up $374 million or 4%, which included lower net investment securities losses than the prior year.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Net Income: $13.15B | vs prior quarter: $14.47B (-9.1%) | vs prior year: $9.74B (+35.1%)
+    - 8 real filing table(s) available (see the HTML report).
+    - Consolidated Financial Statements – JPMorgan Chase & Co.: Consolidated statements of income (unaudited) for the three and nine months ended September 30, 2023 and 2022 96 Consolidated statements of comprehensive income (unaudited) for the three and nine months ended September 30, 2023 and 2022 97 Consolidated balance sheets (unaudited) at September 30, 2023 and December 31, 2022 98 Consolidated statements of changes in stockholders’ equity (unaudited) for the three and nine months ended September 30, 2023 and 2022 99 Consolidated statements of cash flows (unaudited) for the nine months ended September 30, 2023 and 2022 100 Notes to Consolidated Financial Statements (unaudited) 101 Report of Independent Registered Public Accounting Firm 197 Consolidated Average Balance Sheets, Interest and Rates (unaudited) for the three and nine months ended September 30, 2023 and 2022 198 Glossary of Terms and Acronyms and Line of Business Metrics 200
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+
+=== Q4 2023 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Net Income: $49.55B | vs prior quarter: — | vs prior year: $37.68B (+31.5%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 13 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - On the other hand, a low or negative interest rate environment may cause: • net interest margins to be compressed, which could reduce the amounts that JPMorgan Chase earns on its investment securities portfolio to the extent that it is unable to reinvest contemporaneously in higher-yielding instruments 16 • unanticipated or adverse changes in depositor behavior, which could negatively affect JPMorgan Chase’s broader asset and liability management strategy, and • a reduction in the value of JPMorgan Chase’s mortgage servicing rights (“MSRs”) asset, decreasing revenues.
+    - When interest rates are high or increasing, JPMorgan Chase can generally be expected to earn higher net interest income.
+    - However, higher interest rates can also lead to: • fewer originations of commercial and residential real estate loans • losses on underwriting exposures or incremental client-specific downgrades, or increases in the allowance for credit losses and net charge-offs due to higher financing costs for clients • the loss of deposits, particularly if customers withdraw deposits because they believe that interest rates offered by JPMorgan Chase are lower than those of competitors or if JPMorgan Chase makes incorrect assumptions about depositor behavior • losses on available-for-sale (“AFS”) securities held in the investment securities portfolio • lower net interest income if central banks introduce interest rate increases more quickly than anticipated and this results in a misalignment in the pricing of short-term and long-term borrowings • less liquidity in the financial markets, and • higher funding costs.
+    - JPMorgan Chase’s results of operations can be negatively affected by adverse changes in any of the following: • investor, consumer and business sentiment • events that reduce confidence in the financial markets • inflation, deflation or recession 14 • high unemployment or, conversely, a tightening labor market • the availability and cost of capital, liquidity and credit • levels and volatility of interest rates, credit spreads and market prices for currencies, equities and commodities, as well as the duration of any such changes • the economic effects of an outbreak or escalation of hostilities, terrorism or other geopolitical instabilities, cyber attacks, climate change, natural disasters, severe weather conditions, health emergencies, the spread of infectious diseases, epidemics or pandemics or other extraordinary events beyond JPMorgan Chase’s control, and • the strength of the U.S. and global economies.
+    - JPMorgan Chase can become subject to litigation, enforcement actions, and heightened regulatory scrutiny, and its reputation can be damaged, by the failure or perceived failure to: • adequately address or appropriately disclose conflicts of interest, including potential conflicts of interest that may arise in connection with providing multiple products and services in, or having one or more investments related to, the same transaction • identify and address any conflict of interest that a third party with which it is does business may have with respect to a transaction involving JPMorgan Chase • deliver appropriate standards of service and quality 31 Part I • treat clients and customers fairly and with the appropriate standard of care • use client and customer data responsibly and in a manner that meets legal requirements and regulatory expectations • provide fiduciary products or services in accordance with the applicable legal and regulatory standards, or • handle or use confidential information of customers or clients appropriately and in compliance with applicable data protection and privacy laws, rules and regulations.
+    - • Reputation risks, including the potential adverse effects on JPMorgan Chase’s relationships with its clients, 9 Part I customers, shareholders, regulators and other stakeholders that could arise from employee misconduct, security breaches, inadequate risk management, compliance or operational failures, litigation and regulatory investigations, failure to satisfy expectations concerning environmental, social and governance concerns, failure to effectively manage conflicts of interest or to satisfy fiduciary obligations, or other factors that could damage JPMorgan Chase’s reputation.
+
+=== Q1 2024 ===
+Management said:
+  - Corporate reported net income of $918 million.
+  - Commercial Banking reported net income of $1.6 billion.
+  - Asset & Wealth Management reported net income of $1 billion with pre-tax margin of 28%.
+  - The firm reported net income of $13.4 billion, EPS of $4.44 on revenue of $42.5 billion, and delivered an ROTCE of 21%.
+  - CIB reported net income of $4.8 billion on revenue of $13.6 billion.
+  - CCB reported net income of $4.4 billion on revenue of $16.6 billion, which was up 1% year on year.
+Guidance given:
+Actual reported:
+  - [Observed] Excluding net investment valuation gains in the prior year, revenue was up 5% driven by higher management fees on strong net inflows and higher average market levels, partially offset by lower NII due to deposit margin compression.
+  - [Observed] NIR was a net loss of $188 million.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Net Income: $13.42B | vs prior quarter: — | vs prior year: $12.62B (+6.3%)
+    - 8 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+
+=== Q2 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Net Income: $18.15B | vs prior quarter: $13.42B (+35.2%) | vs prior year: $14.47B (+25.4%)
+    - 8 real filing table(s) available (see the HTML report).
+    - Consolidated Financial Statements – JPMorgan Chase & Co.: Consolidated statements of income (unaudited) for the three and six months ended June 3 0 , 2024 and 2023 91 Consolidated statements of comprehensive income (unaudited) for the three and six months ended June 30, 2024 and 2023 92 Consolidated balance sheets (unaudited) at June 3 0 , 2024 and December 31, 2023 93 Consolidated statements of changes in stockholders’ equity (unaudited) for the three and six months ended June 30, 2024 and 2023 94 Consolidated statements of cash flows (unaudited) for the six months ended June 3 0 , 2024 and 2023 95 Notes to Consolidated Financial Statements (unaudited) 96 Report of Independent Registered Public Accounting Firm 191 Consolidated Average Balance Sheets, Interest and Rates (unaudited) for the three months ended June 3 0 , 2024 and 2023 192 Glossary of Terms and Acronyms and Line of Business Metrics 194
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+
+=== Q3 2024 ===
+Management said:
+  - Asset and wealth management reported net income of $1.4 billion with pre-tax margin of 33%.
+  - Corporate reported net income of $1.8 billion.
+  - Starting on Page 1, the firm reported net income of $12.9 billion, EPS of $4.37, and revenue of $43.3 billion with an ROTCE of 19%.
+Guidance given:
+Actual reported:
+  - [Observed] NIR was a net gain of $155 million, compared with a net loss of $425 million in the prior year, predominantly driven by lower net investment securities losses this quarter.
+  - [Observed] NIR ex-markets was up $1.8 billion or 17%, but excluding the prior year's net investment securities losses, it was up 10% on higher asset management and investment banking fees and markets revenue was up $535 million or 8% year on year.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Net Income: $12.90B | vs prior quarter: $18.15B (-28.9%) | vs prior year: $13.15B (-1.9%)
+    - 8 real filing table(s) available (see the HTML report).
+    - Consolidated Financial Statements – JPMorgan Chase & Co.: Consolidated statements of income (unaudited) for the three and nine months ended September 30, 2024 and 2023 89 Consolidated statements of comprehensive income (unaudited) for the three and nine months ended September 30, 2024 and 2023 90 Consolidated balance sheets (unaudited) at September 30, 2024 and December 31, 2023 91 Consolidated statements of c hanges in stockholder s ' equity (unaudited) for the three and nine months ended September 30, 2024 and 2023 92 Consolidated statements of cash flows (unaudited) for the nine months ended September 30, 2024 and 2023 93 Notes to Consolidated Financial Statements (unaudited) 94 Report of Independent Registered Public Accounting Firm 189 Consolidated Average Balance Sheets, Interest and Rates (unaudited) for the three months ended September 30, 2024 and 2023 190 Glossary of Terms and Acronyms and Line of Business Metrics 192
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+
+=== Q4 2024 ===
+Management said:
+  - So, in closing, 2024 was another year of record revenue and net income, and we're proud of what we accomplished.
+  - And in AWM, we had record long-term net inflows of 234 billion, positive across all channels, regions, and asset classes.
+  - It seems like you guys have backed off the view that you're materially overearning on net interest income.
+  - Corporate reported net income of 1.3 billion.
+Guidance given:
+  - It seems like you guys have backed off the view that you're materially overearning on net interest income. (target: ongoing; Unresolved)
+Actual reported:
+  - [Observed] NIR was a net loss of 30 million, compared with a net loss of 668 million in the prior year, driven by lower net investment securities losses this quarter.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Net Income: $58.47B | vs prior quarter: — | vs prior year: $49.55B (+18.0%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 14 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - When interest rates are high or increasing, JPMorganChase can generally be expected to earn higher net interest income.
+    - However, higher interest rates can also lead to: • fewer originations of commercial and residential real estate loans • losses on underwriting exposures or incremental client-specific downgrades, or increases in the allowance for credit losses and net charge-offs due to higher financing costs for clients • the loss of deposits, particularly if customers withdraw deposits because they believe that interest rates offered by JPMorganChase are lower than those of competitors or if JPMorganChase makes incorrect assumptions about depositor behavior • losses on available-for-sale (“AFS”) securities held in the investment securities portfolio • lower net interest income if central banks introduce interest rate increases more quickly than anticipated and this results in a misalignment in the pricing of short-term and long-term borrowings • less liquidity in the financial markets, and • higher funding costs.
+    - On the other hand, a low or negative interest rate environment may cause: • net interest margins to be compressed, which could reduce the amounts that JPMorganChase earns on its investment securities portfolio to the extent that it is unable to reinvest contemporaneously in higher-yielding instruments • unanticipated or adverse changes in depositor behavior, which could negatively affect JPMorganChase’s broader asset and liability management strategy, and • a reduction in the value of JPMorganChase’s mortgage servicing rights (“MSRs”) asset, resulting in decreased revenues.
+    - JPMorganChase can become subject to litigation, enforcement actions, and heightened regulatory scrutiny, and its reputation can be damaged, by the failure or perceived failure to: • adequately address or appropriately disclose conflicts of interest, including potential conflicts of interest that may arise in connection with providing multiple products and services in, or having one or more investments related to, the same transaction • identify and address any conflict of interest that a third party with which it is does business may have with respect to a transaction involving JPMorganChase • deliver appropriate standards of service and quality 34 • treat clients and customers fairly and with the appropriate standard of care • use client and customer data responsibly and in a manner that meets legal requirements and regulatory expectations • provide fiduciary products or services in accordance with the applicable legal and regulatory standards, or • handle or use confidential information of customers or clients appropriately and in compliance with applicable data protection and privacy laws, rules and regulations.
+    - 16 Adverse economic conditions could also lead to an increase in delinquencies, additions to the allowance for credit losses and higher net charge-offs, which can reduce JPMorganChase’s earnings.
+    - JPMorganChase’s consumer businesses are particularly affected by U.S. and global economic conditions, including: • personal and household income distribution • unemployment or underemployment • prolonged periods of exceptionally high or low interest rates, or significant changes to interest rates • changes in the value of collateral such as residential real estate and vehicles • changes in housing prices • the level of inflation and its effect on prices for goods and services • consumer and small business confidence levels, and • changes in consumer spending or in the level of consumer debt.
+
+
+======================================================================
+TOPIC: Credit quality
+======================================================================
+
+[CORE RESEARCH] JPM: Credit quality
+
+Quarters searched: 4
+Filing sections searched: 77
+
+Across 2023, management framed credit performance as influenced by normalization in the Card portfolio, with credit costs and reserve movements fluctuating quarter to quarter. In Q3 2023, management guided the 2023 card net charge-off rate to approximately 2.5% (denominator effects), but the guidance/actual pair is unresolved in the provided evidence, so it cannot inform forecasting credibility. In Q1 2024, management guided the 2024 card net charge-off rate to below 3.5%, and the provided outcome indicates this guidance was met. In Q3 2024, management guided the 2024 card net charge-off rate to approximately 3.4%, but the outcome is marked missed, indicating weaker-than-expected credit performance. By Q4 2024, management reiterated 2025 card net charge-off guidance (approximately 3.6%) without a resolvable outcome in the provided evidence.
+
+Forecasting credibility: Medium
+Only two guidance/actual pairs with verdicts are provided: Q1 2024 (below 3.5% for 2024 card net charge-offs) is Met, while Q3 2024 (approximately 3.4% for 2024 card net charge-offs) is Missed. With a 1/2 Met-to-Missed split, management’s ability to forecast the card net charge-off rate shows mixed credibility. Unresolved guidance in Q3 2023 and Q4 2024 cannot be credited or penalized under the evidence rules given.
+
+Trends:
+  - Credit costs driven predominantly by Card net charge-offs and shifting between net reserve release vs build
+  - Net charge-off pressure in 2023 and 2024 quarters described as part of normalization, then worse-than-expected relative to tighter guidance by Q3 2024
+  - Management progressively narrowed/updated card net charge-off expectations for 2024 (below 3.5% to ~3.4%) before missing
+
+Recurring themes/risks:
+  - Card normalization effects and exposure to revolving balance dynamics
+  - Loss assumptions and reserve release/build sensitivity
+  - Sensitivity to macroeconomic conditions affecting borrower/counterparty credit quality
+
+Key concerns:
+  - Forecasting uncertainty: guidance evolved from below 3.5% (Q1 2024, met) to approximately 3.4% (Q3 2024, missed), suggesting changing assumptions or underestimation of credit deterioration timing/magnitude.
+  - In Q3 2024, transcript-reported credit cost components indicate substantial net reserve build (e.g., net reserve build of $876 million predominantly from higher revolving balances), which can complicate forecasting of eventual net charge-off rates.
+  - Several guidance items are marked unresolved in the provided evidence (Q3 2023 card net charge-off rate ~2.5%; Q4 2024 2025 guidance ~3.6%), limiting assessment of full-period forecasting consistency.
+
+Conclusion:
+Based on the only resolvable guidance/actual verdicts provided, credit quality forecasting for the Card net charge-off rate is mixed: the Q1 2024 target (2024 card net charge-off rate below 3.5%) was Met, but the Q3 2024 target (approximately 3.4%) was Missed. Quarter-to-quarter credit costs described in the transcripts appear to be driven by net charge-offs alongside materially offsetting reserve release/build activity (e.g., Q1 2024 included a net reserve release; Q3 2024 included a large net reserve build tied to higher revolving balances). This pattern supports that credit quality risk is concentrated in the Card portfolio and is sensitive to balance composition and loss-assumption updates, which can reduce forecasting precision even when management identifies the primary driver (normalization). Overall, credit quality directionality is not clearly worsening across all quarters, but the forecasting record for the key metric (card net charge-off rate) provides only medium credibility.
+
+Evidence Coverage: 97.9% complete; 183/187 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2023 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - Consolidated Financial Highlights 3 Introduction 4 Executive Overview 5 Consolidated Results of Operations 10 Consolidated Balance Sheets and Cash Flows Analysis 13 Explanation and Reconciliation of the Firm’s Use of Non-GAAP Financial Measures 16 Business Segment Results 18 Firmwide Risk Management 35 Capital Risk Management 36 Liquidity Risk Management 42 Consumer Credit Portfolio 50 Wholesale Credit Portfolio 54 Investment Portfolio Risk Management 66 Market Risk Management 67 Country Risk Management 73 Critical Accounting Estimates Used by the Firm 74 Accounting and Reporting Developments 77 Forward-Looking Statements 78
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+
+=== Q2 2023 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - Consolidated Financial Highlights 3 Introduction 4 Executive Overview 5 Consolidated Results of Operations 10 Consolidated Balance Sheets and Cash Flows Analysis 16 Explanation and Reconciliation of the Firm’s Use of Non-GAAP Financial Measures 20 Business Segment Results 22 Firmwide Risk Management 47 Capital Risk Management 48 Liquidity Risk Management 54 Consumer Credit Portfolio 65 Wholesale Credit Portfolio 70 Investment Portfolio Risk Management 83 Market Risk Management 84 Country Risk Management 90 Critical Accounting Estimates Used by the Firm 91 Accounting and Reporting Developments 94 Forward-Looking Statements 95
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+
+=== Q3 2023 ===
+Management said:
+  - In terms of credit performance this quarter, credit costs were $1.4 billion driven by net charge-offs, which were up $720 million year on year predominantly due to continued normalization of card.
+  - Credit costs were a net benefit of $185 million driven by a net reserve release of $230 million, reflecting the impact of net lending activity and net charge-offs of $45 million.
+  - Fixed income was up 1% driven by an increase in financing and trade activity and securitized products as well as improved performance in credit.
+  - Finally, credit costs were $64 million, including net charge-offs of $50 million and a net reserve build of $14 million.
+Guidance given:
+  - On credit, we now expect the 2023 card net charge-off rate to be approximately 2.5% mostly driven by denominator effects due to recent balance growth. (target: 2023; Unresolved)
+Actual reported:
+  - [Observed] In terms of credit performance this quarter, credit costs were $1.4 billion driven by net charge-offs, which were up $720 million year on year predominantly due to continued normalization of card.
+  - [Observed] Credit costs were a net benefit of $185 million driven by a net reserve release of $230 million, reflecting the impact of net lending activity and net charge-offs of $45 million.
+  - [Observed] Finally, credit costs were $64 million, including net charge-offs of $50 million and a net reserve build of $14 million.
+  - [Observed] And credit costs were $1.4 billion predominantly driven by net charge-offs in card and included a $102 million net reserve release driven by changes in the central scenario, primarily offset by card loan growth.
+Filing disclosures (SEC):
+  [MD&A]
+    - Consolidated Financial Highlights 3 Introduction 4 Executive Overview 5 Consolidated Results of Operations 10 Consolidated Balance Sheets and Cash Flows Analysis 16 Explanation and Reconciliation of the Firm’s Use of Non-GAAP Financial Measures 19 Business Segment Results 21 Firmwide Risk Management 47 Capital Risk Management 48 Liquidity Risk Management 54 Consumer Credit Portfolio 65 Wholesale Credit Portfolio 70 Investment Portfolio Risk Management 83 Market Risk Management 84 Country Risk Management 90 Critical Accounting Estimates Used by the Firm 91 Accounting and Reporting Developments 94 Forward-Looking Statements 95
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+
+=== Q4 2023 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - Similarly, challenging economic conditions that affect a particular industry or geographic area could lead to concerns about the credit quality of counterparties, borrowers or other obligors not only in that particular industry or geography but in related or dependent industries, wherever located.
+    - For example, a significant deterioration in the credit quality of a counterparty, borrower or other obligor could lead to concerns about the creditworthiness of other counterparties, borrowers or obligors in similar, related or dependent industries.
+    - Furthermore, if a significant and sustained deterioration in market conditions were to occur, the profitability of JPMorgan Chase’s businesses engaged in capital markets activities, including loan syndication, securities underwriting and leveraged lending activities, could be reduced to the extent that those businesses: • earn less fee revenue due to lower transaction volumes, including when clients are unwilling or unable to 15 Part I refinance their outstanding debt obligations in unfavorable market conditions, or • dispose of portions of credit commitments at a loss, or hold larger residual positions in credit commitments that cannot be sold at favorable prices.
+    - 19 Part I A reduction in JPMorgan Chase’s credit ratings could curtail JPMorgan Chase’s business activities and reduce its profitability in a number of ways, including: • reducing its access to capital markets • materially increasing its cost of issuing and servicing securities • triggering additional collateral or funding requirements, and • decreasing the number of investors and counterparties that are willing or permitted to do business with or lend to JPMorgan Chase.
+    - JPMorgan Chase’s results of operations can be negatively affected by adverse changes in any of the following: • investor, consumer and business sentiment • events that reduce confidence in the financial markets • inflation, deflation or recession 14 • high unemployment or, conversely, a tightening labor market • the availability and cost of capital, liquidity and credit • levels and volatility of interest rates, credit spreads and market prices for currencies, equities and commodities, as well as the duration of any such changes • the economic effects of an outbreak or escalation of hostilities, terrorism or other geopolitical instabilities, cyber attacks, climate change, natural disasters, severe weather conditions, health emergencies, the spread of infectious diseases, epidemics or pandemics or other extraordinary events beyond JPMorgan Chase’s control, and • the strength of the U.S. and global economies.
+    - JPMorgan Chase can become subject to litigation, enforcement actions, and heightened regulatory scrutiny, and its reputation can be damaged, by the failure or perceived failure to: • adequately address or appropriately disclose conflicts of interest, including potential conflicts of interest that may arise in connection with providing multiple products and services in, or having one or more investments related to, the same transaction • identify and address any conflict of interest that a third party with which it is does business may have with respect to a transaction involving JPMorgan Chase • deliver appropriate standards of service and quality 31 Part I • treat clients and customers fairly and with the appropriate standard of care • use client and customer data responsibly and in a manner that meets legal requirements and regulatory expectations • provide fiduciary products or services in accordance with the applicable legal and regulatory standards, or • handle or use confidential information of customers or clients appropriately and in compliance with applicable data protection and privacy laws, rules and regulations.
+
+=== Q1 2024 ===
+Management said:
+  - In terms of credit performance this quarter, credit costs were $1.9 billion, driven by net charge-offs, which were up $825 million year on year predominantly due to continued normalization in Card.
+  - Finally, credit costs were a net benefit of $35 million, including a net reserve release of $101 million and net charge-offs of $66 million.
+  - And credit costs were $1.9 billion, reflecting net charge-offs of $2 billion and a net reserve release of $38 million.
+  - And on credit, we continue to expect the 2024 Card net charge-off rate to be below 3.5%.
+Guidance given:
+  - And on credit, we continue to expect the 2024 Card net charge-off rate to be below 3.5%. (target: FY2024 (2024 Card net charge-off rate); Met)
+Actual reported:
+  - [Observed] In terms of credit performance this quarter, credit costs were $1.9 billion, driven by net charge-offs, which were up $825 million year on year predominantly due to continued normalization in Card.
+  - [Observed] Finally, credit costs were a net benefit of $35 million, including a net reserve release of $101 million and net charge-offs of $66 million.
+  - [Observed] And credit costs were $1.9 billion, reflecting net charge-offs of $2 billion and a net reserve release of $38 million.
+Filing disclosures (SEC):
+  [MD&A]
+    - Consolidated Financial Highlights 3 Introduction 4 Executive Overview 5 Consolidated Results of Operations 10 Consolidated Balance Sheets and Cash Flows Analysis 13 Explanation and Reconciliation of the Firm’s Use of Non-GAAP Financial Measures 16 Business Segment Results 18 Firmwide Risk Management 37 Capital Risk Management 38 Liquidity Risk Management 44 Consumer Credit Portfolio 54 Wholesale Credit Portfolio 58 Investment Portfolio Risk Management 70 Market Risk Management 71 Country Risk Management 77 Critical Accounting Estimates Used by the Firm 78 Accounting and Reporting Developments 81 Forward-Looking Statements 82
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+
+=== Q2 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - Consolidated Financial Highlights 3 Introduction 4 Executive Overview 5 Consolidated Results of Operations 9 Consolidated Balance Sheets and Cash Flows Analysis 15 Explanation and Reconciliation of the Firm’s Use of Non-GAAP Financial Measures 18 Business Segment Results 20 Firmwide Risk Management 44 Capital Risk Management 45 Liquidity Risk Management 51 Consumer Credit Portfolio 61 Wholesale Credit Portfolio 66 Investment Portfolio Risk Management 78 Market Risk Management 79 Country Risk Management 85 Critical Accounting Estimates Used by the Firm 86 Accounting and Reporting Developments 89 Forward-Looking Statements 90
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+
+=== Q3 2024 ===
+Management said:
+  - And in Auto, originations were $10 billion, down 2%, while maintaining strong margins and high-quality credit.
+Guidance given:
+  - On credit, we continue to expect the 2024 Card net charge-off rate to be approximately 3.4%. (target: FY2024 (2024 Card net charge-off rate); Missed)
+Actual reported:
+  - [Observed] In terms of credit performance this quarter, credit costs were $2.8 billion driven by card and reflected net charge offs of $1.9 billion, up $520 million year on year and a net reserve build of $876 million predominantly from higher revolving balances.
+  - [Observed] And credit costs were $3.1 billion, reflecting net charge offs of $2.1 billion and a net reserve bill of $1 billion, which included $882 million in consumer, primarily in card, and $144 million in wholesale.
+Filing disclosures (SEC):
+  [MD&A]
+    - Consolidated Financial Highlights 3 Introduction 4 Executive Overview 5 Consolidated Results of Operations 9 Consolidated Balance Sheets and Cash Flows Analysis 15 Explanation and Reconciliation of the Firm’s Use of Non-GAAP Financial Measures 18 Business Segment Results 20 Firmwide Risk Management 43 Capital Risk Management 44 Liquidity Risk Management 50 Consumer Credit Portfolio 60 Wholesale Credit Portfolio 64 Investment Portfolio Risk Management 76 Market Risk Management 77 Country Risk Management 83 Critical Accounting Estimates Used by the Firm 84 Accounting and Reporting Developments 87 Forward-Looking Statements 88
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+
+=== Q4 2024 ===
+Management said:
+  - Yeah, we'd love to hear just from a credit quality perspective what no rate cuts might mean.
+  - Fixed income was up 20%, with better performance in credit, as well as continued outperformance in currencies and emerging markets.
+  - In terms of credit performance this quarter, credit costs were 2.6 billion, reflecting net charge-offs of 2.1 billion, up 428 million year on year, driven by card.
+  - And credit costs were 2.6 billion, reflecting net charge-offs of 2.4 billion and a net reserve of 267 million.
+Guidance given:
+  - Yeah, we'd love to hear just from a credit quality perspective what no rate cuts might mean. (target: ongoing; Unresolved)
+  - On credit, we expect the 2025 card net charge-off rate to be in line with our previous guidance of approximately 3.6%. (target: 2025; Unresolved)
+Actual reported:
+  - [Met, Missed] In terms of credit performance this quarter, credit costs were 2.6 billion, reflecting net charge-offs of 2.1 billion, up 428 million year on year, driven by card.
+  - [Observed] And credit costs were 2.6 billion, reflecting net charge-offs of 2.4 billion and a net reserve of 267 million.
+  - [Observed] Finally, credit costs were 61 million, driven by net downgrade activity and the net impact of charge-offs, offset -- largely offset by a reserve release due to an update to certain loss assumptions.
+Filing disclosures (SEC):
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - Similarly, challenging economic conditions that affect a particular industry or geographic area could lead to concerns about the credit quality of counterparties, borrowers or other obligors not only in that particular industry or geography but in related or dependent industries, wherever located.
+    - For example, a significant deterioration in the credit quality of a counterparty, borrower or other obligor could lead to concerns about the creditworthiness of other counterparties, borrowers or obligors in similar, related or dependent industries.
+    - JPMorganChase is exposed to greater credit and market risk to the extent that groupings of its clients or counterparties, or obligors on securities and other financial instruments: • engage in similar or related businesses, or in businesses in related industries • do business in the same geographic region, or 19 Part I • have business profiles, models or strategies that could cause their ability to meet their obligations to be similarly affected by changes in economic conditions.
+    - JPMorganChase can become subject to litigation, enforcement actions, and heightened regulatory scrutiny, and its reputation can be damaged, by the failure or perceived failure to: • adequately address or appropriately disclose conflicts of interest, including potential conflicts of interest that may arise in connection with providing multiple products and services in, or having one or more investments related to, the same transaction • identify and address any conflict of interest that a third party with which it is does business may have with respect to a transaction involving JPMorganChase • deliver appropriate standards of service and quality 34 • treat clients and customers fairly and with the appropriate standard of care • use client and customer data responsibly and in a manner that meets legal requirements and regulatory expectations • provide fiduciary products or services in accordance with the applicable legal and regulatory standards, or • handle or use confidential information of customers or clients appropriately and in compliance with applicable data protection and privacy laws, rules and regulations.
+    - These factors could lead to: • slower growth rates, rising inflation or recession • disruptions in labor markets • greater market volatility 15 Part I • a contraction of available credit and the widening of credit spreads • U.S. dollar currency fluctuations • lower investments in a particular country or sector of the economy • large-scale sales of government debt and other debt and equity securities • reduced commercial activity among trading partners or disruptions to supply chains, or • the possible departure of a country from, or the dissolution or formation of, a political or economic alliance or treaty.
+    - 16 Adverse economic conditions could also lead to an increase in delinquencies, additions to the allowance for credit losses and higher net charge-offs, which can reduce JPMorganChase’s earnings.
+
