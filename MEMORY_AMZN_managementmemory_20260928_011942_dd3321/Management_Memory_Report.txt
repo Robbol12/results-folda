@@ -1,0 +1,120 @@
+[MANAGEMENT MEMORY] AMZN
+
+Coverage: AMZN_Q2_2020 through AMZN_Q4_2025 (17 available periods)
+First and last observed mean first and last observed in the available transcript coverage, not the company's true historical first or last mention.
+
+- fulfillment: stable | first AMZN_Q2_2020 | last AMZN_Q4_2025 | 17 periods | high confidence | attention delta 33.3% | wording reframed
+  Forward-looking language: 7 sentence(s) across 6 period(s)
+  Investor pressure: 21 question(s), 26 answer(s); latest focus management-led
+  AMZN_Q2_2020: At the same time, we continue to focus on stepped up employee safety, particularly in our fulfillment and logistics operations, to help ensure the safety and well-being of our employees and partners.
+  AMZN_Q4_2025: In our fulfillment network, particularly in The US.
+- comments: stable | first AMZN_Q2_2020 | last AMZN_Q4_2025 | 17 periods | high confidence | attention delta 96.5% | wording reframed
+  Forward-looking language: 6 sentence(s) across 6 period(s)
+  Investor pressure: 20 question(s), 23 answer(s); latest focus management-led
+  AMZN_Q2_2020: I think just from a geographic perspective, Brian's opening comments there, a lot of these order trends and activity, you can see that both the North America and the International segment are growing well.
+  AMZN_Q4_2025: And I just briefly comment on your second question that you know, we are as I mentioned, this is what know, I think this is an extraordinarily unusual opportunity to forever change the size of AWS and Amazon.com, Inc.
+- other: stable | first AMZN_Q2_2020 | last AMZN_Q4_2025 | 17 periods | high confidence | attention delta -14.9% | wording reframed
+  Forward-looking language: 7 sentence(s) across 6 period(s)
+  Investor pressure: 15 question(s), 72 answer(s); latest focus shared
+  AMZN_Q2_2020: Our guidance also assumes, among other things, that we don't conclude any additional business acquisitions, investments, restructurings or legal settlements.
+  AMZN_Q4_2025: And maybe also talk about, like, other de minimis or minimum free cash flow generation levels that you don't want to go below as you go through this CapEx cycle?
+- well: stable | first AMZN_Q2_2020 | last AMZN_Q4_2025 | 17 periods | high confidence | attention delta 24.8% | wording reframed
+  Forward-looking language: 5 sentence(s) across 4 period(s)
+  Investor pressure: 9 question(s), 81 answer(s); latest focus shared
+  AMZN_Q2_2020: As you listen to today's conference call, we encourage you to have our press release in front of you, which includes our financial results, as well as metrics and commentary on the quarter.
+  AMZN_Q4_2025: I think that will very much be true here as well and I think some of the things that you will see over time in the AI space is you're gonna keep seeing all the inference services, which is gonna be the majority of the long-term AI workloads is gonna be inference.
+- network: stable | first AMZN_Q2_2020 | last AMZN_Q4_2025 | 17 periods | high confidence | attention delta 9.9% | wording reframed
+  Forward-looking language: 5 sentence(s) across 5 period(s)
+  Investor pressure: 6 question(s), 37 answer(s); latest focus management-led
+  AMZN_Q2_2020: We were able to meet this heightened demand because we were also able to open up more fulfillment network capacity as the quarter progressed with faster delivery across more selection.
+  AMZN_Q4_2025: In our fulfillment network, particularly in The US.
+- investment: stable | first AMZN_Q2_2020 | last AMZN_Q4_2025 | 17 periods | high confidence | attention delta -33.8% | wording reframed
+  Forward-looking language: 3 sentence(s) across 3 period(s)
+  Investor pressure: 26 question(s), 38 answer(s); latest focus shared
+  AMZN_Q2_2020: Our guidance also assumes, among other things, that we don't conclude any additional business acquisitions, investments, restructurings or legal settlements.
+  AMZN_Q4_2025: So on the investments we are making, as Andy said earlier, you know, we are putting into service with customers all capacity that we are getting, and it's immediately useful.
+- good: stable | first AMZN_Q2_2020 | last AMZN_Q4_2025 | 17 periods | high confidence | attention delta -11.0% | wording reframed
+  Forward-looking language: 3 sentence(s) across 3 period(s)
+  Investor pressure: 12 question(s), 75 answer(s); latest focus shared
+  AMZN_Q2_2020: It's not possible to accurately predict demand for our goods and services, and therefore, our actual results could differ materially from our guidance.
+  AMZN_Q4_2025: And I think if you look we're already off to a really good start having Traneum underneath some majority of our bedrock service and that's not just giving customers better prices but it also gives us better economics.
+- things: stable | first AMZN_Q2_2020 | last AMZN_Q4_2025 | 17 periods | high confidence | attention delta -20.5% | wording reframed
+  Forward-looking language: 3 sentence(s) across 3 period(s)
+  Investor pressure: 5 question(s), 71 answer(s); latest focus management-led
+  AMZN_Q2_2020: Our guidance also assumes, among other things, that we don't conclude any additional business acquisitions, investments, restructurings or legal settlements.
+  AMZN_Q4_2025: I think the other thing is that if you really want to use AI, in an expansive way, you need your data in the cloud and you need your application in the cloud.
+- part: stable | first AMZN_Q2_2020 | last AMZN_Q4_2025 | 17 periods | high confidence | attention delta 26.7% | wording reframed
+  Forward-looking language: 3 sentence(s) across 3 period(s)
+  Investor pressure: 9 question(s), 52 answer(s); latest focus shared
+  AMZN_Q2_2020: Lastly, I'll touch upon our Q3 guidance, which we provided as part of our earnings release.
+  AMZN_Q4_2025: But I think that middle part of the barbell very well may end up being the largest and the most durable and I would put in the middle of that barbell too by the way I would put just the altogether brand new businesses and applications that companies build that right from the get go run-in production on top of AI.
+- spend: stable | first AMZN_Q2_2020 | last AMZN_Q4_2025 | 17 periods | high confidence | attention delta -21.4% | wording reframed
+  Forward-looking language: 3 sentence(s) across 2 period(s)
+  Investor pressure: 7 question(s), 27 answer(s); latest focus shared
+  AMZN_Q2_2020: I know you've got spend on COVID, but as you think about the next three to five years, you've got these really profit surges.
+  AMZN_Q4_2025: If you look at the capital, we are spending and intend to spend this year, it's predominantly in AWS.
+- move: stable | first AMZN_Q2_2020 | last AMZN_Q4_2025 | 17 periods | high confidence | attention delta -18.0% | wording reframed
+  Forward-looking language: 3 sentence(s) across 3 period(s)
+  Investor pressure: 3 question(s), 23 answer(s); latest focus management-led
+  AMZN_Q2_2020: As we move toward peak in the second half of the year, we will ramp-up our space needs even further, and we'll be adding significant fulfillment center and transportation capacity in the second half of the year.
+  AMZN_Q4_2025: And I would say that the enterprises are in various stages at this point of evaluating how to move those, working on moving those, putting them into production.
+- rate: stable | first AMZN_Q2_2020 | last AMZN_Q4_2025 | 17 periods | high confidence | attention delta -34.2% | wording reframed
+  Forward-looking language: 2 sentence(s) across 2 period(s)
+  Investor pressure: 9 question(s), 52 answer(s); latest focus management-led
+  AMZN_Q2_2020: Existing Prime member renewal rates improved, and the Prime member growth rate accelerated both in the U.S.
+  AMZN_Q4_2025: And some of it is for our core workloads which are our non-AI workloads because they are growing at a faster rate than we anticipated.
+- build: stable | first AMZN_Q2_2020 | last AMZN_Q4_2025 | 17 periods | high confidence | attention delta 5.7% | wording reframed
+  Forward-looking language: 2 sentence(s) across 2 period(s)
+  Investor pressure: 13 question(s), 40 answer(s); latest focus management-led
+  AMZN_Q2_2020: Now, as we move into Q3, we need to build the inventory more for Q4, and we've run out of space.
+  AMZN_Q4_2025: And I think we've also proven with AWS over the years how we build data centers, how we run them, and how we invent in there.
+- line: stable | first AMZN_Q2_2020 | last AMZN_Q4_2025 | 17 periods | high confidence | attention delta 26.7% | wording reframed
+  Forward-looking language: 2 sentence(s) across 2 period(s)
+  Investor pressure: 6 question(s), 18 answer(s); latest focus management-led
+  AMZN_Q2_2020: Strong top line performance was driven by increased consumer demand, led by Prime members.
+  AMZN_Q4_2025: If you think about our chips and our hardware and networking gear and how we've invented and power that this isn't some sort of quixotic top line grab.
+- point: stable | first AMZN_Q2_2020 | last AMZN_Q4_2025 | 17 periods | high confidence | attention delta 17.8% | wording reframed
+  Forward-looking language: 1 sentence(s) across 1 period(s)
+  Investor pressure: 16 question(s), 50 answer(s); latest focus shared
+  AMZN_Q2_2020: I'd point to a few capacity improvements that have allowed us to enhance throughput.
+  AMZN_Q4_2025: AWS is 35% operating margin through Q4, up 40 basis points year over year.
+- many: stable | first AMZN_Q2_2020 | last AMZN_Q4_2025 | 17 periods | high confidence | attention delta -36.9% | wording reframed
+  Forward-looking language: 1 sentence(s) across 1 period(s)
+  Investor pressure: 2 question(s), 38 answer(s); latest focus management-led
+  AMZN_Q2_2020: We welcomed more than 175,000 new employees in March and April, many of whom were displaced from other jobs in the economy.
+  AMZN_Q4_2025: We continue to have a number of conversations then I think you're gonna have to look at as time goes on you know, which types of you know, which shopping agents are consumers gonna use and it kinda reminds me in some ways of the early days of kinda all the search engines that were that were referring traffic to retailers and, you know, it's still a relatively small portion of the overall traffic and sales but of that fraction you have to ask how many consumers are going to prefer using a horizontal agent where it's kind of a middle person between the retailer and the consumer versus wanting to use a great agent from that retailer that has all its shopping history and that has all the data right there and makes it easy if you're just you know, spearfishing for something to shop for it right there or if you wanna do discovery, you can do it there and it's got the best data on shopping.
+- down: stable | first AMZN_Q2_2020 | last AMZN_Q4_2025 | 17 periods | high confidence | attention delta -68.8% | wording reframed
+  Forward-looking language: 1 sentence(s) across 1 period(s)
+  Investor pressure: 14 question(s), 35 answer(s); latest focus shared
+  AMZN_Q2_2020: And when you talk about profitability, we'll also mention that there are a couple of expenses that have gone down in the interim.
+  AMZN_Q4_2025: How does that sort of break down?
+- prime: fading | first AMZN_Q2_2020 | last AMZN_Q3_2025 | 16 periods | high confidence | attention delta None% | wording reframed
+  Forward-looking language: 8 sentence(s) across 6 period(s)
+  Investor pressure: 18 question(s), 59 answer(s); latest focus quiet
+  AMZN_Q2_2020: Strong top line performance was driven by increased consumer demand, led by Prime members.
+  AMZN_Q3_2025: And then I guess, secondly, regarding the acceleration in advertising, if you could potentially disaggregate the core advertising contribution versus DSP and Prime video.
+- services: stable | first AMZN_Q2_2020 | last AMZN_Q4_2025 | 17 periods | high confidence | attention delta -14.7% | wording reframed
+  Investor pressure: 14 question(s), 32 answer(s); latest focus shared
+  AMZN_Q2_2020: It's not possible to accurately predict demand for our goods and services, and therefore, our actual results could differ materially from our guidance.
+  AMZN_Q4_2025: So on the investments we are making, as Andy said earlier, you know, we are putting into service with customers all capacity that we are getting, and it's immediately useful.
+- delivery: stable | first AMZN_Q2_2020 | last AMZN_Q4_2025 | 17 periods | high confidence | attention delta 44.7% | wording reframed
+  Investor pressure: 10 question(s), 36 answer(s); latest focus management-led
+  AMZN_Q2_2020: I'd like to start by thanking and recognizing the contributions of hundreds of thousands of Amazon employees and delivery partners and hundreds of thousands of small and medium-sized businesses who are working hard to serve our customers all around the world in these uncertain times.
+  AMZN_Q4_2025: They want really fast delivery.
+- cloud: stable | first AMZN_Q2_2020 | last AMZN_Q4_2025 | 17 periods | high confidence | attention delta -31.1% | wording reframed
+  Investor pressure: 7 question(s), 23 answer(s); latest focus management-led
+  AMZN_Q2_2020: But we're also seeing a lot of companies that are really wishing that they had made more progress on the cloud because they're seeing how companies that are on the cloud can turn into a variable cost and either scale up or scale down depending on their particular situation.
+  AMZN_Q4_2025: I think the other thing is that if you really want to use AI, in an expansive way, you need your data in the cloud and you need your application in the cloud.
+- lets: stable | first AMZN_Q2_2020 | last AMZN_Q4_2025 | 17 periods | high confidence | attention delta -40.5% | wording reframed
+  Investor pressure: 2 question(s), 46 answer(s); latest focus shared
+  AMZN_Q2_2020: With that, let's move on to Q&A.
+  AMZN_Q4_2025: I think, Brian, let me throw this to you or maybe to Andy.
+- front: stable | first AMZN_Q2_2020 | last AMZN_Q4_2025 | 17 periods | high confidence | attention delta -60.1% | wording reframed
+  Investor pressure: 2 question(s), 17 answer(s); latest focus management-led
+  AMZN_Q2_2020: As you listen to today's conference call, we encourage you to have our press release in front of you, which includes our financial results, as well as metrics and commentary on the quarter.
+  AMZN_Q4_2025: We're just more front of mind.
+- capacity: accelerating | first AMZN_Q2_2020 | last AMZN_Q4_2025 | 16 periods | high confidence | attention delta 86.2% | wording reframed
+  Forward-looking language: 5 sentence(s) across 4 period(s)
+  Investor pressure: 12 question(s), 41 answer(s); latest focus shared
+  AMZN_Q2_2020: We were able to meet this heightened demand because we were also able to open up more fulfillment network capacity as the quarter progressed with faster delivery across more selection.
+  AMZN_Q4_2025: So on the investments we are making, as Andy said earlier, you know, we are putting into service with customers all capacity that we are getting, and it's immediately useful.
