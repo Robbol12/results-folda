@@ -1,0 +1,107 @@
+[CORE RESEARCH] TSLA: gross margin
+
+Quarters searched: 4
+Filing sections searched: 92
+
+Across 2025, the filings show generally declining automotive gross margin year-over-year through Q3 2025, with total automotive & services and other segment gross margin falling from 16.7% (Q1 2025) to 16.2% (Q2 2025 three months) and down further in the nine-month period (17.6% to 15.4%). The Q2 transcript mentions an S-curve period with “not usually always negative gross margin” while debugging, but the provided Q2 “guidance” is not a directional gross-margin forecast. In Q4 2025, management emphasized a step-change, stating the company ended the quarter with “over 20.1%” total gross margin; the filing for the full year 2025 shows total automotive & services and other segment gross margin decreased for the year ended December 31, 2025 versus 2024 (16.9% to 16.2%). Energy generation and storage gross margin improved throughout the year (e.g., Q1 24.6% to 28.8%; full-year 26.2% to 29.8%), partially offsetting automotive declines.
+
+Forecasting credibility: None
+No guidance/actual numeric pairs for gross margin were provided for comparison, so a Met/Missed credibility assessment cannot be computed. While management made qualitative comments about gross margin (e.g., “over 20.1%” in Q4), there is no corresponding forward gross-margin guidance figure paired to later actual gross margin within the provided evidence set.
+
+Trends:
+  - Automotive gross margin generally declined year-over-year through Q3 2025
+  - Energy generation and storage gross margin increased year-over-year throughout 2025
+  - Management highlighted a Q4 gross margin step-up, but full-year filings still show overall automotive segment decline versus prior year
+
+Recurring themes/risks:
+  - Regulatory credits revenue as a driver of automotive gross margin (decrease cited in multiple periods)
+  - Pricing (lower average selling price per unit) pressuring automotive gross margin
+  - Debugging/transition dynamics during product ramp and S-curve affecting gross margin
+
+Key concerns:
+  - Potential mismatch between quarter-level narrative (“over 20.1%” total gross margin in Q4) and the full-year automotive & services/other gross margin trend shown in the filing for the year ended December 31, 2025 (16.9% to 16.2%).
+  - Gross margin comparability is influenced by regulatory credits revenue and changes in revenue/cost composition, which may cause volatility versus a purely operational margin trend.
+
+Conclusion:
+Gross margin in 2025 appears to have been pressured in the automotive business despite some late improvement signals: automotive gross margin declined in each interim period shown (e.g., Q1 total automotive & services and other segment from 16.7% to 14.3%; Q3 three months from 20.1% to 17.0%; nine months from 17.6% to 15.4%). The dominant explanatory factors in the filings were lower average selling price per unit and a decrease in regulatory credits revenue, partially offset in some periods by lower average cost per unit or improved services margins. In contrast, energy generation and storage gross margin improved meaningfully (Q1 24.6% to 28.8%; full-year 26.2% to 29.8%), indicating a mix shift favorable to overall gross margin. Overall, the provided evidence supports an automotive-driven headwind through most of 2025 with improving energy margins, and management’s Q4 messaging of “over 20.1%” total gross margin does not clearly reverse the full-year automotive segment decline reported in the filings.
+
+Evidence Coverage: 98.4% complete; 183/186 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive & services and other segment decreased from 16.7% to 14.3% in the three months ended March 31, 2025 as compared to the three months ended March 31, 2024.
+    - Gross margin for total automotive decreased from 18.5% to 16.2% in the three months ended March 31, 2025 as compared to the three months ended March 31, 2024 primarily due to lower average selling price per unit, partially offset by lower average cost per unit and an increase in regulatory credits revenue, as discussed above.
+    - Gross margin for energy generation and storage increased from 24.6% to 28.8% in the three months ended March 31, 2025 as compared to the three months ended March 31, 2024.
+    - The change in gross margin is primarily due to the automotive gross margin factors discussed above.
+    - The increase was primarily due to a higher proportion of our storage business, which operated at a higher gross margin, within the segment as compared to the prior period.
+  [Financial Statements]
+    - Gross Profit: $3.15B | vs prior quarter: — | vs prior year: $3.70B (-14.7%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+
+=== Q2 2025 ===
+Management said:
+Guidance given:
+  - The goal with those products was not to negatively impact revenue or gross margin, but just to make a car that everyone loves and wants at a more affordable price. (target: ongoing; Unresolved)
+Actual reported:
+  - [Observed] The beginning of the S-curve, when you're usually not usually always negative gross margin and you're debugging a lot of issues.
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive & services and other segment decreased from 16.9% to 14.9% in the six months ended June 30, 2025 as compared to the six months ended June 30, 2024.
+    - Gross margin for total automotive & services and other segment decreased from 17.1% to 15.4% in the three months ended June 30, 2025 as compared to the three months ended June 30, 2024.
+    - Gross margin for total automotive decreased from 18.5% to 16.8% in the six months ended June 30, 2025 as compared to the six months ended June 30, 2024 primarily due to lower average selling price per unit and a decrease in regulatory credits revenue as described above.
+    - Gross margin for total automotive decreased from 18.5% to 17.2% in the three months ended June 30, 2025 as compared to the three months ended June 30, 2024 primarily due to a decrease in regulatory credits revenue, as discussed above.
+    - Gross margin for energy generation and storage increased from 24.6% to 30.3% in the three months ended June 30, 2025 as compared to the three months ended June 30, 2024.
+  [Financial Statements]
+    - Gross Profit: $3.88B | vs prior quarter: $3.15B (+23.0%) | vs prior year: $4.58B (-15.3%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+
+=== Q3 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive decreased from 19.0% to 16.9% in the nine months ended September 30, 2025 as compared to the nine months ended September 30, 2024.
+    - Gross margin for total automotive decreased from 20.1% to 17.0% in the three months ended September 30, 2025 as compared to the three months ended September 30, 2024.
+    - Gross margin for total automotive & services and other segment decreased from 17.6% to 15.4% in the nine months ended September 30, 2025 as compared to the nine months ended September 30, 2024.
+    - 33 Table of Contents Gross margin for total automotive & services and other segment decreased from 18.7% to 16.1% in the three months ended September 30, 2025 as compared to the three months ended September 30, 2024.
+    - Gross margin for energy generation and storage increased from 30.5% to 31.4% in the three months ended September 30, 2025 as compared to the three months ended September 30, 2024.
+  [Financial Statements]
+    - Gross Profit: $5.05B | vs prior quarter: $3.88B (+30.3%) | vs prior year: $5.00B (+1.1%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+
+=== Q4 2025 ===
+Management said:
+  - Summary Tesla ( TSLA 0.87% ) delivered sequential improvement in automotive margins, record gross margins, and strong revenue growth in energy, while preparing for a transformative shift with higher future capital expenditures and the wind-down of legacy vehicle production.
+  - On total gross margin front, we ended the quarter with over 20.1%, something which we haven't achieved for over the last two years.
+Guidance given:
+Actual reported:
+  - [Unresolved] On total gross margin front, we ended the quarter with over 20.1%, something which we haven't achieved for over the last two years.
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive & services and other segment decreased from 16.9% to 16.2% in the year ended December 31, 2025 as compared to the year ended December 31, 2024 primarily due to a decrease in regulatory credits revenue, partially offset by an improvement in services and other margins.
+    - Gross margin for total automotive decreased from 18.4% to 17.8% in the year ended December 31, 2025 as compared to the year ended December 31, 2024 primarily due to a decrease in regulatory credits revenue as well as the changes in automotive sales revenue and cost of automotive sales revenue, as discussed above.
+    - Gross margin for energy generation and storage increased from 26.2% to 29.8% in the year ended December 31, 2025 as compared to the year ended December 31, 2024, primarily due the changes in energy generation and storage revenue and cost of energy generation and storage revenue, as discussed above.
+  [Financial Statements]
+    - Gross Profit: $17.09B | vs prior quarter: — | vs prior year: $17.45B (-2.0%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+    - The CODM uses gross profit to allocate operating and capital resources and assesses performance of each segment by comparing actual gross profit results to historical results and previously forecasted financial information.
+
