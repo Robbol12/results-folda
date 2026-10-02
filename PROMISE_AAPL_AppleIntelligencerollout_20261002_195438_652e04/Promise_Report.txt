@@ -1,0 +1,22 @@
+[PROMISE TRACKING] AAPL: Apple Intelligence rollout
+
+VERDICT: Unclear (confidence: low)
+
+In Q4 2024, management stated the Apple Intelligence rollout would happen over time rather than via a typical simultaneous global software release. By Q3 2025, they referenced progress, saying they have delivered more than 20 Apple Intelligence features, but the evidence does not clarify geographic rollout completion or the extent to which the original rollout plan was fully executed as intended. As a result, fulfillment of the full rollout promise cannot be confirmed from the provided statements alone.
+
+Key quotes:
+  - “And the Apple Intelligence rollout is going to happen over time, not across the world as normally we do with software releases.”
+  - And the Apple Intelligence rollout is going to happen over time, not across the world as normally we do with software releases.
+  - And of course, we've done that with more than 20 Apple Intelligence features so far from visual intelligence to cleanup to writing tools and all the rest.
+
+Quarters searched: AAPL_Q4_2024, AAPL_Q3_2025
+Quarters with mentions: AAPL_Q4_2024, AAPL_Q3_2025
+
+--- Evidence Timeline ---
+1. [AAPL_Q4_2024] [MENTION] And the Apple Intelligence rollout is going to happen over time, not across the world as normally we do with software releases.
+
+2. [AAPL_Q3_2025] [UNCERTAIN] And of course, we've done that with more than 20 Apple Intelligence features so far from visual intelligence to cleanup to writing tools and all the rest.
+
+Total timeline entries: 2 (2 after grouping repeats)
+
+DocuLens v2.7.170 · by Luciano Rahal
