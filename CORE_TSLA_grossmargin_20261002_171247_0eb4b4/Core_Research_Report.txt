@@ -1,0 +1,189 @@
+[CORE RESEARCH] TSLA: gross margin
+
+Quarters searched: 8
+Filing sections searched: 186
+
+Across 2023, management’s gross-margin narrative shifted from referencing “mid-20%” gross margins for new programs to emphasizing that automotive gross margin was pressured by a mix of pricing actions and one-time items (e.g., warranty adjustments and Autopilot-related deferred revenue). In the filings, reported automotive gross margin for “total automotive” fell materially through 2023 (e.g., 32.9% to 21.1% in Q1 2023; 29.6% to 19.7% by Q3 2023; and 28.5% to 19.4% for full-year 2023), with energy generation/storage moving in the opposite direction at times. In 2024, automotive gross margin largely stayed lower than 2023 levels overall, with continued year-over-year declines in early 2024 (e.g., Q1 2024: 21.1% to 18.5% for total automotive) and a modest improvement in one quarter (Q3 2024: total automotive increased from 17.6% to 18.7% for “total automotive & services and other segment”). By full-year 2024, filings show automotive gross margin remained down (19.4% to 18.4% total automotive) while energy gross margin rose (18.9% to 26.2%).
+
+Forecasting credibility: None
+No guidance/actual pairs were found specifically for gross margin (i.e., there is no countable set of management forecasts paired to later realized gross-margin outcomes). As a result, forecasting credibility cannot be assessed based on a guidance-vs-actual met/missed pattern. The evidence provided supports describing what management discussed and what filings reported, but not evaluating forecasting accuracy.
+
+Trends:
+  - Automotive gross margin declined sharply through 2023 on a year-over-year basis
+  - Energy generation and storage gross margin improved over time relative to automotive
+  - Automotive gross margin remained pressured in most of 2024, with limited quarter-to-quarter improvement (Q3 2024)
+  - By full-year 2024, energy outperformed with higher gross margin while automotive stayed lower than full-year 2023
+
+Recurring themes/risks:
+  - Pricing actions/affordability measures impacting automotive gross margin
+  - One-time items (e.g., warranty adjustments, deferred revenue for Autopilot features) affecting comparability
+  - Costs and lower average selling price weighing on automotive margins
+  - External factors (e.g., tariffs/incentives) making automotive gross margin difficult to predict
+
+Key concerns:
+  - Gross margin guidance appears qualitative and/or not directly forecastable each period (e.g., “mid-20%” reference for launched programs; warnings that predicting auto gross margins is challenging), limiting the ability to verify precision against actuals.
+  - Automotive gross margin includes multiple drivers with potentially non-recurring components (warranty adjustments, deferred revenue transitions), which can cause quarter-to-quarter volatility and complicate trend interpretation.
+  - Segment mix and definitions differ by disclosure (e.g., ‘total automotive’ vs ‘total automotive & services and other segment’; energy segment is separate), so aggregated gross margin comparisons can mask offsetting movements.
+
+Conclusion:
+Gross margin dynamics were dominated by a sharp reduction in automotive gross margin during 2023 (total automotive: 32.9% to 21.1% in Q1 2023; 29.6% to 19.7% by Q3 2023; 28.5% to 19.4% for full-year 2023), with filings attributing the decline to the automotive gross margin decrease discussed in management commentary and often noting partial offsets from services. In 2024, automotive gross margin generally stayed below 2023 levels (Q1 2024 total automotive: 21.1% to 18.5%; Q2 2024 total automotive decreased to 18.5% from 19.2%); a modest improvement appeared in Q3 2024 for “total automotive & services and other segment” (17.4% to 18.7%) and then mixed results continued (year-end 2024 total automotive: 19.4% to 18.4%). Energy generation and storage gross margin improved substantially by full-year 2024 (18.9% to 26.2%), increasingly offsetting automotive weakness in overall performance. Overall, based on the filing-sourced figures provided, gross margin trends were persistently challenged in automotive while energy strength drove relative improvement.
+
+Evidence Coverage: 99.5% complete; 374/376 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2023 ===
+Management said:
+  - We generally look to mid-20% gross margins for any program that we launch.
+  - Back on the automotive gross margins.
+  - First, automotive gross margin and operating margin reduced sequentially.
+  - In particular, automotive gross margin was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve vehicle pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as increased deferred revenue for certain Autopilot features as we transition technologies.
+Guidance given:
+  - We generally look to mid-20% gross margins for any program that we launch. (target: ongoing; Unresolved)
+Actual reported:
+  - [Observed] Back on the automotive gross margins.
+  - [Observed] In particular, automotive gross margin was impacted by a few factors since our discussion on the last earnings call, which include additional action taken in the second half of the quarter to improve vehicle pricing and one-time items, most notably warranty adjustments on older S and X vehicles as well as increased deferred revenue for certain Autopilot features as we transition technologies.
+Filing disclosures (SEC):
+  [MD&A]
+    - Gross margin for total automotive & services and other segment decreased from 30.5% to 19.9% in the three months ended March 31, 2023 as compared to the three months ended March 31, 2022, primarily due to the automotive gross margin decrease discussed above, partially offset by an improvement in our services and other gross margin.
+    - Gross margin for total automotive decreased from 32.9% to 21.1% in the three months ended March 31, 2023 as compared to the three months ended March 31, 2022.
+    - Gross margin for energy generation and storage improved from -11.7% to 11.0% in the three months ended March 31, 2023 as compared to the three months ended March 31, 2022.
+    - Additionally, services and other was a higher percentage of the segment gross margin during the first quarter of 2023 as compared to the prior year.
+    - Additionally, there was a higher proportion of energy storage sales, which operated at a higher gross margin, within the segment.
+  [Financial Statements]
+    - Gross Profit: $4.51B | vs prior quarter: — | vs prior year: $5.46B (-17.4%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+
+=== Q2 2023 ===
+Management said:
+  - If we look specifically at our automotive business, our gross margin showed a modest reduction and remained healthy, despite action taken to further improve vehicle affordability early in the quarter.
+  - If I may, look, the short-term variances in gross margin and profitability really are minor relative to the long-term picture.
+Guidance given:
+Actual reported:
+  - [Unresolved] If we look specifically at our automotive business, our gross margin showed a modest reduction and remained healthy, despite action taken to further improve vehicle affordability early in the quarter.
+  - [Observed] If I may, look, the short-term variances in gross margin and profitability really are minor relative to the long-term picture.
+Filing disclosures (SEC):
+  [MD&A]
+    - Gross margin for total automotive & services and other segment decreased from 28.3% to 19.0% in the six months ended June 30, 2023 as compared to the six months ended June 30, 2022, primarily due to the automotive gross margin decrease discussed above, partially offset by an improvement in our services and other gross margin.
+    - Gross margin for total automotive decreased from 27.9% to 19.2% in the three months ended June 30, 2023 as compared to the three months ended June 30, 2022.
+    - Gross margin for total automotive decreased from 30.6% to 20.1% in the six months ended June 30, 2023 as compared to the six months ended June 30, 2022.
+    - Gross margin for total automotive & services and other segment decreased from 25.7% to 18.2% in the three months ended June 30, 2023 as compared to the three months ended June 30, 2022.
+    - Gross margin for energy generation and storage improved from 1.7% to 14.7% in the six months ended June 30, 2023 as compared to the six months ended June 30, 2022.
+  [Financial Statements]
+    - Gross Profit: $4.53B | vs prior quarter: $4.51B (+0.5%) | vs prior year: $4.23B (+7.1%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+
+=== Q3 2023 ===
+Management said:
+  - It’s about like your gross margin in the quarter.
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive & services and other segment decreased from 27.4% to 18.5% in the nine months ended September 30, 2023 as compared to the nine months ended September 30, 2022, primarily due to the automotive gross margin decrease discussed above while there was an improvement in our services and other gross margin.
+    - Gross margin for total automotive decreased from 29.6% to 19.7% in the nine months ended September 30, 2023 as compared to the nine months ended September 30, 2022.
+    - Gross margin for total automotive & services and other segment decreased from 26.0% to 17.4% in the three months ended September 30, 2023 as compared to the three months ended September 30, 2022.
+    - 31 Table of Contents Gross margin for total automotive decreased from 27.9% to 18.7% in the three months ended September 30, 2023 as compared to the three months ended September 30, 2022.
+    - Gross margin for energy generation and storage increased from 9.3% to 24.4% in the three months ended September 30, 2023 as compared to the three months ended September 30, 2022.
+  [Financial Statements]
+    - Gross Profit: $4.18B | vs prior quarter: $4.53B (-7.8%) | vs prior year: $5.38B (-22.4%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+
+=== Q4 2023 ===
+Management said:
+  - That said, predicting auto gross margins is extremely challenging since there are many moving parts to this equation, some of which are out of our control like the change in tariffs or local incentives to name a few.
+  - As a result, our auto gross margin improved sequentially.
+Guidance given:
+  - That said, predicting auto gross margins is extremely challenging since there are many moving parts to this equation, some of which are out of our control like the change in tariffs or local incentives to name a few. (target: future; Unresolved)
+Actual reported:
+  - [Observed] As a result, our auto gross margin improved sequentially.
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive decreased from 28.5% to 19.4% in the year ended December 31, 2023 as compared to the year ended December 31, 2022.
+    - Gross margin for total automotive & services and other segment decreased from 26.5% to 18.2% in the year ended December 31, 2023 as compared to the year ended December 31, 2022, primarily due to the automotive gross margin decrease discussed above.
+    - 40 Gross margin for energy generation and storage increased from 7.4% to 18.9% in the year ended December 31, 2023 as compared to the year ended December 31, 2022.
+    - The increase was driven by an improvement in our Megapack gross margin from lower average cost per MWh and a higher proportion of Megapack, which operated at a higher gross margin, within the segment as compared to the prior year periods.
+  [Financial Statements]
+    - Gross Profit: $17.66B | vs prior quarter: — | vs prior year: $20.85B (-15.3%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+
+=== Q1 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive decreased from 21.1% to 18.5% in the three months ended March 31, 2024 as compared to the three months ended March 31, 2023.
+    - Gross margin for total automotive & services and other segment decreased from 19.9% to 16.7% in the three months ended March 31, 2024 as compared to the three months ended March 31, 2023, primarily due to the automotive gross margin decrease discussed above.
+    - Gross margin for energy generation and storage increased from 11.0% to 24.6% in the three months ended March 31, 2024 as compared to the three months ended March 31, 2023.
+  [Financial Statements]
+    - Gross Profit: $3.70B | vs prior quarter: — | vs prior year: $4.51B (-18.1%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+
+=== Q2 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive & services and other segment decreased from 19.0% to 16.9% in the six months ended June 30, 2024 as compared to the six months ended June 30, 2023, primarily due to the automotive gross margin decreases discussed above.
+    - Gross margin for total automotive decreased from 19.2% to 18.5% in the three months ended June 30, 2024 as compared to the three months ended June 30, 2023.
+    - Gross margin for total automotive decreased from 20.1% to 18.5% in the six months ended June 30, 2024 as compared to the six months ended June 30, 2023.
+    - 30 Table of Contents Gross margin for total automotive & services and other segment decreased from 18.2% to 17.1% in the three months ended June 30, 2024 as compared to the three months ended June 30, 2023.
+    - Gross margin for energy generation and storage increased from 18.4% to 24.6% in the three months ended June 30, 2024 as compared to the three months ended June 30, 2023.
+  [Financial Statements]
+    - Gross Profit: $4.58B | vs prior quarter: $3.70B (+23.9%) | vs prior year: $4.53B (+1.0%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+
+=== Q3 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive & services and other segment increased from 17.4% to 18.7% in the three months ended September 30, 2024 as compared to the three months ended September 30, 2023.
+    - Gross margin for total automotive & services and other segment decreased from 18.5% to 17.6% in the nine months ended September 30, 2024 as compared to the nine months ended September 30, 2023.
+    - 30 Table of Contents Gross margin for total automotive increased from 18.7% to 20.1% in the three months ended September 30, 2024 as compared to the three months ended September 30, 2023 primarily due to lower average combined cost per unit of our vehicles, an increase in FSD revenue and an increase in regulatory credits revenue, partially offset by lower average selling price on our vehicles, as discussed above.
+    - Gross margin for energy generation and storage increased from 24.4% to 30.5% in the three months ended September 30, 2024 as compared to the three months ended September 30, 2023.
+    - Gross margin for energy generation and storage increased from 18.0% to 26.6% in the nine months ended September 30, 2024 as compared to the nine months ended September 30, 2023.
+  [Financial Statements]
+    - Gross Profit: $5.00B | vs prior quarter: $4.58B (+9.2%) | vs prior year: $4.18B (+19.6%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+
+=== Q4 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 1 real filing table(s) available (see the HTML report).
+    - Gross margin for total automotive & services and other segment decreased from 18.2% to 16.9% in the year ended December 31, 2024 as compared to the year ended December 31, 2023.
+    - Gross margin for total automotive decreased from 19.4% to 18.4% in the year ended December 31, 2024 as compared to the year ended December 31, 2023 due to lower average selling price on our vehicles and Cybertruck ramp, partially offset by lower average combined cost per unit of our vehicles and increases in regulatory credit and FSD (Supervised) revenue, as discussed above.
+    - 39 Gross margin for energy generation and storage increased from 18.9% to 26.2% in the year ended December 31, 2024 as compared to the year ended December 31, 2023, primarily due to margin improvements for our energy storage products driven by cost reductions, including benefits from IRA manufacturing credits, and a higher proportion of our storage business, which operated at a higher gross margin, within the segment as compared to the prior periods.
+    - The changes in gross margin are primarily due to the automotive gross margin factors discussed above.
+  [Financial Statements]
+    - Gross Profit: $17.45B | vs prior quarter: — | vs prior year: $17.66B (-1.2%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 8 real filing table(s) available (see the HTML report).
+    - The CODM uses gross profit to allocate operating and capital resources and assesses performance of each segment by comparing actual gross profit results to historical results and previously forecasted financial information.
+
