@@ -1,0 +1,46 @@
+[
+  {
+    "promise_id": "3ad3904888f4c1ad",
+    "ticker": "AAPL",
+    "topic": "Apple Intelligence rollout",
+    "original_quarter": "AAPL_Q4_2024",
+    "target_period": null,
+    "promise_text": "And the Apple Intelligence rollout is going to happen over time, not across the world as normally we do with software releases.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "And the Apple Intelligence rollout is going to happen over time, not across the world as normally we do with software releases."
+    ],
+    "source_labels": [
+      "AAPL_Q4_2024"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "1f5d0c29b33c198e",
+    "ticker": "AAPL",
+    "topic": "Apple Intelligence rollout",
+    "original_quarter": "AAPL_Q3_2025",
+    "target_period": null,
+    "promise_text": "And of course, we've done that with more than 20 Apple Intelligence features so far from visual intelligence to cleanup to writing tools and all the rest.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "And of course, we've done that with more than 20 Apple Intelligence features so far from visual intelligence to cleanup to writing tools and all the rest."
+    ],
+    "source_labels": [
+      "AAPL_Q3_2025"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  }
+]
