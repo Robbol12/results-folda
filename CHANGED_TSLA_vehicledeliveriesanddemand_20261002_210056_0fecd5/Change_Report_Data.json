@@ -1,0 +1,97 @@
+[
+  {
+    "topic": "vehicle deliveries and demand",
+    "previous_quarter": "TSLA_Q3_2025",
+    "current_quarter": "TSLA_Q4_2025",
+    "change_type": "previous_quarter_only",
+    "previous_value": null,
+    "current_value": null,
+    "previous_quote": "We feel that as people experience the supervised FSD at scale, demand for our vehicles, like Elon said, would increase significantly.",
+    "current_quote": null,
+    "context": "Unlike our competitors, our robotaxi fleet blends in the markets we operate in since they don't have extra sensor sets or peripherals which make them stick out. This is an underappreciated aspect of our current vehicle offerings, which are all designed for autonomous driving. We feel that as people experience the supervised FSD at scale, demand for our vehicles, like Elon said, would increase significantly. On the FSD adoption front, we've continued to see decent progress. However, note that the total paid FSD customer base is still small, around 12% of our current fleet.",
+    "confidence": "low",
+    "source_labels": [
+      "TSLA_Q3_2025"
+    ],
+    "source_urls_by_label": {
+      "TSLA_Q3_2025": "transcript_tsla-q3-2025.html"
+    },
+    "explanation": "Structured evidence row; narrative interpretation is kept separately."
+  },
+  {
+    "topic": "vehicle deliveries and demand",
+    "previous_quarter": "TSLA_Q3_2025",
+    "current_quarter": "TSLA_Q4_2025",
+    "change_type": "previous_quarter_only",
+    "previous_value": null,
+    "current_value": null,
+    "previous_quote": "This is an underappreciated aspect of our current vehicle offerings, which are all designed for autonomous driving.",
+    "current_quote": null,
+    "context": "We have already expanded our coverage area in Austin three times since the initial launch and are on pace to continue expanding further. Unlike our competitors, our robotaxi fleet blends in the markets we operate in since they don't have extra sensor sets or peripherals which make them stick out. This is an underappreciated aspect of our current vehicle offerings, which are all designed for autonomous driving. We feel that as people experience the supervised FSD at scale, demand for our vehicles, like Elon said, would increase significantly. On the FSD adoption front, we've continued to see decent progress.",
+    "confidence": "low",
+    "source_labels": [
+      "TSLA_Q3_2025"
+    ],
+    "source_urls_by_label": {
+      "TSLA_Q3_2025": "transcript_tsla-q3-2025.html"
+    },
+    "explanation": "Structured evidence row; narrative interpretation is kept separately."
+  },
+  {
+    "topic": "vehicle deliveries and demand",
+    "previous_quarter": "TSLA_Q3_2025",
+    "current_quarter": "TSLA_Q4_2025",
+    "change_type": "current_quarter_only",
+    "previous_value": null,
+    "current_value": null,
+    "previous_quote": null,
+    "current_quote": "In other parts of the world, we saw an increase in demand leading to record deliveries in smaller countries like Malaysia, Norway, Poland, Saudi Arabia, and Taiwan, while continued strength in the rest of APAC and EMEA.",
+    "context": "Q4 2025 was an interesting quarter in a couple of respects. On the autos front, while in Q3, we saw a surge in US demand before the higher consumer credit cliff, pulling in some demand from Q4. In other parts of the world, we saw an increase in demand leading to record deliveries in smaller countries like Malaysia, Norway, Poland, Saudi Arabia, and Taiwan, while continued strength in the rest of APAC and EMEA. We therefore ended 2025 with a bigger backlog than in recent years. Note that none of these countries have the latest version of FSD available yet.",
+    "confidence": "low",
+    "source_labels": [
+      "TSLA_Q4_2025"
+    ],
+    "source_urls_by_label": {
+      "TSLA_Q4_2025": "transcript_tsla-q4-2025.html"
+    },
+    "explanation": "Structured evidence row; narrative interpretation is kept separately."
+  },
+  {
+    "topic": "vehicle deliveries and demand",
+    "previous_quarter": "TSLA_Q3_2025",
+    "current_quarter": "TSLA_Q4_2025",
+    "change_type": "current_quarter_only",
+    "previous_value": null,
+    "current_value": null,
+    "previous_quote": null,
+    "current_quote": "Get ahead of robotaxi autonomous vehicle demand.",
+    "context": "Lars Moravy: Adding to that a little bit with what Ashok said about learning about our charging and service needs. We're using our vast network of charging and service centers that really only Tesla, Inc. has in this space to jump-start our infrastructure build-out needs. Get ahead of robotaxi autonomous vehicle demand. We expect that because of this network, we are the only company capable of scaling at the rate that is needed for the tsunami of autonomy that has come. Travis Axelrod: Great.",
+    "confidence": "low",
+    "source_labels": [
+      "TSLA_Q4_2025"
+    ],
+    "source_urls_by_label": {
+      "TSLA_Q4_2025": "transcript_tsla-q4-2025.html"
+    },
+    "explanation": "Structured evidence row; narrative interpretation is kept separately."
+  },
+  {
+    "topic": "vehicle deliveries and demand",
+    "previous_quarter": "TSLA_Q3_2025",
+    "current_quarter": "TSLA_Q4_2025",
+    "change_type": "current_quarter_only",
+    "previous_value": null,
+    "current_value": null,
+    "previous_quote": null,
+    "current_quote": "On the autos front, while in Q3, we saw a surge in US demand before the higher consumer credit cliff, pulling in some demand from Q4.",
+    "context": "Vaibhav Taneja: Thanks, Travis. Q4 2025 was an interesting quarter in a couple of respects. On the autos front, while in Q3, we saw a surge in US demand before the higher consumer credit cliff, pulling in some demand from Q4. In other parts of the world, we saw an increase in demand leading to record deliveries in smaller countries like Malaysia, Norway, Poland, Saudi Arabia, and Taiwan, while continued strength in the rest of APAC and EMEA. We therefore ended 2025 with a bigger backlog than in recent years.",
+    "confidence": "low",
+    "source_labels": [
+      "TSLA_Q4_2025"
+    ],
+    "source_urls_by_label": {
+      "TSLA_Q4_2025": "transcript_tsla-q4-2025.html"
+    },
+    "explanation": "Structured evidence row; narrative interpretation is kept separately."
+  }
+]
