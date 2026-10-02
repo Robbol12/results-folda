@@ -1,0 +1,530 @@
+[
+  {
+    "promise_id": "cfa2e7b8ecfba8e9",
+    "ticker": "TSLA",
+    "topic": "Cybertruck production timing",
+    "original_quarter": "TSLA_Q2_2021",
+    "target_period": null,
+    "promise_text": "Obviously, those take priority over the Cybertruck, but we are moving into the beta phases of Cybertruck later this year, and we will be looking to ramp that in production and take it to Texas after Model Y is up and going.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "Obviously, those take priority over the Cybertruck, but we are moving into the beta phases of Cybertruck later this year, and we will be looking to ramp that in production and take it to Texas after Model Y is up and going."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2021"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "62fdab49e33ee4b9",
+    "ticker": "TSLA",
+    "topic": "Cybertruck production timing",
+    "original_quarter": "TSLA_Q2_2021",
+    "target_period": null,
+    "promise_text": "So in order for Cybertruck and Semi to scale to volume that's meaningful for customer deliveries, we've got to solve the chip shortage working with our suppliers.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "So in order for Cybertruck and Semi to scale to volume that's meaningful for customer deliveries, we've got to solve the chip shortage working with our suppliers."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2021"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "d9bd1b06144d8606",
+    "ticker": "TSLA",
+    "topic": "Cybertruck production timing",
+    "original_quarter": "TSLA_Q2_2021",
+    "target_period": null,
+    "promise_text": "Elon Musk -- Chief Executive Officer I think Cybertruck ramp will be difficult because it's such new architecture.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "Elon Musk -- Chief Executive Officer I think Cybertruck ramp will be difficult because it's such new architecture."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2021"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "8ca04b669b47aee3",
+    "ticker": "TSLA",
+    "topic": "Cybertruck production timing",
+    "original_quarter": "TSLA_Q4_2021",
+    "target_period": null,
+    "promise_text": "We will, however, do a lot of engineering and tooling and whatnot to create those vehicles, Cybertruck, Semi, Roadster, Optimus, and be ready to bring those to production hopefully next year.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "We will, however, do a lot of engineering and tooling and whatnot to create those vehicles, Cybertruck, Semi, Roadster, Optimus, and be ready to bring those to production hopefully next year."
+    ],
+    "source_labels": [
+      "TSLA_Q4_2021"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "2d4653ca6ec72696",
+    "ticker": "TSLA",
+    "topic": "Cybertruck production timing",
+    "original_quarter": "TSLA_Q1_2022",
+    "target_period": null,
+    "promise_text": "And we remain on track to reach volume production of the Cybertruck next year.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "And we remain on track to reach volume production of the Cybertruck next year."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2022"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "6ac76158b7dea1b1",
+    "ticker": "TSLA",
+    "topic": "Cybertruck production timing",
+    "original_quarter": "TSLA_Q2_2022",
+    "target_period": null,
+    "promise_text": "We will bring another level of simplicity and manufacturing improvements with Cybertruck and future products that we are not quite ready to talk about now, but I think will be very exciting to unveil in the future.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "We will bring another level of simplicity and manufacturing improvements with Cybertruck and future products that we are not quite ready to talk about now, but I think will be very exciting to unveil in the future."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2022"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "1248587662aed171",
+    "ticker": "TSLA",
+    "topic": "Cybertruck production timing",
+    "original_quarter": "TSLA_Q2_2022",
+    "target_period": null,
+    "promise_text": "We are expecting to be – still expecting to be in production with the Cybertruck in the middle of next year.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "We are expecting to be – still expecting to be in production with the Cybertruck in the middle of next year."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2022"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "54723c977153b98e",
+    "ticker": "TSLA",
+    "topic": "Cybertruck production timing",
+    "original_quarter": "TSLA_Q2_2022",
+    "target_period": null,
+    "promise_text": "Our team continues to focus on Cybertruck production readiness and some future platform design.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "Our team continues to focus on Cybertruck production readiness and some future platform design."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2022"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "28240646982690a2",
+    "ticker": "TSLA",
+    "topic": "Cybertruck production timing",
+    "original_quarter": "TSLA_Q3_2022",
+    "target_period": null,
+    "promise_text": "We’re building a Cybertruck line here at Giga Texas [Indiscernible] and making a lot of progress in the robotaxi platform design.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "We’re building a Cybertruck line here at Giga Texas [Indiscernible] and making a lot of progress in the robotaxi platform design."
+    ],
+    "source_labels": [
+      "TSLA_Q3_2022"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "39c470deaa4496f0",
+    "ticker": "TSLA",
+    "topic": "Cybertruck production timing",
+    "original_quarter": "TSLA_Q1_2023",
+    "target_period": null,
+    "promise_text": "Regarding the Cybertruck, we continue to build Alpha versions of the Cybertruck on our pilot line for testing purposes.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "Regarding the Cybertruck, we continue to build Alpha versions of the Cybertruck on our pilot line for testing purposes."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2023"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "3498925c9aeb44ca",
+    "ticker": "TSLA",
+    "topic": "Cybertruck production timing",
+    "original_quarter": "TSLA_Q1_2023",
+    "target_period": null,
+    "promise_text": "Elon Musk Well, I think we'll save that for the Cybertruck handover, which will hopefully be around the end of Q3 this year.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "Elon Musk Well, I think we'll save that for the Cybertruck handover, which will hopefully be around the end of Q3 this year."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2023"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "54a772412905face",
+    "ticker": "TSLA",
+    "topic": "Cybertruck production timing",
+    "original_quarter": "TSLA_Q2_2023",
+    "target_period": null,
+    "promise_text": "With regard to our Cybertruck, we continue to build our release candidates of the Cybertruck on our final production line in Austin.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "With regard to our Cybertruck, we continue to build our release candidates of the Cybertruck on our final production line in Austin."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2023"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "10e1042738144289",
+    "ticker": "TSLA",
+    "topic": "Cybertruck production timing",
+    "original_quarter": "TSLA_Q3_2023",
+    "target_period": null,
+    "promise_text": "I do want to emphasize that there will be enormous challenges in reaching volume production with the Cybertruck, and then in making a Cybertruck cash flow positive.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "I do want to emphasize that there will be enormous challenges in reaching volume production with the Cybertruck, and then in making a Cybertruck cash flow positive."
+    ],
+    "source_labels": [
+      "TSLA_Q3_2023"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "81c73a95a73a89aa",
+    "ticker": "TSLA",
+    "topic": "Cybertruck production timing",
+    "original_quarter": "TSLA_Q3_2023",
+    "target_period": null,
+    "promise_text": "On the operating expenses front, R&D expenses continued to rise due to Cybertruck prototype builds and pilot production testing combined with spend on AI technologies like full self-driving, Optimus and Dojo.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "On the operating expenses front, R&D expenses continued to rise due to Cybertruck prototype builds and pilot production testing combined with spend on AI technologies like full self-driving, Optimus and Dojo."
+    ],
+    "source_labels": [
+      "TSLA_Q3_2023"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "12767d1adc63ffe7",
+    "ticker": "TSLA",
+    "topic": "Cybertruck production timing",
+    "original_quarter": "TSLA_Q3_2023",
+    "target_period": null,
+    "promise_text": "I think we’ll end up with roughly a 0.25 million Cybertrucks a year, I don’t think we’re going to reach that output rate next year.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "I think we’ll end up with roughly a 0.25 million Cybertrucks a year, I don’t think we’re going to reach that output rate next year."
+    ],
+    "source_labels": [
+      "TSLA_Q3_2023"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "2fead89f6a32272d",
+    "ticker": "TSLA",
+    "topic": "Cybertruck production timing",
+    "original_quarter": "TSLA_Q3_2023",
+    "target_period": null,
+    "promise_text": "Plus, like Elon mentioned, we’re going to be ramping Cybertruck, which is going to be another headwind, which we will be dealing with.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "Plus, like Elon mentioned, we’re going to be ramping Cybertruck, which is going to be another headwind, which we will be dealing with."
+    ],
+    "source_labels": [
+      "TSLA_Q3_2023"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "a07ce080d4bb29ab",
+    "ticker": "TSLA",
+    "topic": "Cybertruck production timing",
+    "original_quarter": "TSLA_Q3_2023",
+    "target_period": null,
+    "promise_text": "But then on the flip side, we’re going to be ramping a new product like Cybertruck, which we talked about.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "But then on the flip side, we’re going to be ramping a new product like Cybertruck, which we talked about."
+    ],
+    "source_labels": [
+      "TSLA_Q3_2023"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "c6aebe4e4f186adc",
+    "ticker": "TSLA",
+    "topic": "Cybertruck production timing",
+    "original_quarter": "TSLA_Q4_2023",
+    "target_period": null,
+    "promise_text": "In our vehicle business, we continue to see improvements in our per unit cost despite us being in the early phase of Cybertruck ramp.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "In our vehicle business, we continue to see improvements in our per unit cost despite us being in the early phase of Cybertruck ramp."
+    ],
+    "source_labels": [
+      "TSLA_Q4_2023"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "ae70a2f898c2d30c",
+    "ticker": "TSLA",
+    "topic": "Cybertruck production timing",
+    "original_quarter": "TSLA_Q4_2023",
+    "target_period": null,
+    "promise_text": "As long as the price is affordable, I mean, I see us ultimately delivering on the order of 0.25 million, something like 0.25 million Cybertrucks a year in North America, maybe more.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "As long as the price is affordable, I mean, I see us ultimately delivering on the order of 0.25 million, something like 0.25 million Cybertrucks a year in North America, maybe more."
+    ],
+    "source_labels": [
+      "TSLA_Q4_2023"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "149ef30d51ecf8c1",
+    "ticker": "TSLA",
+    "topic": "Cybertruck production timing",
+    "original_quarter": "TSLA_Q1_2024",
+    "target_period": null,
+    "promise_text": "In fact, if we exclude Cybertruck and Fremont Model 3 ramp costs, the revenue from Autopark, auto margins improved slightly.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "In fact, if we exclude Cybertruck and Fremont Model 3 ramp costs, the revenue from Autopark, auto margins improved slightly."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2024"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "5e1104c8ca6f3c28",
+    "ticker": "TSLA",
+    "topic": "Cybertruck production timing",
+    "original_quarter": "TSLA_Q1_2024",
+    "target_period": null,
+    "promise_text": "We had Red Sea attacks, we are ramping Model 3, we’re ramping Cybertruck.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "We had Red Sea attacks, we are ramping Model 3, we’re ramping Cybertruck."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2024"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "e9c04b8122e55b57",
+    "ticker": "TSLA",
+    "topic": "Cybertruck production timing",
+    "original_quarter": "TSLA_Q1_2024",
+    "target_period": null,
+    "promise_text": "I mean, I think it's important to note also that like the ramp right now is relevant to the Cybertruck ramp.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "I mean, I think it's important to note also that like the ramp right now is relevant to the Cybertruck ramp."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2024"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "d5c9377d3cba6df7",
+    "ticker": "TSLA",
+    "topic": "Cybertruck production timing",
+    "original_quarter": "TSLA_Q2_2024",
+    "target_period": null,
+    "promise_text": "Additionally, as we get into the second half of the year, it is important to note that we are still ramping Cybertruck and Model 3 and are also getting impacted by varying amounts of tariffs on both raw materials and finished goods.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "Additionally, as we get into the second half of the year, it is important to note that we are still ramping Cybertruck and Model 3 and are also getting impacted by varying amounts of tariffs on both raw materials and finished goods."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2024"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "dcda1b7dcdb97ec3",
+    "ticker": "TSLA",
+    "topic": "Cybertruck production timing",
+    "original_quarter": "TSLA_Q1_2025",
+    "target_period": null,
+    "promise_text": "It's just happening upstairs and along the long lines while we're still building the Model Ys and Cybertrucks every day.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "It's just happening upstairs and along the long lines while we're still building the Model Ys and Cybertrucks every day."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2025"
+    ],
+    "unresolved_reason": null
+  }
+]
