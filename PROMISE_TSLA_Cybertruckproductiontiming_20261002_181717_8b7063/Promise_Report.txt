@@ -1,0 +1,224 @@
+[PROMISE TRACKING] TSLA: Cybertruck production timing
+
+VERDICT: Delayed (confidence: high)
+
+Management initially targeted volume production/production “next year” and “middle of next year” (Q1 2022 and Q2 2022), and later said they were building toward production/handover around end of Q3 2023 (Q1 2023). By Q2 2023 they were still building release candidates on the final production line, and in Q3 2023 management tempered expectations for volume production and explicitly said they would not reach the hoped-for output rate next year. There is no evidence in the provided calls that Cybertruck reached the promised volume production timing; instead, the timeline appears pushed out beyond the earlier targets.
+
+Key quotes:
+  - “And we remain on track to reach volume production of the Cybertruck next year.” (TSLA_Q1_2022)
+  - “With regard to our Cybertruck, we continue to build our release candidates of the Cybertruck on our final production line in Austin.” (TSLA_Q2_2023)
+
+Evidence quality notes:
+  - A matched source passage mentions 4680-cell production for Cybertruck economics; it is not evidence of completed Cybertruck vehicle volume.
+
+Quarters searched: TSLA_Q1_2021, TSLA_Q2_2021, TSLA_Q3_2021, TSLA_Q4_2021, TSLA_Q1_2022, TSLA_Q2_2022, TSLA_Q3_2022, TSLA_Q4_2022, TSLA_Q1_2023, TSLA_Q2_2023, TSLA_Q3_2023, TSLA_Q4_2023, TSLA_Q1_2024, TSLA_Q2_2024, TSLA_Q3_2024, TSLA_Q4_2024, TSLA_Q1_2025, TSLA_Q2_2025, TSLA_Q3_2025, TSLA_Q4_2025
+Quarters with mentions: TSLA_Q1_2021, TSLA_Q2_2021, TSLA_Q3_2021, TSLA_Q4_2021, TSLA_Q1_2022, TSLA_Q2_2022, TSLA_Q3_2022, TSLA_Q4_2022, TSLA_Q1_2023, TSLA_Q2_2023, TSLA_Q3_2023, TSLA_Q4_2023, TSLA_Q1_2024, TSLA_Q2_2024, TSLA_Q3_2024, TSLA_Q1_2025, TSLA_Q2_2025, TSLA_Q4_2025
+
+--- Evidence Timeline ---
+1. [TSLA_Q1_2021] [MENTION] In the background, we are continuing work -- development work on the Semi, Cybertruck, on the Roadster and other products.
+
+2. [TSLA_Q2_2021] [MENTION] The first question from Robert M. is Tesla's website still says Cybertruck production is expected to begin in late 2021.
+
+3. [TSLA_Q2_2021] [MENTION] Yeah, the Cybertruck is currently in its alpha stages.
+
+4. [TSLA_Q2_2021] [MENTION] With the Cybertruck, we're redefining how a vehicle is being made.
+
+5. [TSLA_Q2_2021] [MENTION] Obviously, those take priority over the Cybertruck, but we are moving into the beta phases of Cybertruck later this year, and we will be looking to ramp that in production and take it to Texas after Model Y is up and going.
+
+6. [TSLA_Q2_2021] [MENTION] So in order for Cybertruck and Semi to scale to volume that's meaningful for customer deliveries, we've got to solve the chip shortage working with our suppliers.
+
+7. [TSLA_Q2_2021] [MENTION] So the Cybertruck and Semi, both are heavy users of cell capacity so we've got to make sure we have the cell capacity for those two vehicles, or it's kind of pointless.
+
+8. [TSLA_Q2_2021] [MENTION] Elon Musk -- Chief Executive Officer I think Cybertruck ramp will be difficult because it's such new architecture.
+
+9. [TSLA_Q2_2021] [MENTION] But there's a lot of fundamentally new design ideas in the Cybertruck.
+
+10. [TSLA_Q3_2021] [MENTION] As we've mentioned before, after Model Y in Austin, our next product launch will be Cybertruck.
+
+11. [TSLA_Q3_2021] [MENTION] And then we will add Cybertruck here in Austin and continue to grow from there.
+
+12. [TSLA_Q3_2021] [MENTION] We get a lot of questions on Cybertruck.
+
+13. [TSLA_Q3_2021] [MENTION] We've been busy detailing the Cybertruck to achieve the prototype version we shared with customers awhile back.
+
+14. [TSLA_Q3_2021] [MENTION] And the second question is related to Cybertruck.
+
+15. [TSLA_Q3_2021] [MENTION] So obviously, as we've noted in the past, we developed our own stainless-steel grade for the exterior Cybertruck to meet both the durability in course of requirements required for an automotive world.
+
+16. [TSLA_Q4_2021] [UNCERTAIN] Elon Musk Batteries will probably not be the limiting factor in Cybertruck production.
+
+17. [TSLA_Q4_2021] [UNCERTAIN] And I think you made reference to Cybertruck maybe being 250,000 vehicles.
+
+18. [TSLA_Q4_2021] [MENTION] We will, however, do a lot of engineering and tooling and whatnot to create those vehicles, Cybertruck, Semi, Roadster, Optimus, and be ready to bring those to production hopefully next year.
+
+19. [TSLA_Q4_2021] [MENTION] There's a lot of new technology in the Cybertruck that will take some time to work through.
+
+20. [TSLA_Q4_2021] [MENTION] I worry more about like how do we the Cybertruck affordable despite having awesome technology.
+
+21. [TSLA_Q4_2021] [MENTION] Aspirationally, we'd like it to go, in terms of just a rough order of magnitude, we'd like Cybertruck to be at least on the order of [indiscernible] vehicles a year.
+
+22. [TSLA_Q1_2022] [MENTION] And we remain on track to reach volume production of the Cybertruck next year.
+
+23. [TSLA_Q1_2022] [MENTION] And so, we do consider that for Semi and Cybertruck.
+
+24. [TSLA_Q1_2022] [MENTION] First is regarding the Cybertruck.
+
+25. [TSLA_Q1_2022] [MENTION] Elon Musk I’m not sure if we’ve actually done a comparison of Cybertruck parts versus regular truck parts.
+
+26. [TSLA_Q1_2022] [MENTION] Lars Moravy So, with the Cybertruck and the doors, for example, we have an exoskeleton design where the door is ready to take and it takes all the long-term impact.
+
+27. [TSLA_Q2_2022] [UNCERTAIN] Our team continues to focus on Cybertruck production readiness and some future platform design.
+
+28. [TSLA_Q2_2022] [MENTION] We will bring another level of simplicity and manufacturing improvements with Cybertruck and future products that we are not quite ready to talk about now, but I think will be very exciting to unveil in the future.
+
+29. [TSLA_Q2_2022] [MENTION] We are expecting to be – still expecting to be in production with the Cybertruck in the middle of next year.
+
+30. [TSLA_Q2_2022] [MENTION] We’re going to do another one with Cybertruck.
+
+31. [TSLA_Q3_2022] [UNCERTAIN] I mean, obviously, we’re going to take everything we learned from S, X, 3, Y, Cybertruck and Semi and forward into that platform.
+
+32. [TSLA_Q3_2022] [MENTION] We’re in the final lap for Cybertruck.
+
+33. [TSLA_Q3_2022] [MENTION] We’re building a Cybertruck line here at Giga Texas [Indiscernible] and making a lot of progress in the robotaxi platform design.
+
+34. [TSLA_Q3_2022] [MENTION] At this point, we’ve done the engineering for Cybertrucks and for Semi.
+
+35. [TSLA_Q3_2022] [MENTION] Elon Musk We don’t anticipate this being anything -- like Cybertruck or anything else.
+
+36. [TSLA_Q4_2022] [UNCERTAIN] And to be clear, for 2023, Cybertruck will not be a significant contributor to the bottom line but it will be into next year.
+
+37. [TSLA_Q4_2022] [UNCERTAIN] Really, our 2023 goal as a 4680 team is to deliver a cost-effective ramp of 4680s well ahead of Cybertruck.
+
+38. [TSLA_Q4_2022] [MENTION] This includes expanding in-house cell production, bringing Cybertruck to market, development of our next-generation vehicle platform, expansion of our manufacturing footprint and growth of the energy business.
+
+39. [TSLA_Q4_2022] [MENTION] Next investor question is Elon said previously that FSD Hardware 4 will most likely come first in Cybertruck.
+
+40. [TSLA_Q4_2022] [MENTION] Elon Musk Yes, Cybertruck will have Hardware 4.
+
+41. [TSLA_Q1_2023] [UNCERTAIN] And going forward for the rest of the year, the priority, one, is yielding cost for the 4680 program as we steadily ramp production ahead of Cybertruck next year.
+
+42. [TSLA_Q1_2023] [MENTION] Regarding the Cybertruck, we continue to build Alpha versions of the Cybertruck on our pilot line for testing purposes.
+
+43. [TSLA_Q1_2023] [MENTION] So the Cybertruck is no different.
+
+44. [TSLA_Q1_2023] [MENTION] We plan to continue to invest heavily into our future plans, which include the Cybertruck next-generation platform, in-house cell production, energy storage business and our autonomy and AI-enabled products.
+
+45. [TSLA_Q1_2023] [MENTION] Elon Musk Well, I think we'll save that for the Cybertruck handover, which will hopefully be around the end of Q3 this year.
+
+46. [TSLA_Q2_2023] [UNCERTAIN] Here in Texas, we’re preparing to launch our Cybertruck cell, which is 10% higher energy density than current production.
+
+47. [TSLA_Q2_2023] [MENTION] With regard to our Cybertruck, we continue to build our release candidates of the Cybertruck on our final production line in Austin.
+
+48. [TSLA_Q2_2023] [MENTION] And this is no small car, but we really cared about the exterior dimensions of the Cybertruck down to the last millimeter.
+
+49. [TSLA_Q2_2023] [MENTION] This includes increasing spending on AI related technologies such as full self-driving, Optimus and Dojo, as well as new products such as Cybertruck, our next generation platform and the Semi, as evidenced by the continued growth in our R&D spend.
+
+50. [TSLA_Q2_2023] [MENTION] I do want to emphasize that the Cybertruck has a lot of new technology in it, like a lot.
+
+51. [TSLA_Q2_2023] [MENTION] But first order approximation, there’s like 10,000 unique parts and processes in the Cybertruck.
+
+52. [TSLA_Q2_2023] [MENTION] As we just think about sort of in the year ahead, Cybertruck is going to be some contribution.
+
+53. [TSLA_Q3_2023] [UNCERTAIN] The Cybertruck cell with 10% higher energy than our Model Y cell started production on line two in Texas.
+
+54. [TSLA_Q3_2023] [UNCERTAIN] This quarter we convert to building a 100% Cybertruck cells to simplify and focus the factory as we ramp all four lines in Phase 1 over the next three quarters.
+
+55. [TSLA_Q3_2023] [MENTION] The Cybertruck, I know a lot of people are excited about the Cybertruck.
+
+56. [TSLA_Q3_2023] [MENTION] I do want to emphasize that there will be enormous challenges in reaching volume production with the Cybertruck, and then in making a Cybertruck cash flow positive.
+
+57. [TSLA_Q3_2023] [MENTION] This is simply normal for when you’ve got a product with a lot of new technology or any new vehicle, brand new vehicle program, but especially one that is as different and advanced as the Cybertruck, you will have problems proportionate to how many new things you’re trying to solve at scale.
+
+58. [TSLA_Q3_2023] [MENTION] So, I just want to temper expectations for Cybertruck.
+
+59. [TSLA_Q3_2023] [MENTION] On the operating expenses front, R&D expenses continued to rise due to Cybertruck prototype builds and pilot production testing combined with spend on AI technologies like full self-driving, Optimus and Dojo.
+
+60. [TSLA_Q3_2023] [MENTION] But if you want to do something radical and innovative and something really special, like the Cybertruck, it is extremely difficult because there’s nothing to copy.
+
+61. [TSLA_Q3_2023] [MENTION] I think we’ll end up with roughly a 0.25 million Cybertrucks a year, I don’t think we’re going to reach that output rate next year.
+
+62. [TSLA_Q3_2023] [MENTION] Unidentified Company Representative I mean, there’s like unique complexity to Cybertruck.
+
+63. [TSLA_Q3_2023] [MENTION] I mean Cybertruck is -- yes.
+
+64. [TSLA_Q3_2023] [MENTION] I mean, we dug our own grave with Cybertruck.
+
+65. [TSLA_Q3_2023] [MENTION] And so it is -- Cybertruck’s one of those special products that comes along only once in a long while.
+
+66. [TSLA_Q3_2023] [MENTION] In terms of like the technologies we’re putting into it, we didn’t have to invent full hard stainless steel or have mega 9,000-ton castings or the largest hot stamping in the world or new [Technical Difficulty] are quite in the same way as the Cybertruck.
+
+67. [TSLA_Q3_2023] [MENTION] So I mean, the Cybertruck has a lot of bells and whistles.
+
+68. [TSLA_Q3_2023] [MENTION] Plus, like Elon mentioned, we’re going to be ramping Cybertruck, which is going to be another headwind, which we will be dealing with.
+
+69. [TSLA_Q3_2023] [MENTION] But then on the flip side, we’re going to be ramping a new product like Cybertruck, which we talked about.
+
+70. [TSLA_Q3_2023] [MENTION] It’s not full with Cybertruck and the line.
+
+71. [TSLA_Q4_2023] [MENTION] In our vehicle business, we continue to see improvements in our per unit cost despite us being in the early phase of Cybertruck ramp.
+
+72. [TSLA_Q4_2023] [MENTION] First, I just want to allay any concerns regarding 4680 limiting the Cybertruck ramp, because I've seen some people commenting about that.
+
+73. [TSLA_Q4_2023] [MENTION] Karn Budhiraj And just regarding what the team was able to do in Q4, Texas successfully swapped line one from the Model Y design of the cell to the Cybertruck design of the cell, which was the 10% cell energy increase I've mentioned before.
+
+74. [TSLA_Q4_2023] [MENTION] Karn Budhiraj First of all, I want to thank all the Cybertruck reservation holders for their patience.
+
+75. [TSLA_Q4_2023] [MENTION] As long as the price is affordable, I mean, I see us ultimately delivering on the order of 0.25 million, something like 0.25 million Cybertrucks a year in North America, maybe more.
+
+76. [TSLA_Q4_2023] [MENTION] It's just -- for the other trucks on the road there, which -- there's some very good trucks on the road, but if you were to switch out the brand name, you wouldn't hardly know which company made them, but you definitely would know the Cybertruck.
+
+77. [TSLA_Q4_2023] [MENTION] Lars Moravy Yeah, I don't think that anything on Cybertruck should be considered gating for the next-gen platform.
+
+78. [TSLA_Q1_2024] [UNCERTAIN] 4680 production increased about 18% to 20% from Q4 reaching greater than 1K a week for Cybertruck, which is about 7 gigawatt hours per year as we posted on X.
+
+79. [TSLA_Q1_2024] [MENTION] Excluding the impact of Cybertruck, the impact of pricing actions was largely offset by reductions in per unit costs and the recognition of revenue from Autopark feature for certain vehicles in the U.S. that previously did not have that functionality.
+
+80. [TSLA_Q1_2024] [MENTION] In fact, if we exclude Cybertruck and Fremont Model 3 ramp costs, the revenue from Autopark, auto margins improved slightly.
+
+81. [TSLA_Q1_2024] [MENTION] We expect to stay ahead of the Cybertruck ramp with the cell production throughout Q2 as we ramp the third of four lines in Phase 1, while maintaining multiple weeks of cell inventory to make sure we're ahead of the ramp.
+
+82. [TSLA_Q1_2024] [MENTION] Cybertruck had 1K a week just a couple of weeks ago.
+
+83. [TSLA_Q1_2024] [MENTION] We had Red Sea attacks, we are ramping Model 3, we’re ramping Cybertruck.
+
+84. [TSLA_Q1_2024] [MENTION] Our Cybertrucks are crazy.
+
+85. [TSLA_Q1_2024] [MENTION] I mean, I think it's important to note also that like the ramp right now is relevant to the Cybertruck ramp.
+
+86. [TSLA_Q2_2024] [UNCERTAIN] We currently produce more than 1,400 Cybertrucks of 4680 cells per week, and we'll continue to ramp output as we drive cost down further towards the cost parity target we set for the end of the year.
+
+87. [TSLA_Q2_2024] [MENTION] Cost per vehicle declined sequentially when we removed the impact of Cybertruck.
+
+88. [TSLA_Q2_2024] [MENTION] Additionally, as we get into the second half of the year, it is important to note that we are still ramping Cybertruck and Model 3 and are also getting impacted by varying amounts of tariffs on both raw materials and finished goods.
+
+89. [TSLA_Q2_2024] [MENTION] Our third question is, the Cybertruck is an iconic product that wows everyone who sees it.
+
+90. [TSLA_Q2_2024] [MENTION] We've built our first validation Cybertruck with dry cathode process made on our mass production equipment, which is a huge technical milestone and we're super proud of that.
+
+91. [TSLA_Q3_2024] [MENTION] So, with the new version 12.5, the release of full self-driving and Cybertruck, combining the code into a single stack so that the city driving and the engine and highway driving are one stack, which is a big improvement for the highway driving.
+
+92. [TSLA_Q3_2024] [MENTION] A Cybertruck looks different, but Model Y and Model 3 are -- look, they're good-looking cars but look fairly normal.
+
+93. [TSLA_Q3_2024] [MENTION] We released FSD for Cybertruck and other features like actually Smart Summon, like Elon talked about, in North America, which contributed $326 million of revenues in the quarter.
+
+94. [TSLA_Q3_2024] [MENTION] The Cybertruck looks, thankfully, abnormal.
+
+95. [TSLA_Q3_2024] [MENTION] And that's why -- because like I said before, most of our cars, except for Cybertruck, look the same, so people don't realize that it has so much capability.
+
+96. [TSLA_Q1_2025] [PLAN] Speaker 2 (47:43): And we want to incorporate some of these for testing into our existing production lines as well to [inaudible 00:47:49] Cybertruck already.
+
+97. [TSLA_Q1_2025] [MENTION] It's just happening upstairs and along the long lines while we're still building the Model Ys and Cybertrucks every day.
+
+98. [TSLA_Q2_2025] [UNCERTAIN] We continue to make investments in various aspects of that fashion, like Cybertruck, semi lines, and other infrastructure spend and the expansion of our AI initiatives.
+
+99. [TSLA_Q4_2025] [MENTION] After the unveil of the Cybertruck, Elon stated that if it didn't sell well, Tesla, Inc. would build a more conventional-looking pickup.
+
+100. [TSLA_Q4_2025] [MENTION] Lars Moravy: Actually, in its segment, CyberTruck can be a leader and is selling more than any other electric truck out there.
+
+101. [TSLA_Q4_2025] [MENTION] The Cybertruck line was designed in the same way and is one of our most fully ready for autonomy platforms.
+
+102. [TSLA_Q4_2025] [MENTION] We will transition the Cybertruck line to just a fully autonomous line.
+
+103. [TSLA_Q4_2025] [MENTION] There's a lot of cargo that needs to move locally within a city, and an autonomous Cybertruck could be very useful for that.
+
+Total timeline entries: 103 (103 after grouping repeats)
