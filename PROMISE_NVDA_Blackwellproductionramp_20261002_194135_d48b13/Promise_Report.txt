@@ -1,0 +1,78 @@
+[PROMISE TRACKING] NVDA: Blackwell production ramp
+
+VERDICT: Fulfilled (confidence: medium)
+
+Management initially discussed Blackwell availability at launch (Q1 2025) but also framed production ramp timing as starting in Q4 and continuing into FY26 (Q2 2025). By Q3 2025 they claimed Blackwell production was “in full steam,” and by Q4 2025 they reported the Blackwell ramp had commenced, that production was across multiple configurations, and that they delivered $11B of Blackwell revenue. Taken together, the evidence suggests the ramp plan began as scheduled and reached scale by Q4 2025, although some earlier ramp details are still described ambiguously.
+
+Key quotes:
+  - “Blackwell will be available in over 100 OEM and ODM systems at launch, more than double the number of Hoppers launched and representing every major computer maker in the world.” (NVDA_Q1_2025)
+  - “Blackwell production ramp is scheduled to begin in the fourth quarter and continue into fiscal year '26.” (NVDA_Q2_2025)
+  - And we successfully and incredibly ramped up Grace Blackwell, delivering some $11 billion of revenues last quarter.
+
+Quarters searched: NVDA_Q1_2024, NVDA_Q2_2024, NVDA_Q3_2024, NVDA_Q1_2025, NVDA_Q2_2025, NVDA_Q3_2025, NVDA_Q4_2025
+Quarters with mentions: NVDA_Q1_2024, NVDA_Q2_2024, NVDA_Q3_2024, NVDA_Q1_2025, NVDA_Q2_2025, NVDA_Q3_2025, NVDA_Q4_2025
+
+--- Evidence Timeline ---
+1. [NVDA_Q1_2024] [UNCERTAIN] And then that gets connected to InfiniBand, which includes the NIC and the SmartNIC, BlueField-3 that we're in full production with and the switches.
+
+2. [NVDA_Q1_2024] [UNCERTAIN] BlueField-3 is in production and has been adopted by multiple hyperscale and CSP customers, including Microsoft Azure, Oracle Cloud, CoreWeave, Baidu, and others.
+
+3. [NVDA_Q1_2024] [UNCERTAIN] Our new design win will extend BYD's use of the DRIVE Orin to its next-generation, high-volume Dynasty and Ocean series of vehicles set to start production in calendar 2024.
+
+4. [NVDA_Q2_2024] [UNCERTAIN] Our supply over the next several quarters will continue to ramp as we lower cycle times and work with our supply partners to add capacity.
+
+5. [NVDA_Q2_2024] [UNCERTAIN] Solid year-on-year growth was driven by the ramp of self-driving platforms based on NVIDIA DRIVE Orin SoC with a number of new energy vehicle makers.
+
+6. [NVDA_Q2_2024] [UNCERTAIN] The Ada architecture ramp drove strong growth in Q2, rolling out initially in laptop workstations, with a refresh of desktop workstations coming in Q3.
+
+7. [NVDA_Q2_2024] [UNCERTAIN] The GH200 Grace Hopper Superchip, which combines our Arm-based Grace CPU with Hopper GPU, entered full production and will be available this quarter in OEM servers.
+
+8. [NVDA_Q3_2024] [UNCERTAIN] And going forward, whether that's medium term or long term, it's just hard to say both the ideas of what we can produce with the U.S. government and with the interest of our China customers.
+
+9. [NVDA_Q3_2024] [SCALE ACHIEVED] Grace Hopper is in production in high-volume production now.
+
+10. [NVDA_Q3_2024] [UNCERTAIN] Grace and Grace Hopper are in full production and ramping into a new multibillion-dollar product line next year, irrespective of the CPU choice.
+
+11. [NVDA_Q3_2024] [UNCERTAIN] Revenue was $261 million, up 3% sequentially and up 4% year on year, primarily driven by continued growth in self-driving platforms based on NVIDIA drive or an SoC and the ramp of AI cockpit solutions with global OEM customers.
+
+12. [NVDA_Q3_2024] [UNCERTAIN] Starting with data center, the continued ramp of the NVIDIA HGX platform based on our Hopper Tensor Core GPU architecture, along with InfiniBand end-to-end networking drove record revenue of $14.5 billion, up 41% sequentially and up 279% year on year.
+
+13. [NVDA_Q1_2025] [UNCERTAIN] And the CSPs, the data centers, the ODMs, the system makers, our supply chain; beyond them, the cooling supply chain base, liquid cooling supply chain base, data center supply chain base, no one is going to be surprised with Blackwell coming and the capabilities that we would like to deliver with Grace Blackwell 200.
+
+14. [NVDA_Q1_2025] [UNCERTAIN] Blackwell will be available in over 100 OEM and ODM systems at launch, more than double the number of Hoppers launched and representing every major computer maker in the world.
+
+15. [NVDA_Q1_2025] [UNCERTAIN] Companies and countries are partnering with NVIDIA to shift the trillion-dollar installed base of traditional data centers to accelerated computing and build a new type of data center, AI factories, to produce a new commodity, artificial intelligence.
+
+16. [NVDA_Q2_2025] [UNCERTAIN] Blackwell production ramp is scheduled to begin in the fourth quarter and continue into fiscal year '26.
+
+17. [NVDA_Q2_2025] [UNCERTAIN] GAAP gross margins were 75.1% and non-GAAP gross margins were 75.7%, down sequentially due to a higher mix of new products within Data Center and inventory provisions for low-yielding Blackwell material.
+
+18. [NVDA_Q2_2025] [UNCERTAIN] It's affecting how every layer of computing is done from CPU to GPU, from human-engineered algorithms to machine-learned algorithms, and the type of applications you could now develop and produce is fundamentally remarkable.
+
+19. [NVDA_Q2_2025] [PLAN] The world's largest electronics manufacturer, Foxconn, is using NVIDIA Omniverse to power digital twins of the physical plants that produce NVIDIA Blackwell systems.
+
+20. [NVDA_Q2_2025] [PLAN] We expect Blackwell production ramp in Q4.
+
+21. [NVDA_Q3_2025] [UNCERTAIN] And we're now producing a new type of capability the world's never known, a new market segment that the world's never had.
+
+22. [NVDA_Q3_2025] [UNCERTAIN] Blackwell production is in full steam.
+
+23. [NVDA_Q3_2025] [UNCERTAIN] Last week, Blackwell made its debut on the most recent round of MLPerf training results, sweeping the per GPU benchmarks and delivering a 2.2x leap in performance over Hopper.
+
+24. [NVDA_Q3_2025] [UNCERTAIN] The $1 trillion installed base of traditional data center infrastructure is being rebuilt for Software 2.0, which applies machine learning to produce AI.
+
+25. [NVDA_Q3_2025] [PLAN] Total revenue is expected to be $37.5 billion, plus or minus 2%, which incorporates continued demand for Hopper architecture and the initial ramp of our Blackwell products.
+
+26. [NVDA_Q4_2025] [UNCERTAIN] 1.5 million components produced across 350 manufacturing sites by nearly 100,000 factory operators.
+
+27. [NVDA_Q4_2025] [SCALE ACHIEVED] And we successfully and incredibly ramped up Grace Blackwell, delivering some $11 billion of revenues last quarter.
+
+28. [NVDA_Q4_2025] [UNCERTAIN] Blackwell production is in full-year across multiple configurations, and we are increasing supply quickly expanding customer adoption.
+
+29. [NVDA_Q4_2025] [UNCERTAIN] In the fourth quarter, Data Center revenue of $35.6 billion was a record, up 16% sequentially and 93% year on year as the Blackwell ramp commenced and Hopper 200 continued sequential growth.
+
+30. [NVDA_Q4_2025] [UNCERTAIN] We delivered $11 billion of Blackwell revenue to meet strong demand.
+
+Total timeline entries: 30 (30 after grouping repeats)
+
+DocuLens v2.7.169 · by Luciano Rahal

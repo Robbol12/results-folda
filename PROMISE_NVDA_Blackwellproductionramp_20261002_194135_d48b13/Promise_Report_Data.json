@@ -1,0 +1,662 @@
+[
+  {
+    "promise_id": "093023c476395150",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q1_2024",
+    "target_period": null,
+    "promise_text": "And then that gets connected to InfiniBand, which includes the NIC and the SmartNIC, BlueField-3 that we're in full production with and the switches.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "And then that gets connected to InfiniBand, which includes the NIC and the SmartNIC, BlueField-3 that we're in full production with and the switches."
+    ],
+    "source_labels": [
+      "NVDA_Q1_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "e596ab69909259ff",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q1_2024",
+    "target_period": null,
+    "promise_text": "BlueField-3 is in production and has been adopted by multiple hyperscale and CSP customers, including Microsoft Azure, Oracle Cloud, CoreWeave, Baidu, and others.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "BlueField-3 is in production and has been adopted by multiple hyperscale and CSP customers, including Microsoft Azure, Oracle Cloud, CoreWeave, Baidu, and others."
+    ],
+    "source_labels": [
+      "NVDA_Q1_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "66fdaaf887281f68",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q1_2024",
+    "target_period": null,
+    "promise_text": "Our new design win will extend BYD's use of the DRIVE Orin to its next-generation, high-volume Dynasty and Ocean series of vehicles set to start production in calendar 2024.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "Our new design win will extend BYD's use of the DRIVE Orin to its next-generation, high-volume Dynasty and Ocean series of vehicles set to start production in calendar 2024."
+    ],
+    "source_labels": [
+      "NVDA_Q1_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "a315370b07da7202",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q2_2024",
+    "target_period": null,
+    "promise_text": "Our supply over the next several quarters will continue to ramp as we lower cycle times and work with our supply partners to add capacity.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "Our supply over the next several quarters will continue to ramp as we lower cycle times and work with our supply partners to add capacity."
+    ],
+    "source_labels": [
+      "NVDA_Q2_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "e444dbf7718e50a1",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q2_2024",
+    "target_period": null,
+    "promise_text": "Solid year-on-year growth was driven by the ramp of self-driving platforms based on NVIDIA DRIVE Orin SoC with a number of new energy vehicle makers.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "Solid year-on-year growth was driven by the ramp of self-driving platforms based on NVIDIA DRIVE Orin SoC with a number of new energy vehicle makers."
+    ],
+    "source_labels": [
+      "NVDA_Q2_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "eb730e87f663c196",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q2_2024",
+    "target_period": null,
+    "promise_text": "The Ada architecture ramp drove strong growth in Q2, rolling out initially in laptop workstations, with a refresh of desktop workstations coming in Q3.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "The Ada architecture ramp drove strong growth in Q2, rolling out initially in laptop workstations, with a refresh of desktop workstations coming in Q3."
+    ],
+    "source_labels": [
+      "NVDA_Q2_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "b02129c24c2deba0",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q2_2024",
+    "target_period": null,
+    "promise_text": "The GH200 Grace Hopper Superchip, which combines our Arm-based Grace CPU with Hopper GPU, entered full production and will be available this quarter in OEM servers.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "The GH200 Grace Hopper Superchip, which combines our Arm-based Grace CPU with Hopper GPU, entered full production and will be available this quarter in OEM servers."
+    ],
+    "source_labels": [
+      "NVDA_Q2_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "3887000e31a5a7fe",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q3_2024",
+    "target_period": null,
+    "promise_text": "And going forward, whether that's medium term or long term, it's just hard to say both the ideas of what we can produce with the U.S. government and with the interest of our China customers.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "And going forward, whether that's medium term or long term, it's just hard to say both the ideas of what we can produce with the U.S. government and with the interest of our China customers."
+    ],
+    "source_labels": [
+      "NVDA_Q3_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "a0fd85b227cfc2b5",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q3_2024",
+    "target_period": null,
+    "promise_text": "Grace Hopper is in production in high-volume production now.",
+    "promise_type": "status_update",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "scale achieved",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "Grace Hopper is in production in high-volume production now."
+    ],
+    "source_labels": [
+      "NVDA_Q3_2024"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "f07c1d8561110329",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q3_2024",
+    "target_period": null,
+    "promise_text": "Grace and Grace Hopper are in full production and ramping into a new multibillion-dollar product line next year, irrespective of the CPU choice.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "Grace and Grace Hopper are in full production and ramping into a new multibillion-dollar product line next year, irrespective of the CPU choice."
+    ],
+    "source_labels": [
+      "NVDA_Q3_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "14e4a4203c2851ca",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q3_2024",
+    "target_period": null,
+    "promise_text": "Revenue was $261 million, up 3% sequentially and up 4% year on year, primarily driven by continued growth in self-driving platforms based on NVIDIA drive or an SoC and the ramp of AI cockpit solutions with global OEM customers.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "Revenue was $261 million, up 3% sequentially and up 4% year on year, primarily driven by continued growth in self-driving platforms based on NVIDIA drive or an SoC and the ramp of AI cockpit solutions with global OEM customers."
+    ],
+    "source_labels": [
+      "NVDA_Q3_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "5436617b4d0c4e04",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q3_2024",
+    "target_period": null,
+    "promise_text": "Starting with data center, the continued ramp of the NVIDIA HGX platform based on our Hopper Tensor Core GPU architecture, along with InfiniBand end-to-end networking drove record revenue of $14.5 billion, up 41% sequentially and up 279% year on year.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "Starting with data center, the continued ramp of the NVIDIA HGX platform based on our Hopper Tensor Core GPU architecture, along with InfiniBand end-to-end networking drove record revenue of $14.5 billion, up 41% sequentially and up 279% year on year."
+    ],
+    "source_labels": [
+      "NVDA_Q3_2024"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "330174b6a2568f3b",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q1_2025",
+    "target_period": null,
+    "promise_text": "And the CSPs, the data centers, the ODMs, the system makers, our supply chain; beyond them, the cooling supply chain base, liquid cooling supply chain base, data center supply chain base, no one is going to be surprised with Blackwell coming and the capabilities that we would like to deliver with Grace Blackwell 200.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "And the CSPs, the data centers, the ODMs, the system makers, our supply chain; beyond them, the cooling supply chain base, liquid cooling supply chain base, data center supply chain base, no one is going to be surprised with Blackwell coming and the capabilities that we would like to deliver with Grace Blackwell 200."
+    ],
+    "source_labels": [
+      "NVDA_Q1_2025"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "5dd3b40ef74bc66a",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q1_2025",
+    "target_period": null,
+    "promise_text": "Blackwell will be available in over 100 OEM and ODM systems at launch, more than double the number of Hoppers launched and representing every major computer maker in the world.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "Blackwell will be available in over 100 OEM and ODM systems at launch, more than double the number of Hoppers launched and representing every major computer maker in the world."
+    ],
+    "source_labels": [
+      "NVDA_Q1_2025"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "186bc7e426fe4b11",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q1_2025",
+    "target_period": null,
+    "promise_text": "Companies and countries are partnering with NVIDIA to shift the trillion-dollar installed base of traditional data centers to accelerated computing and build a new type of data center, AI factories, to produce a new commodity, artificial intelligence.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "Companies and countries are partnering with NVIDIA to shift the trillion-dollar installed base of traditional data centers to accelerated computing and build a new type of data center, AI factories, to produce a new commodity, artificial intelligence."
+    ],
+    "source_labels": [
+      "NVDA_Q1_2025"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "64b5e172b1fcb9f1",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q2_2025",
+    "target_period": null,
+    "promise_text": "Blackwell production ramp is scheduled to begin in the fourth quarter and continue into fiscal year '26.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "Blackwell production ramp is scheduled to begin in the fourth quarter and continue into fiscal year '26."
+    ],
+    "source_labels": [
+      "NVDA_Q2_2025"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "77b424ce63cfeadb",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q2_2025",
+    "target_period": null,
+    "promise_text": "GAAP gross margins were 75.1% and non-GAAP gross margins were 75.7%, down sequentially due to a higher mix of new products within Data Center and inventory provisions for low-yielding Blackwell material.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "GAAP gross margins were 75.1% and non-GAAP gross margins were 75.7%, down sequentially due to a higher mix of new products within Data Center and inventory provisions for low-yielding Blackwell material."
+    ],
+    "source_labels": [
+      "NVDA_Q2_2025"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "34c650594ad4b9c1",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q2_2025",
+    "target_period": null,
+    "promise_text": "It's affecting how every layer of computing is done from CPU to GPU, from human-engineered algorithms to machine-learned algorithms, and the type of applications you could now develop and produce is fundamentally remarkable.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "It's affecting how every layer of computing is done from CPU to GPU, from human-engineered algorithms to machine-learned algorithms, and the type of applications you could now develop and produce is fundamentally remarkable."
+    ],
+    "source_labels": [
+      "NVDA_Q2_2025"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "1282e709efae443d",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q2_2025",
+    "target_period": null,
+    "promise_text": "The world's largest electronics manufacturer, Foxconn, is using NVIDIA Omniverse to power digital twins of the physical plants that produce NVIDIA Blackwell systems.",
+    "promise_type": "plan",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "plan",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "The world's largest electronics manufacturer, Foxconn, is using NVIDIA Omniverse to power digital twins of the physical plants that produce NVIDIA Blackwell systems."
+    ],
+    "source_labels": [
+      "NVDA_Q2_2025"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "a2ffebafed71a6a0",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q2_2025",
+    "target_period": null,
+    "promise_text": "We expect Blackwell production ramp in Q4.",
+    "promise_type": "plan",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "plan",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "We expect Blackwell production ramp in Q4."
+    ],
+    "source_labels": [
+      "NVDA_Q2_2025"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "7dab7288b7964a48",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q3_2025",
+    "target_period": null,
+    "promise_text": "And we're now producing a new type of capability the world's never known, a new market segment that the world's never had.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "And we're now producing a new type of capability the world's never known, a new market segment that the world's never had."
+    ],
+    "source_labels": [
+      "NVDA_Q3_2025"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "08caab9cb5685958",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q3_2025",
+    "target_period": null,
+    "promise_text": "Blackwell production is in full steam.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "Blackwell production is in full steam."
+    ],
+    "source_labels": [
+      "NVDA_Q3_2025"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "556acc1f18b51a60",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q3_2025",
+    "target_period": null,
+    "promise_text": "Last week, Blackwell made its debut on the most recent round of MLPerf training results, sweeping the per GPU benchmarks and delivering a 2.2x leap in performance over Hopper.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "Last week, Blackwell made its debut on the most recent round of MLPerf training results, sweeping the per GPU benchmarks and delivering a 2.2x leap in performance over Hopper."
+    ],
+    "source_labels": [
+      "NVDA_Q3_2025"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "bec6616eef204aba",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q3_2025",
+    "target_period": null,
+    "promise_text": "The $1 trillion installed base of traditional data center infrastructure is being rebuilt for Software 2.0, which applies machine learning to produce AI.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "The $1 trillion installed base of traditional data center infrastructure is being rebuilt for Software 2.0, which applies machine learning to produce AI."
+    ],
+    "source_labels": [
+      "NVDA_Q3_2025"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "1e933e60323f5833",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q3_2025",
+    "target_period": null,
+    "promise_text": "Total revenue is expected to be $37.5 billion, plus or minus 2%, which incorporates continued demand for Hopper architecture and the initial ramp of our Blackwell products.",
+    "promise_type": "plan",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "plan",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "Total revenue is expected to be $37.5 billion, plus or minus 2%, which incorporates continued demand for Hopper architecture and the initial ramp of our Blackwell products."
+    ],
+    "source_labels": [
+      "NVDA_Q3_2025"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "d61eebcc45fcfbd2",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q4_2025",
+    "target_period": null,
+    "promise_text": "1.5 million components produced across 350 manufacturing sites by nearly 100,000 factory operators.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "1.5 million components produced across 350 manufacturing sites by nearly 100,000 factory operators."
+    ],
+    "source_labels": [
+      "NVDA_Q4_2025"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "b2e5c48bde768b94",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q4_2025",
+    "target_period": null,
+    "promise_text": "And we successfully and incredibly ramped up Grace Blackwell, delivering some $11 billion of revenues last quarter.",
+    "promise_type": "status_update",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "scale achieved",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "And we successfully and incredibly ramped up Grace Blackwell, delivering some $11 billion of revenues last quarter."
+    ],
+    "source_labels": [
+      "NVDA_Q4_2025"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "d94ca5c6dbfe07f2",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q4_2025",
+    "target_period": null,
+    "promise_text": "Blackwell production is in full-year across multiple configurations, and we are increasing supply quickly expanding customer adoption.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "Blackwell production is in full-year across multiple configurations, and we are increasing supply quickly expanding customer adoption."
+    ],
+    "source_labels": [
+      "NVDA_Q4_2025"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "7524934258cefe18",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q4_2025",
+    "target_period": null,
+    "promise_text": "In the fourth quarter, Data Center revenue of $35.6 billion was a record, up 16% sequentially and 93% year on year as the Blackwell ramp commenced and Hopper 200 continued sequential growth.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "In the fourth quarter, Data Center revenue of $35.6 billion was a record, up 16% sequentially and 93% year on year as the Blackwell ramp commenced and Hopper 200 continued sequential growth."
+    ],
+    "source_labels": [
+      "NVDA_Q4_2025"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "df97d31e61da9292",
+    "ticker": "NVDA",
+    "topic": "Blackwell production ramp",
+    "original_quarter": "NVDA_Q4_2025",
+    "target_period": null,
+    "promise_text": "We delivered $11 billion of Blackwell revenue to meet strong demand.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "We delivered $11 billion of Blackwell revenue to meet strong demand."
+    ],
+    "source_labels": [
+      "NVDA_Q4_2025"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  }
+]
