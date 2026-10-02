@@ -1,0 +1,40 @@
+[
+  {
+    "topic": "hydrogen fuel-cell passenger-car launch",
+    "previous_quarter": "TSLA_Q3_2025",
+    "current_quarter": "TSLA_Q4_2025",
+    "change_type": "current_quarter_only",
+    "previous_value": null,
+    "current_value": null,
+    "previous_quote": null,
+    "current_quote": "We didn't used to have car factories.",
+    "context": "Vaibhav Taneja: But we do hard things. We do a lot of hard things. We didn't used to have car factories. Elon Musk: Or we didn't used to have battery cell factories or lithium refineries or MegaPack factories or all these other things. We figured it out.",
+    "confidence": "low",
+    "source_labels": [
+      "TSLA_Q4_2025"
+    ],
+    "source_urls_by_label": {
+      "TSLA_Q4_2025": "transcript_tsla-q4-2025.html"
+    },
+    "explanation": "Structured evidence row; narrative interpretation is kept separately."
+  },
+  {
+    "topic": "hydrogen fuel-cell passenger-car launch",
+    "previous_quarter": "TSLA_Q3_2025",
+    "current_quarter": "TSLA_Q4_2025",
+    "change_type": "current_quarter_only",
+    "previous_value": null,
+    "current_value": null,
+    "previous_quote": null,
+    "current_quote": "Elon Musk: Or we didn't used to have battery cell factories or lithium refineries or MegaPack factories or all these other things.",
+    "context": "We do a lot of hard things. We didn't used to have car factories. Elon Musk: Or we didn't used to have battery cell factories or lithium refineries or MegaPack factories or all these other things. We figured it out. I think if we don't do the Tesla, Inc. TerraFab, we're going to be limited by supplier output of chips.",
+    "confidence": "low",
+    "source_labels": [
+      "TSLA_Q4_2025"
+    ],
+    "source_urls_by_label": {
+      "TSLA_Q4_2025": "transcript_tsla-q4-2025.html"
+    },
+    "explanation": "Structured evidence row; narrative interpretation is kept separately."
+  }
+]
