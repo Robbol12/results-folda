@@ -1,0 +1,662 @@
+[
+  {
+    "promise_id": "2260c7a855c4ab70",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q1_2021",
+    "target_period": null,
+    "promise_text": "And basically, this is just a guess because we don’t know for sure, but it appears as though we are about 12, probably, not more than 18 months away from volume production of the 4680.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "And basically, this is just a guess because we don’t know for sure, but it appears as though we are about 12, probably, not more than 18 months away from volume production of the 4680."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2021"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "48f61aaff0838231",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q1_2021",
+    "target_period": null,
+    "promise_text": "But overall, I think, we still feel quite optimistic about achieving volume production of the 4680 next year.",
+    "promise_type": "plan",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "plan",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "But overall, I think, we still feel quite optimistic about achieving volume production of the 4680 next year."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2021"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "da8466836f2688d4",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q2_2021",
+    "target_period": null,
+    "promise_text": "We're also aiming to do a structural pack with 4680 cells, which is a mass reduction and a cost reduction, but we're not counting on that as the only way to make things work.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "We're also aiming to do a structural pack with 4680 cells, which is a mass reduction and a cost reduction, but we're not counting on that as the only way to make things work."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2021"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "b0e2028fbb5701d6",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q4_2021",
+    "target_period": null,
+    "promise_text": "So, in Texas, we're building the Model Ys with the structural battery pack and the 4680 cells, and we’ll start delivering after final certification of the vehicle, which should be fairly soon.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "So, in Texas, we're building the Model Ys with the structural battery pack and the 4680 cells, and we’ll start delivering after final certification of the vehicle, which should be fairly soon."
+    ],
+    "source_labels": [
+      "TSLA_Q4_2021"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "d8949c8825a0a3dc",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q4_2021",
+    "target_period": null,
+    "promise_text": "And we believe our first 4680 vehicles will be delivered this quarter.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "And we believe our first 4680 vehicles will be delivered this quarter."
+    ],
+    "source_labels": [
+      "TSLA_Q4_2021"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "00eefd540f3a0d41",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q4_2021",
+    "target_period": null,
+    "promise_text": "As we sit today, sales from suppliers is actually -- it sort of exceeds our other factory-limiting constraints that you mentioned, Elon, in 2022 or to say differently, 4680 cells are not a constraint to our 2022 volume plans, based on the information we have.",
+    "promise_type": "plan",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "plan",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "As we sit today, sales from suppliers is actually -- it sort of exceeds our other factory-limiting constraints that you mentioned, Elon, in 2022 or to say differently, 4680 cells are not a constraint to our 2022 volume plans, based on the information we have."
+    ],
+    "source_labels": [
+      "TSLA_Q4_2021"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "39477b719521c275",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q1_2022",
+    "target_period": null,
+    "promise_text": "Elon Musk I think maybe, in a nutshell, I think it probably is fair to say that 4680 and structural pack will be competitive with the best alternatives later this year.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "Elon Musk I think maybe, in a nutshell, I think it probably is fair to say that 4680 and structural pack will be competitive with the best alternatives later this year."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2022"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "b13b6acb48479e05",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q1_2022",
+    "target_period": null,
+    "promise_text": "They will transition to 4680 hopefully later this year, but current billing production does not to require that.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "They will transition to 4680 hopefully later this year, but current billing production does not to require that."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2022"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "88712bfe5e4c1305",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q1_2022",
+    "target_period": null,
+    "promise_text": "But -- if things go according to plan, we will be in volume production with 4680 sometime perhaps towards the end of the third quarter and certainly in the fourth quarter.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "But -- if things go according to plan, we will be in volume production with 4680 sometime perhaps towards the end of the third quarter and certainly in the fourth quarter."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2022"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "f7de11e8282ef851",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q1_2022",
+    "target_period": null,
+    "promise_text": "So, that gives us the ability to be pretty deliberate in the 4680 ramp where we can maximize learning step by step, take engineering downtime to upgrade key pieces of equipment and modify the structural pack design to improve reliability, all while achieving what you just said, so.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "So, that gives us the ability to be pretty deliberate in the 4680 ramp where we can maximize learning step by step, take engineering downtime to upgrade key pieces of equipment and modify the structural pack design to improve reliability, all while achieving what you just said, so."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2022"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "18c5048835ead885",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q1_2022",
+    "target_period": null,
+    "promise_text": "4680 output is not a risk to achieving 1.5 million vehicles produced this year, but it would become a risk next year if we do not solve volume production by early 2023, but we’re highly confident of doing so.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "4680 output is not a risk to achieving 1.5 million vehicles produced this year, but it would become a risk next year if we do not solve volume production by early 2023, but we’re highly confident of doing so."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2022"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "c554273fd51b4e6d",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q2_2022",
+    "target_period": null,
+    "promise_text": "To be clear, we are currently making the cars with the 2170 cells and Drew Baglino will address some of the 4680 questions later in this call.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "To be clear, we are currently making the cars with the 2170 cells and Drew Baglino will address some of the 4680 questions later in this call."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2022"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "1d1a1613849eb231",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q2_2022",
+    "target_period": null,
+    "promise_text": "So we are not dependent on 4680.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "So we are not dependent on 4680."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2022"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "ea04384de778eb0b",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q2_2022",
+    "target_period": null,
+    "promise_text": "4680 will be important next year but it is not important for this year.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "4680 will be important next year but it is not important for this year."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2022"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "3d551d4602e13ff4",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q2_2022",
+    "target_period": null,
+    "promise_text": "We expect to ramp total 4680 production to exceed 1,000 per week by the end of the year, hopefully before – well before.",
+    "promise_type": "plan",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "plan",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "We expect to ramp total 4680 production to exceed 1,000 per week by the end of the year, hopefully before – well before."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2022"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "681e368344cf1df0",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q3_2022",
+    "target_period": null,
+    "promise_text": "We also have our second generation of manufacturing equipment for 4680 cells in Texas, which continues to show great progress along with our original pilot line in Fremont.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "We also have our second generation of manufacturing equipment for 4680 cells in Texas, which continues to show great progress along with our original pilot line in Fremont."
+    ],
+    "source_labels": [
+      "TSLA_Q3_2022"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "d2d9dfdeb63f811f",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q4_2022",
+    "target_period": null,
+    "promise_text": "First, I just want to say congrats and thanks to the Tesla 4680 team for achieving 1,000 a week in Q4.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "First, I just want to say congrats and thanks to the Tesla 4680 team for achieving 1,000 a week in Q4."
+    ],
+    "source_labels": [
+      "TSLA_Q4_2022"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "45a9876f78d386bb",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q4_2022",
+    "target_period": null,
+    "promise_text": "Really, our 2023 goal as a 4680 team is to deliver a cost-effective ramp of 4680s well ahead of Cybertruck.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "Really, our 2023 goal as a 4680 team is to deliver a cost-effective ramp of 4680s well ahead of Cybertruck."
+    ],
+    "source_labels": [
+      "TSLA_Q4_2022"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "0a377d8ce86bd0c9",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q4_2022",
+    "target_period": null,
+    "promise_text": "Between two of those things, if we had achieved those key goals, we'll be well set up to -- for a major 4680 year in 2024.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "Between two of those things, if we had achieved those key goals, we'll be well set up to -- for a major 4680 year in 2024."
+    ],
+    "source_labels": [
+      "TSLA_Q4_2022"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "c3e79e5f6865bab2",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q4_2022",
+    "target_period": null,
+    "promise_text": "And we've got an amazing plan for making the 4680 cell low-cost and high energy density.",
+    "promise_type": "plan",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "plan",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "And we've got an amazing plan for making the 4680 cell low-cost and high energy density."
+    ],
+    "source_labels": [
+      "TSLA_Q4_2022"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "271fec72b29fc005",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q1_2023",
+    "target_period": null,
+    "promise_text": "And zooming out for the 4680 team, Q1 was all about cost and quality.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "And zooming out for the 4680 team, Q1 was all about cost and quality."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2023"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "35e56ad28b407520",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q1_2023",
+    "target_period": null,
+    "promise_text": "And going forward for the rest of the year, the priority, one, is yielding cost for the 4680 program as we steadily ramp production ahead of Cybertruck next year.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "And going forward for the rest of the year, the priority, one, is yielding cost for the 4680 program as we steadily ramp production ahead of Cybertruck next year."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2023"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "f309431accae6561",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q2_2023",
+    "target_period": null,
+    "promise_text": "So, in Texas, 4680 cell production increased 80% Q2 over Q1, and the team surpassed 10 million production cells produced here in Texas.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "So, in Texas, 4680 cell production increased 80% Q2 over Q1, and the team surpassed 10 million production cells produced here in Texas."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2023"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  },
+  {
+    "promise_id": "873864565bbd36ec",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q3_2023",
+    "target_period": null,
+    "promise_text": "Texas is now our primary 4680 facility.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "Texas is now our primary 4680 facility."
+    ],
+    "source_labels": [
+      "TSLA_Q3_2023"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "77360e5d62df82ef",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q4_2023",
+    "target_period": null,
+    "promise_text": "First, I just want to allay any concerns regarding 4680 limiting the Cybertruck ramp, because I've seen some people commenting about that.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "First, I just want to allay any concerns regarding 4680 limiting the Cybertruck ramp, because I've seen some people commenting about that."
+    ],
+    "source_labels": [
+      "TSLA_Q4_2023"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "e38e57cf1970b621",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q1_2024",
+    "target_period": null,
+    "promise_text": "4680 production increased about 18% to 20% from Q4 reaching greater than 1K a week for Cybertruck, which is about 7 gigawatt hours per year as we posted on X.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "4680 production increased about 18% to 20% from Q4 reaching greater than 1K a week for Cybertruck, which is about 7 gigawatt hours per year as we posted on X."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2024"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "85d6cd68f970deb5",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q2_2024",
+    "target_period": null,
+    "promise_text": "Lars Moravy Yes, 4680 production ramped strongly in Q2, delivering 51% more cells than Q1 while reducing COGS significantly.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "Lars Moravy Yes, 4680 production ramped strongly in Q2, delivering 51% more cells than Q1 while reducing COGS significantly."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2024"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "3574856597132622",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q2_2024",
+    "target_period": null,
+    "promise_text": "We're on track for production launch with dry cathode in Q4, and this will enable cell cost to be significantly below available alternatives, which was the original goal of the 4680 program.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "We're on track for production launch with dry cathode in Q4, and this will enable cell cost to be significantly below available alternatives, which was the original goal of the 4680 program."
+    ],
+    "source_labels": [
+      "TSLA_Q2_2024"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "53ae4b61554c1b19",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q3_2024",
+    "target_period": null,
+    "promise_text": "We plan to continue expanding our supercharging network, getting more OEMs on our network, 4680 that as Elon talked about, that would keep going.",
+    "promise_type": "uncertain",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "mention",
+    "status_confidence": "medium",
+    "supporting_quotes": [
+      "We plan to continue expanding our supercharging network, getting more OEMs on our network, 4680 that as Elon talked about, that would keep going."
+    ],
+    "source_labels": [
+      "TSLA_Q3_2024"
+    ],
+    "unresolved_reason": null
+  },
+  {
+    "promise_id": "0d0ce7b59dc498d0",
+    "ticker": "TSLA",
+    "topic": "4680 cell production",
+    "original_quarter": "TSLA_Q1_2025",
+    "target_period": null,
+    "promise_text": "We've been working very hard to expand battery cell production in the US, both with vendors and, what Bonnie mentioned earlier, with the 4680 program.",
+    "promise_type": "uncertain_commentary",
+    "target_value": null,
+    "target_unit": null,
+    "actual_value": null,
+    "actual_unit": null,
+    "status": "uncertain",
+    "status_confidence": "low",
+    "supporting_quotes": [
+      "We've been working very hard to expand battery cell production in the US, both with vendors and, what Bonnie mentioned earlier, with the 4680 program."
+    ],
+    "source_labels": [
+      "TSLA_Q1_2025"
+    ],
+    "unresolved_reason": "No explicit target or resolving actual extracted yet."
+  }
+]

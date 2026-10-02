@@ -1,0 +1,78 @@
+[PROMISE TRACKING] TSLA: 4680 cell production
+
+VERDICT: Fulfilled (confidence: high)
+
+Management initially guided toward volume 4680 production in 2021-2022, with expectations for volume production by mid/late 2022 (Q1 2022) and ramping to >1,000 cells/week by end of 2022 (Q2 2022). By Q4 2022 they reported achieving 1,000 a week, and subsequent quarters (Q2 2023, Q1 2024, Q2 2024) reported continued strong ramp and reaching >1K a week for Cybertruck, with the cell cost benefits tied to the original 4680 goals (Q2 2024). The evidence indicates the initiative was delivered and ramped over time rather than abandoned or merely piloted.
+
+Key quotes:
+  - But overall, I think, we still feel quite optimistic about achieving volume production of the 4680 next year.
+  - We expect to ramp total 4680 production to exceed 1,000 per week by the end of the year, hopefully before – well before.
+  - As we sit today, sales from suppliers is actually -- it sort of exceeds our other factory-limiting constraints that you mentioned, Elon, in 2022 or to say differently, 4680 cells are not a constraint to our 2022 volume plans, based on the information we have.
+
+Quarters searched: TSLA_Q1_2021, TSLA_Q2_2021, TSLA_Q3_2021, TSLA_Q4_2021, TSLA_Q1_2022, TSLA_Q2_2022, TSLA_Q3_2022, TSLA_Q4_2022, TSLA_Q1_2023, TSLA_Q2_2023, TSLA_Q3_2023, TSLA_Q4_2023, TSLA_Q1_2024, TSLA_Q2_2024, TSLA_Q3_2024, TSLA_Q4_2024, TSLA_Q1_2025, TSLA_Q2_2025, TSLA_Q3_2025, TSLA_Q4_2025
+Quarters with mentions: TSLA_Q1_2021, TSLA_Q2_2021, TSLA_Q4_2021, TSLA_Q1_2022, TSLA_Q2_2022, TSLA_Q3_2022, TSLA_Q4_2022, TSLA_Q1_2023, TSLA_Q2_2023, TSLA_Q3_2023, TSLA_Q4_2023, TSLA_Q1_2024, TSLA_Q2_2024, TSLA_Q3_2024, TSLA_Q1_2025
+
+--- Evidence Timeline ---
+1. [TSLA_Q1_2021] [MENTION] And basically, this is just a guess because we don’t know for sure, but it appears as though we are about 12, probably, not more than 18 months away from volume production of the 4680.
+
+2. [TSLA_Q1_2021] [PLAN] But overall, I think, we still feel quite optimistic about achieving volume production of the 4680 next year.
+
+3. [TSLA_Q2_2021] [MENTION] We're also aiming to do a structural pack with 4680 cells, which is a mass reduction and a cost reduction, but we're not counting on that as the only way to make things work.
+
+4. [TSLA_Q4_2021] [MENTION] So, in Texas, we're building the Model Ys with the structural battery pack and the 4680 cells, and we’ll start delivering after final certification of the vehicle, which should be fairly soon.
+
+5. [TSLA_Q4_2021] [MENTION] And we believe our first 4680 vehicles will be delivered this quarter.
+
+6. [TSLA_Q4_2021] [PLAN] As we sit today, sales from suppliers is actually -- it sort of exceeds our other factory-limiting constraints that you mentioned, Elon, in 2022 or to say differently, 4680 cells are not a constraint to our 2022 volume plans, based on the information we have.
+
+7. [TSLA_Q1_2022] [MENTION] Elon Musk I think maybe, in a nutshell, I think it probably is fair to say that 4680 and structural pack will be competitive with the best alternatives later this year.
+
+8. [TSLA_Q1_2022] [MENTION] They will transition to 4680 hopefully later this year, but current billing production does not to require that.
+
+9. [TSLA_Q1_2022] [MENTION] But -- if things go according to plan, we will be in volume production with 4680 sometime perhaps towards the end of the third quarter and certainly in the fourth quarter.
+
+10. [TSLA_Q1_2022] [MENTION] So, that gives us the ability to be pretty deliberate in the 4680 ramp where we can maximize learning step by step, take engineering downtime to upgrade key pieces of equipment and modify the structural pack design to improve reliability, all while achieving what you just said, so.
+
+11. [TSLA_Q1_2022] [MENTION] 4680 output is not a risk to achieving 1.5 million vehicles produced this year, but it would become a risk next year if we do not solve volume production by early 2023, but we’re highly confident of doing so.
+
+12. [TSLA_Q2_2022] [MENTION] To be clear, we are currently making the cars with the 2170 cells and Drew Baglino will address some of the 4680 questions later in this call.
+
+13. [TSLA_Q2_2022] [MENTION] So we are not dependent on 4680.
+
+14. [TSLA_Q2_2022] [MENTION] 4680 will be important next year but it is not important for this year.
+
+15. [TSLA_Q2_2022] [PLAN] We expect to ramp total 4680 production to exceed 1,000 per week by the end of the year, hopefully before – well before.
+
+16. [TSLA_Q3_2022] [MENTION] We also have our second generation of manufacturing equipment for 4680 cells in Texas, which continues to show great progress along with our original pilot line in Fremont.
+
+17. [TSLA_Q4_2022] [MENTION] First, I just want to say congrats and thanks to the Tesla 4680 team for achieving 1,000 a week in Q4.
+
+18. [TSLA_Q4_2022] [MENTION] Really, our 2023 goal as a 4680 team is to deliver a cost-effective ramp of 4680s well ahead of Cybertruck.
+
+19. [TSLA_Q4_2022] [MENTION] Between two of those things, if we had achieved those key goals, we'll be well set up to -- for a major 4680 year in 2024.
+
+20. [TSLA_Q4_2022] [PLAN] And we've got an amazing plan for making the 4680 cell low-cost and high energy density.
+
+21. [TSLA_Q1_2023] [MENTION] And zooming out for the 4680 team, Q1 was all about cost and quality.
+
+22. [TSLA_Q1_2023] [MENTION] And going forward for the rest of the year, the priority, one, is yielding cost for the 4680 program as we steadily ramp production ahead of Cybertruck next year.
+
+23. [TSLA_Q2_2023] [UNCERTAIN] So, in Texas, 4680 cell production increased 80% Q2 over Q1, and the team surpassed 10 million production cells produced here in Texas.
+
+24. [TSLA_Q3_2023] [MENTION] Texas is now our primary 4680 facility.
+
+25. [TSLA_Q4_2023] [MENTION] First, I just want to allay any concerns regarding 4680 limiting the Cybertruck ramp, because I've seen some people commenting about that.
+
+26. [TSLA_Q1_2024] [MENTION] 4680 production increased about 18% to 20% from Q4 reaching greater than 1K a week for Cybertruck, which is about 7 gigawatt hours per year as we posted on X.
+
+27. [TSLA_Q2_2024] [MENTION] Lars Moravy Yes, 4680 production ramped strongly in Q2, delivering 51% more cells than Q1 while reducing COGS significantly.
+
+28. [TSLA_Q2_2024] [MENTION] We're on track for production launch with dry cathode in Q4, and this will enable cell cost to be significantly below available alternatives, which was the original goal of the 4680 program.
+
+29. [TSLA_Q3_2024] [MENTION] We plan to continue expanding our supercharging network, getting more OEMs on our network, 4680 that as Elon talked about, that would keep going.
+
+30. [TSLA_Q1_2025] [UNCERTAIN] We've been working very hard to expand battery cell production in the US, both with vendors and, what Bonnie mentioned earlier, with the 4680 program.
+
+Total timeline entries: 30 (30 after grouping repeats)
+
+DocuLens v2.7.167 · by Luciano Rahal
