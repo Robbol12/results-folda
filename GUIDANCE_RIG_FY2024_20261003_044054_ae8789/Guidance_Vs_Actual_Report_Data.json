@@ -1,0 +1,337 @@
+{
+  "report_version": "2.7.202",
+  "evidence_packets": [],
+  "schema_version": "doculens.company_guidance.v1",
+  "ticker": "RIG",
+  "anchor_year": 2024,
+  "coverage": {
+    "guidance_issue_years": [
+      2023,
+      2024
+    ],
+    "actual_target_years": [
+      2024,
+      2025
+    ],
+    "coverage_window": [
+      2023,
+      2025
+    ],
+    "transcripts_loaded": [],
+    "filings_loaded": [
+      "10-Q Q1 2023",
+      "10-Q Q2 2023",
+      "10-Q Q3 2023",
+      "10-K FY2023",
+      "10-Q Q1 2024",
+      "10-Q Q2 2024",
+      "10-Q Q3 2024",
+      "10-K FY2024",
+      "10-Q Q1 2025",
+      "10-Q Q2 2025",
+      "10-Q Q3 2025",
+      "10-K FY2025",
+      "8-K Q1 2022",
+      "8-K Q2 2022",
+      "8-K Q3 2022",
+      "8-K Q4 2022",
+      "8-K Q1 2023",
+      "8-K Q2 2023",
+      "8-K Q3 2023",
+      "8-K Q4 2023"
+    ],
+    "missing_transcript_periods": [
+      "RIG_Q1_2023",
+      "RIG_Q2_2023",
+      "RIG_Q3_2023",
+      "RIG_Q4_2023",
+      "RIG_Q1_2024",
+      "RIG_Q2_2024",
+      "RIG_Q3_2024",
+      "RIG_Q4_2024",
+      "RIG_Q1_2025",
+      "RIG_Q2_2025",
+      "RIG_Q3_2025",
+      "RIG_Q4_2025"
+    ],
+    "fallback_filing_labels": [
+      "8-K Q1 2022",
+      "8-K Q2 2022",
+      "8-K Q3 2022",
+      "8-K Q4 2022",
+      "8-K Q1 2023",
+      "8-K Q2 2023",
+      "8-K Q3 2023",
+      "8-K Q4 2023"
+    ],
+    "partial_local_corpus": true,
+    "coverage_state": "coverage exists but no assessable guidance was discovered",
+    "source_inventory": [
+      {
+        "source_label": "10-Q Q1 2023",
+        "source_type": "filing",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1451505/000145150523000060/rig-20230331x10q.htm"
+      },
+      {
+        "source_label": "10-Q Q2 2023",
+        "source_type": "filing",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1451505/000145150523000098/rig-20230630x10q.htm"
+      },
+      {
+        "source_label": "10-Q Q3 2023",
+        "source_type": "filing",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1451505/000145150523000127/rig-20230930x10q.htm"
+      },
+      {
+        "source_label": "10-K FY2023",
+        "source_type": "filing",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1451505/000145150524000015/rig-20231231x10k.htm"
+      },
+      {
+        "source_label": "10-Q Q1 2024",
+        "source_type": "filing",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1451505/000145150524000056/rig-20240331x10q.htm"
+      },
+      {
+        "source_label": "10-Q Q2 2024",
+        "source_type": "filing",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1451505/000145150524000114/rig-20240630x10q.htm"
+      },
+      {
+        "source_label": "10-Q Q3 2024",
+        "source_type": "filing",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1451505/000145150524000142/rig-20240930x10q.htm"
+      },
+      {
+        "source_label": "10-K FY2024",
+        "source_type": "filing",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1451505/000145150525000018/rig-20241231x10k.htm"
+      },
+      {
+        "source_label": "10-Q Q1 2025",
+        "source_type": "filing",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1451505/000145150525000049/rig-20250331x10q.htm"
+      },
+      {
+        "source_label": "10-Q Q2 2025",
+        "source_type": "filing",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1451505/000145150525000079/rig-20250630x10q.htm"
+      },
+      {
+        "source_label": "10-Q Q3 2025",
+        "source_type": "filing",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1451505/000145150525000123/rig-20250930x10q.htm"
+      },
+      {
+        "source_label": "10-K FY2025",
+        "source_type": "filing",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1451505/000145150526000018/rig-20251231x10k.htm"
+      },
+      {
+        "source_label": "8-K Q1 2022",
+        "source_type": "filing",
+        "source_url": null
+      },
+      {
+        "source_label": "8-K Q2 2022",
+        "source_type": "filing",
+        "source_url": null
+      },
+      {
+        "source_label": "8-K Q3 2022",
+        "source_type": "filing",
+        "source_url": null
+      },
+      {
+        "source_label": "8-K Q4 2022",
+        "source_type": "filing",
+        "source_url": null
+      },
+      {
+        "source_label": "8-K Q1 2023",
+        "source_type": "filing",
+        "source_url": null
+      },
+      {
+        "source_label": "8-K Q2 2023",
+        "source_type": "filing",
+        "source_url": null
+      },
+      {
+        "source_label": "8-K Q3 2023",
+        "source_type": "filing",
+        "source_url": null
+      },
+      {
+        "source_label": "8-K Q4 2023",
+        "source_type": "filing",
+        "source_url": "https://www.sec.gov/Archives/edgar/data/1451505/000145150524000006/rig-20240214xex99d1.htm"
+      }
+    ],
+    "inventory_counts": {
+      "guidance_candidates": 0,
+      "guidance_model_candidates": 0,
+      "actual_candidates": 415,
+      "actual_model_candidates": 415,
+      "xbrl_facts": 0,
+      "base_source_artifacts": 20
+    }
+  },
+  "summary": {
+    "guidance_count": 0,
+    "resolved_pair_count": 0,
+    "active_guidance_count": 0,
+    "active_resolved_pair_count": 0,
+    "out_of_cohort_count": 0,
+    "closed_verdict_count": 0,
+    "target_period_missing_count": 0,
+    "not_yet_due_count": 0,
+    "scored_count": 0,
+    "not_verifiable_count": 0,
+    "coverage_incomplete_count": 0,
+    "unresolved_count": 0,
+    "verdict_counts": {},
+    "category_counts": {},
+    "coverage_state": "coverage exists but no assessable guidance was discovered"
+  },
+  "comparisons": [],
+  "guidance": [],
+  "active_comparisons": [],
+  "out_of_cohort_comparisons": [],
+  "actuals": [],
+  "unpaired_guidance": [],
+  "unpaired_actuals": [],
+  "duplicate_guidance": [],
+  "source_inventory": [
+    {
+      "source_label": "10-Q Q1 2023",
+      "source_type": "filing",
+      "source_url": "filing_10-q-q1-2023.html"
+    },
+    {
+      "source_label": "10-Q Q2 2023",
+      "source_type": "filing",
+      "source_url": "filing_10-q-q2-2023.html"
+    },
+    {
+      "source_label": "10-Q Q3 2023",
+      "source_type": "filing",
+      "source_url": "filing_10-q-q3-2023.html"
+    },
+    {
+      "source_label": "10-K FY2023",
+      "source_type": "filing",
+      "source_url": "filing_10-k-fy2023.html"
+    },
+    {
+      "source_label": "10-Q Q1 2024",
+      "source_type": "filing",
+      "source_url": "filing_10-q-q1-2024.html"
+    },
+    {
+      "source_label": "10-Q Q2 2024",
+      "source_type": "filing",
+      "source_url": "filing_10-q-q2-2024.html"
+    },
+    {
+      "source_label": "10-Q Q3 2024",
+      "source_type": "filing",
+      "source_url": "filing_10-q-q3-2024.html"
+    },
+    {
+      "source_label": "10-K FY2024",
+      "source_type": "filing",
+      "source_url": "filing_10-k-fy2024.html"
+    },
+    {
+      "source_label": "10-Q Q1 2025",
+      "source_type": "filing",
+      "source_url": "filing_10-q-q1-2025.html"
+    },
+    {
+      "source_label": "10-Q Q2 2025",
+      "source_type": "filing",
+      "source_url": "filing_10-q-q2-2025.html"
+    },
+    {
+      "source_label": "10-Q Q3 2025",
+      "source_type": "filing",
+      "source_url": "filing_10-q-q3-2025.html"
+    },
+    {
+      "source_label": "10-K FY2025",
+      "source_type": "filing",
+      "source_url": "filing_10-k-fy2025.html"
+    },
+    {
+      "source_label": "8-K Q1 2022",
+      "source_type": "filing",
+      "source_url": "filing_8-k-q1-2022.html"
+    },
+    {
+      "source_label": "8-K Q2 2022",
+      "source_type": "filing",
+      "source_url": "filing_8-k-q2-2022.html"
+    },
+    {
+      "source_label": "8-K Q3 2022",
+      "source_type": "filing",
+      "source_url": "filing_8-k-q3-2022.html"
+    },
+    {
+      "source_label": "8-K Q4 2022",
+      "source_type": "filing",
+      "source_url": "filing_8-k-q4-2022.html"
+    },
+    {
+      "source_label": "8-K Q1 2023",
+      "source_type": "filing",
+      "source_url": "filing_8-k-q1-2023.html"
+    },
+    {
+      "source_label": "8-K Q2 2023",
+      "source_type": "filing",
+      "source_url": "filing_8-k-q2-2023.html"
+    },
+    {
+      "source_label": "8-K Q3 2023",
+      "source_type": "filing",
+      "source_url": "filing_8-k-q3-2023.html"
+    },
+    {
+      "source_label": "8-K Q4 2023",
+      "source_type": "filing",
+      "source_url": "filing_8-k-q4-2023.html"
+    }
+  ],
+  "viewer_sources": {
+    "filing_url_map": {
+      "10-Q Q1 2023": "filing_10-q-q1-2023.html",
+      "10-Q Q2 2023": "filing_10-q-q2-2023.html",
+      "10-Q Q3 2023": "filing_10-q-q3-2023.html",
+      "10-K FY2023": "filing_10-k-fy2023.html",
+      "10-Q Q1 2024": "filing_10-q-q1-2024.html",
+      "10-Q Q2 2024": "filing_10-q-q2-2024.html",
+      "10-Q Q3 2024": "filing_10-q-q3-2024.html",
+      "10-K FY2024": "filing_10-k-fy2024.html",
+      "10-Q Q1 2025": "filing_10-q-q1-2025.html",
+      "10-Q Q2 2025": "filing_10-q-q2-2025.html",
+      "10-Q Q3 2025": "filing_10-q-q3-2025.html",
+      "10-K FY2025": "filing_10-k-fy2025.html",
+      "8-K Q1 2022": "filing_8-k-q1-2022.html",
+      "8-K Q2 2022": "filing_8-k-q2-2022.html",
+      "8-K Q3 2022": "filing_8-k-q3-2022.html",
+      "8-K Q4 2022": "filing_8-k-q4-2022.html",
+      "8-K Q1 2023": "filing_8-k-q1-2023.html",
+      "8-K Q2 2023": "filing_8-k-q2-2023.html",
+      "8-K Q3 2023": "filing_8-k-q3-2023.html",
+      "8-K Q4 2023": "filing_8-k-q4-2023.html"
+    },
+    "transcript_url_map": {},
+    "linked_row_endpoints": 0,
+    "row_status_counts": {},
+    "filing_seconds": 20.276,
+    "transcript_seconds": 0.0,
+    "skip_keyword_explorer": true
+  }
+}

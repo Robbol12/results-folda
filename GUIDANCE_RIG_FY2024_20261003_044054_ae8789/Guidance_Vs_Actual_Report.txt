@@ -1,0 +1,32 @@
+[GUIDANCE VS ACTUAL] RIG: company-wide anchor year 2024
+
+Coverage window: [2023, 2025]
+Coverage state: coverage exists but no assessable guidance was discovered
+Summary: {"guidance_count": 0, "resolved_pair_count": 0, "active_guidance_count": 0, "active_resolved_pair_count": 0, "out_of_cohort_count": 0, "closed_verdict_count": 0, "target_period_missing_count": 0, "not_yet_due_count": 0, "scored_count": 0, "not_verifiable_count": 0, "coverage_incomplete_count": 0, "unresolved_count": 0, "verdict_counts": {}, "category_counts": {}, "coverage_state": "coverage exists but no assessable guidance was discovered"}
+
+--- Active cohort comparisons ---
+--- Unpaired actuals (showing 0 of 0; full ledger is in JSON/CSV) ---
+
+--- Source inventory ---
+[filing] 10-Q Q1 2023
+[filing] 10-Q Q2 2023
+[filing] 10-Q Q3 2023
+[filing] 10-K FY2023
+[filing] 10-Q Q1 2024
+[filing] 10-Q Q2 2024
+[filing] 10-Q Q3 2024
+[filing] 10-K FY2024
+[filing] 10-Q Q1 2025
+[filing] 10-Q Q2 2025
+[filing] 10-Q Q3 2025
+[filing] 10-K FY2025
+[filing] 8-K Q1 2022
+[filing] 8-K Q2 2022
+[filing] 8-K Q3 2022
+[filing] 8-K Q4 2022
+[filing] 8-K Q1 2023
+[filing] 8-K Q2 2023
+[filing] 8-K Q3 2023
+[filing] 8-K Q4 2023
+
+DocuLens v2.7.202 · by Luciano Rahal
