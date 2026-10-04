@@ -1,0 +1,75 @@
+[CORE RESEARCH] INTC: revenue
+
+Quarters searched: 0
+Filing sections searched: 4
+
+Across 2024, Intel’s revenue performance was mixed by segment but broadly flat-to-up on a year-over-year basis early in the year. In Q1 2024, total revenue was $12.7B, up $1.0B (+9%) from Q1 2023, driven by CCG (+31%) and DCAI (+5%), while NEX declined (-8%). In Q3 2024, management indicated revenue exceeded the August outlook by about $0.3B (and $13.3B revenue is shown in the same excerpt), despite weaker gross margin and substantial charge impacts elsewhere. By Q4/2024 totals, the filing excerpts show revenue of $17.5B down $1.4B from 2023 and “All other revenue” of $3.8B down $1.8B from 2023, consistent with ongoing decline in exited/legacy-related “Other” revenues.
+
+Forecasting credibility: High
+The guidance/actual pair count provided contains one explicit guidance/actual outcome: Q3 2024 revenue was $0.3B above the Aug outlook, and the excerpt is labeled “[Met]”. With one complete Met/Exceeded event and no Missed events in the provided set, forecasting credibility is assessed as High based strictly on the pair count evidence provided.
+
+Trends:
+  - Q1 total revenue up YoY (+9%) on CCG and DCAI growth
+  - NEX declined YoY in Q1 (-8%)
+  - “Other” revenue consistently down YoY, tied to exit of legacy businesses
+  - Q3 revenue slightly above outlook (~$0.3B above Aug outlook)
+  - 2024 revenue down vs. 2023 ($17.5B vs. prior-year level)
+
+Recurring themes/risks:
+  - Exit of legacy businesses weighing on “Other revenue”
+  - Segment-level divergence (CCG/DCAI strength vs. NEX/Other weakness)
+  - Revenue can outperform short-term outlook even while profitability is pressured
+
+Key concerns:
+  - The excerpts show conflicting/ambiguous revenue framing across periods (e.g., Q4 excerpt references “Operating Segment Revenue Summary 2024 vs. 2023” with revenue of $17.5B and “All other” of $3.8B, while earlier excerpts provide total revenue of $12.7B for Q1 and $13.3B for Q3), suggesting different definitions/buckets across excerpts rather than a single consistent revenue line item.
+  - The provided set does not include explicit Q2 guidance/actual figures, so directional inference for Q2 relies only on YoY comparisons (e.g., Desktop revenue up; Other revenue down), not on forecast accuracy.
+
+Conclusion:
+Revenue in early 2024 improved year-over-year: Q1 total revenue was $12.7B (+$1.0B, +9% vs. Q1 2023), supported by CCG (+31%) and DCAI (+5%) even as NEX fell (-8%). For Q3, revenue modestly beat management’s August outlook, with the excerpt stating revenue was “$0.3B above Aug outlook.” However, by the full-year 2024 comparison shown in the filing excerpts, revenue was $17.5B down $1.4B from 2023, and “All other revenue” was $3.8B down $1.8B from 2023—consistent with ongoing declines in legacy-related categories. Overall, the evidence shows early-year growth/momentum in parts of the portfolio, with structural weakness in “Other”/legacy businesses pulling down year-over-year totals, while short-term outlook can still be slightly exceeded.
+
+Evidence Coverage: 98.0% complete; 150/153 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Revenue: $12.72B | vs prior quarter: — | vs prior year: $11.71B (+8.6%)
+    - Cost of Revenue: $7.51B | vs prior quarter: — | vs prior year: $7.71B (-2.6%)
+    - 2 real filing table(s) available (see the HTML report).
+
+=== Q2 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Revenue: $12.83B | vs prior quarter: $12.72B (+0.9%) | vs prior year: $12.95B (-0.9%)
+    - Cost of Revenue: $8.29B | vs prior quarter: $7.51B (+10.4%) | vs prior year: $8.31B (-0.3%)
+    - 2 real filing table(s) available (see the HTML report).
+
+=== Q3 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Met] [Page 4] Executive Summary Revenue Exceeded, Profitability Impacted by Charges Made significant progress toward $10B cost reduction plan Recorded impairment charges of $15.9B and restructuring charges of $2.8B Launch of 18A Will Complete 5N4Y Intel 18A development progressing well with products launching in 2025 Several new external Intel 18A and advanced packaging design wins Driving the x86 Ecosystem Forward Established x86 Ecosystem Advisory Group with multiple industry leaders Launched Core Ultra 200v with leading AI performance and battery life [Page 5] 2024 2025 Non-GAAP R&D and MG&A 2024 2025 Gross Net (non-GAAP) >$10B Cost Reduction Plan Q3 Restructuring & Impairment Charges Manufacturing Asset Impairment Charges $3.1B Restructuring Charges Aligned to Cost Reduction Plan $2.8B Impairments for Goodwill (primarily MBLY) & Other Intangibles $2.9B Valuation Allowances for Deferred Tax Assets $9.9B Total Restructuring & Impairment Charges $18.5B Capital Spending* Gross: $25B ~$20.0B ~$17.5B Net: $11B Gross: $20-23B Net: $12-14B *Gross capital spending is GAAP additions to property, plant and equipment.
+  - [Observed] Prior Consensus INTC Guide GAAP + Non-GAAP Impairment GAAP Restructuring GAAP Impairment GAAP Impairment [Page 6] ▪ Achieved Intel 18A product & process milestones ▪ External 18A & advanced packaging design wins ▪ $3B US Gov’t Secure Enclave partnership ▪ Unlocking value of our core x86 franchise ▪ Continued leadership of AI PC category ▪ Xeon 6 improves DC CPU competitiveness [Page 7] Q3 Financial Highlights Down 6% YoY $0.3B above Aug outlook 1 18.0% Gross Margin 3 Down 27.8 ppt YoY 2 20 ppt below Aug outlook 1 $(0.46) EPS 4 Down $0.87 YoY 2 $0.43 below Aug outlook 1 $13.3B Revenue 1 Comparisons are based on the mid-point of revenue outlook 2 $3.0 billion in manufacturing asset impairment charges reduced Non -GAAP gross margin by ~23 ppt and EPS by ~$0.61 per share 3 GAAP gross margin 15%, down 27.5ppt YoY.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Revenue: $13.28B | vs prior quarter: $12.83B (+3.5%) | vs prior year: $14.16B (-6.2%)
+    - Cost of Revenue: $11.29B | vs prior quarter: $8.29B (+36.2%) | vs prior year: $8.14B (+38.7%)
+    - 2 real filing table(s) available (see the HTML report).
+
+=== Q4 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Revenue: $53.10B | vs prior quarter: — | vs prior year: $54.23B (-2.1%)
+    - Cost of Revenue: $35.76B | vs prior quarter: — | vs prior year: $32.52B (+10.0%)
+    - 3 real filing table(s) available (see the HTML report).
+
