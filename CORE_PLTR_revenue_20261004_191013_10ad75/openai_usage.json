@@ -1,0 +1,73 @@
+{
+  "request_id": "17326d37-9ae5-42f4-8e62-1786751fa492",
+  "used_tokens": 19720,
+  "reserved_tokens": 0,
+  "used_calls": 5,
+  "reserved_calls": 0,
+  "token_limit": 30000,
+  "call_limit": 32,
+  "blocked_reason": null,
+  "audit_schema_version": 1,
+  "calls": [
+    {
+      "sequence": 1,
+      "requested_model": "gpt-5.4-nano",
+      "message_count": 2,
+      "prompt_chars": 10142,
+      "prompt_sha256": "d9c4d4f0c2807fe4e5280c30ec5ebb8b76ab67360688ebce73d91a44d9986dd5",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 4816,
+      "status": "completed",
+      "routed_model": "gpt-5.4-nano",
+      "actual_tokens": 3413
+    },
+    {
+      "sequence": 2,
+      "requested_model": "gpt-5.4-nano",
+      "message_count": 2,
+      "prompt_chars": 12752,
+      "prompt_sha256": "1e42d234cfa7eac363b243849793e4a1862abea6452fdcbfcb554c079e676417",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 4639,
+      "status": "completed",
+      "routed_model": "gpt-5.4-nano",
+      "actual_tokens": 2707
+    },
+    {
+      "sequence": 3,
+      "requested_model": "gpt-5.4-nano",
+      "message_count": 2,
+      "prompt_chars": 16212,
+      "prompt_sha256": "26eb17b5b1a05e200b67ac554b074396dcb6c87be7f4f87c44ffdc8bc62ae3e0",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 5275,
+      "status": "completed",
+      "routed_model": "gpt-5.4-nano",
+      "actual_tokens": 3351
+    },
+    {
+      "sequence": 4,
+      "requested_model": "gpt-5.4-nano",
+      "message_count": 2,
+      "prompt_chars": 21086,
+      "prompt_sha256": "f7f3d71e174829b2e444697391ed59afaa05ab1e3192930ce33283c4178a1dc9",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 6104,
+      "status": "completed",
+      "routed_model": "gpt-5.4-nano",
+      "actual_tokens": 4222
+    },
+    {
+      "sequence": 5,
+      "requested_model": "gpt-5.4-nano",
+      "message_count": 2,
+      "prompt_chars": 31043,
+      "prompt_sha256": "8bfbc41126c14b6ec64b87719f84a7cfbe55ac4ac9f6355edfbc9dc2683232de",
+      "requested_output_tokens": 2048,
+      "estimated_tokens": 7862,
+      "status": "completed",
+      "routed_model": "gpt-5.4-nano",
+      "actual_tokens": 6027
+    }
+  ]
+}
