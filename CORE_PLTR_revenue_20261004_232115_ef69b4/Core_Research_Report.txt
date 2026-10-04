@@ -1,0 +1,329 @@
+[CORE RESEARCH] PLTR: revenue
+
+Quarters searched: 4
+Filing sections searched: 42
+
+AI synthesis was unavailable because the configured OpenAI request budget is exhausted. The evidence collected below remains available and was not discarded. Deterministic retrieval found 4 reporting period(s) with 10 guidance point(s), 37 actual result(s), and 109 filing excerpt(s) for 'revenue'. Review the period-by-period evidence below for the supported answer.
+
+Forecasting credibility: None
+AI synthesis was unavailable because the configured OpenAI request budget is exhausted. The evidence collected below remains available and was not discarded. No verified guidance/actual pairs were found, so forecasting credibility cannot be assessed.
+
+Conclusion:
+The evidence was collected successfully, but no AI-generated longitudinal conclusion is available for this run. The cited guidance, actuals, filing disclosures, and XBRL values below remain the authoritative answer surface.
+
+Evidence Coverage: 99.0% complete; 382/386 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2023 ===
+Management said:
+  - In the first quarter of 2023, commercial revenue grew 15% year over year and 10% sequentially to $236 million.
+  - For Q2 2023, we expect revenue of between $528 million and $532 million, adjusted income from operations of between $118 million and $122 million and GAAP net income.
+  - Our U.S. business generated $337 million in total revenue in the first quarter, up 23% year over year and 12% sequentially, demonstrating our continued momentum in the U.S. Revenue from our largest customers continues to expand.
+  - First quarter U.S. government revenue grew 22% year over year and 2% sequentially to $230 million.
+  - Our first quarter U.S. commercial revenue grew 26% year over year and 39% sequentially to $107 million.
+  - For full year 2023, we are raising our revenue guidance to between $2.185 billion and $2.235 billion.
+  - We expect second quarter revenue from these customers to be between $17 million and $19 million and to drop off significantly in the third and fourth quarter.
+  - We generated $525 million in revenue in the first quarter of 2023, up 18% year over year, $20 million ahead of the midpoint of our prior guidance.
+  - In Q1 2023, we generated $525 million in revenue.
+  - First quarter government revenue grew 20% year over year and declined 1% sequentially to $289 million.
+  - Our government business generated $289 million in revenue, driven in large part by our U.S. government business, which grew 22% year over year.
+  - Commercial revenue from our strategic commercial contracts surpassed first quarter expectations at $33 million due to the unanticipated acceleration of revenue from certain of these contracts.
+  - Excluding revenue from strategic commercial contracts, U.S. commercial revenue grew 46% year over year and 24% sequentially.
+  - Joining me on today's call are Alex Karp, chief executive officer; Shyam Sankar, chief technology officer; Dave Glazer, chief financial officer; and Ryan Taylor, chief revenue officer and chief legal officer.
+  - These strong results were driven primarily by the reacceleration of our U.S. commercial business, which surpassed the $100 million revenue threshold for the first time, with 26% year-over-year growth.
+  - First quarter trailing 12-month revenue per customer from our top 20 customers increased 14% year over year to $51 million per customer.
+  - In addition to the strength of our U.S. commercial revenue growth, our U.S. commercial customer count grew 50% year over year and 8% sequentially, marking the ninth consecutive quarter of sequential growth.
+  - The results were impacted in part due to a tough comparison to the prior quarter as a result of the timing of revenue recognition on certain contracts in the fourth quarter and the seasonal headwinds we often see in the first quarter with some of our largest international enterprise customers.
+  - First quarter international government revenue grew 11% year over year and declined 13% sequentially to $59 million.
+  - The sequential decline was driven by nonrecurring revenue catchup we saw in the fourth quarter, as well as some challenges with the timing of contract awards in the first quarter.
+  - These results demonstrate our ability to drive strong revenue growth while managing costs effectively, with first quarter adjusted expense up only 1% sequentially to $400 million.
+  - Additionally, our combined revenue growth and adjusted operating margin was 42% in the first quarter.
+  - If you want to exclude SPAC revenue, it grew over 45% and grew 24% sequentially.
+  - This quarter, you did have a pull forward of revenues that kind of helped the commercial business, helped the overall profitability.
+Guidance given:
+  - For Q2 2023, we expect revenue of between $528 million and $532 million, adjusted income from operations of between $118 million and $122 million and GAAP net income. (target: Q2 2023; Unresolved)
+  - For full year 2023, we are raising our revenue guidance to between $2.185 billion and $2.235 billion. (target: FY2023; Unresolved)
+  - We expect second quarter revenue from these customers to be between $17 million and $19 million and to drop off significantly in the third and fourth quarter. (target: Q2 2023; Unresolved)
+Actual reported:
+  - [Observed] In the first quarter of 2023, commercial revenue grew 15% year over year and 10% sequentially to $236 million.
+  - [Observed] Our U.S. business generated $337 million in total revenue in the first quarter, up 23% year over year and 12% sequentially, demonstrating our continued momentum in the U.S. Revenue from our largest customers continues to expand.
+  - [Observed] First quarter U.S. government revenue grew 22% year over year and 2% sequentially to $230 million.
+  - [Observed] Our first quarter U.S. commercial revenue grew 26% year over year and 39% sequentially to $107 million.
+  - [Observed] We generated $525 million in revenue in the first quarter of 2023, up 18% year over year, $20 million ahead of the midpoint of our prior guidance.
+  - [Observed] In Q1 2023, we generated $525 million in revenue.
+  - [Observed] First quarter government revenue grew 20% year over year and declined 1% sequentially to $289 million.
+  - [Observed] Our government business generated $289 million in revenue, driven in large part by our U.S. government business, which grew 22% year over year.
+  - [Observed] Commercial revenue from our strategic commercial contracts surpassed first quarter expectations at $33 million due to the unanticipated acceleration of revenue from certain of these contracts.
+  - [Observed] Excluding revenue from strategic commercial contracts, U.S. commercial revenue grew 46% year over year and 24% sequentially.
+  - [Observed] But despite that headwind and the difficult macroeconomic environment that the technology industry continues to face, our commercial business generated $236 million of revenue last quarter and achieved $176 million in TCV, a 70% year-over-year TCV increase.
+  - [Observed] These strong results were driven primarily by the reacceleration of our U.S. commercial business, which surpassed the $100 million revenue threshold for the first time, with 26% year-over-year growth.
+  - [Observed] First quarter trailing 12-month revenue per customer from our top 20 customers increased 14% year over year to $51 million per customer.
+  - [Observed] In addition to the strength of our U.S. commercial revenue growth, our U.S. commercial customer count grew 50% year over year and 8% sequentially, marking the ninth consecutive quarter of sequential growth.
+  - [Observed] First quarter international government revenue grew 11% year over year and declined 13% sequentially to $59 million.
+  - [Observed] If you want to exclude SPAC revenue, it grew over 45% and grew 24% sequentially.
+Filing disclosures (SEC):
+  [MD&A]
+    - Revenue is generally recognized ratably over the contract term.
+    - For the three months ended March 31, 2023, we generated $525.2 million in revenue, reflecting an 18% growth rate from the three months ended March 31, 2022, when we generated $446.4 million in revenue.
+    - Revenue from our U.S. customers during the trailing twelve months ended March 31, 2023 was $1.2 billion, which grew 28% from the prior twelve-month period.
+    - Our average revenue for the top twenty customers during the trailing twelve months ended March 31, 2023 was $50.9 million, which grew 14% from an average of $44.6 million in revenue from the top twenty customers during the trailing twelve months ended March 31, 2022, demonstrating our expanding relationships with existing customers.
+    - In the three months ended March 31, 2023, 55% of our revenue came from government customers and 45% came from commercial customers.
+    - In the three months ended March 31, 2023, we generated 64% of our revenue from customers in the United States and the remaining 36% from non-U.S. customers.
+  [Financial Statements]
+    - Revenue: $525.2M | vs prior quarter: — | vs prior year: $446.4M (+17.7%)
+    - Cost of Revenue: $107.6M | vs prior quarter: — | vs prior year: $94.4M (+14.0%)
+    - 7 real filing table(s) available (see the HTML report).
+    - Revenue of $ 192.4 million and $ 187.0 million was recognized during the three months ended March 31, 2023 and 2022, respectively, that was included in the contract liability balances as of December 31, 2022 and 2021, respectively.
+    - Revenue allocated to remaining performance obligations represents noncancelable contracted revenue that has not yet been recognized, which includes deferred revenue and, in certain instances, amounts that will be invoiced.
+    - As of March 31, 2023, the cumulative amount of revenue recognized from Strategic Commercial Contracts was $ 200.1 million, of which $ 33.4 million of revenue was recognized during the three months ended March 31, 2023.
+  [Footnotes]
+    - The Company’s remaining performance obligations were $ 936.0 million as of March 31, 2023, of which the Company expects to recognize approximately 57 % as revenue over the next 12 months, 36 % as revenue over the subsequent 13 to 36 months, and the remainder thereafter.
+  [Risk Factors]
+    - 5 real filing table(s) available (see the HTML report).
+    - Revenue is generally recognized over the contract term on a ratable basis.
+    - Revenue is allocated to each customer account directly.
+    - Revenue from U.S. government customers was $229.8 million for the three months ended March 31, 2023 compared to $188.1 million for the same period in 2022.
+    - Revenue from commercial customers increased by $31.5 million, or 15%, for the three months ended March 31, 2023 compared to the same period in 2022.
+    - Cost of Revenue Cost of revenue primarily includes salaries, stock-based compensation expense, and benefits for personnel involved in performing O&M and professional services, as well as field-service representatives, third-party cloud hosting services, travel costs, allocated overhead, and other direct costs.
+    - Revenue from government customers increased by $47.3 million, or 20%, for the three months ended March 31, 2023 compared to the same period in 2022, primarily from customers in the United States.
+    - The timing of our revenue recognition model also makes it difficult for us to rapidly increase our revenue through additional sales in any given period, as revenue is generally recognized over the applicable contractual term.
+    - As a result, a portion of the revenue we recognize in each quarter is derived from customer contracts generally entered into during previous periods.
+    - Our top three customers together accounted for 17% and 18% of our revenue for the years ended December 31, 2022 and 2021, respectively, and 20% and 17% of our revenue for the three months ended March 31, 2023 and 2022, respectively.
+    - We derive a significant portion of our revenue from existing customers that expand their relationships with us.
+    - In particular, we make certain estimates and assumptions related to the adoption and interpretation of these principles including the recognition of our revenue and the accounting for our provision for income taxes.
+    - We derive a significant portion of our revenue from contracts with federal, state, local, and foreign governments and government agencies, and we believe that the success and growth of our business will continue to depend on our successful procurement of government contracts.
+
+=== Q2 2023 ===
+Management said:
+  - U.S. government revenue grew 10% year over year and declined 2% sequentially to $225 million.
+  - Government revenue grew 15% year over year and 4% sequentially to $302 million.
+  - For Q3 2023, we expect revenue of between $553 million and $557 million, adjusted income from operations of between $135 million and $139 million and GAAP net income.
+  - We expect third quarter revenue to decline to between $14 million to $16 million, and we anticipate fourth quarter revenue from these customers to continue to trend down.
+  - U.S. commercial revenue in the second quarter grew 20% year over year and declined 4% sequentially to $103 million.
+  - International government revenue grew 31% year over year and 29% sequentially to $76 million.
+  - For the full year, we expect revenue from these customers to be approximately 3% of total full-year revenue.
+  - We generated $533 million in revenue, up 13% year over year and 2% sequentially, exceeding the high end of the range of our prior guidance.
+  - Second quarter commercial revenue grew 10% year over year and declined 2% sequentially to $232 million, a challenging sequential compare, as anticipated, due to the $14 million decline in revenue from strategic commercial contracts.
+  - We also achieved a significant revenue milestone, surpassing $2 billion in revenue on a trailing 12-month basis for the first time.
+  - For full-year 2023, we are raising our revenue guidance to an excess of $2.212 billion.
+  - 54% of the U.S. commercial revenue, excluding strategic commercial contracts, is from customers that have started since the beginning of 2021 with nearly all of the year over year growth coming from those same customers.
+  - Excluding revenue from strategic commercial contracts, U.S. commercial revenue grew 37% year over year and 7% sequentially, a result that is even more impressive when compounded with the 24% sequential growth we saw last quarter.
+  - Joining me on today's call are Alex Karp, chief executive officer; Shyam Sankar, chief technology officer; Dave Glazer, chief financial officer; and Ryan Taylor, chief revenue officer and chief legal officer.
+  - We had over two dozen U.S. commercial customers that brought in more than $1 million in revenue each during last quarter alone, and we're seeing outsized growth from our newest customers.
+  - Within our U.S. government business, while the revenue results in Q2 are disappointing, they belie the long-term strength of our business.
+  - We surpassed the high end of our guidance for both revenue and adjusted income from operations yet again.
+  - Revenue from our largest customers continues to expand.
+  - Trailing 12-month revenue per customer from our top 20 customers increased 15% year over year to $53 million per customer.
+  - Excluding the impact from strategic commercial contracts, commercial revenue grew 19% year over year and 5% sequentially.
+  - These results demonstrate our ability to drive revenue growth while efficiently managing costs with second quarter adjusted expense of $398 million, up only 9% year over year and down sequentially.
+  - Looking ahead to the second half of the year, we remain focused on calibrating expense growth below revenue growth, even as we increase investment and resourcing to AIP and invest in specific geographies around the world.
+  - Additionally, our combined revenue growth and adjusted operating margin was 38%.
+Guidance given:
+  - For Q3 2023, we expect revenue of between $553 million and $557 million, adjusted income from operations of between $135 million and $139 million and GAAP net income. (target: Q3 2023; Unresolved)
+  - We expect third quarter revenue to decline to between $14 million to $16 million, and we anticipate fourth quarter revenue from these customers to continue to trend down. (target: Q3 2023 and Q4 2023; Unresolved)
+  - For the full year, we expect revenue from these customers to be approximately 3% of total full-year revenue. (target: FY2023; Unresolved)
+  - For full-year 2023, we are raising our revenue guidance to an excess of $2.212 billion. (target: FY2023; Unresolved)
+Actual reported:
+  - [Unresolved] U.S. government revenue grew 10% year over year and declined 2% sequentially to $225 million.
+  - [Observed] Government revenue grew 15% year over year and 4% sequentially to $302 million.
+  - [Observed] U.S. commercial revenue in the second quarter grew 20% year over year and declined 4% sequentially to $103 million.
+  - [Observed] International government revenue grew 31% year over year and 29% sequentially to $76 million.
+  - [Observed] We generated $533 million in revenue, up 13% year over year and 2% sequentially, exceeding the high end of the range of our prior guidance.
+  - [Observed] Second quarter commercial revenue grew 10% year over year and declined 2% sequentially to $232 million, a challenging sequential compare, as anticipated, due to the $14 million decline in revenue from strategic commercial contracts.
+  - [Observed] Excluding revenue from strategic commercial contracts, U.S. commercial revenue grew 37% year over year and 7% sequentially, a result that is even more impressive when compounded with the 24% sequential growth we saw last quarter.
+  - [Observed] Revenue from strategic commercial contracts was $19 million, compared to $33 million in the prior quarter.
+  - [Observed] Excluding the impact of revenue from strategic commercial contracts, total revenue grew 16% year over year and 5% sequentially.
+  - [Observed] Trailing 12-month revenue per customer from our top 20 customers increased 15% year over year to $53 million per customer.
+  - [Observed] Excluding the impact from strategic commercial contracts, commercial revenue grew 19% year over year and 5% sequentially.
+  - [Observed] Additionally, our combined revenue growth and adjusted operating margin was 38%.
+Filing disclosures (SEC):
+  [MD&A]
+    - Revenue is generally recognized ratably over the contract term.
+    - For the six months ended June 30, 2023, we generated $1.1 billion in revenue, reflecting a 15% growth rate from the six months ended June 30, 2022 when we generated $919.4 million in revenue.
+    - For the three months ended June 30, 2023, we generated $533.3 million in revenue, reflecting a 13% growth rate from the three months ended June 30, 2022 when we generated $473.0 million in revenue.
+    - Revenue from our U.S. customers during the trailing twelve months ended June 30, 2023 was $1.3 billion, which grew 21% from the prior twelve-month period.
+    - Our average revenue for the top twenty customers during the trailing twelve months ended June 30, 2023 was $52.6 million, which grew 15% from an average of $45.8 million in revenue from the top twenty customers during the trailing twelve months ended June 30, 2022, demonstrating our expanding relationships with existing customers.
+    - In the six months ended June 30, 2023, we generated 63% of our revenue from customers in the United States and the remaining 37% from non-U.S. customers.
+  [Financial Statements]
+    - Revenue: $533.3M | vs prior quarter: $525.2M (+1.5%) | vs prior year: $473.0M (+12.7%)
+    - Cost of Revenue: $106.9M | vs prior quarter: $107.6M (-0.7%) | vs prior year: $102.2M (+4.6%)
+    - 7 real filing table(s) available (see the HTML report).
+    - Revenue of $ 270.2 million and $ 299.2 million was recognized during the six months ended June 30, 2023 and 2022, respectively, that was included in the contract liability balances as of December 31, 2022 and 2021, respectively.
+    - Revenue allocated to remaining performance obligations represents noncancelable contracted revenue that has not yet been recognized, which includes deferred revenue and, in certain instances, amounts that will be invoiced.
+    - As of June 30, 2023, the cumulative amount of revenue recognized from Strategic Commercial Contracts was $ 219.4 million, of which $ 19.4 million and $ 52.8 million of revenue was recognized during the three and six months ended June 30, 2023, respectively.
+    - Geographic Information Revenue by geography is based on the customer’s headquarters or agency location at the time of sale.
+  [Footnotes]
+    - The Company’s remaining performance obligations were $ 967.6 million as of June 30, 2023, of which the Company expects to recognize approximately 58 % as revenue over the next 12 months, 36 % as revenue over the subsequent 13 to 36 months, and the remainder thereafter.
+  [Risk Factors]
+    - 5 real filing table(s) available (see the HTML report).
+    - Revenue is generally recognized over the contract term on a ratable basis.
+    - Revenue is allocated to each customer account directly.
+    - Revenue from U.S. government customers was $454.8 million for the six months ended June 30, 2023 compared to $392.7 million for the same period in 2022.
+    - Revenue from U.S. government customers was $225.0 million for the three months ended June 30, 2023 compared to $204.6 million for the same period in 2022.
+    - Revenue increased by $139.1 million, or 15%, for the six months ended June 30, 2023 compared to the same period in 2022.
+    - Revenue from commercial customers increased by $53.3 million, or 13%, for the six months ended June 30, 2023 compared to the same period in 2022.
+    - As of June 30, 2023, the cumulative amount of revenue recognized from Strategic Commercial Contracts was $219.4 million, of which $52.8 million was recognized by us during the six months ended June 30, 2023.
+    - The timing of our revenue recognition model also makes it difficult for us to rapidly increase our revenue through additional sales in any given period, as revenue is generally recognized over the applicable contractual term.
+    - As a result, a portion of the revenue we recognize in each quarter is derived from customer contracts generally entered into during previous periods.
+    - Our top three customers together accounted for 17% and 18% of our revenue for the years ended December 31, 2022 and 2021, respectively, and 20% and 16% of our revenue for the six months ended June 30, 2023 and 2022, respectively.
+    - We derive a significant portion of our revenue from existing customers that expand their relationships with us.
+    - In particular, we make certain estimates and assumptions related to the adoption and interpretation of these principles including the recognition of our revenue and the accounting for our provision for income taxes.
+
+=== Q3 2023 ===
+Management said:
+  - U.S. government revenue grew 10% year over year and 2% sequentially to $229 million.
+  - In the third quarter, U.S. commercial revenue reaccelerated to $116 million, up 33% year over year and 13% sequentially.
+  - For Q4 2023, we expect revenue of between $599 million and $603 million, adjusted income from operations of between $184 million and $188 million and GAAP net income.
+  - For full year 2023, we are raising our revenue guidance to between $2.216 billion and $2.22 billion.
+  - Third quarter revenue reaccelerated to $558 million, up 17% year over year and 5% sequentially, exceeding the high end of the range of our prior guidance.
+  - International government revenue grew 21% year over year and 2% sequentially to $78 million, bolstered by our continued work in healthcare and defense.
+  - Third quarter commercial revenue grew 23% year over year and 8% sequentially to $251 million.
+  - Revenue from strategic commercial contracts was $15 million or 2.6% of quarterly revenue, down from $19 million in the prior quarter.
+  - Third quarter government revenue grew 12% year over year and 2% sequentially to $308 million.
+  - We anticipate fourth quarter revenue from these customers to continue to decline to between $13 million to $15 million, representing 2.3% of expected fourth quarter revenue.
+  - Trailing 12-month revenue per customer from our top 20 customers increased 13% year over year to $54 million per customer.
+  - Joining me on today's call are Alex Karp, chief executive officer; Shyam Sankar, chief technology officer; Dave Glazer, chief financial officer; and Ryan Taylor, chief revenue officer and chief legal officer.
+  - Excluding the impact from strategic commercial contracts, commercial revenue grew 34% year over year and 11% sequentially.
+  - While it's hard to predict exactly when our government revenue will reconverge at historically high CAGRs, as Shyam mentioned, our products, PG, GAIA, MetaConstellation and AIP are needed in battlefields across the world and even more so in the current geopolitical landscape.
+  - Net dollar retention does not include revenue from new customers that we acquired in the past 12 months and is, therefore, not reflective of the recent acceleration in our U.S. commercial business.
+  - In short, we've been able to flatline expenses for four consecutive quarters while investing significantly in our products, including AIP and reaccelerating our revenue.
+  - Looking ahead to the fourth quarter and beyond, we remain focused on calibrating expense growth below revenue growth, even as we increase investment and resourcing to AIP and in specific geographies around the world.
+  - Additionally, our combined revenue growth and adjusted operating margin accelerated to 46%, an 800 basis point increase to a Rule of 40 score from the prior quarter.
+  - Also, because the playbook backed by venture capitalists and supported by analysts has always been make the thinnest technology possible that is misaligned with your enterprise and hire the most and best salespeople so the enterprise gets moderate value while having its high revenue exported in a parasitic manner to the cheers of insiders and the pain of retail investors and we obviously rejected that.
+Guidance given:
+  - For Q4 2023, we expect revenue of between $599 million and $603 million, adjusted income from operations of between $184 million and $188 million and GAAP net income. (target: Q4 2023; Unresolved)
+  - For full year 2023, we are raising our revenue guidance to between $2.216 billion and $2.22 billion. (target: FY 2023; Unresolved)
+  - We anticipate fourth quarter revenue from these customers to continue to decline to between $13 million to $15 million, representing 2.3% of expected fourth quarter revenue. (target: Q4 2023; Unresolved)
+Actual reported:
+  - [Unresolved] U.S. government revenue grew 10% year over year and 2% sequentially to $229 million.
+  - [Observed] International government revenue grew 21% year over year and 2% sequentially to $78 million, bolstered by our continued work in healthcare and defense.
+  - [Observed] Third quarter commercial revenue grew 23% year over year and 8% sequentially to $251 million.
+  - [Observed] Revenue from strategic commercial contracts was $15 million or 2.6% of quarterly revenue, down from $19 million in the prior quarter.
+  - [Observed] Third quarter government revenue grew 12% year over year and 2% sequentially to $308 million.
+  - [Observed] Trailing 12-month revenue per customer from our top 20 customers increased 13% year over year to $54 million per customer.
+  - [Observed] Excluding revenue from strategic commercial contracts, U.S. commercial revenue grew 52% year over year and 19% sequentially.
+  - [Observed] Excluding the impact of revenue from strategic commercial contracts, third quarter revenue grew 21% year over year and 6% sequentially.
+  - [Observed] Excluding the impact from strategic commercial contracts, commercial revenue grew 34% year over year and 11% sequentially.
+Filing disclosures (SEC):
+  [MD&A]
+    - Revenue is generally recognized ratably over the contract term.
+    - For the nine months ended September 30, 2023, we generated $1.6 billion in revenue, reflecting a 16% growth rate from the nine months ended September 30, 2022, when we generated $1.4 billion in revenue.
+    - For the three months ended September 30, 2023, we generated $558.2 million in revenue, reflecting a 17% growth rate from the three months ended September 30, 2022, when we generated $477.9 million in revenue.
+    - Our average revenue for the top twenty customers during the trailing twelve months ended September 30, 2023 was $53.7 million, which grew 13% from an average of $47.7 million in revenue from the top twenty customers during the trailing twelve months ended September 30, 2022, demonstrating our expanding relationships with existing customers.
+    - Revenue from our U.S. customers during the trailing twelve months ended September 30, 2023 was $1.3 billion, which grew 18% from the prior twelve-month period.
+    - In the nine months ended September 30, 2023, we generated 62% of our revenue from customers in the United States and the remaining 38% from non-U.S. customers.
+  [Financial Statements]
+    - Revenue: $558.2M | vs prior quarter: $533.3M (+4.7%) | vs prior year: $477.9M (+16.8%)
+    - Cost of Revenue: $107.9M | vs prior quarter: $106.9M (+1.0%) | vs prior year: $107.6M (+0.3%)
+    - 7 real filing table(s) available (see the HTML report).
+    - Revenue of $ 314.9 million and $ 353.8 million was recognized during the nine months ended September 30, 2023 and 2022, respectively, that was included in the contract liability balances as of December 31, 2022 and 2021, respectively.
+    - Revenue allocated to remaining performance obligations represents noncancelable contracted revenue that has not yet been recognized, which includes deferred revenue and, in certain instances, amounts that will be invoiced.
+    - As of September 30, 2023, the cumulative amount of revenue recognized from Strategic Commercial Contracts was $ 234.1 million, of which $ 14.7 million and $ 67.4 million of revenue was recognized during the three and nine months ended September 30, 2023, respectively.
+    - Geographic Information Revenue by geography is based on the customer’s headquarters or agency location at the time of sale.
+  [Footnotes]
+    - The Company’s remaining performance obligations were $ 987.7 million as of September 30, 2023, of which the Company expects to recognize approximately 57 % as revenue over the next 12 months, 35 % as revenue over the subsequent 13 to 36 months, and the remainder thereafter.
+  [Risk Factors]
+    - 5 real filing table(s) available (see the HTML report).
+    - Revenue is generally recognized over the contract term on a ratable basis.
+    - Revenue is allocated to each customer account directly.
+    - Revenue from U.S. government customers was $229.2 million for the three months ended September 30, 2023 compared to $208.9 million for the same period in 2022.
+    - Revenue from U.S. government customers was $684.0 million for the nine months ended September 30, 2023 compared to $601.6 million for the same period in 2022.
+    - Revenue increased by $219.4 million, or 16%, for the nine months ended September 30, 2023 compared to the same period in 2022.
+    - Revenue from commercial customers increased by $46.5 million, or 23%, for the three months ended September 30, 2023 compared to the same period in 2022.
+    - The timing of our revenue recognition model also makes it difficult for us to rapidly increase our revenue through additional sales in any given period, as revenue is generally recognized over the applicable contractual term.
+    - As of September 30, 2023, the cumulative amount of revenue recognized from Strategic Commercial Contracts was $234.1 million, of which $67.4 million was recognized by us during the nine months ended September 30, 2023.
+    - As a result, a portion of the revenue we recognize in each quarter is derived from customer contracts generally entered into during previous periods.
+    - Our top three customers together accounted for 17% and 18% of our revenue for the years ended December 31, 2022 and 2021, respectively, and 19% and 17% of our revenue for the nine months ended September 30, 2023 and 2022, respectively.
+    - We derive a significant portion of our revenue from existing customers that expand their relationships with us.
+    - In particular, we make certain estimates and assumptions related to the adoption and interpretation of these principles including the recognition of our revenue and the accounting for our provision for income taxes.
+
+=== Q4 2023 ===
+Management said:
+  - For full year 2024, we expect revenue of between 2.652 billion and 2.668 billion; U.S. commercial revenue in excess of 640 million, representing a growth rate of at least 40%; adjusted income from operations of between 834 million and 850 million; adjusted free cash flow of between 800 million and 1 billion; GAAP operating income and net income in each quarter of this year.
+  - Full year U.S. commercial revenue grew 36% year over year to $457 million.
+  - For Q1 2024, we expect revenue of between 612 million and 616 million; adjusted income from operations of between a 196 million and 200 million.
+  - Fourth quarter U.S. commercial revenue grew 70% year over year and 12% sequentially to $131 million.
+  - Full year U.S. government revenue grew 11% year over year to 921 million.
+  - Full year international commercial revenue grew 9% year over year to $546 million.
+  - We generated 2.23 billion of revenue in 2023, representing a growth rate of 17% year over year.
+  - Fourth quarter revenue accelerated to 608 million, up 20% year over year and 9% sequentially.
+  - Fourth quarter commercial revenue grew 32% year over year and 13% sequentially to 284 million.
+  - Fourth quarter international commercial revenue grew 11% year over year and 14% sequentially to a $154 million, as we continue to capitalize on targeted growth opportunities in Asia, the Middle East, and beyond.
+  - Excluding revenue from strategic commercial contracts, fourth quarter U.S. commercial revenue grew 71% year over year and 8% sequentially, and full year U.S. commercial revenue grew 52% year over year.
+  - Our commercial business surpassed $1 billion in revenue over the last 12 months, a noteworthy milestone.
+  - Fourth quarter government revenue grew 11% year over year and 5% sequentially to 324 million.
+  - We anticipate first quarter 2024 revenue from these customers to decline to between 14 million to 16 million compared to $33 million in the first quarter of 2023.
+  - Excluding the impact of revenue from strategic commercial contracts, fourth quarter revenue grew 20% year over year and 8% sequentially, and full year revenue grew 20% year over year.
+  - Joining me on today's call are Alex Karp, chief executive officer; Shyam Sankar, chief technology officer; Dave Glazer, chief financial officer; and Ryan Taylor, chief revenue officer and chief legal officer.
+  - We closed out the year with $608 million in fourth quarter revenue, representing 20% year over year and 9% sequential growth.
+  - And our fourth quarter commercial revenue grew 32% year over year.
+  - AIP and bootcamps are accelerating our business, particularly in U.S. commercial, where fourth quarter revenue grew 70% year over year, evidencing a significantly expanding addressable market.
+  - We had an exceptionally strong fourth quarter, marked by our outperformance across revenue, profitability, and cash flow.
+  - Revenue growth accelerated to 20% year over year in Q4 on the back of our U.S. commercial business, which alone grew 70% year over year, a result driven by our momentum in AIP.
+  - We beat the high end of our guidance range on both revenue and adjusted operating margin, driving an 800 basis-point sequential increase to our Rule of 40 score, from 46% in the third quarter to 54% in the fourth quarter.
+  - We generated 1.38 billion in total U.S. revenue in 2023, representing a growth rate of 19% year over year.
+  - Revenue from our largest customers continues to expand.
+  - Fourth quarter trailing 12-month revenue from our top 20 customers increased to 11% year over year to 55 million per customer.
+  - Full year commercial revenue grew 20% year over year to over 1 billion, surpassing the $1 billion mark for the first time.
+  - Excluding the impact from strategic commercial contracts, fourth quarter commercial revenue grew 35% year over year and 12% sequentially, and full year commercial revenue grew 28% year over year.
+  - These customers have been using AIP for months prior to the deal's closing, resulting in some revenue catch-up last quarter.
+  - Revenue from strategic commercial contracts was 20 million for the quarter.
+  - We anticipate 2024 revenue from these customers to decline to approximately 2% of full year revenue compared to approximately 4% of revenue in 2023.
+  - Full year government revenue grew 14% year over year to 1.22 billion.
+  - Fourth quarter U.S. government revenue grew 6% year over year and 3% sequentially to 237 million.
+  - Fourth quarter international government revenue grew 27% year over year and 11% sequentially to 87 million, bolstered by our work in healthcare and defense.
+  - This included the receipt of funding from a partner nation related to our ongoing efforts in Eastern Europe, which resulted in a revenue catch-up for the quarter.
+  - Full year international government revenue grew 23% year over year to 301 million.
+  - Net dollar retention does not include revenue from new customers that we acquired in the past 12 months and, therefore, does not yet fully capture the acceleration in our U.S. commercial business.
+  - As a result, we expect expenses to increase in Q1, but remain focused on calibrating expense growth below revenue growth for the full year in order to continue delivering on our goals of sustained GAAP profitability and operating income.
+  - Additionally, our combined revenue growth and adjusted operating margin accelerated to 54% in the fourth quarter, an 800 basis-point increase to our Rule of 40 score from the prior quarter.
+  - Then, you see the results in U.S. commercial, 70% year-over-year growth in revenue in Q4, 55% growth in customer count year over year, a 107% growth in TCV closed on an adjusted basis.
+  - I think the charisma it has with customers when they see it running at scale, running, managing all $2.2 billion of our revenue, I think a big part of this is they've spent the last two years trying to solve these problems on their own.
+  - They've got to show themselves, their company, their workers, the whole -- that they're going to get actual revenue either driving or quality of revenue driving results quickly.
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - As of December 31, 2023, the cumulative amount of revenue recognized from Strategic Commercial Contracts was $253.9 million, of which $87.3 million was recognized by us during the fiscal year ended December 31, 2023.
+    - The timing of our revenue recognition model also makes it difficult for us to rapidly increase our revenue through additional sales in any given period, as revenue is generally recognized over the applicable contractual term.
+    - As a result, a portion of the revenue we recognize in each quarter is derived from customer contracts generally entered into during previous periods.
+    - Because we derive, and expect to continue to derive, substantially all of our revenue from customers purchasing our platforms and products, market acceptance of these platforms and products, and any enhancements or changes thereto, is critical to our success.
+    - We generally recognize revenue from our platforms and O&M services over the contractual term.
+    - For example, some of our early-stage Investee customers recently filed for bankruptcy, and the remaining value of the commercial contracts with such customers that is not expected to be recognized as revenue has been excluded from the total value of Strategic Commercial Contracts above.
+    - We derive a portion of our revenue from programs with governments and government agencies that are subject to security restrictions (e.g., contracts involving classified information, classified contracts, and classified programs), which preclude the dissemination of information and technology that is classified for national security purposes under applicable law and regulation.
+    - In particular, we make certain estimates and assumptions related to the adoption and interpretation of these principles including the recognition of our revenue and the accounting for our provision for income taxes.
+    - We derive a significant portion of our revenue from contracts with federal, state, local, and foreign governments and government agencies, and we believe that the success and growth of our business will continue to depend on our successful procurement of government contracts.
+    - For example, we have historically derived, and expect to continue to derive, a significant portion of our revenue from sales to agencies of the U.S. federal government, either directly by us or through other government contractors.
+    - Because we generate a substantial portion of our revenue from contracts with governments and government agencies, and in particular from contracts with the U.S. government and government agencies, our results of operations could be adversely affected by government spending caps or changes in government budgetary priorities, as well as by delays in the government budget process, program starts, or the award of contracts or orders under existing contract vehicles, including as a result of a new U.S. administration.
+    - Non-compliance with the GDPR specifically may result in administrative fines or monetary penalties of up to 4% of worldwide annual revenue in the preceding financial year or €20 million (whichever is higher) for the most serious infringements, and could result in proceedings against us by governmental entities or other related parties and may otherwise adversely impact our business, financial condition, and results of operations.
+    - Revenue is generally recognized ratably over the contract term.
+    - For the year ended December 31, 2023, we generated $2.2 billion in revenue, reflecting a 17% growth rate from the year ended December 31, 2022, when we generated $1.9 billion in revenue.
+    - Revenue from our U.S. customers during the trailing twelve months ended December 31, 2023 was $1.4 billion, which grew 19% from the prior twelve-month period.
+    - Our average revenue for the top twenty customers during the trailing twelve months ended December 31, 2023 was $54.6 million, which grew 11% from an average of $49.4 million in revenue from the top twenty customers during the trailing twelve months ended December 31, 2022, demonstrating our expanding relationships with existing customers.
+    - In the year ended December 31, 2023, 55% of our revenue came from government customers and 45% came from commercial customers.
+    - In the year ended December 31, 2023, we generated 62% of our revenue from customers in the United States and the remaining 38% from non-U.S. customers.
+  [Financial Statements]
+    - Revenue: $2.23B | vs prior quarter: — | vs prior year: $1.91B (+16.7%)
+    - Cost of Revenue: $431.1M | vs prior quarter: — | vs prior year: $408.5M (+5.5%)
+    - 8 real filing table(s) available (see the HTML report).
+    - Revenue is generally recognized over the contract term on a ratable basis.
+    - In accordance with ASC 606, Revenue from Contracts with Customers , the Company recognizes revenue upon the transfer of promised goods or services to customers in an amount that reflects the consideration to which the Company expects to be entitled in exchange for promised goods or services.
+    - Revenue of $ 329.4 million and $ 384.3 million was recognized during the years ended December 31, 2023 and 2022, respectively, that was included in the contract liabilities balances as of December 31, 2022 and 2021, respectively.
+    - Cost of Revenue Cost of revenue primarily includes salaries, stock-based compensation expense, and benefits for personnel involved in performing O&M and professional services, as well as field service representatives, third-party cloud hosting services, travel costs, allocated overhead, and other direct costs.
+    - Revenue allocated to remaining performance obligations represents noncancelable contracted revenue that has not yet been recognized, which includes deferred revenue and, in certain instances, amounts that will be invoiced.
+  [Risk Factors]
+    - 5 real filing table(s) available (see the HTML report).
+    - Although our revenue has increased in recent periods, there can be no assurances that our revenue will continue to grow or do so at current rates, and you should not rely on the revenue of any prior quarterly or annual period as an indication of our future performance.
+    - Our top three customers together accounted for 18% and 17% of our revenue for the years ended December 31, 2023 and 2022, respectively.
+    - If our 13 Table of Contents revenue growth or revenue growth rate declines overall, or with respect to certain areas of our business, our business, financial condition, and results of operations could be adversely affected.
+    - We derive a significant portion of our revenue from existing customers that expand their relationships with us.
+    - We may not be able to continue to increase our revenue at a rate sufficient to offset increases in our costs of revenue and operating expenses in the near term or at all, which would prevent us from achieving or maintaining profitability in the future.
+    - Many factors may contribute to declines or variability in our revenue growth, including macroeconomic factors, increased competition, slowing demand for our platforms from existing and new customers, a failure by us to continue capitalizing on growth opportunities, terminations of existing contracts or failure to exercise existing options by our customers, and the maturation of our business, among others.
+    - Revenue is generally recognized over the contract term on a ratable basis.
+    - Revenue is allocated to each customer account directly.
+    - Revenue from U.S. commercial customers was $457.1 million for the year ended December 31, 2023 compared to $335.1 million for the same period in 2022.
+    - Revenue from U.S. government customers was $921.2 million for the year ended December 31, 2023 compared to $826.3 million for the same period in 2022.
+    - Revenue from commercial customers increased by $168.7 million, or 20%, for the year ended December 31, 2023 compared to 2022.
+    - In accordance with Accounting Standards Codification (“ASC”) 606, Revenue from Contracts with Customers , we recognized revenue upon the transfer of promised goods or services to customers in an amount that reflects the consideration to which we expect to be entitled in exchange for promised goods or services.
+

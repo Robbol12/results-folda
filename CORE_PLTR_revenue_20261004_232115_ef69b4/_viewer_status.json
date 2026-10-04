@@ -1,0 +1,38 @@
+{
+  "status": "running",
+  "current_stage": "Publishing report...",
+  "stages": [
+    {
+      "stage": "Finishing filing pages...",
+      "seconds": 50.53
+    },
+    {
+      "stage": "Writing transcript viewer...",
+      "seconds": 17.542
+    },
+    {
+      "stage": "Verifying support pages...",
+      "seconds": 0.006
+    }
+  ],
+  "support_pages_ready": true,
+  "source_documents_ready": true,
+  "ready_seconds": 70.618,
+  "ready_stage_count": 3,
+  "publish_complete": false,
+  "total_seconds": null,
+  "error": null,
+  "github_published": null,
+  "github_error": null,
+  "viewer_readiness": {
+    "ready": true,
+    "expected_count": 8,
+    "written_count": 8,
+    "missing": [],
+    "placeholders": [],
+    "malformed": [],
+    "invalid": []
+  },
+  "updated_at": 1791156220.466275,
+  "owner_pid": 3501635
+}
