@@ -1,0 +1,194 @@
+[CORE RESEARCH] TSLA: profit
+
+Quarters searched: 8
+Filing sections searched: 186
+
+Across 2022, management consistently characterized profit as record or industry-leading, citing positive mix (e.g., Model Y) and improving automotive and energy contributions, with specific margin metrics disclosed in Q3 2022 (GAAP operating margin 17.2% and automotive gross margin 27.9%). In Q2 2022, management’s profitability framing aligns with disclosed drivers in the deck, including cost and FX impacts and a reduction in stock-based compensation expense. Through Q4 2022 and into 2023, the disclosed profit narrative broadened toward fleet/used-car and Services & Other profit drivers (including Services & Other moving from a ~$500M loss in 2019 to ~$500M profit in 2023). In 2023, management also emphasized that short-term margin/profit fluctuations were minor versus the long-term outlook, while the filings disclosed a profit-sharing-related accounting determination and CODM segment reporting disclosures under an ASU, indicating potential changes in how certain profit-related measures are presented.
+
+Forecasting credibility: None
+No guidance/actual pairs were found for profit in the provided evidence, so forecasting credibility cannot be judged from a Met/Missed pattern. The topic appears discussed qualitatively (e.g., “record profitability” and “minor variances”), but there is insufficient explicit forward guidance to compare against subsequent reported outcomes.
+
+Trends:
+  - Profit described as record/industry-leading through 2022
+  - Energy profitability increasingly emphasized with strongest gross profit claims in 2022 and margin improvements in 2023
+  - Profit drivers broadened from automotive to used vehicles, parts, and Services & Other by 2022–2023
+  - Cost/FX/SBC and other line-item impacts repeatedly cited as drivers of quarterly profitability variability
+  - Filing disclosures indicate accounting/segment reporting determinations related to profit-sharing and CODM usage
+
+Recurring themes/risks:
+  - Stock-based compensation (SBC) and other discrete expense impacts on quarterly operating income
+  - Raw material/commodity/logistics/expedite costs and foreign exchange as recurring profit drivers
+  - Dependence on energy volume and economics (e.g., Megapack/Powerwall) for gross profit
+  - Profit contributions from fleet/used vehicles and services/other transactions
+  - Potential sensitivity of reported segment profit measures to accounting determinations (profit-sharing arrangements, CODM reporting)
+
+Key concerns:
+  - No explicit forward guidance for profit was provided in the evidence, limiting the ability to assess forecasting accuracy.
+  - The filings include determinations that contractual provisions represent substantive profit-sharing arrangements and require a specific HLBV methodology for noncontrolling interests; this could affect how “profit” related measures are presented across periods.
+  - Several profitability statements are qualitative (e.g., “record profitability”) without accompanying quantitative guidance, making period-to-period comparability reliant on deck/transcript metrics rather than pre-announced targets.
+
+Conclusion:
+Profit performance is portrayed as strong and improving over the period, with multiple quarter/year qualitative assertions of record profitability and specific margin disclosures in Q3 2022 (GAAP operating margin 17.2% and automotive gross margin 27.9%). The Q1 2022 period ties “record profitability” to an additional SBC expense attributable to the 2018 CEO award of $48M, suggesting profitability was resilient even with discrete expense items. The profit narrative in 2022–2023 increasingly credits non-automotive/fleet-related sources: Q4 2022 notes profit driven by used cars and fleet support transactions, and 2023 decks highlight Services & Other improving to about a ~$500M profit (from a ~$500M loss in 2019) with part sales, used vehicle sales, merchandise, and pay-per-use supercharging as biggest drivers. Overall, based strictly on the provided evidence, profit appears to have improved and diversified over time, while the filings indicate possible changes in accounting determinations and segment profit measurement mechanics that could influence how profit figures are reported.
+
+Evidence Coverage: 94.7% complete; 341/360 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2022 ===
+Management said:
+  - Additionally, we saw a slight mix shift towards more profitable vehicles, including the Model Y.
+  - So, I’d really like to congratulate the Tesla team on achieving record profitability and output despite many, many difficult headwinds, and especially the Tesla China team in our Shanghai factory.
+  - Elon Musk Actually, on the price increase front, I should mention that it may seem like maybe we’re being unreasonable about increasing the prices of our vehicles, given that we had record profitability this quarter, but the wait list for our vehicles is quite long.
+Guidance given:
+  - 9 Tesla Insurance – Safety Scorebeta Services and Other Gross Margin (TTM) TTM = Trailing twelve months [Page 10] O U T L O O K Volume Cash Profit Product We plan to grow our manufacturing capacity as quickly as possible. (target: ongoing; Unresolved)
+Actual reported:
+  - [Observed] Q1 was once again a record quarter on many levels, by reaching the highest deliveries, profit and an operating margin of 19%.
+  - [Observed] [from presentation deck] This profit level was reached while incurring SBC expense attributable to the 2018 CEO award of $48M in Q1.
+  - [Observed] [from presentation deck] 4 [Page 5] F I N A N C I A L S U M M A R Y Revenue Profitability Cash Total revenue grew 81% YoY in Q1 to $18.8B.
+  - [Observed] [from presentation deck] [Page 1] Q1 2022 Update 1 [Page 2] Highlights 03 Financial Summary 04 Operational Summary 06 Vehicle Capacity 07 Core Technology 08 Other Highlights 09 Outlook 10 Photos & Charts 11 Key Metrics 20 Financial Statements 22 Additional Information 28 [Page 3] The first quarter of 2022 was another record quarter for Tesla by several measures such as revenues, vehicle deliveries, operating profit and an operating margin of over 19%.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $5.46B | vs prior quarter: — | vs prior year: $2.21B (+146.5%)
+    - Operating Income: $3.60B | vs prior quarter: — | vs prior year: $594.0M (+506.6%)
+    - Net Income: $3.32B | vs prior quarter: — | vs prior year: $438.0M (+657.5%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
+=== Q2 2022 ===
+Management said:
+  - Zachary Kirkhorn Just to add on the profitability part of the question.
+Investor presentation deck:
+  - This resulted in an overall record gross profit. [Presentation_04df9d3dc9fa93ff.html]
+Guidance given:
+Actual reported:
+  - [Observed] Additionally, our energy business achieved record gross profit with the highest solar volumes in many years.
+  - [Observed] [from presentation deck] YoY, operating income was primarily impacted by the following items: + increased ASP + growth in vehicle deliveries + profit growth in other parts of the business + lower stock-based compensation expense - higher raw material, commodity, logistics and expedite costs - higher per unit fixed costs in Shanghai due to shutdowns - negative FX impact - Bitcoin impairment Quarter-end cash, cash equivalents and short -term marketable securities increased sequentially by $902M to $18.9B in Q2, driven mainly by free cash flow of $621M , partially offset by debt repayments of $402M.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $4.23B | vs prior quarter: $5.46B (-22.5%) | vs prior year: $2.88B (+46.8%)
+    - Operating Income: $2.46B | vs prior quarter: $3.60B (-31.6%) | vs prior year: $1.31B (+87.8%)
+    - Net Income: $2.26B | vs prior quarter: $3.32B (-31.9%) | vs prior year: $1.14B (+97.8%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
+=== Q3 2022 ===
+Management said:
+  - On energy profitability, we achieved our strongest gross profit yet for this business, driven primarily by record volumes of our Megapack and Powerwall products.
+  - On automotive profitability, our GAAP operating margin was 17.2% with automotive gross margin at 27.9%.
+  - Note that while small and growing, each car we build in Austin and Berlin is contributing positively to profitability.
+Guidance given:
+Actual reported:
+  - [Observed] On energy profitability, we achieved our strongest gross profit yet for this business, driven primarily by record volumes of our Megapack and Powerwall products.
+  - [Observed] On automotive profitability, our GAAP operating margin was 17.2% with automotive gross margin at 27.9%.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $5.38B | vs prior quarter: $4.23B (+27.1%) | vs prior year: $3.66B (+47.0%)
+    - Operating Income: $3.69B | vs prior quarter: $2.46B (+49.7%) | vs prior year: $2.00B (+84.0%)
+    - Net Income: $3.29B | vs prior quarter: $2.26B (+45.7%) | vs prior year: $1.62B (+103.5%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 5 real filing table(s) available (see the HTML report).
+
+=== Q4 2022 ===
+Management said:
+Investor presentation deck:
+  - Profit While we continue to execute on innovations to reduce the cost of manufacturing and operations, over time, we expect our hardware-related profits to be accompanied with an acceleration of software- related profits. [Presentation_de9550b40f435427.html]
+Guidance given:
+Actual reported:
+  - [Observed] [from presentation deck] Much of the profit in 2022 was driven by used cars and transactions in support of a growing Tesla fleet, such as part sales, paid supercharging and others.
+  - [Observed] On a full year basis: revenue increased over 50%, operating income doubled, free cash flows increased over 50%, and our margins remained industry-leading.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Gross Profit: $20.85B | vs prior quarter: — | vs prior year: $13.61B (+53.3%)
+    - Operating Income: $13.66B | vs prior quarter: — | vs prior year: $6.52B (+109.4%)
+    - Net Income: $12.56B | vs prior quarter: — | vs prior year: $5.52B (+127.5%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+    - We have determined that the contractual provisions of the funds represent substantive profit-sharing arrangements.
+    - We have further determined that the methodology for calculating the noncontrolling interest and redeemable noncontrolling interest balances that reflects the substantive profit-sharing arrangements is a balance sheet approach using the hypothetical liquidation at book value (“HLBV”) method.
+
+=== Q1 2023 ===
+Management said:
+Investor presentation deck:
+  - Profit While we continue to execute on innovations to reduce the cost of manufacturing and operations, over time, we expect our hardware-related profits to be accompanied with an acceleration of software- related profits. [Presentation_2c65e745f95c464d.html]
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Gross Profit: $4.51B | vs prior quarter: — | vs prior year: $5.46B (-17.4%)
+    - Operating Income: $2.66B | vs prior quarter: — | vs prior year: $3.60B (-26.1%)
+    - Net Income: $2.51B | vs prior quarter: — | vs prior year: $3.32B (-24.3%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+
+=== Q2 2023 ===
+Management said:
+  - If I may, look, the short-term variances in gross margin and profitability really are minor relative to the long-term picture.
+Investor presentation deck:
+  - Profit While we continue to execute on innovations to reduce the cost of manufacturing and operations, over time, we expect our hardware-related profits to be accompanied by an acceleration of AI, software and fleet -based profits. [Presentation_033c7a7c490ba69b.html]
+Guidance given:
+Actual reported:
+  - [Observed] For our energy business, we improved margins and gross profit driven by cost reductions and deal economics, particularly with Megapack.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Gross Profit: $4.53B | vs prior quarter: $4.51B (+0.5%) | vs prior year: $4.23B (+7.1%)
+    - Operating Income: $2.40B | vs prior quarter: $2.66B (-9.9%) | vs prior year: $2.46B (-2.6%)
+    - Net Income: $2.70B | vs prior quarter: $2.51B (+7.6%) | vs prior year: $2.26B (+19.7%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+
+=== Q3 2023 ===
+Management said:
+  - Vehicle deliveries in Q3 outpaced production, and we had yet another record quarter of profitability in our energy business.
+Investor presentation deck:
+  - Profit While we continue to execute on innovations to reduce the cost of manufacturing and operations, over time, we expect our hardware-related profits to be accompanied by an acceleration of AI, software and fleet -based profits. [Presentation_3a67f2aa7d8f2a70.html]  - Lastly, with a combined gross profit generation of over $0.5B in Q3, our Energy Generation and Storage business and Services and Other business have become meaningful contributors to our profitability. [Presentation_3a67f2aa7d8f2a70.html]
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $4.18B | vs prior quarter: $4.53B (-7.8%) | vs prior year: $5.38B (-22.4%)
+    - Operating Income: $1.76B | vs prior quarter: $2.40B (-26.5%) | vs prior year: $3.69B (-52.2%)
+    - Net Income: $1.85B | vs prior quarter: $2.70B (-31.4%) | vs prior year: $3.29B (-43.7%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+
+=== Q4 2023 ===
+Management said:
+Investor presentation deck:
+  - Gross profit of our Services & Other business increased from a ~$500M loss in 2019 to a ~$500M profit in 2023. [Presentation_892ed095df14659f.html]  - The biggest drivers of profit generation in 2023 were part sales, used vehicle sales, merchandise sales and pay - per-use supercharging. [Presentation_892ed095df14659f.html]
+Guidance given:
+Actual reported:
+  - [Observed] [from presentation deck] Gross profit of our Services & Other business increased from a ~$500M loss in 2019 to a ~$500M profit in 2023.
+  - [Observed] [from presentation deck] The biggest drivers of profit generation in 2023 were part sales, used vehicle sales, merchandise sales and pay - per-use supercharging.
+  - [Observed] In terms of 2023 financials, we ended the year with over $96 billion of revenue and generated $4.4 billion of free cash flow to end the year with over $29 billion of cash and investments on hand.
+Filing disclosures (SEC):
+  [MD&A]
+    - 3 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - Gross Profit: $17.66B | vs prior quarter: — | vs prior year: $20.85B (-15.3%)
+    - Operating Income: $8.89B | vs prior quarter: — | vs prior year: $13.66B (-34.9%)
+    - Net Income: $15.00B | vs prior quarter: — | vs prior year: $12.56B (+19.4%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 6 real filing table(s) available (see the HTML report).
+    - We have determined that the contractual provisions of the funds represent substantive profit-sharing arrangements.
+    - We have further determined that the methodology for calculating the noncontrolling interest and redeemable noncontrolling interest balances that reflects the substantive profit-sharing arrangements is a balance sheet approach using the hypothetical liquidation at book value (“HLBV”) method.
+    - This ASU also requires disclosure of the title and position of the individual identified as the CODM and an explanation of how the CODM uses the reported measures of a segment’s profit or loss in assessing segment performance and deciding how to allocate resources.
+    - This ASU updates reportable segment disclosure requirements by requiring disclosures of significant reportable segment expenses that are regularly provided to the Chief Operating Decision Maker (“CODM”) and included within each reported measure of a segment's profit or loss.
+  [Risk Factors]
+    - For example, we monitor tax legislation changes on a global basis, including changes arising as a result of the Organization for Economic Cooperation and Development’s multi-jurisdictional plan of action to address base erosion and profit shifting.
+
