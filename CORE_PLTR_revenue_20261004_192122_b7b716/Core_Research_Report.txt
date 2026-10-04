@@ -1,0 +1,219 @@
+[CORE RESEARCH] PLTR: revenue
+
+Quarters searched: 0
+Filing sections searched: 49
+
+Across 2024, the company’s reported revenue grew steadily quarter over quarter while year-over-year growth remained consistently strong. Filing disclosures emphasize that revenue is generally recognized ratably over the contract term, which helps explain why quarterly revenue is influenced by the timing of previously entered contracts. Management’s Q1 and Q2 commentary highlighted continued acceleration in US commercial business and favorable US government momentum, and Q3 and Q4 reinforced broad-based growth across commercial and government revenue streams. In Q3, a specific revenue-related expectation was stated (“over $13 million in revenue”), and the later period results show revenue continued to grow materially, though the provided evidence does not include the exact $13+ million outcome tied to that statement.
+
+Forecasting credibility: None
+No guidance/actual pairs were provided for this topic in the required sense, so forecasting credibility cannot be assessed from a Met/Missed pattern. While one Q3 statement referenced an expectation of revenue impact (“over $13 million in revenue”), the evidence does not provide a directly comparable, filing-sourced or clearly quantified actual for that specific expectation, so it cannot be used to score guidance accuracy.
+
+Trends:
+  - Revenue grew year over year each quarter of 2024 (Q1 +21%, Q2 +27%, Q3 +30%, Q4 +29%).
+  - Quarterly revenue growth remained positive through 2024 (+4% Q/Q in Q1; +7% Q/Q in Q2; +7% Q/Q in Q3; +32% Y/Y excluding Strategic Commercial Contracts noted in Q4 materials).
+  - Both US commercial and US government revenue streams contributed to growth (commercial and government both up Y/Y repeatedly).
+
+Recurring themes/risks:
+  - Ratability of revenue recognition over contract terms limits rapid quarter-to-quarter increases from new sales.
+  - Revenue in a given quarter is partially driven by customer contracts entered in prior periods.
+  - Strategic Commercial Contracts have different recognition patterns, creating timing variability.
+
+Key concerns:
+  - No guidance/actual pairs for revenue (as defined by the task) are available, preventing credibility scoring.
+  - The Q3 revenue-related expectation (“over $13 million in revenue”) is not accompanied by a specific quantified actual outcome in the provided evidence, so it cannot be validated here.
+  - Multiple presentation-derived revenue figures are provided alongside filing excerpts; the excerpts show contract-term ratable recognition and timing constraints, but do not reconcile all presentation numbers within the provided text.
+
+Conclusion:
+Revenue increased meaningfully through 2024, with the company reporting $634.3 million in Q1 2024 revenue (+21% vs. $525.2 million in Q1 2023) and $678.1 million in Q2 2024 revenue (+27% vs. $533.3 million in Q2 2023) from filing excerpts. For Q3 2024, the filing excerpt shows $725.5 million revenue (+30% vs. $558.2 million in Q3 2023). The evidence indicates continued expansion across both US commercial and US government revenue in the presentation materials, and Q4 materials indicate further growth to $2.87 billion FY 2024 revenue (+29% Y/Y), consistent with the ratable revenue recognition model described in filings.
+
+Evidence Coverage: 99.6% complete; 263/264 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2024 ===
+Management said:
+Investor presentation deck:
+  - Revenue of between $2.677 billion — $2.689 billion. [Presentation_8ee1da1afa597f35.html]  - Revenue of between $649 million — $653 million. [Presentation_8ee1da1afa597f35.html]  - US commercial revenue in excess of $661 million, represen/t_ing a growth rate of at least 45%. [Presentation_8ee1da1afa597f35.html]  - US Government Revenue Growth $257M $230M +12% $250M $275M $225M $175M $200M Q1 2023 Q1 2024 [Page 18] FinancialsQ1 © 2/zero.tf24 Palan/t_ir Technologies Inc. Q1 2023 Q1 2024 Total Revenue Growth $500M $450M $400M $350M $300M $634M $525M +21% $550M $600M $650M Total revenue grew 21% Y/Y and 4% Q/Q, driven by the con/t_inued accelera/t_ion of our US commercial business. [Presentation_8ee1da1afa597f35.html]  - [Page 16] $120M $160M $140M $100M $80M US Commercial Revenue Growth Q1 2023 Q1 2024 $150M $107M +40% FinancialsQ1 © 2/zero.tf24 Palan/t_ir Technologies Inc. Commercial Revenue Growth Q1 2023 Q1 2024 $299M $236M +27% $275M $300M $250M $225M $200M $175M $150M [Page 17] FinancialsQ1 $350M $325M $300M $275M $250M $225M $200M Government Revenue Growth $335M $289M +16% Q1 2023 Q1 2024 © 2/zero.tf24 Palan/t_ir Technologies Inc. [Presentation_8ee1da1afa597f35.html]
+Guidance given:
+Actual reported:
+  - [Observed] [from presentation deck] US Government Revenue Growth $257M $230M +12% $250M $275M $225M $175M $200M Q1 2023 Q1 2024 [Page 18] FinancialsQ1 © 2/zero.tf24 Palan/t_ir Technologies Inc. Q1 2023 Q1 2024 Total Revenue Growth $500M $450M $400M $350M $300M $634M $525M +21% $550M $600M $650M Total revenue grew 21% Y/Y and 4% Q/Q, driven by the con/t_inued accelera/t_ion of our US commercial business.
+  - [Observed] [from presentation deck] [Page 3] Adjusted free cash ﬂow of $149 million; 23% margin Business UpdateQ1 © 2/zero.tf24 Palan/t_ir Technologies Inc. Q1 2024 Highlights Commercial revenue grew +27% Y/Y and +5% Q/Q to $299 million Fi/f_th consecu/t_ive quarter of GAAP opera/t_ing proﬁtability; 13% margin Adjusted opera/t_ing income of $226 million; 36% margin and the sixth consecu/t_ive quarter of expanding adjusted opera/t_ing margins Revenue grew +21% Y/Y and +4% Q/Q to $634 million Sixth consecu/t_ive quarter of GAAP proﬁtability; 17% margin US commercial customer count grew +69% Y/Y and +19% Q/Q US commercial revenue grew +40% Y/Y and +14% Q/Q to $150 million The value of deals closed reﬂects the total contract value of contracts that have been entered into with, or awarded by, our government and commercial customers and includes exis/t_ing contractual obliga/t_ions and unexercised contract op/t_ions available to those customers.
+Filing disclosures (SEC):
+  [MD&A]
+    - Revenue is generally recognized ratably over the contract term.
+    - For the three months ended March 31, 2024, we generated $634.3 million in revenue, reflecting a 21% growth rate from the three months ended March 31, 2023, when we generated $525.2 million in revenue.
+    - Revenue from our U.S. customers during the trailing twelve months ended March 31, 2024 was $1.4 billion, which grew 18% from the prior twelve-month period.
+    - Our average revenue for the top twenty customers during the trailing twelve months ended March 31, 2024 was $55.5 million, which grew 9% from an average of $50.9 million in revenue from the top twenty customers during the trailing twelve months ended March 31, 2023, demonstrating our expanding relationships with existing customers.
+    - In the three months ended March 31, 2024, we generated 64% of our revenue from customers in the United States and the remaining 36% from non-U.S. customers.
+    - In the three months ended March 31, 2024, 53% of our revenue came from government customers and 47% came from commercial customers.
+    - As of March 31, 2024, the cumulative amount of revenue recognized from Strategic Commercial Contracts was $277.8 million, of which $23.9 million was recognized by us during the three months ended March 31, 2024.
+    - The timing of our revenue recognition model also makes it difficult for us to rapidly increase our revenue through additional sales in any given period, as revenue is generally recognized over the applicable contractual term.
+    - As a result, a portion of the revenue we recognize in each quarter is derived from customer contracts generally entered into during previous periods.
+    - Because we derive, and expect to continue to derive, substantially all of our revenue from customers purchasing our platforms and products, market acceptance of these platforms and products, and any enhancements or changes thereto, is critical to our success.
+    - We derive a significant portion of our revenue from contracts with federal, state, local, and foreign governments and government agencies, and we believe that the success and growth of our business will continue to depend on our successful procurement of government contracts.
+    - For example, we have historically derived, and expect to continue to derive, a significant portion of our revenue from sales to agencies of the U.S. federal government, either directly by us or through other government contractors.
+  [Financial Statements]
+    - Revenue: $634.3M | vs prior quarter: — | vs prior year: $525.2M (+20.8%)
+    - Cost of Revenue: $116.3M | vs prior quarter: — | vs prior year: $107.6M (+8.0%)
+    - 6 real filing table(s) available (see the HTML report).
+    - Revenue of $ 244.3 million and $ 192.4 million was recognized during the three months ended March 31, 2024 and 2023, respectively, that was included in the contract liability balances as of December 31, 2023 and 2022, respectively.
+    - Revenue allocated to remaining performance obligations represents noncancelable contracted revenue that has not yet been recognized, which includes deferred revenue and, in certain instances, amounts that will be invoiced.
+    - Geographic Information Revenue by geography is based on the customer’s headquarters or agency location at the time of sale.
+    - During the three months ended March 31, 2024 and 2023, revenue recognized from Strategic Commercial Contracts was $ 23.9 million and $ 33.4 million, respectively.
+  [Footnotes]
+    - The Company’s remaining performance obligations were $ 1.3 billion as of March 31, 2024, of which the Company expects to recognize approximately 53 % as revenue over the next 12 months, 38 % as revenue over the subsequent 13 to 36 months, and the remainder thereafter.
+  [Risk Factors]
+    - 5 real filing table(s) available (see the HTML report).
+    - Revenue is generally recognized over the contract term on a ratable basis.
+    - Revenue from U.S. commercial customers was $149.7 million for the three months ended March 31, 2024 compared to $107.1 million for the same period in 2023, a 40% increase.
+    - Revenue from U.S. government customers was $256.7 million for the three months ended March 31, 2024 compared to $229.8 million for the same period in 2023.
+    - Revenue from commercial customers increased by $62.8 million, or 27%, for the three months ended March 31, 2024 compared to the same period in 2023.
+    - Cost of Revenue Cost of revenue primarily includes salaries, stock-based compensation expense, and benefits for personnel involved in performing O&M and professional services, as well as field-service representatives, third-party cloud hosting services, hardware costs, travel costs, allocated overhead, and other direct costs.
+    - Revenue from government customers increased by $46.3 million, or 16%, for the three months ended March 31, 2024 compared to the same period in 2023.
+    - Although our revenue has increased in recent periods, there can be no assurances that our revenue will continue to grow or do so at current rates, and you should not rely on the revenue of any prior quarterly or annual period as an indication of our future performance.
+    - Our top three customers together accounted for 18% and 17% of our revenue for the years ended December 31, 2023 and 2022, respectively, and 17% and 20% of our revenue for the three months ended March 31, 2024 and 2023, respectively.
+    - If our revenue growth or revenue growth rate declines overall, or with respect to certain areas of our business, our business, financial condition, and results of operations could be adversely affected.
+    - We derive a significant portion of our revenue from existing customers that expand their relationships with us.
+    - We may not be able to continue to increase our revenue at a rate sufficient to offset increases in our costs of revenue and operating expenses in the near term or at all, which would prevent us from achieving or maintaining profitability in the future.
+    - Many factors may contribute to declines or variability in our revenue growth, including macroeconomic factors, increased competition, slowing demand for our platforms from existing and new customers, a failure by us to continue capitalizing on growth opportunities, terminations of existing contracts or failure to exercise existing options by our customers, and the maturation of our business, among others.
+
+=== Q2 2024 ===
+Management said:
+Investor presentation deck:
+  - Revenue of between $2.742 billion — $2.750 billion. [Presentation_3309eb67839c49f0.html]  - Revenue of between $697 million — $701 million. [Presentation_3309eb67839c49f0.html]  - US commercial revenue in excess of $672 million, represen/t_ing a growth rate of at least 47%. [Presentation_3309eb67839c49f0.html]  - US Government Revenue Growth $278M $225M +24%$250M $275M $300M $225M $175M $200M Q2 2023 Q2 2024 // // [Page 20] FinancialsQ2 © 2/zero.tf24 Palan/t_ir Technologies Inc. Q2 2023 Q2 2024 US Government Revenue Growth $200M $160M $120M $80M $40M $278M $225M +24% $240M $280M US government revenue grew 24% Y/Y and 8% Q/Q, driven by momentum in the Department of Defense and favorable deal /t_iming. [Presentation_3309eb67839c49f0.html]  - // $500M $450M $400M $350M $300M $550M $600M $650M $700M [Page 22] Total revenue excluding strategic commercial contracts grew 30% Y/Y and 10% Q/Q. [Presentation_3309eb67839c49f0.html]
+Guidance given:
+Actual reported:
+  - [Observed] [from presentation deck] US Government Revenue Growth $278M $225M +24%$250M $275M $300M $225M $175M $200M Q2 2023 Q2 2024 // // [Page 20] FinancialsQ2 © 2/zero.tf24 Palan/t_ir Technologies Inc. Q2 2023 Q2 2024 US Government Revenue Growth $200M $160M $120M $80M $40M $278M $225M +24% $240M $280M US government revenue grew 24% Y/Y and 8% Q/Q, driven by momentum in the Department of Defense and favorable deal /t_iming.
+  - [Observed] [from presentation deck] // $500M $450M $400M $350M $300M $550M $600M $650M $700M [Page 22] Total revenue excluding strategic commercial contracts grew 30% Y/Y and 10% Q/Q.
+  - [Observed] [from presentation deck] [Page 21] FinancialsQ2 © 2/zero.tf24 Palan/t_ir Technologies Inc. Q2 2023 Q2 2024 Total Revenue Growth $678M $533M +27% Total revenue grew 27% Y/Y and 7% Q/Q, driven by the con/t_inued accelera/t_ion of our US business.
+  - [Observed] [from presentation deck] [Page 3] Adjusted free cash ﬂow of $149 million; 22% margin Business UpdateQ2 © 2/zero.tf24 Palan/t_ir Technologies Inc. Q2 2024 Highlights US government revenue grew +24% Y/Y and +8% Q/Q to $278 million GAAP opera/t_ing income of $105 million; 16% margin Adjusted opera/t_ing income of $254 million; 37% margin Revenue grew +27% Y/Y and +7% Q/Q to $678 million; +30% Y/Y and +10% Q/Q excluding Strategic Commercial Contracts GAAP net income of $134 million; 20% margin US commercial customer count grew +83% Y/Y and +13% Q/Q US commercial revenue grew +55% Y/Y and +6% Q/Q to $159 million The term “Strategic Commercial Contracts” is as deﬁned in our Quarterly Report on Form 10-Q ﬁled on May 7, 2024.
+Filing disclosures (SEC):
+  [MD&A]
+    - Revenue is generally recognized ratably over the contract term.
+    - For the six months ended June 30, 2024, we generated $1.3 billion in revenue, reflecting a 24% growth rate from the six months ended June 30, 2023 when we generated $1.1 billion in revenue.
+    - For the three months ended June 30, 2024, we generated $678.1 million in revenue, reflecting a 27% growth rate from the three months ended June 30, 2023 when we generated $533.3 million in revenue.
+    - Revenue from our U.S. customers during the trailing twelve months ended June 30, 2024 was $1.6 billion, which grew 23% from the prior twelve-month period.
+    - Our average revenue for the top twenty customers during the trailing twelve months ended June 30, 2024 was $57.3 million, which grew 9% from an average of $52.6 million in revenue from the top twenty customers during the trailing twelve months ended June 30, 2023, demonstrating our expanding relationships with existing customers.
+    - In the six months ended June 30, 2024, 54% of our revenue came from government customers and 46% came from commercial customers.
+  [Financial Statements]
+    - Revenue: $678.1M | vs prior quarter: $634.3M (+6.9%) | vs prior year: $533.3M (+27.2%)
+    - Cost of Revenue: $128.6M | vs prior quarter: $116.3M (+10.6%) | vs prior year: $106.9M (+20.3%)
+    - 6 real filing table(s) available (see the HTML report).
+    - Revenue of $ 362.4 million and $ 270.2 million was recognized during the six months ended June 30, 2024 and 2023, respectively, that was included in the contract liability balances as of December 31, 2023 and 2022, respectively.
+    - Revenue allocated to remaining performance obligations represents noncancelable contracted revenue that has not yet been recognized, which includes deferred revenue and, in certain instances, amounts that will be invoiced.
+    - Geographic Information Revenue by geography is based on the customer’s headquarters or agency location at the time of sale.
+  [Footnotes]
+    - The Company’s remaining performance obligations were $ 1.4 billion as of June 30, 2024, of which the Company expects to recognize approximately 50 % as revenue over the next 12 months, 39 % as revenue over the subsequent 13 to 36 months, and the remainder thereafter.
+  [Risk Factors]
+    - 5 real filing table(s) available (see the HTML report).
+    - Revenue is generally recognized over the contract term on a ratable basis.
+    - Revenue is allocated to each customer account directly.
+    - Revenue from U.S. commercial customers was $159.2 million for the three months ended June 30, 2024 compared to $103.0 million for the same period in 2023, a 55% increase.
+    - Revenue from U.S. commercial customers was $308.9 million for the six months ended June 30, 2024 compared to $210.1 million for the same period in 2023, a 47% increase.
+    - Revenue from U.S. government customers was $534.7 million for the six months ended June 30, 2024 compared to $454.8 million for the same period in 2023.
+    - Revenue increased by $254.0 million, or 24%, for the six months ended June 30, 2024 compared to the same period in 2023.
+    - The timing of our revenue recognition model also makes it difficult for us to rapidly increase our revenue through additional sales in any given period, as revenue is generally recognized over the applicable contractual term.
+    - As of June 30, 2024, the cumulative amount of revenue recognized from Strategic Commercial Contracts was $287.0 million, of which $33.1 million was recognized by us during the six months ended June 30, 2024.
+    - As a result, a portion of the revenue we recognize in each quarter is derived from customer contracts generally entered into during previous periods.
+    - Our top three customers together accounted for 18% and 17% of our revenue for the years ended December 31, 2023 and 2022, respectively, and 17% and 20% of our revenue for the six months ended June 30, 2024 and 2023, respectively.
+    - We derive a significant portion of our revenue from existing customers that expand their relationships with us.
+    - We derive a significant portion of our revenue from contracts with federal, state, local, and foreign governments and government agencies, and we believe that the success and growth of our business will continue to depend on our successful procurement of government contracts.
+
+=== Q3 2024 ===
+Management said:
+Investor presentation deck:
+  - Revenue of between $2.805 billion — $2.809 billion. [Presentation_116517f8276c6e36.html]  - Revenue of between $767 million — $771 million. [Presentation_116517f8276c6e36.html]  - US commercial revenue in excess of $687 million, represen/t_ing a growth rate of at least 50%. [Presentation_116517f8276c6e36.html]  - Revenue grew +30% Y/Y and +7% Q/Q to $726 million; +32% Y/Y and +7% Q/Q excluding Strategic Commercial Contracts GAAP EPS grew +100% Y/Y to $0.06; Adjusted EPS grew +43% Y/Y to $0.10 Rule of 40 score of 68% [Page 4] Annual contract value (“ACV”) closed is deﬁned as the total value of contracts closed in the period divided by the dollar-weighted average contract dura/t_ion of those same contracts. [Presentation_116517f8276c6e36.html]
+Guidance given:
+  - We have seen an increase in our overturn rate that we expect to result in over $13 million in revenue.” Jodi Cohen, Chief Strategy Oﬃcer, Mount Sinai Within nine months, automated product classiﬁca/t_ions for 99% of meal data elements, driving signiﬁcant /t_ime savings and enabling deep analysis. (target: unspecified; Unresolved)
+Actual reported:
+  - [Observed] [from presentation deck] Revenue grew +30% Y/Y and +7% Q/Q to $726 million; +32% Y/Y and +7% Q/Q excluding Strategic Commercial Contracts GAAP EPS grew +100% Y/Y to $0.06; Adjusted EPS grew +43% Y/Y to $0.10 Rule of 40 score of 68% [Page 4] Annual contract value (“ACV”) closed is deﬁned as the total value of contracts closed in the period divided by the dollar-weighted average contract dura/t_ion of those same contracts.
+  - [Observed] [from presentation deck] // [Page 20] Total revenue excluding strategic commercial contracts grew 32% Y/Y and 7% Q/Q.
+  - [Observed] [from presentation deck] [Page 3] Adjusted free cash ﬂow of $435 million; 60% margin and TTM adjusted free cash ﬂow of $1 billion; 39% margin Business UpdateQ3 © 2/zero.tf24 Palan/t_ir Technologies Inc. Q3 2024 Highlights US commercial revenue grew +54% Y/Y and +13% Q/Q to $179 million GAAP opera/t_ing income of $113 million; 16% margin Adjusted opera/t_ing income of $276 million; 38% margin US government revenue grew +40% Y/Y and +15% Q/Q to $320 million GAAP net income of $144 million; 20% margin Closed 104 deals over $1 million US revenue grew +44% Y/Y and +14% Q/Q to $499 million The term “Strategic Commercial Contracts” is as deﬁned in our Quarterly Report on Form 10-Q ﬁled on August 6, 2024.
+  - [Observed] [from presentation deck] FinancialsQ3 © 2/zero.tf24 Palan/t_ir Technologies Inc. [Page 17] US Government Revenue Growth $320M $229M +40%$275M $300M $325M $250M $200M $225M Q3 2023 Q3 2024 $120M $160M $180M $140M $100M $80M US Commercial Revenue Growth Q3 2023 Q3 2024 $179M $116M +54% FinancialsQ3 © 2/zero.tf24 Palan/t_ir Technologies Inc. //// US government revenue grew 40% Y/Y and 15% Q/QUS commercial revenue grew 54% Y/Y and 13% Q/Q [Page 18] $380M $410M $350M $320M $290M $260M $230M $200M Government Revenue Growth $408M $308M +33% Q3 2023 Q3 2024 Commercial Revenue Growth Q3 2023 Q3 2024 $317M $251M +27% $300M $325M $275M $250M $225M $200M $175M // // FinancialsQ3 © 2/zero.tf24 Palan/t_ir Technologies Inc. [Page 19] FinancialsQ3 © 2/zero.tf24 Palan/t_ir Technologies Inc. Q3 2023 Q3 2024 Total Revenue Growth $500M $400M $726M $558M +30% $600M $700M $800M Total revenue grew 30% Y/Y and 7% Q/Q, driven by the con/t_inued accelera/t_ion of our US business.
+Filing disclosures (SEC):
+  [MD&A]
+    - Revenue is generally recognized ratably over the contract term.
+    - For the nine months ended September 30, 2024, we generated $2.0 billion in revenue, reflecting a 26% growth rate from the nine months ended September 30, 2023, when we generated $1.6 billion in revenue.
+    - For the three months ended September 30, 2024, we generated $725.5 million in revenue, reflecting a 30% growth rate from the three months ended September 30, 2023, when we generated $558.2 million in revenue.
+    - Revenue from our U.S. customers during the trailing twelve months ended September 30, 2024 was $1.7 billion, which grew 30% from the prior twelve-month period.
+    - Our average revenue for the top twenty customers during the trailing twelve months ended September 30, 2024 was $60.1 million, which grew 12% from an average of $53.7 million in revenue from the top twenty customers during the trailing twelve months ended September 30, 2023, demonstrating our expanding relationships with existing customers.
+    - In the nine months ended September 30, 2024, we generated 66% of our revenue from customers in the United States and the remaining 34% from non-U.S. customers.
+  [Financial Statements]
+    - Revenue: $725.5M | vs prior quarter: $678.1M (+7.0%) | vs prior year: $558.2M (+30.0%)
+    - Cost of Revenue: $146.6M | vs prior quarter: $128.6M (+14.1%) | vs prior year: $107.9M (+35.9%)
+    - 6 real filing table(s) available (see the HTML report).
+    - Revenue of $ 440.9 million and $ 314.9 million was recognized during the nine months ended September 30, 2024 and 2023, respectively, that was included in the contract liability balances as of December 31, 2023 and 2022, respectively.
+    - Revenue allocated to remaining performance obligations represents noncancelable contracted revenue that has not yet been recognized, which includes deferred revenue and, in certain instances, amounts that will be invoiced.
+    - Geographic Information Revenue by geography is based on the customer’s headquarters or agency location at the time of sale.
+    - During the three months ended September 30, 2024 and 2023, revenue recognized from Strategic Commercial Contracts was $ 9.6 million and $ 14.7 million, respectively.
+  [Footnotes]
+    - The Company’s remaining performance obligations were $ 1.6 billion as of September 30, 2024, of which the Company expects to recognize approximately 46 % as revenue over the next 12 months, 39 % as revenue over the subsequent 13 to 36 months, and the remainder thereafter.
+  [Risk Factors]
+    - 5 real filing table(s) available (see the HTML report).
+    - Revenue is generally recognized over the contract term on a ratable basis.
+    - Revenue is allocated to each customer account directly.
+    - Revenue from U.S. commercial customers was $179.2 million for the three months ended September 30, 2024 compared to $116.3 million for the same period in 2023, a 54% increase.
+    - Revenue from U.S. commercial customers was $488.1 million for the nine months ended September 30, 2024 compared to $326.3 million for the same period in 2023, a 50% increase.
+    - Revenue from U.S. government customers was $854.5 million for the nine months ended September 30, 2024 compared to $684.0 million for the same period in 2023.
+    - Revenue from U.S. government customers was $319.8 million for the three months ended September 30, 2024 compared to $229.2 million for the same period in 2023.
+    - As of September 30, 2024, the cumulative amount of revenue recognized from Strategic Commercial Contracts was $296.6 million, of which $42.7 million was recognized by us during the nine months ended September 30, 2024.
+    - The timing of our revenue recognition model also makes it difficult for us to rapidly increase our revenue through additional sales in any given period, as revenue is generally recognized over the applicable contractual term.
+    - As a result, a portion of the revenue we recognize in each quarter is derived from customer contracts generally entered into during previous periods.
+    - Our top three customers together accounted for 18% and 17% of our revenue for the years ended December 31, 2023 and 2022, respectively, and 17% and 19% of our revenue for the nine months ended September 30, 2024 and 2023, respectively.
+    - We derive a significant portion of our revenue from existing customers that expand their relationships with us.
+    - We derive a significant portion of our revenue from contracts with federal, state, local, and foreign governments and government agencies, and we believe that the success and growth of our business will continue to depend on our successful procurement of government contracts.
+
+=== Q4 2024 ===
+Management said:
+Investor presentation deck:
+  - Revenue of between $3.741 billion — $3.757 billion. [Presentation_b06b09fbc6a6c063.html]  - Revenue of between $858 million — $862 million. [Presentation_b06b09fbc6a6c063.html]  - US commercial revenue grew +54% Y/Y to $702 million US revenue grew +38% Y/Y to $1.90 billion Adjusted opera/t_ing income of $1.13 billion; 39% margin, up 1,100 basis points Y/Y Adjusted free cash ﬂow of $1.25 billion; 44% margin US government revenue grew +30% Y/Yto $1.20 billion Customer count increased +43% Y/Y to 711, up from 497 a year ago Revenue grew +29% Y/Y to $2.87 billion; +32% Y/Y excluding Strategic Commercial Contracts Adjusted EPS of $0.41 $5.2 billion in cash, cash equivalents, and short-term US Treasury securi/t_ies Rule of 40 score of 68% FY 2024 Highlights [Page 5] Business UpdateQ4 In Q4, we celebrated the successful delivery of our Market-Vesting SARs. [Presentation_b06b09fbc6a6c063.html]  - US commercial revenue in excess of $1.079 billion, represen/t_ing a growth rate of at least 54%. [Presentation_b06b09fbc6a6c063.html]  - US commercial revenue grew +64% Y/Y and +20% Q/Q to $214 million US revenue grew +52% Y/Y and +12% Q/Q to $558 million US commercial remaining deal value (“RDV”) grew +99% Y/Y and +47% Q/Q to $1.79 billion Adjusted opera/t_ing income of $373 million; 45% margin US government revenue grew +45% Y/Y and +7% Q/Q to $343 million Closed 129 deals of at least $1 million, 58 deals of at least $5 million, and 32 deals of at least $10 million Revenue grew +36% Y/Y and +14% Q/Q to $828 million; +39% Y/Y and +14% Q/Q excluding Strategic Commercial Contracts Closed a record-se/t_t_ing $803 million of US commercial total contract value (“TCV”), +134% Y/Y and +170% Q/Q Adjusted EPS of $0.14 Rule of 40 score of 81% [Page 4] Business UpdateF/Y.ss04 © 2/zero.tf25 Palan/t_ir Technologies Inc. We deﬁne a customer as an organiza/t_ion from which we have recognized revenue during the trailing twelve months period. [Presentation_b06b09fbc6a6c063.html]  - FinancialsQ4 © 2/zero.tf25 Palan/t_ir Technologies Inc. $—M [Page 19] US Government Revenue Growth $343M $237M +45% $275M $300M $325M $250M $225M Q4 2023 Q4 2024 $125M $175M $200M $225M $350M $150M $100M $75M $200M US Commercial Revenue Growth US commercial revenue grew 64% Y/Y and 20% Q/Q US government revenue grew 45% Y/Y and 7% Q/Q Q4 2023 Q4 2024 $214M $131M +64% FinancialsQ4 © 2/zero.tf25 Palan/t_ir Technologies Inc. // // [Page 20] Commercial Revenue Growth Q4 2023 Q4 2024 $372M $284M +31% // FinancialsQ4 © 2/zero.tf25 Palan/t_ir Technologies Inc. $500M $450M $400M $350M $300M $250M Government Revenue Growth $455M $324M +40% Q4 2023 Q4 2024 $300M $250M $350M $400M $200M // $200M [Page 21] FinancialsQ4 © 2/zero.tf25 Palan/t_ir Technologies Inc. Q4 2023 Q4 2024 Total Revenue Growth $600M $500M $828M $608M +36% $800M $700M $900M Total revenue grew +36% Y/Y and +14% Q/Q, driven by the con/t_inued accelera/t_ion of our US business. [Presentation_b06b09fbc6a6c063.html]
+Guidance given:
+Actual reported:
+  - [Unresolved] [from presentation deck] US commercial revenue grew +54% Y/Y to $702 million US revenue grew +38% Y/Y to $1.90 billion Adjusted opera/t_ing income of $1.13 billion; 39% margin, up 1,100 basis points Y/Y Adjusted free cash ﬂow of $1.25 billion; 44% margin US government revenue grew +30% Y/Yto $1.20 billion Customer count increased +43% Y/Y to 711, up from 497 a year ago Revenue grew +29% Y/Y to $2.87 billion; +32% Y/Y excluding Strategic Commercial Contracts Adjusted EPS of $0.41 $5.2 billion in cash, cash equivalents, and short-term US Treasury securi/t_ies Rule of 40 score of 68% FY 2024 Highlights [Page 5] Business UpdateQ4 In Q4, we celebrated the successful delivery of our Market-Vesting SARs.
+  - [Observed] [from presentation deck] US commercial revenue grew +64% Y/Y and +20% Q/Q to $214 million US revenue grew +52% Y/Y and +12% Q/Q to $558 million US commercial remaining deal value (“RDV”) grew +99% Y/Y and +47% Q/Q to $1.79 billion Adjusted opera/t_ing income of $373 million; 45% margin US government revenue grew +45% Y/Y and +7% Q/Q to $343 million Closed 129 deals of at least $1 million, 58 deals of at least $5 million, and 32 deals of at least $10 million Revenue grew +36% Y/Y and +14% Q/Q to $828 million; +39% Y/Y and +14% Q/Q excluding Strategic Commercial Contracts Closed a record-se/t_t_ing $803 million of US commercial total contract value (“TCV”), +134% Y/Y and +170% Q/Q Adjusted EPS of $0.14 Rule of 40 score of 81% [Page 4] Business UpdateF/Y.ss04 © 2/zero.tf25 Palan/t_ir Technologies Inc. We deﬁne a customer as an organiza/t_ion from which we have recognized revenue during the trailing twelve months period.
+  - [Observed] [from presentation deck] FinancialsQ4 © 2/zero.tf25 Palan/t_ir Technologies Inc. $—M [Page 19] US Government Revenue Growth $343M $237M +45% $275M $300M $325M $250M $225M Q4 2023 Q4 2024 $125M $175M $200M $225M $350M $150M $100M $75M $200M US Commercial Revenue Growth US commercial revenue grew 64% Y/Y and 20% Q/Q US government revenue grew 45% Y/Y and 7% Q/Q Q4 2023 Q4 2024 $214M $131M +64% FinancialsQ4 © 2/zero.tf25 Palan/t_ir Technologies Inc. // // [Page 20] Commercial Revenue Growth Q4 2023 Q4 2024 $372M $284M +31% // FinancialsQ4 © 2/zero.tf25 Palan/t_ir Technologies Inc. $500M $450M $400M $350M $300M $250M Government Revenue Growth $455M $324M +40% Q4 2023 Q4 2024 $300M $250M $350M $400M $200M // $200M [Page 21] FinancialsQ4 © 2/zero.tf25 Palan/t_ir Technologies Inc. Q4 2023 Q4 2024 Total Revenue Growth $600M $500M $828M $608M +36% $800M $700M $900M Total revenue grew +36% Y/Y and +14% Q/Q, driven by the con/t_inued accelera/t_ion of our US business.
+  - [Observed] [from presentation deck] Strategic Commercial Contracts $600M $400M $818M $588M +39% $800M $1000M // FinancialsQ4 © 2/zero.tf25 Palan/t_ir Technologies Inc. Total revenue excluding strategic commercial contracts grew +39% Y/Y and +14% Q/Q.
+Filing disclosures (SEC):
+  [MD&A]
+    - As of December 31, 2024, the cumulative amount of revenue recognized from Strategic Commercial Contracts was $306.2 million, of which $52.3 million was recognized by us during the fiscal year ended December 31, 2024.
+    - The timing of our revenue recognition model also makes it difficult for us to rapidly increase our revenue through additional sales in any given period, as revenue is generally recognized over the applicable contractual term.
+    - As a result, a portion of the revenue we recognize in each quarter is derived from customer contracts generally entered into during previous periods.
+    - Because we derive, and expect to continue to derive, substantially all of our revenue from customers purchasing our platforms and products, market acceptance of these platforms and products, and any enhancements or changes thereto, is critical to our success.
+    - For example, some of our early-stage Investee customers filed for bankruptcy or terminated their contracts with us, and the remaining value of the commercial contracts with such customers that is not expected to be recognized as revenue has been excluded from the total value of Strategic Commercial Contracts above.
+    - We generally recognize revenue from our platforms and O&M services over the contractual term.
+    - We derive a portion of our revenue from programs with governments and government agencies that are subject to security restrictions (e.g., contracts involving classified information, classified contracts, and classified programs), which preclude the dissemination of information and technology that is classified for national security purposes under applicable law and regulation.
+    - We derive a significant portion of our revenue from contracts with federal, state, local, and foreign governments and government agencies, and we believe that the success and growth of our business will continue to depend on our successful procurement of government contracts.
+    - For example, we have historically derived, and expect to continue to derive, a significant portion of our revenue from sales to agencies of the U.S. federal government, either directly by us or through other government contractors.
+    - In particular, we make certain estimates and assumptions related to the adoption and interpretation of these principles including related to the recognition of our revenue.
+    - Because we generate a substantial portion of our revenue from contracts with governments and government agencies, and in particular from contracts with the U.S. government and government agencies, our results of operations could be adversely affected by government spending caps or changes in government budgetary priorities, as well as by delays in the government budget process, program starts, or the award of contracts or orders under existing contract vehicles, including as a result of a new U.S. administration.
+    - Non-compliance with the GDPR specifically may result in administrative fines or monetary penalties of up to 4% of worldwide annual revenue in the preceding financial year or €20 million (whichever is higher) for the most serious infringements, and could result in proceedings against us by governmental entities or other related parties and may otherwise adversely impact our business, financial condition, and results of operations.
+    - Revenue is generally recognized ratably over the contract term.
+    - For the year ended December 31, 2024, we generated $2.9 billion in revenue, reflecting a 29% growth rate from the year ended December 31, 2023, when we generated $2.2 billion in revenue.
+    - Revenue from our U.S. customers during the trailing twelve months ended December 31, 2024 was $1.9 billion, which grew 38% from the prior twelve-month period.
+    - Our average revenue for the top twenty customers during the trailing twelve months ended December 31, 2024 was $64.6 million, which grew 18% from an average of $54.6 million in revenue from the top twenty customers during the trailing twelve months ended December 31, 2023, demonstrating our expanding relationships with existing customers.
+    - In the year ended December 31, 2024, 55% of our revenue came from government customers and 45% came from commercial customers.
+    - In the year ended December 31, 2024, we generated 66% of our revenue from customers in the United States and the remaining 34% from non-U.S. customers.
+  [Financial Statements]
+    - Revenue: $2.87B | vs prior quarter: — | vs prior year: $2.23B (+28.8%)
+    - Cost of Revenue: $566.0M | vs prior quarter: — | vs prior year: $431.1M (+31.3%)
+    - 7 real filing table(s) available (see the HTML report).
+    - Revenue is generally recognized over the contract term on a ratable basis.
+    - In accordance with Accounting Standards Codification (“ASC”) 606, Revenue from Contracts with Customers , the Company recognizes revenue upon the transfer of promised goods or services to customers in an amount that reflects the consideration to which the Company expects to be entitled in exchange for promised goods or services.
+    - Revenue of $ 457.6 million and $ 329.4 million was recognized during the years ended December 31, 2024 and 2023, respectively, that was included in the contract liabilities as of December 31, 2023 and 2022, respectively.
+    - Cost of Revenue Cost of revenue primarily includes salaries, stock-based compensation expense, and benefits for personnel involved in performing O&M and professional services, as well as subcontractor expenses, field-service representatives, third-party cloud hosting services, hardware costs, travel costs, allocated overhead, and other direct costs.
+    - Revenue allocated to remaining performance obligations represents noncancelable contracted revenue that has not yet been recognized, which includes deferred revenue and, in certain instances, amounts that will be invoiced.
+  [Risk Factors]
+    - 5 real filing table(s) available (see the HTML report).
+    - Although our revenue has increased in recent periods, there can be no assurances that our revenue will continue to grow or do so at current rates, and you should not rely on the revenue of any prior quarterly or annual period as an indication of our future performance.
+    - Our top three customers together accounted for 17% and 18% of our revenue for the years ended December 31, 2024 and 2023, respectively.
+    - If our revenue growth or revenue growth rate declines overall, or with respect to certain areas of our business, our business, financial condition, and results of operations could be adversely affected.
+    - We derive a significant portion of our revenue from existing customers that expand their relationships with us.
+    - We may not be able to continue to increase our revenue at a rate sufficient to offset increases in our costs of revenue and operating expenses in the near term or at all, which would prevent us from maintaining profitability in the future.
+    - Our top three customers by revenue for the year ended December 31, 2024, have been with us for an average of nine years as of December 31, 2024.
+    - Revenue is generally recognized over the contract term on a ratable basis.
+    - Revenue is allocated to each customer account directly.
+    - Revenue from U.S. commercial customers was $702.3 million for the year ended December 31, 2024 compared to $457.1 million for the same period in 2023, a 54% increase.
+    - Revenue from U.S. government customers was $1.2 billion for the year ended December 31, 2024 compared to $921.2 million for the same period in 2023.
+    - In accordance with Accounting Standards Codification (“ASC”) 606, Revenue from Contracts with Customers , we recognized revenue upon the transfer of promised goods or services to customers in an amount that reflects the consideration to which we expect to be entitled in exchange for promised goods or services.
+    - Cost of Revenue Cost of revenue primarily includes salaries, stock-based compensation expense, and benefits for personnel involved in performing O&M and professional services, as well as subcontractor expenses, field-service representatives, third-party cloud hosting services, hardware costs, travel costs, allocated overhead, and other direct costs.
+
