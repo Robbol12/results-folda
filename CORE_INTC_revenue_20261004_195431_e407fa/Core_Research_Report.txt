@@ -1,0 +1,39 @@
+[CORE RESEARCH] INTC: revenue
+
+Quarters searched: 0
+Filing sections searched: 4
+
+For Q3 2024, management guidance was for a revenue outcome that was later resolved positively: the company reported revenue that was $0.3B above its August outlook. The earnings-call excerpt also characterizes revenue as having “exceeded,” indicating the realized figure beat the guidance benchmark for that quarter. No other guidance/actual pairs for revenue across additional periods were provided in the supplied evidence, so the evolution over time is limited to this single datapoint. Overall, revenue performance in the period described shows an upside resolution versus guidance despite profit headwinds from impairment and restructuring charges.
+
+Forecasting credibility: Medium
+Only one guidance/actual pair with an explicit verdict is provided (Q3 2024), and that pair resolved with revenue exceeding guidance by $0.3B. With a single data point, broader forecasting credibility for revenue cannot be robustly established; however, the guidance/actual resolution is favorable rather than unfavorable.
+
+Trends:
+  - Q3 2024 revenue beat guidance (above August outlook)
+
+Recurring themes/risks:
+  - Profitability pressured by impairment and restructuring charges even when revenue beats guidance
+
+Key concerns:
+  - The evidence set contains only one revenue guidance/actual verdict; no cross-quarter pattern (met vs. missed) can be assessed beyond Q3 2024.
+  - The provided excerpt emphasizes large impairment and restructuring charges, which may complicate interpreting performance quality even if revenue beats guidance.
+
+Conclusion:
+Revenue in Q3 2024 exceeded management’s August outlook by $0.3B, based on the transcript’s stated delta versus outlook. The call explicitly frames this as “Revenue Exceeded,” aligning the qualitative guidance/actual verdict with the quantitative outperformance versus outlook. Despite the revenue beat, profitability was impacted by significant impairment and restructuring charges mentioned in the same executive summary. Based on the provided evidence, revenue showed a guidance-resolving upside in the quarter, but longitudinal revenue performance beyond Q3 2024 cannot be concluded from the supplied periods.
+
+Evidence Coverage: 91.4% complete; 32/35 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q3 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Exceeded] [Page 4] Executive Summary Revenue Exceeded, Profitability Impacted by Charges Made significant progress toward $10B cost reduction plan Recorded impairment charges of $15.9B and restructuring charges of $2.8B Launch of 18A Will Complete 5N4Y Intel 18A development progressing well with products launching in 2025 Several new external Intel 18A and advanced packaging design wins Driving the x86 Ecosystem Forward Established x86 Ecosystem Advisory Group with multiple industry leaders Launched Core Ultra 200v with leading AI performance and battery life [Page 5] 2024 2025 Non-GAAP R&D and MG&A 2024 2025 Gross Net (non-GAAP) >$10B Cost Reduction Plan Q3 Restructuring & Impairment Charges Manufacturing Asset Impairment Charges $3.1B Restructuring Charges Aligned to Cost Reduction Plan $2.8B Impairments for Goodwill (primarily MBLY) & Other Intangibles $2.9B Valuation Allowances for Deferred Tax Assets $9.9B Total Restructuring & Impairment Charges $18.5B Capital Spending* Gross: $25B ~$20.0B ~$17.5B Net: $11B Gross: $20-23B Net: $12-14B *Gross capital spending is GAAP additions to property, plant and equipment.
+  - [Observed] Prior Consensus INTC Guide GAAP + Non-GAAP Impairment GAAP Restructuring GAAP Impairment GAAP Impairment [Page 6] ▪ Achieved Intel 18A product & process milestones ▪ External 18A & advanced packaging design wins ▪ $3B US Gov’t Secure Enclave partnership ▪ Unlocking value of our core x86 franchise ▪ Continued leadership of AI PC category ▪ Xeon 6 improves DC CPU competitiveness [Page 7] Q3 Financial Highlights Down 6% YoY $0.3B above Aug outlook 1 18.0% Gross Margin 3 Down 27.8 ppt YoY 2 20 ppt below Aug outlook 1 $(0.46) EPS 4 Down $0.87 YoY 2 $0.43 below Aug outlook 1 $13.3B Revenue 1 Comparisons are based on the mid-point of revenue outlook 2 $3.0 billion in manufacturing asset impairment charges reduced Non -GAAP gross margin by ~23 ppt and EPS by ~$0.61 per share 3 GAAP gross margin 15%, down 27.5ppt YoY.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Revenue: $13.28B | vs prior quarter: $12.83B (+3.5%) | vs prior year: $14.16B (-6.2%)
+    - Cost of Revenue: $11.29B | vs prior quarter: $8.29B (+36.2%) | vs prior year: $8.14B (+38.7%)
+    - 2 real filing table(s) available (see the HTML report).
+
