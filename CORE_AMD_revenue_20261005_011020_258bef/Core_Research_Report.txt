@@ -1,0 +1,222 @@
+[CORE RESEARCH] AMD: revenue
+
+Quarters searched: 1
+Filing sections searched: 42
+
+Across 2023, net revenue declined early and mid-year on a year-over-year basis before stabilizing and then recovering modestly in Q3, consistent with segment-driven volatility. Q1 2023 net revenue was $5.4 billion (-9% YoY), with Client and Gaming down and Embedded up sharply due to inclusion/coverage timing of Xilinx embedded product sales. Q2 2023 net revenue remained $5.4 billion (-18% YoY) despite growth in Embedded, reflecting weaker PC demand and inventory correction impacting Client. By Q3 2023, net revenue rose to $5.8 billion (+4% YoY). In Q4 2023, management discussed large quarter-specific swings and issued near-term revenue guidance for the next period, but the provided evidence does not include the realized revenue for the guided period, leaving the guidance-to-actual resolution incomplete.
+
+Forecasting credibility: None
+No guidance/actual pair count for revenue can be evaluated as “Met/Exceeded” vs “Missed” because the evidence does not include the actual outcome for the specific revenue guidance range given (e.g., the “approximately $5.4 billion plus or minus $300 million” guidance). Therefore, forecasting credibility cannot be determined from the guidance/actual comparison requirement.
+
+Trends:
+  - Net revenue down YoY in Q1 and Q2 2023, then up YoY in Q3
+  - Embedded segment revenue growth helped offset declines in other segments
+  - Data Center/Client strength and Embedded/Gaming weakness cited around Q4 dynamics
+
+Recurring themes/risks:
+  - Inventory corrections/downstream stocking and shipping below consumption
+  - PC/console demand cyclicality and supply-demand normalization
+  - Segment mix and product transition timing (e.g., Xilinx embedded sales coverage)
+
+Key concerns:
+  - Revenue guidance was provided for a near-term period, but the corresponding actual revenue outcome for that guided period is not present in the supplied evidence, preventing guidance-vs-actual validation.
+  - The evidence set includes multiple quarter disclosures, but only Q4 includes explicit forward revenue guidance; earlier periods show actuals without paired forward guidance for this topic.
+
+Conclusion:
+Revenue in 2023 was volatile and largely driven by segment mix and demand/inventory dynamics. Net revenue was $5.4 billion in both Q1 and Q2 (down 9% and 18% YoY, respectively) and improved to $5.8 billion in Q3 (+4% YoY). Q4 2023 saw quarter-level strength in the provided transcript metrics (e.g., revenue $6.2 billion, +10% YoY) alongside commentary about customers focusing on inventory reduction in a lower reported quarter figure (revenue decreased to $1.1 billion, -24% YoY and -15% sequentially). For full-year performance, the filing excerpt states net revenue for 2023 was $22.7 billion, down 4% from $23.6 billion in 2022. A specific near-term revenue guidance range of approximately $5.4 billion ± $300 million was given in Q4, but the actual for the guided period is not provided, so the guidance’s accuracy cannot be concluded from this dataset.
+
+Evidence Coverage: 96.0% complete; 261/272 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2023 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] Net revenue for the three months ended April 1, 2023 was $5.4 billion, a 9% decrease compared to the prior year period.
+  - [Observed] [from SEC filing] The decrease in net revenue was driven mainly by a 65% decrease in Client segment revenue primarily due to shipping below consumption to reduce downstream inventory, as well as a 6% decrease in Gaming segment revenue primarily due to a decline in gaming graphics sales.
+  - [Observed] [from SEC filing] The decrease was partially offset by a 163% increase in Embedded segment revenue driven mainly by the inclusion of a full quarter of Xilinx embedded product sales in the first quarter of 2023 as compared to a partial quarter of Xilinx embedded product sales in the first quarter of 2022, which was measured from February 14, 2
+Filing disclosures (SEC):
+  [MD&A]
+    - Net revenue for the three months ended April 1, 2023 was $5.4 billion, a 9% decrease compared to the prior year period.
+    - Historically, our net revenue has been generally higher in the second half of the year than in the first half of the year, although market conditions and product transitions could impact this trend.
+    - Embedded Embedded net revenue of $1.6 billion for the three months ended April 1, 2023 increased by 163%, compared to net revenue of $595 million for the prior year period.
+    - Gaming Gaming net revenue of $1.8 billion for the three months ended April 1, 2023 decreased by 6%, compared to net revenue of $1.9 billion for the prior year period.
+    - 23 Table of Contents Client Client net revenue of $739 million for the three months ended April 1, 2023 decreased by 65%, compared to net revenue of $2.1 billion for the prior year period, primarily due to lower Client processor sales driven by a 26% decrease in average selling price and a 55% decrease in unit shipments due to shipping below consumption to reduce downstream inventory.
+  [Financial Statements]
+    - Revenue: $5.35B | vs prior quarter: — | vs prior year: $5.89B (-9.1%)
+    - Cost of Revenue: $2.99B | vs prior quarter: — | vs prior year: $3.07B (-2.4%)
+    - 1 real filing table(s) available (see the HTML report).
+    - Revenue recognized over time associated with custom products and development services accounted for 29 % and 21 % of the Company’s revenue for the three months ended April 1, 2023 and March 26, 2022, respectively .
+    - The revenue allocated to remaining performance obligations does not include amounts which have an original expected duration of one year or less.
+  [Footnotes]
+    - 3 real filing table(s) available (see the HTML report).
+    - Areas where management uses judgment include, but are not limited to, revenue allowances, inventory valuation, valuation of goodwill and long-lived assets, and income taxes.
+  [Risk Factors]
+    - For example, historically, our net revenue has been generally higher in the second half of the year than in the first half of the year, although market conditions and product transitions could impact these trends.
+    - Our Client segment revenue is focused on the consumer desktop and notebook PC segments, which since the second half of 2022 has experienced a decline as a result of weak PC market macroeconomic conditions and inventory correction actions across the PC supply chain.
+    - International sales, as a percent of net revenue, were 68% for the three months ended April 1, 2023.
+    - We depend on a small number of customers for a substantial portion of our business and we expect that a small number of customers will continue to account for a significant part of our revenue in the future.
+    - This uneven sales pattern makes prediction of revenue for each financial period difficult and increases the risk of unanticipated variations in quarterly results and financial condition.
+    - The markets in which our products are sold are very competitive and delivering the latest and best products to market on a timely basis is critical to achieving revenue growth.
+
+=== Q2 2023 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] Net revenue for the three months ended July 1, 2023 was $5.4 billion, an 18% decrease compared to the prior year period.
+  - [Observed] [from SEC filing] The decrease in net revenue was driven mainly by a 54% decrease in Client segment revenue primarily due to lower processor shipments resulting from a weaker PC market and a significant inventory correction across the PC supply chain, partially offset by a 16% increase in Embedded segment revenue primarily due to higher revenue across multiple end markets.
+Filing disclosures (SEC):
+  [MD&A]
+    - Net revenue for the three months ended July 1, 2023 was $5.4 billion, an 18% decrease compared to the prior year period.
+    - Embedded net revenue of $3.0 billion for the six months ended July 1, 2023 increased by 63%, compared to net revenue of $1.9 billion for the prior year period.
+    - The increase in net revenue was primarily driven by higher product revenue across multiple end markets.
+    - Historically, our net revenue has been generally higher in the second half of the year than in the first half of the year, although market conditions and product transitions could impact this trend.
+    - Client net revenue of $1.7 billion for the six months ended July 1, 2023 decreased by 59%, compared to net revenue of $4.3 billion for the prior year period, primarily due to lower Client processor sales driven by a 24% decrease in average selling price and a 49% decrease in unit shipments.
+    - Gaming net revenue of $3.3 billion for the six months ended July 1, 2023 decreased by 5%, compared to net revenue of $3.5 billion for the prior year period.
+  [Financial Statements]
+    - Revenue: $5.36B | vs prior quarter: $5.35B (+0.1%) | vs prior year: $6.55B (-18.2%)
+    - Cost of Revenue: $2.92B | vs prior quarter: $2.99B (-2.6%) | vs prior year: $3.52B (-17.2%)
+    - 1 real filing table(s) available (see the HTML report).
+    - Revenue recognized over time associated with custom products and development services accounted for 27 % and 28 % of the Company’s revenue for the three and six months ended July 1, 2023, respectively and 20 % and 21 % of the Company’s revenue for the three and six months ended June 25, 2022, respectively, 10 Table of Contents NOTE 4 – Segment Reporting Management, including the Chief Operating Decision Maker (CODM), who is the Company’s Chief Executive Officer, reviews and assesses operating performance using segment net revenue and operating income (loss).
+    - The revenue allocated to remaining performance obligations does not include amounts which have an original expected duration of one year or less.
+  [Footnotes]
+    - 3 real filing table(s) available (see the HTML report).
+    - Areas where management uses judgment include, but are not limited to, revenue allowances, inventory valuation, valuation of goodwill and long-lived assets, and income taxes.
+    - Unbilled accounts receivable primarily represents work completed on development services and on custom products for which revenue has been recognized but not yet invoiced.
+  [Risk Factors]
+    - For example, historically, our net revenue has been generally higher in the second half of the year than in the first half of the year, although market conditions and product transitions could impact these trends.
+    - Our Client segment revenue is focused on the consumer desktop and notebook PC segments, which since the second half of 2022 has experienced a decline as a result of weak PC market macroeconomic conditions and inventory correction actions across the PC supply chain.
+    - International sales, as a percent of net revenue, were 66% for the three months ended July 1, 2023.
+    - We depend on a small number of customers for a substantial portion of our business and we expect that a small number of customers will continue to account for a significant part of our revenue in the future.
+    - This uneven sales pattern makes prediction of revenue for each financial period difficult and increases the risk of unanticipated variations in quarterly results and financial condition.
+    - The markets in which our products are sold are highly competitive and delivering the latest and best products to market on a timely basis is critical to achieving revenue growth.
+
+=== Q3 2023 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - Net revenue for the three months ended September 30, 2023 was $5.8 billion, a 4% increase compared to the prior year period.
+    - Embedded net revenue of $4.3 billion for the nine months ended September 30, 2023 increased by 35%, compared to net revenue of $3.2 billion for the prior year period.
+    - Historically, our net revenue has been generally higher in the second half of the year than in the first half of the year, although market conditions and product transitions could impact this trend.
+    - Gaming net revenue of $4.8 billion for the nine months ended September 30, 2023 decreased by 6%, compared to net revenue of $5.2 billion for the prior year period, primarily due to lower gaming graphics revenue.
+    - Gaming Gaming net revenue of $1.5 billion for the three months ended September 30, 2023 decreased by 8%, compared to net revenue of $1.6 billion for the prior year period, primarily due to lower semi-custom product revenue, partially offset by higher Radeon GPU sales.
+    - Embedded Embedded net revenue of $1.2 billion for the three months ended September 30, 2023 decreased by 5%, compared to net revenue of $1.3 billion for the prior year period.
+  [Financial Statements]
+    - Revenue: $5.80B | vs prior quarter: $5.36B (+8.2%) | vs prior year: $5.57B (+4.2%)
+    - Cost of Revenue: $3.05B | vs prior quarter: $2.92B (+4.7%) | vs prior year: $3.21B (-4.9%)
+    - 1 real filing table(s) available (see the HTML report).
+    - Revenue recognized over time associated with custom products and development services accounted for 25 % and 2 7 % of the Company’s revenue for the three and nine months ended September 30, 2023, respectively and 30 % and 24 % of the Company’s revenue for the three and nine months ended September 24, 2022, respectively .
+    - The revenue allocated to remaining performance obligations does not include amounts which have an original expected duration of one year or less.
+  [Footnotes]
+    - 3 real filing table(s) available (see the HTML report).
+    - Areas where management uses judgment include, but are not limited to, revenue allowances, inventory valuation, valuation of goodwill and long-lived assets, and income taxes.
+  [Risk Factors]
+    - For example, historically, our net revenue has been generally higher in the second half of the year than in the first half of the year, although market conditions and product transitions could impact these trends.
+    - For instance, our Client segment revenue is focused on the consumer desktop and notebook PC segments, which during the second half of 2022 and first half of 2023 experienced a decline as a result of weak PC market macroeconomic conditions and inventory correction actions across the PC supply chain.
+    - International sales, as a percent of net revenue, were 68% for the three months ended September 30, 2023.
+    - We depend on a small number of customers for a substantial portion of our business and we expect that a small number of customers will continue to account for a significant part of our revenue in the future.
+    - This uneven sales pattern makes prediction of revenue for each financial period difficult and increases the risk of unanticipated variations in quarterly results and financial condition.
+    - The markets in which our products are sold are highly competitive and delivering the latest and best products to market on a timely basis is critical to achieving revenue growth.
+
+=== Q4 2023 ===
+Management said:
+  - Revenue was $1.5 billion, an increase of 62% year over year and flat sequentially.
+  - We expect revenue to be approximately $5.4 billion plus or minus $300 million.
+  - For the fourth quarter of 2023, revenue was $6.2 billion, growing 10% year over year as revenue growth in the Data Center and the Client segments was partially offset by the lower revenue in our Embedded and Gaming segment.
+  - Revenue decreased 24% year over year and 15% sequentially to $1.1 billion as customers focused on reducing their inventory levels.
+  - On a full year basis, annual revenue declined 4% to $22.7 billion as record Data Center and Embedded segment annual revenue was offset by lower Client and Gaming segment revenue.
+  - Fourth quarter revenue increased 10% year over year to $6.2 billion, driven by a significant double-digit percentage growth in our Data Center and Client segments.
+  - Embedded segment revenue was $1.1 billion, down 24% year over year and 15% sequentially as customers continue to work down their inventory levels.
+  - Data Center segment revenue grew 38% year over year and 43% sequentially to a record $2.3 billion.
+  - As a result, we delivered record Data Center segment annual revenue and strong top-line and bottom-line growth in the fourth quarter, driven by the ramp of Instinct AI accelerators and robust demand for EPYC server CPUs across cloud, enterprise and AI customers.
+  - Importantly, Data Center and Embedded segment annual revenue grew by $1.2 billion and accounted for more than 50% of revenue in 2023 as we gained server share, launched our next-generation Instinct AI accelerators and maintained our position as the industry's largest provider of adaptive computing solutions.
+  - Server CPU and Data Center GPU sales both set quarterly and annual revenue records as sales of our Data Center products accelerated throughout the year.
+  - We gained server CPU revenue share in the quarter, driven by significant double-digit percentage growth in 4th Gen EPYC Processor revenue and demand for our 3rd Gen EPYC Processor portfolio.
+  - In Cloud, while the overall demand environment remained soft, server CPU revenue increased year over year and sequentially as North American hyperscalers expanded 4th Gen EPYC Processor deployments to power their internal workloads and public instances.
+  - Our Data Center GPU business accelerated significantly in the quarter, with revenue exceeding our $400 million expectations, driven by a faster ramp for MI300X with AI customers.
+  - Looking ahead, our prior guidance was for Data Center GPU revenue to be flattish from Q4 to Q1 and exceed $2 billion for 2024.
+  - Based on the strong customer pool and expanded engagements, we now expect Data Center GPU revenue to grow sequentially in the first quarter and exceed $3.5 billion in 2024.
+  - Revenue declined 17% year over year and 9% sequentially to $1.4 billion as lower semi-custom revenue was partially offset by increased sales of Radeon GPUs.
+  - In Gaming Graphics, revenue grew both year over year and sequentially, driven by strong demand in the channel for both our Radeon 6000 and Radeon 7000 series GPUs.
+  - Against this backdrop, we believe we will deliver strong annual revenue growth and expand gross margin, driven by the strength of our Instinct EPYC and Ryzen product portfolios.
+  - Customer deployments of our Instinct GPUs continues accelerating, with MI300 now tracking to be the fastest revenue ramp of any product in our history, and positioning us well to capture significant share over the coming years based on the strength of our multi-generation Instinct GPU road map and open source ROCm software strategy.
+  - This is an incredibly exciting time for the industry and even more exciting time for AMD as our leadership IP, broad product portfolio and deep customer relationships position us well to deliver significant revenue growth and earnings expansion over the next several years.
+  - AMD executed well in 2023 despite of a mixed market demand environment, delivering revenue of $22.7 billion and earnings per share of $2.65.
+  - We drove year-over-year revenue growth in our Embedded and Data Center segments.
+  - Gross margin was 51%, flat year over year, with higher revenue contribution from the Data Center and the Client segments offset by lower Embedded segment revenue.
+  - Starting with the Data Center segment, revenue was $2.3 billion, up 38% year over year and 43% sequentially driven by strong growth of both AMD Instinct GPU and the Fourth Generation AMD EPYC CPU sales.
+  - Data Center segment operating income was $666 million or 29% of revenue compared to $444 million or 27% a year ago.
+  - Higher operating income was primarily due to operating liability driven by higher revenue.
+  - Gaming segment revenue was $1.4 billion, down 17% year over year and 9% sequentially due to a decrease in semi customer revenue, partially offset by increase in Radeon GPU sales.
+  - Embedded segment operating income was $461 million or 44% of revenue compared to $699 million or 50% a year ago.
+  - Sequentially, we expect Data Center segment revenue to be flat, with the seasonal decline in server sales offset by strong Data Center GPU ramp.
+  - Client segment revenue to decline seasonally.
+  - And in the Gaming segment as we enter the fifth year of what has been a very strong gaming cycle and given current customer inventory levels, we expect revenue to decline by significant double-digit percentage.
+  - Year over year, we expect Data Center and Client segment revenues to increase by strong double-digit percentage given the strength of our product portfolio and the share gain opportunities.
+  - Embedded Segment to decline and the Gaming segment revenue to decline by significant double-digit percentage.
+  - Directionally, for the year, we expect 2024 Data Center and the Client segment revenue to increase driven by the strengths of our product portfolio and the share gain opportunities.
+  - We expect to expand gross margin in 2024 and continue to invest to address the large AI opportunities while driving operating model leverage to deliver earnings-per-share growth faster than top line revenue growth.
+  - Of course, the largest incremental revenue opportunities are going to come from Data Center between both the server side gaining more share, and Data Center GPU side with the significant ramp up of our MI300.
+  - So, I mean, Joe, I think we updated our revenue expectations this quarter from our original number of $2 billion to $3.5 billion to try to give some bounding on some of the discussion out there.
+  - I think you would expect that revenue should increase every quarter from now through sort of the end of the year, but it will be a bit more second half weighted and part of that is just customers as they're finishing up their qualifications in their lines, as well as sort of how our supply chain is ramping.
+  - So as orders have come on books and as we've seen programs moved from, let's call it, pilot programs into full manufacturing programs, we have updated the revenue forecast.
+  - Lisa Su -- President and Chief Executive Officer I don't think it will be one or two that are half the revenue, Chris.
+Guidance given:
+  - We expect revenue to be approximately $5.4 billion plus or minus $300 million. (target: next quarter (unspecified); Unresolved)
+  - Going forward, we now expect annual revenue to decline by a significant double-digit percentage year over year as supply caught up with demand in 2023, and we entered the fifth year of what has been a very strong console cycle. (target: annual (forward-looking); Unresolved)
+  - Looking ahead, our prior guidance was for Data Center GPU revenue to be flattish from Q4 to Q1 and exceed $2 billion for 2024. (target: Q1 2024 and FY2024; Unresolved)
+  - Based on the strong customer pool and expanded engagements, we now expect Data Center GPU revenue to grow sequentially in the first quarter and exceed $3.5 billion in 2024. (target: Q1 2024 and FY2024; Unresolved)
+  - Sequentially, we expect Data Center segment revenue to be flat, with the seasonal decline in server sales offset by strong Data Center GPU ramp. (target: Sequentially (next quarter relative to Q4 2023); Unresolved)
+  - And in the Gaming segment as we enter the fifth year of what has been a very strong gaming cycle and given current customer inventory levels, we expect revenue to decline by significant double-digit percentage. (target: ongoing; Unresolved)
+  - Year over year, we expect Data Center and Client segment revenues to increase by strong double-digit percentage given the strength of our product portfolio and the share gain opportunities. (target: year over year (2024); Unresolved)
+  - Directionally, for the year, we expect 2024 Data Center and the Client segment revenue to increase driven by the strengths of our product portfolio and the share gain opportunities. (target: 2024; Unresolved)
+  - Of course, the largest incremental revenue opportunities are going to come from Data Center between both the server side gaining more share, and Data Center GPU side with the significant ramp up of our MI300. (target: ongoing; Unresolved)
+  - I think you would expect that revenue should increase every quarter from now through sort of the end of the year, but it will be a bit more second half weighted and part of that is just customers as they're finishing up their qualifications in their lines, as well as sort of how our supply chain is ramping. (target: from now through end of the year; Unresolved)
+Actual reported:
+  - [Observed] Revenue was $1.5 billion, an increase of 62% year over year and flat sequentially.
+  - [Observed] For the fourth quarter of 2023, revenue was $6.2 billion, growing 10% year over year as revenue growth in the Data Center and the Client segments was partially offset by the lower revenue in our Embedded and Gaming segment.
+  - [Observed] Revenue decreased 24% year over year and 15% sequentially to $1.1 billion as customers focused on reducing their inventory levels.
+  - [Observed] On a full year basis, annual revenue declined 4% to $22.7 billion as record Data Center and Embedded segment annual revenue was offset by lower Client and Gaming segment revenue.
+  - [Observed] Fourth quarter revenue increased 10% year over year to $6.2 billion, driven by a significant double-digit percentage growth in our Data Center and Client segments.
+  - [Observed] Embedded segment revenue was $1.1 billion, down 24% year over year and 15% sequentially as customers continue to work down their inventory levels.
+  - [Observed] Data Center segment revenue grew 38% year over year and 43% sequentially to a record $2.3 billion.
+  - [Observed] Client segment revenue was $1.5 billion, up 62% year over year, driven by Ryzen 7000 Series CPU sales.
+  - [Observed] Revenue was up 6% sequentially, primarily driven by the ramp of AMD Instinct GPUs across several leading customers and higher revenue from EPYC server processors, partially offset by the decline in Embedded and Gaming segment revenues.
+  - [Observed] As a result, we delivered record Data Center segment annual revenue and strong top-line and bottom-line growth in the fourth quarter, driven by the ramp of Instinct AI accelerators and robust demand for EPYC server CPUs across cloud, enterprise and AI customers.
+  - [Observed] Importantly, Data Center and Embedded segment annual revenue grew by $1.2 billion and accounted for more than 50% of revenue in 2023 as we gained server share, launched our next-generation Instinct AI accelerators and maintained our position as the industry's largest provider of adaptive computing solutions.
+  - [Observed] In Cloud, while the overall demand environment remained soft, server CPU revenue increased year over year and sequentially as North American hyperscalers expanded 4th Gen EPYC Processor deployments to power their internal workloads and public instances.
+  - [Observed] Revenue declined 17% year over year and 9% sequentially to $1.4 billion as lower semi-custom revenue was partially offset by increased sales of Radeon GPUs.
+  - [Observed] In Gaming Graphics, revenue grew both year over year and sequentially, driven by strong demand in the channel for both our Radeon 6000 and Radeon 7000 series GPUs.
+  - [Observed] Starting with the Data Center segment, revenue was $2.3 billion, up 38% year over year and 43% sequentially driven by strong growth of both AMD Instinct GPU and the Fourth Generation AMD EPYC CPU sales.
+  - [Observed] [from presentation deck] See Appendices for GAAP to Non-GAAP reconciliation GAAP Non-GAAP 1 $1.3B $1.4B Q4 2022 Q4 2023 ▪ GAAP operating income driven by higher Data Center and Client segment revenue and lower amortization of acquisition-related intangible assets, partially offset by increased R&D and marketing investments ▪ Non-GAAP operating income up y/y with higher Data Center and Client segment revenue, partially offset by increased R&D and marketing investments [Page 14] Q4 AND FULL YEAR 2023 FINANCIAL RESULTS – JANUARY 30, 2024 14 $3.50 $2.65 FY 2022 FY 2023 EARNINGS PER SHARE 1 FY 2023 1.
+Filing disclosures (SEC):
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - Revenue contracts with our customers include variable amounts which we evaluate under ASC 606-10-32-8 through 14 in order to determine the net amount of consideration to which we are entitled and which we recognize as revenue.
+    - Against the backdrop of a mixed demand environment, net revenue for 2023 was $22.7 billion, a decrease of 4% compared to 2022 net revenue of $23.6 billion.
+    - Historically, our net revenue has been generally higher in the second half of the year than in the first half of the year, although market conditions and product transitions could impact these trends.
+    - Embedded Embedded net revenue of $5.3 billion in 2023 increased by 17%, compared to net revenue of $4.6 billion in 2022.
+    - Client Client net revenue of $4.7 billion in 2023 decreased by 25%, compared to net revenue of $6.2 billion in 2022, primarily due to lower sales of Ryzen mobile and desktop processors, resulting from a 16% decrease in average selling price and a 12% decrease in unit shipments.
+  [Financial Statements]
+    - Revenue: $22.68B | vs prior quarter: — | vs prior year: $23.60B (-3.9%)
+    - Cost of Revenue: $12.22B | vs prior quarter: — | vs prior year: $13.00B (-6.0%)
+    - 1 real filing table(s) available (see the HTML report).
+    - Revenue is recognized upon the transfer of control, over time or at a point in time, depending on the nature of the arrangements.
+    - Revenue Recognition Revenue is recognized when a customer obtains control of promised goods or services and is recognized in an amount that reflects the consideration which the Company expects to receive in exchange for those goods or services.
+    - Sales, value-added, and other taxes collected concurrently with the provision of goods or services are excluded from revenue.
+    - Accordingly, revenue is recognized at a point in time when the customer has the ability to benefit from the license.
+    - If the license is distinct, revenue is recognized at a point in time when the customer has the ability to benefit from the license.
+    - Substantially all the Company’s revenue is derived from product sales, representing a single performance obligation.
+  [Footnotes]
+    - 9 real filing table(s) available (see the HTML report).
+  [Risk Factors]
+    - For example, historically, our net revenue has been generally higher in the second half of the year than in the first half of the year, although market conditions and product transitions could impact these trends.
+    - Also, in our Client segment revenue is focused on the consumer desktop and notebook PC segments.
+    - International sales, as a percent of net revenue, were 65% for the year ended December 30, 2023.
+    - We depend on a small number of customers for a substantial portion of our business and we expect that a small number of customers will continue to account for a significant part of our revenue in the future.
+    - This uneven sales pattern makes prediction of revenue for each financial period difficult and increases the risk of unanticipated variations in quarterly results and financial condition.
+    - The markets in which our products are sold are highly competitive and delivering the latest and best products to market on a timely basis is critical to achieving revenue growth.
+
