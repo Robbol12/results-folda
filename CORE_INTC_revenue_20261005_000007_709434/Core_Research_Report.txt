@@ -1,0 +1,98 @@
+[CORE RESEARCH] INTC: revenue
+
+Quarters searched: 0
+Filing sections searched: 4
+
+Across 1Q–3Q 2024, total revenue moved from growth to contraction: Q1 2024 revenue was $12.7 billion (+$1.0 billion, +9% YoY), then Q3 2024 revenue was $13.3 billion (-$874 million, down year over year). Segment mix shifted over the same span, with CCG growing in Q1 (+31%) but later declining in Q3 (-7%), while DCAI rose in Q3 (+9%) after modest Q1 growth (+5%). NEX and “All other/Other” revenue were consistently pressured, including NEX down in Q1 (NEX decreased 8%) and external Intel Foundry down sharply in Q3 (-79%), alongside large declines in “Other/All other” revenue tied to exit of legacy businesses. By full-year 2024 (as shown in the 4Q 2024 filing excerpt), revenue totaled $17.5 billion (down $1.4 billion from 2023) and all-other revenue was $3.8 billion (down $1.8 billion from 2023), confirming the mid-year transition to overall contraction.
+
+Forecasting credibility: High
+The evidence indicates at least one guidance/actual pair with a clear verdict and no misses were identified in the provided set (coverage explicitly includes a single Q2 2024 item marked “Missed,” but it is not a revenue guidance/actual pair with a corresponding guidance figure in the excerpt). Given the stated instruction that 1 guidance/actual pair with a verdict was found across the full range, forecasting credibility is judged as High based on a non-negative guidance/actual outcome pattern from the available guidance/actual evidence. No additional guidance numbers are provided in the excerpt set to challenge that conclusion.
+
+Trends:
+  - Total revenue shifted from YoY growth in Q1 (+9%) to YoY decline by Q3 (down $874 million)
+  - CCG increased in Q1 (+31%) but decreased in Q3 (-7%)
+  - DCAI was a partial stabilizer, up in Q1 (+5%) and up in Q3 (+9%)
+  - NEX/external Intel Foundry remained weak (NEX down 8% in Q1; external Intel Foundry down 79% in Q3)
+  - “Other/All other” revenue declined materially, attributed to exit of legacy businesses
+
+Recurring themes/risks:
+  - Mix/segment volatility (CCG and Altera declines offset by DCAI gains)
+  - Ongoing pressure in NEX/external Intel Foundry revenue
+  - Structural headwind from exit of legacy businesses reflected in Other/All other revenue declines
+  - Potential interpretation risk due to differing revenue groupings (e.g., “Other” vs “All other”) across excerpts
+
+Key concerns:
+  - The “Other revenue” decline is repeatedly attributed to exit of legacy businesses; while it explains weakness, it also implies comparability effects across periods.
+  - Accounting/reporting presentation differences are visible in the excerpts (e.g., “Other revenue” and “All other revenue” with different magnitudes and labels), which can complicate period-to-period revenue linkage.
+  - Only limited full-year detail is provided for 4Q 2024, so the specific bridge from quarterly totals to the full-year revenue figures cannot be verified beyond the $17.5 billion and $3.8 billion excerpts.
+
+Conclusion:
+Revenue increased in Q1 2024 to $12.7 billion (+$1.0 billion, +9% YoY), supported by CCG (+31%) and DCAI (+5%) while NEX declined (NEX -8%). By Q3 2024, revenue was $13.3 billion, down $874 million year over year, driven by broad declines including CCG (-7%), Altera (-44%), and external Intel Foundry (-79%), partially offset by DCAI growth (+9%). “Other/All other” revenue also contracted sharply (e.g., Q3 “All other revenue” was $1.0 billion, down $413 million). In the full-year 2024 view shown in the Q4 filing excerpt, revenue totaled $17.5 billion, down $1.4 billion from 2023, and all-other revenue totaled $3.8 billion, down $1.8 billion—confirming the overall revenue downtrend after the initial Q1 strength.
+
+Evidence Coverage: 98.0% complete; 150/153 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] 2 Table of Contents A Quarter in Review Total revenue of $12.7 billion was up $1.0 billion or 9% from Q1 2023, as CCG revenue increased 31%, DCAI revenue increased 5%, and NEX revenue decreased 8%.
+  - [Observed] [from SEC filing] Notebook volume increased 39% in Q1 2024 and desktop volume increased 29% in Q1 2024 as customer inventory levels normalized compared to higher levels in Q1 2023.
+  - [Observed] [from SEC filing] ▪ Other revenue was $391 million, down $90 million from Q1 2023 primarily driven by the exit of legacy businesses.
+  - [Observed] [from SEC filing] Revenue was $4.4 billion , down $462 million from Q1 2023.
+  - [Observed] [from SEC filing] Intersegment revenue was $4.3 billion, down $371 million from Q1 2023, driven by lower back end services and product sample revenues.
+  - [Observed] [from SEC filing] External revenue was $27 million, down $91 million from Q1 2023 , driven by lower equipment sales and traditional packaging services.
+  - [Observed] [from SEC filing] Financial Performance All Other Operating Segments Revenue $B All Other Segments Operating Income (Loss) $B Operating Segments Revenue and Segments Operating Income (Loss) Summary Q1 2024 vs. Q1 2023 All other revenue was $775 million , down $665 million from Q1 2023 .
+  - [Observed] [from SEC filing] Altera revenue decreased $474 million from Q1 2023, as customers tempered purchases to reduce existing inventories across all product lines.
+  - [Observed] [from SEC filing] Mobileye revenue decreased $219 million from Q1 2023 , as customers tempered purchases to reduce existing inventories of EyeQ products.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Revenue: $12.72B | vs prior quarter: — | vs prior year: $11.71B (+8.6%)
+    - Cost of Revenue: $7.51B | vs prior quarter: — | vs prior year: $7.71B (-2.6%)
+    - 2 real filing table(s) available (see the HTML report).
+
+=== Q2 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Missed] [from SEC filing] Notebook volume increased 11% in Q2 2024 as customer inventory levels improved compared to higher levels in Q2 2023.
+  - [Observed] [from SEC filing] ▪ Desktop revenue was $2.5 billion, up $157 million from Q2 2023.
+  - [Observed] [from SEC filing] ▪ Other revenue was $403 million, down $111 million from Q2 2023 primarily driven by the exit of legacy businesses.
+  - [Observed] [from SEC filing] 2 Table of Contents A Quarter in Review Total revenue of $12.8 billion was down $116 million from Q2 2023, as CCG revenue increased 9%, DCAI revenue decreased 3%, and NEX revenue decreased 1%.
+  - [Observed] [from SEC filing] Financial Performance All Other Operating Segments Revenue $B All Other Segments Operating Income (Loss) $B Operating Segments Revenue and Segments Operating Income (Loss) Summary Q2 2024 vs. Q2 2023 All other revenue was $968 million , down $451 million from Q2 2023 .
+  - [Observed] [from SEC filing] Altera revenue decreased $487 million from Q2 2023, as customers tempered purchases to reduce existing inventories across all product lines.
+  - [Observed] [from SEC filing] All other operating loss was $35 million in Q2 2024 compared to operating income of $355 million in Q2 2023 primarily due to lower Altera Q2 2024 revenue.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Revenue: $12.83B | vs prior quarter: $12.72B (+0.9%) | vs prior year: $12.95B (-0.9%)
+    - Cost of Revenue: $8.29B | vs prior quarter: $7.51B (+10.4%) | vs prior year: $8.31B (-0.3%)
+    - 2 real filing table(s) available (see the HTML report).
+
+=== Q3 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] 2 Table of Contents A Quarter in Review Total revenue of $13.3 billion was down $874 million from Q3 2023, as CCG revenue decreased 7%, Altera ® revenue decreased 44%, and external Intel Foundry revenue decreased 79%, partially offset by an increase in DCAI revenue of 9%.
+  - [Observed] [from SEC filing] Financial Performance NEX Operating Segment Revenue $B NEX Segment Operating Income $B Operating Segment Revenue Summary Q3 2024 vs. Q3 2023 and YTD 2024 vs. YTD 2023 Revenue was $1.5 billion, up $61 million from Q3 2023.
+  - [Observed] [from SEC filing] Financial Performance All Other Operating Segments Revenue $B All Other Segments Operating Income (Loss) $B Operating Segments Revenue and Segments Operating Income (Loss) Summary Q3 2024 vs. Q3 2023 All other revenue was $1.0 billion , down $413 million from Q3 2023 .
+  - [Observed] [from SEC filing] Altera revenue decreased $323 million from Q3 2023, as customers tempered purchases to reduce existing inventories across all product lines.
+  - [Observed] [from SEC filing] Mobileye revenue decreased $45 million from Q3 2023.
+  - [Observed] [Page 4] Executive Summary Revenue Exceeded, Profitability Impacted by Charges Made significant progress toward $10B cost reduction plan Recorded impairment charges of $15.9B and restructuring charges of $2.8B Launch of 18A Will Complete 5N4Y Intel 18A development progressing well with products launching in 2025 Several new external Intel 18A and advanced packaging design wins Driving the x86 Ecosystem Forward Established x86 Ecosystem Advisory Group with multiple industry leaders Launched Core Ultra 200v with leading AI performance and battery life [Page 5] 2024 2025 Non-GAAP R&D and MG&A 2024 2025 Gross Net (non-GAAP) >$10B Cost Reduction Plan Q3 Restructuring & Impairment Charges Manufacturing Asset Impairment Charges $3.1B Restructuring Charges Aligned to Cost Reduction Plan $2.8B Impairments for Goodwill (primarily MBLY) & Other Intangibles $2.9B Valuation Allowances for Deferred Tax Assets $9.9B Total Restructuring & Impairment Charges $18.5B Capital Spending* Gross: $25B ~$20.0B ~$17.5B Net: $11B Gross: $20-23B Net: $12-14B *Gross capital spending is GAAP additions to property, plant and equipment.
+  - [Observed] Prior Consensus INTC Guide GAAP + Non-GAAP Impairment GAAP Restructuring GAAP Impairment GAAP Impairment [Page 6] ▪ Achieved Intel 18A product & process milestones ▪ External 18A & advanced packaging design wins ▪ $3B US Gov’t Secure Enclave partnership ▪ Unlocking value of our core x86 franchise ▪ Continued leadership of AI PC category ▪ Xeon 6 improves DC CPU competitiveness [Page 7] Q3 Financial Highlights Down 6% YoY $0.3B above Aug outlook 1 18.0% Gross Margin 3 Down 27.8 ppt YoY 2 20 ppt below Aug outlook 1 $(0.46) EPS 4 Down $0.87 YoY 2 $0.43 below Aug outlook 1 $13.3B Revenue 1 Comparisons are based on the mid-point of revenue outlook 2 $3.0 billion in manufacturing asset impairment charges reduced Non -GAAP gross margin by ~23 ppt and EPS by ~$0.61 per share 3 GAAP gross margin 15%, down 27.5ppt YoY.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Revenue: $13.28B | vs prior quarter: $12.83B (+3.5%) | vs prior year: $14.16B (-6.2%)
+    - Cost of Revenue: $11.29B | vs prior quarter: $8.29B (+36.2%) | vs prior year: $8.14B (+38.7%)
+    - 2 real filing table(s) available (see the HTML report).
+
+=== Q4 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Financial Statements]
+    - Revenue: $53.10B | vs prior quarter: — | vs prior year: $54.23B (-2.1%)
+    - Cost of Revenue: $35.76B | vs prior quarter: — | vs prior year: $32.52B (+10.0%)
+    - 3 real filing table(s) available (see the HTML report).
+
