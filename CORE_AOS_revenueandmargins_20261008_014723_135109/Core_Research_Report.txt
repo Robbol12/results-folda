@@ -1,0 +1,159 @@
+[CORE RESEARCH - MULTIPLE TOPICS] AOS: revenue | margins
+
+
+======================================================================
+TOPIC: revenue
+======================================================================
+
+[CORE RESEARCH] AOS: revenue
+
+Quarters searched: 0
+Filing sections searched: 4
+
+Across Q1–Q4 2024, the filing excerpts consistently describe revenue as arising from contracts with customers for the purchase of the company’s products and reference segment disaggregation of net sales. A recurring mechanism affecting reported revenue is variable consideration from customer rebates, which reduces revenue and is calculated using expected values based on program-specific factors such as expected rebate percentages and expected volumes. Through Q4 2024, the disclosures continue to point readers to the company’s “Revenue Recognition” section/Note 2, indicating no change in the fundamental revenue recognition framework in the provided excerpts. However, the evidence provided does not include any forward guidance on revenue or any specific reported revenue totals to compare against.
+
+Forecasting credibility: None
+No guidance/actual revenue pairs are present in the provided evidence, so forecasting credibility cannot be assessed. The excerpts only contain general revenue recognition and rebate/variable consideration methodology, not forward-looking revenue targets. Therefore, no Met/Missed comparison can be made.
+
+Trends:
+  - Consistent framing of revenue as customer-contract product sales across all quarters
+  - Ongoing impact of variable consideration via customer rebates (expected-values methodology)
+  - No observable change in revenue recognition description from Q1 through Q4 in the provided excerpts
+
+Recurring themes/risks:
+  - Revenue reduction for customer rebates based on expected rebate percentages and expected volumes
+  - Dependence on estimates for variable consideration (expected values) could introduce volatility/adjustments
+
+Key concerns:
+  - The provided excerpts do not include any actual revenue figures (e.g., total net sales) or any forward guidance, limiting the ability to evaluate revenue performance or trajectory.
+  - Because only methodology-level revenue recognition text is provided, there is no evidence of accounting/reporting changes affecting revenue in these excerpts beyond the point to Note 2.
+
+Conclusion:
+Based on the provided Q1–Q4 2024 filing excerpts, revenue is consistently characterized as stemming from contracts with customers for product purchases. Reported revenue is reduced by variable consideration for customer rebates, calculated using expected values tied to program-specific factors (expected rebate percentages and expected volumes). No specific revenue totals are supplied in the evidence, so revenue direction, magnitude, and quarter-to-quarter change cannot be concluded. Finally, with no revenue guidance and no guidance-vs-actual pair available, the evidence supports only the disclosure framework, not forecasting accuracy or revenue outcomes.
+
+Evidence Coverage: 97.7% complete; 42/43 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Financial Statements]
+    - 3 real filing table(s) available (see the HTML report).
+
+=== Q2 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Financial Statements]
+    - 3 real filing table(s) available (see the HTML report).
+
+=== Q3 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Financial Statements]
+    - 3 real filing table(s) available (see the HTML report).
+
+=== Q4 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Financial Statements]
+    - 7 real filing table(s) available (see the HTML report).
+
+
+======================================================================
+TOPIC: margins
+======================================================================
+
+[CORE RESEARCH] AOS: margins
+
+Quarters searched: 0
+Filing sections searched: 4
+
+Across 2024, the topic of margins is presented in filings primarily as segment margins (two segments) and, at year-end, includes an adjusted segment earnings/margin figure excluding pre-tax restructuring and impairment expenses. Segment margins for the lower-margin segment were volatile by quarter (Q1 2024: 7.6%, Q2: 10.6%, Q3: 6.5%, and full-year 2024: 7.0%) and ended weaker than 2023 (full-year 2023: 8.7%). The higher-margin segment showed comparatively stable but also downshifting results (Q1 2024: 25.9%, Q2: 25.1%, Q3: 23.1%, and full-year 2024: 24.0%), versus 2023 full-year 24.9%. Management’s explanations in the filings attribute quarterly/full-year margin movements to mix, volume, steel costs, and later to strategic-investment-driven cost/SG&A pressure outpacing pricing.
+
+Forecasting credibility: None
+No guidance/actual pairs were provided for margins, so forecasting_credibility cannot be assessed using the requested guidance-vs-actual Met/Missed framework. The evidence supplied includes only realized margin outcomes and qualitative drivers, not forward numeric guidance on margins.
+
+Trends:
+  - Lower segment margin declined overall in 2024 vs 2023 (7.0% vs 8.7%)
+  - Higher segment margin trended down through the year (25.9% in Q1 to 23.1% in Q3, ending at 24.0% for 2024 vs 24.9% in 2023)
+  - Quarterly volatility in margin levels, with notable mid-year weakness in Q3
+
+Recurring themes/risks:
+  - Product mix shifts toward high-efficiency/high-efficiency products support margins
+  - Steel costs and input cost movements influence margins
+  - Strategic investments and related SG&A/production costs can outpace pricing actions and pressure margins
+  - Commercial water heater and boiler volume changes affect margins
+
+Key concerns:
+  - Margins are discussed via segment margins and an adjusted measure (adjusted segment earnings/margin excluding pre-tax restructuring and impairment expenses), which can complicate period-to-period comparability if adjustments change in magnitude or timing (Q4 2024 provides an example: excludes $6.3 million of pre-tax restructuring and impairment expenses).
+  - The supplied evidence does not include any explicit margin guidance, limiting the ability to evaluate management’s forward-looking accuracy beyond realized results.
+
+Conclusion:
+From the filing-sourced actuals, margins weakened overall in 2024 versus 2023 for both segments: the lower segment fell to 7.0% (from 8.7%) and the higher segment fell to 24.0% (from 24.9%). Within 2024, the lower segment was volatile (7.6% in Q1, 10.6% in Q2, 6.5% in Q3), and the higher segment also showed a mid-year step-down (25.9% in Q1, 25.1% in Q2, 23.1% in Q3). For the full year, management attributes the lower 2024 segment earnings/margins primarily to lower water heater volumes and higher production costs plus higher SG&A from strategic investments that outpaced pricing actions (as stated in the Q4 2024 filing excerpt).
+
+Evidence Coverage: 98.0% complete; 50/51 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] Segment margins were 7.6 percent and 2.4 percent in the first quarter of 2024 and 2023, respectively.
+  - [Observed] [from SEC filing] Segment margins were 25.9 percent and 25.1 percent in the first quarter of 2024 and 2023, respectively.
+Filing disclosures (SEC):
+  [MD&A]
+    - 4 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - 3 real filing table(s) available (see the HTML report).
+
+=== Q2 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] Segment margins were 10.6 percent and 11.6 percent in the second quarter of 2024 and 2023, respectively.
+  - [Observed] [from SEC filing] Segment margins were 9.1 percent and 7.3 percent in the first six months of 2024 and 2023, respectively.
+  - [Observed] [from SEC filing] Segment margins were 25.1 percent and 27.6 percent in the second quarter of 2024 and 2023, respectively.
+  - [Observed] [from SEC filing] Segment margins were 25.5 percent and 26.3 percent in the first six months of 2024 and 2023, respectively.
+Filing disclosures (SEC):
+  [MD&A]
+    - 4 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - 3 real filing table(s) available (see the HTML report).
+
+=== Q3 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] Segment margins were 6.5 percent and 9.9 percent in the third quarter of 2024 and 2023, respectively.
+  - [Observed] [from SEC filing] Segment margins were 8.3 percent and 8.2 percent in the first nine months of 2024 and 2023, respectively.
+  - [Observed] [from SEC filing] Segment margins were 23.1 percent and 23.9 percent in the third quarter of 2024 and 2023, respectively.
+  - [Observed] [from SEC filing] Segment margins were 24.8 percent and 25.5 percent in the first nine months of 2024 and 2023, respectively.
+Filing disclosures (SEC):
+  [MD&A]
+    - 4 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - 3 real filing table(s) available (see the HTML report).
+
+=== Q4 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Observed] [from SEC filing] Segment margins were 7.0 percent and 8.7 percent in 2024 and 2023, respectively.
+  - [Observed] [from SEC filing] Segment margins were 24.0 percent and 24.9 percent in 2024 and 2023, respectively.
+  - [Observed] [from SEC filing] Adjusted segment earnings and adjusted segment margin in 2024 were $713.8 million and 24.2 percent, respectively, which excludes $6.3 million of pre-tax restructuring and impairment expenses.
+Filing disclosures (SEC):
+  [MD&A]
+    - 4 real filing table(s) available (see the HTML report).
+  [Financial Statements]
+    - 7 real filing table(s) available (see the HTML report).
+
