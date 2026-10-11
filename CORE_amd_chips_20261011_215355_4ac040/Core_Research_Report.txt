@@ -1,0 +1,100 @@
+[CORE RESEARCH] AMD: chips
+
+Quarters searched: 4
+Filing sections searched: 88
+
+Across Q1 2024 through Q4 2025, the only recurring “chips” related references in the provided excerpts are contextual mentions of government semiconductor incentives (CHIPS Act) and general market commentary about demand for discrete graphics chips versus integrated graphics. The CHIPS Act language is consistently framed as a potential source of incentives that may or may not be available on acceptable terms, rather than as a forward-looking forecast tied to specific chip outcomes. In Q4 2024 and Q4 2025, the excerpt includes a standalone mention of “Chipsets,” but no accompanying quantitative chip-specific guidance or results is provided. No period contains explicit management guidance for chips paired with a later reported chip-related actual to evaluate forecasting accuracy.
+
+Forecasting credibility: None
+No guidance/actual pairs for “chips” were found in the provided evidence, so forecasting credibility cannot be assessed. The excerpts do not present chip-specific forward guidance with a corresponding later filed or reported chip-specific actual figure for comparison.
+
+Trends:
+  - Consistent risk framing that government semiconductor incentives (CHIPS Act) may not be available
+  - Discussion of potential demand headwinds for discrete graphics chips due to improving integrated graphics
+
+Recurring themes/risks:
+  - CHIPS Act incentives may not be available on acceptable terms or at all
+  - Integrated graphics improvements may reduce incremental demand for discrete graphics chips
+
+Key concerns:
+  - The provided excerpts contain only contextual/qualitative “chips” references, without any chip-specific guidance and without later chip-specific actuals to verify outcomes.
+  - Because only vague “Chipsets” references appear in later periods (Q4 2024, Q4 2025), there is insufficient evidence to determine whether chip-related reporting or definitions changed over time.
+
+Conclusion:
+Based on the provided filing excerpts, “chips” is discussed primarily in qualitative terms: the CHIPS Act is mentioned as a potential but uncertain incentive source, and management appears to highlight competitive substitution risk from integrated graphics that could reduce demand for discrete graphics chips. The evidence does not include chip-specific forward guidance that can be compared to later reported chip-specific results, so no guidance accuracy can be judged. Therefore, the only defensible longitudinal assessment is that management’s chips-related disclosure emphasizes incentive uncertainty and competitive dynamics, not measurable performance forecasting that can be validated with actuals.
+
+Evidence Coverage: 99.2% complete; 249/251 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Risk Factors]
+    - For example, the United States government enacted the Creating Helpful Incentives to Produce Semiconductors for America and Science Act (CHIPS Act) of 2022 to provide financial incentives to the U.S. semiconductor industry.
+    - Government incentives, including the CHIPS Act, may not be available to us on acceptable terms or at all.
+    - For instance, with our APU products and other competing solutions with integrated graphics, we believe that demand for additional discrete graphics chips and cards may decrease in the future due to improvements in the quality and performance of integrated graphics.
+
+=== Q2 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Risk Factors]
+    - For example, the United States government enacted the Creating Helpful Incentives to Produce Semiconductors for America and Science Act (CHIPS Act) of 2022 to provide financial incentives to the U.S. semiconductor industry.
+    - Government incentives, including the CHIPS Act, may not be available to us on acceptable terms or at all.
+
+=== Q3 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Risk Factors]
+    - For example, the United States government enacted the Creating Helpful Incentives to Produce Semiconductors for America and Science Act (CHIPS Act) of 2022 to provide financial incentives to the U.S. semiconductor industry.
+    - Government incentives, including the CHIPS Act, may not be available to us on acceptable terms or at all.
+
+=== Q4 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Risk Factors]
+    - For example, the United States government enacted the Creating Helpful Incentives to Produce Semiconductors for America and Science Act (CHIPS Act) of 2022 to provide financial incentives to the U.S. semiconductor industry.
+    - Government incentives, including the CHIPS Act, may not be available to us on acceptable terms or at all.
+
+=== Q1 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Risk Factors]
+    - For example, the United States government enacted the Creating Helpful Incentives to Produce Semiconductors for America and Science Act (CHIPS Act) of 2022 to provide financial incentives to the U.S. semiconductor industry.
+    - Government incentives, including the CHIPS Act, may not be available to us on acceptable terms or at all.
+
+=== Q2 2025 ===
+Management said:
+Guidance given:
+  - See Appendices for GAAP to Non-GAAP reconciliation 14 | | Q2 2025 FINANCIAL RESULTS August 5, 2025 [Page 15] – - – – Data Center Segment Q2 2025 Revenue Operating Margin Strategic Highlights $3.2B 26% (5)% Q2 2024 Q2 2025 $2.8B Q2 2024 Q2 2025 • Launched AMD InstinctTM MI350 series with industry leading memory bandwidth and capacity and broad adoption across hyperscalers, AI companies and server providers • Announced AMD ROCm 7 software with major upgrades across every layer of the stack delivering more than 3x higher inferencing and training performance compared to our prior generation • HUMAIN and AMD announced plans to advance global AI infrastructure by deploying 500 MW of AI compute capacity over the next five years • AMD now powers 172 supercomputers on the latest Top500 Supercomputers list, including the top two El Capitan and Frontier and 12 of the top 20 systems on the Green500 list • Oracle is building a 27,000+ node AI cluster combining MI355X accelerators, 5th Gen EPYC Turin CPUs, and AMD PensandoTM Pollara 400 SmartNICs Driven primarily by growth in AMD EPYC CPU revenue and share gains across cloud and enterprise customers Revenue $3.2 Billion Up 14% y/y Decline primarily due to the inventory and related charges associated with US export restrictions Operating Income (Loss) $(155) Million vs. $743 Million a year ago See Endnote MI300-080, MI300-081, MI350-006 15 | | Q2 2025 FINANCIAL RESULTS August 5, 2025 [Page 16] – - - - Client and Gaming Segment Q2 2025 Revenue Operating Margin $3.6B Client $2.5B Gaming $1.1B 21% $2.1B Client $1.5B Gaming $0.6B Q2 2024 Q2 2025 8% Q2 2024 Q2 2025 Driven by record client CPU sales and strong demand for our Radeon GPUs and console gaming products Driven by richer client product mix and operating leverage on higher revenue Revenue $3.6 Billion Up 69% y/y Operating Income $767 Million vs. $166 Million a year ago Strategic Highlights • Announced AMD Ryzen Threadripper 9000WX and Threadripper PRO 9000X Series processors with leadership compute for workstations • Announced the AMD Radeon AI PRO R9700 GPU, designed for local AI inference, model finetuning and complex creative workloads • Launched AMD Radeon RX 9060 XT with leadership gaming performance per dollar • First Copilot+ mobile workstations, Lenovo ThinkPad P14s and P16s and HP ZBook 8 powered by Ryzen PRO processors, went into production • Announced a new multi year collaboration with Microsoft for custom chips that will power the next generation of Xbox devices including consoles, PCs, and handhelds 16 | | Q2 2025 FINANCIAL RESULTS August 5, 2025 [Page 17] – - - - Embedded Segment Q2 2025 Revenue Operating Margin $0.9B $0.8B Q2 2024 Q2 2025 40% 33% Q2 2024 Q2 2025 Demand in end markets remained mixed Decline primarily due to product mix Revenue $824 Million Down 4% y/y Operating Income $275 Million vs. $345 Million a year ago Strategic Highlights • Began shipping + first AMD Spartan UltraScale FPGA devices, delivering performance, low power, security features and reliability for cost sensitive edge applications • Bosch and AMD are collaborating on next generation robotaxi services in Europe, including Versal a pilot program using the AMD device to support security and real time encryption 17 | | Q2 2025 FINANCIAL RESULTS August 5, 2025 [Page 18] – Financial Outlook – NON-GAAP1 Q3’25 ~$8.7 Billion, Revenue +/- $300 Million Gross Margin ~54% Operating Expenses ~$2.55 Billion Interest Expense/Other Income (Expense), net ~$10 Million Effective Tax Rate ~13% of pre-tax income Diluted Share Count2 ~1.63 Billion shares Note: Our current outlook does not include any revenue from AMD Instinct MI308 shipments to China as our license applications are currently under review by the U.S. Government 1. (target: Q2 2025; Unresolved)
+Actual reported:
+Filing disclosures (SEC):
+  [Risk Factors]
+    - For example, the United States government enacted the Creating Helpful Incentives to Produce Semiconductors for America and Science Act (CHIPS Act) of 2022 to provide financial incentives to the U.S. semiconductor industry.
+    - Government incentives, including the CHIPS Act, may not be available to us on acceptable terms or at all.
+
+=== Q3 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Risk Factors]
+    - For example, the United States government enacted the Creating Helpful Incentives to Produce Semiconductors for America and Science Act (CHIPS Act) of 2022 to provide financial incentives to the U.S. semiconductor industry.
+    - Government incentives, including the CHIPS Act, may not be available to us on acceptable terms or at all.
+
+=== Q4 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+
