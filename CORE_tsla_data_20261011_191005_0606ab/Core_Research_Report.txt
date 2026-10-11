@@ -1,0 +1,186 @@
+[CORE RESEARCH] TSLA: data
+
+Quarters searched: 8
+Filing sections searched: 189
+
+Across 2024–2025, “data” appears in filings largely as a descriptive/qualitative element of valuation inputs and AI/data-center capacity rather than a line item with explicit forward numeric targets. In Q3 2024, management discussed an AI/data-and-training-compute scaling plan in the context of FSD (Supervised) iteration, but the provided guidance/outcome for that period is labeled as “Unresolved” and is not matched to a specific disclosed actual in the excerpt set. From Q1 2025 onward, disclosures emphasize validation of FSD (Supervised) functionality “without access to country-specific training data” and continue to mention data accumulation for other accounting estimates (e.g., resale values). By Q4 2025, the AI capital expenditure outlook explicitly ties planned spending to “investments in compute infrastructure and data centers,” reinforcing that “data” is treated as an input to AI capacity/capex rather than an externally forecastable metric.
+
+Forecasting credibility: None
+No guidance/actual pairs for the specific topic “data” were provided as comparable, resolved figures across the periods. Because there is no guidance-versus-actual count to evaluate (and the Q3 2024 item shown is marked “Unresolved” without a corresponding actual), forecasting credibility cannot be assessed from this evidence set.
+
+Trends:
+  - Data discussed increasingly as a key enabler for AI compute/data-center investment
+  - Continued qualitative references to data accumulation affecting accounting estimates (e.g., resale value assumptions)
+  - AI/data narrative extends from training-data access constraints to broader “real-world AI data” usage
+
+Recurring themes/risks:
+  - Accumulating data can change valuation inputs and estimates (e.g., resale values; stock-based awards valuation inputs)
+  - AI progress tied to training/compute capacity and data-center investments
+  - Potential sensitivity of outcomes to access to specific training datasets (e.g., country-specific data availability)
+
+Key concerns:
+  - For Q3 2024, a “target: Q3 2024, outcome: Unresolved” element is shown for an AI/FSD (Supervised) data-and-training-compute context, but no resolved actual corresponding to that guidance is provided in the excerpts, preventing a guidance/actual credibility check.
+  - Some “data” references are accounting/valuation-framework disclosures (e.g., fair value hierarchy) that are not forecastable and therefore do not support a numerical guidance-vs-actual comparison.
+
+Conclusion:
+Across the provided periods, “data” is treated mainly as (1) an input to AI development and scaling (including training compute and AI infrastructure/data centers) and (2) a driver of valuation/estimate sensitivity (e.g., impacts of accumulating data on resale value assumptions and stock-based awards valuation). A specific guidance/actual reconciliation for “data” could not be completed from the evidence supplied: the only explicit guidance-like item shown in Q3 2024 is labeled “Unresolved,” and no matched actual is presented for it in the excerpt set. From Q1 2025 onward, the filings emphasize validation results related to FSD (Supervised) operating “without access to country-specific training data,” supporting the notion that training-data constraints were managed rather than strictly forecasted. Consequently, based on the provided excerpts, forecasting credibility for “data” cannot be determined (no guidance/actual pairs available).
+
+Evidence Coverage: 99.5% complete; 388/390 claims complete. This is an evidence inventory, not an objective truth score.
+
+--- By Reporting Period ---
+
+=== Q1 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - The fair value hierarchy requires the use of observable market data when available in determining fair value.
+    - The three-tiered fair value hierarchy, which prioritizes which inputs should be used in measuring fair value, is comprised of: (Level I) observable inputs such as quoted prices in active markets; (Level II) inputs other than quoted prices in active markets that are observable either directly or indirectly and (Level III) unobservable inputs for which there is little or no market data.
+    - For example, during the second quarter of 2023, a foreign news outlet reported that it obtained certain misappropriated data including, purportedly non-public Tesla business and personal information.
+    - On August 5, 2023, a putative class action was filed in the United States District Court for the Northern District of California, purportedly on behalf of all U.S. individuals impacted by the data incident, followed by several additional lawsuits, that each assert claims under various state laws and seeks monetary damages and other relief.
+    - The ongoing requests for information include topics such as operations, technology (e.g., vehicle functionality, Autopilot and FSD Capability), compliance, finance, data privacy, and other matters related to Tesla’s business, its personnel, and related parties.
+
+=== Q2 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - The fair value hierarchy requires the use of observable market data when available in determining fair value.
+    - The three-tiered fair value hierarchy, which prioritizes which inputs should be used in measuring fair value, is comprised of: (Level I) observable inputs such as quoted prices in active markets; (Level II) inputs other than quoted prices in active markets that are observable either directly or indirectly and (Level III) unobservable inputs for which there is little or no market data.
+    - For example, during the second quarter of 2023, a foreign news outlet reported that it obtained certain misappropriated data including, purportedly non-public Tesla business and personal information.
+    - On August 5, 2023, a putative class action was filed in the United States District Court for the Northern District of California, purportedly on behalf of all U.S. individuals impacted by the data incident, followed by several additional lawsuits, that each assert claims under various state laws and seeks monetary damages and other relief.
+    - The ongoing requests for information include topics such as operations, technology (e.g., vehicle functionality, Autopilot and FSD Capability), compliance, finance, data privacy, and other matters related to Tesla’s business, its personnel, and related parties.
+
+=== Q3 2024 ===
+Management said:
+Guidance given:
+  - 7 0% 1% 2% 3% 4% US/Canada Europe China [Page 8] Tesla AI training capacity ramp through end of year (H100 equivalent GPUs) C O R E T E C H N O L O G Y Cumulative miles driven with FSD (Supervised) (billions) Artificial Intelligence Software and Hardware In Q3, we released the 12.5 series of FSD (Supervised) 1 with improved safety and comfort thanks to increased data and training compute, a 5x increase in parameter count, and other architectural choices that we plan to continue scaling in Q4. (target: Q3 2024; Unresolved)
+Actual reported:
+Filing disclosures (SEC):
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - The fair value hierarchy requires the use of observable market data when available in determining fair value.
+    - The three-tiered fair value hierarchy, which prioritizes which inputs should be used in measuring fair value, is comprised of: (Level I) observable inputs such as quoted prices in active markets; (Level II) inputs other than quoted prices in active markets that are observable either directly or indirectly and (Level III) unobservable inputs for which there is little or no market data.
+    - For example, during the second quarter of 2023, a foreign news outlet reported that it obtained certain misappropriated data including, purportedly non-public Tesla business and personal information.
+    - On August 5, 2023, a putative class action was filed in the United States District Court for the Northern District of California, purportedly on behalf of all U.S. individuals impacted by the data incident, followed by several additional lawsuits, that each assert claims under various state laws and seeks monetary damages and other relief.
+    - The ongoing requests for information include topics such as operations, technology (e.g., vehicle functionality, vehicle incidents, Autopilot and FSD Capability), compliance, finance, data privacy, and other matters related to Tesla’s business, its personnel, and related parties.
+
+=== Q4 2024 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - As we accumulate additional employee stock-based awards data over time and as we incorporate market data related to our common stock, we may calculate significantly different volatilities and expected lives, which could materially impact the valuation of our stock-based awards and the stock-based compensation expense that we will recognize in future periods.
+  [Financial Statements]
+    - 2 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - As we accumulate additional employee stock-based awards data over time and as we incorporate market data related to our common stock, we may calculate significantly different volatilities and expected lives, which could materially impact the valuation of our stock-based awards and the stock-based compensation expense that we will recognize in future periods.
+    - AI infrastructure includes our owned data centers.
+    - As we accumulate more data related to the resale values of our vehicles or as market conditions change, there may be material changes to their estimated values.
+    - Such guarantees and variable customer payments represent a form of variable consideration and are estimated at contract inception at their most likely amount and updated at the end of each reporting period as additional performance data becomes available.
+    - Standalone selling prices are estimated based on estimated costs plus margin or by using market data for comparable products.
+    - The fair value hierarchy requires the use of observable market data when available in determining fair value.
+    - The three-tiered fair value hierarchy, which prioritizes which inputs should be used in measuring fair value, is comprised of: (Level I) observable inputs such as quoted prices in active markets; (Level II) inputs other than quoted prices in active markets that are observable either directly or indirectly and (Level III) unobservable inputs for which there is little or no market data.
+    - We have entered into various operating and finance lease agreements for certain of our offices, manufacturing and warehouse facilities, retail and service locations, data centers, equipment, vehicles, and solar energy systems, worldwide.
+    - We use our historical data in estimating the expected term of our employee grants.
+    - For example, during the second quarter of 2023, a foreign news outlet reported that it obtained certain misappropriated data including, purportedly non-public Tesla business and personal information.
+    - On August 5, 2023, a putative class action was filed in the United States District Court for the Northern District of California, purportedly on behalf of all U.S. individuals impacted by the data incident, followed by several additional lawsuits, that each assert claims under various state laws and seeks monetary damages and other relief.
+    - The ongoing requests for information include topics such as operations, technology (e.g., vehicle functionality, vehicle incidents, Autopilot and FSD Capability), compliance, finance, data privacy, and other matters related to Tesla’s business, its personnel, and related parties.
+  [Risk Factors]
+    - 25 Table of Contents In addition to the risks related to general privacy regulation, we may also be subject to specific vehicle manufacturer obligations relating to cybersecurity, data privacy and data localization requirements which place additional risks to our international operations.
+    - Our information technology systems or data, or those of our service providers or customers or users could be subject to cyber-attacks or other security incidents, which could result in data breaches, intellectual property theft, claims, litigation, regulatory investigations, significant liability, reputational damage and other adverse consequences.
+    - For example, the General Data Protection Regulation applies to the processing of personal information collected from individuals located in the European Union requiring certain data protection measures when handling, with a significant risk of fines for noncompliance.
+    - To the extent any security incident results in unauthorized access or damage to or acquisition, use, corruption, loss, destruction, alteration or dissemination of our data, including intellectual property and personal information, or our products or vehicles, or for it to be believed or reported that any of these occurred, it could disrupt our business, harm our reputation, compel us to comply with applicable data breach notification laws, subject us to time consuming, distracting and expensive litigation, regulatory investigation and oversight, mandatory corrective action, require us to verify the correctness of database contents, or otherwise subject us to liability under laws, regulations and contractual obligations, including those that protect the privacy and security of personal information.
+    - Notwithstanding our efforts to protect the security and integrity of our customers’ personal information, we may be required to expend significant resources to comply with data breach requirements if, for example, third parties improperly obtain and use the personal information of our customers or we otherwise experience a data loss with respect to the personal information we process and handle.
+    - While, we maintain information technology measures designed to protect us against intellectual property theft, data breaches, sabotage and other external or internal cyber-attacks or misappropriation, our systems and those of our service providers are potentially vulnerable to malware, ransomware, viruses, denial-of-service attacks, phishing attacks, social engineering, computer hacking, unauthorized access, exploitation of bugs, defects and vulnerabilities, breakdowns, damage, interruptions, system malfunctions, power outages, terrorism, acts of vandalism, security breaches, security incidents, inadvertent or intentional actions by employees or other third parties, and other cyber-attacks.
+
+=== Q1 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+  - [Observed] [from presentation deck] This was validated with the launch of FSD (Supervised)1 in China, which was achieved without access to country -specific training data.
+Filing disclosures (SEC):
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - As we accumulate more data related to the resale values of our vehicles or as market conditions change, there may be material changes to their estimated values.
+    - The fair value hierarchy requires the use of observable market data when available in determining fair value.
+    - The three-tiered fair value hierarchy, which prioritizes which inputs should be used in measuring fair value, is comprised of: (Level I) observable inputs such as quoted prices in active markets; (Level II) inputs other than quoted prices in active markets that are observable either directly or indirectly and (Level III) unobservable inputs for which there is little or no market data.
+    - For example, during the second quarter of 2023, a foreign news outlet reported that it obtained certain misappropriated data including, purportedly non-public Tesla business and personal information.
+    - On August 5, 2023, a putative class action was filed in the United States District Court for the Northern District of California, purportedly on behalf of all U.S. individuals impacted by the data incident, followed by several additional lawsuits, that each assert claims under various state laws and seeks monetary damages and other relief.
+    - The ongoing requests for information include topics such as operations, technology (e.g., vehicle functionality, vehicle incidents, Autopilot and FSD Capability), compliance, finance, data privacy, and other matters related to Tesla’s business, its personnel, and related parties.
+
+=== Q2 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+    - Tesla, Inc. Consolidated Balance Sheets (in millions, except per share data) (unaudited) June 30, 2025 December 31, 2024 Assets Current assets Cash and cash equivalents $ 15,587 $ 16,139 Short-term investments 21,195 20,424 Accounts receivable, net 3,838 4,418 Inventory 14,570 12,017 Prepaid expenses and other current assets 5,943 5,362 Total current assets 61,133 58,360 Operating lease vehicles, net 5,230 5,581 Solar energy systems, net 4,788 4,924 Property, plant and equipment, net 38,574 35,836 Operating lease right-of-use assets 5,633 5,160 Digital assets 1,235 1,076 Intangible assets, net 138 150 Goodwill 258 244 Deferred tax assets 6,721 6,524 Other non-current assets 4,857 4,215 Total assets $ 128,567 $ 122,070 Liabilities Current liabilities Accounts payable $ 13,212 $ 12,474 Accrued liabilities and other 11,519 10,723 Deferred revenue 3,237 3,168 Current portion of debt and finance leases 2,040 2,456 Total current liabilities 30,008 28,821 Debt and finance leases, net of current portion 5,180 5,757 Deferred revenue, net of current portion 3,764 3,317 Other long-term liabilities 11,543 10,495 Total liabilities 50,495 48,390 Commitments and contingencies (Note 10) Redeemable noncontrolling interests in subsidiaries 61 63 Equity Stockholders’ equity Preferred stock; $ 0.001 par value; 100 shares authorized; no shares issued and outstanding — — Common stock; $ 0.001 par value; 6,000 shares authorized; 3,224 and 3,216 shares issued and outstanding as of June 30, 2025 and December 31, 2024, respectively 3 3 Additional paid-in capital 40,363 38,371 Accumulated other comprehensive income (loss) 158 ( 670 ) Retained earnings 36,790 35,209 Total stockholders’ equity 77,314 72,913 Noncontrolling interests in subsidiaries 697 704 Total liabilities and equity $ 128,567 $ 122,070 The accompanying notes are an integral part of these consolidated financial statements.
+  [Footnotes]
+    - As we accumulate more data related to the resale values of our vehicles or as market conditions change, there may be material changes to their estimated values.
+    - The fair value hierarchy requires the use of observable market data when available in determining fair value.
+    - The three-tiered fair value hierarchy, which prioritizes which inputs should be used in measuring fair value, is comprised of: (Level I) observable inputs such as quoted prices in active markets; (Level II) inputs other than quoted prices in active markets that are observable either directly or indirectly and (Level III) unobservable inputs for which there is little or no market data.
+    - For example, during the second quarter of 2023, a foreign news outlet reported that it obtained certain misappropriated data including, purportedly non-public Tesla business and personal information.
+    - On August 5, 2023, a putative class action was filed in the United States District Court for the Northern District of California, purportedly on behalf of all U.S. individuals impacted by the data incident, followed by several additional lawsuits, that each assert claims under various state laws and seeks monetary damages and other relief.
+    - The ongoing requests for information include topics such as operations, technology (e.g., vehicle functionality, vehicle incidents, Autopilot and FSD Capability and Robotaxi), compliance, finance, data privacy, and other matters related to Tesla’s business, its personnel, and related parties.
+
+=== Q3 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - We are also capitalizing on our strengths in real-world AI data to advance the development of Optimus, a general purpose, autonomous humanoid robot.
+  [Financial Statements]
+    - 1 real filing table(s) available (see the HTML report).
+    - Tesla, Inc. Consolidated Balance Sheets (in millions, except per share data) (unaudited) September 30, 2025 December 31, 2024 Assets Current assets Cash and cash equivalents $ 18,289 $ 16,139 Short-term investments 23,358 20,424 Accounts receivable, net 4,703 4,418 Inventory 12,276 12,017 Prepaid expenses and other current assets 6,027 5,362 Total current assets 64,653 58,360 Operating lease vehicles, net 5,019 5,581 Solar energy systems, net 4,673 4,924 Property, plant and equipment, net 39,407 35,836 Operating lease right-of-use assets 5,783 5,160 Digital assets 1,315 1,076 Intangible assets, net 131 150 Goodwill 257 244 Deferred tax assets 6,637 6,524 Other non-current assets 5,860 4,215 Total assets $ 133,735 $ 122,070 Liabilities Current liabilities Accounts payable $ 12,819 $ 12,474 Accrued liabilities and other 12,791 10,723 Deferred revenue 3,756 3,168 Current portion of debt and finance leases 1,924 2,456 Total current liabilities 31,290 28,821 Debt and finance leases, net of current portion 5,778 5,757 Deferred revenue, net of current portion 3,746 3,317 Other long-term liabilities 12,205 10,495 Total liabilities 53,019 48,390 Commitments and contingencies (Note 10) Redeemable noncontrolling interests in subsidiaries 59 63 Equity Stockholders’ equity Preferred stock; $ 0.001 par value; 100 shares authorized; no shares issued and outstanding — — Common stock; $ 0.001 par value; 6,000 shares authorized; 3,324 and 3,216 shares issued and outstanding as of September 30, 2025 and December 31, 2024, respectively 3 3 Additional paid-in capital 41,597 38,371 Accumulated other comprehensive income (loss) 207 ( 670 ) Retained earnings 38,163 35,209 Total stockholders’ equity 79,970 72,913 Noncontrolling interests in subsidiaries 687 704 Total liabilities and equity $ 133,735 $ 122,070 The accompanying notes are an integral part of these consolidated financial statements.
+  [Footnotes]
+    - As we accumulate more data related to the resale values of our vehicles or as market conditions change, there may be material changes to their estimated values.
+    - The fair value hierarchy requires the use of observable market data when available in determining fair value.
+    - The three-tiered fair value hierarchy, which prioritizes which inputs should be used in measuring fair value, is comprised of: (Level I) observable inputs such as quoted prices in active markets; (Level II) inputs other than quoted prices in active markets that are observable either directly or indirectly and (Level III) unobservable inputs for which there is little or no market data.
+    - For example, on August 5, 2023, a putative class action was filed in the United States District Court for the Northern District of California, purportedly on behalf of all U.S. individuals impacted by a data misappropriation incident earlier that year.
+    - The ongoing requests for information include topics such as operations, technology (e.g., vehicle functionality, vehicle incidents, Autopilot and FSD Capability and Robotaxi), compliance, finance, data privacy, and other matters related to Tesla’s business, its personnel, and related parties.
+
+=== Q4 2025 ===
+Management said:
+Guidance given:
+Actual reported:
+Filing disclosures (SEC):
+  [MD&A]
+    - We currently expect our capital expenditures to be in excess of $20 billion in 2026, driven by our AI initiatives, including investments in compute infrastructure and data centers, the expansion and ramp of our manufacturing and R&D production lines and facilities, and growth in our fleet of company-operated AI-enabled assets and our retail, service and charging footprint.
+    - 41 As discussed in and subject to the considerations referenced in Part II, Item 7, Management's Discussion and Analysis of Financial Condition and Results of Operations—Management Opportunities, Challenges and Uncertainties and 2026 Outlook—Cash Flow and Capital Expenditure Trends in this Annual Report on Form 10-K, we currently expect our capital expenditures to exceed $20 billion in 2026 driven by our AI initiatives, including investments in compute infrastructure and data centers, the expansion and ramp of our manufacturing and R&D production lines and facilities, and growth in our fleet of company-operated AI-enabled assets and our retail, service and charging footprint.
+    - As we accumulate more data related to the resale values of our vehicles or as market conditions change, there may be material changes to their estimated values.
+    - We are also capitalizing on our strengths in real-world AI data to advance the development of Optimus, a general purpose, autonomous humanoid robot.
+  [Financial Statements]
+    - 2 real filing table(s) available (see the HTML report).
+    - 48 Tesla, Inc. Consolidated Balance Sheets (in millions, except per share data) December 31, 2025 December 31, 2024 Assets Current assets Cash and cash equivalents $ 16,513 $ 16,139 Short-term investments 27,546 20,424 Accounts receivable, net 4,576 4,418 Inventory 12,392 12,017 Prepaid expenses and other current assets 7,615 5,362 Total current assets 68,642 58,360 Operating lease vehicles, net 4,912 5,581 Energy generation and storage systems, net 4,604 4,924 Property, plant and equipment, net 40,643 35,836 Operating lease right-of-use assets 6,027 5,160 Digital assets 1,008 1,076 Deferred tax assets 6,925 6,524 Other non-current assets 5,045 4,609 Total assets $ 137,806 $ 122,070 Liabilities Current liabilities Accounts payable $ 13,371 $ 12,474 Accrued liabilities and other 13,279 10,723 Deferred revenue 3,424 3,168 Current portion of debt and finance leases 1,640 2,456 Total current liabilities 31,714 28,821 Debt and finance leases, net of current portion 6,736 5,757 Deferred revenue, net of current portion 3,631 3,317 Other long-term liabilities 12,860 10,495 Total liabilities 54,941 48,390 Commitments and contingencies (Note 13) Redeemable noncontrolling interests in subsidiaries 58 63 Equity Stockholders’ equity Preferred stock; $ 0.001 par value; 100 shares authorized; no shares issued and outstanding — — Common stock; $ 0.001 par value; 6,000 shares authorized; 3,751 and 3,216 shares issued and outstanding as of December 31, 2025 and 2024, respectively 3 3 Additional paid-in capital 42,770 38,371 Accumulated other comprehensive income (loss) 361 ( 670 ) Retained earnings 39,003 35,209 Total stockholders’ equity 82,137 72,913 Noncontrolling interests in subsidiaries 670 704 Total liabilities and equity $ 137,806 $ 122,070 The accompanying notes are an integral part of these consolidated financial statements.
+    - These procedures also included, among others, (i) testing the completeness and accuracy of the underlying data used in the Monte Carlo model, (ii) the involvement of professionals with specialized skill and knowledge to assist in evaluating the reasonableness of management’s estimate by (a) developing an independent estimate of the grant date fair value of the award, including evaluating the appropriateness of management’s significant assumptions related to expected share price volatility, dilution adjustment, and estimated employee tax rate, and (b) comparing the independent estimate to management’s estimate, (iii) testing management's process for determining the achievement of certain performance conditions, and (iv) evaluating the appropriateness of the probability of achievement of certain performance conditions by considering the current, past, and expected future performance of the Company, and whether management's assessment was consistent with evidence obtained in other areas of the audit.
+  [Footnotes]
+    - AI infrastructure includes our owned data centers.
+    - As we accumulate more data related to the resale values of our vehicles or as market conditions change, there may be material changes to their estimated values.
+    - Such guarantees and variable customer payments represent a form of variable consideration and are estimated at contract inception at their most likely amount and updated at the end of each reporting period as additional performance data becomes available.
+    - Standalone selling prices are estimated based on estimated costs plus margin or by using market data for comparable products.
+    - The fair value hierarchy requires the use of observable market data when available in determining fair value.
+    - The three-tiered fair value hierarchy, which prioritizes which inputs should be used in measuring fair value, is comprised of: (Level I) observable inputs such as quoted prices in active markets; (Level II) inputs other than quoted prices in active markets that are observable either directly or indirectly and (Level III) unobservable inputs for which there is little or no market data.
+    - We have entered into various operating and finance lease agreements for certain of our offices, manufacturing and warehouse facilities, retail and service locations, data centers, equipment, vehicles, and energy generation and storage systems, worldwide.
+    - We use our historical data in estimating the expected award term of our employee grants.
+    - For example, on August 5, 2023, a putative class action was filed in the United States District Court for the Northern District of California, purportedly on behalf of all U.S. individuals impacted by a data misappropriation incident earlier that year.
+    - The ongoing requests for information include topics such as operations, technology (e.g., vehicle functionality, vehicle incidents, Autopilot and FSD Capability and Robotaxi), compliance, finance, data privacy, and other matters related to Tesla’s business, its personnel, and related parties.
+  [Risk Factors]
+    - Our information technology systems or data, or those of our service providers or customers or users could be subject to cyber-attacks or other security incidents, which could result in data breaches, intellectual property theft, claims, litigation, regulatory investigations, significant liability, reputational damage and other adverse consequences.
+    - For example, the General Data Protection Regulation applies to the processing of personal information collected from individuals located in the European Union requiring certain data protection measures when handling, with a significant risk of fines for noncompliance.
+    - To the extent any security incident results in unauthorized access or damage to or acquisition, use, corruption, loss, destruction, alteration or dissemination of our data, including intellectual property and personal information, or our products, vehicles or service offerings, or for it to be believed or reported that any of these occurred, it could disrupt our business, harm our reputation, compel us to comply with applicable data breach notification laws, subject us to time consuming, distracting and expensive litigation, regulatory investigation and oversight, mandatory corrective action, require us to verify the correctness of database contents, or otherwise subject us to liability under laws, regulations and contractual obligations, including those that protect the privacy and security of personal information.
+    - Notwithstanding our efforts to protect the security and integrity of our customers’ personal information, we may be required to expend significant resources to comply with data breach requirements if, for example, third parties improperly obtain and use the personal information of our customers or we otherwise experience a data loss with respect to the personal information we process and handle.
+    - While we maintain information technology measures designed to protect us against intellectual property theft, data breaches, sabotage and other external or internal cyber-attacks or misappropriation, our systems and those of our service providers are potentially vulnerable to malware, ransomware, viruses, denial-of-service attacks, phishing attacks, social engineering, computer hacking, unauthorized access, exploitation of bugs, defects and vulnerabilities, breakdowns, damage, interruptions, system malfunctions, power outages, terrorism, acts of vandalism, security breaches, security incidents, inadvertent or intentional actions by employees or other third parties, and other cyber-attacks.
+    - Any failure by us or our vendors or other business partners to comply with our public privacy notice or with federal, state or international privacy, data protection, artificial intelligence or security laws or regulations relating to the processing, collection, use, retention, security and transfer of personally identifiable information could result in regulatory or litigation-related actions against us, legal liability, fines, damages, ongoing audit requirements and other significant costs.
+
