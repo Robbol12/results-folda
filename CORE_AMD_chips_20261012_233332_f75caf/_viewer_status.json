@@ -1,0 +1,44 @@
+{
+  "status": "running",
+  "current_stage": "Publishing report...",
+  "stages": [
+    {
+      "stage": "Finishing filing pages...",
+      "seconds": 7.756
+    },
+    {
+      "stage": "Writing transcript viewer...",
+      "seconds": 6.117
+    },
+    {
+      "stage": "Writing earnings presentation viewers...",
+      "seconds": 17.092
+    },
+    {
+      "stage": "Verifying support pages...",
+      "seconds": 0.519
+    }
+  ],
+  "support_pages_ready": true,
+  "source_documents_ready": true,
+  "ready_seconds": 17.631,
+  "ready_stage_count": 4,
+  "publish_complete": false,
+  "total_seconds": null,
+  "error": null,
+  "github_published": null,
+  "github_error": null,
+  "viewer_readiness": {
+    "ready": true,
+    "expected_count": 11,
+    "written_count": 11,
+    "missing": [],
+    "placeholders": [],
+    "malformed": [],
+    "invalid": [],
+    "incomplete_annotations": [],
+    "broken_annotations": []
+  },
+  "updated_at": 1791848099.184202,
+  "owner_pid": 268838
+}
