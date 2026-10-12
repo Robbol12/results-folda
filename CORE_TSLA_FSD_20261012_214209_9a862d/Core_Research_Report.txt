@@ -1,0 +1,284 @@
+[CORE RESEARCH] TSLA: FSD
+
+Quarters searched: 4
+Filing sections searched: 77
+
+What the sources show:
+Across Q1–Q2 2021, management framed FSD as a pathway to recurring revenue via a subscription, highlighting the need to monitor a possible transition from cash purchases to subscription customers and describing efforts to get FSD subscription “out” while FSD beta progress continued. In Q2, Tesla stated it had launched FSD subscription in July and expected it to build slowly but gain momentum, while management emphasized they needed FSD widely available for subscription uptake. In Q3, FSD remained described as invitation-only beta, with the company stating it did not deem certain beta-related items appropriate for deferred revenue recognition, and it began expanding the FSD City Streets beta more broadly in October using a “Safety Score.” By Q4, management emphasized software-based profit potential from rapidly developing FSD and showed significant growth in FSD beta participation, while disclosures also became more explicit about revenue recognition for FSD features under ASC 606 (recognized when functionality is delivered).
+
+Watch points:
+  - Revenue recognition treatment appears to hinge on whether FSD-related beta functionality is viewed as deliverable; in Q3 management stated FSD beta is invitation-only and they “have not deemed that to be appropriate for recognition of deferred revenue,” while in Q4 the filing/excerpt indicates revenue related to FSD features is recognized when functionality is delivered to the customer (under ASC 606).
+  - Deferred revenue disclosures for FSD-access and related software features increase over time (e.g., $2.00B at March 31, 2021; $2.13B at June 30, 2021; $2.22B at September 30, 2021), but the excerpt does not explain the drivers, leaving interpretation of subscription/beta mix and timing effects unclear.
+  - Uncertainty in subscription ramp and customer migration from upfront purchases
+  - Need for wide beta availability to drive meaningful subscription adoption
+  - Safety and media/regulatory scrutiny around FSD/Autopilot
+  - Timing uncertainty for broader autonomy capabilities (responding to level 4 timeline questions)
+
+--- By Reporting Period ---
+
+=== Q1 2021 ===
+Sources: transcript_tsla-q1-2021.html | filing_10-q-q1-2021.html | Presentation_f44e64fbf5157a9f.html
+Management commentary:
+  - The key thing that I say here, there’s a lot of potential for recurring revenue based on a FSD subscription.
+  - One of the things we will need to keep an eye on is a potential transition from cash purchases of FSD subscription over to cash purchases of FSD who may move over to FSD subscription.
+  - We are working on getting FSD subscription out.
+  - The -- if you look at the size of our fleet and you look at the number of customers who did not purchase FSD upfront or on a lease and maybe want to experiment with FSD, this is a great option for them.
+  - Then with regard to Full Self-Driving, Full Self-Driving beta continues to make great progress.
+  - I think, just with -- just going through the facts of what I mean, specifically, there were -- there was an article regarding a tragedy where there was a high speed accident in Tesla and it was really just extremely deceptive media practices where it was claimed to be Autopilot, which is completely false and those journalists should be ashamed of themselves.
+Investor presentation deck:
+  - 1 Toyota Honda Ford Other non-premium brands BMW Lexus Audi Other premium brands EV Our competitors are 98% ICE [Page 8] 0 20,000 40,000 60,000 80,000 100,000 120,000 140,000 Tesla Model 3 BMW 3 Series Mercedes E-Class Audi Q5 Audi A6 C O R E T E C H N O L O G Y Autopilot and Full Self Driving (FSD) Our team continues to focus on the V9 version of FSD City Streets beta, which will soon become more widely available in the United States. [Presentation_f44e64fbf5157a9f.html]
+  - As a result, our FSD team is fully focused on evolving to a vision-based autonomous system and we are nearly ready to switch the US market to Tesla Vision. [Presentation_f44e64fbf5157a9f.html]
+
+Analyst Q&A:
+  Q — : Thank you. And the fourth question from retail investors is, does Tesla have any proactive plans to tackle main stream media’s imminent massive and deceptive click bait headline campaigns on safety of Autopilot or FSD, perhaps a specialty PR job of some sort?
+  A: Well, I will take this one, guys. From the safety side, I continue to say, he is driving on too. Yeah. Go ahead, Elon. No. Please go ahead. I think, just with -- just going through the facts of what I mean, specifically, there were -- there was an article regarding a tragedy where there was a high speed accident in Tesla and it was really just extremely deceptive media practices where it was claimed to be Autopilot, which is completely false and those journalists should be ashamed of themselves. Please go ahead, Zach. Yeah. Thanks, Elon. So I was just saying, we are committed to safety in all our designs and that’s number one in what we do here. Regarding the crash in Houston, specifically, we worked directly with the local authorities and NTSB, so wherever applicable and whenever they reach out to us for help directly on the engineering level and whatever else we can support.
+
+In that vein, we did a study with them over the past week to understand what happened in that particular crash and what we have learned from that effort was that Autosteer did not and could not engage on the road condition that as it was designed.
+
+Our adaptive cruise control only engaged when the driver was buckled and above 5 miles per hour, and it only accelerated to 30 miles per hour with the distance before the car crashed. As well, adaptive cruise control disengaged the car fully to complete to a stop when the driver’s seat belt was unbuckled.
+
+Through further investigation of the vehicle and the accident remains, we instructed the car with NTSB and we saw in the local police and were able to find that the steering wheel was indeed deformed, so it was leading to a likelihood that someone was in the driver’s seat at the time of the crash and all seat belts post-crash were found to be unbuckled.
+
+We were unable to recover the data from the SD card at the time of impact, but the local authorities are working on doing that and we await their report. As I said, we continue to hold safety in a high regard and look to improve our products in the future through this kind of data and other information from the field.
+  Q — Rod Lache — Wolfe Research: Hi, everybody. I was hoping maybe just first, you could talk a little bit about how you are thinking about the rollout of version 9 of FSD and the transition of the subscription models. It sounds like some of this is about to roll out next month. I am not sure if that’s just a subscription model. But maybe you could just spend a little time talking about how impactful you expect that to be?
+  A: So go ahead, Zach. Yes. We are working on getting FSD subscription out. There’s a couple of internal technical dependencies. But from a business model perspective that’s aligned and we are hoping to roll that out soon.
+
+The key thing that I say here, there’s a lot of potential for recurring revenue based on a FSD subscription. The -- if you look at the size of our fleet and you look at the number of customers who did not purchase FSD upfront or on a lease and maybe want to experiment with FSD, this is a great option for them.
+
+One of the things we will need to keep an eye on is a potential transition from cash purchases of FSD subscription over to cash purchases of FSD who may move over to FSD subscription. And so there could be a period of time in which cash reduces in the near-term and then as the portfolio of subscription customers builds up, then that becomes a pretty strong business for us over time. But we are hoping to get this launched pretty soon and see what the response is to it.
+SEC filing evidence:
+  [MD&A]
+    - In addition to opening new factories in 2021, we will also continue to generate demand and brand awareness by improving our vehicles’ performance and functionality, including Autopilot, FSD and software features, and introducing anticipated future vehicles.
+  [Footnotes]
+    - Deferred revenue activity related to the access to our Supercharger network, internet connectivity, Full Self Driving (“FSD”) features and over-the-air software updates on automotive sales with and without resale value guarantee amounted to $ 2.00 billion and $ 1.93 billion as of March 31, 2021 and December 31, 2020, respectively.
+
+=== Q2 2021 ===
+Sources: transcript_tsla-q2-2021.html | filing_10-q-q2-2021.html | Presentation_3e0cb2937859ba77.html
+Management commentary:
+  - Let's see, in terms of FSD subscription, we were able to launch Full Self-Driving subscription last month, and we expect it to build slowly and then -- but then gather a lot of momentum over time.
+  - So yeah, I think FSD subscription will be a significant factor probably next year.
+  - I think we're still early in understanding how FSD subscription will unfold.
+  - Obviously, we need to have the Full Self-Driving widely available for it really to take off at high rates and we're making a lot of progress there.
+  - And we're making great progress on Full Self-Driving.
+  - So I'm highly confident that the cars will be capable of Full Self-Driving.
+  - Full Self-Driving computer and the cameras, I'm confident that they will be able to drive themselves with the safety levels substantially greater than that of the average person.
+  - Really, Full Self-Driving is the main thing.
+  - We really need Full Self-Driving at least the beta to be widely available so anyone who wants it can get it.
+  - At scale, it will have billions of miles of travel to be able to show that it is the safety of the car with autopilot on is 100% or 200% or more safer than the average human driver.
+  - At that point, I think it would be unconscionable to not to allow autopilot because the car just becomes way less safe.
+  - We need to make Full Self-Driving work in order for it to be a compelling value proposition.
+  - But once we have Full Self-Driving widely deployed, then the value proposition will be clear.
+Investor presentation deck:
+  - Operating cash flow less capex (free cash flow) of $619M in Q2 Net debt and finance lease repayments of $1.6B in Q2 In total, $912M decrease in our cash and cash equivalents in Q2 to $16.2B Cash Record vehicle production and deliveries in Q2 Successful launch of FSD subscription in July Started delivering the new Model S to customers Profitability $1.3B GAAP operating income; 11.0% operating margin in Q2 $1.1B GAAP net income; $1.6B non -GAAP net income (ex-SBC1) in Q2 28.4% GAAP Automotive gross margin (25.8% ex -credits) in Q2 Operations S U M M A R YH I G H L I G H T S 3 (1) SBC = stock-based compensation [Page 4] F I N A N C I A L S U M M A R Y (Unaudited) 4 ($ in millions, except percentages and per share data) Q2-2020 Q3-2020 Q4-2020 Q1-2021 Q2-2021 YoY Automotive revenues 5,179 7,611 9,314 9,002 10,206 97% of which regulatory credits 428 397 401 518 354 -17% Automotive gross profit 1,317 2,105 2,244 2,385 2,899 120% Automotive gross margin 25.4% 27.7% 24.1% 26.5% 28.4% 298 bp Total revenues 6,036 8,771 10,744 10,389 11,958 98% Total gross profit 1,267 2,063 2,066 2,215 2,884 128% Total GAAP gross margin 21.0% 23.5% 19.2% 21.3% 24.1% 313 bp Operating expenses 940 1,254 1,491 1,621 1,572 67% Income from operations 327 809 575 594 1,312 301% Operating margin 5.4% 9.2% 5.4% 5.7% 11.0% 555 bp Net income attributable to common stockholders (GAAP) 104 331 270 438 1,142 998% Net income attributable to common stockholders (non-GAAP) 451 874 903 1,052 1,616 258% EPS attributable to common stockholders, diluted (GAAP) (1) 0.10 0.27 0.24 0.39 1.02 920% EPS attributable to common stockholders, diluted (non-GAAP) (1) 0.44 0.76 0.80 0.93 1.45 230% Adjusted EBITDA 1,209 1,807 1,850 1,841 2,487 106% Net cash provided by operating activities 964 2,400 3,019 1,641 2,124 120% Capital expenditures (546) (1,005) (1,151) (1,348) (1,505) 176% Free cash flow 418 1,395 1,868 293 619 48% Cash and cash equivalents 8,615 14,531 19,384 17,141 16,229 88% (1) Prior period results have been retroactively adjusted to reflect the five-for-one stock split effected in the form of a stock dividend in August 2020. [Presentation_3e0cb2937859ba77.html]
+  - View from vehicle cameras 8 What the vehicle sees (FSD V9 Beta) [Page 9] 0.0 0.5 1.0 1.5 2.0 2.5 3.0 3.5 4.0 4.5 O T H E R H I G H L I G H T S Energy Storage Energy storage deployments more than tripled YoY in Q2, driven mainly by recognition of several Megapack projects. [Presentation_3e0cb2937859ba77.html]
+  - Market share of Tesla vehicles by region (TTM) Source: Tesla estimates based on ACEA; Autonews.com; CAAM light-duty vehicles only [Page 8] C O R E T E C H N O L O G Y Autopilot and Full Self Driving (FSD) After selling over a million vehicles equipped with radar, we have collected enough data to start removing it in some regions. [Presentation_3e0cb2937859ba77.html]
+  - Our first customers downloaded FSD V9 Beta in July, prompting strong positive feedback from current users. [Presentation_3e0cb2937859ba77.html]
+
+Analyst Q&A:
+  Q — : OK. Thank you very much. And let's go to the last investor question. Does Tesla plan to offer more services beyond FSD or high-speed connectivity as part of its subscription bundle going forward? What areas in particular present an opportunity?
+  A: Yeah, we don't have a lot of ideas on this to be frank. Really, Full Self-Driving is the main thing. Things are obviously headed toward fully autonomous electric vehicle future. And I think Tesla is well-positioned and in fact is the leader objectively in both of those arenas, electrification and autonomy.
+
+It's always tempting to try to find analogies, but with other companies, or whatever.  But really, the value of fully electric autonomous fleet is generally gigantic, boggles the mind really. So that will be one of the most valuable things that's ever done in the history of civilization. Thank you very much. And now let's go back to analyst Q&A, please.
+
+Questions & Answers:
+  Q — Colin Rusch — Oppenheimer: Thanks so much guys. Can you speak to the attached rates for FSD so far and where you're targeting in terms of the subscription levels?
+  A: Yeah, it's not worth commenting on right now. It's not meaningful. We really need Full Self-Driving at least the beta to be widely available so anyone who wants it can get it. Otherwise, it'll be pointless to read anything into where things are right now.
+
+So, yes.
+  Q — Pierre Ferragu — New Street Research: OK. Great. Thank you. And I have a quick question.
+
+I know, Elon, you don't think it's meaningful today, but I'd be curious to know if you have any thoughts about when you announced the new pricing on the FSD ring from 10,000 and thrown to 199 without looking. I'd be curious to understand how it's affected behavior in issues, so like a massive effect, affecting the service. And I'm not thinking about people looking at it as a message, but more to try the most advanced version of autopilots, and to try it. In the first days, even on the pricing, have you seen a very significant spike in the tech rate? And can you give us a sense of how big it was?
+  A: OK. Are you asking like if the FSD tech rate is too expensive and that's why we're doing subscription? Or I'm not sure if I understand your question correctly.
+  Q — Pierre Ferragu — New Street Research: No, my question is from the time you announced the subscription at $199 the amounts, how much did the tech rate increase like the vested people who basically took the subscription about the new car? That is how it was when they had to pay 10 grand upfront.
+  A: Yeah. This is Zach here. I think we're still early in understanding how FSD subscription will unfold. But a couple of data points here.
+
+We took a look at our backlog to see of customers in our backlog who have ordered FSD, did they cancel presumably to go to subscription after they take delivery? And the level of cancellations there, we're not seeing cannibalization there, it's possible that that changes, but that was also part of our pricing strategy at $99 and $199. Yeah. I mean, any given price is going to be wrong, so we'll just adjust it over time as we see the value proposition makes sense to people. So we're just really -- I'm not thinking about this a lot right now. We need to make Full Self-Driving work in order for it to be a compelling value proposition.
+
+Otherwise, people are kind of betting on the future. Like right now, does it make sense for somebody to do FSD subscription? I think it's debatable. But once we have Full Self-Driving widely deployed, then the value proposition will be clear. And at that point, I think basically everyone will use it, or it could be a rare individual who doesn't. OK. Thank you very much for your help. And I think that's all the time we have for today. Thanks for all your questions and we'll speak to you again in three months' time.
+
+Have a good day, everyone. All right. Thank you.
+  Q — Colin Rusch — Oppenheimer: And then just the follow-up there is about the kin to the regulatory environment, keeping up with the technology. Are you seeing meaningful evolution in terms of the regulators really understanding the technology and beginning to set some standards here sometime in the near term?
+  A: At least in the U.S., we don't see regulation as the fundamental limiter. We've obviously got to make it work and then demonstrate that the reliability is significantly in excess of the average human driver for it to be allowed -- for you to be able to use it without paying attention to the road. But I think we have a massive fleet. So it will be, I think, straightforward to make the arguments on statistical grounds, just based on the number of interventions, especially in events that would result in a crash.
+
+At scale, it will have billions of miles of travel to be able to show that it is the safety of the car with autopilot on is 100% or 200% or more safer than the average human driver. At that point, I think it would be unconscionable to not to allow autopilot because the car just becomes way less safe. It would be sort of like shake the elevator analogy. Back in the day, we used to have elevator operators with a big switch that -- they operate the elevator and move between floors.
+
+But they get tired or maybe drunk or something or distracted and every now and again, somebody would be kind of sheared in half between floors. That's kind of the situation we have with cars. Autonomy will become so safe that it will be unsafe to manually operate the car relatively speaking. And today obviously we just get an elevator where we press the button for which floor we want, and it just takes us there safely.
+
+And it would be quite alarming if those elevators were operated by a person with a giant switch. That's how it would be with cars. Thank you. Let's go to the next question, please.
+SEC filing evidence:
+  [MD&A]
+    - In addition to opening new factories in 2021, we will also continue to generate demand and brand awareness by improving our vehicles’ performance and functionality, including Autopilot, FSD and software features, and introducing anticipated future vehicles.
+    - We are currently focused on increasing vehicle production and capacity, improving and developing battery technologies, improving our FSD and Autopilot capabilities, increasing the affordability and efficiency of our vehicles and expanding our global infrastructure.
+  [Footnotes]
+    - Deferred revenue is related to the access to our Supercharger network, internet connectivity, Full Self Driving (“FSD”) features and over-the-air software updates on automotive sales with and without resale value guarantee, which amounted to $ 2.13 billion and $ 1.93 billion as of June 30, 2021 and December 31, 2020, respectively.
+
+=== Q3 2021 ===
+Sources: transcript_tsla-q3-2021.html | filing_10-q-q3-2021.html | Presentation_ab3b9f83a7b27e60.html
+Management commentary:
+  - We then included the safety score as part of the FSD Beta enrollment program where we have almost 150,000 cars currently using the safety score.
+  - FSD, they're at the cutting edge of technology development.
+  - And given that FSD is still currently in the beta phase, it's invitation only and it's limited, we have not deemed that to be appropriate for recognition of deferred revenue.
+  - Some of the recent nominees to NHTSA have been publicly critical of FSD, including engaging with short-sellers online.
+  - This is really more of a platform for when FSD Beta goes into wide release, and the features and functionality become more accessible to more customers.
+  - And you can also see in review a wide variety of customer post, FSD videos on social media.
+  - Note that we are also not yet recognizing additional revenue from the FSD Beta program.
+  - And so, there's -- there's that premium that we pay to repurchase the FSD.
+  - What I'll say, just as a general statement before I make a couple of specific comments, is that the things that we learned on FSD subscription today are not necessarily all that relevant.
+  - But again, as I said at the beginning, I think what we've seen so far on FSD subscription is not terribly relevant.
+  - It's not a focus of ours today as we are fully subscribed on Dojo with our internal uses, we do expect to continue to improve the in-car experience in the context of FSD Martin Viecha Great.
+  - The second thing that I'll note is that if you look at the pricing, the monthly pricing of FSD subscription, and then you compare that to the cost of rolling FSD option into your lease or you loan, on a monthly basis to note the economical way for a customer to enjoy the features of full self-driving is through purchasing it upfront and enrolling into their financing.
+  - And as a result of that, what we've seen in the data is not -- we're unable to detect a change in the upfront take rate of FSD when people when people purchase cars.
+  - If you trade in your Tesla to Tesla, we -- there's a difference in price that we pay for a trade-in that has FSD compared to one that doesn't.
+  - And we're excited to have expanded the full self-driving beta program to more customers.
+  - And doing so, we'll continue to be transparent to the public on how our technology is both developing from an autopilot safety data, the latest of which we just shared in the shareholder update.
+  - As full self-driving matures, as take rates increase, if we are to raise pricing on that, there's considerable upside both on gross margins and operating margin as that comes to light, as the business starts to become more of a mix of a hardware-based Company and a software-based Company.
+  - When you are using full self-driving and you're going to the iterations, you can feel the progress.
+Investor presentation deck:
+  - Operating cash flow less capex (free cash flow) of $1.3B in Q3 Net debt and finance lease repayments of $1.5B in Q3 In total, $164M decrease in our cash and cash equivalents in Q3 to $16.1B Cash Record vehicle production and deliveries in Q3 Started roll out of FSD City Streets Beta to a wider population in October Profitability $2.0B GAAP operating income; 14.6% operating margin in Q3 $1.6B GAAP net income; $2.1B non-GAAP net income (ex-SBC 1) in Q3 30.5% GAAP Automotive gross margin (28.8% ex -credits) in Q3 Operations S U M M A R YH I G H L I G H T S (1) SBC = stock-based compensation. [Presentation_ab3b9f83a7b27e60.html]
+  - Market share of Tesla vehicles by region (TTM) Source: Tesla estimates based on ACEA; Autonews.com; CAAM – light-duty vehicles only7 [Page 8] C O R E T E C H N O L O G Y Autopilot and Full Self Driving (FSD) In Q3, we hosted AI Day – our recruiting event to attract the best AI talent. [Presentation_ab3b9f83a7b27e60.html]
+  - In October, we started to expand our FSD City Streets beta to more drivers, based on demonstrated driver safety and attentiveness measured through their “Safety Score”. [Presentation_ab3b9f83a7b27e60.html]
+
+Analyst Q&A:
+  Q — Brian Johnson — Barclays: By the way, great to hear there's a team at Tesla, and not just one person shows. I wanted to drill down a bit more on FSD. In December of 2020 in a Business Insider interview in Germany, your leaders said that he expected level 5 autonomy by December -- within a year, so that would be now. Yet, we look at the progress in FSD and some of the issues you see on YouTube, and it looks very much like a level 2 plus system that requires vigilance. It's a factor disclaimer site. So, I guess there's 3 questions. One, what is the timetable to get to level 4 at least capability, we can deal with the regulatory stuff later. Two, what is the criteria for Zach, for you to release revenue -- deferred revenue around FSD and it's having a level 2 system that needs monitoring enough to release that deferred revenue? And then three, maybe you could talk a little bit more about how you plan to work with the new -- with the folks at NHTSA who appear to be asking some questions. They have 3 requests out to you regarding information around the level 2 -- around the capabilities, the natural state.
+  A: Yeah, [Inaudible]. We'll take them in order. It's difficult to be specific on the timelines. The bottom half of the team is working extremely hard, iterating on every version. We're being extremely transparent through the release of this to public customers who are posting information online.
+
+When you are using full self-driving and you're going to the iterations, you can feel the progress. And for those who don't have it in their cars, social media is excellent at getting a sense for how that's progressing. And the team is moving quickly, with every iteration, with every update.
+
+They're working very hard on that. On your second question about the criteria to release deferred revenue, the way that this works is, we have made certain commitments as to what this product can offer at the time that a customer has purchased that.
+
+And so, what we have to assess is, have we met those commitments, and is the software widely available to folks that we've made those commitments to within a certain geography. And given that FSD is still currently in the beta phase, it's invitation only and it's limited, we have not deemed that to be appropriate for recognition of deferred revenue.
+
+And we'll continue to evolve this, we'll continue to monitor it within the finance team to see when we get to the milestones in which we're comfortable releasing. On the NHTSA question, Lars, do you want to take that? Sure. I mean, as I said earlier, we always corroborate fully with NHTSA and other regulatory bodies in any sort of investigation they may have, particularly related to ADAS systems when they came out with the standing general order in July.
+
+We were quick to respond to that and one of the first and only companies capable of actually meeting the needs of that report. We continue to send that information to them as required, weekly and as it occur.
+
+And with the additional investigations, and as I said, we meet that with great sincerity and we'll work through them one by one to make sure that all the facts come out and NHTSA's well informed about our strategies for both active safety in this case, but also passive safety.
+
+As you guys may know, we released updates to our airbag and restraint system last week to Model Y using our fleet data. We worked closely with NHTSA on that and they were fully in a loop before we did it.
+
+So, I think these kinds of things will continue to happen in the new regulatory space as Zach discussed, as we move towards a software-based vehicle and we're happy to be part of that journey.
+  Q — Pierre Ferragu: Perfect. Zach, as you noticed -- as you noted, you hit low-teens operating margins. That was your medium-term target. You're there now, despite the number of challenges and not full utilization to the plan.
+
+How are you thinking about that target now? Does it allow you to go lagging, either drive price down further to unlock more demand and invest in other initiatives or does that target and need to change? And in longer term, do you have an aspirational gross margin target as the mix of software and hardware changes?
+  A: Yeah. We have achieved -- we've actually exceeded our long-term guidance on our operating margin target. So, we're very pleased to see that. And as we look out over the next quarter and the next year, there's a number of puts and takes financially for the Company.
+
+The launch of Austin and Berlin will have ramp inefficiencies there for some period of time until we get those factories up and running. And so that's likely to put some downward pressure on our margins as those factories ramp. Our goals are to ramp those as quickly as possible.
+
+But as Drew mentioned earlier, there are a number of unknown unknowns that we'll need to work through. We are also in this uncertain environment with respect to cost structure. We are seeing costs increase on the commodity side.
+
+We're getting feedback from our suppliers as we're seeing ourselves the impact of labor shortage. And then logistics and expedite costs just continue to be a part of our story here and it's uncertain how that will unfold. It's our hope that these things stabilize. Exactly when that happens is difficult to predict.
+
+And we have been adjusting pricing in line with those changes in cost. And so, we'll see how that unfolds over the course of the next year. So, it's difficult on gross margin to say where that will go for those reasons.
+
+With respect to operating margin, we've been very focused as a Company on managing our overhead expenses and operating expenses. And operating expenses as a percentage of revenue has been declining and I expect that trend to continue to happen.
+
+And I think the net of all of this is hopefully that we continue to make progress on operating margin over the next 4 of 5 quarters. As we think forward, the business up until this point is kind of largely been a hardware automotive business with a little bit of software on top of that.
+
+As full self-driving matures, as take rates increase, if we are to raise pricing on that, there's considerable upside both on gross margins and operating margin as that comes to light, as the business starts to become more of a mix of a hardware-based Company and a software-based Company.
+
+So, we feel optimistic about the journey -- very optimistic about the journey as we look over into the long term, just a little bit difficult over the next 4 to 5 quarters. And we'll continue to update on earnings calls as we learn more information. There's just a lot of uncertainty in the world right now.
+SEC filing evidence:
+  [MD&A]
+    - In addition to opening new factories in 2021, we will also continue to generate demand and brand awareness by improving our vehicles’ performance and functionality, including Autopilot, FSD and software features and introducing anticipated future vehicles.
+    - We are currently focused on increasing vehicle production and capacity, improving and developing battery technologies, improving our FSD and Autopilot capabilities, increasing the affordability and efficiency of our vehicles and expanding our global infrastructure.
+  [Footnotes]
+    - Deferred revenue is related to the access to our Supercharger network, internet connectivity, Full Self Driving (“FSD”) features and over-the-air software updates on automotive sales with and without resale value guarantee, which amounted to $ 2.22 billion and $ 1.93 billion as of September 30, 2021 and December 31, 2020, respectively.
+
+=== Q4 2021 ===
+Sources: transcript_tsla-q4-2021.html | filing_10-k-fy2021.html | Presentation_e92a2bded87cf2d6.html
+Management commentary:
+  - And with the rapid development of FSD, software-based profits will ultimately become a strong addition to the profits generated by selling hardware.
+  - I mean, effectively long term, every car will have FSD.
+  - And there are several profound improvements to the FSD stack that are coming in the next few months.
+  - But I think anyone who's been in the FSD beta program, I mean, if they were just to plot the progress of the beta interventions per mile, it's obviously trending to a very small number of interventions per mile and pace of improvement is fast.
+  - I think the FSD stuff, you really don't want to be looking at the rearview mirror.
+  - As Full Self-Driving features get rolled out to more and more folks, I mean, for me, personally, I prefer to drive my car with the FSD data on.
+  - But that's the goal I've set for the team is the FSD team running our GPU supercluster needs to tell me that they want to use Dojo instead that.
+  - Full Self-Driving.
+  - So, over time, we think Full Self-Driving will become the most important source of profitability for Tesla.
+  - And my personal guess is that we'll achieve Full Self-Driving this year, yes, with data safety level significantly greater than present.
+  - Dojo is not needed for Full Self-Driving but it is a cost optimization on creating vast amounts of video data.
+  - Elon Musk As mentioned earlier, Dojo is not required for Full Self-Driving.
+  - It's not just a question like, does it get to Full Self-Driving but really kind of like the March of Nines of reliability, is it 99.999% reliable or 99.999999% reliable.
+  - I would be shocked if we do not achieve Full Self-Driving safer than human this year.
+  - I mean, it's apparent from the questions that the gravity of Full Self-Driving is not fully appreciated.
+Investor presentation deck:
+  - We successfully increased the number of FSD Beta vehicles from a couple of thousand in Q3 to nearly 60,000 vehicles in the US today. [Presentation_e92a2bded87cf2d6.html]
+  - Market share of Tesla vehicles by region (TTM) Source: Tesla estimates based on ACEA; Autonews.com; CAAM – light-duty vehicles only9 [Page 10] C O R E T E C H N O L O G Y Autopilot and Full Self -Driving (FSD) The team continued to iterate on FSD Beta software, releasing seven updates throughout the quarter. [Presentation_e92a2bded87cf2d6.html]
+  - More importantly, FSD is a key component to improve automobile safety as well as further accelerating the world’s transition to sustainable energy through higher utilization of our vehicles. [Presentation_e92a2bded87cf2d6.html]
+  - Full Self-Driving (FSD) software remains one of our primary areas of focus. [Presentation_e92a2bded87cf2d6.html]
+
+Analyst Q&A:
+  Q — : would you consider splitting FSD packages into perpetual and term licenses with a higher tier for both options for commercial use? A perpetual license that could be attached to individual or business and not the vehicle itself.
+  A: Now, I mean, this sounds maybe too complicated. We're just going to be focused on like what sells for the fully considered lowest cost per mile, kilometer of driving. And these other -- so that's what matters like how do you maximize the efficiency of getting people from one place to another and then charge them in a sensible way. Including the charging infrastructure. That's a big part of it. Yes. So charging for money and charging for energy.
+  Q — : is Dojo on track for summer 2022? And what challenges, if any, are you working through? Is Dojo necessary for FSD to operate better in cities like New York City? Or on a separate note, where should we expect the first implementation of Tesla Bots? In your factories?
+  A: Okay. There's a few questions on there. Like 6 questions. Yes, Dojo appears to be on track for doing something useful in the summer this year. I think the threshold that really matters is at which point when does it become more competitive than a GPU cluster for training? And obviously, the GPU cluster is getting better. So, it's a moving target. But that's the goal I've set for the team is the FSD team running our GPU supercluster needs to tell me that they want to use Dojo instead that. That's where -- that's the obvious sort of threshold.
+
+And I don't know when that will. I wouldn't say like success is 100% certain here. I think, we just generally want to overestimate meeting options to underestimate ourselves. But it does seem as though we might pass that threshold next year with Dojo if we execute well. Dojo is not needed for Full Self-Driving but it is a cost optimization on creating vast amounts of video data.
+
+Cost optimization also, a rate of improvement. So, if you can train models faster, have a shorter iteration interval, then you can make progress faster. So, not everything can be distributed to deep GPUs. There's some elements of serialization there, so. And then, if Dojo is competitive, then it does seem like the kind of thing where we would offer it to other companies that want to do neural net training. Those are very much a neural net training optimized system.
+
+But in theory, it should be better than a generalize computing platform or say, GPUs, which were not really intended for the pixel trader. [ph] It is not directly intended for optimizing training of neural networks. They just happen to work better than CPUs in most cases. So, Dojos like a giant ASIC optimized for neural net training, especially video, or video like things. But as -- like said, we're not saying, for sure, Dojo would succeed. We think it will. We would encourage those who think this is an interesting problem to join Tesla, and -- yes.
+  Q — : how much of Tesla's margin improvement is from, number one, economies of scale; number two, production design -- production line design efficiencies; number three, reduced transportation costs from multiple plant locations; and number four, pricing versus cost inflation; or number five, other sources? And how much further could margins improve and why?
+  A: Yes. Basically -- yes, there's basically four major factors if we look over the last year to the margin improvement in the Company. And they're in no particular order here but these are the big ones. So, our mix of Model Y is increasing as we've ramped that to higher capacity in Fremont and also in Shanghai. And the reason that matters is the Model Y is a vehicle that carries a higher profit than the Model 3. And so that is helpful on our margins. And then, as we increase the volume on that program with labor efficiencies, fixed cost amortization, they improve and the costs go down as well.
+
+The second one here is localization in Shanghai has been a huge help for margins for the Company. And the obvious things around logistics and duties is a big part of it, but we've also -- that factory had a different line design, more efficient from the start, and we've been pushing the boundaries on the volume there. So, that has been helpful.
+
+If you recall at the beginning of the year, we also were in a transition to the new version of the Model S and Model X. And so, as that has ramped over the course of the year, that has been helpful. And then, we've also done various price increases in certain markets on certain models, which has helped there. So, that's generally the story at a high level.
+
+As we look over the next a quarter or two, as I mentioned in my opening remarks in the last call as well, we have ramp inefficiencies from the launch of Austin and Berlin. We also have pressures coming from inflation, supply chain, raw materials, et cetera. And so, where that nets out is hard to say in the immediate term. And we obviously, as a company, are going to be driving to increase margins as much as we can. But I just want to be realistic that we're launching two factories simultaneously here and it unavoidably will add cost to the business as we do that.
+
+And as we look further out, and Elon mentioned this in his opening remarks as well, the software portion of the business, I think, is the one to really pay attention to. As Full Self-Driving features get rolled out to more and more folks, I mean, for me, personally, I prefer to drive my car with the FSD data on. And I think as more and more people experience that, take rates there, and then as we work towards the robotaxi space, there's actually quite a bit of upside on margins from a software perspective. Yes. I think basically everything pales in comparison to the value of robotaxi or personal driving. I mean, it's just -- I mean, that just tends to warm everything. You just go from having an asset that is -- has a utility of perhaps 12 hours a week per passenger car to maybe around 50 or 60 hours a week to a 5x increase in the utility of the asset. The cost didn't change. Yes. So, that's where just things just we had -- just kind of where’s your mind.
+  Q — : Thank you. And the last question from investors is Elon mentioned Level 4 autonomy could be achieved this year. Is it based off initial FSD beta rollout experience or is Level 4 ability predicated on Dojo being completed online?
+  A: As mentioned earlier, Dojo is not required for Full Self-Driving. It should have a positive effect on the cost of training networks. It's not just a question like, does it get to Full Self-Driving but really kind of like the March of Nines of reliability, is it 99.999% reliable or 99.999999% reliable. This is -- it gets nutty.
+
+So, obviously we want to get to close to perfection as possible. So frankly, being safe than a human is a low standard, not a high standard. People are very, very lossy, often distracted, tired, texting. Anyway, it's remarkable that we don't have more accidents. So, it's -- yes. So actually being better than a human, I think, is relatively very forward, frankly, how do you be 1,000% better or 10,000% better. Yes. That's what gets much harder.
+
+But I think anyone who's been in the FSD beta program, I mean, if they were just to plot the progress of the beta interventions per mile, it's obviously trending to a very small number of interventions per mile and pace of improvement is fast. And there are several profound improvements to the FSD stack that are coming in the next few months. So, yes. I would be shocked if we do not achieve Full Self-Driving safer than human this year. I would be shocked.
+  Q — Toni Sacconaghi — Bernstein: I have two, please. First, you spoke a lot about FSD and how the economics could be very attractive going forward. I'm wondering if you could just share what your current attach rate might be for FSD on your vehicles or how to think about the progress of your attach rate or revenue in FSD, let's say, in '21 versus '20? And how much deferred revenue for FSD was drawn down during the year? And I have a follow-up, please. Thank you.
+  A: Yes. I think the FSD stuff, you really don't want to be looking at the rearview mirror. It will not be a good indicator for the future. This is what you need to look out the front windscreen, so -- because it is such a profound step change. I mean, effectively long term, every car will have FSD. And so, -- and the value of that will be a very big number. I just look at this as asset utilization. You have a passenger car, which normally is driven maybe 1.5 hours a day on average, maybe 10 -- 10 hours, 10, 12 hours a week, a lot of cars are in parking lots. So, we're spending money, not just driving the cars but storing them all over the place. We can get rid of a lot of parking lots if you have a car that is operating all the time. But there will be a challenge with traffic. So, we like this little tiny baby company, The Boring Company, which I initially started as a joke, and now I think it actually could be quite essential to alleviating the insane traffic that will happen when cars are autonomous because you reduce the pain of travel and you reduce the cost of travel so dramatically that there will be a crazy number of cars on the road.
+
+I mean, it's going to be -- I think it's way cheaper to draw a price point with robotaxi, which is an autonomous Tesla, which every car we've made in the past three or four years will be capable of that, than a bus or a subway, will cost less than the subsidized value of a bus ticket. So, if we want to get -- I'm not going to take the bus. If it costs you -- I don't know for arguments sake $2 to travel 10 miles point to point, taking the bus, especially in cold weather or dark or maybe a little bit dangerous or that. I just do not understand how profound change this is. It's not like some little feature, select the most profound software upgrade, maybe in history. Millions of cars suddenly have about 4 or 5 times utility [indiscernible] overnight. I don't actually know how to quantify that financially except that it's some big number.
+  Q — Toni Sacconaghi — Bernstein: Elon, I was wondering if I could just follow up and ask. You talked about your product road map and also your goal to keep growing at 50% per year or better. That would put you at 3.2 million vehicles or more in 2024. And I think you made reference to Cybertruck maybe being 250,000 vehicles. If there is no $25,000 vehicle being worked on, is it really realistic to think that you can sell more than 3 million vehicles with two very high-volume cars and Cybertruck in 2024, or how do we think about that or what else is missing in that equation?
+  A: Yes. I mean, it's apparent from the questions that the gravity of Full Self-Driving is not fully appreciated. If an asset has 5 times more utilization than the -- it's like dividing the cost of that asset by 5. So, if you have a $50,000 car, it's like having a $10,000 car all of a sudden, but maybe better than that because still you don't want to drive. So the person can be engaged in productivity or amusement instead of having to onerously drive through traffic. So, it's probably better than 5 times, I don't know. Yes. I mean, basically, if the cost of our cars do not change at all, we would still sell as many as we could possibly make.
+SEC filing evidence:
+  [MD&A]
+    - In addition to ramping production in 2022, we will also continue to generate demand and brand awareness by improving our vehicles’ performance and functionality, including through products based on artificial intelligence such as Autopilot and FSD, and other software features.
+    - Revenue Recognition Automotive Sales without Resale Value Guarantee Automotive sales revenue includes revenues related to deliveries of new vehicles and pay-per-use charges, and specific other features and services that meet the definition of a performance obligation under ASC 606, including access to our Supercharger network, internet connectivity, FSD features and over-the-air software updates.
+    - Revenue related to FSD features is recognized when functionality is delivered to the customer.
+    - We are currently focused on increasing vehicle production and capacity, improving and developing battery technologies, improving our FSD capabilities, increasing the affordability and efficiency of our vehicles and expanding our global infrastructure.
+    - Commissions are not paid on other obligations such as access to our Supercharger network, internet connectivity, FSD features and over-the-air software updates.
+
+
+--- Consolidated risk disclosures ---
+We may also experience similar future delays in launching and/or ramping production of our energy storage products and Solar Roof; new product versions or variants such as the recently updated Model S and Model X; new vehicles such as Tesla Semi, Cybertruck and the new Tesla Roadster; and future features and services such as new Autopilot or FSD features and the autonomous 41 Tesla ride-hailing network.
+  Q1 2021: filing_10-q-q1-2021.html
+We are continuing to develop our FSD technology with the goal of achieving fully self-driving capability in the future.
+  Q1 2021: filing_10-q-q1-2021.html
+  Q2 2021: filing_10-q-q2-2021.html
+In particular, we offer in our vehicles Autopilot and FSD features that today assist drivers with certain tedious and potentially dangerous aspects of road travel, but which currently require drivers to remain fully engaged in the driving operation.
+  Q1 2021: filing_10-q-q1-2021.html
+  Q2 2021: filing_10-q-q2-2021.html
+As is true for other automakers, our vehicles have been involved and we expect in the future will be involved in accidents resulting in death or personal injury, and such accidents where Autopilot or FSD features are engaged are the subject of significant public attention.
+  Q1 2021: filing_10-q-q1-2021.html
+  Q2 2021: filing_10-q-q2-2021.html
+  Q3 2021: filing_10-q-q3-2021.html
+  Q4 2021: filing_10-k-fy2021.html
+If our products contain design or manufacturing defects that cause them not to perform as expected or that require repair, or certain features of our vehicles such as new Autopilot or FSD features take longer than expected to become enabled, are legally restricted or become subject to onerous regulation, our ability to develop, market and sell our products and services may be harmed, and we may experience delivery delays, product recalls, product liability, breach of warranty and consumer protection claims and significant warranty and other expenses.
+  Q1 2021: filing_10-q-q1-2021.html
+  Q2 2021: filing_10-q-q2-2021.html
+  Q3 2021: filing_10-q-q3-2021.html
+  Q4 2021: filing_10-k-fy2021.html
+We may also experience similar future delays in launching and/or ramping production of our energy storage products and Solar Roof; new product versions or variants such as the recently updated Model S and Model X; new vehicles such as Tesla Semi, Cybertruck and the new Tesla Roadster; and future features and services such as new Autopilot or FSD features and the autonomous 45 Tesla ride-hailing network.
+  Q2 2021: filing_10-q-q2-2021.html
+We may also experience similar future delays in launching and/or ramping production of our energy storage products and Solar Roof; new product versions or variants such as the recently updated Model S and Model X; new vehicles such as Tesla Semi, Cybertruck and the new Tesla Roadster; and future features and services such as new Autopilot or FSD features and the autonomous 44 Tesla ride-hailing network.
+  Q3 2021: filing_10-q-q3-2021.html
+We are continuing to develop our FSD Capability technology with the goal of achieving fully self-driving capability in the future.
+  Q3 2021: filing_10-q-q3-2021.html
+  Q4 2021: filing_10-k-fy2021.html
+In particular, we offer in our vehicles Autopilot and FSD Capability features that today assist drivers with certain tedious and potentially dangerous aspects of road travel, but which currently require drivers to remain fully engaged in the driving operation.
+  Q3 2021: filing_10-q-q3-2021.html
+  Q4 2021: filing_10-k-fy2021.html
+We may also experience similar future delays in launching and/or ramping production of our energy storage products and Solar Roof; new product versions or variants such as the recently updated Model S and Model X; new vehicles such as Tesla Semi, Cybertruck and the new Tesla Roadster; and future features and services based on artificial intelligence, such as new Autopilot or FSD 14 functionalities, the autonomous Tesla ride-hailing network and robotics.
+  Q4 2021: filing_10-k-fy2021.html
+DocuLens v2.7.265 · by Luciano Rahal
