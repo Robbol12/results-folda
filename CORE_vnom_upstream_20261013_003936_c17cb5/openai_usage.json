@@ -1,0 +1,12 @@
+{
+  "request_id": "171c4596-3574-4cbd-8bb3-389ee5931103",
+  "used_tokens": 0,
+  "reserved_tokens": 0,
+  "used_calls": 0,
+  "reserved_calls": 0,
+  "token_limit": 30000,
+  "call_limit": 32,
+  "blocked_reason": null,
+  "audit_schema_version": 1,
+  "calls": []
+}
