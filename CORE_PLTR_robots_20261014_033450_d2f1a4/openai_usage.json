@@ -1,0 +1,12 @@
+{
+  "request_id": "ca90adb3-447d-474d-a99b-3ab9dd3cda5c",
+  "used_tokens": 0,
+  "reserved_tokens": 0,
+  "used_calls": 0,
+  "reserved_calls": 0,
+  "token_limit": 30000,
+  "call_limit": 32,
+  "blocked_reason": null,
+  "audit_schema_version": 1,
+  "calls": []
+}
