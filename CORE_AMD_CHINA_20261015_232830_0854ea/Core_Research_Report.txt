@@ -1,0 +1,128 @@
+[CORE RESEARCH] AMD: CHINA
+
+Quarters searched: 4
+Filing sections searched: 86
+
+What the sources show:
+Across 2023, China-related risk and uncertainty are framed through U.S.-China trade tensions, expanding U.S. Entity List actions and advanced-computing/semiconductor-focused regulations, and through potential disruptions from geopolitical changes affecting Taiwan-based third-party wafer foundries and manufacturing/subcontractors. The company also discloses that substantially all product assembly and final testing occur at third-party manufacturing facilities in China, Malaysia, and Taiwan, keeping operational exposure linked to China and the broader China-Taiwan region. In late 2023, BIS introduced new export requirements for certain advanced computing items to parties headquartered (or ultimate parents headquartered) in specified country groups including China, and this theme continues into 2024 with added compliance steps (e.g., NAC notifications before shipping certain Versal FPGAs to China). In 2024, management also shifts from primarily risk framing to addressing market positioning in China, stating they are “underrepresented in China market in the service side,” while call commentary highlights positive enterprise momentum supported by broader adoption including on-prem and cloud third-party deployments and migrations to AMD—though the excerpt only probes for “China” demand trends and does not provide further quantified or explicit China-specific results in the provided text.
+
+Watch points:
+  - Repeated dependence on Taiwan-based third-party foundries and subcontractors creates a persistent geopolitical concentration risk tied to China-Taiwan relations across multiple periods.
+  - Export-control disclosures evolve from general regulatory uncertainty (2023) to specific mechanisms and timing/filing requirements (2024 NAC notification 25 days before shipping certain Versal FPGAs to China), indicating potential compliance burden increases.
+  - The Q3 2024 call includes a question about “enterprise and general cloud demand trends…out of China,” but the provided management response excerpt does not give explicit China demand outcomes beyond general adoption/migration commentary, leaving China-specific performance less directly evidenced in the excerpt.
+  - U.S.-China trade and regulatory uncertainty affecting advanced computing/semiconductor technologies
+  - Export controls expanding to apply to China (BIS requirements; country groups D1/D4/D5; ECCN 3A090/4A090)
+  - Geopolitical changes between China and Taiwan disrupting Taiwan-based third-party wafer foundries/manufacturing/subcontractors
+  - Operational exposure due to manufacturing/assembly/testing performed at third-party facilities in China and Taiwan
+  - Regulatory fragmentation in jurisdictions (including China) affecting product requirements (e.g., energy consumption/ENERGY STAR; material restrictions)
+
+--- By Reporting Period ---
+
+=== Q1 2023 ===
+Sources: filing_10-q-q1-2023.html | Presentation_9360b2366a162fba.html
+
+=== Q2 2023 ===
+Sources: filing_10-q-q2-2023.html | Presentation_dca7a62eb7f039e2.html
+
+=== Q3 2023 ===
+Sources: filing_10-q-q3-2023.html | Presentation_aa20db2a959c586d.html
+
+=== Q4 2023 ===
+Sources: transcript_amd-q4-2023.html | filing_10-k-fy2023.html | Presentation_16943a4f91f9d767.html
+SEC filing evidence:
+  [Footnotes]
+    - 2 real filing table(s) available (see the HTML report).
+
+=== Q1 2024 ===
+Sources: filing_10-q-q1-2024.html | Presentation_ffb862c23b0f0d14.html
+
+=== Q2 2024 ===
+Sources: transcript_amd-q2-2024.html | filing_10-q-q2-2024.html | Presentation_0f0cc7717cf349a4.html
+
+=== Q3 2024 ===
+Sources: transcript_amd-q3-2024.html | filing_10-q-q3-2024.html | Presentation_9d88924fedac233d.html
+Management commentary:
+  - On your China question, we are underrepresented in China market in the service side.
+Analyst Q&A:
+  Q — Harlan Sur — J: Good afternoon. Thanks for taking my question. Lisa, on your core EPYC business, you did start to see recovery in enterprise last quarter. It was broad-based across many verticals.
+You've got -- you've also got a growing share dynamic as well, right? And it sounds like that trend continued in the September quarter. Do you anticipate continued follow-through in terms of quarter-on-quarter growth this quarter for enterprise? And then maybe what sort of enterprise and general cloud demand trends are you seeing out of China?
+  A: Sure. So Harlan, thanks for the question. We did see positive growth momentum here in the third quarter in enterprise. We are getting broader adoption and we're seeing that growth both in on-prem deployments as well as cloud third-party deployments.
+And so we're very happy with sort of the adoption of our cloud instances when people are doing migrations, they're migrating from on-prem to cloud, they're migrating to AMD or they're migrating from older cloud instances to newer cloud instances. We're seeing migrations to AMD. So I think that helps us in both the Enterprise segment as well as the Cloud segment. As we go forward into the fourth quarter, I think we are expecting another quarter of growth on a sequential basis for our Server business and strength in both Enterprise and Cloud.
+And I think as we think about our opportunities going forward, the Enterprise business is a place where we have been underrepresented. I think our portfolio has strengthened. So the platforms that are being offered by the OEMs have broadened with not just Zen 4, but also with the Zen 5 portfolio launch. And so I think those are opportunities for us in 2025. Yes. On your China question, we are underrepresented in China market in the service side. So as Lisa said, that's another opportunity for us to continue to gain share.
+
+=== Q4 2024 ===
+Sources: transcript_amd-q4-2024.html | filing_10-k-fy2024.html | Presentation_7604e21dc5626ff5.html
+SEC filing evidence:
+  [Footnotes]
+    - 2 real filing table(s) available (see the HTML report).
+
+
+--- Consolidated risk disclosures ---
+Specifically, United States-China trade relations remain uncertain as the United States continues to add more Chinese companies to the Entity List and more regulations targeted to advanced computing, semiconductor manufacturing, and emerging technologies such as AI.
+  Q1 2023: filing_10-q-q1-2023.html
+  Q2 2023: filing_10-q-q2-2023.html
+  Q3 2023: filing_10-q-q3-2023.html
+  Q4 2023: filing_10-k-fy2023.html
+  Q1 2024: filing_10-q-q1-2024.html
+  Q2 2024: filing_10-q-q2-2024.html
+  Q3 2024: filing_10-q-q3-2024.html
+  Q4 2024: filing_10-k-fy2024.html
+For example, China has banned such activities, and corresponding interest in mining of such currencies are subject to significant fluctuations.
+  Q1 2023: filing_10-q-q1-2023.html
+Also, geopolitical changes between China and Taiwan could disrupt the operations of our Taiwan-based third-party wafer foundries, manufacturing facilities and subcontractors, and materially adversely affect our business, financial condition and/or operating results .
+  Q1 2023: filing_10-q-q1-2023.html
+  Q2 2023: filing_10-q-q2-2023.html
+Nearly all product assembly and final testing of our products is performed at manufacturing facilities, operated by third-party manufacturing facilities, in China, Malaysia and Taiwan.
+  Q1 2023: filing_10-q-q1-2023.html
+  Q2 2023: filing_10-q-q2-2023.html
+  Q3 2023: filing_10-q-q3-2023.html
+Since that time, the United States administration has called for changes to domestic and foreign policy, including policies with respect to China and Russia.
+  Q1 2023: filing_10-q-q1-2023.html
+  Q2 2023: filing_10-q-q2-2023.html
+  Q3 2023: filing_10-q-q3-2023.html
+  Q4 2023: filing_10-k-fy2023.html
+  Q1 2024: filing_10-q-q1-2024.html
+  Q2 2024: filing_10-q-q2-2024.html
+  Q3 2024: filing_10-q-q3-2024.html
+  Q4 2024: filing_10-k-fy2024.html
+For example, the European Union (EU) and China are two among a growing number of jurisdictions that have enacted restrictions on the use of lead and other materials in electronic products.
+  Q1 2023: filing_10-q-q1-2023.html
+A number of jurisdictions including the EU, Australia, California and China are developing or have finalized market entry or public procurement regulations for computers and servers based on ENERGY STAR specifications as well as additional energy consumption limits.
+  Q2 2023: filing_10-q-q2-2023.html
+In addition to the SEC regulation, the EU, China and other jurisdictions are developing new policies focused on conflict minerals that may impact and increase the cost of our compliance program.
+  Q2 2023: filing_10-q-q2-2023.html
+A number of jurisdictions including the EU, Australia, California and China are developing or have finalized market entry or public procurement regulations for computers and servers based on ENERGY STAR 47 Table of Contents specifications, and the like, as well as additional energy consumption limits.
+  Q3 2023: filing_10-q-q3-2023.html
+In October 2023, BIS issued new requirements for certain advanced computing items that apply to the export of products classified ECCN 3A090 or 4A090 to a party headquartered in, or with an ultimate parent headquartered in, any of Country Groups D1, D4 or D5, including China.
+  Q3 2023: filing_10-q-q3-2023.html
+  Q1 2024: filing_10-q-q1-2024.html
+Also, geopolitical changes between China and Taiwan could disrupt the operations of our Taiwan-based third-party wafer foundries, manufacturing facilities and subcontractors, and materially adversely affect our business, financial condition and/or operating results.
+  Q3 2023: filing_10-q-q3-2023.html
+These controls also require us to file a Notified Advanced Computing (NAC) notification with BIS 25 days before shipping certain Versal VC2602 and VE2602 FPGAs to China, or to customers outside of the United States whose ultimate parent is headquartered in a D5 country (including China).
+  Q4 2023: filing_10-k-fy2023.html
+29 Table of Contents In October 2023, BIS issued new requirements for certain advanced computing items that apply to the export of products classified ECCN 3A090 or 4A090 to a party headquartered in, or with an ultimate parent headquartered in, any of Country Groups D1, D4 or D5, including China.
+  Q4 2023: filing_10-k-fy2023.html
+Also, geopolitical changes between China and Taiwan could disrupt the operations of our Taiwan-based third-party wafer foundries, manufacturing facilities and subcontractors, and materially adversely affect delivery of products and our business, financial condition and/or operating results.
+  Q4 2023: filing_10-k-fy2023.html
+  Q1 2024: filing_10-q-q1-2024.html
+  Q2 2024: filing_10-q-q2-2024.html
+  Q3 2024: filing_10-q-q3-2024.html
+  Q4 2024: filing_10-k-fy2024.html
+Nearly all product assembly and final testing of our products is performed at third-party operated manufacturing facilities, in China, Malaysia and Taiwan.
+  Q4 2023: filing_10-k-fy2023.html
+  Q1 2024: filing_10-q-q1-2024.html
+  Q2 2024: filing_10-q-q2-2024.html
+  Q3 2024: filing_10-q-q3-2024.html
+  Q4 2024: filing_10-k-fy2024.html
+These controls also require us to file a Notified Advanced Computing (NAC) notification with BIS 25 days before shipping certain Versal FPGAs to China, or to customers outside of the United States whose ultimate parent is headquartered in a D5 country (including China).
+  Q1 2024: filing_10-q-q1-2024.html
+  Q2 2024: filing_10-q-q2-2024.html
+  Q3 2024: filing_10-q-q3-2024.html
+  Q4 2024: filing_10-k-fy2024.html
+41 Table of Contents In October 2023, BIS issued new requirements for certain advanced computing items that apply to the export of products classified ECCN 3A090 or 4A090 to a party headquartered in, or with an ultimate parent headquartered in, any of Country Groups D1, D4 or D5, including China.
+  Q2 2024: filing_10-q-q2-2024.html
+44 Table of Contents In October 2023, BIS issued new requirements for certain advanced computing items that apply to the export of products classified ECCN 3A090 or 4A090 to a party headquartered in, or with an ultimate parent headquartered in, any of Country Groups D1, D4 or D5, including China.
+  Q3 2024: filing_10-q-q3-2024.html
+28 Table of Contents In October 2023, BIS issued new requirements for certain advanced computing items that apply to the export of products classified ECCN 3A090 or 4A090 to a party headquartered in, or with an ultimate parent headquartered in, any of Country Groups D1, D4 or D5, including China.
+  Q4 2024: filing_10-k-fy2024.html
+DocuLens v2.7.334 · by Luciano Rahal
