@@ -1,0 +1,161 @@
+[CORE RESEARCH] NVDA: marketing
+
+Quarters searched: 11
+Filing sections searched: 259
+
+What the sources show:
+Across 2023–2024, marketing-related disclosures primarily describe go-to-market mechanisms and partner-facing funding, including customer programs such as rebates and marketing development funds (MDFs) and staffing in sales/marketing roles. Management commentary increasingly ties marketing to cloud-enabled digital workflows and generative AI use cases in marketing content creation (e.g., Omniverse Cloud used for 3D content generation for marketing, and early generative AI applications in marketing/media/entertainment). In late 2024–2025, the company continues to formalize how it accounts for customer programs (rebates and MDFs) as revenue reductions accrued based on expected claims, while also expanding examples of AI-driven marketing campaign automation in third-party references. From 2025–2026, the marketing narrative shifts further toward operational implications of geopolitical risk and broader competitive risks affecting customer relationships and distribution (including gray market products/reseller marketplaces and indirect customers purchasing via system integrators and distributors). No explicit accounting policy change is shown for marketing programs, but the repeated inclusion of the MDF/rebates revenue-reduction language and the continued emphasis on sales/marketing staffing provide the clearest consistent marketing-related reporting thread.
+
+Watch points:
+  - The company’s marketing-related customer programs (rebates and MDFs) are accounted for as reductions in revenue with accruals based on expected customer claims; this introduces estimation risk, and the disclosure is repeated across multiple periods rather than stated once.
+  - Late-period risk disclosures (2026) highlight that customer relationships and revenue/market share could be harmed, and that gray market products/reseller marketplaces compete with new products and distribution channels—potentially weakening the effectiveness of standard marketing/rebate programs.
+  - Geopolitical risk disclosures explicitly include employees supporting sales and marketing of networking products, with employee counts rising across successive periods (Israel conflict monitoring language repeated with different headcount figures), implying continuing exposure to disruption.
+  - Revenue reduction accounting for rebates and marketing development funds (MDFs) based on expected claims.
+  - Dependence on partners/resellers and distribution channels (indirect customers via system integrators and distributors).
+  - Geopolitical disruption affecting operations that include sales and marketing functions in the region.
+  - Reputation and customer relationship risk (potential loss of revenue and market share).
+  - Competitive pressure from gray market products and reseller marketplaces.
+
+--- By Reporting Period ---
+
+=== Q4 2023 ===
+Sources: transcript_nvda-q4-2023.html | filing_10-k-fy2023.html | Presentation_3a6754c8323940e5.html
+Management commentary:
+  - These new types of neural network models can improve productivity in a wide range of tasks, whether generating text like marketing copy, summarizing documents like [Inaudible], creating images for ads or video games or answering customer questions.
+SEC filing evidence:
+  [MD&A]
+    - Our customer programs involve rebates, which are designed to serve as sales incentives to resellers of our products in various target markets, and marketing development funds, or MDFs, which represent monies paid to our partners that are earmarked for market segment development and are designed to support our partners’ activities while also promoting NVIDIA products.
+
+=== Q1 2024 ===
+Sources: transcript_nvda-q1-2024.html | filing_10-q-q1-2024.html
+Management commentary:
+  - And by putting it in the cloud, integrated into the world CSP clouds, it's a great way for us to partner with the sales and the marketing team and the leadership team of all the cloud vendors.
+  - Omniverse Cloud is being used by companies to digitize the workflows from design and engineering to smart factories and 3D content generation for marketing.
+  - Our partnership with the three CSPs and that we currently have DGX Cloud in and their sales force and marketing teams, their leadership teams is really quite spectacular.
+
+=== Q2 2024 ===
+Sources: transcript_nvda-q2-2024.html | filing_10-q-q2-2024.html
+Management commentary:
+  - WPP, the world's largest marketing and communication services organization, is developing a content engine using Nvidia Omniverse to enable artists and designers to integrate generative AI into 3D content creation.
+  - We are seeing some of the earliest applications of generative AI in marketing, media, and entertainment.
+
+=== Q3 2024 ===
+Sources: transcript_nvda-q3-2024.html | filing_10-q-q3-2024.html | Presentation_4eafd89f94524a06.html | Presentation_d5eabb9a5d2b768f.html
+SEC filing evidence:
+  [MD&A]
+    - Israel We are monitoring the impact of the geopolitical conflict in and around Israel on our operations, including the health and safety of our approximately 3,400 employees in the region who primarily support the research and development, operations, and sales and marketing of our networking products.
+
+=== Q4 2024 ===
+Sources: filing_10-k-fy2024.html
+SEC filing evidence:
+  [MD&A]
+    - Israel and Hamas Conflict We are monitoring the impact of the geopolitical conflict in and around Israel on our operations, including the health and safety of our approximately 3,700 employees in the region who primarily support the research and development, operations, and sales and marketing of our networking products.
+    - We account for customer programs, which involve rebates and marketing development funds, as a reduction in revenue and accrue for such programs based on the amount we expect to be claimed by customers.
+
+=== Q1 2025 ===
+Sources: transcript_nvda-q1-2025.html | filing_10-q-q1-2025.html | Presentation_1f5db49c004efe68.html
+SEC filing evidence:
+  [MD&A]
+    - 24 Israel and Hamas Conflict We are monitoring the impact of the geopolitical conflict in and around Israel on our operations, including the health and safety of our approximately 4,000 employees in the region who primarily support the research and development, operations, and sales and marketing of our networking products.
+
+=== Q2 2025 ===
+Sources: transcript_nvda-q2-2025.html | filing_10-q-q2-2025.html
+SEC filing evidence:
+  [MD&A]
+    - Israel and Regional Conflicts We are monitoring the impact of the geopolitical conflict in and around Israel on our operations, including the health and safety of our approximately 4,000 employees in the region who primarily support the research and development, operations, and sales and marketing of our networking products.
+
+=== Q3 2025 ===
+Sources: transcript_nvda-q3-2025.html | filing_10-q-q3-2025.html
+Management commentary:
+  - Additionally, Accenture, with over 707,000 employees, is leveraging NVIDIA-powered agentic AI applications internally, including one case that cuts manual steps in marketing campaigns for 25% to 35%.
+  - And that's when AI has really exceeded is when every single company is doing inference inside their companies for the marketing department and forecasting department and supply chain group and their legal department and engineering, of course, and coding of course.
+  - Some of it would be legal intelligence like Harvey, digital marketing intelligence like Rider's, so on and so forth.
+Analyst Q&A:
+  Q — Vivek Arya — Bank of America Securities: Thanks for taking my question. Colette, just to clarify, do you think it's a fair assumption to think NVIDIA could recover to kind of mid-70s gross margin in the back half of calendar '25? Just wanted to clarify that. And then Jensen, my main question, historically, when we have seen hardware deployment cycles, they have inevitably included some digestion along the way. When do you think we get to that phase? Or is it just too premature to discuss that because you're just at the start of Blackwell? So, how many quarters of shipments do you think is required to kind of satisfy this first wave? Can you continue to grow this into calendar '26? Just how should we be prepared to see what we have seen historically, right, a period of digestion along the way of a long-term kind of secular hardware deployment?
+  A: OK. Vivek, thank you for the question. Let me clarify your question regarding gross margins. Could we reach the mid-70s in the second half of next year? And yes, I think it is a reasonable assumption or goal for us to do, but we'll just have to see how that mix of ramp goes.
+But yes, it is definitely possible. The way to think through that, Vivek, is I believe that there will be no digestion until we modernize $1 trillion with the data centers. Those -- if you just look at the world's data centers, the vast majority of it is built for a time when we wrote applications by hand and we ran them on CPUs. It's just not a sensible thing to do anymore. If you have -- if every company's capex -- if they're ready to build data center tomorrow, they ought to build it for a future of machine learning and generative AI because they have plenty of old data centers.
+And so, what's going to happen over the course of the next X number of years, and let's assume that over the course of four years, the world's data centers could be modernized as we grow into IT, as you know, IT continues to grow about 20%, 30% a year, let's say. But let's say by 2030, the world's data centers for computing is, call it, a couple of trillion dollars. We have to grow into that. We have to modernize the data center from coding to machine learning.
+That's number one. The second part of it is generative AI. And we're now producing a new type of capability the world's never known, a new market segment that the world's never had. If you look at OpenAI, it didn't replace anything.
+It's something that's completely brand new. It's, in a lot of ways as when the iPhone came, was completely brand new. It wasn't really replacing anything. And so, we're going to see more and more companies like that.
+And they're going to create and generate, out of their services, essentially intelligence. Some of it would be digital artist intelligence like Runway. Some of it would be basic intelligence like OpenAI. Some of it would be legal intelligence like Harvey, digital marketing intelligence like Rider's, so on and so forth.
+And the number of these companies, these -- what are they called, AI-native companies, are just in hundreds. And almost every platform shift, there was -- there were Internet companies, as you recall. There were cloud-first companies. There were mobile-first companies.
+Now, they're AI natives. And so, these companies are being created because people see that there's a platform shift, and there's a brand-new opportunity to do something completely new. And so, my sense is that we're going to continue to build out to modernize IT, modernize computing, number one; and then number two, create these AI factories that are going to be for a new industry for the production of artificial intelligence.
+  Q — Joseph Moore — Morgan Stanley: Great. Thank you. I wonder if you could talk a little bit about what you're seeing in the inference market. You've talked about Strawberry and some of the ramifications of longer scaling influence projects.
+But you've also talked about the possibility that as some of these Hopper clusters age, that you could use some of the Hopper chips for inference. So, I guess do you expect inference to outgrow training in the next kind of 12 months time frame? And just generally, your thoughts there.
+  A: Our hopes and dreams is that someday, the world does a ton of inference. And that's when AI has really exceeded is when every single company is doing inference inside their companies for the marketing department and forecasting department and supply chain group and their legal department and engineering, of course, and coding of course. And so, we hope that every company is doing inference 24/7 and that there will be a whole bunch of AI native start-ups, thousands of AI native start-ups that are generating tokens and generating AI. And every aspect of your computer experience from using Outlook to PowerPointing or when you're sitting there with Excel, you're constantly generating tokens.
+And every time you read a PDF, open a PDF, it generated a whole bunch of tokens. One of my favorite applications is NotebookLM, this Google application that came out. I used the living daylights out of it just because it's fun. And I put every PDF, every archived paper into it just to listen to it as well as scanning through it.
+And so, I think that's the goal is to train these models so that people use it. And there's now a whole new era of AI, if you will, a whole new genre of AI called physical AI. Just those large language models understand the human language and how the thinking process, if you will. Physical AI understands the physical world.
+And it understands the meaning of the structure and understands what's sensible and what's not and what could happen and what won't. And not only does it understand but it can predict, roll out a short future. That capability is incredibly valuable for industrial AI and robotics. And so, that's fired up so many AI-native companies and robotics companies and physical AI companies that you're probably hearing about.
+And it's really the reason why we built Omniverse. Omniverse is -- so that we can enable these AIs to be created and learn in Omniverse and learn from synthetic data generation and reinforcement, learning physics feedback. Instead of just a human feedback, it's now physics feedback. To have these capabilities, Omniverse was created so that we can enable physical AI.
+And so, that -- the goal is to generate tokens. The goal is to inference, and we're starting to see that growth happening. So, I'm super excited about that. Now, let me just say one more thing.
+Inference is super hard. And the reason why inference is super hard is because you need the accuracy to be high on the one hand. You need the throughput to be high so that the cost could be as low as possible, but you also need the latency to be low. And computers that are high-throughput as well as low latency is incredibly hard to build.
+And these applications have long context lengths because they want to understand. They want to be able to inference within understanding the context of what they're being asked to do. And so, the context length is growing larger and larger. On the other hand, the models are getting larger.
+They're multimodality. Just the number of dimensions that inference is innovating is incredible. And this innovation rate is what makes NVIDIA's architecture so great because we -- our ecosystem is fantastic. Everybody knows that if they innovate on top of CUDA and top of NVIDIA's architecture, they can innovate more quickly and they know that everything should work.
+And if something were to happen, it's probably likely their code and not ours. And so, that ability to innovate in every single direction at the same time, having a large installed base so that whatever you create could land on an NVIDIA computer and be deployed broadly all around the world in every single data center all the way out to the edge into robotic systems, that capability is really quite phenomenal.
+SEC filing evidence:
+  [MD&A]
+    - Israel and Regional Conflicts We are monitoring the impact of the geopolitical conflict in and around Israel on our operations, including the health and safety of our approximately 4,300 employees in the region who primarily support the research and development, operations, and sales and marketing of our networking products.
+
+=== Q4 2025 ===
+Sources: transcript_nvda-q4-2025.html | filing_10-k-fy2025.html
+SEC filing evidence:
+  [MD&A]
+    - 37 Table of Contents Israel and Regional Conflicts We are monitoring the impact of the geopolitical conflict in and around Israel on our operations, including the health and safety of our approximately 4,700 employees in the region who primarily support the research and development, operations, and sales and marketing of our networking products.
+    - We account for customer programs, which involve rebates and marketing development funds, or MDFs, as a reduction in revenue and accrue for such programs based on the amount we expect to be claimed by customers.
+
+=== Q1 2026 ===
+Sources: filing_10-q-q1-2026.html
+SEC filing evidence:
+Lower-confidence SEC excerpts:
+  - Our reputation and customer relationships could be damaged and we could lose revenue and market share.
+  - Gray market products and reseller marketplaces compete with our new products and distribution channels.
+
+=== Q2 2026 ===
+Sources: filing_10-q-q2-2026.html
+SEC filing evidence:
+Lower-confidence SEC excerpts:
+  - We acquire and invest in businesses that offer products, services and technologies that we believe will help expand or enhance our strategic objectives.
+  - Indirect customers primarily purchase our products through system integrators and distributors.
+
+=== Q3 2026 ===
+Sources: filing_10-q-q3-2026.html
+SEC filing evidence:
+Lower-confidence SEC excerpts:
+  - Our reputation and customer relationships could be damaged and we could lose revenue and market share.
+  - We acquire and invest in businesses that offer products, services and technologies that we believe will help expand or enhance our strategic objectives.
+
+
+--- Consolidated risk disclosures ---
+The theft or unauthorized use or publication of our trade secrets and other confidential information could harm our competitive position and reduce acceptance of our products; as a result, the value of our investment in research and development, product development, and marketing could be reduced.
+  Q4 2023: filing_10-k-fy2023.html
+Our success depends on our ability to: • timely identify industry changes, adapt our strategies, and develop new or enhance existing products and technologies that meet the evolving needs of these markets, including due to unexpected changes in industry standards or disruptive technological innovation that could render our products incompatible with products developed by other companies; • develop new products and technologies through investments in research and development; • launch new offerings with new business models including standalone software, cloud solutions, and software-, infrastructure-, or platform-as-a-service solutions; • expand the ecosystem for our products and technologies; • meet evolving and prevailing customer and industry safety and compliance standards; • manage product and software lifecycles to maintain customer and end user satisfaction; • develop, acquire, and maintain the internal and external infrastructure needed to scale our business, including our acquisitions integrations, customer support, e-commerce, IP licensing capabilities and cloud service capacity; and • complete technical, financial, compliance, sales and marketing investments for some of the above activities.
+  Q4 2023: filing_10-k-fy2023.html
+We may publish privacy policies, marketing materials and other statements, such as compliance with certain certifications or self-regulatory principles, regarding data privacy and security.
+  Q4 2023: filing_10-k-fy2023.html
+Some of our competitors operate their own fabrication facilities, have longer operating histories, larger customer bases, more comprehensive IP portfolios and patent protections, new designs and more design wins, and greater financial, sales, marketing and distribution resources than we do.
+  Q4 2023: filing_10-k-fy2023.html
+Our success depends on our ability to: • timely identify industry changes, adapt our strategies, and develop new or enhance and maintain existing products and technologies that meet the evolving needs of these markets, including due to unexpected changes in industry standards or disruptive technological innovation that could render our products incompatible with products developed by other companies; • develop or acquire new products and technologies through investments in research and development; • launch new offerings with new business models including standalone software, cloud solutions, and software-, infrastructure-, or platform-as-a-service solutions; • expand the ecosystem for our products and technologies; • meet evolving and prevailing customer and industry safety, security, reliability expectations, and compliance standards; • manage product and software lifecycles to maintain customer and end user satisfaction; • develop, acquire, and maintain the internal and external infrastructure needed to scale our business, including our acquisitions integrations, customer support, e-commerce, IP licensing capabilities and cloud service capacity; and • complete technical, financial, operational, compliance, sales and marketing investments for the above activities.
+  Q1 2024: filing_10-q-q1-2024.html
+Our success depends on our ability to: • timely identify industry changes, adapt our strategies, and develop new or enhance and maintain existing products and technologies that meet the evolving needs of these markets, including due to unexpected changes in industry standards or disruptive technological innovation that could render our products incompatible with products developed by other companies; • develop or acquire new products and technologies through investments in research and development; • launch new offerings with new business models including software, services and cloud solutions, as well as software-, infrastructure-, or platform-as-a-service solutions; • expand the ecosystem for our products and technologies; • meet evolving and prevailing customer and industry safety, security, reliability expectations, and compliance standards; • manage product and software lifecycles to maintain customer and end user satisfaction; • develop, acquire, and maintain the internal and external infrastructure needed to scale our business, including acquisition integrations, customer support, e-commerce, IP licensing capabilities and cloud service capacity; and • complete technical, financial, operational, compliance, sales and marketing investments for the above activities.
+  Q2 2024: filing_10-q-q2-2024.html
+We are monitoring the impact of the geopolitical conflict in and around Israel on our operations, including the health and safety of our approximately 3,400 employees in the region who primarily support the research and development, operations, and sales and marketing of our networking products.
+  Q3 2024: filing_10-q-q3-2024.html
+Our success depends on our ability to: • timely identify industry changes, adapt our strategies, and develop new or enhance and maintain existing products and technologies that meet the evolving needs of these markets, including due to unexpected changes in industry standards or disruptive technological innovation that could render our products incompatible with products developed by other companies; 14 Table of Contents • develop or acquire new products and technologies through investments in research and development; • launch new offerings with new business models including software, services, and cloud solutions, as well as software-, infrastructure-, or platform-as-a-service solutions; • expand the ecosystem for our products and technologies; • meet evolving and prevailing customer and industry safety, security, reliability expectations, and compliance standards; • manage product and software lifecycles to maintain customer and end-user satisfaction; • develop, acquire, maintain, and secure access to the internal and external infrastructure needed to scale our business, including sufficient energy for powering data centers using our products, acquisition integrations, customer support, e-commerce, IP licensing capabilities and cloud service capacity; and • complete technical, financial, operational, compliance, sales and marketing investments for the above activities.
+  Q4 2024: filing_10-k-fy2024.html
+21 Table of Contents We are monitoring the impact of the geopolitical conflict in and around Israel on our operations, including the health and safety of our approximately 3,700 employees in the region who primarily support the research and development, operations, and sales and marketing of our networking products.
+  Q4 2024: filing_10-k-fy2024.html
+The theft or unauthorized use or publication of our trade secrets and other confidential information could harm our competitive position and reduce acceptance of our products; as a result, the value of our investment in research and development, product development and marketing could be reduced.
+  Q4 2024: filing_10-k-fy2024.html
+  Q4 2025: filing_10-k-fy2025.html
+We publish privacy policies, marketing materials and other statements, such as compliance with certain certifications or self-regulatory principles, regarding data privacy and security.
+  Q4 2024: filing_10-k-fy2024.html
+  Q4 2025: filing_10-k-fy2025.html
+Some of our competitors operate their own fabrication facilities, and have longer operating histories, larger customer bases, more comprehensive IP portfolios and patent protections, more design wins, and greater financial, sales, marketing and distribution resources than we do.
+  Q4 2024: filing_10-k-fy2024.html
+Some of our competitors operate their own fabrication facilities, and have longer operating histories, larger customer bases, more comprehensive IP portfolios and patent protections, more design 15 Table of Contents wins, and greater financial, sales, marketing and distribution resources than we do.
+  Q4 2025: filing_10-k-fy2025.html
+We are monitoring the impact of the geopolitical conflict in and around Israel on our operations, including the health and safety of our approximately 4,700 employees in the region who primarily support the research and development, operations, and sales and marketing of our networking products.
+  Q4 2025: filing_10-k-fy2025.html
+Our success depends on our ability to: • timely identify industry changes, adapt our strategies, and develop new or enhance and maintain existing products and technologies that meet the evolving needs of our markets, including addressing unexpected shifts in industry standards or disruptive technological innovations that could render our products incompatible with those developed by other companies; • develop or acquire new products and technologies through investments in research and development; • launch new offerings with new business models including software, services, and cloud solutions, as well as software-, infrastructure-, or platform-as-a-service solutions; • expand the ecosystem for our products and technologies; • meet evolving and prevailing customer and industry safety, security, reliability expectations, and compliance standards; • manage product and software lifecycles to maintain customer and end-user satisfaction; • develop, acquire, maintain, and secure access to the internal and external infrastructure needed to scale our business, including sufficient energy for powering data centers using our products, acquisition integrations, customer support, e-commerce, IP licensing capabilities, and cloud service capacity; and • complete technical, financial, operational, compliance, sales and marketing investments for the above activities.
+  Q4 2025: filing_10-k-fy2025.html
+DocuLens v2.7.308 · by Luciano Rahal
