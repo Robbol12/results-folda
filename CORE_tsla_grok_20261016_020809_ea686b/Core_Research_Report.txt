@@ -1,0 +1,51 @@
+[CORE RESEARCH] TSLA: grok
+
+Quarters searched: 8
+Filing sections searched: 186
+
+What the sources show:
+Across Q2 2024 and Q3 2024, management consistently discussed integrating Grok into Tesla’s in-vehicle software ecosystem, framing it as part of broader efforts to expand what is available in the car on-screen. In Q2 2024, management stated there are “opportunities to integrate Grok into Tesla's software,” and linked Tesla’s learning from xAI to progress in full self-driving and a new Tesla data center, while noting that any additional xAI investing would require shareholder approval. In Q3 2024, management responded to a question about when Tesla would incorporate X and Grok across all vehicles by emphasizing ongoing expansion of in-car capabilities (screens, browser functionality) and the idea that an autonomous system should be able to do anything, including asking AI questions. Over the period, the emphasis shifts from a specific “opportunities” statement about Grok integration (Q2) to broader product/platform vision for expanding access to content and AI in the vehicle (Q3), without providing a concrete timeline. The disclosed facts remain qualitative, with no new quantitative performance metrics or detailed integration milestones presented in the excerpts.
+
+Watch points:
+  - The excerpts do not specify when (or how broadly) Grok would be incorporated across “all Tesla vehicles,” leaving timing unclear despite questions being asked (Q3).
+  - Management indicates investing in xAI would require “shareholder approval,” which could delay or constrain future steps related to Grok integration efforts (Q2).
+  - Both periods provide directional statements but no measurable milestones, adoption rates, or technical delivery details for Grok specifically.
+  - No stated schedule for incorporating Grok into all vehicles
+  - Governance/approval requirement for any additional xAI investment
+  - Positioning Grok integration as part of expanding general in-car functionality
+
+--- By Reporting Period ---
+
+=== Q2 2024 ===
+Sources: transcript_tsla-q2-2024.html | filing_10-q-q2-2024.html | Presentation_2f7fd954eb9545bf.html
+Management commentary:
+  - And I think there are opportunities to integrate Grok into Tesla's software, yes.
+Analyst Q&A:
+  Q — : All right. Thank you. And the last one, any updates on investing in xAI and integrating Grok into Tesla software?
+  A: I should say Tesla is learning quite a bit from xAI. It's been actually helpful in advancing full self-driving and in building up the new Tesla data center. With -- regarding investing in xAI, I think, we need to have a shareholder approval of any such investment. But I'm certainly supportive of that if shareholders are, the group -- probably, I think we need a vote on that. And I think there are opportunities to integrate Grok into Tesla's software, yes. All right. Thanks very much. And now we will move on to analyst questions. The first question comes from Will Stein from Truist. Will, please go ahead and unmute yourself. Great. Thanks so much for taking my question. And this relates a little bit to the last one that was asked. Elon, I share your strong enthusiasm about AI and I recognize Tesla's opportunity to do some great things with the technology. But there are some concerns I have about Tesla's commercialization and that's what I'd like to ask about specifically. There were some news stories through the quarter that indicated that you redirected some AI compute systems that were destined for Tesla instead to xAI or perhaps it was to X, I'm not sure.
+
+And similarly, a few quarters ago, if you recall, I asked about your ability to hire engineers in this area, and you noted that there was a great desire for some of these engineers to work on projects that you were involved with, but some of them weren't at Tesla, they were instead at xAI or perhaps even X again. So the question is, when it comes to your capital investments, your AI R&D, your AI engineers, how do you make allocation decisions among these various ventures and how do you make Tesla owners comfortable that you're doing it in a way that really benefits them? Thank you. Yes, I mean, I think you're referring to a very -- like an old article, regarding GPUs. I think that's like 6 or 7 months old. At Tesla, we had no place to try them on, so it would've been a waste of Tesla capital because we would just have to order H100 and have no place to try them on. So it was just -- there was -- this wasn't a, let's pick xAI of Tesla.
+
+There's -- there was no -- the Tesla data centers were full. There was no place to actually put them. The -- we've been working 24/7 to complete the South extension on the Tesla Giga factory in Texas. That South extension is what will house 50,000 H100s and we're beginning to move the H100 server racks into place there. But we really needed -- we needed that to complete physically. You can't just order compute -- order GPUs and turn them on, you need a data center, it's not possible.
+
+So I want to be clear, that was in Tesla's interest, not contrary to Tesla's interest. Does Tesla no good to have GPUs that it can't turn on. That South extension is able to take GPUs, which is really just this week. We are moving the GPUs in there and we'll bring them online.
+
+With regard to xAI, there are a few that only want to work on AGI. So what I was finding was that when trying to recruit people to Tesla, they were only interested in working on AGI and not on Tesla's specific problems and they want to start -- do a start-up. So it was a case of either they go to a start-up or -- and I am involved or they do a start-up and I am not involved. Those are the two choices. This wasn't they would come to Tesla. They were not going to come to Tesla under any circumstances. So, yes. Yes, I mean, I would even add that AI is a broad spectrum and there are a lot of things which we are focused on full time driving as Tesla and also Optimus, but there's the other spectrum of AI which we're not working on, and that's the kind of work which other companies are trying to do in this case, xAI. So you have to keep that in mind that it's a broad spectrum. It's not just one specific thing. Yes. And once again, I want to just repeat myself here. I tried to recruit them to Tesla, including to say like, you can work on AGI, I if you want and they refused. Only then was xAI created. I really appreciate that clarification. If I can ask one follow-up, it relates to the new vehicles that you're planning to introduce next year. I understand this is not the venue for product announcements, but when we think about the focus, I've heard on the one hand that the focus is on cost reduction. On the other hand, you also said that the Roadster would come out. Should we expect other maybe more limited variants like, similar to the cars that you make today, but with some changes or improvements or different, some other variability in the form factors. It should -- we expect that to be a significant part of the strategy in the next year or two? I don't want to get into details of product announcements. And we have to be careful of the Osborne effect here. So, if you start announcing some great thing, it affects our near-term sales. We're going to make great products in future just like we have in the past, end of story.
+
+=== Q3 2024 ===
+Sources: transcript_tsla-q3-2024.html | filing_10-q-q3-2024.html | Presentation_bd9905d9a5067047.html
+Analyst Q&A:
+  Q — : when will Tesla incorporate X and Grok in all Tesla vehicles?
+  A: I mean, these are relatively small things. But yes, I think we'll keep expanding what is available in the car on the screen. And also improving like the browser so like just generally, you can access anything you want in the car. In fact, for the Tesla, once you get to full autonomy, you actually want fully a system that is -- can do anything.
+
+Like if you want to browse the Internet, if you want to ask AI questions, if you want to watch a movie, if you want to play a video game, if you wanted to do some productivity thing, you can do anything you want in an autonomous vehicle because you don't need to drive. So, that's why Cybercab's got a nice big screen and a great sound system. So, you can watch it, watch you're moving with. It's like being in a personal movie theater.
+
+Unknown speaker -- -- Analyst
+
+Yes, this is why we've been building this functionality. I think gaming to the car, adding and other -- all sorts of different media applications of the car because that's what you're going to -- that's, yes, the cars that will be built today. There's some fun games, by the way. People haven't tried it. There's like Castle Doombad and Polatopia and a bunch of really fun games in the car.
+
+Unknown speaker -- -- Analyst
+
+We're constantly looking at what features to add next and we're paying attention to what's most commonly requested by our customers. Yes. Play Castle Castle Doombad. You want --
+
+DocuLens v2.7.337 · by Luciano Rahal

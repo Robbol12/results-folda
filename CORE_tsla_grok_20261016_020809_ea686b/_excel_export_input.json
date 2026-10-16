@@ -1,0 +1,53 @@
+{
+  "ticker": "TSLA",
+  "topic": "grok",
+  "periods": [
+    {
+      "period_label": "Q2 2024",
+      "filing_tables": [],
+      "filing_excerpts": [],
+      "management_commentary": [
+        {
+          "sentence": "And I think there are opportunities to integrate Grok into Tesla's software, yes.",
+          "quarter_label": "TSLA_Q2_2024"
+        }
+      ]
+    },
+    {
+      "period_label": "Q3 2024",
+      "filing_tables": [],
+      "filing_excerpts": [],
+      "management_commentary": []
+    }
+  ],
+  "quarters_searched": [
+    "TSLA_Q1_2023",
+    "TSLA_Q2_2023",
+    "TSLA_Q3_2023",
+    "TSLA_Q4_2023",
+    "TSLA_Q1_2024",
+    "TSLA_Q2_2024",
+    "TSLA_Q3_2024",
+    "TSLA_Q4_2024"
+  ],
+  "filing_url_map": {
+    "10-Q Q1 2023": "filing_10-q-q1-2023.html",
+    "10-Q Q2 2023": "filing_10-q-q2-2023.html",
+    "10-Q Q3 2023": "filing_10-q-q3-2023.html",
+    "10-K FY2023": "filing_10-k-fy2023.html",
+    "10-Q Q1 2024": "filing_10-q-q1-2024.html",
+    "10-Q Q2 2024": "filing_10-q-q2-2024.html",
+    "10-Q Q3 2024": "filing_10-q-q3-2024.html",
+    "10-K FY2024": "filing_10-k-fy2024.html"
+  },
+  "transcript_url_map": {
+    "TSLA_Q1_2023": "transcript_tsla-q1-2023.html",
+    "TSLA_Q2_2023": "transcript_tsla-q2-2023.html",
+    "TSLA_Q3_2023": "transcript_tsla-q3-2023.html",
+    "TSLA_Q4_2023": "transcript_tsla-q4-2023.html",
+    "TSLA_Q1_2024": "transcript_tsla-q1-2024.html",
+    "TSLA_Q2_2024": "transcript_tsla-q2-2024.html",
+    "TSLA_Q3_2024": "transcript_tsla-q3-2024.html",
+    "TSLA_Q4_2024": "transcript_tsla-q4-2024.html"
+  }
+}
