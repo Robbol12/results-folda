@@ -1,0 +1,103 @@
+[CORE RESEARCH] AAPL: revenue growth
+
+Quarters searched: 1
+Filing sections searched: 84
+
+What the sources show:
+Across the 2024 quarters shown, Apple’s revenue growth is consistently described as modest, with net sales up 2% year over year in Q1 2024 driven primarily by iPhone and Services, partially offset by declines in iPad and Wearables, Home and Accessories. By Q3 2024, operating expenses are disclosed with net sales percentages, but the excerpt does not provide a specific net sales growth rate, indicating fewer direct revenue-growth details in the provided evidence. In Q4 2024, management explicitly cites products revenue up 4% year over year and reiterates expectations that total company revenue will grow low to mid-single digits, while also guiding services revenue to grow double digits at a similar rate to fiscal 2024. Management also references product and ecosystem drivers (e.g., Apple Intelligence rolling out over time) when responding to questions about growth, without providing incremental detail on iPhone or China. Deferred revenue timing is also updated from Q1 to Q3, but the excerpts do not explicitly link those changes to revenue-growth performance.
+
+Watch points:
+  - The Q1 excerpt shows specific segment drivers and offsets, but later excerpts provide less direct quantitative revenue growth detail (e.g., Q3 excerpt focuses on operating expenses percentages rather than sales growth).
+  - Deferred revenue realization percentages shift between Q1 and Q3 (66% to <1 year in Q1 vs. 64% in Q3, and 26% to 25% in the 1–2 year bucket), but the excerpts do not explain whether this affects revenue growth or reflects accounting/contracting changes.
+  - In Q4, management reiterates company-level growth expectations and services direction but declines to provide iPhone-level growth color, including in response to a China-related question.
+  - Revenue mix offset: iPhone and Services strength partially offset by weakness in iPad and Wearables, Home and Accessories (Q1 evidence)
+  - Dependence on services growth trajectory (double-digit guidance; referenced continuity from fiscal 2024)
+  - Limited disclosure on iPhone/Country specifics despite analyst questions (Q4 response with reduced granularity)
+
+--- By Reporting Period ---
+
+=== Q1 2024 ===
+Sources: filing_10-q-q1-2024.html | Presentation_fbd36d26e03a688a.html
+SEC filing evidence:
+  [Financial Statements]
+    - Revenue: $119.58B | vs prior quarter: — | vs prior year: $117.15B (+2.1%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 2 real filing table(s) available (see the HTML report).
+Lower-confidence SEC excerpts:
+  - The Company’s total net sales increased 2% or $2.4 billion during the first quarter of 2024 compared to the same quarter in 2023, driven primarily by higher net sales of iPhone and Services, partially offset by lower net sales of iPad and Wearables, Home and Accessories.
+  - As of December 30, 2023, the Company expects 66 % of total deferred revenue to be realized in less than a year, 26 % within one-to-two years, 7 % within two-to-three years and 1 % in greater than three years.
+
+=== Q2 2024 ===
+Sources: filing_10-q-q2-2024.html | Presentation_533ff43b47854c87.html
+SEC filing evidence:
+  [MD&A]
+    - Apple Inc. | Q2 2024 Form 10-Q | 16 Selling, General and Administrative The growth in selling, general and administrative expense during the second quarter and first six months of 2024 compared to the same periods in 2023 was driven in part by higher infrastructure-related costs.
+  [Financial Statements]
+    - Revenue: $90.75B | vs prior quarter: $119.58B (-24.1%) | vs prior year: $94.84B (-4.3%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 2 real filing table(s) available (see the HTML report).
+
+=== Q3 2024 ===
+Sources: filing_10-q-q3-2024.html | Presentation_9a0644afcb99ac12.html
+SEC filing evidence:
+  [Financial Statements]
+    - Revenue: $85.78B | vs prior quarter: $90.75B (-5.5%) | vs prior year: $81.80B (+4.9%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 2 real filing table(s) available (see the HTML report).
+Lower-confidence SEC excerpts:
+  - Operating Expenses Operating expenses for the three- and nine-month periods ended June 29, 2024 and July 1, 2023 were as follows (dollars in millions): Three Months Ended Nine Months Ended June 29, 2024 July 1, 2023 June 29, 2024 July 1, 2023 Research and development $ 8,006 $ 7,442 $ 23,605 $ 22,608 Percentage of total net sales 9 % 9 % 8 % 8 % Selling, general and administrative $ 6,320 $ 5,973 $ 19,574 $ 18,781 Percentage of total net sales 7 % 7 % 7 % 6 % Total operating expenses $ 14,326 $ 13,415 $ 43,179 $ 41,389 Percentage of total net sales 17 % 16 % 15 % 14 % Research and Development The growth in research and development (“R&D”) expense during the third quarter and first nine months of 2024 compared to the same periods in 2023 was driven primarily by increases in headcount-related expenses.
+  - As of June 29, 2024, the Company expects 64 % of total deferred revenue to be realized in less than a year, 25 % within one-to-two years, 9 % within two-to-three years and 2 % in greater than three years.
+
+=== Q4 2024 ===
+Sources: transcript_aapl-q4-2024.html | filing_10-k-fy2024.html | Presentation_15c64bbf6304155f.html
+Management commentary:
+  - Products revenue was $70 billion, up 4% year over year, driven by growth in iPhone, iPad and Mac.
+  - Yes, we've said that we expect total company revenue to grow low to mid-single digits.
+  - Revenue was $7.7 billion, up 2% from a year ago.
+  - We expect services revenue to grow double digits at a rate similar to what we reported in the fiscal year 2024.
+  - We expect our December quarter total company revenue to grow low to mid-single digits year over year.
+  - Services revenue reached an all-time record of $25 billion, up 12% year over year.
+  - Today, Apple is reporting revenue of $94.9 billion, a September quarter record and up 6% from a year ago.
+  - iPhone grew in every geographic segment, marking a new September quarter revenue record for the category, and services set an all-time revenue record, up 12% year over year.
+  - And we continue to be excited by the enthusiasm we're seeing in India, where we set an all-time revenue record.
+  - iPad revenue was $7 billion, 8% higher year over year.
+  - In Wearables, Home, and Accessories, revenue was $9 billion, down 3% from a year ago.
+  - As I mentioned earlier, Services achieved an all-time revenue record of $25 billion, up 12% from a year ago and with all-time revenue records across most of our categories.
+  - We are very pleased to report a new September quarter revenue record of $94.9 billion, up 6% year over year.
+  - We grew in the vast majority of the markets we track and achieved September quarter revenue records in the Americas, Europe, and rest of Asia Pacific.
+  - iPhone revenue was $46.2 billion, up 6% year over year and a September quarter record in total and across several markets, including the U.S., the Middle East, Korea, and South Asia.
+  - We continue to see high levels of customer satisfaction for the iPhone 15 family with 451 Research recently measuring it at 98% in the U.S. Mac revenue was $7.7 billion, up 2% year over year, driven by the strength in MacBook Air.
+  - And in the latest reports from 451 Research, customer satisfaction was 95% in the U.S. iPad generated $7 billion in revenue, up 8% year over year.
+  - Also, customer satisfaction was recently measured at 97% in the U.S. Wearables, Home, and Accessories revenue was $9 billion, down 3% year over year.
+  - And the latest reports from 451 Research indicated customer satisfaction of 96% for Watch in the U.S. Our Services revenue reached an all-time record of $25 billion, growing 12% year over year.
+  - And we also include India, where we set an all-time revenue record during the September quarter.
+Analyst Q&A:
+  Q — Ben Reitzes — Melius Research: Hey, thanks a lot. And I'll echo those comments about Luca. We'll miss you and good luck. And my question is with regard to iPhone again.
+And with regard to the fourth quarter is my first question -- or sorry, the fourth calendar quarter, your first quarter. When you look at mid- to low single-digit revenue growth, do you expect the iPhone to grow faster? And what are you thinking about in the answer to that question with regard to China, which keeps improving each quarter? And then I have just a follow-up. Thanks.
+  A: Yeah. You know, Ben, we are not providing that level of color today. Yes, we've said that we expect total company revenue to grow low to mid-single digits. Keep in mind, Apple Intelligence, as Tim said, is rolling out over time, both features and languages.
+And we just had a number of exciting launches just this week from the Apple Intelligence feature to the new Mac. So, we'll leave it at that. We've given you the total for the company and some pretty good direction on services, which we expect to continue to grow at a similar rate than what we've seen in fiscal '24.
+SEC filing evidence:
+  [Financial Statements]
+    - Revenue: $391.04B | vs prior quarter: — | vs prior year: $383.29B (+2.0%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - 3 real filing table(s) available (see the HTML report).
+
+
+--- Consolidated risk disclosures ---
+This analysis may be based on factors such as the market position of the Company and its products, the anticipated revenue that may be generated, expected future growth of product sales, and the costs of developing such applications and services.
+  Q4 2024: filing_10-k-fy2024.html
+The Company has a large, global business with sales outside the U.S. representing a majority of the Company’s total net sales, and the Company believes that it generally benefits from growth in international trade.
+  Q4 2024: filing_10-k-fy2024.html
+If the Company fails to meet expectations related to future growth, profitability, dividends, share repurchases or other market expectations, the price of the Company’s stock may decline significantly, which could have a material adverse impact on investor confidence and employee retention.
+  Q4 2024: filing_10-k-fy2024.html
+Adverse macroeconomic conditions, including slow growth or recession, high unemployment, inflation, tighter credit, higher interest rates, and currency fluctuations, can adversely impact consumer confidence and spending and materially adversely affect demand for the Company’s products and services.
+  Q4 2024: filing_10-k-fy2024.html
+Some of the markets in which the Company competes have from time to time experienced little to no growth or contracted overall.
+  Q4 2024: filing_10-k-fy2024.html
+The Company believes the price of its stock should reflect expectations of future growth and profitability.
+  Q4 2024: filing_10-k-fy2024.html
+DocuLens v2.7.388 · by Luciano Rahal

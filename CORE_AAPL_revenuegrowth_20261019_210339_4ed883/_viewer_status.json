@@ -1,0 +1,48 @@
+{
+  "status": "error",
+  "current_stage": "Error",
+  "stages": [
+    {
+      "stage": "Writing earnings presentation viewers...",
+      "seconds": 2.474
+    },
+    {
+      "stage": "Finishing filing pages...",
+      "seconds": 10.987
+    },
+    {
+      "stage": "Writing transcript viewer...",
+      "seconds": 1.808
+    },
+    {
+      "stage": "Verifying support pages...",
+      "seconds": 0.92
+    },
+    {
+      "stage": "Publishing report...",
+      "seconds": 31.225
+    }
+  ],
+  "support_pages_ready": true,
+  "source_documents_ready": true,
+  "ready_seconds": 14.338,
+  "ready_stage_count": 5,
+  "publish_complete": false,
+  "total_seconds": null,
+  "error": "Traceback (most recent call last):\n  File \"/root/doculens/api.py\", line 3728, in finalize\n    raise RuntimeError(f\"Publishing finalized viewers failed: {error_msg}\")\nRuntimeError: Publishing finalized viewers failed: Git operations failed: Git operation timed out\n",
+  "github_published": null,
+  "github_error": null,
+  "viewer_readiness": {
+    "ready": true,
+    "expected_count": 9,
+    "written_count": 9,
+    "missing": [],
+    "placeholders": [],
+    "malformed": [],
+    "invalid": [],
+    "incomplete_annotations": [],
+    "broken_annotations": []
+  },
+  "updated_at": 1792443932.609337,
+  "owner_pid": 1193996
+}
