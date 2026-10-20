@@ -1,0 +1,100 @@
+[CORE RESEARCH] MSFT: Azure revenue growth
+
+Quarters searched: 2
+Filing sections searched: 216
+
+What the sources show:
+Across Q1 to Q3 2025, Azure revenue (reported within “Azure and other cloud services revenue growth”) consistently grew at 31%–33% year over year, while the broader “Server products and cloud services” line grew in the low-to-mid 20% range. In Q1 2025, Azure and other cloud services revenue growth was 33% alongside “Server products and cloud services revenue” growth of 23%. In Q2 2025, Azure and other cloud services increased to 31% (from 33% in Q1), and management highlighted AI services growth within Azure of 157% year over year, also noting demand remained higher than available capacity. In Q3 2025, Azure and other cloud services returned to 33% growth, and for the full fiscal year (Q4 2025 reporting), Azure and other cloud services growth was 34% with “Server products and cloud services” up 23%, indicating continued strength but without evidence of acceleration beyond the mid-30s range.
+
+Watch points:
+  - The excerpts report Azure growth as part of “Azure and other cloud services revenue growth,” without isolating pure Azure revenue, limiting precision on Azure-specific performance.
+  - There is no explicit reconciliation between quarterly management expectations (e.g., Q3 constant-currency growth guidance) and the subsequently reported growth metrics for Azure; only guidance and separate reported growth figures are provided.
+  - Capacity constraint is cited as an issue in Q2 2025, but the evidence provided does not quantify how this constraint changed over time.
+  - AI services contributed meaningfully to Azure growth (AI services grew 157% YoY in Q2 2025)
+  - Demand for Azure remained higher than available capacity (explicitly noted in Q2 2025)
+
+--- By Reporting Period ---
+
+=== Q1 2025 ===
+Sources: filing_10-q-q1-2025.html | Presentation_8f759f1fc6088b63.html
+SEC filing evidence:
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - • Server products and cloud services revenue increased 23% driven by Azure and other cloud services revenue growth of 33%.
+    - • Microsoft 365 Commercial products and cloud services revenue increased 13% driven by Microsoft 365 Commercial cloud revenue growth of 15%.
+    - • Microsoft 365 Consumer products and cloud services revenue increased 5% driven by Microsoft 365 Consumer cloud revenue growth of 6%.
+    - • Dynamics products and cloud services revenue increased 14% driven by Dynamics 365 revenue growth of 18%.
+    - Highlights from the first quarter of fiscal year 2025 compared with the first quarter of fiscal year 2024 included: • Microsoft Cloud revenue increased 22% to $38.9 billion.
+  [Financial Statements]
+    - Revenue: $65.58B | vs prior quarter: — | vs prior year: $56.52B (+16.0%)
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+
+=== Q2 2025 ===
+Sources: transcript_msft-q2-2025.html | filing_10-q-q2-2025.html | Presentation_acbe6a9ed29c0664.html
+Management commentary:
+  - In Azure, we expect Q3 revenue growth to be between 31% and 32% in constant currency driven by strong demand for our portfolio of services.
+  - Azure growth included 13 points from AI services, which grew 157% year over year, and was ahead of expectations even as demand continued to be higher than our available capacity.
+  - Execution was strong across our core annuity sales motions with growth in the number of $100 million-plus contracts for both Azure and Microsoft 365.
+  - Microsoft 365 commercial cloud revenue growth should be between 14% and 15% in constant currency, relatively stable compared to our better-than-expected Q2 results.
+  - And in Dynamics 365, we expect revenue growth to be in the mid-teens driven by continued growth across all workloads.
+  - However, the growth rate will be lower than FY '25 and the mix of spend will begin to shift back to short-lived assets, which are more correlated to revenue growth.
+  - Azure other cloud services revenue grew 31%.
+  - Commercial bookings increased 67% and 75% in constant currency and were significantly ahead of expectations driven by Azure commitments from OpenAI.
+  - Dynamics 365 revenue increased 19% and 18% in constant currency, slightly ahead of expectations with growth across all workloads.
+  - And in gaming, revenue decreased 7% and 8% in constant currency as content and services growth continued to be offset by hardware declines.
+  - LinkedIn revenue increased 9% with continued growth across all lines of business.
+  - M365 consumer cloud revenue growth should be in the mid- to high single digits, driven by M365 subscriptions.
+  - And in Enterprise and Partner Services, we expect revenue growth to be in the low to mid-single digits.
+  - The number of Azure OpenAI apps running on Azure databases and Azure App Services more than doubled year over year, driving significant growth in adoption across SQL, hyperscale, and Cosmos DB.
+  - In commercial bookings, with a relatively flat expiry base and a strong prior year comparable in terms of large Azure contracts, we expect growth to be roughly flat year over year.
+  - As a reminder, larger long-term Azure contracts, which are more unpredictable in their timing, can drive increased quarterly volatility in our bookings growth rate.
+  - Revenue will continue to be driven by Azure, which, as a reminder, can have quarterly variability primarily from in-period revenue recognition depending on the mix of contracts.
+SEC filing evidence:
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - • Server products and cloud services revenue increased 21% driven by Azure and other cloud services revenue growth of 31%.
+    - • Microsoft 365 Commercial products and cloud services revenue increased 15% driven by Microsoft 365 Commercial cloud revenue growth of 16%.
+    - • Microsoft 365 Consumer products and cloud services revenue increased 8% driven by Microsoft 365 Consumer cloud revenue growth of 8%.
+    - • Dynamics products and cloud services revenue increased 15% driven by Dynamics 365 revenue growth of 19%.
+    - Highlights from the second quarter of fiscal year 2025 compared with the second quarter of fiscal year 2024 included: • Microsoft Cloud revenue increased 21% to $40.9 billion.
+  [Financial Statements]
+    - Revenue: $69.63B | vs prior quarter: $65.58B (+6.2%) | vs prior year: $62.02B (+12.3%)
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+
+=== Q3 2025 ===
+Sources: filing_10-q-q3-2025.html | Presentation_b4ffb70f28eb986f.html
+SEC filing evidence:
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - • Server products and cloud services revenue increased 22% driven by Azure and other cloud services revenue growth of 33%.
+    - • Microsoft 365 Commercial products and cloud services revenue increased 11% driven by Microsoft 365 Commercial cloud revenue growth of 12%.
+    - • Microsoft 365 Consumer products and cloud services revenue increased 10% driven by Microsoft 365 Consumer cloud revenue growth of 10%.
+    - • Dynamics products and cloud services revenue increased 11% driven by Dynamics 365 revenue growth of 16%.
+    - Highlights from the third quarter of fiscal year 2025 compared with the third quarter of fiscal year 2024 included: • Microsoft Cloud revenue increased 20% to $42.4 billion.
+  [Financial Statements]
+    - Revenue: $70.07B | vs prior quarter: $69.63B (+0.6%) | vs prior year: $61.86B (+13.3%)
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+
+=== Q4 2025 ===
+Sources: transcript_msft-q4-2025.html | filing_10-k-fy2025.html | Presentation_e592f633124057e7.html
+Management commentary:
+  - And so I am not as focused, Cash, on trying to pick a date at which revenue growth and CapEx growth will meet and cross.
+  - And revenue itself and revenue growth, as you all know better, even perhaps than I do, is a durable way to see margin improvement.
+SEC filing evidence:
+  [MD&A]
+    - 2 real filing table(s) available (see the HTML report).
+    - • Server products and cloud services revenue increased 23% driven by Azure and other cloud services revenue growth of 34%.
+    - • Microsoft 365 Commercial products and cloud services revenue increased 14% driven by Microsoft 365 Commercial cloud revenue growth of 15%.
+    - • Microsoft 365 Consumer products and cloud services revenue increased 11% driven by Microsoft 365 Consumer cloud revenue growth of 11%.
+    - • Dynamics products and cloud services revenue increased 15% driven by Dynamics 365 revenue growth of 19%.
+    - The OpenAI API is exclusive to Azure, runs on Azure, and is available through the Azure OpenAI Service.
+    - Highlights from fiscal year 2025 compared with fiscal year 2024 included: • Microsoft Cloud revenue increased 23% to $168.9 billion.
+  [Financial Statements]
+    - Revenue: $281.72B | vs prior quarter: — | vs prior year: $245.12B (+14.9%)
+  [Footnotes]
+    - 1 real filing table(s) available (see the HTML report).
+
+DocuLens v2.7.392 · by Luciano Rahal
