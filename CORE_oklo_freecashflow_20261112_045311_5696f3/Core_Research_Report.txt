@@ -1,0 +1,86 @@
+[CORE RESEARCH] OKLO: free cash flow
+
+Quarters searched: 2
+Filing sections searched: 36
+
+What the sources show:
+Across the provided periods, free cash flow is referenced only qualitatively rather than with reported cash flow metrics. In Q2 2026, management states that the described acquisition/fabrication capabilities “generates positive free cash flow,” but no dollar amount, definition, or reconciliation is provided in the excerpt. Q1 2026 and Q3 2026 contain no free-cash-flow-specific disclosures in the provided evidence, so the topic’s evolution cannot be quantified over time. Overall, the only observable evolution is from absent detail (Q1, Q3 excerpts missing/blank) to a single positive qualitative statement in Q2 2026.
+
+Watch points:
+  - The evidence does not provide an actual free cash flow figure, period-over-period change, or calculation basis (e.g., CFO minus capex), so magnitude and trend cannot be assessed.
+  - Only Q2 2026 includes a free-cash-flow statement; Q1 2026 and Q3 2026 are blank in the excerpt, limiting any longitudinal conclusion.
+  - Free cash flow characterized as positive, but without metrics or definitions
+  - Potential reliance on acquisition-related operating cash generation statements
+
+--- By Reporting Period ---
+
+=== Q1 2026 ===
+Sources: transcript_oklo-q1-2026.html | filing_10-q-q1-2026.html | Presentation_7852c2ad3eb4e66f.html
+Management commentary:
+  - Cash used in investing activities was $359 million, including net cash used for purchases of marketable securities of $321.2 million following the closure of our successful ATM program in the first quarter.
+  - Our cash used in operating activities in the first quarter of $17.9 million includes our net loss of $33.1 million, primarily adjusted for noncash charges of $15.6 million from stock-based compensation as well as $0.4 million of other adjustments.
+Investor presentation deck:
+  - John JansenRichard Kinzley Michael KleinDaniel PonemanMichael ThompsonLead Independent Director Dr. Mark Peters David Christian Derek Kan David Park Chairman New board additions strengthen public-company, energy, technology, and infrastructure expertise [Page 22] Q1 2026 net loss was $33.1 million, made up of the following: • Loss from operations of $51.2 million, made up of payroll, stock-based compensation, general business expenses, and professional fees • Income tax expense of $3.2 million • Offset by net interest and dividend income of $21.3 million Cash and marketable securities Cash used in operating activities Key 1Q 2026 financial highlights $359.0M $33.1M $2.5B Q1 2026 Financials Cash used in investing activities Cash and Marketable Securities as of March 31, 2026 $17.9M Cash used in operating activities Year-to-date cash used in operating activities of $17.9 million includes net loss of $33.1 million, primarily adjusted for: • Non-cash charges of $15.6 million from stock-based compensation and $0.4 million of other adjustments Cash and marketable securities of $2.5 billion comprised of: • Cash and equivalents of $1.6 billion and marketable securities of $0.9 billion • Increase includes $1.2 billion in the first quarter from the closing of Oklo's successful ATM offering Net loss Cash used in investing activities Year-to-date cash used in investing activities was $359.0 million, made up of the following: • Net cash used for purchases of marketable securities related to our ATM program of $321.2 million • Capital spend of $32.8 million increased planned property plant & equipment growth across all 3 business units • Cash used for other investment activity of $5.0 million Net loss [Page 23] Oklo investment highlights Attractive business model Vertically integrated business model across nuclear power, nuclear fuel, and radioisotopes aims to provide recurring revenue and cash flow to investors Large customer pipeline Scalable product offering validated by a robust pipeline, with potential customers across data center, utility, oil and gas, and industrial sectors Tailored licensing pathways Licensing that best fits the specific asset and stage of development while also allowing lessons from early DOE authorized assets to inform NRC licensed deployments Nuclear fuel recycling Oklo intends to recycle used nuclear fuel, which can then be used as fuel in its reactors, unlocking nuclear energy abundance Advanced nuclear power Oklo uses proven fast reactor technology that reduces complexity, costs, and construction time, enabling nuclear reactor deployment at scale Isotopes Attractive, high-margin business that utilizes fresh and co-product radioisotopes, providing synergies with the nuclear power generation and nuclear fuel businesses 23 [Page 24] 24 Thank you [Presentation_7852c2ad3eb4e66f.html]
+
+SEC filing evidence:
+  [MD&A]
+    - 26 Table of Contents Cash Flows Comparison A summary of our consolidated sources and uses of cash and cash equivalents, was as follows: Three Months Ended March 31, (in thousands) 2026 2025 Net cash used in operating activities $ (17,867) $ (12,243) Net cash (used in) provided by investing activities (359,034) 6,064 Net cash provided by (used in) financing activities 1,182,559 (875) Net increase (decrease) in cash and cash equivalents $ 805,658 $ (7,054) Cash and cash equivalents, end of period $ 1,594,103 $ 90,078 Operating Activities Net cash used in operating activities was $17.9 million in 2026, compared to $12.2 million in 2025.
+    - Our powerhouses could be operating cash flow positive from the first year of operation due to our anticipated favorable unit economics.
+  [Financial Statements]
+    - Free Cash Flow: $-50.7M | vs prior quarter: — | vs prior year: $-12.6M (-303.0%)
+    - 1 real filing table(s) available (see the HTML report).
+    - Abundantia's fair value was determined using a risk-adjusted cash flow approach applied to its potential cash flows, subject to obtaining a certain material handling permit required by the NRC.
+    - Meitner is expected to produce revenue once a facility is constructed, with its fair value determined using a risk-adjusted cash flow approach applied to its cash flows, subject to approval of an application for a construction license and operating license by the NRC.
+    - Each project has a different risk profile, cash flows, and its own unique process.
+    - Accordingly, it does not include all the information and footnotes necessary for a complete presentation of financial position, results of operations, or cash flows.
+    - In the opinion of management, the accompanying unaudited condensed consolidated financial statements include all adjustments, consisting of a normal recurring nature, which are necessary for a fair statement of the financial position, operating results, and cash flows for the periods presented.
+  [Legal Proceedings]
+    - We are not currently subject to any pending or threatened legal proceedings that we believe would reasonably be expected to have a material adverse effect on our business, financial condition, results of operations, or cash flows.
+
+=== Q2 2026 ===
+Sources: filing_10-q-q2-2026.html | Presentation_1f63e464ebdfad80.html
+Investor presentation deck:
+  - • ~30 years of specialized engineering and fabrication experience • Expertise in alkali-metal systems, including sodium-related components • Supports Oklo on sodium-loop work, flow meters, pumps, and safety training • Generates positive free cash flow • Strengthens access to U.S.-based sodium systems expertise • Supports faster design-build-test cycles for reactor and fuel-cycle development • Enhances supply chain resilience for specialized systems and test infrastructure Acquisition overview Oklo’s strategic rationale These acquisitions strengthen Oklo’s execution engine across Power and Fuel • Adds specialized manufacturing, engineering, & prototyping capabilities • Brings experienced talent and supplier relationships into Oklo’s platform • Supports Oklo on critical component fabrication • Generates positive free cash flow • Strengthens supply chain resilience and execution readiness • Improves upstream manufacturing capabilities • Creates a closer feedback loop between design, fabrication, and deployment [Page 17] Oklo Fuel [Page 18] 18 Oklo’s fuel strategy reduces reliance on any single pathway. [Presentation_1f63e464ebdfad80.html]
+
+SEC filing evidence:
+  [MD&A]
+    - Cash Flows Comparison A summary of our consolidated sources and uses of cash and cash equivalents was as follows: 35 Table of Contents Six Months Ended June 30, (in thousands) 2026 2025 Net cash used in operating activities $ (65,459) $ (30,714) Net cash (used in) provided by investing activities (912,731) (280,696) Net cash provided by (used in) financing activities 1,851,349 441,049 Net increase (decrease) in cash, cash equivalents and restricted cash $ 873,159 $ 129,639 Cash, cash equivalents, and restricted cash, end of period $ 1,661,604 $ 226,771 Operating Activities Net cash used in operating activities was $65.5 million in 2026, compared to $30.7 million in 2025.
+    - Our powerhouses could be operating cash flow positive from the first year of operation due to our anticipated favorable unit economics.
+  [Financial Statements]
+    - Free Cash Flow: $-141.7M | vs prior quarter: $-50.7M (-179.6%) | vs prior year: $-19.3M (-632.3%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - Accordingly, they do not include all the information and footnotes necessary for a complete presentation of financial position, results of operations, or cash flows.
+    - In the opinion of management, the accompanying unaudited condensed consolidated financial statements include all adjustments, consisting of a normal recurring nature, which are necessary for a fair statement of the financial position, operating results, and cash flows for the periods presented.
+    - Cash outflows associated with construction deposits are presented as purchases of property, plant and equipment within investing activities in the condensed consolidated statements of cash flows.
+    - Abundantia's fair value was determined using a risk-adjusted cash flow approach applied to its potential cash flows, subject to obtaining a certain material handling permit required by the NRC.
+    - Meitner is expected to produce revenue once a facility is constructed, with its fair value determined using a risk-adjusted cash flow approach applied to its cash flows, subject to approval of an application for a construction license and operating license by the NRC.
+    - Each project has a different risk profile, cash flows, and its own unique process.
+  [Legal Proceedings]
+    - We are not currently subject to any pending or threatened legal proceedings that we believe would reasonably be expected to have a material adverse effect on our business, financial condition, results of operations, or cash flows.
+
+=== Q3 2026 ===
+Sources: transcript_oklo-q3-2026.html | filing_10-q-q3-2026.html | Presentation_454f761b79fd98db.html
+Management commentary:
+  - That included $965.1 million of net cash used for purchases of marketable securities related to the cash generated from our ATM program.
+  - Cash used in investing activities was $1.3 billion.
+SEC filing evidence:
+  [MD&A]
+    - Cash Flows Comparison A summary of our consolidated sources and uses of cash and cash equivalents was as follows: Nine Months Ended September 30, (in thousands) 2026 2025 Net cash used in operating activities $ (110,941) $ (48,745) Net cash used in investing activities (1,298,582) (605,906) Net cash provided by financing activities 2,253,039 967,560 Net increase in cash, cash equivalents and restricted cash $ 843,516 $ 312,909 Cash, cash equivalents, and restricted cash, end of period $ 1,631,961 $ 410,041 Operating Activities Net cash used in operating activities was $110.9 million in 2026, compared to $48.7 million in 2025.
+    - Our powerhouses could be operating cash flow positive from the first year of operation due to our anticipated favorable unit economics.
+  [Financial Statements]
+    - Free Cash Flow: $-199.5M | vs prior quarter: $-141.7M (-40.8%) | vs prior year: $-23.1M (-764.3%)
+    - 1 real filing table(s) available (see the HTML report).
+  [Footnotes]
+    - Accordingly, they do not include all the information and footnotes necessary for a complete presentation of financial position, results of operations, or cash flows.
+    - In the opinion of management, the accompanying unaudited condensed consolidated financial statements include all adjustments, consisting of a normal recurring nature, which are necessary for a fair statement of the financial position, operating results, and cash flows for the periods presented.
+    - Cash outflows associated with construction deposits are presented as purchases of property, plant and equipment within investing activities in the condensed consolidated statements of cash flows.
+    - Abundantia's fair value was determined using a risk-adjusted cash flow approach applied to its potential cash flows, subject to obtaining certain material handling permits required by the NRC.
+    - Meitner is expected to produce revenue once a commercial-scale VIPR facility is constructed, with its fair value determined using a risk-adjusted cash flow approach applied to its cash flows, subject to approval of construction and operating licenses by the NRC.
+    - Each project has a different risk profile, cash flows, and its own unique process.
+
+
+--- Consolidated risk disclosures ---
+If we are unable to meet the demands of a rapidly evolving market or if our estimates of the market opportunity, including forecasts of the demand for our power, prove to be incorrect, our commercialization may be delayed and our future revenues and cash flows may be lower than anticipated, which could have a material adverse effect on our business, results of operations, and financial condition.
+  Q3 2026: filing_10-q-q3-2026.html
+DocuLens v2.7.419 · by Luciano Rahal
